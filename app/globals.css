@@ -47,16 +47,16 @@ button { cursor:pointer; }
 .card-heading h2 { margin:3px 0 0; font-size:25px; }
 .card-heading h2 strong { color:#e45c40; font-size:36px; }
 .card-heading .status-chip { padding:7px 9px; color:#eedbb9; border:1px solid rgba(222,190,139,.4); border-radius:999px; letter-spacing:0; white-space:nowrap; }
-.stats-grid { padding:12px 18px 8px; }
-.stat-row { min-height:49px; display:grid; grid-template-columns:38px 1fr auto; align-items:center; gap:10px; border-bottom:1px solid rgba(98,71,59,.18); }
+.stats-grid { min-height:0; flex:1; display:flex; flex-direction:column; padding:12px 18px 8px; }
+.stat-row { min-height:0; flex:1; display:grid; grid-template-columns:38px 1fr auto; align-items:center; gap:10px; border-bottom:1px solid rgba(98,71,59,.18); }
 .stat-row>span:nth-child(2) { color:#4c4140; font-weight:700; }
 .stat-row strong { font-size:20px; font-variant-numeric:tabular-nums; }
 .grade { width:31px; height:31px; display:grid; place-items:center; color:#fff; border-radius:50% 42% 48% 40%; font-weight:800; transform:rotate(-7deg); }
 .grade-s { background:#d09019; }.grade-a{background:#7459a8}.grade-b{background:#2a8d83}.grade-c{background:#469f37}
-.stat-row.secondary { grid-template-columns:1fr auto; min-height:38px; }
+.stat-row.secondary { grid-template-columns:1fr auto; min-height:0; }
 .stat-row.secondary span { color:#625554; font-size:13px; }
 .stat-row.secondary strong { color:#9e4234; font-size:16px; }
-.skills-dock { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-top:auto; padding:16px 18px; background:rgba(85,55,42,.08); border-top:1px solid rgba(98,71,59,.15); }
+.skills-dock { flex:0 0 auto; display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-top:auto; padding:16px 18px; background:rgba(85,55,42,.08); border-top:1px solid rgba(98,71,59,.15); }
 .skills-dock button { position:relative; min-width:0; padding:6px 4px 8px; color:#4b3435; background:transparent; border:1px solid transparent; border-radius:12px; }
 .skills-dock button.selected { background:rgba(255,251,238,.7); border-color:#bf8859; box-shadow:0 0 0 3px rgba(183,69,56,.13); }
 .skills-dock b { position:absolute; top:0; right:10%; width:23px; height:23px; display:grid; place-items:center; color:#fff5df; background:#3a292a; border:1px solid #cca766; border-radius:50%; font-size:12px; }
