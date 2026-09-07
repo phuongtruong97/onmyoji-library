@@ -14,31 +14,36 @@
       "key": "atk",
       "label": "CÔNG",
       "value": 2224,
-      "grade": "C"
+      "grade": "C",
+      "source": "screenshot"
     },
     {
       "key": "hp",
       "label": "MÁU",
       "value": 13557,
-      "grade": "S"
+      "grade": "S",
+      "source": "screenshot"
     },
     {
       "key": "def",
       "label": "THỦ",
       "value": 432,
-      "grade": "B"
+      "grade": "B",
+      "source": "screenshot"
     },
     {
       "key": "spd",
       "label": "TỐC ĐỘ",
       "value": 108,
-      "grade": "A"
+      "grade": "A",
+      "source": "game"
     },
     {
       "key": "crit",
       "label": "CHÍ MẠNG",
       "value": "10%",
-      "grade": "S"
+      "grade": "S",
+      "source": "game"
     }
   ],
   "secondaryStats": [
@@ -150,9 +155,9 @@
         "zh": "一起来纺织与我的缘分！"
       },
       "description": {
-        "vi": "[tips_11]. Nhận [tips_14] duy trì 1 lượt cùng 1 tầng [buff_5541_1] và trị liệu cho mục tiêu phe ta lượng HP bằng [s_参数p2_per] giới hạn HP, nếu khi trị liệu HP của mục tiêu là 100%, khi trị liệu đính kèm thêm Lá chắn bằng 8% giới hạn HP, duy trì 2 lượt; nếu trị liệu Bạo kích sẽ tăng thêm Sát Thương Bạo Kích cho mục tiêu đó, lượng tăng bằng 40% Sát Thương Bạo Kích của bản thân, tăng tối đa 110% Sát Thương Bạo Kích, duy trì 1 lượt; khiến mục tiêu nhận [tips_14] duy trì 1 lượt và có 50% xác suất nhận [buff_5544_1], 50% xác suất nhận [buff_5545_1], đều duy trì 1 lượt; mục tiêu sở hữu [buff_5544_1] hoặc [buff_5545_1] khi bắt đầu lượt lập tức nhận 1 điểm Quỷ Hỏa.\nKhi [buff_5541_1] của bản thân đạt từ 3 tầng trở lên, trị liệu thêm cho các mục tiêu phe ta ngoài mục tiêu đã chọn lượng HP bằng [s_参数p4_per] giới hạn HP.\nKhi [buff_5541_1] của bản thân đạt 5 tầng, khiến mục tiêu đồng thời nhận hiệu ứng của [buff_5544_1] và [buff_5545_1].",
-        "en": "[tips_11]. Grants her [tips_14] (sustainable for 1 turn) and 1 [buff_5541_1] stack, and heals 1 ally by [s_参数p2_per] of their max HP. When healing the ally, if their HP is at 100%, also creates a shield for them, absorbing damage equal to 8% of their max HP and lasting 2 turns. If the healing crits, also increases their Crit DMG by 40% of her own Crit DMG (max 110% Crit DMG increase) for 1 turn. Then grants the ally [tips_14] sustainable for 1 turn.) They have a 50% chance of gaining [buff_5544_1] or a 50% chance of gaining [buff_5545_1]. Both last 1 turn. Allies with [buff_5544_1] or [buff_5545_1] grant you 1 orb at the start of their turn.\nIf she has 3 or more [buff_5541_1] stacks, also heals another ally by [s_参数p4_per] of their max HP.\nIf she has 5 [buff_5541_1] stacks, the ally gains both the effects of [buff_5544_1] and [buff_5545_1].",
-        "zh": "[tips_11]。获得维持1回合的[tips_14]与1层[buff_5541_1]并治疗友方目标生命上限[s_参数p2_per]的生命，若治疗时目标生命为100%，则治疗时额外施加生命上限8%的护盾，持续2回合；若治疗暴击则额外提升该目标暴击伤害，提升量为自身暴击伤害的40%，至多提升110%暴击伤害，维持1回合；使其获得维持1回合的[tips_14]并有50%概率获得[buff_5544_1]，有50%概率获得[buff_5545_1]，均持续1回合；拥有[buff_5544_1]或[buff_5545_1]的目标回合开始时立即获得1点鬼火。\n自身[buff_5541_1]3层及以上时，额外治疗所选目标以外的友方目标生命上限[s_参数p4_per]的生命。\n自身[buff_5541_1]5层时，使目标同时获得[buff_5544_1]与[buff_5545_1]的效果。"
+        "vi": "[tips_11]. Nhận [tips_14] duy trì 1 lượt cùng 1 tầng [buff_5541_1] và trị liệu cho mục tiêu phe ta lượng HP bằng 8% giới hạn HP, nếu khi trị liệu HP của mục tiêu là 100%, khi trị liệu đính kèm thêm Lá chắn bằng 8% giới hạn HP, duy trì 2 lượt; nếu trị liệu Bạo kích sẽ tăng thêm Sát Thương Bạo Kích cho mục tiêu đó, lượng tăng bằng 40% Sát Thương Bạo Kích của bản thân, tăng tối đa 110% Sát Thương Bạo Kích, duy trì 1 lượt; khiến mục tiêu nhận [tips_14] duy trì 1 lượt và có 50% xác suất nhận [buff_5544_1], 50% xác suất nhận [buff_5545_1], đều duy trì 1 lượt; mục tiêu sở hữu [buff_5544_1] hoặc [buff_5545_1] khi bắt đầu lượt lập tức nhận 1 điểm Quỷ Hỏa.\nKhi [buff_5541_1] của bản thân đạt từ 3 tầng trở lên, trị liệu thêm cho các mục tiêu phe ta ngoài mục tiêu đã chọn lượng HP bằng 8% giới hạn HP.\nKhi [buff_5541_1] của bản thân đạt 5 tầng, khiến mục tiêu đồng thời nhận hiệu ứng của [buff_5544_1] và [buff_5545_1].",
+        "en": "[tips_11]. Grants her [tips_14] (sustainable for 1 turn) and 1 [buff_5541_1] stack, and heals 1 ally by 8% of their max HP. When healing the ally, if their HP is at 100%, also creates a shield for them, absorbing damage equal to 8% of their max HP and lasting 2 turns. If the healing crits, also increases their Crit DMG by 40% of her own Crit DMG (max 110% Crit DMG increase) for 1 turn. Then grants the ally [tips_14] sustainable for 1 turn.) They have a 50% chance of gaining [buff_5544_1] or a 50% chance of gaining [buff_5545_1]. Both last 1 turn. Allies with [buff_5544_1] or [buff_5545_1] grant you 1 orb at the start of their turn.\nIf she has 3 or more [buff_5541_1] stacks, also heals another ally by 8% of their max HP.\nIf she has 5 [buff_5541_1] stacks, the ally gains both the effects of [buff_5544_1] and [buff_5545_1].",
+        "zh": "[tips_11]。获得维持1回合的[tips_14]与1层[buff_5541_1]并治疗友方目标生命上限8%的生命，若治疗时目标生命为100%，则治疗时额外施加生命上限8%的护盾，持续2回合；若治疗暴击则额外提升该目标暴击伤害，提升量为自身暴击伤害的40%，至多提升110%暴击伤害，维持1回合；使其获得维持1回合的[tips_14]并有50%概率获得[buff_5544_1]，有50%概率获得[buff_5545_1]，均持续1回合；拥有[buff_5544_1]或[buff_5545_1]的目标回合开始时立即获得1点鬼火。\n自身[buff_5541_1]3层及以上时，额外治疗所选目标以外的友方目标生命上限8%的生命。\n自身[buff_5541_1]5层时，使目标同时获得[buff_5544_1]与[buff_5545_1]的效果。"
       },
       "upgrades": [
         {
@@ -276,5 +281,6 @@
         "zh": "冰冻、沉睡、混乱、嘲讽、沉默、禁锢、缴械、变形、眩晕、挑衅、深度冰冻、影缚、霜冻、拘魂、沉沦、冰眠以上均属于控制效果，后九者无法被驱散，霜冻无法被解除。"
       }
     }
-  }
+  },
+  "unresolvedTokens": []
 }

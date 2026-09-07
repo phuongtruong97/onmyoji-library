@@ -31,6 +31,16 @@ export default function ShikigamiView() {
     const match = skill.description[language].match(/\[([^\]]+)\]/g)?.map((value) => value.slice(1, -1)).find((token) => glossary[token]);
     setActiveToken(match || null);
   }, [activeSkill, language, skill.description]);
+  useEffect(() => {
+    if (!activeToken) return;
+    const closeWhenOutside = (event: PointerEvent) => {
+      const target = event.target;
+      if (target instanceof Element && (target.closest('.glossary-popover') || target.closest('.game-token'))) return;
+      setActiveToken(null);
+    };
+    document.addEventListener('pointerdown', closeWhenOutside);
+    return () => document.removeEventListener('pointerdown', closeWhenOutside);
+  }, [activeToken]);
   const matches = useMemo(() => [data.name.vi, data.name.en, data.name.zh].some(
     (name) => name.toLocaleLowerCase().includes(query.trim().toLocaleLowerCase())), [query]);
 
@@ -64,7 +74,7 @@ export default function ShikigamiView() {
           <div className="skills-dock" aria-label="Danh sách kỹ năng">
             {data.skills.map((item, index) => <button key={item.id} className={index === activeSkill ? 'selected' : ''} onClick={() => setActiveSkill(index)} aria-label={`${item.name.vi}, cấp ${item.maxLevel}`}><span className={`skill-glyph glyph-${index + 1}`}>{item.id.toString().slice(-1)}</span><b>{item.maxLevel}</b><small>{item.name[language]}</small></button>)}
           </div>
-          <div className="source-note"><Info size={14} /> Chỉ số cơ bản cấp 40, không cộng Ngự Hồn</div>
+          <div className="source-note"><Info size={14} /> Công/Máu/Thủ đối chiếu từ ảnh; Tốc độ/Chí mạng lấy từ dữ liệu game</div>
         </section>
 
         <article className="skill-scroll">
