@@ -219,9 +219,9 @@
         "zh": "尘缘·赤"
       },
       "description": {
-        "vi": "Sau khi kết thúc hiệp lập tức nhận 1 hiệp, đồng thời Quỷ Hỏa tiêu hao khi [thi triển] kỹ năng yêu thuật ở hiệp mới giảm 2 điểm. [extra_ (không thể kích hoạt liên tục hiệu quả này)]",
-        "en": "Immediately grants a new turn after the turn ends. Reduces the orb cost of skills in the new turn by 2.[extra_ (These effects cannot trigger repeatedly.)]",
-        "zh": "回合结束后立即获得1个回合，且新回合施放妖术技能消耗的鬼火减少2点。[extra_（无法连续触发此效果）]"
+        "vi": "Sau khi kết thúc hiệp lập tức nhận 1 hiệp, đồng thời Quỷ Hỏa tiêu hao khi [thi triển] kỹ năng yêu thuật ở hiệp mới giảm 2 điểm. (không thể kích hoạt liên tục hiệu quả này)",
+        "en": "Immediately grants a new turn after the turn ends. Reduces the orb cost of skills in the new turn by 2.(These effects cannot trigger repeatedly.)",
+        "zh": "回合结束后立即获得1个回合，且新回合施放妖术技能消耗的鬼火减少2点。（无法连续触发此效果）"
       }
     },
     "buff_5545_1": {
@@ -253,9 +253,9 @@
     "tips_14": {
       "kind": "tip",
       "title": {
-        "vi": "",
-        "en": "",
-        "zh": ""
+        "vi": "Che Chở",
+        "en": "Shelter",
+        "zh": "庇护"
       },
       "description": {
         "vi": "Có thể đỡ toàn bộ hiệu ứng khống chế và trục xuất trong một lần kỹ năng.",
