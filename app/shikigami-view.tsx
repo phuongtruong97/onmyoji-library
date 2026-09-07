@@ -2,7 +2,7 @@
 
 import { ChevronLeft, ChevronRight, Flame, Info, Search, Sparkles } from 'lucide-react';
 import { useMemo, useState } from 'react';
-import data from '../public/data/shikigami-554.json';
+import data from './data/shikigami-554.json';
 
 type Language = 'vi' | 'en' | 'zh';
 const languages: { id: Language; label: string }[] = [
