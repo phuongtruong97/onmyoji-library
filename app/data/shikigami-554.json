@@ -14,36 +14,31 @@
       "key": "atk",
       "label": "CÔNG",
       "value": 2224,
-      "grade": "C",
-      "source": "screenshot"
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 13557,
-      "grade": "S",
-      "source": "screenshot"
+      "value": 13556,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
       "value": 432,
-      "grade": "B",
-      "source": "screenshot"
+      "grade": "B"
     },
     {
       "key": "spd",
       "label": "TỐC ĐỘ",
       "value": 108,
-      "grade": "A",
-      "source": "game"
+      "grade": "A"
     },
     {
       "key": "crit",
       "label": "CHÍ MẠNG",
       "value": "10%",
-      "grade": "S",
-      "source": "game"
+      "grade": "S"
     }
   ],
   "secondaryStats": [
@@ -115,7 +110,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5541"
+      "iconKey": "5541",
+      "iconSource": {
+        "archive": "tex_res.npk",
+        "gameKey": "5541"
+      }
     },
     {
       "id": 5542,
@@ -138,7 +137,11 @@
       },
       "upgrades": [],
       "orbCost": 1,
-      "iconKey": "5542"
+      "iconKey": "5542",
+      "iconSource": {
+        "archive": "tex_res.npk",
+        "gameKey": "5542"
+      }
     },
     {
       "id": 5543,
@@ -194,13 +197,27 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5543"
+      "iconKey": "5543",
+      "iconSource": {
+        "archive": "tex_res.npk",
+        "gameKey": "5543"
+      }
     }
   ],
   "source": {
     "workbook": "Onmyoji_VietHoa_P1.xlsx",
     "heroTable": "com/data/cdata_en/hero.py",
-    "statsNote": "Công, Máu và Thủ đang dùng số cấp 40 đã đối chiếu từ ảnh mẫu; các chỉ số còn lại lấy từ bảng hero."
+    "growthTable": "com/data/cdata/growth.py",
+    "gradeTable": "com/data/cdata_en/ui_score.py",
+    "assetKeys": {
+      "portrait": "sp_yuanjieshen",
+      "armature": [
+        "sp_yuanjieshen_ani",
+        0,
+        1
+      ],
+      "artName": "txt_zhanshi_spyuanjieshen"
+    }
   },
   "glossary": {
     "buff_5541_1": {

@@ -1,6 +1,6 @@
 'use client';
 
-import { ChevronLeft, ChevronRight, Flame, Info, Search, Sparkles, X } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Flame, Search, X } from 'lucide-react';
 import { useEffect, useMemo, useState } from 'react';
 import data from './data/shikigami-554.json';
 
@@ -61,7 +61,7 @@ export default function ShikigamiView() {
           <div className="rarity">{data.rarity}</div>
           <div className="identity-copy"><span>Thức thần #{data.id}</span><h1>{data.name[language]}</h1><p>{language === 'vi' ? data.name.en : data.name.vi}</p></div>
           <button className="switch-arrow left" aria-label="Thức thần trước"><ChevronLeft /></button>
-          <div className="character-frame"><img src="/reference-554.jpg" alt="Phưởng Nguyện Duyên Kết Thần trong game" /><div className="character-fade" /><div className="image-note"><Sparkles size={15} /> Ảnh mẫu • sẽ thay bằng tài nguyên gốc</div></div>
+          <div className="character-frame"><img src="/reference-554.jpg" alt={data.name[language]} /><div className="character-fade" /></div>
           <button className="switch-arrow right" aria-label="Thức thần sau"><ChevronRight /></button>
         </aside>
 
@@ -74,7 +74,6 @@ export default function ShikigamiView() {
           <div className="skills-dock" aria-label="Danh sách kỹ năng">
             {data.skills.map((item, index) => <button key={item.id} className={index === activeSkill ? 'selected' : ''} onClick={() => setActiveSkill(index)} aria-label={`${item.name.vi}, cấp ${item.maxLevel}`}><span className={`skill-glyph glyph-${index + 1}`}>{item.id.toString().slice(-1)}</span><b>{item.maxLevel}</b><small>{item.name[language]}</small></button>)}
           </div>
-          <div className="source-note"><Info size={14} /> Công/Máu/Thủ đối chiếu từ ảnh; Tốc độ/Chí mạng lấy từ dữ liệu game</div>
         </section>
 
         <article className="skill-scroll">
@@ -86,7 +85,7 @@ export default function ShikigamiView() {
             <button className="close-popover" onClick={() => setActiveToken(null)} aria-label="Đóng giải thích"><X size={16} /></button>
             <span className={`glossary-kind ${glossary[activeToken].kind}`}>{glossary[activeToken].kind === 'buff' ? 'BUFF / DẤU ẤN' : 'THUẬT NGỮ'}</span>
             <h3>{glossary[activeToken].title[language] || `[${activeToken}]`}</h3>
-            <p>{glossary[activeToken].description[language]}</p>
+            <p><RichText text={glossary[activeToken].description[language]} language={language} onToken={setActiveToken} /></p>
           </aside>}
         </article>
       </section>}
