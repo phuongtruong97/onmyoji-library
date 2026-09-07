@@ -28,10 +28,6 @@ export default function ShikigamiView() {
   const [activeToken, setActiveToken] = useState<string | null>(null);
   const skill = data.skills[activeSkill];
   useEffect(() => {
-    const match = skill.description[language].match(/\[([^\]]+)\]/g)?.map((value) => value.slice(1, -1)).find((token) => glossary[token]);
-    setActiveToken(match || null);
-  }, [activeSkill, language, skill.description]);
-  useEffect(() => {
     if (!activeToken) return;
     const closeWhenOutside = (event: PointerEvent) => {
       const target = event.target;
@@ -51,7 +47,7 @@ export default function ShikigamiView() {
       <div className="brand-lockup"><span>ONMYOJI • THƯ VIỆN THỨC THẦN</span><strong>Thông tin kỹ năng</strong></div>
       <label className="searchbox"><Search size={18} /><input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Tìm tên Việt, Anh hoặc Trung" aria-label="Tìm thức thần" /></label>
       <div className="language-tabs" role="group" aria-label="Ngôn ngữ hiển thị">
-        {languages.map((item) => <button key={item.id} className={language === item.id ? 'active' : ''} onClick={() => setLanguage(item.id)}>{item.label}</button>)}
+        {languages.map((item) => <button key={item.id} className={language === item.id ? 'active' : ''} onClick={() => { setActiveToken(null); setLanguage(item.id); }}>{item.label}</button>)}
       </div>
     </header>
 
@@ -72,7 +68,7 @@ export default function ShikigamiView() {
             {data.secondaryStats.map((stat) => <div className="stat-row secondary" key={stat.label}><span>{stat.label}</span><strong>{stat.value}</strong></div>)}
           </div>
           <div className="skills-dock" aria-label="Danh sách kỹ năng">
-            {data.skills.map((item, index) => <button key={item.id} className={index === activeSkill ? 'selected' : ''} onClick={() => setActiveSkill(index)} aria-label={`${item.name.vi}, cấp ${item.maxLevel}`}><span className={`skill-glyph glyph-${index + 1}`}>{item.id.toString().slice(-1)}</span><b>{item.maxLevel}</b><small>{item.name[language]}</small></button>)}
+            {data.skills.map((item, index) => <button key={item.id} className={index === activeSkill ? 'selected' : ''} onClick={() => { setActiveToken(null); setActiveSkill(index); }} aria-label={`${item.name.vi}, cấp ${item.maxLevel}`}><span className={`skill-glyph glyph-${index + 1}`}>{item.id.toString().slice(-1)}</span><b>{item.maxLevel}</b><small>{item.name[language]}</small></button>)}
           </div>
         </section>
 
