@@ -78,19 +78,35 @@
       "upgrades": [
         {
           "level": 2,
-          "text": "Sát thương tăng lên 105%"
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%",
+            "zh": "伤害提升至105%"
+          }
         },
         {
           "level": 3,
-          "text": "Sát thương tăng lên 110%"
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害提升至110%"
+          }
         },
         {
           "level": 4,
-          "text": "Sát thương tăng lên 115%"
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害提升至115%"
+          }
         },
         {
           "level": 5,
-          "text": "Sát thương tăng lên 125%, nhận 1 tầng [buff_5541_1]"
+          "text": {
+            "vi": "Sát thương tăng lên 125%, nhận 1 tầng [buff_5541_1]",
+            "en": "Increases the damage to 125% and grants 1 [buff_5541_1] stack.",
+            "zh": "伤害提升至125%，获得1层[buff_5541_1]"
+          }
         }
       ],
       "orbCost": 0,
@@ -141,19 +157,35 @@
       "upgrades": [
         {
           "level": 2,
-          "text": "Mục tiêu sở hữu [buff_5544_1] hoặc [buff_5545_1] khi bắt đầu lượt lập tức nhận 1 điểm Quỷ Hỏa"
+          "text": {
+            "vi": "Mục tiêu sở hữu [buff_5544_1] hoặc [buff_5545_1] khi bắt đầu lượt lập tức nhận 1 điểm Quỷ Hỏa",
+            "en": "Allies with [buff_5544_1] or [buff_5545_1] immediately grant you 1 orb at the start of their turn.",
+            "zh": "拥有[buff_5544_1]或[buff_5545_1]的目标回合开始时立即获得1点鬼火"
+          }
         },
         {
           "level": 3,
-          "text": "Khi thi triển đính kèm thêm [tips_14] cho bản thân và mục tiêu, duy trì 1 lượt"
+          "text": {
+            "vi": "Khi thi triển đính kèm thêm [tips_14] cho bản thân và mục tiêu, duy trì 1 lượt",
+            "en": "Using the skill also grants herself and the ally [tips_14] for 1 turn.",
+            "zh": "施放时额外为自身与目标施加[tips_14]，维持1回合"
+          }
         },
         {
           "level": 4,
-          "text": "Nếu khi trị liệu HP của mục tiêu là 100%, khi trị liệu đính kèm thêm Lá chắn bằng 8% giới hạn HP, duy trì 2 lượt"
+          "text": {
+            "vi": "Nếu khi trị liệu HP của mục tiêu là 100%, khi trị liệu đính kèm thêm Lá chắn bằng 8% giới hạn HP, duy trì 2 lượt",
+            "en": "When healing the ally, if their HP is at 100%, also creates a shield for them, absorbing damage equal to 8% of their max HP and lasting 2 turns.",
+            "zh": "若治疗时目标生命为100%，则治疗时额外施加生命上限8%的护盾，持续2回合"
+          }
         },
         {
           "level": 5,
-          "text": "Nếu trị liệu Bạo kích, tăng thêm Sát Thương Bạo Kích cho mục tiêu đó, lượng tăng bằng 40% Sát Thương Bạo Kích của bản thân, tăng tối đa 110% Sát Thương Bạo Kích, duy trì 1 lượt"
+          "text": {
+            "vi": "Nếu trị liệu Bạo kích, tăng thêm Sát Thương Bạo Kích cho mục tiêu đó, lượng tăng bằng 40% Sát Thương Bạo Kích của bản thân, tăng tối đa 110% Sát Thương Bạo Kích, duy trì 1 lượt",
+            "en": "If the healing crits, also increases their Crit DMG by 40% of her own Crit DMG (max 110% Crit DMG increase) for 1 turn.",
+            "zh": "若治疗暴击，则额外提升该目标暴击伤害，提升量为自身暴击伤害的40%，至多提升110%暴击伤害，维持1回合"
+          }
         }
       ],
       "orbCost": 2,
@@ -164,5 +196,85 @@
     "workbook": "Onmyoji_VietHoa_P1.xlsx",
     "heroTable": "com/data/cdata_en/hero.py",
     "statsNote": "Công, Máu và Thủ đang dùng số cấp 40 đã đối chiếu từ ảnh mẫu; các chỉ số còn lại lấy từ bảng hero."
+  },
+  "glossary": {
+    "buff_5541_1": {
+      "kind": "buff",
+      "title": {
+        "vi": "Thần Lực",
+        "en": "Divine Power",
+        "zh": "神力"
+      },
+      "description": {
+        "vi": "Giới hạn 5 tầng, mỗi tầng tăng 20% hiệu quả kháng của bản thân, đồng thời cường hóa hiệu quả 'Dữ Thế Kết Duyên' căn cứ theo số tầng hiện có.",
+        "en": "Max 5 stacks. Each stack increases her Effect RES by 20%. The effects of Bonding with the World increase with the stacks.",
+        "zh": "上限5层，每层提升自身20%效果抵抗，并根据已有层数强化『与世结缘』效果。"
+      }
+    },
+    "buff_5544_1": {
+      "kind": "buff",
+      "title": {
+        "vi": "Trần Duyên · Xích",
+        "en": "Red Earthly Bond",
+        "zh": "尘缘·赤"
+      },
+      "description": {
+        "vi": "Sau khi kết thúc hiệp lập tức nhận 1 hiệp, đồng thời Quỷ Hỏa tiêu hao khi [thi triển] kỹ năng yêu thuật ở hiệp mới giảm 2 điểm. [extra_ (không thể kích hoạt liên tục hiệu quả này)]",
+        "en": "Immediately grants a new turn after the turn ends. Reduces the orb cost of skills in the new turn by 2.[extra_ (These effects cannot trigger repeatedly.)]",
+        "zh": "回合结束后立即获得1个回合，且新回合施放妖术技能消耗的鬼火减少2点。[extra_（无法连续触发此效果）]"
+      }
+    },
+    "buff_5545_1": {
+      "kind": "buff",
+      "title": {
+        "vi": "Trần Duyên · Thanh",
+        "en": "Blue Earthly Bond",
+        "zh": "尘缘·青"
+      },
+      "description": {
+        "vi": "Khi bắt đầu hiệp giải tán 1 trạng thái giảm ích cùng [tips_3] cho toàn bộ đồng minh ngoài bản thân và tăng 50% giảm sát thương cho bản thân, hiệu quả giảm sát thương kéo dài cho đến khi hiệp kế tiếp của Phưởng Nguyện Duyên Kết Thần bắt đầu.",
+        "en": "At the start of the turn, dispels 1 debuff and 1 [tips_3] from each of all other allies and increases the unit's damage reduction by 50% until the start of Bondweaver Enmusubi's next turn.",
+        "zh": "回合开始时驱散自身以外的全体友方1个减益状态与[tips_3]并使自身减伤提升50%，减伤效果持续至纺愿缘结神下个回合开始。"
+      }
+    },
+    "tips_11": {
+      "kind": "tip",
+      "title": {
+        "vi": "Hiệu ứng duy nhất",
+        "en": "Effective Exclusively",
+        "zh": "唯一效果"
+      },
+      "description": {
+        "vi": "Nếu trên sân có nhiều Thức thần cùng tên, chỉ có kỹ năng này của một Thức thần có hiệu lực.",
+        "en": "If multiple shikigami of the same name are in your lineup, only one of those shikigami's skills will be effective.",
+        "zh": "若是有多个同名式神在场，只有其中一个式神的此技能会生效。"
+      }
+    },
+    "tips_14": {
+      "kind": "tip",
+      "title": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Có thể đỡ toàn bộ hiệu ứng khống chế và trục xuất trong một lần kỹ năng.",
+        "en": "Negates all controlling effects and Banish inflicted by a single skill.",
+        "zh": "可抵挡单次技能当中的所有控制效果和放逐。"
+      }
+    },
+    "tips_3": {
+      "kind": "tip",
+      "title": {
+        "vi": "Hiệu ứng khống chế",
+        "en": "Controlling Effect",
+        "zh": "控制效果"
+      },
+      "description": {
+        "vi": "Đóng Băng, Ngủ Say, Hỗn Loạn, Khiêu Khích, Câm Lặng, Giam Cầm, Tước Khí, Biến Hình, Choáng, Khiêu Chiến, Băng Đóng Sâu, Ảnh Phược, Sương Đông, Câu Hồn, Trầm Luân, Băng Miên đều thuộc hiệu ứng khống chế, chín hiệu ứng sau không thể bị giải trừ, Sương Đông không thể bị giải trừ hoàn toàn.",
+        "en": "Freeze, Sleep, Confuse, Taunt, Silence, Bound, Disarm, Morph, Daze, Provocation, Deep Freeze, Shadowbound, Frostbound, Fettered, Ruined, and Rest in Ice are controlling effects. The last nine cannot be dispelled. Frostbound cannot be removed.",
+        "zh": "冰冻、沉睡、混乱、嘲讽、沉默、禁锢、缴械、变形、眩晕、挑衅、深度冰冻、影缚、霜冻、拘魂、沉沦、冰眠以上均属于控制效果，后九者无法被驱散，霜冻无法被解除。"
+      }
+    }
   }
 }
