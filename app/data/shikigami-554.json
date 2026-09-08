@@ -111,6 +111,7 @@
       ],
       "orbCost": 0,
       "iconKey": "5541",
+      "icon": "/skill-icons/5541.png",
       "iconSource": {
         "archive": "tex_res.npk",
         "gameKey": "5541"
@@ -138,6 +139,7 @@
       "upgrades": [],
       "orbCost": 1,
       "iconKey": "5542",
+      "icon": "/skill-icons/5542.png",
       "iconSource": {
         "archive": "tex_res.npk",
         "gameKey": "5542"
@@ -198,6 +200,7 @@
       ],
       "orbCost": 2,
       "iconKey": "5543",
+      "icon": "/skill-icons/5543.png",
       "iconSource": {
         "archive": "tex_res.npk",
         "gameKey": "5543"
@@ -231,7 +234,9 @@
         "vi": "Giới hạn 5 tầng, mỗi tầng tăng 20% hiệu quả kháng của bản thân, đồng thời cường hóa hiệu quả 'Dữ Thế Kết Duyên' căn cứ theo số tầng hiện có.",
         "en": "Max 5 stacks. Each stack increases her Effect RES by 20%. The effects of Bonding with the World increase with the stacks.",
         "zh": "上限5层，每层提升自身20%效果抵抗，并根据已有层数强化『与世结缘』效果。"
-      }
+      },
+      "iconEx": 5541,
+      "icon": "/buff-icons/5541.png"
     },
     "buff_5544_1": {
       "kind": "buff",
@@ -244,7 +249,9 @@
         "vi": "Sau khi kết thúc hiệp lập tức nhận 1 hiệp, đồng thời Quỷ Hỏa tiêu hao khi [thi triển] kỹ năng yêu thuật ở hiệp mới giảm 2 điểm. (không thể kích hoạt liên tục hiệu quả này)",
         "en": "Immediately grants a new turn after the turn ends. Reduces the orb cost of skills in the new turn by 2.(These effects cannot trigger repeatedly.)",
         "zh": "回合结束后立即获得1个回合，且新回合施放妖术技能消耗的鬼火减少2点。（无法连续触发此效果）"
-      }
+      },
+      "iconEx": 5544,
+      "icon": "/buff-icons/5544.png"
     },
     "buff_5545_1": {
       "kind": "buff",
@@ -257,7 +264,9 @@
         "vi": "Khi bắt đầu hiệp giải tán 1 trạng thái giảm ích cùng [tips_3] cho toàn bộ đồng minh ngoài bản thân và tăng 50% giảm sát thương cho bản thân, hiệu quả giảm sát thương kéo dài cho đến khi hiệp kế tiếp của Phưởng Nguyện Duyên Kết Thần bắt đầu.",
         "en": "At the start of the turn, dispels 1 debuff and 1 [tips_3] from each of all other allies and increases the unit's damage reduction by 50% until the start of Bondweaver Enmusubi's next turn.",
         "zh": "回合开始时驱散自身以外的全体友方1个减益状态与[tips_3]并使自身减伤提升50%，减伤效果持续至纺愿缘结神下个回合开始。"
-      }
+      },
+      "iconEx": 5545,
+      "icon": "/buff-icons/5545.png"
     },
     "tips_11": {
       "kind": "tip",

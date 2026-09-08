@@ -9,7 +9,7 @@ const languages: { id: Language; label: string }[] = [
   { id: 'vi', label: 'Tiếng Việt' }, { id: 'en', label: 'English' }, { id: 'zh', label: '中文' },
 ];
 
-type GlossaryEntry = { kind: string; title: Record<Language, string>; description: Record<Language, string> };
+type GlossaryEntry = { kind: string; title: Record<Language, string>; description: Record<Language, string>; icon?: string; iconEx?: number };
 const glossary = data.glossary as Record<string, GlossaryEntry>;
 
 function RichText({ text, language, onToken }: { text: string; language: Language; onToken?: (token: string) => void }) {
@@ -68,19 +68,19 @@ export default function ShikigamiView() {
             {data.secondaryStats.map((stat) => <div className="stat-row secondary" key={stat.label}><span>{stat.label}</span><strong>{stat.value}</strong></div>)}
           </div>
           <div className="skills-dock" aria-label="Danh sách kỹ năng">
-            {data.skills.map((item, index) => <button key={item.id} className={index === activeSkill ? 'selected' : ''} onClick={() => { setActiveToken(null); setActiveSkill(index); }} aria-label={`${item.name.vi}, cấp ${item.maxLevel}`}><span className={`skill-glyph glyph-${index + 1}`}>{item.id.toString().slice(-1)}</span><b>{item.maxLevel}</b><small>{item.name[language]}</small></button>)}
+            {data.skills.map((item, index) => <button key={item.id} className={index === activeSkill ? 'selected' : ''} onClick={() => { setActiveToken(null); setActiveSkill(index); }} aria-label={`${item.name.vi}, cấp ${item.maxLevel}`}><span className={`skill-glyph glyph-${index + 1}`}><img src={item.icon} alt="" onError={(event) => { event.currentTarget.style.display = 'none'; event.currentTarget.parentElement?.classList.add('icon-missing'); }} /><i>{index + 1}</i></span><b>{item.maxLevel}</b><small>{item.name[language]}</small></button>)}
           </div>
         </section>
 
         <article className="skill-scroll">
-          <header className="skill-heading"><div className={`large-glyph glyph-${activeSkill + 1}`}>{skill.id.toString().slice(-1)}</div><div><span>KỸ NĂNG CẤP TỐI ĐA • Lv.{skill.maxLevel}</span><h2>{skill.name[language]}</h2><p>{skill.intro[language]}</p></div>{skill.orbCost > 0 && <div className="orb-cost"><Flame size={18} /> {skill.orbCost}</div>}</header>
+          <header className="skill-heading"><div className={`large-glyph glyph-${activeSkill + 1}`}><img src={skill.icon} alt="" onError={(event) => { event.currentTarget.style.display = 'none'; event.currentTarget.parentElement?.classList.add('icon-missing'); }} /><i>{activeSkill + 1}</i></div><div><span>KỸ NĂNG CẤP TỐI ĐA • Lv.{skill.maxLevel}</span><h2>{skill.name[language]}</h2><p>{skill.intro[language]}</p></div>{skill.orbCost > 0 && <div className="orb-cost"><Flame size={18} /> {skill.orbCost}</div>}</header>
           <div className="skill-body"><div className="skill-tags"><span>Chiến đấu</span><span>{skill.maxLevel > 1 ? 'Có thể nâng cấp' : 'Kỹ năng đặc biệt'}</span></div><p className="description"><RichText text={skill.description[language]} language={language} onToken={setActiveToken} /></p>
             {skill.upgrades.length > 0 && <div className="upgrade-list"><h3>{language === 'vi' ? 'Hiệu quả nâng cấp' : language === 'en' ? 'Upgrade effects' : '升级效果'}</h3>{skill.upgrades.map((upgrade) => <div key={upgrade.level}><b>Lv.{upgrade.level}</b><p><RichText text={upgrade.text[language]} language={language} onToken={setActiveToken} /></p></div>)}</div>}
           </div>
           {activeToken && glossary[activeToken] && <aside className="glossary-popover" aria-live="polite">
             <button className="close-popover" onClick={() => setActiveToken(null)} aria-label="Đóng giải thích"><X size={16} /></button>
             <span className={`glossary-kind ${glossary[activeToken].kind}`}>{glossary[activeToken].kind === 'buff' ? 'BUFF / DẤU ẤN' : 'THUẬT NGỮ'}</span>
-            <h3>{glossary[activeToken].title[language] || `[${activeToken}]`}</h3>
+            <div className="glossary-title">{glossary[activeToken].icon && <img src={glossary[activeToken].icon} alt="" />}<h3>{glossary[activeToken].title[language] || `[${activeToken}]`}</h3></div>
             <p><RichText text={glossary[activeToken].description[language]} language={language} onToken={setActiveToken} /></p>
           </aside>}
         </article>
