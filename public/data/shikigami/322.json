@@ -1,0 +1,402 @@
+{
+  "id": 322,
+  "name": {
+    "vi": "Luyện Ngục Tỳ Mộc Đồng Tử",
+    "en": "Inferno Ibaraki Doji",
+    "zh": "炼狱茨木童子"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3055,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9227,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 339,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 102,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "15%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3221,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quỷ Trảo",
+        "en": "Demonic Claw",
+        "zh": "鬼爪"
+      },
+      "intro": {
+        "vi": "呵，竟敢小看我。",
+        "en": "呵，竟敢小看我。",
+        "zh": "呵，竟敢小看我。"
+      },
+      "description": {
+        "vi": "挥动鬼爪猛烈攻击敌方目标，造成攻击125%伤害。",
+        "en": "挥动鬼爪猛烈攻击敌方目标，造成攻击125%伤害。",
+        "zh": "挥动鬼爪猛烈攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3221",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3222,
+      "maxLevel": 5,
+      "name": {
+        "vi": "狂意",
+        "en": "狂意",
+        "zh": "狂意"
+      },
+      "intro": {
+        "vi": "在这战意中颤抖吧！",
+        "en": "在这战意中颤抖吧！",
+        "zh": "在这战意中颤抖吧！"
+      },
+      "description": {
+        "vi": "Khi ngọn quỷ diệm của 『Luyện Ngục Chi Môn』 tấn công nhiều hơn 1 kẻ địch, mỗi khi có thêm 1 kẻ địch có thể làm quỷ diệm tăng 10% sát thương, giới hạn 50%. Nếu quỷ diệm hạ gục kẻ địch không phải vật triệu hồi, đòn tấn công sau đó của quỷ trảo sẽ đính kèm thêm một đòn sát thương, bằng tổng sát thương dư thừa trước đó của quỷ diệm.",
+        "en": "When the demonic flame from Inferno Gate would attack more than 1 enemy, for each extra enemy, increases the damage of the demonic flame by 10% to a max of 50% increased. If the demonic flame KO's a non-summoned enemy entity, the Demonic Arm attack that follows inflicts an extra attack, dealing damage equal to the total excess damage from the previous demonic flame.",
+        "zh": "当『炼狱之门』的鬼焰将攻击超过1名敌方时，每有1个额外敌方可使鬼焰提升10%伤害，上限50%。若鬼焰击败非召唤物的敌方，其后鬼手的攻击将额外附加一段伤害，等同先前鬼焰过量伤害的总和。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Giới hạn tăng lên 30%",
+            "en": "Increases the extra damage inflicted to a max of 30%.",
+            "zh": "上限增至30%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Giới hạn tăng lên 30%",
+            "en": "Increases the extra damage inflicted to a max of 30%.",
+            "zh": "上限增至30%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Giới hạn tăng lên 30%",
+            "en": "Increases the extra damage inflicted to a max of 30%.",
+            "zh": "上限增至30%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Giới hạn tăng lên 40%",
+            "en": "Increases the extra damage inflicted to a max of 40%.",
+            "zh": "上限增至40%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Giới hạn tăng lên 40%",
+            "en": "Increases the extra damage inflicted to a max of 40%.",
+            "zh": "上限增至40%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Giới hạn tăng lên 40%",
+            "en": "Increases the extra damage inflicted to a max of 40%.",
+            "zh": "上限增至40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giới hạn tăng lên 50%",
+            "en": "Increases the extra damage inflicted to a max of 50%.",
+            "zh": "上限增至50%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giới hạn tăng lên 50%",
+            "en": "Increases the extra damage inflicted to a max of 50%.",
+            "zh": "上限增至50%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giới hạn tăng lên 50%",
+            "en": "Increases the extra damage inflicted to a max of 50%.",
+            "zh": "上限增至50%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu quỷ diệm hạ gục kẻ địch không phải vật triệu hồi, đòn tấn công sau đó của quỷ trảo sẽ đính kèm thêm một đòn sát thương, bằng tổng sát thương dư thừa trước đó của quỷ diệm",
+            "en": "If the demonic flame KO's a non-summoned enemy entity, the Demonic Arm attack that follows inflicts an extra attack, dealing damage equal to the total excess damage from the previous demonic flame.",
+            "zh": "若鬼焰击败非召唤物的敌方，其后鬼手的攻击将额外附加一段伤害，等同先前鬼焰过量伤害的总和"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu quỷ diệm hạ gục kẻ địch không phải vật triệu hồi, đòn tấn công sau đó của quỷ trảo sẽ đính kèm thêm một đòn sát thương, bằng tổng sát thương dư thừa trước đó của quỷ diệm",
+            "en": "If the demonic flame KO's a non-summoned enemy entity, the Demonic Arm attack that follows inflicts an extra attack, dealing damage equal to the total excess damage from the previous demonic flame.",
+            "zh": "若鬼焰击败非召唤物的敌方，其后鬼手的攻击将额外附加一段伤害，等同先前鬼焰过量伤害的总和"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu quỷ diệm hạ gục kẻ địch không phải vật triệu hồi, đòn tấn công sau đó của quỷ trảo sẽ đính kèm thêm một đòn sát thương, bằng tổng sát thương dư thừa trước đó của quỷ diệm",
+            "en": "If the demonic flame KO's a non-summoned enemy entity, the Demonic Arm attack that follows inflicts an extra attack, dealing damage equal to the total excess damage from the previous demonic flame.",
+            "zh": "若鬼焰击败非召唤物的敌方，其后鬼手的攻击将额外附加一段伤害，等同先前鬼焰过量伤害的总和"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3222",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 3223,
+      "maxLevel": 5,
+      "name": {
+        "vi": "炼狱之门",
+        "en": "炼狱之门",
+        "zh": "炼狱之门"
+      },
+      "intro": {
+        "vi": "不堪一击！",
+        "en": "不堪一击！",
+        "zh": "不堪一击！"
+      },
+      "description": {
+        "vi": "催动强劲的妖力，打开炼狱之门，号令汹涌而出的鬼焰对敌方全体造成攻击164%伤害，然后召唤出巨大的鬼手粉碎敌方目标，造成攻击164%伤害。\n若所选目标被鬼焰击败，鬼手会攻击生命最高的敌方。",
+        "en": "催动强劲的妖力，打开炼狱之门，号令汹涌而出的鬼焰对敌方全体造成攻击164%伤害，然后召唤出巨大的鬼手粉碎敌方目标，造成攻击164%伤害。\n若所选目标被鬼焰击败，鬼手会攻击生命最高的敌方。",
+        "zh": "催动强劲的妖力，打开炼狱之门，号令汹涌而出的鬼焰对敌方全体造成攻击164%伤害，然后召唤出巨大的鬼手粉碎敌方目标，造成攻击164%伤害。\n若所选目标被鬼焰击败，鬼手会攻击生命最高的敌方。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương quỷ diệm và quỷ trảo tăng lên 138%",
+            "en": "Increases damage from demonic flame and demonic arm to 138%.",
+            "zh": "鬼焰和鬼手伤害增加至138%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "鬼焰和鬼手伤害增加至145%",
+            "en": "鬼焰和鬼手伤害增加至145%",
+            "zh": "鬼焰和鬼手伤害增加至145%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "鬼焰和鬼手伤害增加至151%",
+            "en": "鬼焰和鬼手伤害增加至151%",
+            "zh": "鬼焰和鬼手伤害增加至151%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "鬼焰和鬼手伤害增加至164%",
+            "en": "鬼焰和鬼手伤害增加至164%",
+            "zh": "鬼焰和鬼手伤害增加至164%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3223",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_cimutongzi",
+    "headKey": "j_spcimutongzi",
+    "armature": "",
+    "artName": "txt_zhanshi_lianyucimutongzi",
+    "skillIconKeys": [
+      "3221",
+      "3222",
+      "3223"
+    ]
+  },
+  "unresolvedTokens": []
+}

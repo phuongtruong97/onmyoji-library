@@ -1,0 +1,364 @@
+{
+  "id": 312,
+  "name": {
+    "vi": "Quỷ Thiết",
+    "en": "Onikiri",
+    "zh": "鬼切"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 29]",
+    "en": "[1, 29]",
+    "zh": "[1, 29]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3081,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9683,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 308,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 107,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "11%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "160%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3121,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quỷ Trảm",
+        "en": "Demonic Slash",
+        "zh": "鬼斩"
+      },
+      "intro": {
+        "vi": "人与鬼，从来没有共生的年代。",
+        "en": "人与鬼，从来没有共生的年代。",
+        "zh": "人与鬼，从来没有共生的年代。"
+      },
+      "description": {
+        "vi": "Rút ngẫu nhiên một trong ba thanh đao [tips_3121], [tips_3122], [tips_3123] chém mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công, đồng thời kích hoạt hiệu ứng tương ứng.",
+        "en": "Draws 1 random blade from [tips_3121], [tips_3122], and [tips_3123] to slash the enemy target, dealing damage equal to 100% of ATK and activating its matching effect.",
+        "zh": "拔出[tips_3121]、[tips_3122]、[tips_3123]三把佩刀中的随机一把砍击敌方目标，造成攻击100%伤害，并激活对应效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至84%",
+            "en": "伤害增加至84%",
+            "zh": "伤害增加至84%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至88%",
+            "en": "伤害增加至88%",
+            "zh": "伤害增加至88%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至92%",
+            "en": "伤害增加至92%",
+            "zh": "伤害增加至92%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3121",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3122,
+      "maxLevel": 5,
+      "name": {
+        "vi": "鬼刃·罗城门",
+        "en": "鬼刃·罗城门",
+        "zh": "鬼刃·罗城门"
+      },
+      "intro": {
+        "vi": "吾名为鬼切，斩尽天下恶鬼之刃。",
+        "en": "吾名为鬼切，斩尽天下恶鬼之刃。",
+        "zh": "吾名为鬼切，斩尽天下恶鬼之刃。"
+      },
+      "description": {
+        "vi": "Sau khi tấn công, nếu HP của mục tiêu thấp hơn 85%, đánh truy kích thêm 1 đòn chém lên kẻ đó, gây sát thương bằng 125% Tấn công. Sau đó nếu HP của mục tiêu đó vẫn thấp hơn 65%, lại đánh truy kích thêm 1 đòn chém lên toàn bộ phe địch, gây sát thương bằng 125% Tấn công.\nĐòn chém truy kích bỏ qua [tips_6], không thể gánh chịu thay, không kích hoạt Ngự Hồn và Nội Tại của mục tiêu, đồng thời giúp bản thân tăng [b_属性1数值_per] Kháng Hiệu Ứng, duy trì 1 lượt. Khi trận đấu bắt đầu nhận hiệu ứng của cả 3 thanh đao, mỗi khi kích hoạt hiệu ứng của 1 thanh đao, tăng 15% Tấn công.",
+        "en": "After attacking, inflicts a follow-up attack on the target if their HP is below 85%, dealing damage equal to 125% of his ATK. Then inflicts another follow-up attack on all enemies if the target's HP is now below 65%, dealing damage equal to 125% of his ATK. \nFollow-up attacks ignore [tips_6], cannot be shared, do not trigger the Soul effects and passive skills of the targets, and increase his Effect RES by [b_属性1数值_per] for 1 turns. At the start of battle, gains the effects of 3 blades. Each blade effect activated increases ATK by 15%.",
+        "zh": "攻击后，若目标生命低于85%，对其追加1次斩击，造成攻击125%伤害。然后该目标生命若还低于65%，再追加1次对敌方全体的斩击，造成攻击125%伤害。\n追加的斩击无视[tips_6]、无法分担、不触发目标的御魂及被动，并使自身提升[b_属性1数值_per]效果抵抗，持续1回合。战斗开始时获得3把佩刀的效果，每激活一把佩刀的效果，提升15%攻击。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi trận đấu bắt đầu nhận ngẫu nhiên hiệu ứng của 1 thanh đao",
+            "en": "At the start of battle, gain the effect of 1 random blade.",
+            "zh": "战斗开始时获得随机1把佩刀的效果"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi trận đấu bắt đầu nhận ngẫu nhiên hiệu ứng của 1 thanh đao",
+            "en": "At the start of battle, gain the effect of 1 random blade.",
+            "zh": "战斗开始时获得随机1把佩刀的效果"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi trận đấu bắt đầu nhận ngẫu nhiên hiệu ứng của 2 thanh đao",
+            "en": "At the start of battle, gain the effects of 2 random blades.",
+            "zh": "战斗开始时获得随机2把佩刀的效果"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi trận đấu bắt đầu nhận ngẫu nhiên hiệu ứng của 2 thanh đao",
+            "en": "At the start of battle, gain the effects of 2 random blades.",
+            "zh": "战斗开始时获得随机2把佩刀的效果"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi trận đấu bắt đầu nhận hiệu ứng của cả 3 thanh đao",
+            "en": "At the start of battle, gain the effects of 3 blades.",
+            "zh": "战斗开始时获得3把佩刀的效果"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi trận đấu bắt đầu nhận hiệu ứng của cả 3 thanh đao",
+            "en": "At the start of battle, gain the effects of 3 blades.",
+            "zh": "战斗开始时获得3把佩刀的效果"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi kích hoạt hiệu ứng của 1 thanh đao, tăng 15% Tấn công",
+            "en": "Each activated blade effect increases ATK by 15%",
+            "zh": "每激活一把佩刀的效果，提升15%攻击"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi kích hoạt hiệu ứng của 1 thanh đao, tăng 15% Tấn công",
+            "en": "Each activated blade effect increases ATK by 15%",
+            "zh": "每激活一把佩刀的效果，提升15%攻击"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3122",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3123,
+      "maxLevel": 5,
+      "name": {
+        "vi": "鬼影闪",
+        "en": "鬼影闪",
+        "zh": "鬼影闪"
+      },
+      "intro": {
+        "vi": "听过刀鸣的声音吗？",
+        "en": "听过刀鸣的声音吗？",
+        "zh": "听过刀鸣的声音吗？"
+      },
+      "description": {
+        "vi": "Cùng lúc rút cả ba thanh đao [tips_3121], [tips_3122], [tips_3123] chém mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 100% Tấn công và kích hoạt hiệu ứng của cả ba thanh đao.",
+        "en": "Draws [tips_3121], [tips_3122], and [tips_3123] at once, then attacks the enemy target 3 times, each hit dealing damage equal to 100% of ATK and activating the effects of all three blades.",
+        "zh": "同时拔出[tips_3121]、[tips_3122]、[tips_3123]三把佩刀，攻击敌方目标3次，每次造成攻击100%伤害并激活三把佩刀的效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至84%",
+            "en": "伤害增加至84%",
+            "zh": "伤害增加至84%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至88%",
+            "en": "伤害增加至88%",
+            "zh": "伤害增加至88%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至92%",
+            "en": "伤害增加至92%",
+            "zh": "伤害增加至92%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3123",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "guiqie",
+    "headKey": "h_guiqie",
+    "armature": "",
+    "artName": "txt_zhanshi_guiqie",
+    "skillIconKeys": [
+      "3121",
+      "3122",
+      "3123"
+    ]
+  },
+  "unresolvedTokens": [
+    "tips_6"
+  ]
+}

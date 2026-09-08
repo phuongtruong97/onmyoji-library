@@ -1,0 +1,352 @@
+{
+  "id": 333,
+  "name": {
+    "vi": "Đại Nhạc Hoàn",
+    "en": "Otakemaru",
+    "zh": "大岳丸"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 29, 17]",
+    "en": "[1, 29, 17]",
+    "zh": "[1, 29, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3028,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11505,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 357,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 98,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3331,
+      "maxLevel": 5,
+      "name": {
+        "vi": "麓鸣·轰",
+        "en": "麓鸣·轰",
+        "zh": "麓鸣·轰"
+      },
+      "intro": {
+        "vi": "慢一点，铃鹿山的故事我可以讲很久。",
+        "en": "慢一点，铃鹿山的故事我可以讲很久。",
+        "zh": "慢一点，铃鹿山的故事我可以讲很久。"
+      },
+      "description": {
+        "vi": "Vung Bát Xích Quỳnh Ngọc Kiếm chém ra một đạo kiếm khí, gây sát thương bằng 125% Tấn công cho mục tiêu kẻ địch.\nKhi có kẻ địch bị Vô Tận Kiếm Ngục của bản thân phóng thích, thay thế 『Lộc Minh • Oanh』 thành 『[skill_3334_1]』, đồng thời khiến xác suất [tips_9] trong 3 lần tiếp theo tăng lên 100%.",
+        "en": "Wields the Jade Blade of Yasakani and unleashes a wave of energy at 1 enemy, dealing damage equal to 125% of his ATK.\nWhen an enemy is Banished by his Unlimited Blade Prison, changes Hillcry: Blast to [skill_3334_1], and increases the chance of the next 3 [tips_9] to 100%.",
+        "zh": "挥动八尺琼玉剑斩出一道剑气，对敌方目标造成攻击125%伤害。\n当有敌方被自身的无尽剑狱放逐时，将『麓鸣·轰』替换为『[skill_3334_1]』，并使下3次[tips_9]概率提升至100%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3331",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3332,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phủ Thổ Chi Thuật",
+        "en": "Earth Magic",
+        "zh": "覆土之术"
+      },
+      "intro": {
+        "vi": "Hộ Sức, chính là lý do ta mạnh mẽ.",
+        "en": "My shelter is what made me strong.",
+        "zh": "庇护，正是我强大的理由。"
+      },
+      "description": {
+        "vi": "Khi trận đấu bắt đầu, Đại Nhạc Hoàn triệu hồi [buff_3332_1] bảo vệ bản thân.",
+        "en": "At battle start, Otakemaru summons [buff_3332_1] to protect himself.",
+        "zh": "战斗开始时，大岳丸召唤[buff_3332_1]守护自身。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng giảm sát thương của Phủ Thổ Lực tăng lên 25%",
+            "en": "Increases the damage reduction effect of Force of Earth to 25%.",
+            "zh": "覆土之力减伤效果增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng giảm sát thương của Phủ Thổ Lực tăng lên 30%",
+            "en": "Increases the damage reduction effect of Force of Earth to 30%.",
+            "zh": "覆土之力减伤效果增至30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng giảm sát thương của Phủ Thổ Lực tăng lên 35%",
+            "en": "Increases the damage reduction effect of Force of Earth to 35%.",
+            "zh": "覆土之力减伤效果增至35%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng giảm sát thương của Phủ Thổ Lực tăng lên 40%",
+            "en": "Increases the damage reduction effect of Force of Earth to 40%.",
+            "zh": "覆土之力减伤效果增至40%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3332",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3333,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vô Tận Kiếm Ngục",
+        "en": "Unlimited Blade Prison",
+        "zh": "无尽剑狱"
+      },
+      "intro": {
+        "vi": "寸步难行！",
+        "en": "寸步难行！",
+        "zh": "寸步难行！"
+      },
+      "description": {
+        "vi": "Dùng [buff_3334_1] [tips_109] mục tiêu kẻ địch, đồng thời nhận 30% Tấn công và Phòng thủ ban đầu của mục tiêu (thuộc tính nhận được không vượt quá 50% Tấn công và Phòng thủ ban đầu của bản thân), cho đến khi lượt tiếp theo của Đại Nhạc Hoàn kết thúc, sau đó triệu hồi sóng đá cuồn cuộn gây sát thương bằng 312% Tấn công cho toàn bộ kẻ địch.\nKhi kiếm ngục đóng lại, tảng đá lớn lơ lửng rơi xuống gây sát thương bằng 358% cho mục tiêu bị phóng thích, sát thương này không thể gánh chịu thay, không kích hoạt ngự hồn và nội tại của mục tiêu, đồng thời tăng 70% Thanh Hành Động cho bản thân Đại Nhạc Hoàn, mất đi thuộc tính bổ sung.\nKhi [buff_3334_1] tồn tại, không thể thi triển kỹ năng này.",
+        "en": "Uses [buff_3334_1] to [tips_109] 1 enemy, gaining 30% of the target's initial ATK and DEF (the gained stats cannot exceed 50% of Otakemaru's own initial ATK and DEF) until the end of Otakemaru's next turn, and conjures a torrent of Wave of Rock to attack all enemies, dealing damage equal to 312% of his ATK.\nWhen the Blade Prison closes, the floating rock falls to attack the banished enemy, dealing damage equal to 358% of his ATK. The damage cannot be shared, does not trigger the target's Soul effects and Passive skills, raises the Move Bar of Otakemaru by 70%, and removes the extra stats gained.\nWhen [buff_3334_1] is active, the skill cannot be used.",
+        "zh": "以[buff_3334_1][tips_109]敌方目标，并获得目标初始攻击和防御的30%（获得属性不超过自身初始攻击和防御50%），直至大岳丸下一个回合结束，接着召唤汹涌的石浪对敌方全体造成攻击312%伤害。\n剑狱关闭时，悬浮的巨石坠落对被放逐目标造成攻击358%伤害，该伤害无法分担、不触发目标的御魂及被动，同时提升大岳丸自身行动条70%，失去额外属性。\n[buff_3334_1]存在时，无法施放此技能。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương sóng đá tăng lên 299%",
+            "en": "Increases the damage of Wave of Rocks to 299%.",
+            "zh": "石浪伤害增加至299%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương sóng đá tăng lên 312%",
+            "en": "Increases the damage of Wave of Rocks to 312%.",
+            "zh": "石浪伤害增加至312%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi kiếm ngục đóng lại, Thanh Hành Động tăng lên 70%",
+            "en": "When Blade Prison closes, raises Move Bar by 70%.",
+            "zh": "剑狱关闭时，行动条提升增加至70%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "12% tổng sát thương do sóng đá gây ra (tích lũy không vượt quá 600% Tấn công của Đại Nhạc Hoàn), sẽ được cộng dồn bổ sung vào sát thương đá rơi",
+            "en": "12% of the total damage dealt by Wave of Rocks will be added to the damage of Rockfall (to a max of 600% of Otakemaru's ATK).",
+            "zh": "石浪造成总伤害的12%（累积不超过大岳丸攻击600%），将额外附加在落石伤害中"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3333",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "dayuewan",
+    "headKey": "h_dayuewan",
+    "armature": "",
+    "artName": "txt_zhanshi_dayuewan",
+    "skillIconKeys": [
+      "3331",
+      "3332",
+      "3333"
+    ]
+  },
+  "unresolvedTokens": [
+    "skill_3334_1"
+  ]
+}

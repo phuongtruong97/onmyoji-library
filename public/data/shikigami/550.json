@@ -1,0 +1,298 @@
+{
+  "id": 550,
+  "name": {
+    "vi": "Khổng Tước Minh Vương",
+    "en": "Kujaku-Myoo",
+    "zh": "孔雀明王"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 17]",
+    "en": "[1, 17]",
+    "zh": "[1, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3269,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10024,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5501,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lưu Vũ Phong",
+        "en": "Plume Dart",
+        "zh": "流羽风"
+      },
+      "intro": {
+        "vi": "Như lông vũ của gió, gảy nhẹ dây tơ lòng.",
+        "en": "The plumes will stir your heart.",
+        "zh": "如风之羽，撩拨心弦。"
+      },
+      "description": {
+        "vi": "Gọi ra lông vũ như gió, gây sát thương bằng 125% Tấn công, và có 30% [tips_2] đính kèm [tips_114]. Khi ở tư thế [buff_5504_1] đổi thành 『[skill_5504_1]』, cấp độ tăng theo sự cường hóa kỹ năng 『Lưu Vũ Phong』.",
+        "en": "Conjures darts of plumes to strike 1 enemy, dealing damage equal to 125% of her ATK with a 30% [tips_2] of inflicting [tips_114]. While she's performing a [buff_5504_1], changes the skill to [skill_5504_1] with its skill level equal to the skill level of Plume Dart.",
+        "zh": "唤出如风之羽，造成攻击125%伤害，并有30%[tips_2]施加[tips_114]。处于[buff_5504_1]姿态时替换为『[skill_5504_1]』，等级随『流羽风』技能强化。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害提升至105%",
+            "en": "伤害提升至105%",
+            "zh": "伤害提升至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害提升至110%",
+            "en": "伤害提升至110%",
+            "zh": "伤害提升至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害提升至115%",
+            "en": "伤害提升至115%",
+            "zh": "伤害提升至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Increases damage to 125%",
+            "zh": "伤害提升至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5501",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5502,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vũ Hóa",
+        "en": "Ascendant",
+        "zh": "羽化"
+      },
+      "intro": {
+        "vi": "Những gì không thể tiêu diệt ta, đều sẽ khiến ta trở nên mạnh mẽ hơn.",
+        "en": "What doesn't destroy me makes me stronger.",
+        "zh": "不能摧毁我的，都将令我更加强大。"
+      },
+      "description": {
+        "vi": "[tips_11] Khi trận đấu bắt đầu và sau khi lượt bản thân kết thúc, nhận 1 tầng [buff_5503_1]; khi nhận [buff_5503_1], xua tan 1 trạng thái tiêu cực cho toàn bộ phe ta. Khi lượt bản thân bắt đầu, nếu số tầng [buff_5503_1] đạt 5 tầng, tiêu hao toàn bộ số tầng tiến vào tư thế [buff_5504_1], duy trì 3 lượt, khi thời gian duy trì kết thúc nhận 1 tầng [buff_5503_1]. Khi tiến vào tư thế [buff_5504_1], loại bỏ toàn bộ trạng thái giảm ích của bản thân; nếu loại bỏ [tips_3], thời gian duy trì [buff_5504_1] giảm xuống 1 lượt.",
+        "en": "[tips_11]. At the start of battle and after this unit's turn ends, gain 1 stack of [buff_5503_1]; whenever [buff_5503_1] is gained, dispel 1 debuff from all allies. At the start of this unit's turn, if [buff_5503_1] reaches 5 stacks, consume all stacks to enter [buff_5504_1] stance for 3 turns, and gain 1 stack of [buff_5503_1] when the duration ends. Upon entering [buff_5504_1] stance, remove all debuffs from this unit; if [tips_3] is removed, the duration of [buff_5504_1] is reduced to 1 turn.",
+        "zh": "[tips_11]。战斗开始时与自身回合结束后，获得1层[buff_5503_1]；获得[buff_5503_1]时，驱散友方全体1个负面状态。自身回合开始时，若[buff_5503_1]层数到达5层，消耗全部层数进入[buff_5504_1]姿态，持续3回合，持续时间结束时获得1层[buff_5503_1]。进入[buff_5504_1]姿态时，移除自身所有减益；若移除了[tips_3]，则[buff_5504_1]持续时间降至1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi tiến vào tư thế [buff_5504_1], loại bỏ toàn bộ trạng thái giảm ích của bản thân; nếu loại bỏ [tips_3], thời gian duy trì [buff_5504_1] giảm xuống 1 lượt",
+            "en": "When she starts performing a [buff_5504_1], removes all debuffs from her. If a [tips_3] is removed this way, the duration of her [buff_5504_1] is reduced to 1 turn.",
+            "zh": "进入[buff_5504_1]姿态时，移除自身所有减益；若移除了[tips_3]，则[buff_5504_1]持续时间降至1回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi ở tư thế [buff_5504_1], trong lượt bản thân miễn nhiễm giảm ích cùng sát thương",
+            "en": "While she's performing a [buff_5504_1], grants her immunity to debuffs and damage on her turn.",
+            "zh": "处于[buff_5504_1]姿态时，自身回合内免疫减益与伤害"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi nhận [buff_5503_1], xua tan 1 trạng thái tiêu cực cho toàn bộ phe ta",
+            "en": "When gaining [buff_5503_1], dispels 1 debuff from all allies.",
+            "zh": "获得[buff_5503_1]时，驱散友方全体1个负面状态"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi ở tư thế [buff_5504_1], bản thân mỗi khi có 1% Chính Xác Hiệu Ứng, tăng 1% Tấn công",
+            "en": "While in [buff_5504_1] stance, for every 1% Effect HIT, ATK increases by 1%",
+            "zh": "处于[buff_5504_1]姿态时，自身每拥有1%效果命中，提升1%攻击"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5502",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5503,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mê Ly Chi Cảnh",
+        "en": "Alluring Realm",
+        "zh": "迷离之境"
+      },
+      "intro": {
+        "vi": "Ban cho ngươi chìm đắm trong hư vọng, trao cho ngươi vị ngọt của mật ong.",
+        "en": "Indulge in this falsehood and enjoy its sweetness.",
+        "zh": "赐你沉沦于虚妄，予你蜜糖之甘美。"
+      },
+      "description": {
+        "vi": "[tips_11] Tạo ra Tước Vũ Kết Giới 2 lượt và nhận 1 tầng [buff_5503_1], trong kết giới Kháng Hiệu Ứng của phe địch giảm 30%, sát thương đơn thể gây ra giảm 30%, sát thương đơn thể bản thân gánh chịu giảm 20%. Khi thi triển có 40% xác suất cơ bản đính kèm [tips_114] cho toàn bộ phe địch, duy trì 1 lượt. Khi mục tiêu phe ta không phải vật triệu hồi có HP thấp nhất trong kết giới chịu sát thương, có 40% [tips_2] đính kèm [tips_114] cho nguồn gây sát thương, duy trì 1 lượt. [tips_7]: Tạo ra Tước Vũ Kết Giới 2 lượt. Khi ở tư thế [buff_5504_1] đổi thành 『[skill_5505_1]』, cấp độ tăng theo sự cường hóa kỹ năng 『Mê Ly Chi Cảnh』.",
+        "en": "[tips_11]. Creates Plume Field for 2 turns and gains 1 stack of [buff_5503_1]. Enemies inside the field lose 30% Effect RES and deal 30% less single-target damage, and self takes 20% less single-target damage. On cast, has a 40% base chance to inflict [tips_114] on all enemies for 1 turn. While the field is active, when the non-summoned entity ally with the lowest HP takes damage, has a 40% [tips_2] to inflict [tips_114] on the damage source for 1 turn. [tips_7]: Creates Plume Field for 2 turns. While in [buff_5504_1] stance, this skill is replaced with [skill_5505_1], and its level scales with Alluring Realm.",
+        "zh": "[tips_11]。创造2回合的雀羽结界并获得1层[buff_5503_1]，结界中敌方效果抵抗降低30%，造成单体伤害降低30%，自身受到的单体伤害降低20%。施放时有40%基础概率为敌方全体施加[tips_114]，持续1回合。结界中生命最低的非召唤物友方受到伤害时，有40%[tips_2]为伤害来源施加[tips_114]，持续1回合。[tips_7]：创造2回合的雀羽结界。处于[buff_5504_1]姿态时替换为『[skill_5505_1]』，等级随『迷离之境』技能强化。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi thi triển có 40% xác suất cơ bản đính kèm [tips_114] cho toàn bộ phe địch, duy trì 1 lượt",
+            "en": "On cast, has a 40% base chance to inflict [tips_114] on all enemies for 1 turn.",
+            "zh": "施放时有40%基础概率为敌方全体施加[tips_114]，持续1回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi có HP thấp nhất trong kết giới chịu sát thương, có 40% [tips_2] đính kèm [tips_114] cho nguồn gây sát thương, duy trì 1 lượt",
+            "en": "While the field is active, when the non-summoned entity ally with the lowest HP takes damage, has a 40% [tips_2] to inflict [tips_114] on the damage source for 1 turn.",
+            "zh": "结界中生命最低的非召唤物友方受到伤害时，有40%[tips_2]为伤害来源施加[tips_114]，持续1回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương bản thân gánh chịu trong kết giới giảm 30%",
+            "en": "While the realm is active, reduces damage taken by 30%.",
+            "zh": "结界中自身受到的伤害降低30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Tạo ra Tước Vũ Kết Giới 2 lượt",
+            "en": "[tips_7]: Creates Plume Field for 2 turns.",
+            "zh": "[tips_7]：创造2回合的雀羽结界"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5503",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "kongquemingwang",
+    "headKey": "h_kongquemingwang",
+    "armature": "",
+    "artName": "txt_zhanshi_kongquemingwang",
+    "skillIconKeys": [
+      "5501",
+      "5502",
+      "5503"
+    ]
+  },
+  "unresolvedTokens": []
+}

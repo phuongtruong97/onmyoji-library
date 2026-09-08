@@ -1,0 +1,302 @@
+{
+  "id": 383,
+  "name": {
+    "vi": "Thần Đọa Bát Kỳ Đại Xà",
+    "en": "Fallen God Orochi",
+    "zh": "神堕八岐大蛇"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 46, 47]",
+    "en": "[1, 46, 47]",
+    "zh": "[1, 46, 47]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 4152,
+      "grade": "SS"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 13214,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 436,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3831,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Linh Hồn Trừng Phạt",
+        "en": "Soul's Punishment",
+        "zh": "灵魂惩戒"
+      },
+      "intro": {
+        "vi": "Cảm nhận được sự tẩy lễ của tội lỗi chưa?",
+        "en": "Do you feel the baptism of sin?",
+        "zh": "感受到罪恶的洗礼了吗？"
+      },
+      "description": {
+        "vi": "Nhìn chằm chằm tội lỗi trong sâu thẳm linh hồn, đưa ra phán quyết, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Gazes at the evil in the depth of the soul and makes a verdict, dealing damage equal to 125% of his ATK to 1 enemy.",
+        "zh": "凝视灵魂深处的罪恶，作出裁决，对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%",
+            "zh": "伤害提升至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害提升至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害提升至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Increases damage to 125%",
+            "zh": "伤害提升至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3831",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3832,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thần Đọa Chi Lực",
+        "en": "Corrupted Force",
+        "zh": "神堕之力"
+      },
+      "intro": {
+        "vi": "Đây chính là ý chí của Tà Thần, ý chí của ta!",
+        "en": "The will of the Evil Gods is also my will!",
+        "zh": "这就是邪神的意志，我的意志！"
+      },
+      "description": {
+        "vi": "[tips_11].\nTổng cộng bị trấn áp bởi 6 thanh thần kiếm · Ame no Habakiri.\nThi triển hóa thân tư thế [tips_3831], phong ấn 6% Tấn công ban đầu của tất cả Thức Thần phe ta ngoại trừ bản thân vào 1 thanh Ame no Habakiri, lấy đó làm năng lượng hỗ trợ phá giải phong ấn của Ame no Habakiri. Khi tử vong hoàn trả toàn bộ Tấn công đã phong ấn. Nếu thi triển liên tiếp, mỗi lần Quỷ Hỏa tiêu hao tăng thêm 1 điểm. Khi Xà Thần bị hạ gục, bản thân tăng 100 điểm Tốc độ, duy trì 1 lượt. Tiên Cơ thi triển.",
+        "en": "[tips_11].\nHe's suppressed by a total of 6 Divine Swords: Ame-no-Habakiri.\nUsing the skill turns himself into [tips_3831], storing 6% of the starting ATK of all other shikigami allies in 1 Ame-no-Habakiri to serve as the energy required to break the seal of Ame-no-Habakiri. When he's KO'd, all stored ATK will be returned to its respective owners. If the skill is used in succession, its orb cost increases by 1 orb each time. When The Serpent Lord is KO'd, increases his SPD by 100 for 1 turn. Uses the skill as Upper Hand.",
+        "zh": "[tips_11]。\n共被6把神剑·天羽羽斩镇压。\n施放化身[tips_3831]姿态，将除自身外所有友方式神初始攻击的6%封存于1把天羽羽斩中，以此为能量协助破除天羽羽斩的封印。阵亡时将封存的攻击全部归还。若连续施放，每次消耗鬼火递增1点。蛇神被击败时，自身提升100点速度，持续1个回合。先机施放。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "HP Xà Thần tăng lên 380% Tấn công của Thần Đọa Bát Kỳ Đại Xà",
+            "en": "Increases The Serpent Lord's HP to 380% of Fallen God Orochi's ATK.",
+            "zh": "蛇神生命增至神堕八岐大蛇攻击的380%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương diện rộng Xà Thần gánh chịu giảm 30%",
+            "en": "Reduces The Serpent Lord's AoE damage taken by 30%.",
+            "zh": "蛇神受到的群体伤害下降30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi Xà Thần bị hạ gục, bản thân tăng 100 điểm Tốc độ, duy trì 1 lượt",
+            "en": "When The Serpent Lord is KO'd, increases his SPD by 100 for 1 turn.",
+            "zh": "蛇神被击败时，自身提升100点速度，持续1个回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Thi triển 「Thần Đọa Chi Lực」",
+            "en": "Upper Hand: Uses Corrupted Force.",
+            "zh": "先机：施放「神堕之力」"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3832",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3833,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thẩm Phán Nghi Thức",
+        "en": "Trial Ritual",
+        "zh": "审判仪式"
+      },
+      "intro": {
+        "vi": "Thần kiếm đã biến mất, không còn xiềng xích nữa!",
+        "en": "Now that the Divine Swords have been removed, I'm free from shackles!",
+        "zh": "神剑已去，再无桎梏！"
+      },
+      "description": {
+        "vi": "Có thể thi triển dưới tư thế [tips_3831].\n【Thi triển】 Phá giải sự trấn áp của 1 thanh Ame no Habakiri, gây cho toàn bộ phe địch sát thương bằng 188% Tấn công, và chỉ định đính kèm [buff_3833_1] cho 1 Thức Thần phe ta ngoại trừ bản thân.\nNếu tích lũy phá giải 5 thanh Ame no Habakiri, giải phóng tà lực mạnh mẽ, thay thế 「Thần Đọa Chi Lực」 thành 「Xà Thần Chi Phệ」. Khi thi triển, mỗi khi Xà Thần còn 20% HP sẽ hồi phục cho bản thân 12% HP, tăng 8% Thanh Hành Động, hệ số lần này tăng 25%, rút Tấn công đã phong ấn của Thức Thần phe ta, tổng giá trị không vượt quá 100% Tấn công ban đầu của bản thân.",
+        "en": "Only [tips_3831] can use the skill.\nActive skill: Removes the suppression of 1 Ame-no-Habakiri to attack all enemies, dealing damage equal to 188% of his ATK and inflicting [buff_3833_1] to another shikigami ally.\nIf a total of 5 Ame-no-Habakiri have been removed, sets the powerful evil force free and changes Corrupted Force to Serpent's Devouring. When using the skill, for each 20% HP The Serpent Lord has, recovers his HP by 12%, raises his Move Bar by 8%, increases this attack's damage multiplier by 25%, and withdraws the shikigami allies' stored ATK (max 100% of his own starting ATK).",
+        "zh": "[tips_3831]姿态下可施放。\n【施放】破除1把天羽羽斩的镇压，对敌方全体造成攻击188%伤害，并指定1位除自身外友方式神附加[buff_3833_1]。\n若累计破除5把天羽羽斩，解放强大的邪力，将「神堕之力」替换为「蛇神之噬」。施放时，蛇神每剩余20%生命为自身恢复12%生命，提升8%行动条，本次系数增加25%，抽取封存的友方式神攻击，总值不超过自身初始攻击100%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi thi triển mỗi khi Xà Thần còn 20% HP, hồi phục cho bản thân 12% HP",
+            "en": "When using the skill, for each 20% HP The Serpent Lord has, recovers his HP by 12%",
+            "zh": "施放时蛇神每剩余20%生命，为自身恢复12%生命"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi thi triển mỗi khi Xà Thần còn 20% HP, tăng 8% Thanh Hành Động cho bản thân",
+            "en": "When using the skill, for each 20% HP The Serpent Lord has, raises his Move Bar by 8%",
+            "zh": "施放时蛇神每剩余20%生命，为自身提升8%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi thi triển mỗi khi Xà Thần còn 20% HP, hệ số sát thương lần này tăng 25%",
+            "en": "When using the skill, for each 20% HP The Serpent Lord has, increases this time's damage multiplier by 25%",
+            "zh": "施放时蛇神每剩余20%生命，本次伤害系数增加25%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi thi triển rút Tấn công đã phong ấn của Thức Thần phe ta, tổng giá trị không vượt quá 100% Tấn công ban đầu của bản thân",
+            "en": "When using the skill, withdraws the allies' stored ATK (max 100% of his own starting ATK).",
+            "zh": "施放时抽取封存的友方式神攻击，总值不超过自身初始攻击100%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3833",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_baqidashe",
+    "headKey": "h_sp_baqidashe",
+    "armature": [
+      "s2_spdasheicon_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_sp_baqidashe",
+    "skillIconKeys": [
+      "3831",
+      "3832",
+      "3833"
+    ]
+  },
+  "unresolvedTokens": []
+}

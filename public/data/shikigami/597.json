@@ -1,0 +1,350 @@
+{
+  "id": 597,
+  "name": {
+    "vi": "Cát Diệp",
+    "en": "Kuzunoha",
+    "zh": "葛叶"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 12, 22]",
+    "en": "[1, 12, 22]",
+    "zh": "[1, 12, 22]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3698,
+      "grade": "SS"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11619,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 441,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 107,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "12%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5971,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồ Ngôn",
+        "en": "Fox Whispers",
+        "zh": "狐言"
+      },
+      "intro": {
+        "vi": "如果你想感受绝望，我很乐意帮忙~",
+        "en": "如果你想感受绝望，我很乐意帮忙~",
+        "zh": "如果你想感受绝望，我很乐意帮忙~"
+      },
+      "description": {
+        "vi": "Sử dụng hồ ngôn thi pháp, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Casts a spell in fox's language, dealing damage equal to 125% of ATK to 1 enemy.",
+        "zh": "使用狐言施法，对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5971",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5972,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Độ Linh",
+        "en": "Spirit Crossing",
+        "zh": "渡灵"
+      },
+      "intro": {
+        "vi": "Trao cho ngươi ấn ký hồ tộc, từ nay về sau chính là người của ta.",
+        "en": "Bestow upon you the Mark of the Fox—from now on, you're one of mine.",
+        "zh": "授予你狐族之印，以后便是我的人了。"
+      },
+      "description": {
+        "vi": "[tips_11] Cát Diệp khi thi triển yêu thuật ngoài 「[skill_5974_1]」 nhận 1 tầng [buff_5971_1]. Đồng minh khác không phải vật triệu hồi nhận kỹ năng 「[skill_5976_1]」. Khi đồng minh nhận [buff_5972_1], tăng 75 điểm Tốc độ cho Cát Diệp, tối đa 3 lần, duy trì 1 lượt. Khi trận đấu bắt đầu, nhận 1 tầng [buff_5972_1], duy trì 1 lượt.\n【Thi triển】 Giúp bản thân nhận 1 tầng [buff_5972_1], duy trì 1 lượt; giúp mục tiêu đồng minh chỉ định tăng 40% Thanh Hành Động, và nhận 3 tầng [buff_5972_1], duy trì 1 lượt.",
+        "en": "[tips_11]. When Kuzunoha casts a skill other than [skill_5974_1], gains 1 stack of [buff_5971_1]. Other non-summoned entity allies gain the [skill_5976_1] skill. When an ally gains [buff_5972_1], increases Kuzunoha's SPD by 75 (up to 3 times), lasting for 1 turn. At the start of battle, gains 1 stack of [buff_5972_1], lasting for 1 turn.\nActive skill: Grants self 1 stack of [buff_5972_1], lasting for 1 turn; raises a designated ally's Move Bar by 40% and grants them 3 stacks of [buff_5972_1], lasting for 1 turn.",
+        "zh": "[tips_11]。葛叶施放「[skill_5974_1]」外的妖术获得1层[buff_5971_1]。其他非召唤物友方获得技能「[skill_5976_1]」。友方获得[buff_5972_1]时，提升葛叶75点速度，至多3次，持续1回合。战斗开始时，获得1层[buff_5972_1]，持续1回合。\n【施放】使自身获得1层[buff_5972_1]，持续1回合；使指定友方目标提升40%行动条，并获得3层[buff_5972_1]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Giúp đồng minh nhận 3 tầng [buff_5972_1]",
+            "en": "Grants an ally 3 stacks of [buff_5972_1].",
+            "zh": "使友方获得3层[buff_5972_1]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Giúp đồng minh nhận 3 tầng [buff_5972_1]",
+            "en": "Grants an ally 3 stacks of [buff_5972_1].",
+            "zh": "使友方获得3层[buff_5972_1]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng minh khi nhận [buff_5972_1], tăng 75 điểm Tốc độ cho Cát Diệp, tối đa 3 lần, duy trì 1 lượt",
+            "en": "When an ally gains [buff_5972_1], increases Kuzunoha's SPD by 75 (up to 3 times), lasting for 1 turn.",
+            "zh": "友方获得[buff_5972_1]时，提升葛叶75点速度，至多3次，持续1回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng minh khi nhận [buff_5972_1], tăng 75 điểm Tốc độ cho Cát Diệp, tối đa 3 lần, duy trì 1 lượt",
+            "en": "When an ally gains [buff_5972_1], increases Kuzunoha's SPD by 75 (up to 3 times), lasting for 1 turn.",
+            "zh": "友方获得[buff_5972_1]时，提升葛叶75点速度，至多3次，持续1回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thi triển giúp bản thân nhận 1 tầng [buff_5972_1], duy trì 1 lượt",
+            "en": "When cast, grants herself 1 stack of [buff_5972_1] for 1 turn.",
+            "zh": "施放使自身获得1层[buff_5972_1]，持续1回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thi triển giúp bản thân nhận 1 tầng [buff_5972_1], duy trì 1 lượt",
+            "en": "When cast, grants herself 1 stack of [buff_5972_1] for 1 turn.",
+            "zh": "施放使自身获得1层[buff_5972_1]，持续1回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi trận đấu bắt đầu, nhận 1 tầng [buff_5972_1], duy trì 1 lượt",
+            "en": "At the start of battle, gains 1 stack of [buff_5972_1], lasting 1 turn.",
+            "zh": "战斗开始时，获得1层[buff_5972_1]，持续1回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi trận đấu bắt đầu, nhận 1 tầng [buff_5972_1], duy trì 1 lượt",
+            "en": "At the start of battle, gains 1 stack of [buff_5972_1], lasting 1 turn.",
+            "zh": "战斗开始时，获得1层[buff_5972_1]，持续1回合"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5972",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 5973,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồ Ảnh Trận",
+        "en": "Fox Shadow Array",
+        "zh": "狐影阵"
+      },
+      "intro": {
+        "vi": "Trước khi rắc rối tìm đến con của ta, ta sẽ giải quyết rắc rối đó trước.",
+        "en": "Before any sparks of trouble touch my child, I'll burn down the source of the problem!",
+        "zh": "在麻烦找上我的孩子之前，我会先把麻烦解决掉。"
+      },
+      "description": {
+        "vi": "Sử dụng thuật hồ yêu, tấn công toàn bộ phe địch, gây sát thương bằng 240% Tấn công.",
+        "en": "Uses fox spirit sorcery to attack all enemies, dealing damage equal to 240% of ATK.",
+        "zh": "使用狐妖之术，攻击敌方全体，造成攻击240%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương gây ra tăng lên 195%",
+            "en": "Increases damage dealt to 195%.",
+            "zh": "造成伤害增加至195%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương gây ra tăng lên 210%",
+            "en": "Increases damage dealt to 210%.",
+            "zh": "造成伤害增加至210%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương gây ra tăng lên 225%",
+            "en": "Increases damage dealt to 225%.",
+            "zh": "造成伤害增加至225%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương gây ra tăng lên 240%",
+            "en": "Increases damage dealt to 240%.",
+            "zh": "造成伤害增加至240%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5973",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "geye",
+    "headKey": "h_geye",
+    "armature": "",
+    "artName": "txt_zhanshi_geye",
+    "skillIconKeys": [
+      "5971",
+      "5972",
+      "5973"
+    ]
+  },
+  "unresolvedTokens": []
+}

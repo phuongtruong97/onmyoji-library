@@ -1,0 +1,298 @@
+{
+  "id": 575,
+  "name": {
+    "vi": "Phong Dương Quân",
+    "en": "Fengyang",
+    "zh": "封阳君"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 17, 44]",
+    "en": "[1, 17, 44]",
+    "zh": "[1, 17, 44]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2840,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9683,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 348,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 106,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5751,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong Dương Đao Pháp",
+        "en": "Fengyang Sabre",
+        "zh": "封阳刀法"
+      },
+      "intro": {
+        "vi": "Buông vũ khí xuống, chịu trói đi.",
+        "en": "Put down your weapon and surrender.",
+        "zh": "放下武器，束手就擒。"
+      },
+      "description": {
+        "vi": "Vung đao trảm kích mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Waves his blade to attack 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "挥刀斩击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5751",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5752,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Long Thao Báo Lược",
+        "en": "Strategy Repertoire",
+        "zh": "龙韬豹略"
+      },
+      "intro": {
+        "vi": "Long thao báo lược, hành vân đạp phong.",
+        "en": "With the strategies of the Loong and the tactics of the leopard. I ride the wind and move like the cloud.",
+        "zh": "龙韬豹略，行云踏风。"
+      },
+      "description": {
+        "vi": "[tips_11]. Sau khi tấn công đính kèm [buff_5752_1] cho mục tiêu, duy trì 2 lượt. Sau khi thi triển 『[skill_5751_1]』, chuyển đổi sang phái [buff_5753_1]; sau khi thi triển 『[skill_5753_1]』, chuyển đổi sang phái [buff_5754_1]. Khi ở bất kỳ lưu phái nào, bản thân nhận 50% giảm sát thương. Khi bắt đầu trận đấu và mỗi lần chuyển đổi lưu phái, nhận [buff_5759_1] duy trì 1 lượt, khi chịu hiệu ứng đẩy lùi Thanh Hành Động sẽ phản kích.\n【Thi triển】 Đặt lại lưu phái hiện tại và tăng 75% Thanh Hành Động cho bản thân. Trong lượt khi chuyển đổi lưu phái tăng 100% Thanh Hành Động cho bản thân, mỗi màn giới hạn 1 lần.",
+        "en": "[tips_11]. Attacks inflict [buff_5752_1] lasting 2 turns on the enemy. Using [skill_5751_1] switches it to the [buff_5753_1] style Using [skill_5753_1] switches it to the [buff_5754_1] style. Grants him 50% damage reduction while he's practicing a sabre style. At the start of the battle and whenever he switches his sabre style, grants him [buff_5759_1] that lasts 1 turn. Launches a counter-attack when his Move Bar is lowered.\nActive skill: Resets his sabre style and raises his Move Bar by 75%. When he switches his sabre style on his turn, raises his Move Bar by 100% (only once per round.)",
+        "zh": "[tips_11]。攻击后为目标施加[buff_5752_1]，持续2回合。施放『[skill_5751_1]』后，切换为[buff_5753_1]流；施放『[skill_5753_1]』后，切换为[buff_5754_1]流。处于任意流派时，自身获得50%减伤。战斗开始时与每次切换流派后，获得持续1回合的[buff_5759_1]，受到行动条击退效果时反击。\n【施放】重置当前的流派并提升自身75%行动条。回合内切换流派提升自身100%行动条，每回目限1次。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Bắt đầu trận đấu và mỗi lần chuyển đổi lưu phái, nhận [tips_14] duy trì 1 lượt",
+            "en": "At the start of the battle and whenever he switches his sabre style, grants him [tips_14] that lasts 1 turn.",
+            "zh": "战斗开始时与每次切换流派后，获得持续1回合的[tips_14]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi chịu hiệu ứng đẩy lùi Thanh Hành Động sẽ phản kích",
+            "en": "Launches a counter-attack when his Move Bar is lowered.",
+            "zh": "受到行动条击退效果时反击"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Đặt lại lưu phái tăng Thanh Hành Động tăng lên 75%",
+            "en": "Increases the Move Bar raised when he resets his sabre style to 75%.",
+            "zh": "重置流派提升行动条增加至75%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Trong lượt khi chuyển đổi lưu phái tăng 100% Thanh Hành Động cho bản thân, mỗi màn giới hạn 1 lần",
+            "en": "When he switches his sabre style on his turn, raises his Move Bar by 100% (only once per round.)",
+            "zh": "回合内切换流派提升自身100%行动条，每回目限1次"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5752",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5753,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vọng Nguyệt Tinh Hà",
+        "en": "Moonlit Stars",
+        "zh": "望月星河"
+      },
+      "intro": {
+        "vi": "Vân Kỷ Ty phụng lệnh điều tra án.",
+        "en": "The YLED is ordered to investigate the case.",
+        "zh": "云纪司奉令查案。"
+      },
+      "description": {
+        "vi": "Thi triển đao pháp độc môn tấn công toàn bộ phe địch 3 lần, mỗi lần gây sát thương bằng 25% Tấn công. Sau khi [tips_5671] của kẻ địch bị xóa bỏ, bản thân tăng 40 điểm Tốc độ (tăng tối đa 80 điểm), duy trì 1 lượt",
+        "en": "Launches a 3-strike attack on all enemies with his signature sabre style, dealing damage equal to 25% of his ATK on each strike. When a [tips_5671] on an enemy is removed, increases his SPD by 40 (max increase 80) for 1 turn",
+        "zh": "施展独门刀法攻击敌方全体3次，每次造成攻击25%伤害。敌方[tips_5671]移除后，自身提升40点速度（至多提升80点），持续1回合"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_101] do 『[skill_5756_1]』 đính kèm chuyển hóa thành [tips_112]",
+            "en": "Changes the [tips_101] inflicted by [skill_5756_1] to [tips_112].",
+            "zh": "『[skill_5756_1]』施加的[tips_101]转化为[tips_112]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hệ số tấn công lần 3 của 『[skill_5757_1]』 tăng lên 180%",
+            "en": "Increases the multiplier of [skill_5757_1]' third strike to 180%.",
+            "zh": "『[skill_5757_1]』第3次攻击的系数增至180%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sau khi [tips_5671] của kẻ địch bị xóa bỏ, bản thân tăng 40 điểm Tốc độ (tăng tối đa 80 điểm), duy trì 1 lượt",
+            "en": "When a [tips_5671] on an enemy is removed, increases his SPD by 40 (max increase 80) for 1 turn",
+            "zh": "敌方[tips_5671]移除后，自身提升40点速度（至多提升80点），持续1回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Quỷ Hỏa tiêu hao giảm 1 điểm",
+            "en": "Reduces orb cost by 1 orb",
+            "zh": "鬼火消耗降低1点"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5753",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "fengyangjun",
+    "headKey": "h_fengyangjun",
+    "armature": "",
+    "artName": "txt_zhanshi_fengyangjun",
+    "skillIconKeys": [
+      "5751",
+      "5752",
+      "5753"
+    ]
+  },
+  "unresolvedTokens": []
+}

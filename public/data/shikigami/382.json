@@ -1,0 +1,350 @@
+{
+  "id": 382,
+  "name": {
+    "vi": "Linh Hải Điệp",
+    "en": "Uminocho",
+    "zh": "灵海蝶"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[10, 17]",
+    "en": "[10, 17]",
+    "zh": "[10, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2144,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11392,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 405,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 106,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "6%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3821,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ba Sức",
+        "en": "Decorative Wave",
+        "zh": "波缀"
+      },
+      "intro": {
+        "vi": "Đáng lẽ phải biết sinh mệnh ngắn ngủi như bọt sóng, thế nhưng...",
+        "en": "I knew life was short, but...",
+        "zh": "本应知晓生命短若波光，然而……"
+      },
+      "description": {
+        "vi": "Linh hải nhảy vọt, gây 125% sát thương cho mục tiêu kẻ địch.",
+        "en": "Sea Genie jumps out from water and attacks 1 enemy, dealing damage equal to 125% of Uminocho's ATK.",
+        "zh": "海灵跃出，对敌方目标造成攻击125%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3821",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3822,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Linh Tuần",
+        "en": "Revolving Genies",
+        "zh": "灵巡"
+      },
+      "intro": {
+        "vi": "Vong hồn lạc đường ơi, mau về nhà thôi.",
+        "en": "Come home, strayed souls.",
+        "zh": "迷途的亡魂呀，快回家吧。"
+      },
+      "description": {
+        "vi": "Linh hải vươn vấn, khi kết thúc lượt, đính kèm [buff_3822_3] cho bản thân và 2 đồng minh không phải vật triệu hồi ngẫu nhiên, duy trì 1 lượt.",
+        "en": "At the end of her turn, the [buff_3822_3]s that revolve around her attach themselves to her and 2 random non-summoned ally entities. Sustainable for 1 turn.",
+        "zh": "海灵徘徊，回合结束时，为自身和随机2个非召唤物友方目标附着[buff_3822_3]，维持1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Loại hiệu ứng kích hoạt ngẫu nhiên của linh hải tăng thêm hiệu ứng phong ấn.",
+            "en": "Adds Seal to Sea Genie's random effects.",
+            "zh": "海灵的随机触发效果种类增加封印效果"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Loại hiệu ứng kích hoạt ngẫu nhiên của linh hải tăng thêm hiệu ứng phong ấn.",
+            "en": "Adds Seal to Sea Genie's random effects.",
+            "zh": "海灵的随机触发效果种类增加封印效果"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Loại hiệu ứng kích hoạt ngẫu nhiên của linh hải tăng thêm hiệu ứng đóng băng.",
+            "en": "Adds Freeze to Sea Genie's random effects.",
+            "zh": "海灵的随机触发效果种类增加冰冻效果"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Loại hiệu ứng kích hoạt ngẫu nhiên của linh hải tăng thêm hiệu ứng đóng băng.",
+            "en": "Adds Freeze to Sea Genie's random effects.",
+            "zh": "海灵的随机触发效果种类增加冰冻效果"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Số lượng đồng minh đính kèm linh hải tăng lên 2.",
+            "en": "Increases the allies attached by a Sea Genie to 2",
+            "zh": "附着海灵的友方数量增加至2个"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Số lượng đồng minh đính kèm linh hải tăng lên 2.",
+            "en": "Increases the allies attached by a Sea Genie to 2",
+            "zh": "附着海灵的友方数量增加至2个"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: Đính kèm linh hải cho bản thân, duy trì 1 lượt.",
+            "en": "Upper Hand: Attaches a Sea Genie to herself. Sustainable for 1 turn.",
+            "zh": "先机：为自身附着海灵，维持1回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: Đính kèm linh hải cho bản thân, duy trì 1 lượt.",
+            "en": "Upper Hand: Attaches a Sea Genie to herself. Sustainable for 1 turn.",
+            "zh": "先机：为自身附着海灵，维持1回合"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3822",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3823,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hải Tâm Lạc",
+        "en": "Aquatic Heart",
+        "zh": "海心落"
+      },
+      "intro": {
+        "vi": "Chỉ cần ta ở đây, chỉ cần ta ở đây, biển sẽ rơi xuống.",
+        "en": "I'm here, I'm the only one here, the sea falls.",
+        "zh": "唯我在此，唯我在此，海落下。"
+      },
+      "description": {
+        "vi": "Ngưng tụ sức mạnh đại dương, trị liệu lượng HP bằng 16% giới hạn HP cho 2 mục tiêu đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất, khiến mục tiêu tăng 20% phòng thủ, đồng thời trị liệu lượng HP bằng 16% giới hạn HP cho bản thân. Trước khi bắt đầu lượt, cứ có mỗi 1 đồng minh gắn kết linh hải trên sân, lượng trị liệu lần này tăng 10%.",
+        "en": "Focuses the power of the sea. Heals 2 non-summoned ally entities with the lowest proportion of HP by 16% of her max HP and increases their DEF by 20%. Heals herself by 16% of her max HP. For each ally attached by a Sea Genie at the start of her turn, increases the healing amount by 10%.",
+        "zh": "凝聚海洋的力量，为2个生命比例最低的非召唤物友方目标治疗生命上限16%的生命，使目标增加20%的防御，为自身治疗生命上限16%的生命。回合开始前，场上附着海灵的友方数量每存在一个，本次治疗量增加10%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Giới hạn HP trị liệu tăng đến 14%.",
+            "en": "Increases the healing amount to 14% of her max HP.",
+            "zh": "治疗的生命上限增加至14%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi trị liệu, trị liệu thêm lượng HP bằng 16% giới hạn HP cho bản thân.",
+            "en": "Also heals herself by 16% of her max HP when healing allies.",
+            "zh": "治疗时额外为自身治疗生命上限16%的生命"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giới hạn HP trị liệu tăng đến 16%.",
+            "en": "Increases the healing amount to 16% of her max HP.",
+            "zh": "治疗的生命上限增加至16%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi trị liệu, khiến mục tiêu tăng thêm 20% phòng thủ, duy trì 2 lượt.",
+            "en": "Also increases the DEF of the allies by 20% for 2 turns when healing them.",
+            "zh": "治疗时额外使目标增加20%防御，持续2回合"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3823",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "linghaidie",
+    "headKey": "h_linghaidie",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3821",
+      "3822",
+      "3823"
+    ]
+  },
+  "unresolvedTokens": []
+}

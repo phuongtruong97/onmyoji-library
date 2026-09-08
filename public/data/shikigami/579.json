@@ -1,0 +1,302 @@
+{
+  "id": 579,
+  "name": {
+    "vi": "Dao Âm Kagura",
+    "en": "Panharmonic Kinnara",
+    "zh": "瑶音紧那罗"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3296,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11164,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 414,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 115,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "15%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "160%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5791,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Dục Âm Nhĩ Sinh",
+        "en": "Music's Creation",
+        "zh": "浴音而生"
+      },
+      "intro": {
+        "vi": "Lòng ta như giai điệu, người đàn hợp nhất.",
+        "en": "Music born from my heart, I'm one with my lute.",
+        "zh": "我心如律，人琴合一。"
+      },
+      "description": {
+        "vi": "Chim luật vô tận sinh ra từ tắm âm thanh, tấu lên giai điệu tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Conjures recurring waves of melo-birds from music and plays her tunes to attack 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "无尽的律鸟浴音而生，演奏音律攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5791",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5792,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Dạ Âm Đồng Tấu",
+        "en": "Ensemble Formed",
+        "zh": "与世同奏"
+      },
+      "intro": {
+        "vi": "Đây là một khúc nhạc, hợp tấu đặc biệt.",
+        "en": "This is a special concerto.",
+        "zh": "这是一曲，特别的合奏。"
+      },
+      "description": {
+        "vi": "[tips_11]. Khi trận đấu bắt đầu và sau mỗi lần kết thúc lượt, đánh thức tỳ bà [tips_5792]. Khi [tips_5792] được đánh thức, tăng 100% Kháng Bạo Kích, 100% Kháng Hiệu Ứng cho bản thân và 160 điểm Phòng thủ cho toàn bộ đồng minh, duy trì 2 lượt. Sau mỗi lần [tips_5792] tấn công, tăng 12% hệ số sát thương của 『Thế Gian Chi Khúc』 (tối đa 24%, không mất đi khi chuyển hồi mục).",
+        "en": "[tips_11]. At the start of the battle and the end of her turns, awakens her lute [tips_5792]. When [tips_5792] is awakened, increases her Crit RES and Effect RES by 100% and all allies' DEF by 160 for 2 turns. After [tips_5792] attacks, increases Secular Song's damage multiplier by 12% (max 24%, won't be removed as rounds end).",
+        "zh": "[tips_11]。战斗开始时与每次回合结束后，唤醒琵琶[tips_5792]。[tips_5792]被唤醒时，提升自身100%暴击抵抗、100%效果抵抗与友方全体160点防御，持续2回合。[tips_5792]每次攻击后，提升『世间之曲』12%伤害系数（至多24%，跨回目不消失）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi [tips_5792] được đánh thức, tăng 100% Kháng Bạo Kích cho bản thân, duy trì 2 lượt",
+            "en": "When [tips_5792] is awakened, increases her Crit RES by 100% for 2 turns.",
+            "zh": "[tips_5792]被唤醒时，提升自身100%暴击抵抗，持续2回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi [tips_5792] được đánh thức, tăng 100% Kháng Hiệu Ứng cho bản thân, duy trì 2 lượt",
+            "en": "When [tips_5792] is awakened, increases her Effect RES by 100% for 2 turns.",
+            "zh": "[tips_5792]被唤醒时，提升自身100%效果抵抗，持续2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi [tips_5792] được đánh thức, tăng 160 điểm Phòng thủ cho toàn bộ đồng minh, duy trì 2 lượt",
+            "en": "When [tips_5792] is awakened, increases all allies' DEF by 160 for 2 turns.",
+            "zh": "[tips_5792]被唤醒时，提升友方全体160点防御，持续2回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau mỗi lần [tips_5792] tấn công, tăng 12% hệ số sát thương của 『Thế Gian Chi Khúc』 (tối đa 24%, không mất đi khi chuyển hồi mục)",
+            "en": "After [tips_5792] attacks, increases Secular Song's damage multiplier by 12% (max 24%, won't be removed as rounds end).",
+            "zh": "[tips_5792]每次攻击后，提升『世间之曲』12%伤害系数（至多24%，跨回目不消失）"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5792",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5793,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thế Gian Chi Khúc",
+        "en": "Secular Song",
+        "zh": "世间之曲"
+      },
+      "intro": {
+        "vi": "Nhân gian khói lửa, chính là sân khấu mới của ta.",
+        "en": "The mortal world with its hustles and bustles will be my new stage.",
+        "zh": "烟火气的人间，便是我新的舞台。"
+      },
+      "description": {
+        "vi": "Dùng khúc nhạc này, gọi ánh sáng. Tấn công mục tiêu kẻ địch 6 lần, mỗi lần gây sát thương bằng 100% Tấn công. Khi tấn công quái vật, hệ số sát thương trong 1 đòn tấn công của bản thân và [tips_5792] tăng dần 23%.",
+        "en": "With this song, I summon the light. Launches a 6-strike attack on 1 enemy, dealing damage equal to 100% of her ATK on each strike. When attacking monsters, progressively increases the damage multiplier in a single attack of her and [tips_5792]'s attacks by 23%.",
+        "zh": "以此曲，唤光明。攻击敌方目标6次，每次造成攻击100%伤害。攻击怪物时，自身与[tips_5792]的单次攻击内伤害系数递增23%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 80%",
+            "en": "Increases the damage to 80%.",
+            "zh": "伤害增至80%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 90%",
+            "en": "Increases the damage to 90%.",
+            "zh": "伤害增至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 100%",
+            "en": "Increases the damage to 100%.",
+            "zh": "伤害增至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi tấn công quái vật, hệ số sát thương trong 1 đòn tấn công của bản thân và [tips_5792] tăng dần 23%",
+            "en": "When attacking monsters, progressively increases the damage multiplier in a single attack of her and [tips_5792]'s attacks by 23%.",
+            "zh": "攻击怪物时，自身与[tips_5792]的单次攻击内伤害系数递增23%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5793",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_jinnaluo",
+    "headKey": "h_sp_jinnaluo",
+    "armature": [
+      "common_card_skin/25sp_jinnaluo_card",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spjinnaluo",
+    "skillIconKeys": [
+      "5791",
+      "5792",
+      "5793"
+    ]
+  },
+  "unresolvedTokens": []
+}

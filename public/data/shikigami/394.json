@@ -1,0 +1,350 @@
+{
+  "id": 394,
+  "name": {
+    "vi": "Nguyệt Độc",
+    "en": "Tsukuyomi",
+    "zh": "月读"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 25, 7]",
+    "en": "[1, 25, 7]",
+    "zh": "[1, 25, 7]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3132,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 14251,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 348,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3941,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Không Vong",
+        "en": "Empty Void",
+        "zh": "空亡"
+      },
+      "intro": {
+        "vi": "Đêm tối sẽ không trả lời bất cứ điều gì.",
+        "en": "The night gives no answers.",
+        "zh": "黑夜什么都不会回答。"
+      },
+      "description": {
+        "vi": "Một đòn ngưng tụ sức mạnh của lời nói dối, gây 100% sát thương. Sát thương tăng đến 125%, nếu [tips_3942] tồn tại, hồi phục 10% HP cho vật đó.",
+        "en": "Strikes 1 enemy with the power of lies, dealing damage equal to 100% of Tsukuyomi's ATK. Increases the damage to 125%. If the [tips_3942] exist, restore Illusory Moon's HP by 10%.",
+        "zh": "凝聚谎言之力的一击，造成攻击100%伤害。伤害增加至125%，若[tips_3942]存在，为其恢复10%生命。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 125%, nếu [tips_3942] tồn tại, hồi phục 10% HP cho vật đó.",
+            "en": "Increases the damage to 125%. If the [tips_3942] exist, restore his HP by 10%.",
+            "zh": "伤害增加至125%，若[tips_3942]存在，为其恢复10%生命"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3941",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3942,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hư Đản Nguyệt Lạc",
+        "en": "Illusory Moonfall",
+        "zh": "虚诞月落"
+      },
+      "intro": {
+        "vi": "Các vì sao đã trở về vị trí, mặt trăng giả dối sẽ lại rơi xuống một lần nữa.",
+        "en": "The stars are now in place and the illusory moon will fall again.",
+        "zh": "群星已然归位，虚假的月亮将再度坠落。"
+      },
+      "description": {
+        "vi": "Hư thực khó phân, địch ta không kẽ hở. Triệu hồi [tips_3942], khi [tips_3942] tồn tại, nếu kẻ địch sử dụng đòn đánh thường và kỹ năng tấn công phe ta, có xác suất 70% chuyển hướng đòn tấn công đơn thể cùng trạng thái giảm ích và [tips_3] đi kèm sang Nguyệt Giả; nếu kẻ địch thi triển đòn đánh thường và kỹ năng đơn thể lên phe ta mà không gây ra hiệu quả tấn công, thì cũng có xác suất 70% chuyển hướng trạng thái giảm ích và [tips_3] đó, cứ mỗi 30% HP tối đa của Nguyệt Giả, xác suất trên được tăng thêm 10%. [tips_11], sau khi kết thúc lượt của kẻ địch không phải vật triệu hồi, Nguyệt Độc tăng 10% thanh hành động cho bản thân cho đến lần triệu hồi [tips_3942] đầu tiên.",
+        "en": "There's a fine line between illusion and reality, friend and foe. Conjures the [tips_3942]. While the [tips_3942] exists, when an enemy uses a normal attack or a skill to attack one or more allies, there's a 70% chance of redirecting the single-target attack and the debuffs and [tips_3]s it inflicts to the Illusory Moon; when an enemy uses a normal attack or a single-target skill on one or more allies and fails to land an attacking effect, there's also a 70% chance of redirecting its debuffs and [tips_3]s. For every 30% of the Illusory Moon's max HP, the above chance increases by an additional 10%. When summoning [tips_3942], immediately applies 2 stacks of [buff_3941_1] to all enemies. [tips_11]. At the end of a non-summoned enemy entity's turn, Tsukuyomi raises his own Move Bar by 10% until he conjures the [tips_3942] for the first time.",
+        "zh": "虚实难分，敌我无间。召唤[tips_3942]，[tips_3942]存在时，若敌方使用普攻和技能攻击友方，有70%的概率将其中的单体攻击及其附带的减益和[tips_3]转移至虚假之月；若敌方对友方施放普攻和单体技能未造成攻击效果，则同样有70%的概率转移其减益和[tips_3]，虚假之月每有30%最大血量，以上概率额外提升10%。召唤[tips_3942]时，立即为全体敌方附加2层[buff_3941_1]。[tips_11]，非召唤物的敌方回合结束后，月读增加自身10%行动条直至首次召唤[tips_3942]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất tăng đến 50%.",
+            "en": "Increases the chance to 50%.",
+            "zh": "概率提升至50%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất chuyển hướng tăng đến 50%.",
+            "en": "Increases the redirection chance to 50%.",
+            "zh": "转移概率提升至50%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất tăng đến 60%.",
+            "en": "Increases the chance to 60%.",
+            "zh": "概率提升至60%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất chuyển hướng tăng đến 60%.",
+            "en": "Increases the redirection chance to 60%.",
+            "zh": "转移概率提升至60%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất tăng đến 70%, cứ mỗi 30% HP tối đa của Nguyệt Giả, xác suất tăng thêm 10%.",
+            "en": "Chance increases to 70%. For every 30% of Illusory Moon's max HP, the chance increases by an additional 10%",
+            "zh": "概率提升至70%，虚假之月每有30%最大血量，概率额外提升10%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất chuyển hướng tăng đến 70%, cứ mỗi 30% HP tối đa của Nguyệt Giả, xác suất tăng thêm 10%.",
+            "en": "Transfer chance increases to 70%. For every 30% of Illusory Moon's max HP, the chance increases by an additional 10%",
+            "zh": "转移概率提升至70%，虚假之月每有30%最大血量，概率额外提升10%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_11], sau khi kết thúc lượt của kẻ địch không phải vật triệu hồi, Nguyệt Độc tăng 10% thanh hành động cho bản thân cho đến lần triệu hồi [tips_3942] đầu tiên.",
+            "en": "[tips_11]. At the end of a non-summoned enemy entity's turn, raise Tsukuyomi's Move Bar by 10% until Tsukuyomi summons the [tips_3942] for the first time.",
+            "zh": "[tips_11]，非召唤物的敌方回合结束后，月读增加自身10%行动条直至首次召唤[tips_3942]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_11], sau khi kết thúc lượt của kẻ địch không phải vật triệu hồi, Nguyệt Độc tăng 10% thanh hành động cho bản thân cho đến lần triệu hồi [tips_3942] đầu tiên.",
+            "en": "[tips_11]. At the end of a non-summoned enemy entity's turn, raise Tsukuyomi's Move Bar by 10% until Tsukuyomi summons the [tips_3942] for the first time.",
+            "zh": "[tips_11]，非召唤物的敌方回合结束后，月读增加自身10%行动条直至首次召唤[tips_3942]"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3942",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3943,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nguyệt Tẫn Thiên Cực",
+        "en": "Moon Collapsed",
+        "zh": "月烬天极"
+      },
+      "intro": {
+        "vi": "Ngủ yên ở đây đi, đây là sự thật được chuẩn bị riêng cho ngươi.",
+        "en": "Sleep now. This is the truth prepared especially for you.",
+        "zh": "在此沉眠吧，这是独为你准备的真实。"
+      },
+      "description": {
+        "vi": "Tro tàn của lời nói dối rơi xuống từ bầu trời cao, gây 4 lần sát thương bằng 56% tấn công cho toàn thể kẻ địch, đồng thời đính kèm 2 tầng [buff_3941_1] cho mục tiêu chỉ định.",
+        "en": "The ashes of lies fall from the sky. Launches a 4-strike attack on all enemies, dealing damage equal to 56% of Tsukuyomi's ATK on each strike. Also inflicts 2 stacks of [buff_3941_1] on the selected enemy.",
+        "zh": "谎言的灰烬自高天坠落，对敌方全体造成4次攻击56%伤害，并为指定目标附加2层[buff_3941_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至47%",
+            "en": "伤害增加至47%",
+            "zh": "伤害增加至47%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至50%",
+            "en": "伤害增加至50%",
+            "zh": "伤害增加至50%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至53%",
+            "en": "伤害增加至53%",
+            "zh": "伤害增加至53%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 56%, số tầng tinh diệu đính kèm tăng đến 2 tầng.",
+            "en": "Increases the damage to 56% and increases the Lost Star stacks inflicted to 2.",
+            "zh": "伤害增加至56%，附加惑星增加至2层"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3943",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yueduming",
+    "headKey": "h_yueduming",
+    "armature": "",
+    "artName": "txt_zhanshi_yuedu",
+    "skillIconKeys": [
+      "3941",
+      "3942",
+      "3943"
+    ]
+  },
+  "unresolvedTokens": []
+}

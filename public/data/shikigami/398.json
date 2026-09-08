@@ -1,0 +1,303 @@
+{
+  "id": 398,
+  "name": {
+    "vi": "Thiên Nghịch Mỗi",
+    "en": "Amanozako",
+    "zh": "天逆每"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17]",
+    "en": "[17]",
+    "zh": "[17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 1661,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12645,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 436,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "3%",
+      "grade": "C"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3981,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cụ Trung Nhân",
+        "en": "One with Fear",
+        "zh": "惧中人"
+      },
+      "intro": {
+        "vi": "Này! Đừng làm phiền ta thưởng thức nỗi sợ hãi của loài người.",
+        "en": "Hey! Leave me alone to enjoy the humans' fear.",
+        "zh": "喂！别打搅我欣赏人类的恐惧。"
+      },
+      "description": {
+        "vi": "Kẻ mang sợ hãi không nơi trốn chạy, gây cho mục tiêu kẻ địch được chọn sát thương bằng 100% Tấn công. Nếu phe địch có mục tiêu [buff_3981_1], hiệu ứng này thay bằng ra lệnh cho kẻ địch mang [buff_3981_1] Đánh Thường vào mục tiêu chỉ định không phải bản thân, đồng thời khiến lần Đánh Thường này tăng 40% sát thương gây ra.",
+        "en": "Those with fear have no where to run. Attacks 1 enemy, dealing damage equal to 100% of her ATK. If the enemy has [buff_3981_1], commands the enemy with [buff_3981_1] to use normal attack on another unit other than herself instead. The commanded enemy deals 40% more damage with the normal attack.",
+        "zh": "恐惧之人无处可逃，对挑选的敌方目标造成攻击100%伤害。若敌方存在[buff_3981_1]目标，该效果则替换为命令携带[buff_3981_1]的敌方普攻非自身的指定目标，并使此次普攻造成伤害提升40%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 85%",
+            "en": "Increases damage to 85%.",
+            "zh": "伤害增加至85%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 90%",
+            "en": "Increases damage to 90%.",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 95%",
+            "en": "Increases damage to 95%.",
+            "zh": "伤害增加至95%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 100%, Đánh Thường của kẻ địch bị sợ hãi tăng 40% sát thương gây ra",
+            "en": "Increases the damage to 100% and the normal attack damage dealt by the commanded enemy with Feat by 40%.",
+            "zh": "伤害增加至100%，命令恐惧敌方普攻造成伤害提升40%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3985",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3982,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Cụ Ảnh Tùy",
+        "en": "Shadowdread",
+        "zh": "惧影随"
+      },
+      "intro": {
+        "vi": "Suý, nỗi sợ của ngươi, chính là sức mạnh của ta.",
+        "en": "Shh, your fear makes me powerful.",
+        "zh": "嘘，你的恐惧，就是我的力量。"
+      },
+      "description": {
+        "vi": "[tips_11].\nNỗi sợ chỉ như hình với bóng, chỉ định 1 mục tiêu kẻ địch không phải vật triệu hồi, gắn lên kẻ đó 4 tầng [buff_3981_1], đồng thời tăng cho bản thân 50% Thanh Hành Động. Thiên Nghịch Mỗi gắn [buff_3981_1] lên tối đa 1 mục tiêu kẻ địch, và bản thân không chịu ảnh hưởng bởi hiệu ứng này.",
+        "en": "[tips_11].\nYou can never shake off your fear. Inflicts 4 [buff_3981_1] stacks on 1 non-summoned ally entity and raises her own Move Bar by 50%. Amanozako can inflict [buff_3981_1] on up to 1 enemy, and she herself cannot be affected by the effect.",
+        "zh": "[tips_11]。\n恐惧只会如影随形，指定1名非召唤物的敌方目标，对其施加4层[buff_3981_1]，并增加自身50%行动条。天逆每最多对1名敌方目标施加[buff_3981_1]，且自身不会受此效果影响。"
+      },
+      "upgrades": [],
+      "orbCost": 2,
+      "iconKey": "3982",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3983,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cụ Bát Chi Phong",
+        "en": "Dread Blade Wind",
+        "zh": "惧刃之风"
+      },
+      "intro": {
+        "vi": "Cứ để ngọn gió sợ hãi của cụt đao, lan rộng thỏa thích...",
+        "en": "Let the dread blade wind rages on...",
+        "zh": "就让惧刃之风，肆意蔓延……"
+      },
+      "description": {
+        "vi": "Nỗi sợ hãi dấy lên trận cuồng phong, có 15% (+0%) (+0%) xác suất khiến toàn bộ phe địch [tips_104], duy trì 1 lượt.\nKhi mục tiêu phe địch đạt đủ 6 tầng [buff_3981_1], thay thế kỹ năng thành 「[skill_3984_1]」.",
+        "en": "The Dread Storm has a 15% (+0%) (+0%) chance of inflicting [tips_104] lasting 1 turn on all enemies.\nIf the enemy has at least 6 [buff_3981_1] stacks, changes the skill to [skill_3984_1].",
+        "zh": "恐惧掀起暴风，有15%（+0%）（+0%）概率使敌方全体[tips_104]，持续1回合。\n当敌方目标[buff_3981_1]满6层时，将技能替换为「[skill_3984_1]」。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất Câm lặng cơ bản tăng lên 11%",
+            "en": "Increases her base chance of inflicting Silence to 11%.",
+            "zh": "沉默基础概率提升至11%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất Câm lặng cơ bản tăng lên 11%",
+            "en": "Increases her base chance of inflicting Silence to 11%.",
+            "zh": "沉默基础概率提升至11%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất Câm lặng cơ bản tăng lên 12%",
+            "en": "Increases her base chance of inflicting Silence to 12%.",
+            "zh": "沉默基础概率提升至12%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất Câm lặng cơ bản tăng lên 12%",
+            "en": "Increases her base chance of inflicting Silence to 12%.",
+            "zh": "沉默基础概率提升至12%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất Câm lặng cơ bản tăng lên 13%",
+            "en": "Increases her base chance of inflicting Silence to 13%.",
+            "zh": "沉默基础概率提升至13%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất Câm lặng cơ bản tăng lên 13%",
+            "en": "Increases her base chance of inflicting Silence to 13%.",
+            "zh": "沉默基础概率提升至13%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất Câm lặng cơ bản tăng lên 15%, mỗi khi mục tiêu phe địch có 1 tầng sợ hãi, xác suất cơ bản tăng 5%",
+            "en": "Increases her base chance of inflicting Silence to 15%. Each Fear stack on the enemy increases the base chance by 5%.",
+            "zh": "沉默基础概率提升至15%，敌方目标每有1层恐惧，基础概率提升5%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất Câm lặng cơ bản tăng lên 15%, mỗi khi mục tiêu phe địch có 1 tầng sợ hãi, xác suất cơ bản tăng 5%",
+            "en": "Increases her base chance of inflicting Silence to 15%. Each Fear stack on the enemy increases the base chance by 5%.",
+            "zh": "沉默基础概率提升至15%，敌方目标每有1层恐惧，基础概率提升5%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3983",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "tiannimei",
+    "headKey": "h_tiannimei",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3985",
+      "3982",
+      "3983"
+    ]
+  },
+  "unresolvedTokens": [
+    "skill_3983_1"
+  ]
+}

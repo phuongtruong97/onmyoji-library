@@ -1,0 +1,301 @@
+{
+  "id": 226,
+  "name": {
+    "vi": "Khiêu Khiêu Muội Muội",
+    "en": "Kyonshi Imoto",
+    "zh": "跳跳妹妹"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2760,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9797,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 357,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 98,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2261,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kẻ Xấu Đi Ra",
+        "en": "Baddies Begone",
+        "zh": "坏人走开"
+      },
+      "intro": {
+        "vi": "Kẻ xấu là đáng ghét nhất, tất cả biến đi cho ta!",
+        "en": "Baddies always lose. Run away while you can!",
+        "zh": "坏人最讨厌了，通通给我消失！"
+      },
+      "description": {
+        "vi": "Lao về phía trước, vung tay quật mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 63% Tấn công.",
+        "en": "Charges forward and smacks 1 enemy 2 times, dealing damage equal to 63% of her ATK.",
+        "zh": "往前冲，甩手抽打敌方目标2次，每次造成攻击63%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至53%",
+            "en": "伤害增加至53%",
+            "zh": "伤害增加至53%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至55%",
+            "en": "伤害增加至55%",
+            "zh": "伤害增加至55%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至58%",
+            "en": "伤害增加至58%",
+            "zh": "伤害增加至58%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至63%",
+            "en": "伤害增加至63%",
+            "zh": "伤害增加至63%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2261",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2262,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Không Chơi Nữa Đâu",
+        "en": "Temper Tantrum",
+        "zh": "不玩了啦"
+      },
+      "intro": {
+        "vi": "Oa oa... Không chơi nữa đâu! Oa oa oa...",
+        "en": "Wwaaah... I'm not playing anymore! Wa Waah...",
+        "zh": "呜呜……不玩了啦！呜呜呜……"
+      },
+      "description": {
+        "vi": "Khi lượt kết thúc, có 30% xác suất giúp toàn bộ phe ta nhận [buff_2262_1], duy trì 2 lượt.\nKhi Khiêu Khiêu Muội Muội tử vong, nếu Cà Chua có mặt trên sân, sẽ lập tức hồi sinh. Mỗi khi hồi sinh 1 lần, khiến thời gian hồi chiêu của lần hồi sinh tiếp theo tăng 1 lượt.",
+        "en": "At the end of her turn, has a 30% chance of granting [buff_2262_1] lasting 2 turns on all allies.\nWhen Kyonshi Imoto is KO'd, if Tomato is on the battlefield, she is revived immediately. Each revival increases the CD of her next revival by 1 turn.",
+        "zh": "回合结束时，有30%概率使友方全体获得[buff_2262_1]，持续2回合。\n跳跳妹妹死亡时，如果番茄在场，会马上复活。每复活1次，会使下次复活的冷却时间增加1回合。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "2262",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2263,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Gâu Gâu Xuất Kích",
+        "en": "Dog Attack",
+        "zh": "汪汪出击"
+      },
+      "intro": {
+        "vi": "Cà Chua, mau đi cắn bọn kẻ xấu đó! Xuất kích!",
+        "en": "Tomato, go get them! Attack!",
+        "zh": "番茄，快去咬那帮坏人！出击！"
+      },
+      "description": {
+        "vi": "Triệu hồi Cà Chua, Cà Chua có thể sử dụng 『[skill_4024_1]』; khi triệu hồi lập tức sử dụng 『[skill_4024_1]』 tấn công kẻ địch có tỷ lệ HP thấp nhất. Cà Chua khi gây sát thương cho kẻ địch, xua tan ngẫu nhiên 1 trạng thái tăng ích của kẻ đó\nKhi kẻ địch tử trận, Cà Chua sẽ sử dụng 『[skill_4026_1]』.\nCà Chua thừa hưởng [z_生命继承比_per] HP, [z_攻击继承比_per] Tấn công và [z_速度继承比_per] Tốc độ của Khiêu Khiêu Muội Muội.\nKhi Cà Chua có mặt trên sân, kỹ năng này thay thế thành 『[skill_2267_1]』.",
+        "en": "Summons Tomato with the ability to use [skill_4024_1]; Tomato uses [skill_4024_1] immediately when summoned to attack the enemy with the lowest proportion of HP. When Tomato deals damage to an enemy, dispels a random buff from them.\nTomato uses [skill_4026_1] when an enemy is KO'd.\nTomato inherits [z_生命继承比_per] of Kyonshi Imoto's HP, [z_攻击继承比_per] of her ATK, and [z_速度继承比_per] of her SPD.\nIf Tomato is on the battlefield, the skill is changed to [skill_2267_1].",
+        "zh": "召唤番茄，番茄可使用『[skill_4024_1]』；召唤时立即使用『[skill_4024_1]』攻击生命比例最低的敌方。番茄对敌方造成伤害时，驱散其随机1个增益状态\n敌方阵亡时，番茄将使用『[skill_4026_1]』。\n番茄继承跳跳妹妹[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击和[z_速度继承比_per]速度。\n当番茄在场时，该技能替换成『[skill_2267_1]』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Thừa hưởng Tấn công tăng lên [z_攻击继承比_per]",
+            "en": "Increases inherited ATK to [z_攻击继承比_per].",
+            "zh": "继承攻击增至[z_攻击继承比_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Thừa hưởng Tấn công tăng lên [z_攻击继承比_per]",
+            "en": "Increases inherited ATK to [z_攻击继承比_per].",
+            "zh": "继承攻击增至[z_攻击继承比_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Cà Chua khi gây sát thương cho kẻ địch, xua tan ngẫu nhiên 1 trạng thái tăng ích của kẻ đó",
+            "en": "When Tomato deals damage to an enemy, it dispels a random buff from them.",
+            "zh": "番茄对敌方造成伤害时，驱散其随机1个增益状态"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Cà Chua khi gây sát thương cho kẻ địch, xua tan ngẫu nhiên 1 trạng thái tăng ích của kẻ đó",
+            "en": "When Tomato deals damage to an enemy, it dispels a random buff from them.",
+            "zh": "番茄对敌方造成伤害时，驱散其随机1个增益状态"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "继承生命值增至[z_生命继承比_per]",
+            "en": "继承生命值增至[z_生命继承比_per]",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
+            "en": "Increases inherited HP to [z_生命继承比_per].",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Khiêu Khiêu Muội Muội tấn công, sẽ [tips_10] Cà Chua",
+            "en": "When Kyonshi Imoto attacks, she issues a [tips_10] to Tomato.",
+            "zh": "跳跳妹妹攻击时，将[tips_10]番茄"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Khiêu Khiêu Muội Muội tấn công, sẽ [tips_10] Cà Chua",
+            "en": "When Kyonshi Imoto attacks, she issues a [tips_10] to Tomato.",
+            "zh": "跳跳妹妹攻击时，将[tips_10]番茄"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2263",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "tiaotiaomeimei",
+    "headKey": "h_tiaotiaomeimei",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2261",
+      "2262",
+      "2263"
+    ]
+  },
+  "unresolvedTokens": []
+}

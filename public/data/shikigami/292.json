@@ -1,0 +1,270 @@
+{
+  "id": 292,
+  "name": {
+    "vi": "Yoto",
+    "en": "Yuki",
+    "zh": "雪童子"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 17]",
+    "en": "[1, 17]",
+    "zh": "[1, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3028,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 111,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2921,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Yuki-zane",
+        "en": "Snow Chaser",
+        "zh": "雪走"
+      },
+      "intro": {
+        "vi": "Trong ký ức hình như chưa từng có người sống... nhìn thấy thanh đao này.",
+        "en": "No one has crossed this blade and lived...",
+        "zh": "记忆中好像从来没有活人...见到过这把刀。"
+      },
+      "description": {
+        "vi": "Rút danh đao 『Yuki-zane』 từ chắn đao trước ngực, vung một đợt chém uy lực tấn công mục tiêu kẻ địch, gây sát thương 100%.",
+        "en": "Draws Snow Chaser from its sheath and slashes 1 enemy, dealing damage equal to 100% of his ATK.",
+        "zh": "从胸前刀镡处拔出名刀『雪走』，挥出强力砍击攻击敌方目标，造成攻击100%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至84%",
+            "en": "伤害增加至84%",
+            "zh": "伤害增加至84%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至88%",
+            "en": "伤害增加至88%",
+            "zh": "伤害增加至88%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至92%",
+            "en": "伤害增加至92%",
+            "zh": "伤害增加至92%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2921",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2922,
+      "maxLevel": 2,
+      "name": {
+        "vi": "Sương Thiên Chi Chức",
+        "en": "Snow Weaver",
+        "zh": "霜天之织"
+      },
+      "intro": {
+        "vi": "Trời... sắp tuyết rơi sao? Đúng vậy... chỉ cần ta muốn...",
+        "en": "When it snows, it pours!",
+        "zh": "天…是要下雪了吗？是的...只要我想…"
+      },
+      "description": {
+        "vi": "Mỗi đợt tấn công của Setouto có xác suất 15% (+[*|a_debuff-acc_per|s_buff概率_per]) khiến kẻ địch rơi vào trạng thái đóng băng trong 1-2 lượt (hiệu quả này có thể truyền dẫn qua liên kết). Nếu mục tiêu vốn đã bị đóng băng, đóng băng sâu, sương giá, đợt tấn công đó sẽ đổi thành phá băng và khiến sát thương tăng đến 300% sát thương gốc. Ngoài lượt của Setouto, bản thân được bao quanh bởi một lớp tuyết bay, có thể đỡ đòn 1 lần hiệu quả đóng băng, đóng băng sâu, sương giá, phong ấn bị động, phong ấn Ngự Hồn.",
+        "en": "When Yuki attacks, he has a 15% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting Freeze on the enemy for 1 – 2 turns (transmissible via link effects). If the target is inflicted with Freeze, Deep Freeze, or Frostbound, his attack will break the ice on the target, dealing damage equal to 300% of the original damage instead. He gains a snow buffer, negating 1 Freeze, Deep Freeze, Frostbound, Banish, Seal Passive, or Seal Soul effect before his next turn.",
+        "zh": "雪童子的每次攻击有15%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使敌方陷入冰冻状态1-2回合（该效果可经由链接传导）。若目标原本已被冰冻、深度冰冻、霜冻，则该次攻击改为碎冰并使得伤害提升至原伤害的300%。在雪童子的回合之外，其自身环绕一层飞雪，可抵消1次冻结、深度冰冻、霜冻、被动封印、御魂封印效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "该技能无法升级",
+            "en": "该技能无法升级",
+            "zh": "该技能无法升级"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2922",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2923,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lung Nguyệt Tuyết Hoa Trảm",
+        "en": "December Snow",
+        "zh": "胧月雪华斩"
+      },
+      "intro": {
+        "vi": "Ánh trăng tối nay đẹp làm sao, trước kia ta luôn vô cùng trân trọng...",
+        "en": "Isn't the moon beautiful tonight?",
+        "zh": "今晚月色好美，从前我总分外珍惜..."
+      },
+      "description": {
+        "vi": "使用名刀『雪走』攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。",
+        "en": "使用名刀『雪走』攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。",
+        "zh": "使用名刀『雪走』攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至145%",
+            "en": "伤害增加至145%",
+            "zh": "伤害增加至145%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至150%",
+            "en": "伤害增加至150%",
+            "zh": "伤害增加至150%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至155%",
+            "en": "伤害增加至155%",
+            "zh": "伤害增加至155%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至160%",
+            "en": "伤害增加至160%",
+            "zh": "伤害增加至160%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2923",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "xuetongzi",
+    "headKey": "h_xuetongzi",
+    "armature": "",
+    "artName": "txt_zhanshi_xuetongzi",
+    "skillIconKeys": [
+      "2921",
+      "2922",
+      "2923"
+    ]
+  },
+  "unresolvedTokens": []
+}

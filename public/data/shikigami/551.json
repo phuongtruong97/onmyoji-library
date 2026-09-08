@@ -1,0 +1,302 @@
+{
+  "id": 551,
+  "name": {
+    "vi": "Tầm Sâm Tiểu Lộc Nam",
+    "en": "Greenwarden Shishio",
+    "zh": "寻森小鹿男"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 18, 41]",
+    "en": "[1, 18, 41]",
+    "zh": "[1, 18, 41]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10594,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 383,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 110,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5511,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lâm Gian Tức",
+        "en": "Sylvan Breath",
+        "zh": "林间息"
+      },
+      "intro": {
+        "vi": "Còn lưu lại trong gió, hơi thở của khu rừng.",
+        "en": "The breath of the forest lingers on the wind.",
+        "zh": "风中留存，森林的灵息。"
+      },
+      "description": {
+        "vi": "Vung gậy cành cây trong tay, bay ra đom dóm gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Waves a tree branch and directs a florescent light at 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "挥舞手中的枝杖，飞出流萤对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%",
+            "zh": "伤害提升至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害提升至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害提升至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Increases damage to 125%",
+            "zh": "伤害提升至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5511",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5512,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tầm Lộc Tích",
+        "en": "Deer Tracer",
+        "zh": "寻鹿迹"
+      },
+      "intro": {
+        "vi": "Ta sẽ không từ bỏ bất kỳ một người bạn nào.",
+        "en": "I won't give up on my friends.",
+        "zh": "我不会放弃，任何一位伙伴。"
+      },
+      "description": {
+        "vi": "[tips_11]. Mỗi khi tấn công mục tiêu kẻ địch, đính kèm [buff_5511_1], duy trì 1 lượt. Khi lượt của bản thân bắt đầu, hấp thụ Sâm Chi Linh mà kẻ địch mang theo, nhận số lượng [buff_5512_1] tương ứng, duy trì 2 lượt.",
+        "en": "[tips_11]. Whenever he attacks an enemy, inflicts [buff_5511_1] lasting 1 turn on them. At the start of his turn, absorbs the Sylvan Souls on enemies to gain an equal amount of [buff_5512_1]s that last 2 turns.",
+        "zh": "[tips_11]。每次攻击敌方目标时，附加[buff_5511_1]，持续1个回合。自身回合开始时，吸收敌方携带的森之灵，获得等量个数的[buff_5512_1]，持续2个回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi chịu trạng thái tiêu cực và hiệu ứng khống chế, có 30% xác suất miễn nhiễm và nhận 1 Sâm Chi Tâm",
+            "en": "When he's inflicted with debuffs or controlling effects, has a 30% chance of gaining immunity to them and 1 Sylvan Heart.",
+            "zh": "受到减益和控制效果时，有30%概率免疫并获得1个森之心"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi lượt bắt đầu mỗi khi có 1 Sâm Chi Tâm, hồi phục lượng HP bằng 13% HP tối đa của bản thân",
+            "en": "At the end of his turn, each Sylvan Heart he has recovers his HP by 13% of his max HP.",
+            "zh": "回合开始时每有1个森之心，恢复自身最大生命13%血量"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi Sâm Chi Linh kích hoạt, tăng 60 điểm Tốc độ, duy trì 1 lượt",
+            "en": "When a Sylvan Soul is triggered, increases his SPD by 60 for 1 turn.",
+            "zh": "森之灵触发时，提升60点速度，持续1回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu kẻ địch không có Sâm Chi Linh, sau khi lượt của kẻ địch không phải vật triệu hồi kết thúc, bản thân tăng 10% Thanh Hành Động",
+            "en": "If the enemies don't have a Sylvan Soul, at the end of an non-summoned enemy entity's turn, raises his Move Bar by 10%.",
+            "zh": "若敌方不存在森之灵，非召唤物的敌方回合结束后，自身提升10%行动条"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5512",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5513,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Sâm Chi Khế",
+        "en": "Sylvan Pact",
+        "zh": "森之契"
+      },
+      "intro": {
+        "vi": "Hóa ra đồng tộc của ta vẫn còn ở bên cạnh.",
+        "en": "My people are still here with me.",
+        "zh": "原来我的族人还在身旁。"
+      },
+      "description": {
+        "vi": "Ngưng tụ linh thở của đồng tộc tấn công mục tiêu kẻ địch, gây sát thương bằng 228% Tấn công. Khi có [buff_5512_1], đính kèm thêm 40% hiệu ứng đẩy lùi Thanh Hành Động, nếu bị đẩy lùi đến cuối Thanh Hành Động, dây mây của rừng có 100% xác suất cơ bản khiến kẻ đó [tips_5513] 1 lượt. Khi có 1, 2 Sâm Chi Tâm, lần lượt có thể tấn công thêm 1, 2 mục tiêu kẻ địch ngẫu nhiên. Khi có 3 Sâm Chi Tâm, Trói Buộc chắc chắn trúng.",
+        "en": "Focuses the spiritual breath of his people to attack 1 enemy, dealing damage equal to 228% of his ATK. If he has a [buff_5512_1], also lowers their Move Bar by 40%; if their Move Bar reaches zero, Sylvan Vines has a 100% base chance of inflicting [tips_5513] lasting 1 turn on them. If he has 1 or 2 Sylvan Hearts, he can attack 1 or 2 additional enemies at random, respectively. If he has 3 Sylvan Hearts, he's guaranteed to inflict Vinebound.",
+        "zh": "凝聚族人之灵息攻击敌方目标，造成攻击228%伤害。拥有[buff_5512_1]时，附加40%行动条击退效果，若被击退至行动条末端，森之藤蔓有100%基础概率将其[tips_5513]1个回合。拥有1个、2个森之心时，分别可额外攻击1个、2个随机敌方目标。拥有3个森之心时，牵缠必定命中。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi khi có 1 Sâm Chi Tâm, hệ số sát thương kỹ năng tăng 25%",
+            "en": "Each Sylvan Heart he has increases the skill's damage multiplier by 25%",
+            "zh": "每有1个森之心，技能伤害系数提升25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi có 1 Sâm Chi Tâm, có thể tấn công thêm 1 mục tiêu kẻ địch ngẫu nhiên",
+            "en": "If he has 1 Sylvan Heart, he can attack 1 additional enemy at random.",
+            "zh": "拥有1个森之心时，可额外攻击1个随机敌方目标"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi có 2 Sâm Chi Tâm, có thể tấn công thêm 2 mục tiêu kẻ địch ngẫu nhiên",
+            "en": "If he has 2 Sylvan Hearts, he can attack 2 additional enemies at random.",
+            "zh": "拥有2个森之心时，可额外攻击2个随机敌方目标"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi có 3 Sâm Chi Tâm, Trói Buộc chắc chắn trúng",
+            "en": "If he has 3 Sylvan Hearts, he's guaranteed to inflict Vinebound.",
+            "zh": "拥有3个森之心时，牵缠必定命中"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5513",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_xiaolunan",
+    "headKey": "h_spxiaolunan",
+    "armature": [
+      "sp_xiaolunan_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spxiaolunan",
+    "skillIconKeys": [
+      "5511",
+      "5512",
+      "5513"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,350 @@
+{
+  "id": 585,
+  "name": {
+    "vi": "Hoang Khô Lâu",
+    "en": "Odokuro",
+    "zh": "荒骷髅"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 7]",
+    "en": "[1, 7]",
+    "zh": "[1, 7]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 1581,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 13784,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "3%",
+      "grade": "C"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5851,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hài Kích",
+        "en": "Bone Assault",
+        "zh": "骸袭"
+      },
+      "intro": {
+        "vi": "Kẻ lùi nửa bước, chém lập tức!",
+        "en": "Anyone who steps back will be cut down!",
+        "zh": "退半步者，立斩！"
+      },
+      "description": {
+        "vi": "Hoang Khô Lâu giơ khiên lao về phía trước, tấn công mục tiêu kẻ địch gây sát thương bằng 125% Tấn công.",
+        "en": "Odokuro charges forward with his shield, attacking an enemy target and dealing 125% damage.",
+        "zh": "荒骷髅举盾前冲，攻击敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5851",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5852,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hoa Hôn Liệt Hồn",
+        "en": "Soulful Kiss",
+        "zh": "花吻烈魂"
+      },
+      "intro": {
+        "vi": "Tuyệt không phản bội!",
+        "en": "Never betray!",
+        "zh": "绝无背弃！"
+      },
+      "description": {
+        "vi": "[tips_11]. Hoang Khô Lâu thắp lên đóa hoa màu máu trên chiến trường, khi trận đấu bắt đầu, giúp thức thần đồng minh có Tấn công cao nhất nhận [buff_5852_1]. Khi lượt người sở hữu [buff_5852_1] kết thúc, Hoang Khô Lâu lập tức tiến vào Khe Hở Thời Gian. (（Hoang Khô Lâu trước khi mỗi lượt bắt đầu kích hoạt tối đa 1 lần)) Hoang Khô Lâu khi [tips_21] HP sẽ không Tử Trận và lưu trữ năng lượng tương đương vào [tips_5851].\n【Thi triển】 Chuyển dịch [buff_5852_1] sang mục tiêu đồng minh không phải vật triệu hồi.",
+        "en": "[tips_11]. Odokuro Ignites Crimson Blossom on the battlefield. At the start of battle, the allied shikigami with the highest attack gains [buff_5852_1]. When the carrier of [buff_5852_1] ends their turn, Odokuro immediately enters the Rift in Time. (Triggers at most once before each of Odokuro's turns). Odokuro will not die when his HP drops to [tips_21] and stores an equal amount of energy in [tips_5851].\nTransfers [buff_5852_1] to a non-summon allied target.",
+        "zh": "[tips_11]。荒骷髅于战场上点燃血色之花，战斗开始时，使攻击最高的友方式神获得[buff_5852_1]。[buff_5852_1]携带者回合结束时，荒骷髅立即进入时之隙。(（荒骷髅每个回合开始前至多触发1次）)荒骷髅[tips_21]生命时不会阵亡并将等量能量存于[tips_5851]中。\n【施放】转移[buff_5852_1]至友方非召唤物目标。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tỷ lệ gánh chịu sát thương nâng lên 45%",
+            "en": "Increases proportion of damage shared to 45%.",
+            "zh": "伤害分担比例提升至45%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tỷ lệ gánh chịu sát thương nâng lên 45%",
+            "en": "Increases proportion of damage shared to 45%.",
+            "zh": "伤害分担比例提升至45%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Huyết Sắc Chi Hoa khi miễn nhiễm sát thương chí mạng, người sở hữu nhận thêm Bình Thị Thiết Bích bằng tổng lượng HP đã mất của Hoang Khô Lâu",
+            "en": "When Crimson Blossom prevents lethal damage, the carrier additionally gains a Taira Iron Wall equal to the total HP lost by Odokuro.",
+            "zh": "血色之花免疫致命伤害时，携带者额外获得等同于荒骷髅失去生命总量的平氏铁壁"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Huyết Sắc Chi Hoa khi miễn nhiễm sát thương chí mạng, người sở hữu nhận thêm Bình Thị Thiết Bích bằng tổng lượng HP đã mất của Hoang Khô Lâu",
+            "en": "When Crimson Blossom prevents lethal damage, the carrier additionally gains a Taira Iron Wall equal to the total HP lost by Odokuro.",
+            "zh": "血色之花免疫致命伤害时，携带者额外获得等同于荒骷髅失去生命总量的平氏铁壁"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tỷ lệ gánh chịu sát thương nâng lên 50%",
+            "en": "Increases proportion of damage shared to 50%.",
+            "zh": "伤害分担比例提升至50%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tỷ lệ gánh chịu sát thương nâng lên 50%",
+            "en": "Increases proportion of damage shared to 50%.",
+            "zh": "伤害分担比例提升至50%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi lượt của người sở hữu [buff_5852_1] kết thúc, Hoang Khô Lâu lập tức tiến vào Khe Hở Thời Gian (（Hoang Khô Lâu trước khi mỗi lượt bắt đầu kích hoạt tối đa 1 lần))",
+            "en": "When the carrier of [buff_5852_1] ends their turn, Odokuro immediately enters the Rift in Time. (Triggers at most once before each of Odokuro's turns)",
+            "zh": "[buff_5852_1]携带者回合结束时，荒骷髅立即进入时之隙(（荒骷髅每个回合开始前至多触发1次）)"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi lượt của người sở hữu [buff_5852_1] kết thúc, Hoang Khô Lâu lập tức tiến vào Khe Hở Thời Gian (（Hoang Khô Lâu trước khi mỗi lượt bắt đầu kích hoạt tối đa 1 lần))",
+            "en": "When the carrier of [buff_5852_1] ends their turn, Odokuro immediately enters the Rift in Time. (Triggers at most once before each of Odokuro's turns)",
+            "zh": "[buff_5852_1]携带者回合结束时，荒骷髅立即进入时之隙(（荒骷髅每个回合开始前至多触发1次）)"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5852",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 5853,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hoàng Tuyền Chiến Kỳ",
+        "en": "Underworld Banner",
+        "zh": "黄泉战旗"
+      },
+      "intro": {
+        "vi": "Xương của lão tử, cứng hơn cái khiên này gấp ngàn lần",
+        "en": "My bones are a thousand times harder than this shield!",
+        "zh": "老子的骨头，比这盾硬千倍"
+      },
+      "description": {
+        "vi": "Hoang Khô Lâu dựng chiến kỳ, tung đòn liều mạng, [tips_21] 30% HP tối đa và tấn công mục tiêu 2 lần, lần lượt gây [tips_18] bằng 8% và 30% HP đã tổn thất của bản thân (（cả hai đòn sát thương đều không vượt quá 1200% Tấn công ban đầu của bản thân)). Khi thi triển trong Khe Hở Thời Gian, Quỷ Hỏa tiêu hao giảm 2 điểm. Khi thức thần kẻ địch tử trận, giới hạn HP tối đa của bản thân tăng 35% giá trị cơ bản và hồi phục lượng HP tương đương.",
+        "en": "Odokuro raises his war banner and delivers a life-risking strike, [tips_21] 30% of his max HP to attack the target twice. The two hits inflict [tips_18](（两次伤害均不超过自身初始攻击的1200%）) equal to 8% and 30% of his lost HP, respectively. When cast in Rift in Time, orb cost is reduced by 2. When an enemy shikigami is KO'd, Odokuro increases his max HP by 35% and recovers HP equal to that amount.",
+        "zh": "荒骷髅立起战旗，舍命一击，[tips_21]30%最大生命并攻击目标2次，依次造成自身已损失生命8%、30%的[tips_18](（两次伤害均不超过自身初始攻击的1200%）)。在时之隙施放，鬼火消耗减少2点。敌方式神阵亡时，自身最大生命值提升基础值的35%并恢复等量生命。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương lần thứ hai nâng lên bằng 25% HP đã tổn thất",
+            "en": "Increases the second hit's damage to 25% of the HP lost.",
+            "zh": "第二次伤害提升至已损失生命的25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi thi triển trong Khe Hở Thời Gian, Quỷ Hỏa tiêu hao giảm 2 điểm",
+            "en": "When cast in Rift in Time, orb cost is reduced by 2.",
+            "zh": "在时之隙施放，鬼火消耗减少2点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương lần thứ hai nâng lên bằng 30% HP đã tổn thất",
+            "en": "Increases the second hit's damage to 30% of the HP lost.",
+            "zh": "第二次伤害提升至已损失生命的30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi thức thần kẻ địch tử trận, giới hạn HP tối đa của bản thân tăng 35% giá trị cơ bản và hồi phục lượng HP tương đương",
+            "en": "When an enemy shikigami is KO'd, increases max HP by 35% and recovers HP equal to that amount.",
+            "zh": "敌方式神阵亡时，自身最大生命值提升基础值的35%并恢复等量生命"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5853",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "ssr_huangkulou",
+    "headKey": "h_ssr_huangkulou",
+    "armature": "",
+    "artName": "txt_zhanshi_ssr_huangkulou",
+    "skillIconKeys": [
+      "5851",
+      "5852",
+      "5853"
+    ]
+  },
+  "unresolvedTokens": []
+}

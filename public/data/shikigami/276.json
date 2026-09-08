@@ -1,0 +1,220 @@
+{
+  "id": 276,
+  "name": {
+    "vi": "Yasha",
+    "en": "Yasha",
+    "zh": "夜叉"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3001,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9341,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 357,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "12%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2761,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đồ Sát",
+        "en": "Massacre",
+        "zh": "屠戮"
+      },
+      "intro": {
+        "vi": "Đại gia đây muốn biến nơi này thành phế tích!",
+        "en": "I will turn this place to ruins!",
+        "zh": "本大爷要把这里变成废墟！"
+      },
+      "description": {
+        "vi": "攻击敌方目标，造成攻击125%伤害。",
+        "en": "攻击敌方目标，造成攻击125%伤害。",
+        "zh": "攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2761",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2763,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hoàng Tuyền Chi Hải",
+        "en": "Underworld Sea",
+        "zh": "黄泉之海"
+      },
+      "intro": {
+        "vi": "Yếu thật đấy, lũ các người.",
+        "en": "You are truly pathetic.",
+        "zh": "真弱啊，你们这群家伙。"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương 238%.\nCó xác suất 50% [Thi triển] lại kỹ năng này lên mục tiêu kẻ địch ngẫu nhiên.",
+        "en": "Attacks 1 enemy, dealing damage equal to 238% of his ATK.\nHas a 50% chance of using this skill on a random enemy repeatedly.",
+        "zh": "攻击敌方目标，造成攻击238%伤害。\n有50%的概率对随机敌方目标重复施放此技能。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至208%",
+            "en": "伤害增加至208%",
+            "zh": "伤害增加至208%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至218%",
+            "en": "伤害增加至218%",
+            "zh": "伤害增加至218%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至228%",
+            "en": "伤害增加至228%",
+            "zh": "伤害增加至228%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至238%",
+            "en": "伤害增加至238%",
+            "zh": "伤害增加至238%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2763",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yecha",
+    "headKey": "h_yecha",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2761",
+      "2763"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": 314,
+  "name": {
+    "vi": "Sesshomaru",
+    "en": "Sesshomaru",
+    "zh": "杀生丸"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 23]",
+    "en": "[1, 23]",
+    "zh": "[1, 23]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3001,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "12%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3141,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Độc Hoa Trảo",
+        "en": "Dokkasou",
+        "zh": "毒华爪"
+      },
+      "intro": {
+        "vi": "Hãy để móng vuốt độc của ta dung hóa ngươi đi.",
+        "en": "My poison claws will end you.",
+        "zh": "就让我的毒爪把你融化吧。"
+      },
+      "description": {
+        "vi": "Sử dụng Độc Hoa Trảo tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công đồng thời có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất giảm 20% Phòng thủ, duy trì 1 lượt.",
+        "en": "Uses his claws to attack 1 enemy, dealing damage equal to 125% of his ATK, with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of reducing the target's DEF by 20% for 1 turn.",
+        "zh": "使用毒华爪攻击敌方目标，造成攻击125%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率降低20%防御，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3141",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3142,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Thiên Sinh Nha Kết Giới",
+        "en": "Barrier: Tenseiga",
+        "zh": "天生牙结界"
+      },
+      "intro": {
+        "vi": "Kết Giới • Thiên Sinh Nha!",
+        "en": "Barrier: Tenseiga!",
+        "zh": "结界·天生牙！"
+      },
+      "description": {
+        "vi": "Khi chịu sát thương, đỡ đòn 30% trong số đó, tối đa không vượt quá 40% HP đã tổn thất.\nKhi chịu sát thương chí mạng, đỡ đòn sát thương lần đó và xóa bỏ tất cả [tips_25] của bản thân, sau đó nhận [tips_16] cho đến khi bắt đầu lượt tiếp theo, khi [tips_16] kết thúc, gánh chịu [buff_3144_1], duy trì 1 lượt; mỗi hồi mục chỉ kích hoạt 1 lần, đồng thời sau khi kích hoạt nhận 30% Hút Máu cho đến khi kết thúc hồi mục.\nKhi ở trạng thái [tips_16], không thể được mời chiến.",
+        "en": "When he takes damage, prevents 30% of the damage taken, up to a max of 40% HP lost.\nWhen he takes lethal damage, prevents the damage, removes each [tips_25] on him, and he becomes [tips_16] until his next turn. When he stops being [tips_16], grants him [buff_3144_1] for 1 turn. Only triggered once each round. Grants him 30% HP Steal until the round ends when triggered.\nHe can't receive Call to Arms while [tips_16].",
+        "zh": "受到伤害时，抵挡其中的30%，最多不超过已损失生命的40%。\n受到致命伤害时，抵挡该次伤害并移除自身所有[tips_25]，然后获得[tips_16]直到下个回合开始，当[tips_16]结束时，承受[buff_3144_1]，持续1回合；每回目仅触发1次，并在触发后获得30%吸血直到回目结束。\n[tips_16]时，无法被邀战。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "3142",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3143,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Minh Đạo Tàn Nguyệt Phá",
+        "en": "Meido Zangetsuha",
+        "zh": "冥道残月破"
+      },
+      "intro": {
+        "vi": "Minh Đạo Tàn Nguyệt Phá!",
+        "en": "Meido Zangetsuha!",
+        "zh": "冥道残月破！"
+      },
+      "description": {
+        "vi": "Vung ra một đạo Minh Đạo Tàn Nguyệt, gây cho toàn bộ kẻ địch sát thương bằng 182% Tấn công, đồng thời có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm [buff_3143_1], duy trì 2 lượt.",
+        "en": "Unleashes Meido Zangetsu against all enemies, dealing damage equal to 182% of his ATK, and has a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [buff_3143_1] lasting 2 turns on them.",
+        "zh": "挥出一道冥道残月，对敌方全体造成攻击182%伤害，并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_3143_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至158%",
+            "en": "伤害增加至158%",
+            "zh": "伤害增加至158%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至166%",
+            "en": "伤害增加至166%",
+            "zh": "伤害增加至166%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至174%",
+            "en": "伤害增加至174%",
+            "zh": "伤害增加至174%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至182%",
+            "en": "伤害增加至182%",
+            "zh": "伤害增加至182%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3143",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "shashengwan",
+    "headKey": "h_shashengwan",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3141",
+      "3142",
+      "3143"
+    ]
+  },
+  "unresolvedTokens": []
+}

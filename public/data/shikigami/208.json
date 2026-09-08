@@ -1,0 +1,386 @@
+{
+  "id": 208,
+  "name": {
+    "vi": "Tanuki",
+    "en": "Tanuki",
+    "zh": "狸猫"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17]",
+    "en": "[17]",
+    "zh": "[17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2117,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11619,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 392,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2081,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Yêu Tửu Hồ",
+        "en": "Bottle Bash",
+        "zh": "妖酒壶"
+      },
+      "intro": {
+        "vi": "Bình rượu của ta cứng lắm đấy, ợ...!",
+        "en": "You'll be feeling this in the morning... Hic!",
+        "zh": "我的酒壶，可硬了，嗝……！"
+      },
+      "description": {
+        "vi": "用酒壶狠狠地砸敌方目标的脑门，造成攻击120%伤害并附加1层[buff_2081_1]，上限5层，持续至战斗结束。此外还有50%（+[*|a_debuff-acc_per|s_buff2概率_per]）概率对其[tips_111]，持续1回合。",
+        "en": "用酒壶狠狠地砸敌方目标的脑门，造成攻击120%伤害并附加1层[buff_2081_1]，上限5层，持续至战斗结束。此外还有50%（+[*|a_debuff-acc_per|s_buff2概率_per]）概率对其[tips_111]，持续1回合。",
+        "zh": "用酒壶狠狠地砸敌方目标的脑门，造成攻击120%伤害并附加1层[buff_2081_1]，上限5层，持续至战斗结束。此外还有50%（+[*|a_debuff-acc_per|s_buff2概率_per]）概率对其[tips_111]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2081",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2082,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Say Ngủ",
+        "en": "Drunken Stupor",
+        "zh": "醉倒"
+      },
+      "intro": {
+        "vi": "Rượu, rượu! Mang... ợ... rượu ra đây!",
+        "en": "Booze! Booze! Bring... hic! Bring me some... Booze!",
+        "zh": "酒，酒！拿……嗝……酒来！"
+      },
+      "description": {
+        "vi": "Khi kết thúc lượt, có xác suất 40% say ngủ, cho đến khi tỉnh lại ở lượt sau và [tips_20] lượng HP bằng 8% giới hạn HP.\nNếu bị tấn công khi say ngủ, có xác suất 50% bị đánh thức, đồng thời đính kèm 1 tầng [buff_2081_1] cho kẻ tấn công, tối đa 5 tầng, duy trì đến khi kết thúc chiến đấu.",
+        "en": "At the end of the turn, has a 40% chance of getting drunk until he wakes up next turn. [tips_20]s his HP by 8% of his max HP when he wakes up.\nWhen he's attacked while drunk, has a 50% chance of waking up, inflicting a [buff_2081_1] stack (stacks up to 5 times) on the attacker until the battle ends.",
+        "zh": "回合结束时，有40%概率醉倒，直至下回合醒来并[tips_20]生命上限8%的生命。\n醉倒时若被攻击，有50%概率被吵醒，并为攻击者附上1层[buff_2081_1]，上限5层，持续至战斗结束。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_20] tăng đến 8%.",
+            "en": "Increases [tips_20] to 8%.",
+            "zh": "[tips_20]增至8%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi bị đánh thức, sẽ tăng 30% thanh hành động bản thân.",
+            "en": "After he is woken up, raises his Move Bar by 30%.",
+            "zh": "被吵醒时，将增加自身30%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất say ngủ tăng đến 40%.",
+            "en": "Increases chance of getting drunk to 40%.",
+            "zh": "醉倒概率增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi bị đánh thức, đổi thành đính kèm 1 tầng [buff_2081_1] cho toàn thể kẻ địch.",
+            "en": "After he is woken up, inflicts a layer of [buff_2081_1] on all enemies instead.",
+            "zh": "被吵醒时，改为对敌方全体附上1层[buff_2081_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2082",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2083,
+      "maxLevel": 9,
+      "name": {
+        "vi": "Liệt Diễm Chi Tửu",
+        "en": "Fiery Moonshine",
+        "zh": "烈焰之酒"
+      },
+      "intro": {
+        "vi": "Không thể cho ngươi rượu đâu... nhưng lửa thì được!",
+        "en": "There's a reason it's called firewater!",
+        "zh": "酒不能给你……不过火可以！"
+      },
+      "description": {
+        "vi": "喝下一口妖酒，治疗生命上限8%的生命，再喷出妖火攻击敌方全体，造成等同自身当前生命3%伤害，敌方每带有1层[buff_2081_1]，便转为1层[buff_2083_1]，造成自身生命上限5%[tips_5]，持续1回合。",
+        "en": "喝下一口妖酒，治疗生命上限8%的生命，再喷出妖火攻击敌方全体，造成等同自身当前生命3%伤害，敌方每带有1层[buff_2081_1]，便转为1层[buff_2083_1]，造成自身生命上限5%[tips_5]，持续1回合。",
+        "zh": "喝下一口妖酒，治疗生命上限8%的生命，再喷出妖火攻击敌方全体，造成等同自身当前生命3%伤害，敌方每带有1层[buff_2081_1]，便转为1层[buff_2083_1]，造成自身生命上限5%[tips_5]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng đến 14%.",
+            "en": "Increases damage to 14%.",
+            "zh": "伤害增加至14%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng đến 14%.",
+            "en": "Increases damage to 14%.",
+            "zh": "伤害增加至14%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng đến 16%.",
+            "en": "Increases damage to 16%.",
+            "zh": "伤害增加至16%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng đến 16%.",
+            "en": "Increases damage to 16%.",
+            "zh": "伤害增加至16%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng đến 18%.",
+            "en": "Increases damage to 18%.",
+            "zh": "伤害增加至18%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng đến 18%.",
+            "en": "Increases damage to 18%.",
+            "zh": "伤害增加至18%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 20%.",
+            "en": "Increases damage to 20%.",
+            "zh": "伤害增加至20%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 20%.",
+            "en": "Increases damage to 20%.",
+            "zh": "伤害增加至20%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2083",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 7,
+          "awakeFilter": 2
+        },
+        {
+          "level": 8,
+          "awakeFilter": 2
+        },
+        {
+          "level": 9,
+          "awakeFilter": 2
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "limao",
+    "headKey": "h_limao",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2081",
+      "2082",
+      "2083"
+    ]
+  },
+  "unresolvedTokens": []
+}

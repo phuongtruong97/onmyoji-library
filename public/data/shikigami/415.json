@@ -1,0 +1,220 @@
+{
+  "id": 415,
+  "name": {
+    "vi": "Tửu Thôn Quác",
+    "en": "Shuten Frog",
+    "zh": "酒吞呱"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2438,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10138,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4151,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quác·Quỷ Hồ Lô",
+        "en": "Croak: Calabash",
+        "zh": "呱·鬼葫芦"
+      },
+      "intro": {
+        "vi": "这就是本大爷的实力，看好了！",
+        "en": "这就是本大爷的实力，看好了！",
+        "zh": "这就是本大爷的实力，看好了！"
+      },
+      "description": {
+        "vi": "Dùng yêu lực điều khiển quỷ hồ lô phun trướng khí tấn công mục tiêu kẻ địch, gây sát thương 62.5%, đồng thời có xác suất 20% nhận 1 tầng [buff_4151_1], tối đa [b_堆叠上限] tầng.",
+        "en": "Sprays 1 enemy with noxious vapors from his calabash, dealing damage equal to 62.5% of his ATK with a 20% chance of gaining a [buff_4151_1] stack (max [b_堆叠上限] stack.)",
+        "zh": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击62.5%伤害，并有20%概率获得1层[buff_4151_1]，上限[b_堆叠上限]层。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至52.5%",
+            "en": "伤害增加至52.5%",
+            "zh": "伤害增加至52.5%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至55%",
+            "en": "伤害增加至55%",
+            "zh": "伤害增加至55%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至57.5%",
+            "en": "伤害增加至57.5%",
+            "zh": "伤害增加至57.5%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至62.5%",
+            "en": "伤害增加至62.5%",
+            "zh": "伤害增加至62.5%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4151",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 4152,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quác·Cuồng Khiếu",
+        "en": "Croak: Healing Rage",
+        "zh": "呱·狂啸"
+      },
+      "intro": {
+        "vi": "Đây mới là thực lực chân chính của đại gia ta, nhìn cho kỹ vào!",
+        "en": "Behold my true power!",
+        "zh": "这就是本大爷真正的实力，看好了！"
+      },
+      "description": {
+        "vi": "Dùng yêu lực điều khiển quỷ hồ lô phun trướng khí tấn công mục tiêu kẻ địch 1 lần, gây sát thương 62.5%. Đồng thời tiêu hao toàn bộ [buff_4151_1], cứ tiêu hao 1 tầng sẽ tăng 1 lần số lượng tấn công.",
+        "en": "Sprays 1 enemy with noxious vapors from his calabash and consumes all layers of [buff_4151_1], dealing damage equal to 62.5% of his ATK and inflicting 1 follow-up attack for each layer consumed.",
+        "zh": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标1次，造成攻击62.5%伤害。同时消耗全部[buff_4151_1]，每消耗1层，增加1次攻击次数。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至52.5%",
+            "en": "伤害增加至52.5%",
+            "zh": "伤害增加至52.5%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至55%",
+            "en": "伤害增加至55%",
+            "zh": "伤害增加至55%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至57.5%",
+            "en": "伤害增加至57.5%",
+            "zh": "伤害增加至57.5%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至62.5%",
+            "en": "伤害增加至62.5%",
+            "zh": "伤害增加至62.5%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "4152",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "longche_jiutunwa",
+    "headKey": "h_jiutungua",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4151",
+      "4152"
+    ]
+  },
+  "unresolvedTokens": []
+}

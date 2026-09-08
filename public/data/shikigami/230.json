@@ -1,0 +1,220 @@
+{
+  "id": 230,
+  "name": {
+    "vi": "Độc Nhãn Tiêu",
+    "en": "Hitotsume",
+    "zh": "独眼小僧"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[27]",
+    "en": "[27]",
+    "zh": "[27]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2278,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10594,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 405,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2301,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đầu Thạch",
+        "en": "Stone Throw",
+        "zh": "投石"
+      },
+      "intro": {
+        "vi": "Nha ha—— Xem... Hòn đá nhỏ của ta đây!",
+        "en": "Hey! I've got a little something for you!",
+        "zh": "呀哈——看我的……小石头！"
+      },
+      "description": {
+        "vi": "Đem kỹ thuật ném đá rèn luyện ngày đêm dùng để tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Uses his finely-honed stone-throwing skills against 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "把日夜努力锻炼出的扔石子技术用于攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2301",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2303,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thạch Tượng Xung Kích",
+        "en": "Statue Smash",
+        "zh": "石像冲击"
+      },
+      "intro": {
+        "vi": "Sư phụ, cùng con... Thái Sơn Lưu Trọng Áp Quyền!",
+        "en": "Master! Lend me your power!",
+        "zh": "师父，和我一起……泰山流重压拳！"
+      },
+      "description": {
+        "vi": "Lao về phía trước, dùng Tượng Đá Bồ Tát đập mạnh vào mục tiêu kẻ địch, gây sát thương bằng 195% Tấn công, và có 25% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất khiến kẻ đó [tips_108], duy trì 1 lượt.",
+        "en": "Charges forward and hits 1 enemy with his stone statue, dealing damage equal to 195% of his ATK with a 25% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_108] lasting 1 turn(s) on them.",
+        "zh": "往前冲锋，以石菩萨猛击敌方目标，造成攻击195%伤害，并有25%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_108]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至171%",
+            "en": "伤害增加至171%",
+            "zh": "伤害增加至171%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至179%",
+            "en": "伤害增加至179%",
+            "zh": "伤害增加至179%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至187%",
+            "en": "伤害增加至187%",
+            "zh": "伤害增加至187%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至195%",
+            "en": "伤害增加至195%",
+            "zh": "伤害增加至195%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2303",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "duyanxiaoseng",
+    "headKey": "h_duyanxiaoseng",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2301",
+      "2303"
+    ]
+  },
+  "unresolvedTokens": []
+}

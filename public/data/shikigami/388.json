@@ -1,0 +1,302 @@
+{
+  "id": 388,
+  "name": {
+    "vi": "Tâm Thú Quỷ Nữ Hồng Diệp",
+    "en": "Heartseeker Momiji",
+    "zh": "心狩鬼女红叶"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 41, 43]",
+    "en": "[1, 41, 43]",
+    "zh": "[1, 41, 43]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3135,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11278,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 370,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 114,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3881,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ô Lăng",
+        "en": "Crow Feather",
+        "zh": "乌翎"
+      },
+      "intro": {
+        "vi": "Đây chỉ là một chút hình phạt dịu dàng thôi~",
+        "en": "This is just a small punishment.",
+        "zh": "这只是一点温柔的惩罚~"
+      },
+      "description": {
+        "vi": "Lấy phong hỏa ngưng tụ phản chiếu kẻ địch, bóp nát phong hỏa gây cho mục tiêu sát thương bằng 125% Tấn công. Khi ở trạng thái [buff_3885_1] thay thế thành 『Diệp Nhẫn』, cấp độ tăng theo cường hóa kỹ năng 『Ô Lăng』.",
+        "en": "Illuminates 1 enemy with focused maple fire before extinguishing the fire, dealing damage equal to 125% of her ATK. This is changed to Leaf Blade while she's [buff_3885_1], with its skill level equal to the skill level of Crow Feather.",
+        "zh": "以凝结的枫火映照敌方，捏碎枫火对目标造成攻击125%伤害。处于[buff_3885_1]替换为『叶刃』，等级随『乌翎』技能强化。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Increases damage to 125%.",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3881",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3882,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kinh Sương",
+        "en": "Crucible",
+        "zh": "经霜"
+      },
+      "intro": {
+        "vi": "Lá phong qua sương giá, mới là đẹp nhất.",
+        "en": "The maple leaves are most beautiful after a crucible.",
+        "zh": "霜过之枫，才是最美。"
+      },
+      "description": {
+        "vi": "[tips_11].\nKhi tấn công mục tiêu kẻ địch sẽ đính kèm 1 tầng [buff_3882_1].",
+        "en": "[tips_11].\nAttacking enemies inflicts a [buff_3882_1] stack.",
+        "zh": "[tips_11]。\n攻击敌方目标时将附加1层[buff_3882_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi tầng [buff_3882_1] tăng Sát Thương Gián Tiếp gánh chịu tăng lên 10%",
+            "en": "Increases [buff_3882_1]'s ability to increase indirect damage taken to 10%.",
+            "zh": "每层[buff_3882_1]提升受到的间接伤害增至10%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi mục tiêu phe ta bị đính kèm trạng thái giảm ích sẽ đính kèm 1 tầng [buff_3882_1] cho nguồn gây ra, mỗi lượt kích hoạt tối đa 1 lần",
+            "en": "When an ally is inflicted with a debuff, inflicts a [buff_3882_1] stack on the source. Triggers up to once each turn.",
+            "zh": "友方目标被施加减益状态时为来源施加1层[buff_3882_1]，每回合内最多触发1次"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi Thanh Hành Động kẻ địch tăng đạt 30%, đính kèm 1 tầng [buff_3882_1] cho kẻ đó",
+            "en": "When the Move Bar of an enemy is raised by at least 30%, inflicts a [buff_3882_1] stack on them.",
+            "zh": "敌方行动条增加达到30%时，为其附加1层[buff_3882_1]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi tầng [buff_3882_1] giảm thêm 10% Tấn công và Phòng thủ, khi Tâm Thú Quỷ Nữ Hồng Diệp bị tấn công mỗi tầng giảm thêm 20% Bạo kích",
+            "en": "Each [buff_3882_1] stack also reduces ATK and DEF by 10%. When Heartseeker Momiji is attacked, each stack also reduces the attack's Crit by 20%.",
+            "zh": "每层[buff_3882_1]额外降低10%攻击与防御，心狩鬼女红叶被攻击时每层额外降低20%暴击"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3882",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3883,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong Khởi Chi Vũ",
+        "en": "Maple Dance",
+        "zh": "枫起之舞"
+      },
+      "intro": {
+        "vi": "Điệu múa này, chỉ dành riêng cho một mình ngươi.",
+        "en": "This dance is for you, and you alone.",
+        "zh": "这支舞，只为你一人。"
+      },
+      "description": {
+        "vi": "[tips_11]. Múa theo ý lòng, gọi dậy lá phong, nhận 2 tầng [buff_3885_1], trong thời gian duy trì toàn bộ phe ta nhận [buff_3884_1]. Tiên Cơ thi triển 『Phong Khởi Chi Vũ』.",
+        "en": "[tips_11]. Dances freely, summoning maple leaves to gain 2 stacks of [buff_3885_1]. During its duration, all allies gain [buff_3884_1]. Upper Hand: Casts Maple Dance.",
+        "zh": "[tips_11]。随心而舞，唤起枫叶，获得2层[buff_3885_1]，持续期间全体友方获得[buff_3884_1]。先机施放『枫起之舞』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi có [buff_3885_1] tấn công bỏ qua thêm 200 điểm Phòng thủ",
+            "en": "While [buff_3885_1] is active, her attacks also ignore 200 DEF.",
+            "zh": "拥有[buff_3885_1]攻击时额外无视200点防御"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_3884_1] tăng thêm 100 điểm Phòng thủ",
+            "en": "[buff_3884_1] also increases DEF by 100.",
+            "zh": "[buff_3884_1]额外提升100点防御"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_3885_1] Sát Thương Gián Tiếp gánh chịu tăng giảm xuống 10%, sát thương không gián tiếp gánh chịu giảm tăng lên 30%",
+            "en": "While she's [buff_3885_1], increases her indirect damage taken by 10% and reduces her direct damage taken by 30%.",
+            "zh": "[buff_3885_1]受到的间接伤害提升降至10%，受到的非间接伤害下降增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Thi triển 『Phong Khởi Chi Vũ』",
+            "en": "[tips_7]: Uses Maple Dance.",
+            "zh": "[tips_7]：施放『枫起之舞』"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3883",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_guinvhongye",
+    "headKey": "h_sp_guinvhongye",
+    "armature": [
+      "sphongyecard_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spguinvhongye",
+    "skillIconKeys": [
+      "3881",
+      "3882",
+      "3883"
+    ]
+  },
+  "unresolvedTokens": []
+}

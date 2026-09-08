@@ -1,0 +1,302 @@
+{
+  "id": 565,
+  "name": {
+    "vi": "Phúc Duyệt Tọa Phu Đồng Tử",
+    "en": "Fortunegiver Zashiki",
+    "zh": "福悦座敷童子"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[6, 5]",
+    "en": "[6, 5]",
+    "zh": "[6, 5]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2224,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12531,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 471,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 126,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5651,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đạt Ma Xuất Kích",
+        "en": "Daruma Strike",
+        "zh": "达摩出击"
+      },
+      "intro": {
+        "vi": "Thân hữu đồng hành, phúc trạch miên trường.",
+        "en": "You fortune will be everlasting when you're with friends and family.",
+        "zh": "亲友相伴，福祚绵长。"
+      },
+      "description": {
+        "vi": "Sai khiến Đạt Ma tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và nhận 2 tầng [buff_5652_1].",
+        "en": "Commands a daruma to attack 1 enemy, dealing damage equal to 125% of her ATK and granting her 2 [buff_5652_1] stacks.",
+        "zh": "驱使达摩攻击敌方目标，造成攻击125%伤害并获得2层[buff_5652_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%.",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%, nhận 2 tầng [buff_5652_1]",
+            "en": "Increases the damage to 125% and grants her 2 [buff_5652_1] stacks.",
+            "zh": "伤害增加至125%，获得2层[buff_5652_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5651",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5652,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phúc Vận Tích Lũy",
+        "en": "Fortune Accumulated",
+        "zh": "福运积存"
+      },
+      "intro": {
+        "vi": "Đừng vội vã, vận may bỏ lỡ rồi sẽ tích lũy lại thôi.",
+        "en": "Don't worry, the fortune you missed will come back to you when accumulated.",
+        "zh": "不要着急，错过的福运是会积存起来的。"
+      },
+      "description": {
+        "vi": "[tips_11].\nVận may trứng vặn hôm nay thế nào nhỉ? Mỗi khi mục tiêu phe ta khác tiêu hao 1 điểm Quỷ Hỏa, bản thân nhận 1 tầng [buff_5652_1].",
+        "en": "[tips_11].\nWhat's your gacha luck today? Whenever another ally uses 1 orb, grants her 1 [buff_5652_1] stack.",
+        "zh": "[tips_11]。\n今天的扭蛋运势如何呢？其他友方目标每消耗1点鬼火，自身获得1层[buff_5652_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi Kháng Hiệu Ứng ban đầu của bản thân cao hơn 50%, hiệu ứng 『Đại Cát Đạt Ma』 ưu tiên kích hoạt; nếu không hiệu ứng 『Chiêu Phúc Đạt Ma』 ưu tiên kích hoạt",
+            "en": "Triggers EXP Daruma if her starting Effect RES is higher than 50%; otherwise, triggers Base Daruma.",
+            "zh": "自身初始效果抵抗高于50%时，『大吉达摩』效果优先触发；否则『招福达摩』效果优先触发"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "『Vòng Quay Trứng May Mắn』 mở khóa hiệu ứng hiếm: 『Ngự Hành Đạt Ma』",
+            "en": "Unlocks Fun Gacha's SR effect: Skill Daruma.",
+            "zh": "『童趣扭蛋』解锁稀有效果：『御行达摩』"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "『Vòng Quay Trứng May Mắn』 mở khóa hiệu ứng siêu hiếm: 『Phúc Vận Đạt Ma』",
+            "en": "Unlocks Fun Gacha's SSR effect: The Fortunebringer.",
+            "zh": "『童趣扭蛋』解锁超稀有效果：『福运达摩』"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi [buff_5652_1] đạt giới hạn, thi triển 『Vòng Quay Trứng May Mắn』 chắc chắn nhận được 『Phúc Vận Đạt Ma』",
+            "en": "Using Fun Gacha when she has max [buff_5652_1] stacks guarantees The Fortunebringer.",
+            "zh": "[buff_5652_1]到达上限时施放『童趣扭蛋』将必定获得『福运达摩』"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5652",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5653,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồn Hỏa Trừ Ách",
+        "en": "Purging Orb",
+        "zh": "魂火除厄"
+      },
+      "intro": {
+        "vi": "Nguyện mọi sự bỏ ra đều thu về quả ngọt.",
+        "en": "May all reap what they sow.",
+        "zh": "愿所有付出都能收获回报。"
+      },
+      "description": {
+        "vi": "Tiêu hao thêm tối đa 3 điểm Quỷ Hỏa, mỗi tiêu hao 1 điểm Quỷ Hỏa tăng 2 tầng [buff_5652_1] cho bản thân;\nGiúp toàn bộ phe ta nhận [buff_5653_1], duy trì 1 lượt; nếu bản thân ở thời điểm kết thúc lượt thi triển đang trong trạng thái [tips_27], lập tức thi triển thêm 1 lần 『Vòng Quay Trứng May Mắn』 và nhận 3 điểm Quỷ Hỏa.",
+        "en": "Spends additional orbs (up to 3). Each 1 orb spent grants her 2 [buff_5652_1] stacks.\nGrants [buff_5653_1] (sustainable for 1 turn) to all allies. At the end of the turn where she used the skill, if she's under any [tips_27], immediately uses Fun Gacha and grants you 3 orbs.",
+        "zh": "额外消耗至多3点鬼火，每消耗1点鬼火提升自身2层[buff_5652_1]；\n使全体友方获得[buff_5653_1]，维持1回合；若自身在施放回合结束时处于[tips_27]，立即额外施放1次『童趣扭蛋』并获得3点鬼火。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_5653_1] tăng thêm 30% Kháng Hiệu Ứng",
+            "en": "[buff_5653_1] additionally increases Effect RES by 30%.",
+            "zh": "[buff_5653_1]额外提升30%效果抵抗"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng giảm sát thương của [buff_5653_1] tăng lên 35%",
+            "en": "Increases [buff_5653_1]'s damage reduction to 35%.",
+            "zh": "[buff_5653_1]伤害降低效果提升至35%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi [buff_5653_1] bị tiêu hao, tăng 30% Thanh Hành Động cho mục tiêu",
+            "en": "When the [buff_5653_1] on an ally is consumed, raises their Move Bar by 30%.",
+            "zh": "[buff_5653_1]被消耗时，提升目标30%行动条"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi thi triển thêm 『Vòng Quay Trứng May Mắn』 nhận 3 điểm Quỷ Hỏa",
+            "en": "Grants you 3 orbs when she uses Fun Gacha.",
+            "zh": "额外施放『童趣扭蛋』时获得3点鬼火"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5653",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_zuofutongzi",
+    "headKey": "h_sp_zuofutongzi",
+    "armature": [
+      "sp_zuofutongzi_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spzuofutongzi",
+    "skillIconKeys": [
+      "5651",
+      "5652",
+      "5653"
+    ]
+  },
+  "unresolvedTokens": []
+}

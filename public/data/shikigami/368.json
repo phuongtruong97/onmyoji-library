@@ -1,0 +1,350 @@
+{
+  "id": 368,
+  "name": {
+    "vi": "Kẹo Đường",
+    "en": "Amezaiku",
+    "zh": "饴细工"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[9, 7]",
+    "en": "[9, 7]",
+    "zh": "[9, 7]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2278,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 13100,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 441,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 103,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3681,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Dung Tâm Hóa Hỏa",
+        "en": "Hot Flame",
+        "zh": "融芯化火"
+      },
+      "intro": {
+        "vi": "Các con ơi, trốn xa ra một chút",
+        "en": "Stay back, kids.",
+        "zh": "孩子们，躲远点"
+      },
+      "description": {
+        "vi": "Nặn ra rồng đường rực cháy tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Shapes a scorching candy dragon to attack 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "捏塑出炽热的糖龙攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3681",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3682,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Khổ Trung Tác Điềm",
+        "en": "Bittersweet",
+        "zh": "苦中作甜"
+      },
+      "intro": {
+        "vi": "Không cần lo lắng cho ta",
+        "en": "There's no need to worry about me.",
+        "zh": "不用担心我"
+      },
+      "description": {
+        "vi": "[tips_11].\nSiro đường ấm áp luôn bảo vệ đồng đội. Chịu thay 30% sát thương cho mục tiêu phe ta có tỷ lệ HP hiện tại thấp nhất.",
+        "en": "[tips_11].\nWarm liquid sugar keeps watch over allies. Takes 30% damage for the ally with the lowest HP proportion.",
+        "zh": "[tips_11]。\n温暖的糖液一直守护着同伴。替当前血量百分比最低的友方目标承受30%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương chịu thay tăng lên 18%",
+            "en": "Increases his damage taken to 18%.",
+            "zh": "承受伤害增至18%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương chịu thay tăng lên 21%",
+            "en": "Increases his damage taken to 21%.",
+            "zh": "承受伤害增至21%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương chịu thay tăng lên 25%",
+            "en": "Increases his damage taken to 25%.",
+            "zh": "承受伤害增至25%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương chịu thay tăng lên 30%",
+            "en": "Increases his damage taken to 30%.",
+            "zh": "承受伤害增至30%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3682",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3683,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nhất Vật Nhất Tâm",
+        "en": "Candy Mastery",
+        "zh": "一物一心"
+      },
+      "intro": {
+        "vi": "Bùng cháy bổn tâm sơ khởi!",
+        "en": "My true heart burns!",
+        "zh": "燃烧本初之心！"
+      },
+      "description": {
+        "vi": "Dùng hết toàn bộ sức mạnh chế tạo siro đường cuộn trào hỗn loạn thành giấc mơ bằng đường. Tiêu hao 15% HP hiện tại, giúp 1 mục tiêu phe ta không phải vật triệu hồi ngoại trừ bản thân nhận [buff_3681_1], duy trì 2 lượt. Khi hiệu ứng hồi phục của [buff_3681_1] dư thừa, tăng 8% Thanh Hành Động cho mục tiêu đó.",
+        "en": "Uses every effort to turn the violent and free-flowing liquid sugar into a sugar dreamland. Spends 15% of current HP to grant [buff_3681_1] lasting 2 turns on another non-summoned ally entity. Overflown [buff_3681_1] healing raises Move Bar by 8%.",
+        "zh": "用尽全部力量将汹涌无序的糖液制作成糖的梦境。消耗当前15%的血量，使1个除自身以外的非召唤物友方目标获得[buff_3681_1]，持续2回合。当[buff_3681_1]治疗效果溢出，则为其增加8%的行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu tăng lên 12%",
+            "en": "Increases healing to 12%.",
+            "zh": "治疗增至12%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu tăng lên 12%",
+            "en": "Increases healing to 12%.",
+            "zh": "治疗增至12%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thời gian duy trì tăng lên 3 lượt",
+            "en": "Increases duration to 3 turns.",
+            "zh": "持续时间增至3回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thời gian duy trì tăng lên 3 lượt",
+            "en": "Increases duration to 3 turns.",
+            "zh": "持续时间增至3回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trị liệu tăng lên 15%",
+            "en": "Increases healing to 15%.",
+            "zh": "治疗增至15%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trị liệu tăng lên 15%",
+            "en": "Increases healing to 15%.",
+            "zh": "治疗增至15%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi hồi phục cho mục tiêu phe ta, hồi phục cho bản thân lượng HP bằng 5% giới hạn HP",
+            "en": "When healing an ally, also heals himself by 5% of his max HP.",
+            "zh": "治疗友方目标时，治疗自身5%生命上限的血量"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi hồi phục cho mục tiêu phe ta, hồi phục cho bản thân lượng HP bằng 5% giới hạn HP",
+            "en": "When healing an ally, also heals himself by 5% of his max HP.",
+            "zh": "治疗友方目标时，治疗自身5%生命上限的血量"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3683",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yixigong",
+    "headKey": "h_yixigong",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3681",
+      "3682",
+      "3683"
+    ]
+  },
+  "unresolvedTokens": []
+}

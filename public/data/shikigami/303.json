@@ -1,0 +1,270 @@
+{
+  "id": 303,
+  "name": {
+    "vi": "Dịch",
+    "en": "Kisei",
+    "zh": "弈"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2706,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 8999,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 96,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3031,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chinh Tử",
+        "en": "Ladder",
+        "zh": "征子"
+      },
+      "intro": {
+        "vi": "Nước cờ này thế nào?",
+        "en": "You think you can counter me?",
+        "zh": "这一步棋如何？"
+      },
+      "description": {
+        "vi": "Ném quân cờ hiện đang nắm giữ về phía mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công.",
+        "en": "Casts the stone in his hand at 1 enemy, dealing damage equal to 120% of his ATK.",
+        "zh": "向敌方目标投出当前持有的棋子，造成攻击120%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3031",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3032,
+      "maxLevel": 2,
+      "name": {
+        "vi": "Khí Hợp",
+        "en": "Fighting Spirit",
+        "zh": "气合"
+      },
+      "intro": {
+        "vi": "Ván này ngươi lại thua rồi.",
+        "en": "You're losing the game. Again.",
+        "zh": "这一局你又要输了。"
+      },
+      "description": {
+        "vi": "Thay phiên nắm giữ [buff_3032_3], [buff_3031_3], khi tấn công có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm 1 tầng quân cờ đang nắm giữ cho kẻ địch, giới hạn 4 tầng. Khi đạt giới hạn, ưu tiên ghi đè quân cờ khác màu.\nKhi kẻ địch bị đính kèm 4 tầng quân cờ cùng màu, gây cho kẻ đó sát thương bằng 600% Tấn công.\nKẻ địch mang quân cờ khi lượt của kẻ đó kết thúc, nếu lượt đó không tiêu hao Quỷ Hỏa, loại bỏ ngẫu nhiên 1 tầng quân cờ.",
+        "en": "Holds [buff_3032_3] and [buff_3031_3] in his hand in turns. Attacks have a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting a stone in his hand to the enemy. Max 4 stacks. If a fully stacked enemy is attacked by a new stone, a stone of a different color is replaced.\nWhen an enemy is inflicted with 4 stones of the same color, inflicts damage to them equal to 600% of his ATK.\nIf the enemy ends a turn without using orbs, a random stone is removed by the end of the turn.",
+        "zh": "交替持有[buff_3032_3]、[buff_3031_3]，攻击时有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率为敌方附加1层所持棋子，上限4层。达上限时，优先覆盖不同色棋子。\n当敌方被附加4层同色棋子，对其造成攻击600%伤害。\n带有棋子的敌方在其回合结束时，若该回合没消耗鬼火，随机移除1层棋子。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "该技能无法升级",
+            "en": "该技能无法升级",
+            "zh": "该技能无法升级"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3032",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 3033,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thần Chi Nhất Thủ",
+        "en": "Godly Move",
+        "zh": "神之一手"
+      },
+      "intro": {
+        "vi": "Trời đất là bàn cờ, muôn loài là quân cờ",
+        "en": "The world is my gameboard and everything in it my pieces.",
+        "zh": "天地为局，万物为子"
+      },
+      "description": {
+        "vi": "投出棋子攻击9次，首次攻击敌方目标，余下次数攻击随机敌方，每次造成攻击51%伤害。",
+        "en": "投出棋子攻击9次，首次攻击敌方目标，余下次数攻击随机敌方，每次造成攻击51%伤害。",
+        "zh": "投出棋子攻击9次，首次攻击敌方目标，余下次数攻击随机敌方，每次造成攻击51%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至44%",
+            "en": "伤害增加至44%",
+            "zh": "伤害增加至44%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至46%",
+            "en": "伤害增加至46%",
+            "zh": "伤害增加至46%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至48%",
+            "en": "伤害增加至48%",
+            "zh": "伤害增加至48%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至51%",
+            "en": "伤害增加至51%",
+            "zh": "伤害增加至51%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3033",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "qihun",
+    "headKey": "h_qihun",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3031",
+      "3032",
+      "3033"
+    ]
+  },
+  "unresolvedTokens": []
+}

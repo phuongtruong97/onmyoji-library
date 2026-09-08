@@ -1,0 +1,249 @@
+{
+  "id": 219,
+  "name": {
+    "vi": "Tửu Thôn Đồng Tử",
+    "en": "Shuten Doji",
+    "zh": "酒吞童子"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2814,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10024,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 339,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 103,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2191,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quỷ Hồ Lô",
+        "en": "Calabash Spray",
+        "zh": "鬼葫芦"
+      },
+      "intro": {
+        "vi": "这就是本大爷的实力，看好了！",
+        "en": "这就是本大爷的实力，看好了！",
+        "zh": "这就是本大爷的实力，看好了！"
+      },
+      "description": {
+        "vi": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击125%伤害。若非进行反击，则每层[buff_2192_1]增加1次攻击次数。",
+        "en": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击125%伤害。若非进行反击，则每层[buff_2192_1]增加1次攻击次数。",
+        "zh": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击125%伤害。若非进行反击，则每层[buff_2192_1]增加1次攻击次数。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2191",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2192,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Cuồng Khí",
+        "en": "Madness",
+        "zh": "狂气"
+      },
+      "intro": {
+        "vi": "Đại gia ta vẫn muốn thêm... thêm nữa!",
+        "en": "I want more... More!",
+        "zh": "本大爷还要更多……更多！"
+      },
+      "description": {
+        "vi": "Khi kết thúc lượt, có xác suất 50% nhận 1 tầng [buff_2192_1]. Khi chịu tấn công, có xác suất 25% nhận 1 tầng [buff_2192_1].\n[buff_2192_1] tối đa 4 tầng.",
+        "en": "At the end of his action, has a 50% chance of gaining 1 layer of [buff_2192_1]. When he is attacked, has a 25% chance of gaining 1 layer of [buff_2192_1].\n[buff_2192_1] stacks up to 4 layers.",
+        "zh": "行动结束时，有50%概率获得1层[buff_2192_1]。受到攻击时，有25%概率获得1层[buff_2192_1]。\n[buff_2192_1]上限4层。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "2192",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2193,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cuồng Khiếu",
+        "en": "Healing Rage",
+        "zh": "狂啸"
+      },
+      "intro": {
+        "vi": "本大爷还会变得更强！哈哈哈！",
+        "en": "本大爷还会变得更强！哈哈哈！",
+        "zh": "本大爷还会变得更强！哈哈哈！"
+      },
+      "description": {
+        "vi": "Bùng nổ yêu lực tức thì, hồi phục 30% giới hạn HP, tăng 50% thanh hành động, đồng thời bước vào [buff_2193_1], số lượt duy trì tương đương số tầng [buff_2192_1], đồng thời mất tất cả [buff_2192_1] khi kết thúc hình thái. Ở hình thái này, miễn dịch tất cả [tips_3], đồng thời đính kèm hiệu ứng hút máu cho đòn tấn công.",
+        "en": "Emits a burst of energy, restoring his HP by 30% of his max HP and raising his Move Bar by 50%. He then goes [buff_2193_1] for a number of turns (equal to the layers of [buff_2192_1] he has). All layers of Madness are consumed when his [buff_2192_1] state ends. Under this state, he's immune to all [tips_3]s and his attacks inflict HP Steal.",
+        "zh": "瞬间迸发妖力，恢复生命上限的30%，增加50%行动条，并进入[buff_2193_1]，持续回合等同[buff_2192_1]层数，并在型态结束时失去所有[buff_2192_1]。此型态下免疫所有[tips_3]，且攻击附带吸血效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng hút máu của [buff_2193_1] tăng đến 15%.",
+            "en": "Increases [buff_2193_1]'s HP Steal effect to 15%.",
+            "zh": "[buff_2193_1]吸血效果增加至15%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng hút máu của [buff_2193_1] tăng đến 20%.",
+            "en": "Increases [buff_2193_1]'s HP Steal effect to 20%.",
+            "zh": "[buff_2193_1]吸血效果增加至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng hút máu của [buff_2193_1] tăng đến 25%.",
+            "en": "Increases [buff_2193_1]'s HP Steal effect to 25%.",
+            "zh": "[buff_2193_1]吸血效果增加至25%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng hút máu của [buff_2193_1] tăng đến 30%.",
+            "en": "Increases [buff_2193_1]'s HP Steal effect to 30%.",
+            "zh": "[buff_2193_1]吸血效果增加至30%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2193",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "jiutuntongzi",
+    "headKey": "h_jiutuntongzi",
+    "armature": "",
+    "artName": "txt_zhanshi_jiutuntongzi",
+    "skillIconKeys": [
+      "2191",
+      "2192",
+      "2193"
+    ]
+  },
+  "unresolvedTokens": []
+}

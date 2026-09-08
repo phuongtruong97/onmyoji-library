@@ -1,0 +1,220 @@
+{
+  "id": 269,
+  "name": {
+    "vi": "Yoto Hime",
+    "en": "Yoto Hime",
+    "zh": "妖刀姬"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2974,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 101,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "12%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2691,
+      "maxLevel": 5,
+      "name": {
+        "vi": "不祥之刃",
+        "en": "不祥之刃",
+        "zh": "不祥之刃"
+      },
+      "intro": {
+        "vi": "这把刀，正在呼唤我",
+        "en": "这把刀，正在呼唤我",
+        "zh": "这把刀，正在呼唤我"
+      },
+      "description": {
+        "vi": "Sử dụng thái đao tấn công mục tiêu kẻ địch, gây sát thương 120%.",
+        "en": "Uses her katana to attack 1 target, dealing damage equal to 120% of her ATK.",
+        "zh": "使用太刀攻击敌方目标，造成攻击120%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2691",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2693,
+      "maxLevel": 5,
+      "name": {
+        "vi": "杀戮",
+        "en": "杀戮",
+        "zh": "杀戮"
+      },
+      "intro": {
+        "vi": "阻碍我的人，都必须……消灭。",
+        "en": "阻碍我的人，都必须……消灭。",
+        "zh": "阻碍我的人，都必须……消灭。"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch 6 lần, mỗi lần gây sát thương 58%, nếu đánh bại mục tiêu mà số lần tấn công vẫn chưa dùng hết, sẽ chuyển sang tấn công mục tiêu kẻ địch khác có HP thấp nhất, đồng thời tăng số lần tấn công thêm 2 lần. Khi ở trạng thái [buff_2693_1], nhận 『[skill_2695_1]』, cấp độ tăng theo cường hóa kỹ năng «Sát Lục».",
+        "en": "Launches a 6-strike attack on 1 enemy, dealing damage equal to 58% of her ATK on each strike. If the enemy is KO'd before she finishes her 6 strikes, she changes her target to the enemy with the lowest HP, inflicting the remaining strikes plus 2 additional strikes. If she's in the [buff_2693_1] state, she gains [skill_2695_1] with its skill level equal to the skill level of Savage Combo.",
+        "zh": "攻击敌方目标6次，每次造成攻击58%伤害，若击败目标时攻击次数未用尽，则转换攻击生命最低的另一敌方目标，并使攻击次数增加2次。处于[buff_2693_1]状态时，获得『[skill_2695_1]』，等级随『杀戮』技能强化。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至52%",
+            "en": "伤害增加至52%",
+            "zh": "伤害增加至52%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至54%",
+            "en": "伤害增加至54%",
+            "zh": "伤害增加至54%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至56%",
+            "en": "伤害增加至56%",
+            "zh": "伤害增加至56%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 58%, mỗi khi chuyển đổi mục tiêu tấn công, tăng thêm 2 lần số lần tấn công.",
+            "en": "Increases damage to 58% and inflicts 2 extra attacks when changing targets.",
+            "zh": "伤害增加至58%，每次转换攻击目标，使攻击次数增加2次"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2693",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yaodaoji",
+    "headKey": "h_yaodaoji",
+    "armature": "",
+    "artName": "txt_zhanshi_yaodaoji",
+    "skillIconKeys": [
+      "2691",
+      "2693"
+    ]
+  },
+  "unresolvedTokens": []
+}

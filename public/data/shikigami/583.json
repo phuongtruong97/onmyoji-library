@@ -1,0 +1,350 @@
+{
+  "id": 583,
+  "name": {
+    "vi": "Ty Diệc Hô",
+    "en": "Himiko",
+    "zh": "卑弥呼"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 37, 11]",
+    "en": "[1, 37, 11]",
+    "zh": "[1, 37, 11]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2974,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11164,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5831,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thời Tịch Chi Mẫu",
+        "en": "Temporal Sundial",
+        "zh": "时汐之晷"
+      },
+      "intro": {
+        "vi": "Trong lòng ta, giấu một vầng thái dương.",
+        "en": "A sun lies hidden in my heart.",
+        "zh": "我的心中，藏有一轮太阳。"
+      },
+      "description": {
+        "vi": "Gảy kim đồng hồ, thời gian theo đó xoay chuyển. Thời Chi Tịch Lưu gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Adjusts the sundial hand to make time flow. Chrono Tide attacks 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "拨动晷针，时间随之流转。时之汐流对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5831",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5832,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tố Hồi Thời Khích",
+        "en": "Rewind Time",
+        "zh": "溯回时隙"
+      },
+      "intro": {
+        "vi": "我在时间的洪流中，回望着日轮之城。",
+        "en": "我在时间的洪流中，回望着日轮之城。",
+        "zh": "我在时间的洪流中，回望着日轮之城。"
+      },
+      "description": {
+        "vi": "[tips_11]. Trì hoãn 40% sát thương gánh chịu đến trước khi lượt tiếp theo của bản thân bắt đầu để kết toán (（sát thương trì hoãn kết toán không gây tử vong)). Phe ta ở trong [tips_5832] tăng 40% sát thương.\n【Thi triển】 Khi thi triển lên mục tiêu kẻ địch, nhốt kẻ đó vào [buff_58324_1], duy trì 2 lượt; khi thi triển lên mục tiêu phe ta, khiến kẻ đó tiến vào [tips_5832], nếu mục tiêu là bản thân, nhận 1 tầng [buff_58325_1] và hồi chiêu 1 lượt; nếu mục tiêu là đồng minh khác, giúp kẻ đó nhận 2 tầng [buff_58325_1]. Tiên Cơ: Giúp Thức Thần phe ta có Tấn công ban đầu cao nhất nhận 1 tầng [buff_58325_1].",
+        "en": "[tips_11]. Postpones 40% of her damage taken to the start of her next turn ((the postponed damage won't be lethal)). Increases allies' damage by 40% when they're in the [tips_5832].\nActive skill: When cast on an enemy target, locks them in [buff_58324_1] for 2 turns. When cast on an ally, takes them into [tips_5832]; if the target is herself, gains 1 stack of [buff_58325_1] and cooldown for 1 turn; if the target is another ally, grants them 2 stacks of [buff_58325_1]. Upper Hand: Grants the allied shikigami with the highest starting ATK 1 stack of [buff_58325_1].",
+        "zh": "[tips_11]。将受到伤害的40%延迟至自身下个回合开始前结算(（延迟结算伤害不致命）)。友方在[tips_5832]中伤害提升40%。\n【施放】对敌方目标施放时，将其锁入[buff_58324_1]，持续2回合；对友方目标施放时，使其进入[tips_5832]，若目标为自身，获得1层[buff_58325_1]并冷却1回合；若目标为其他友方，使其获得2层[buff_58325_1]。先机：使初始攻击最高的友方式神获得1层[buff_58325_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương phe ta ở trong [tips_5832] tăng 20%",
+            "en": "Increases allies' damage by 20% when they're in the [tips_5832].",
+            "zh": "友方在[tips_5832]中伤害提升20%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương phe ta ở trong [tips_5832] tăng 20%",
+            "en": "Increases allies' damage by 20% when they're in the [tips_5832].",
+            "zh": "友方在[tips_5832]中伤害提升20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thời gian duy trì [buff_58324_1] tăng lên 2 lượt",
+            "en": "[buff_58324_1] duration increased to 2 turns.",
+            "zh": "[buff_58324_1]持续时间提升至2回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thời gian duy trì [buff_58324_1] tăng lên 2 lượt",
+            "en": "[buff_58324_1] duration increased to 2 turns.",
+            "zh": "[buff_58324_1]持续时间提升至2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương phe ta ở trong [tips_5832] tăng lên 40%",
+            "en": "Increases allies' damage boost when they're in the [tips_5832] to 40%.",
+            "zh": "友方在[tips_5832]中的伤害提升增至40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương phe ta ở trong [tips_5832] tăng lên 40%",
+            "en": "Increases allies' damage boost when they're in the [tips_5832] to 40%.",
+            "zh": "友方在[tips_5832]中的伤害提升增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Giúp Thức Thần phe ta có Tấn công ban đầu cao nhất nhận 1 tầng [buff_58325_1]",
+            "en": "Upper Hand: Grants the allied shikigami with the highest starting ATK 1 stack of [buff_58325_1].",
+            "zh": "先机：使初始攻击最高的友方式神获得1层[buff_58325_1]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Giúp Thức Thần phe ta có Tấn công ban đầu cao nhất nhận 1 tầng [buff_58325_1]",
+            "en": "Upper Hand: Grants the allied shikigami with the highest starting ATK 1 stack of [buff_58325_1].",
+            "zh": "先机：使初始攻击最高的友方式神获得1层[buff_58325_1]"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5832",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 5833,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nhật Diệu Thời Huy",
+        "en": "Timely Sunlight",
+        "zh": "日耀时辉"
+      },
+      "intro": {
+        "vi": "Nếu thời gian là vũ khí duy nhất của ta, ta sẽ dùng phần đời còn lại, đưa ra lựa chọn khác biệt.",
+        "en": "If time is my only weapon, I will use the rest of my life to make a different choice.",
+        "zh": "如果时间是我唯一的武器，我会用我的余生，做出不一样的选择。"
+      },
+      "description": {
+        "vi": "Ánh sáng nhật diệu, sẽ vĩnh viễn chiếu soi Nhật Luân Chi Thành. Tấn công toàn bộ phe địch 2 lần, mỗi lần gây sát thương bằng 120% Tấn công. Khi [buff_58324_1] của mục tiêu kẻ địch bị xóa bỏ, thi triển miễn phí, sát thương lần đó giảm 30%. Sát thương bỏ qua hiệu ứng Ngự Hồn.",
+        "en": "The glory of the sun will forever shine upon the Castle of the Sun. Launches a 2-strike attack on all enemies, dealing damage equal to 120% of her ATK on each strike. Uses it free of orb cost when an enemy leaves the [buff_58324_1], with this instance of damage reduced by 30%. Damage ignores Soul effects.",
+        "zh": "日耀辉光，将永远照耀日轮之城。攻击敌方全体2次，每次造成攻击120%伤害。敌方目标[buff_58324_1]移除时，无消耗施放，该次伤害降低30%。伤害无视御魂效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 100%",
+            "en": "Increases the damage to 100%.",
+            "zh": "伤害增至100%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi [buff_58324_1] của mục tiêu kẻ địch bị xóa bỏ thi triển miễn phí, sát thương lần đó giảm 30%",
+            "en": "Uses it free of orb cost when an enemy leaves the [buff_58324_1], with this instance of damage reduced by 30%.",
+            "zh": "敌方目标[buff_58324_1]移除时无消耗施放，该次伤害降低30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 120%",
+            "en": "Increases the damage to 120%.",
+            "zh": "伤害增至120%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương bỏ qua hiệu ứng Ngự Hồn",
+            "en": "Damage ignores Soul effects.",
+            "zh": "伤害无视御魂效果"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5833",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "beimihu",
+    "headKey": "h_beimihu",
+    "armature": "",
+    "artName": "txt_zhanshi_beimihu",
+    "skillIconKeys": [
+      "5831",
+      "5832",
+      "5833"
+    ]
+  },
+  "unresolvedTokens": []
+}

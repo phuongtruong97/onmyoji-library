@@ -1,0 +1,302 @@
+{
+  "id": 572,
+  "name": {
+    "vi": "Dao Niệm Yên Yên La",
+    "en": "Nostalgic Enenra",
+    "zh": "遥念烟烟罗"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17, 22, 8]",
+    "en": "[17, 22, 8]",
+    "zh": "[17, 22, 8]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12189,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 454,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 114,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5721,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Yên Hoa",
+        "en": "Smoke Blossom",
+        "zh": "烟华"
+      },
+      "intro": {
+        "vi": "Thích không? Đóa pháo hoa nở rộ vì ngươi này~",
+        "en": "Do you like this firework display I put on just for you?",
+        "zh": "喜欢么？这为你绽放的花火~"
+      },
+      "description": {
+        "vi": "Một đóa hoa lửa nở rộ trong màn khói. Tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "A firework blossoms from the misty smoke to attack 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "烟雾中绽开的一朵花焰。攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5721",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5722,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Như Ảnh",
+        "en": "Shadowlike",
+        "zh": "如影"
+      },
+      "intro": {
+        "vi": "Khâu chuẩn bị lễ hội thiếu nhân lực, ngươi đã bị chiêu mộ rồi! Không được từ chối đâu nha~",
+        "en": "The celebration is short-staffed, so you're needed! Don't you refuse my offer!",
+        "zh": "庆典人手不足，你被招募了！不能拒绝哦~"
+      },
+      "description": {
+        "vi": "[tips_11]. Khi chịu sát thương từ kẻ địch, nếu bản thân đang ở trạng thái [tips_27], liền tiến vào [buff_5722_1] (giới hạn tối đa 2 lần trước khi lượt bản thân bắt đầu). Toàn bộ đồng minh không phải vật triệu hồi dưới trạng thái [buff_5722_1] khi chịu sát thương, nhận Lá chắn bằng 15% sát thương gánh chịu, duy trì 2 lượt.\n【Tiên cơ】 Tiến vào Yên Vụ Vô Hình\n【Thi triển】 Lập tức tiến vào [buff_5722_1]. Giúp toàn bộ đồng minh không phải vật triệu hồi nhận Lá chắn bằng 25% HP tối đa, duy trì 2 lượt.",
+        "en": "[tips_11]. When she takes damage from enemies, if she's [tips_27], she becomes an [buff_5722_1] (triggers up to 2 times before her next turn.) While she's an [buff_5722_1], for all non-summoned ally entities, when they take damage, creates a shield to protect them, absorbing damage equal to 15% of the damage taken for 2 turns.\n Upper Hand: She becomes an Incorporeal Smoke.\nActive skill: She becomes an [buff_5722_1] and creates a shield to protect all non-summoned ally entities, absorbing damage equal to 25% of her max HP for 2 turns.",
+        "zh": "[tips_11]。受到敌方伤害时，若自身处于[tips_27]，则进入[buff_5722_1]（自身回合开始前限2次）。[buff_5722_1]下非召唤物的友方全体在受到伤害时，获得等量于受到伤害15%的护盾，持续2回合。\n【先机】进入烟雾无形\n【施放】立刻进入[buff_5722_1]。使非召唤物的友方全体获得等量于最大生命25%的护盾，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lá chắn nhận được khi thi triển nâng lên 22% HP tối đa",
+            "en": "Increases the shield she creates when using the skill to 22% of her max HP.",
+            "zh": "施放时获得的护盾提升至最大生命的22%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Toàn bộ đồng minh không phải vật triệu hồi dưới trạng thái [buff_5722_1] khi chịu sát thương, nhận Lá chắn bằng 15% sát thương gánh chịu, duy trì 2 lượt",
+            "en": "While she's an [buff_5722_1], for all non-summoned ally entities, when they take damage, creates a shield to protect them, absorbing damage equal to 15% of the damage taken for 2 turns.",
+            "zh": "[buff_5722_1]下非召唤物的友方全体在受到伤害时，获得等量于受到伤害15%的护盾，持续2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lá chắn nhận được khi thi triển nâng lên 25% HP tối đa",
+            "en": "Increases the shield she creates when using the skill to 25% of her max HP.",
+            "zh": "施放时获得的护盾提升至最大生命的25%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: Tiến vào [buff_5722_1]",
+            "en": "Upper Hand: She becomes an [buff_5722_1].",
+            "zh": "先机：进入[buff_5722_1]"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5722",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5723,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Dạ Mạc Hoa Thái",
+        "en": "Nighsky's Splendor",
+        "zh": "夜幕华彩"
+      },
+      "intro": {
+        "vi": "Hãy làm cho đại hội pháo hoa rực rỡ này trở nên náo nhiệt hơn nữa nào~",
+        "en": "Let's make the firework show more lively!",
+        "zh": "让这盛大的花火大会变得更加热闹一些吧~"
+      },
+      "description": {
+        "vi": "Trang điểm sắc màu rực rỡ cho bầu trời đêm, pháo hoa nở rộ tấn công toàn bộ phe địch hai lần, mỗi lần gây sát thương bằng 51% Tấn công. Cuối cùng gây cho mục tiêu kẻ địch chỉ định sát thương bằng 131% Tấn công, có 58% [tips_2] biến mục tiêu kẻ địch chỉ định thành [tips_5723], trong trạng thái Yên Vụ Vô Hình, nếu phe địch không có Yên Chi Quỷ, xác suất cơ bản nâng lên 72%, duy trì 1 lượt.",
+        "en": "Decorates the night sky with splendid colors and puts on a firework display to launch a 2-strike attack on all enemies, dealing damage equal to 51% of her ATK on each strike. Then attacks 1 enemy, dealing damage equal to 131% of her ATK, with a 58% [tips_2] of Morphing them into a [tips_5723] for 1 turn. While she's an Incorporeal Smoke, if no enemy is a Smoke Phantom, increases the base chance to 72%.",
+        "zh": "为夜空装点斑斓色彩，绽放花火攻击敌方全体两次，每次造成攻击51%的伤害。最后对指定敌方目标造成攻击131%的伤害，有58%[tips_2]将指定敌方目标变形为[tips_5723]，烟雾无形下，若敌方无烟之鬼，则基础概率提升至72%，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương đòn cuối tăng lên 114%",
+            "en": "Increases the damage of the last strike to 114%.",
+            "zh": "最后一击伤害增加至114%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trong trạng thái Yên Vụ Vô Hình, nếu phe địch không có Yên Chi Quỷ, xác suất cơ bản nâng lên 72%",
+            "en": "While she's an Incorporeal Smoke, if no enemy is a Smoke Phantom, increases the base chance to 72%.",
+            "zh": "烟雾无形下，若敌方无烟之鬼，则基础概率提升至72%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương đòn cuối tăng lên 131%",
+            "en": "Increases the damage of the last strike to 131%.",
+            "zh": "最后一击伤害增加至131%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đòn cuối bỏ qua hiệu ứng Ngự Hồn và Nội Tại",
+            "en": "The last strike ignores Souls and passive effects.",
+            "zh": "最后一击无视御魂和被动效果"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5723",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_yanyanluo",
+    "headKey": "h_sp_yanyanluo",
+    "armature": [
+      "sp_yanyanluo_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_yaonianyanyanluo",
+    "skillIconKeys": [
+      "5721",
+      "5722",
+      "5723"
+    ]
+  },
+  "unresolvedTokens": []
+}

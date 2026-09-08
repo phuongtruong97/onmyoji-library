@@ -1,0 +1,402 @@
+{
+  "id": 321,
+  "name": {
+    "vi": "Nhập Liệm Sư",
+    "en": "Okuribito",
+    "zh": "入殓师"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 28]",
+    "en": "[1, 28]",
+    "zh": "[1, 28]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2680,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 8430,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 418,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 94,
+      "grade": "D"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3211,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Táng Nghi",
+        "en": "Death Ritual",
+        "zh": "葬仪"
+      },
+      "intro": {
+        "vi": "Đăng điểm phấn son cho cái chết của ngươi.",
+        "en": "Allow me to color your death.",
+        "zh": "为你的死亡施上粉墨。"
+      },
+      "description": {
+        "vi": "Giải phóng sức mạnh đến từ Minh Giới, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Unleashes the power of the underworld at 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "释放来自冥界的力量，对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3211",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3212,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ly Hồn",
+        "en": "Soulsplit",
+        "zh": "离魂"
+      },
+      "intro": {
+        "vi": "Hãy cảm nhận cảm giác linh hồn bị xé làm đôi đi.",
+        "en": "Time to split your soul.",
+        "zh": "感受魂魄被一分为二的感觉吧。"
+      },
+      "description": {
+        "vi": "对敌方目标造成攻击244%伤害，并附加1层[buff_3214_1]，根据[buff_3214_1]层数1~5层，造成生命上限15%、30%、60%、120%、240%[tips_5]（不超过入殓师攻击500%）。\n带有[buff_3214_1]的目标，普攻入殓师可以驱散全部[buff_3214_1]。",
+        "en": "对敌方目标造成攻击244%伤害，并附加1层[buff_3214_1]，根据[buff_3214_1]层数1~5层，造成生命上限15%、30%、60%、120%、240%[tips_5]（不超过入殓师攻击500%）。\n带有[buff_3214_1]的目标，普攻入殓师可以驱散全部[buff_3214_1]。",
+        "zh": "对敌方目标造成攻击244%伤害，并附加1层[buff_3214_1]，根据[buff_3214_1]层数1~5层，造成生命上限15%、30%、60%、120%、240%[tips_5]（不超过入殓师攻击500%）。\n带有[buff_3214_1]的目标，普攻入殓师可以驱散全部[buff_3214_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至221%",
+            "en": "伤害增加至221%",
+            "zh": "伤害增加至221%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至221%",
+            "en": "伤害增加至221%",
+            "zh": "伤害增加至221%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至221%",
+            "en": "伤害增加至221%",
+            "zh": "伤害增加至221%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至232%",
+            "en": "伤害增加至232%",
+            "zh": "伤害增加至232%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至232%",
+            "en": "伤害增加至232%",
+            "zh": "伤害增加至232%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至232%",
+            "en": "伤害增加至232%",
+            "zh": "伤害增加至232%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至244%",
+            "en": "伤害增加至244%",
+            "zh": "伤害增加至244%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至244%",
+            "en": "伤害增加至244%",
+            "zh": "伤害增加至244%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至244%",
+            "en": "伤害增加至244%",
+            "zh": "伤害增加至244%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "消耗鬼火减少1点",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "消耗鬼火减少1点",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "消耗鬼火减少1点",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3212",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 3213,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đồ Mê Thịnh Phóng Chi Quan",
+        "en": "Coffin of White Roses",
+        "zh": "荼蘼盛放之棺"
+      },
+      "intro": {
+        "vi": "Chức Tuyết, ngay cả cái chết cũng không thể chia rẽ chúng ta.",
+        "en": "Oriyuki, even death cannot separate us.",
+        "zh": "织雪，连死亡也无法将我们分离。"
+      },
+      "description": {
+        "vi": "Triệu hồi thiếu nữ trong quan tài Chức Tuyết, duy trì 1 lượt. Trong thời gian này giảm [b2_属性1数值_per] Tốc độ của bản thân, tăng [b_属性1数值_per] Phòng thủ cơ bản, [b_属性2数值_per] Kháng Hiệu Ứng.\nSau khi lượt của bất kỳ kẻ địch nào kết thúc, nếu bản thân chưa ở trạng thái [tips_17], liền gây cho kẻ đó và một kẻ địch khác có tỷ lệ HP thấp nhất sát thương bằng 30% Tấn công (kẻ địch đó trong lượt mỗi tiêu hao 1 điểm Quỷ Hỏa, cộng thêm sát thương bằng 20% Tấn công).\nTỷ lệ HP của bản thân mỗi giảm 1%, tăng 2.5% sát thương của kỹ năng này.",
+        "en": "Summons Oriyuki, the girl in his coffin, who exists for 1 turn. As long as Oriyuki is present, reduces his SPD by [b2_属性1数值_per] and increases his base DEF and Effect RES by [b_属性1数值_per] and [b_属性2数值_per] respectively.\nIf he is not [tips_17] at the end of an enemy's turn, attacks the enemy and another enemy with the lowest proportion of HP, dealing damage equal to 30% of his ATK (also inflicts extra damage equal to 20% of his ATK for each orb spent by the enemy during the last turn).\nSkill damage increases by 2.5% for each 1% of his HP lost.",
+        "zh": "召唤出棺中少女织雪，持续1回合。此期间降低自身[b2_属性1数值_per]速度，提升[b_属性1数值_per]基础防御、[b_属性2数值_per]效果抵抗。\n任一敌方回合结束后，若自身未处于[tips_17]，则对其以及另一生命比例最低的敌方，造成攻击30%伤害（该敌方回合内每消耗1点鬼火，再额外加上攻击20%伤害）。\n自身生命比例每降低1%，提升2.5%此技能伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 25%",
+            "en": "Increases damage to 25%.",
+            "zh": "伤害增加至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương cộng thêm khi kẻ địch tiêu hao Quỷ Hỏa tăng lên 20%",
+            "en": "Increases the extra damage inflicted on enemies using orbs to 20%.",
+            "zh": "敌方消耗鬼火的额外伤害增至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 30%",
+            "en": "Increases damage to 30%.",
+            "zh": "伤害增加至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Số lượt hồi kỹ năng giảm 1",
+            "en": "Reduces duration by 1 turn.",
+            "zh": "冷却回合数减1"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3213",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "rulianshi",
+    "headKey": "h_rulianshi",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3211",
+      "3212",
+      "3213"
+    ]
+  },
+  "unresolvedTokens": []
+}

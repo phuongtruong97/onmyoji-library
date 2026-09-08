@@ -1,0 +1,302 @@
+{
+  "id": 555,
+  "name": {
+    "vi": "Miểu Niệm Huỳnh Thảo",
+    "en": "Kusa Regrown",
+    "zh": "渺念萤草"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 10]",
+    "en": "[1, 10]",
+    "zh": "[1, 10]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3135,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10708,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 114,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "160%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5551,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lưu Quang Chi Tiễn",
+        "en": "Luminescent Shot",
+        "zh": "流光之箭"
+      },
+      "intro": {
+        "vi": "Thuật bắn cung từng học, ta chưa có quên đâu nha.",
+        "en": "I still remember how to wield my bow.",
+        "zh": "学过的弓术，我没有忘记喔。"
+      },
+      "description": {
+        "vi": "Ngưng tụ đầy tràn linh lực bắn tên, gây sát thương bằng 120% Tấn công. Tiêu hao [tips_5552] bằng 200% Tấn công ban đầu của bản thân và gây cho kẻ địch sát thương bằng [tips_5552] đã tiêu hao (Hiện tại [tips_5552] còn lại 0).",
+        "en": "Unleashes an arrow brimming with spiritual force, dealing damage equal to 120% of her ATK. Then spends [tips_5552] equal to 200% of her ATK to inflict damage equal to the amount of [tips_5552] spent. (Current [tips_5552]: 0)",
+        "zh": "凝聚满满的灵力射箭，造成攻击120%伤害。消耗自身初始攻击的200%[tips_5552]并对敌方造成所消耗[tips_5552]的伤害（当前[tips_5552]剩余0）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%, tiêu hao [tips_5552] tăng lên 150%",
+            "en": "Increases damage to 110% and the amount of [tips_5552] she can use to 150%.",
+            "zh": "伤害增加至110%，消耗[tips_5552]增加至150%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 120%, tiêu hao [tips_5552] tăng lên 200%",
+            "en": "Increases damage to 120% and the amount of [tips_5552] she can use to 200%.",
+            "zh": "伤害增加至120%，消耗[tips_5552]增加至200%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5551",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5552,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Miểu Diểu Nhất Lữ",
+        "en": "Adventure On",
+        "zh": "渺渺一旅"
+      },
+      "intro": {
+        "vi": "Cùng bồ công anh đi du ngoạn phương xa nào.",
+        "en": "Embark on a long adventure with dandelions.",
+        "zh": "随蒲公英一同远行吧。"
+      },
+      "description": {
+        "vi": "[tips_11] Tiên Cơ: Đính kèm 2 hạt [buff_5551_1] cho toàn bộ phe ta không phải vật triệu hồi. (Hiện tại [tips_5552] còn lại 0). Giải phóng ánh sáng bồ công anh trị liệu, khi mục tiêu phe ta không phải vật triệu hồi nhận trị liệu, lượng trị liệu dôi ra tích trữ thành [tips_5552].\nSau khi lượt kết thúc, bản thân và đồng minh khác nhận 2 hạt [buff_5551_1], duy trì 1 lượt. Mỗi khi tồn tại 1 hạt [buff_5551_1], bản thân tăng 30 điểm Phòng thủ. Khi hạt giống giảm do nguyên nhân không phải đòn tấn công của phe địch, tăng 15% Tấn công, duy trì 1 lượt. Mỗi khi tiêu hao 1 hạt giống, bản thân tăng 8 điểm Tốc độ, duy trì 1 lượt. Khi Đánh Thường, cứ mỗi 345% Tấn công [tips_5552] còn lại, có 30% tỷ lệ truy kích 1 lần sát thương bằng [tips_5552], tối đa truy kích 3 lần.",
+        "en": "[tips_11]. Upper Hand: Grants 2 [buff_5551_1]s to all non-summoned ally entities. (Current [tips_5552]: 0) Unleashes the healing light of dandelions. When a non-summoned ally entity is healed, excess healing is converted into [tips_5552].\nAt the end of her turn, grants her and other allies 2 [buff_5551_1]s each that are sustainable for 1 turn. Each [buff_5551_1] increases her own DEF by 30. When a Seed is removed outside enemy attacks, increases ATK by 15% for 1 turn. Whenever a Seed is removed, increases her own SPD by 8 for 1 turn. When she uses a normal attack, for each portion of [tips_5552] equal to 345% of her ATK, grants her a 30% chance of launching a follow-up strike (up to 3 times), dealing [tips_5552] damage.",
+        "zh": "[tips_11]。先机：为非召唤物全体友方附加2颗[buff_5551_1]。（当前[tips_5552]剩余0）。释放治愈的蒲公英光芒，非召唤物的友方受到治疗时，溢出治疗量储存为[tips_5552]。\n回合结束后，自身和其他友方获得2颗[buff_5551_1]，维持1回合。每存在1个[buff_5551_1]，自身提升30点防御。非敌方攻击造成的种子减少时，提升15%攻击，持续1回合。 每消耗1个种子，自身提升8点速度，持续1回合。普攻时，每剩余345%攻击[tips_5552]，有30%几率追击1次[tips_5552]的伤害，至多追击3次。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi khi tồn tại 1 hạt [buff_5551_1], bản thân tăng 30 điểm Phòng thủ; mỗi khi tiêu hao 1 hạt giống, bản thân tăng 8 điểm Tốc độ, duy trì 1 lượt",
+            "en": "Each [buff_5551_1] increases her own DEF by 30. Whenever a Seed is removed, increases her own SPD by 8 for 1 turn.",
+            "zh": "每存在1个[buff_5551_1]，自身提升30点防御；每消耗1个种子，自身提升8点速度，持续1回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi hạt giống giảm do nguyên nhân không phải đòn tấn công của phe địch, tăng 15% Tấn công, duy trì 1 lượt",
+            "en": "When a Seed is removed due to causes other than enemy attacks, increases ATK by 15% for 1 turn.",
+            "zh": "非敌方攻击造成的种子减少时，提升15%攻击，持续1回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sau khi lượt kết thúc, đính kèm thêm 2 hạt [buff_5551_1] cho đồng minh khác",
+            "en": "At the end of her turn, grants 2 [buff_5551_1]s to other allies.",
+            "zh": "回合结束后，额外为其他友方附加2颗[buff_5551_1]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Đính kèm 2 hạt [buff_5551_1] cho toàn bộ phe ta không phải vật triệu hồi",
+            "en": "Upper Hand: Grants 2 [buff_5551_1]s to all non-summoned ally entities.",
+            "zh": "先机：为非召唤物全体友方附加2颗[buff_5551_1]"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5552",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5553,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Huỳnh Quang Lạc Thế",
+        "en": "Luminescent Smash",
+        "zh": "萤光落世"
+      },
+      "intro": {
+        "vi": "Rất muốn để lại hy vọng cho thế giới này, dù chỉ là một chút thôi cũng được.",
+        "en": "I wish to grant hope to the world, even if it's as tiny as me.",
+        "zh": "想在这个世界留下希望，哪怕一点也好。"
+      },
+      "description": {
+        "vi": "Dùng sức mạnh của bản thân, tỏa sáng rơi xuống nhân thế. Gây cho toàn bộ phe địch sát thương bằng 183% Tấn công, tiêu hao [tips_5552] bằng 340% Tấn công ban đầu của bản thân và gây cho kẻ địch sát thương bằng [tips_5552] đã tiêu hao (Hiện tại [tips_5552] còn lại 0), sát thương chia đều cho toàn bộ phe địch, đồng thời trị liệu lượng HP bằng 35% Tấn công của Miểu Niệm Huỳnh Thảo cho toàn bộ phe ta. Mỗi khi sử dụng 1 lần kỹ năng, tiêu hao [tips_5552] của 『Huỳnh Quang Lạc Thế』 tăng 120%, tăng tối đa 360%; nếu bản thân chịu sát thương gián tiếp, lập tức nâng cao 1 lần tiêu hao [tips_5552] của 『Huỳnh Quang Lạc Thế』, trong một đòn tấn công đơn lẻ kích hoạt tối đa 1 lần.",
+        "en": "Illuminate the world! Launches an attack on all enemies, dealing damage equal to 183% of her ATK, and spends [tips_5552] equal to 340% of her ATK to inflict damage equal to the amount of [tips_5552] spent, distributed evenly among all enemies. (Current [tips_5552]: 0) Also heals the HP of all allies equal to 35% of Kusa Regrown's ATK. Whenever she uses the skill, increases the amount of [tips_5552] Luminescent Smash can use by 120%, up to 360%. When she takes indirect damage, increases the amount of [tips_5552] Luminescent Smash can use. Triggers up to once for a single attack.",
+        "zh": "以己之力，绽光落世。对敌方全体造成攻击183%伤害，消耗自身初始攻击的340%[tips_5552]并对敌方造成所消耗[tips_5552]的伤害（当前[tips_5552]剩余0），伤害平均分配给全体敌方，同时为全体友方治疗等同于渺念萤草攻击35%的生命。每使用1次技能后，『萤光落世』消耗[tips_5552]提升120%，至多提升360%；若自身受到间接伤害，立即提升1次『萤光落世』消耗[tips_5552]，单次攻击最多触发1次。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 169%",
+            "en": "Increases damage to 169%.",
+            "zh": "伤害增加至169%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 176%",
+            "en": "Increases damage to 176%.",
+            "zh": "伤害增加至176%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 183%",
+            "en": "Increases damage to 183%.",
+            "zh": "伤害增加至183%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi sử dụng 1 lần kỹ năng, tiêu hao [tips_5552] của 『Huỳnh Quang Lạc Thế』 tăng 120%, tăng tối đa 360%; nếu bản thân chịu sát thương gián tiếp, tiêu hao [tips_5552] của 『Huỳnh Quang Lạc Thế』 tăng 120%, trong một đòn tấn công đơn lẻ kích hoạt tối đa 1 lần",
+            "en": "Whenever she uses the skill, increases the amount of [tips_5552] Luminescent Smash can use by 120%, up to 360%. When she takes indirect damage, increases the amount of [tips_5552] Luminescent Smash can use by 120%. Triggers up to once for a single attack.",
+            "zh": "每使用1次技能后，『萤光落世』消耗[tips_5552]提升120%，至多提升360%；若自身受到间接伤害，『萤光落世』消耗[tips_5552]提升120%，单次攻击最多触发1次"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5553",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_yingcao",
+    "headKey": "h_sp_yingcao",
+    "armature": [
+      "sp_yingcao_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spyingcao",
+    "skillIconKeys": [
+      "5551",
+      "5552",
+      "5553"
+    ]
+  },
+  "unresolvedTokens": []
+}

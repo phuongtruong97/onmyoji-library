@@ -1,0 +1,322 @@
+{
+  "id": 202,
+  "name": {
+    "vi": "Tam Vĩ Hồ",
+    "en": "Mio",
+    "zh": "三尾狐"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 43]",
+    "en": "[1, 43]",
+    "zh": "[1, 43]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2626,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9341,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 92,
+      "grade": "D"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2021,
+      "maxLevel": 6,
+      "name": {
+        "vi": "Vĩ Kích",
+        "en": "Tail Slash",
+        "zh": "尾袭"
+      },
+      "intro": {
+        "vi": "Hề hề, ta sắp tới rồi đó nha~",
+        "en": "Hehe! I'm coming for you!",
+        "zh": "呵呵，我要过来了哦~"
+      },
+      "description": {
+        "vi": "Mang theo nụ cười kiều diễm tiếp cận, rồi dùng tốc độ nhanh như chớp dùng đuôi quạt quật mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, có 30% xác suất tăng [b_属性1数值_abs] điểm Tốc độ cho bản thân, duy trì 2 lượt.",
+        "en": "Approaches with a smile then mercilessly slashes 1 enemy with her tails, dealing damage equal to 120% of her ATK with a 30% chance of increasing her SPD by [b_属性1数值_abs] for 2 turn(s).",
+        "zh": "带着微笑妩媚地接近，再以迅雷不及掩耳之势用尾巴扇刮敌方目标，造成攻击120%伤害，有30%概率提升自身[b_属性1数值_abs]点速度，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Có 20% xác suất tăng [b_属性1数值_abs] điểm Tốc độ cho bản thân, duy trì 1 lượt",
+            "en": "Has a 20% chance of increasing own SPD by [b_属性1数值_abs] for 1 turn(s).",
+            "zh": "有20%概率提升自身[b_属性1数值_abs]点速度，持续1回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất tăng tốc tăng lên 30%",
+            "en": "Chance of SPD boost increases to 30%.",
+            "zh": "加速概率增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 120%, hiệu ứng tăng Tốc độ tăng lên [b_属性1数值_abs] điểm",
+            "en": "Increases damage to 120% and SPD boost effect to [b_属性1数值_abs].",
+            "zh": "伤害增加至120%，提升速度效果增至[b_属性1数值_abs]点"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "Số lượt duy trì tăng tốc tăng lên 2",
+            "en": "Increases duration of SPD boost to 2.",
+            "zh": "加速持续回合数增至2"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2021",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        },
+        {
+          "level": 6,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2022,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Dụ Dỗ",
+        "en": "Seduction",
+        "zh": "诱惑"
+      },
+      "intro": {
+        "vi": "Ái chà, đến chơi với tỷ tỷ một chút nào, được không?",
+        "en": "Come with me! I know how to have a good time.",
+        "zh": "哎呀，来和姐姐一起玩玩嘛，好不好？"
+      },
+      "description": {
+        "vi": "Khi gây sát thương, có 100% xác suất kèm theo 40% Hút Máu. Khi HP hiện tại bằng với HP tối đa hiện tại, sát thương gây ra tăng 15%.",
+        "en": "When dealing damage, has a 100% chance of inflicting a 40% HP Steal. If her current HP is equal to her max HP, she deals an additional 15% damage.",
+        "zh": "造成伤害时，有100%概率附带40%吸血。当前生命值等于当前最大生命值时，造成伤害增加15%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng Hút Máu tăng lên 25%",
+            "en": "Increases HP Steal effect to 25%.",
+            "zh": "吸血效果增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất tăng lên 100%",
+            "en": "Increases chance to 100%.",
+            "zh": "概率增至100%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng Hút Máu tăng lên 40%",
+            "en": "Increases HP Steal effect to 40%.",
+            "zh": "吸血效果增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi HP hiện tại bằng với HP tối đa hiện tại, sát thương gây ra tăng 15%",
+            "en": "If her current HP is equal to her max HP, she deals an additional 15% damage.",
+            "zh": "当前生命值等于当前最大生命值时，造成伤害增加15%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2022",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2023,
+      "maxLevel": 6,
+      "name": {
+        "vi": "Hồng Nhan Nộ Phát",
+        "en": "Woman Scorned",
+        "zh": "红颜怒发"
+      },
+      "intro": {
+        "vi": "Ảo ảnh hư vô, còn không chịu tan đi!",
+        "en": "So you seek to betray me? I'll show you betrayal!",
+        "zh": "虚无的幻象，还不消散！"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 106% Tấn công, và có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm 1 tầng [buff_99_1] cấp 5, đính kèm thêm 1 tầng [buff_2024_1], mỗi tầng gây [tips_5] bằng [b_参数p1_per] Tấn công; [buff_99_1] và [buff_2024_1] đều duy trì 3 lượt.",
+        "en": "Launches a 3-strike attack on 1 enemy, dealing damage equal to 106% of her ATK on each strike with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting a layer of [buff_99_1] V and a layer of [buff_2024_1] on them. Each layer inflicts [tips_5] equal to [b_参数p1_per] of her ATK. Both [buff_99_1] and [buff_2024_1] last 3 turn(s).",
+        "zh": "攻击敌方目标3次，每次造成攻击106%伤害，并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加1层5级[buff_99_1]，再附加1层[buff_2024_1]，每层造成攻击[b_参数p1_per][tips_5]；[buff_99_1]和[buff_2024_1]均持续3回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至97%",
+            "en": "伤害增加至97%",
+            "zh": "伤害增加至97%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi gây sát thương có 100% [tips_2] đính kèm 1 tầng [buff_99_1] cấp 5, đính kèm thêm 1 tầng [buff_2024_1], mỗi tầng gây [tips_5] bằng [b_参数p1_per] Tấn công; [buff_99_1] và [buff_2024_1] đều duy trì 2 lượt",
+            "en": "When dealing damage, has a 100% [tips_2] of inflicting a layer of [buff_99_1] V and a layer of [buff_2024_1] on them. Each layer inflicts [tips_5] equal to [b_参数p1_per] of her ATK. Both [buff_99_1] and [buff_2024_1] last 2 turn(s).",
+            "zh": "造成伤害时有100%[tips_2]附加1层5级[buff_99_1]，再附加1层[buff_2024_1]，每层造成攻击[b_参数p1_per][tips_5]；[buff_99_1]和[buff_2024_1]均持续2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至106%",
+            "en": "伤害增加至106%",
+            "zh": "伤害增加至106%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_5] của [buff_2024_1] tăng lên [b_参数p1_per]",
+            "en": "Increases [buff_2024_1]'s [tips_5] to [b_参数p1_per].",
+            "zh": "[buff_2024_1]的[tips_5]增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "Số lượt duy trì [buff_99_1] và [buff_2024_1] tăng lên 3 lượt",
+            "en": "Increases duration of [buff_99_1] and [buff_2024_1] to 3 turns.",
+            "zh": "[buff_99_1]和[buff_2024_1]持续回合数增至3回合"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2023",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        },
+        {
+          "level": 6,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sanweihu",
+    "headKey": "h_sanweihu",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2021",
+      "2022",
+      "2023"
+    ]
+  },
+  "unresolvedTokens": []
+}

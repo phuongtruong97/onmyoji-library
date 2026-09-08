@@ -1,0 +1,302 @@
+{
+  "id": 395,
+  "name": {
+    "vi": "Lưu Quang Truy Nguyệt Thần",
+    "en": "Luminary Oitsuki",
+    "zh": "流光追月神"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 6]",
+    "en": "[37, 6]",
+    "zh": "[37, 6]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2224,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12872,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 458,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 111,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3951,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lưu Minh",
+        "en": "Flowing Radiance",
+        "zh": "流明"
+      },
+      "intro": {
+        "vi": "Đây là ánh sáng gửi tặng cho ngươi.",
+        "en": "This light is for you.",
+        "zh": "这是送给你的光。"
+      },
+      "description": {
+        "vi": "Ánh vàng lan tỏa, tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 50% xác suất đẩy lùi 1 ô trên thanh hành động Quỷ Hỏa của mục tiêu kẻ địch (không hiệu lực với quái vật).",
+        "en": "Directs overflowing golden glimmer to attack 1 enemy, dealing damage equal to 125% of her ATK, with a 50% chance of reducing the enemy's Orb Bar progress by 1 slot (ineffective against monsters.)",
+        "zh": "金光流溢，攻击敌方目标，造成攻击125%伤害并有50%概率击退敌方目标1格鬼火行动条（对怪物不生效）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125% và có 50% xác suất đẩy lùi 1 ô trên thanh hành động Quỷ Hỏa của mục tiêu kẻ địch (（không hiệu lực với quái vật))",
+            "en": "Increases the damage to 125% and grants a 50% chance of reducing the enemy's Orb Bar progress by 1 slot((ineffective against monsters)).",
+            "zh": "伤害增加至125%并有50%概率击退敌方目标1格鬼火行动条(（对怪物不生效）)"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3951",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3952,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Khỉ La Vũ",
+        "en": "Glamour Dance",
+        "zh": "绮罗舞"
+      },
+      "intro": {
+        "vi": "Dù thân ở trong bóng tối, cũng sẽ tự bước ra ánh sáng của chính mình.",
+        "en": "Step out of the dark and into the light.",
+        "zh": "身在黑暗，便踏出自己的光明。"
+      },
+      "description": {
+        "vi": "[tips_11] Điệu múa dưới trăng khép lại. [tips_7]: Khiến thanh hành động Quỷ Hỏa đẩy thêm 4 ô. Sau khi lượt bản thân kết thúc đẩy thêm 3 ô trên thanh hành động Quỷ Hỏa và giúp toàn bộ phe ta nhận 2 tầng [buff_3952_1]; khi lượt đồng minh bắt đầu nếu số Quỷ Hỏa không đủ 3 điểm, liền lập tức đẩy 1 ô trên thanh hành động Quỷ Hỏa; khi Quỷ Hỏa của phe ta bị tràn nếu bản thân đang ở trạng thái [tips_27], liền cổ vũ toàn bộ phe ta, mỗi khi tràn 1 điểm Quỷ Hỏa giúp toàn bộ phe ta nhận 1 tầng [buff_3952_1] (không kích hoạt nữa khi số tầng [buff_3952_1] của bản thân đạt giới hạn).",
+        "en": "[tips_11]. A dance under the moon to close the curtain.[tips_7]: Fills up the Orb Bar by an additional 4 slots. At the end of her turn, fills up the Orb Bar by an additional 3 slots and grants 2 [buff_3952_1] stacks to all allies. At the start of an ally's turn, if you have less than 3 orbs, immediately fills up the Orb Bar by 1 slot. When your orbs overflow, if she's under any [tips_27], boosts all allies; each 1 overflowed orb grants 1 [buff_3952_1] stack to all allies (won't trigger if her [buff_3952_1] stacks are maxed out).",
+        "zh": "[tips_11]。一舞月下谢幕。[tips_7]：使鬼火行动条额外推进4格。自身回合结束后额外推进3格鬼火行动条并使全体友方获得2层[buff_3952_1]；友方回合开始时若鬼火数不足3点，则立刻推进1格鬼火行动条；当友方鬼火溢出时若自身处于[tips_27]，则鼓舞全体友方，每溢出1点鬼火使全体友方获得1层[buff_3952_1]（当自身[buff_3952_1]层数到达上限时不再触发）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi tầng [buff_3952_1] tăng thêm 3 điểm Tốc độ",
+            "en": "Each [buff_3952_1] stack also increases SPD by 3.",
+            "zh": "每层[buff_3952_1]额外提升3点速度"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_7]: Khiến thanh hành động Quỷ Hỏa đẩy thêm 4 ô",
+            "en": "[tips_7]: Fills up the Orb Bar by an additional 4 slots.",
+            "zh": "[tips_7]：使鬼火行动条额外推进4格"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tấn công tăng từ mỗi tầng [buff_3952_1] tăng lên 10%",
+            "en": "Increases the ATK boost for each [buff_3952_1] stack to 10%.",
+            "zh": "每层[buff_3952_1]提升的攻击增至10%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi lượt đồng minh bắt đầu nếu số Quỷ Hỏa không đủ 3 điểm, liền lập tức tiêu hao 1 tầng [buff_3956_1] đẩy 1 ô trên thanh hành động Quỷ Hỏa (（không thể kích hoạt khi Lưu Quang không đủ))",
+            "en": "At the start of an ally's turn, if you have less than 3 orbs, immediately fills up the Orb Bar progress by 1 slot at the cost of 1 [buff_3956_1] stack((won't trigger when she doesn't have enough Glittering Light)).",
+            "zh": "友方回合开始时若鬼火数不足3点，则立刻消耗1层[buff_3956_1]推进1格鬼火行动条(（流光不足时无法触发）)"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3952",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3953,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phi Thải Ngưng Huy",
+        "en": "Flying Radiance",
+        "zh": "飞彩凝辉"
+      },
+      "intro": {
+        "vi": "Người không nương theo ánh trăng trở về, thử hỏi được mấy ai?",
+        "en": "I wonder how many people have flown to the moon and back.",
+        "zh": "不知乘月而归者，能有几人？"
+      },
+      "description": {
+        "vi": "Tay áo tung bay tỏa ánh sáng trong lành, giúp toàn bộ mục tiêu phe ta không phải vật triệu hồi nhận [buff_3953_1], duy trì 1 lượt. Nếu [buff_3953_1] không bị tiêu hao, khi thời gian duy trì kết thúc xua tan thêm 1 trạng thái giảm ích hoặc [tips_3] đồng thời tăng 30% Tấn công cùng 30 điểm Tốc độ cho mục tiêu, duy trì 2 lượt. Khi trận đấu bắt đầu và sau khi lượt bản thân kết thúc nhận 3 tầng [buff_3956_1].",
+        "en": "Dances with light steps to invoke the bright light. Grants [buff_3953_1] that's sustainable for 1 turn to all non-summoned ally entities. If the [buff_3953_1] is not consumed, additionally dispels 1 debuff or [tips_3] and increases the ally's ATK by 30% and their SPD by 30 for 2 turns when its duration ends. Gains her 3 [buff_3956_1] stacks at the start of battle and at the end of her turn.",
+        "zh": "衣袂飘飖焕明光，使全体非召唤物友方获得[buff_3953_1]，维持1回合。若[buff_3953_1]未被消耗，其持续时间结束时额外驱散目标1个减益或[tips_3]并提升目标30%攻击与30点速度，持续2回合。战斗开始时和自身回合结束后获得3层[buff_3956_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Nếu [buff_3953_1] không bị tiêu hao, khi thời gian duy trì kết thúc xua tan thêm 1 trạng thái giảm ích hoặc [tips_3] của mục tiêu",
+            "en": "If the [buff_3953_1] is not consumed, additionally dispels 1 debuff or [tips_3] when its duration ends.",
+            "zh": "若[buff_3953_1]未被消耗，其持续时间结束时额外驱散目标1个减益或[tips_3]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thời gian duy trì [buff_3954_1] tăng lên 2 lượt",
+            "en": "Increases the duration of [buff_3954_1] to 2 turns.",
+            "zh": "[buff_3954_1]持续时间增至2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Kỹ năng tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "Reduces the skill's required orbs by 1.",
+            "zh": "技能消耗鬼火减少1点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu [buff_3953_1] không bị tiêu hao, khi thời gian duy trì kết thúc tăng thêm 30% Tấn công cùng 30 điểm Tốc độ cho mục tiêu, duy trì 2 lượt",
+            "en": "If the [buff_3953_1] is not consumed, additionally increases allies' ATK by 30% and their SPD by 30 for 2 turns when its duration ends.",
+            "zh": "若[buff_3953_1]未被消耗，其持续时间结束时额外提升目标30%攻击与30点速度，持续2回合"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3953",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_zhuiyueshen",
+    "headKey": "h_sp_zhuiyueshen",
+    "armature": [
+      "sp_zhuiyueshen",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_liuguangzhuiyueshen",
+    "skillIconKeys": [
+      "3951",
+      "3952",
+      "3953"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,222 @@
+{
+  "id": 423,
+  "name": {
+    "vi": "Nhất Mục Liên Oa",
+    "en": "Ichimokuren Frog",
+    "zh": "一目连呱"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[8]",
+    "en": "[8]",
+    "zh": "[8]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2358,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10366,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4231,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Oa · Phong Phù · Phá",
+        "en": "Croak: Wind Amulet",
+        "zh": "呱·风符·破"
+      },
+      "intro": {
+        "vi": "什么都不用怕，有我在。",
+        "en": "什么都不用怕，有我在。",
+        "zh": "什么都不用怕，有我在。"
+      },
+      "description": {
+        "vi": "打出蕴含风之力的符咒攻击敌方目标，造成攻击125%伤害。",
+        "en": "打出蕴含风之力的符咒攻击敌方目标，造成攻击125%伤害。",
+        "zh": "打出蕴含风之力的符咒攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4231",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 4232,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Oa · Phong Thần Chi Hựu",
+        "en": "Croak: Wind Shield",
+        "zh": "呱·风神之佑"
+      },
+      "intro": {
+        "vi": "龙啊，把你的力量借给我。",
+        "en": "龙啊，把你的力量借给我。",
+        "zh": "龙啊，把你的力量借给我。"
+      },
+      "description": {
+        "vi": "Giúp toàn bộ phe ta không phải vật triệu hồi nhận [tips_6] không thể xua tan, có thể hấp thụ sát thương bằng [b_伤害吸收_per] giới hạn HP, duy trì 1 lượt.",
+        "en": "Creates [tips_6]s (cannot be dispelled) to protect all non-summoned ally entities, absorbing damage equal to [b_伤害吸收_per] of his max HP. Lasts 1 turn.",
+        "zh": "使非召唤物的友方全体获得无法驱散的[tips_6]，能吸收[b_伤害吸收_per]生命上限的伤害，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_6] tăng lên [b_伤害吸收_per]",
+            "en": "Increases damage absorbed by [tips_6] to [b_伤害吸收_per].",
+            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_6] tăng lên [b_伤害吸收_per]",
+            "en": "Increases damage absorbed by [tips_6] to [b_伤害吸收_per].",
+            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "4232",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "longche_yimulianwa",
+    "headKey": "h_yimuliangua",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4231",
+      "4232"
+    ]
+  },
+  "unresolvedTokens": [
+    "tips_6"
+  ]
+}

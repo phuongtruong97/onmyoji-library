@@ -1,0 +1,253 @@
+{
+  "id": 265,
+  "name": {
+    "vi": "Tỳ Mộc Đồng Tử",
+    "en": "Ibaraki Doji",
+    "zh": "茨木童子"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2948,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 102,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2651,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hắc Diễm",
+        "en": "Black Flame",
+        "zh": "黑焰"
+      },
+      "intro": {
+        "vi": "呵，这样就足够解决你了。",
+        "en": "呵，这样就足够解决你了。",
+        "zh": "呵，这样就足够解决你了。"
+      },
+      "description": {
+        "vi": "以鬼气凝成黑色火焰攻击敌方目标，造成攻击125%伤害。",
+        "en": "以鬼气凝成黑色火焰攻击敌方目标，造成攻击125%伤害。",
+        "zh": "以鬼气凝成黑色火焰攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2651",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2652,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Chuyển Nộ",
+        "en": "Rage Outlet",
+        "zh": "迁怒"
+      },
+      "intro": {
+        "vi": "Dám làm hại bạn của ta? Vậy thì chuẩn bị tinh thần đi!",
+        "en": "You dare hurt my friends? Prepare to pay for what you've done!",
+        "zh": "敢伤害我的友人？那就做好觉悟吧！"
+      },
+      "description": {
+        "vi": "Khi tấn công, nếu hạ gục kẻ địch không phải vật triệu hồi, gây cho toàn bộ phe địch sát thương bằng 100% sát thương thặng dư và tiêu hao toàn bộ [buff_2652_1]; nếu không hạ gục, nhận 1 tầng [buff_2652_1], giới hạn 3 tầng.",
+        "en": "When his attack KO's a non-summoned enemy entity, he inflicts 100% of the excess damage to all enemies and consumes all his [buff_2652_1]s. If his attack fails to perform a KO, he gains a [buff_2652_1] stack, up to 3 times.",
+        "zh": "攻击时，若击败非召唤物的敌人，对敌方全体造成等同过量伤害100%伤害并消耗所有的[buff_2652_1]；未造成击败，则获得1层[buff_2652_1]，上限3层。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "2652",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 2653,
+      "maxLevel": 5,
+      "name": {
+        "vi": "地狱之手",
+        "en": "地狱之手",
+        "zh": "地狱之手"
+      },
+      "intro": {
+        "vi": "就让你见识我真正的力量，降临吧，地狱之手！",
+        "en": "就让你见识我真正的力量，降临吧，地狱之手！",
+        "zh": "就让你见识我真正的力量，降临吧，地狱之手！"
+      },
+      "description": {
+        "vi": "[tips_11]\nDùng sức mạnh của quỷ từ địa ngục gọi ra cổ tay của mình vồ về phía mục tiêu kẻ địch, gây sát thương bằng 263% Tấn công, nhận 3 tầng [buff_26531_1]. Mỗi khi có 1 tầng [buff_2652_1], sau khi thi triển hồi phục 1 điểm Quỷ Hỏa.",
+        "en": "[tips_11]\nSummons his hand from hell with a demonic power to attack 1 enemy, dealing damage equal to 263% of his ATK. Gains him 3 [buff_26531_1] stacks. After using the skill, each [buff_2652_1] stack he has recovers your orbs by 1.",
+        "zh": "[tips_11]\n以鬼之力从地狱唤出自己的手腕扑击敌方目标，造成攻击263%伤害，获得3层[buff_26531_1]。每有1层[buff_2652_1]，施放后回复1点鬼火。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 276%, sát thương Quỷ Thủ tăng lên 176%.",
+            "en": "Increases the damage to 276% and Demonic Arm's damage to 176%.",
+            "zh": "伤害增加至276%，鬼手伤害增加至176%。"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 289%, sát thương Quỷ Thủ tăng lên 181%.",
+            "en": "Increases the damage to 289% and Demonic Arm's damage to 181%.",
+            "zh": "伤害增加至289%，鬼手伤害增加至181%。"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 302%, sát thương Quỷ Thủ tăng lên 186%.",
+            "en": "Increases the damage to 302% and Demonic Arm's damage to 186%.",
+            "zh": "伤害增加至302%，鬼手伤害增加至186%。"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 315%, sát thương Quỷ Thủ tăng lên 191%.",
+            "en": "Increases the damage to 315% and Demonic Arm's damage to 191%.",
+            "zh": "伤害增加至315%，鬼手伤害增加至191%。"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2653",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "cimutongzi",
+    "headKey": "h_cimutongzi",
+    "armature": "",
+    "artName": "txt_zhanshi_cimutongzi",
+    "skillIconKeys": [
+      "2651",
+      "2652",
+      "2653"
+    ]
+  },
+  "unresolvedTokens": []
+}

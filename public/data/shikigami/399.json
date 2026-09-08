@@ -1,0 +1,350 @@
+{
+  "id": 399,
+  "name": {
+    "vi": "Ngôn Linh",
+    "en": "Kotodama",
+    "zh": "言灵"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 17]",
+    "en": "[37, 17]",
+    "zh": "[37, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2855,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9911,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 436,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3991,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ngôn Động",
+        "en": "Words' Action",
+        "zh": "言动"
+      },
+      "intro": {
+        "vi": "Lời nói có thể làm tổn thương ngươi, cũng có thể cứu rỗi ngươi!",
+        "en": "Words can hurt you; they can also save your life!",
+        "zh": "言可伤汝，亦可救汝！"
+      },
+      "description": {
+        "vi": "Tâm vốn không hình, lời thể hiện thiện ác, dùng sức mạnh ẩn chứa trong lời nói tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công. Có 20% xác suất cơ bản Câm Lặng mục tiêu kẻ địch, duy trì 1 lượt",
+        "en": "The heart is born formless; it's the words that manifest good and evil. Attacks 1 enemy with the power of words, dealing damage equal to 125% of her ATK. Has a 20% base chance of inflicting Silence lasting 1 turn on the enemy.",
+        "zh": "心本无形，言现善恶，以言中所蕴含的力量攻击敌方目标，造成攻击125%伤害。有20%基础概率沉默敌方目标，持续1个回合"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%",
+            "zh": "伤害提升至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害提升至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害提升至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%, có 20% [tips_2] [tips_104] mục tiêu kẻ địch, duy trì 1 lượt",
+            "en": "Increases the damage to 125%. Grants a 20% [tips_2] of inflicting [tips_104] lasting 1 turn on the enemy.",
+            "zh": "伤害提升至125%，有20%[tips_2][tips_104]敌方目标，持续1个回合"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3991",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3992,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ngữ Tội",
+        "en": "Spoken Sin",
+        "zh": "语罪"
+      },
+      "intro": {
+        "vi": "Ta là ai, do chính ta tự định đoạt!",
+        "en": "I decide who I am! I speak for myself!",
+        "zh": "吾为何者，由吾自己言说！"
+      },
+      "description": {
+        "vi": "Ngôn Hải trầm mặc không nói, nhưng dõi theo vạn vật, miễn nhiễm [tips_104].\n[tips_11] Sau khi trận đấu bắt đầu, mỗi khi phe địch nhận lớn hơn 3 điểm Quỷ Hỏa, Ngôn Linh tăng 2 tầng [buff_3991_1]. Khi lượt mục tiêu kẻ địch không phải vật triệu hồi kết thúc, Ngôn Linh tăng 1 tầng Mặc Linh. [tips_7]: Nhận 3 tầng [buff_3991_1]",
+        "en": "The Sea of Words is silent as it watches the world. Grants immunity to [tips_104]s.\n[tips_11]. After battle starts, whenever the enemy gains more than 3 orbs, Kotodama gains 2 [buff_3991_1] stacks. At the end of a non-summoned enemy entity's turn, Kotodama gains 1 Inkling stack. [tips_7]: Gains 3 [buff_3991_1] stacks.",
+        "zh": "言海沉默不语，却注视一切，免疫[tips_104]。\n[tips_11]。战斗开始后，敌方每次获得大于3点鬼火时，言灵增加2层[buff_3991_1]。非召唤物的敌方目标回合结束时，言灵增加1层墨灵。[tips_7]：获得3层[buff_3991_1]"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi thi triển Ngôn Hiện, tăng [buff_3997_1] có thể hấp thụ 14% HP tối đa của bản thân, duy trì 2 lượt",
+            "en": "Using Words Manifestation also creates a [buff_3997_1] that absorbs damage equal to 14% of her max HP and lasts 2 turns.",
+            "zh": "施放言现时，增加能吸收自身最大生命14%的[buff_3997_1]，持续2个回合"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi thi triển Ngôn Hiện, tăng [buff_3997_1] có thể hấp thụ 14% HP tối đa của bản thân, duy trì 2 lượt",
+            "en": "Using Words Manifestation also creates a [buff_3997_1] that absorbs damage equal to 14% of her max HP and lasts 2 turns.",
+            "zh": "施放言现时，增加能吸收自身最大生命14%的[buff_3997_1]，持续2个回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_7]: Nhận 3 tầng [buff_3991_1]",
+            "en": "[tips_7]: Gains 3 [buff_3991_1] stacks.",
+            "zh": "[tips_7]：获得3层[buff_3991_1]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_7]: Nhận 3 tầng [buff_3991_1]",
+            "en": "[tips_7]: Gains 3 [buff_3991_1] stacks.",
+            "zh": "[tips_7]：获得3层[buff_3991_1]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương gây ra khi thi triển Ngôn Hiện tăng lên 96%",
+            "en": "Increases the damage dealt by Words Manifestation to 96%.",
+            "zh": "施放言现造成伤害增加至96%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương gây ra khi thi triển Ngôn Hiện tăng lên 96%",
+            "en": "Increases the damage dealt by Words Manifestation to 96%.",
+            "zh": "施放言现造成伤害增加至96%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương gây ra khi thi triển Ngôn Hiện tăng lên 115%",
+            "en": "Increases the damage dealt by Words Manifestation to 115%.",
+            "zh": "施放言现造成伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương gây ra khi thi triển Ngôn Hiện tăng lên 115%",
+            "en": "Increases the damage dealt by Words Manifestation to 115%.",
+            "zh": "施放言现造成伤害增加至115%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3992",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3993,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chân Ngôn Ao Mạch",
+        "en": "Secret of Mantras",
+        "zh": "真言奥秘"
+      },
+      "intro": {
+        "vi": "Muôn loài đều là chân ngôn, muôn lời đều có chân ý.",
+        "en": "Everything can form a mantra, and every word has a true meaning.",
+        "zh": "万物皆为真言，万言皆有真义。"
+      },
+      "description": {
+        "vi": "Ban lời nói thành linh, điều khiển lời nói mà đi, dò tìm bí mật của chân ngôn, gây cho toàn bộ mục tiêu kẻ địch sát thương bằng 210% Tấn công, và khiến phe địch nhận 2 điểm [buff_3993_1]. Nếu mục tiêu là quái vật, đối với toàn bộ mục tiêu kẻ địch truy kích 1 lần sát thương bằng 100% Tấn công.\nSau khi thi triển giúp mục tiêu phe ta nhận hiệu ứng tăng 30% Tấn công khi Đánh Thường, duy trì 2 lượt. Nếu mục tiêu là quái vật, hiệu ứng tăng Tấn công khi Đánh Thường của mục tiêu phe ta tăng lên 55%, duy trì 2 lượt.",
+        "en": "Gives words a soul and rides on words to discover the secret of mantras. Launches an attack on all enemies, dealing damage equal to 210% of her ATK. Also, grants the enemy 2 [buff_3993_1]s. If the enemy is a monster, inflicts another follow-up attack on all enemies, dealing damage equal to 100% of her ATK.\nAfter using the skill, increases the ATK of all allies by 30% for 2 turns when they use normal attacks; if the enemy is monster, increases the ATK boost to 55%.",
+        "zh": "赋言以灵，驭言而行，探知真言之奥秘，对全体敌方目标造成攻击210%的伤害，并使敌方获得2点[buff_3993_1]。若目标为怪物，则对全体敌方目标追加1次攻击100%伤害。\n施放后使友方目标获得普攻时提升攻击30% ，持续2个回合。若目标为怪物，友方目标普攻时提升攻击效果增至55%，持续2个回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sau khi thi triển khiến mục tiêu phe ta không phải vật triệu hồi nhận hiệu ứng tăng 30% Tấn công khi Đánh Thường, duy trì 2 lượt",
+            "en": "After using the skill, increases the ATK of all non-summoned ally entities by 30% for 2 turns when they use normal attacks.",
+            "zh": "施放后使非召唤物的友方目标获得普攻时提升攻击30% ，持续2个回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi khi tiêu hao 1 điểm [buff_3993_1], có 40% [tips_2] Câm Lặng mục tiêu đó, duy trì 1 lượt. Không kích hoạt hiệu ứng này khi thi triển 「Cuống Mặc」",
+            "en": "Each 1 [buff_3993_1] the enemy used has a 40% [tips_2] of inflicting Silence lasting 1 turn on the enemy. Using Lies Silenced won't trigger the effect.",
+            "zh": "每消耗1点[buff_3993_1]，有40%[tips_2]沉默该目标，持续1个回合。施放「诳默」时不触发此效果"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Nếu mục tiêu là quái vật, hiệu ứng tăng Tấn công khi Đánh Thường của mục tiêu phe ta không phải vật triệu hồi tăng lên 55%, duy trì 2 lượt",
+            "en": "If the enemy is monster, increases the ATK boost that lasts 2 turns on non-summoned ally entities when they use normal attacks to 55%.",
+            "zh": "若目标为怪物，非召唤物的友方目标普攻时提升攻击效果增至55%，持续2个回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi tiêu hao 1 điểm [buff_3993_1], khiến sát thương kỹ năng lần này gây ra giảm 30%",
+            "en": "Each 1 [buff_3993_1] the enemy used reduces the damage dealt by the skill used by 30%.",
+            "zh": "每消耗1点[buff_3993_1]，使本次技能造成伤害减少30%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3993",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yanling",
+    "headKey": "h_yanling",
+    "armature": "",
+    "artName": "txt_zhanshi_yanling",
+    "skillIconKeys": [
+      "3991",
+      "3992",
+      "3993"
+    ]
+  },
+  "unresolvedTokens": []
+}

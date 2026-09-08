@@ -1,0 +1,220 @@
+{
+  "id": 379,
+  "name": {
+    "vi": "Bất Kiến Nhạc",
+    "en": "Fukengaku",
+    "zh": "不见岳"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 38, 10]",
+    "en": "[37, 38, 10]",
+    "zh": "[37, 38, 10]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2278,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11392,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 485,
+      "grade": "S"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3791,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trùng Lăng",
+        "en": "Heavy Boulder",
+        "zh": "重峦"
+      },
+      "intro": {
+        "vi": "Đường núi gập ghềnh, xin mời quay về.",
+        "en": "The road is blocked. Please turn back.",
+        "zh": "山路不通，请回。"
+      },
+      "description": {
+        "vi": "Dùng sức mạnh sơn thần thao túng đá lớn đập vào mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và tăng 50% Kháng Hiệu Ứng của bản thân, duy trì 2 lượt.",
+        "en": "Harnesses a giant boulder with the power of mountain god and smashes it at 1 enemy, dealing damage equal to 125% of his ATK and increasing his Effect RES by 50% for 2 turns.",
+        "zh": "以山神之力操控巨岩砸向敌方目标，造成攻击125%伤害并提升自身50%效果抵抗，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%",
+            "zh": "伤害提升至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害提升至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害提升至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%, sau khi thi triển tăng 50% Kháng Hiệu Ứng cho bản thân, duy trì 2 lượt",
+            "en": "Increases damage to 125%, increases own Effect RES by 50% for 2 turns after using the skill.",
+            "zh": "伤害增加至125%，施放后提升自身50%效果抵抗，持续2回合"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3791",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3793,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thủy Túc Sơn Hành",
+        "en": "Mountain Hiking",
+        "zh": "水宿山行"
+      },
+      "intro": {
+        "vi": "Trời quang mây tạnh, có muốn cùng ta đi bộ không?",
+        "en": "It's a lovely day. Would you like to go hiking with me?",
+        "zh": "天晴日朗，要与我一同徒步吗？"
+      },
+      "description": {
+        "vi": "[tips_11].\nMở ra Kết giới Sơn Hành tồn tại 3 lượt. Trong thời gian Kết giới duy trì, phe ta khi hành động ở lượt đầu tiên nhận [buff_3798_1]; sau đó nếu phe ta thi triển kỹ năng giống với lượt trước, nhận [buff_3798_1]; nếu không sau khi kết thúc lượt nhận [buff_3796_1]. Trong Kết giới Sơn Hành, Sát Thương Bạo Kích phe ta chịu phải giảm 25%, sát thương không Bạo kích gây ra tăng 25%, Tấn công tăng bằng 50% Phòng thủ ban đầu của Bất Kiến Nhạc (（không vượt quá 20% Tấn công ban đầu của mục tiêu phe ta)). [tips_7]: Thi triển 『Thủy Túc Sơn Hành』.",
+        "en": "[tips_11].\nUnfurls Mountain Realm for 3 turns. While the Realm lasts, allies gain [buff_3798_1] at the start of their first action turn. After that, if an ally uses the same skill as in the previous turn, they gain [buff_3798_1]. Otherwise, they gain [buff_3796_1] after the turn ends. Within Mountain Realm, allies take 25% less Crit DMG, deal 25% more non-crit damage, and gain ATK equal to 50% of Fukengaku's starting DEF (（不超过友方目标初始攻击的20%）). [tips_7]: Cast Mountain Hiking.",
+        "zh": "[tips_11]。\n开启存在3回合的山行结界。结界持续期间，友方首个回合行动时获得[buff_3798_1]；此后若友方施放与上一回合相同的技能，获得[buff_3798_1]；否则在回合结束后获得[buff_3796_1]。山行结界中，友方受到的暴击伤害降低25%、造成的非暴击伤害提升25%、攻击提升不见岳初始防御的50%(（不超过友方目标初始攻击的20%）)。[tips_7]：施放『水宿山行』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trong Kết giới Sơn Hành, Sát Thương Bạo Kích phe ta chịu phải giảm 25%",
+            "en": "In Mountain Realm, allies take 25% less Crit DMG.",
+            "zh": "山行结界中，友方受到的暴击伤害降低25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trong Kết giới Sơn Hành, sát thương không Bạo kích phe ta gây ra tăng 25%",
+            "en": "In Mountain Realm, allies deal 25% more non-Crit damage.",
+            "zh": "山行结界中，友方造成的非暴击伤害提升25%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trong Kết giới Sơn Hành, Tấn công phe ta tăng bằng 50% Phòng thủ ban đầu của Bất Kiến Nhạc (（không vượt quá 20% Tấn công ban đầu của mục tiêu phe ta))",
+            "en": "Within Mountain Realm, allies gain ATK equal to 50% of Fukengaku's starting DEF (（不超过友方目标初始攻击的20%）).",
+            "zh": "山行结界中，友方攻击提升不见岳初始防御的50%(（不超过友方目标初始攻击的20%）)"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Thi triển 『Thủy Túc Sơn Hành』",
+            "en": "[tips_7]: Uses Mountain Hiking.",
+            "zh": "[tips_7]：施放『水宿山行』"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3793",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "bujianyue",
+    "headKey": "h_bujianyue",
+    "armature": "",
+    "artName": "txt_zhanshi_bujianyue",
+    "skillIconKeys": [
+      "3791",
+      "3793"
+    ]
+  },
+  "unresolvedTokens": []
+}

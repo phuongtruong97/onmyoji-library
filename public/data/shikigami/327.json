@@ -1,0 +1,350 @@
+{
+  "id": 327,
+  "name": {
+    "vi": "Thương Phong Nhất Mục Liên",
+    "en": "Azurestorm Ichimokuren",
+    "zh": "苍风一目连"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 8]",
+    "en": "[1, 8]",
+    "zh": "[1, 8]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3028,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10366,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 308,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 111,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3271,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong Phù · Diệt",
+        "en": "Wind Amulet: Destroy",
+        "zh": "风符·灭"
+      },
+      "intro": {
+        "vi": "Gió diệt, sắc như lưỡi đao.",
+        "en": "The wind destroys as ruthlessly as a steel blade.",
+        "zh": "风之灭，如刃之坚。"
+      },
+      "description": {
+        "vi": "Dùng sức mạnh phong long tấn công mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công, đồng thời giúp bản thân nhận [tips_3271], có thể hấp thụ lượng sát thương bằng 60% Tấn công của bản thân, duy trì 3 lượt.\nNếu bản thân đã sở hữu [tips_3271], chuyển thành giúp đồng minh có tỷ lệ HP thấp nhất và chưa sở hữu [tips_3271] nhận lấy.",
+        "en": "Attacks 1 enemy with his wind dragon power, dealing damage equal to 100% of his ATK, and creates a [tips_3271] to protect himself that lasts 3 turns, absorbing damage equal to 60% of his ATK.\nIf he already has a [tips_3271], creates a [tips_3271] to protect an unprotected ally with the lowest proportion of HP.",
+        "zh": "以风龙之力攻击敌方目标，造成攻击100%伤害，并使自身获得[tips_3271]，能吸收等同自身攻击60%的伤害，持续3回合。\n若自身已拥有[tips_3271]，改为使生命比例最低、且未拥有[tips_3271]的友方获得。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 85%",
+            "en": "Increases damage to 85%.",
+            "zh": "伤害增至85%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 90%",
+            "en": "Increases damage to 90%.",
+            "zh": "伤害增至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 95%",
+            "en": "Increases damage to 95%.",
+            "zh": "伤害增至95%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增至100%",
+            "en": "伤害增至100%",
+            "zh": "伤害增至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3271",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3272,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong Phù · Thủ",
+        "en": "Wind Amulet: Shield",
+        "zh": "风符·守"
+      },
+      "intro": {
+        "vi": "Gió thủ, vững như tâm can.",
+        "en": "The wind protects as steadfastly as a noble heart.",
+        "zh": "风之守，如心之固。"
+      },
+      "description": {
+        "vi": "[tips_11]\nKhi kết thúc mỗi hành động (bất kể địch ta), nếu bản thân trong trạng thái [tips_27], giúp mục tiêu phe ta có tỷ lệ HP dưới 40% nhận [tips_3271], có thể hấp thụ lượng sát thương bằng [b_伤害吸收_per] Tấn công, hồi chiêu 2 lượt. Khi đồng minh khác nhận Lá chắn, Thương Phong Nhất Mục Liên sẽ tự thêm cho bản thân một [tips_3271] bằng 50% lượng hấp thụ Lá chắn của đồng minh. Mỗi khi có một đơn vị phe ta sở hữu Lá chắn, Thương Phong Nhất Mục Liên nhận 5% giảm sát thương, tăng tối đa đến 30%. Mỗi 1% Bạo kích ban đầu dư thừa của Thương Phong Nhất Mục Liên, Phong Thuẫn cung cấp 2% giảm sát thương (giới hạn 40%), bản thân tăng 2% Sát Thương Bạo Kích.\n【Thi triển】 Giúp mục tiêu phe ta cùng một đồng minh khác có tỷ lệ HP thấp nhất và chưa sở hữu [tips_3271] nhận [tips_3271], có thể hấp thụ lượng sát thương bằng [b_伤害吸收_per] Tấn công, duy trì 3 lượt.",
+        "en": "[tips_11].\nAt the end of each action (either ally's or enemy's), if he's under [tips_27], creates a [tips_3271] to protect an ally with HP below 40%, absorbing damage equal to [b_伤害吸收_per] of his ATK. CD: 2 turns. When another ally gains a shield, Azurestorm Ichimokuren creates a [tips_3271] to protect himself, absorbing damage equal to 50% of the shield capacity of the ally's shield. Each ally with a shield increases Azurestorm Ichimokuren's damage reduction by 5%, up to 30% damage reduction. For each 1% of excess Crit Azurestorm Ichimokuren has for his starting Crit, the Wind Shield grants a 2% damage reduction (max 40%) and increases his Crit DMG by 2%.\nActive skill: Creates two [tips_3271]s, each lasting 3 turns, to protect the target ally and the ally with the lowest proportion of HP who doesn't have a [tips_3271] on them, absorbing damage equal to [b_伤害吸收_per] of his ATK.",
+        "zh": "[tips_11]\n在每个行动（不论敌我）结束时，若自身处于[tips_27]，使生命比例低于40%的友方目标获得[tips_3271]，能吸收攻击[b_伤害吸收_per]的伤害，2回合冷却。其他友方获得护盾时，苍风一目连会为自己添加一个等同友方护盾吸收量50%的[tips_3271]。每存在一名拥有护盾的友方单位，苍风一目连获得5%减伤，最多增至30%。苍风一目连初始暴击每溢出1%,风盾提供2%的减伤（上限40%），自身增加2%的暴击伤害。\n【施放】使友方目标及另一生命比例最低、且未拥有[tips_3271]的友方获得[tips_3271]，能吸收攻击[b_伤害吸收_per]的伤害，持续3回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ của [tips_3271] tăng lên [b_伤害吸收_per]",
+            "en": "Increases damage absorbed by [tips_3271] to [b_伤害吸收_per].",
+            "zh": "[tips_3271]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ của [tips_3271] tăng lên [b_伤害吸收_per]",
+            "en": "Increases damage absorbed by [tips_3271] to [b_伤害吸收_per].",
+            "zh": "[tips_3271]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tỷ lệ HP kích hoạt 『Phong Phù · Thủ』 tăng lên 40%, số lượt không kích hoạt lặp lại giảm xuống 2",
+            "en": "Increases the proportion of HP required to trigger Wind Amulet: Shield to 40% and reduces the cooldown to 2 turns.",
+            "zh": "触发『风符·守』的生命比例提高至40%，不重复触发的回合数减至2"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tỷ lệ HP kích hoạt 『Phong Phù · Thủ』 tăng lên 40%, số lượt không kích hoạt lặp lại giảm xuống 2",
+            "en": "Increases the proportion of HP required to trigger Wind Amulet: Shield to 40% and reduces the cooldown to 2 turns.",
+            "zh": "触发『风符·守』的生命比例提高至40%，不重复触发的回合数减至2"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi đồng minh khác nhận Lá chắn, Thương Phong Nhất Mục Liên sẽ tự thêm cho bản thân một [tips_3271] bằng 50% lượng hấp thụ Lá chắn của đồng minh",
+            "en": "When another ally gains a shield, Azurestorm Ichimokuren creates a [tips_3271] to protect himself, absorbing damage equal to 50% of the shield capacity of the ally's shield.",
+            "zh": "其他友方获得护盾时，苍风一目连会为自己添加一个等同友方护盾吸收量50%的[tips_3271]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi đồng minh khác nhận Lá chắn, Thương Phong Nhất Mục Liên sẽ tự thêm cho bản thân một [tips_3271] bằng 50% lượng hấp thụ Lá chắn của đồng minh",
+            "en": "When another ally gains a shield, Azurestorm Ichimokuren creates a [tips_3271] to protect himself, absorbing damage equal to 50% of the shield capacity of the ally's shield.",
+            "zh": "其他友方获得护盾时，苍风一目连会为自己添加一个等同友方护盾吸收量50%的[tips_3271]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi 1% Bạo kích ban đầu dư thừa của Thương Phong Nhất Mục Liên, Phong Thuẫn cung cấp 2% giảm sát thương (（giới hạn 40%)), bản thân tăng 2% Sát Thương Bạo Kích",
+            "en": "For each 1% of excess Crit Azurestorm Ichimokuren has for his starting Crit, the Wind Shield grants a 2% damage reduction((max 40%)) and increases his Crit DMG by 2%.",
+            "zh": "苍风一目连初始暴击每溢出1%，风盾提供2%的减伤(（上限40%）)，自身增加2%的暴击伤害"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi 1% Bạo kích ban đầu dư thừa của Thương Phong Nhất Mục Liên, Phong Thuẫn cung cấp 2% giảm sát thương (（giới hạn 40%)), bản thân tăng 2% Sát Thương Bạo Kích",
+            "en": "For each 1% of excess Crit Azurestorm Ichimokuren has for his starting Crit, the Wind Shield grants a 2% damage reduction((max 40%)) and increases his Crit DMG by 2%.",
+            "zh": "苍风一目连初始暴击每溢出1%，风盾提供2%的减伤(（上限40%）)，自身增加2%的暴击伤害"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3272",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3273,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong Chỉ · Thương Long Trụy",
+        "en": "Wind Halted: Dragonfall",
+        "zh": "风止·苍龙坠"
+      },
+      "intro": {
+        "vi": "Gió lặng thành khiên, gió nổi thành đao, chỉ trong một niệm.",
+        "en": "The winds obey my will. They halt and become my shield, they blow and become my blade.",
+        "zh": "风尽为盾，风起为刃，仅在一念之间。"
+      },
+      "description": {
+        "vi": "Thần long lao thẳng lên tầng mây, gọi giông bão oanh kích toàn bộ phe địch, gây sát thương bằng 174% Tấn công.\nSau đó mỗi khi phe ta sở hữu một [tips_3271], liền gây cho mục tiêu kẻ địch ngẫu nhiên sát thương bằng 174% Tấn công, khi tấn công lặp lại cùng một mục tiêu, sát thương giảm dần 20%. Khi thi triển kỹ năng, sẽ hồi phục cho Thức Thần phe ta sở hữu [tips_3271] lượng HP bằng 35% lượng hấp thụ còn lại của Phong Thuẫn, sau khi thi triển kỹ năng, đặt lại số lượt duy trì của [tips_3271], đồng thời đặt lại [tips_3271] có lượng hấp thụ còn lại dưới 72% thành 72% lượng hấp thụ ban đầu.",
+        "en": "The Dragon soars into the clouds and calls forth a storm to attack all enemies, dealing damage equal to 174% of his ATK.\nThen for each [tips_3271] on an ally, inflicts damage equal to 174% of his ATK on a random enemy. Damage dealt is reduced by 20% for each subsequent strike on the same enemy. Upon use, recovers the HP of allies with the [tips_3271] by 35% of their Wind Shield's remaining shield capacity. After use, resets the duration of all [tips_3271]s, and resets the shield capacity of a [tips_3271] to 72% if it's below 72%.",
+        "zh": "神龙直冲云霄，召唤风暴轰击敌方全体，造成攻击174%伤害。\n然后友方全体每拥有一个[tips_3271]，便对随机敌方目标造成攻击174%伤害，重复攻击同一目标时，伤害依次递减20%。施放技能时，会为拥有[tips_3271]的友方式神恢复等同于剩余风盾吸收量35%的生命，施放技能后，重置[tips_3271]的持续回合，同时将剩余吸收量不足72%的[tips_3271]重置为初始吸收量的72%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương đều tăng lên 166%",
+            "en": "Increases both damage amounts to 166%.",
+            "zh": "伤害均增加至166%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương đều tăng lên 174%",
+            "en": "Increases both damage amounts to 174%.",
+            "zh": "伤害均增加至174%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi thi triển kỹ năng, sẽ hồi phục cho Thức Thần phe ta sở hữu [tips_3271] lượng HP bằng 35% lượng hấp thụ còn me của Phong Thuẫn",
+            "en": "Using the skill also restores the HP of allies with the [tips_3271] by 35% of their Wind Shield's remaining shield capacity.",
+            "zh": "施放技能时，会为拥有[tips_3271]的友方式神恢复等同于剩余风盾吸收量35%的生命"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi thi triển kỹ năng, đặt lại số lượt duy trì của [tips_3271], đồng thời đặt lại [tips_3271] có lượng hấp thụ còn lại dưới 72% thành 72% lượng hấp thụ ban đầu",
+            "en": "Resets the duration of all [tips_3271]s, and resets the shield capacity of a [tips_3271] to 72% if it's below 72%.",
+            "zh": "施放技能后，重置[tips_3271]的持续回合，同时将剩余吸收量不足72%的[tips_3271]重置为初始吸收量的72%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3273",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_yimulian",
+    "headKey": "j_spyimulian",
+    "armature": "",
+    "artName": "txt_zhanshi_cangfengyimulian",
+    "skillIconKeys": [
+      "3271",
+      "3272",
+      "3273"
+    ]
+  },
+  "unresolvedTokens": []
+}

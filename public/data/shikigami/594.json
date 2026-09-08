@@ -1,0 +1,302 @@
+{
+  "id": 594,
+  "name": {
+    "vi": "Mộng Dẫn Hồ Điệp Tinh",
+    "en": "Dreambound Chocho",
+    "zh": "梦引蝴蝶精"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 10, 8]",
+    "en": "[37, 10, 8]",
+    "zh": "[37, 10, 8]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 1875,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 13784,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 480,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 113,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5941,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Yêu Linh",
+        "en": "Happy New Year",
+        "zh": "摇铃"
+      },
+      "intro": {
+        "vi": "Đừng đi lạc đấy nhé.",
+        "en": "Follow me closely.",
+        "zh": "不要跟丢了哦。"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch và gây sát thương bằng 125% Tấn công.",
+        "en": "Attacks 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "攻击敌方目标并造成攻击125%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5941",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5942,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Linh Mộng",
+        "en": "Spirit Dream",
+        "zh": "灵梦"
+      },
+      "intro": {
+        "vi": "Tôi đã nhìn thấy rồi, tương lai trong mộng.",
+        "en": "I see it—the dream's continuation.",
+        "zh": "我看见了，梦中的未来。"
+      },
+      "description": {
+        "vi": "Khi chịu hiệu ứng [tips_102] hoặc ở bất kỳ lượt nào Hồ Điệp Tinh chịu sát thương lớn hơn 20% HP ban đầu của bản thân, thi triển [skill_5942_1].\n【Thi triển】 Nhận [buff_5942_1] bằng 15% giới hạn HP, duy trì 2 lượt.",
+        "en": "Triggered by [tips_102] effect or when Dreambound Chocho takes damage exceeding 20% of her max HP in any turn, casts [skill_5942_1].\nActive skill: Gains a [buff_5942_1] equal to 15% of her max HP for 2 turns.",
+        "zh": "受到[tips_102]效果或任意回合蝴蝶精受到大于自身初始生命20%的伤害时，施放[skill_5942_1]。\n【施放】获得生命上限15%的[buff_5942_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ của [buff_5942_1] tăng lên 20%",
+            "en": "Increases [buff_5942_1] absorption to 20%.",
+            "zh": "[buff_5942_1]吸收量提升至20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi [buff_5942_1] bị phá vỡ, miễn nhiễm sát thương dư thừa",
+            "en": "When [buff_5942_1] is broken, immune to excess damage.",
+            "zh": "[buff_5942_1]被打破时，免疫过量伤害"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Bất kỳ lượt nào, khi bản thân chịu sát thương cộng dồn lớn hơn 20% HP ban đầu, thi triển [skill_5942_1]. (（Trước khi lượt của bản thân bắt đầu giới hạn 1 lần))",
+            "en": "In any turn, when cumulative damage taken exceeds 20% of max HP, casts [skill_5942_1]. ((Up to once before their next turn)).",
+            "zh": "任意回合，自身累计受到大于初始生命20%的伤害时，施放[skill_5942_1]。(（自身回合开始前限1次）)"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương của người mang [buff_5942_1] tăng 20%",
+            "en": "Increases [buff_5942_1] bearer's damage dealt by 20%.",
+            "zh": "[buff_5942_1]携带者造成伤害提升20%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5942",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5943,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mộng Dẫn Chi Thanh",
+        "en": "Dreamcall",
+        "zh": "梦引之声"
+      },
+      "intro": {
+        "vi": "Giờ đây, tôi cũng đang tỏa sáng rực rỡ trên sân khấu.",
+        "en": "Now, I shine brightly on stage too.",
+        "zh": "如今，我也在舞台上闪闪发光。"
+      },
+      "description": {
+        "vi": "Mở ra sân khấu, ca hát nhảy múa, trị liệu cho toàn bộ phe ta lượng HP bằng 15% HP tối đa và tăng 20% sát thương, đối với mục tiêu được chọn đổi thành 30% và giúp kẻ đó nhận [buff_5942_1] bằng 50% lượng trị liệu, duy trì 2 lượt.",
+        "en": "Sets the stage for singing and dancing to heal all allies for 15% of their max HP and boost their damage by 20%, increased to 30% for the selected target who also gains [buff_5942_1] equal to 50% of healing received, lasting 2 turns.",
+        "zh": "开启舞台，歌唱起舞，治疗友方全体最大生命15%的生命并提升20%的伤害，对选中目标，改为30%并使其获得治疗量50%的[buff_5942_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng trị liệu mục tiêu được chọn tăng lên 30%",
+            "en": "Increases healing on selected target to 30%.",
+            "zh": "选中目标治疗量提升至30%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi thi triển tăng thêm 20% sát thương cho toàn bộ phe ta, duy trì 1 lượt",
+            "en": "Using the skill additionally increases all allies' damage by 20% for 1 turn.",
+            "zh": "施放时额外提升友方全体20%的伤害，持续1回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giúp mục tiêu được chọn nhận [buff_5942_1] bằng 50% lượng trị liệu, duy trì 2 lượt",
+            "en": "Grants the selected target a [buff_5942_1] equal to 50% of healing received for 2 turns.",
+            "zh": "使选中目标获得治疗量50%的[buff_5942_1]，持续2回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: [tips_11], thi triển lên Thức Thần phe ta có Tấn công ban đầu cao nhất",
+            "en": "Upper Hand: [tips_11], casts on the allied shikigami with the highest initial ATK.",
+            "zh": "先机：[tips_11]，对初始攻击最高的友方式神施放"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5943",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_hudiejing",
+    "headKey": "h_sp_hudiejing",
+    "armature": [
+      "common_card_skin/2510_sp_hdj_card_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_mengyinhudiejing",
+    "skillIconKeys": [
+      "5941",
+      "5942",
+      "5943"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,350 @@
+{
+  "id": 376,
+  "name": {
+    "vi": "Tsuzura Hime",
+    "en": "Suzuhikohime",
+    "zh": "铃彦姬"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 13, 23]",
+    "en": "[1, 13, 23]",
+    "zh": "[1, 13, 23]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2953,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 8225,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 104,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3761,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chấn Linh",
+        "en": "Shake Bell",
+        "zh": "振铃"
+      },
+      "intro": {
+        "vi": "Ngươi đã cảm nhận được tâm tư nóng bỏng này chưa?",
+        "en": "Do you feel my fiery thoughts?",
+        "zh": "感受到这炙热的心绪了吗？"
+      },
+      "description": {
+        "vi": "Gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Deals damage to 1 enemy equal to 125% of her ATK",
+        "zh": "对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害提升至105%",
+            "en": "伤害提升至105%",
+            "zh": "伤害提升至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害提升至110%",
+            "en": "伤害提升至110%",
+            "zh": "伤害提升至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害提升至115%",
+            "en": "伤害提升至115%",
+            "zh": "伤害提升至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害提升至125%",
+            "en": "伤害提升至125%",
+            "zh": "伤害提升至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3761",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3762,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Linh Diễm Chước Tâm",
+        "en": "Scorching Fire",
+        "zh": "铃焰灼心"
+      },
+      "intro": {
+        "vi": "Lòng mang xiềng xích, bước nhảy tự khắc khó mà nhẹ nhàng.",
+        "en": "If your heart is shackled, every step will feel heavy.",
+        "zh": "心有枷锁，舞步自难轻盈。"
+      },
+      "description": {
+        "vi": "恢复自身生命上限40%的生命，恢复队友生命上限12%的生命，使[buff_3761_1]冷却重置。",
+        "en": "恢复自身生命上限40%的生命，恢复队友生命上限12%的生命，使[buff_3761_1]冷却重置。",
+        "zh": "恢复自身生命上限40%的生命，恢复队友生命上限12%的生命，使[buff_3761_1]冷却重置。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tỷ lệ HP bước vào trạng thái [buff_3761_1] tăng đến 75%.",
+            "en": "Increases the HP required to gain [buff_3761_1] to 75%",
+            "zh": "进入[buff_3761_1]状态的生命提升至75%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tỷ lệ HP bước vào trạng thái [buff_3761_1] tăng đến 75%.",
+            "en": "Increases the HP required to gain [buff_3761_1] to 75%",
+            "zh": "进入[buff_3761_1]状态的生命提升至75%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trạng thái thần lửa, khi mục tiêu không phải vật triệu hồi của đồng minh kết thúc lượt, Tsuzurahime hồi phục lượng HP bằng 8% giới hạn HP của bản thân.",
+            "en": "If Suzuhikohime has Holy Fire, at the end of a non-summoned ally entity's turn, recovers her HP by 8% of her max HP.",
+            "zh": "神火状态，友方非召唤物目标回合结束时，铃彦姬恢复生命上限8%的生命"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trạng thái thần lửa, khi mục tiêu không phải vật triệu hồi của đồng minh kết thúc lượt, Tsuzurahime hồi phục lượng HP bằng 8% giới hạn HP của bản thân.",
+            "en": "If Suzuhikohime has Holy Fire, at the end of a non-summoned ally entity's turn, recovers her HP by 8% of her max HP.",
+            "zh": "神火状态友方非召唤物目标回合结束时，铃彦姬恢复生命上限8%的生命"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi chịu sát thương chí mạng, thay thế kỹ năng thành «Tâm Hỏa Vĩnh Minh».",
+            "en": "When taking lethal damage, changes the skill to Undying Flame.",
+            "zh": "受到致命伤害时，将技能替换为「心火永明」"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi chịu sát thương chí mạng, thay thế kỹ năng thành «Tâm Hỏa Vĩnh Minh».",
+            "en": "When taking lethal damage, changes the skill to Undying Flame.",
+            "zh": "受到致命伤害时，将技能替换为「心火永明」"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi bước vào Tâm Hỏa Vĩnh Minh, nhận khiên bằng 120% tấn công, không thể giải trừ, duy trì 2 lượt.",
+            "en": "When she becomes an Undying Flame, creates a shield that cannot be dispelled and lasts 2 turns, absorbing damage equal to 120% of her ATK.",
+            "zh": "进入心火永明时，获得攻击120%的护盾，无法驱散，持续2回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi bước vào Tâm Hỏa Vĩnh Minh, nhận khiên bằng 120% tấn công, không thể giải trừ, duy trì 2 lượt.",
+            "en": "When she becomes an Undying Flame, creates a shield that cannot be dispelled and lasts 2 turns, absorbing damage equal to 120% of her ATK.",
+            "zh": "进入心火永明时，获得攻击120%的护盾，无法驱散，持续2回合"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3762",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3763,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ngũ Sơn Hỏa Tế",
+        "en": "Fire Rite",
+        "zh": "五山火祭"
+      },
+      "intro": {
+        "vi": "Tâm hỏa trường minh cháy mãi nay đã tắt, nhưng ngọn lửa chốn tuyết quốc từ đây vẫn không dập tắt.",
+        "en": "The ever-burning Inner Fire has extinguished, but the flames of the Snow Realm shall burn on.",
+        "zh": "永燃长明的心火已熄，雪域的火焰却就此不灭。"
+      },
+      "description": {
+        "vi": "Gây sát thương 72% cho toàn thể mục tiêu kẻ địch. Sau đó tiếp tục tiêu hao 25% giới hạn HP của bản thân và 1 Quỷ Hỏa, gây thêm 1 đoạn sát thương 43% tấn công cho toàn thể kẻ địch, cho đến khi HP thấp hơn 50% hoặc không đủ Quỷ Hỏa và Nguyện Lực. Nếu Ngũ Sơn Hỏa Tế đánh bại mục tiêu kẻ địch không phải vật triệu hồi, sẽ lập tức hồi phục lượng máu của bản thân đến giới hạn HP, hiệu ứng này tối đa kích hoạt 1 lần mỗi lượt.",
+        "en": "Launches an attack on all enemies, dealing damage equal to 72% of her ATK. Then continues to inflict strikes on all enemies at the cost of her HP equal to 25% of her max HP and 1 orb, dealing damage equal to 43% of her ATK on each strike, until her HP drops to 50% or there're not enough orbs or Wish Power. If Fire Rite manages to KO a non-summoned enemy entity, immediately recovers her HP to full. The effects can be triggered up to once per turn.",
+        "zh": "对敌方全体目标造成攻击72%的伤害。之后继续消耗自身生命上限25%的生命和1点鬼火，对敌方全体造成1段攻击43%的伤害，直至生命少于50%或鬼火和愿力不足。若五山火祭击败非召唤物敌方目标，则立即恢复自身血量至生命上限，该效果每回合至多触发1次。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tiêu hao HP giảm đến 21%.",
+            "en": "Reduces HP cost to 21%",
+            "zh": "消耗生命降低至21%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tiêu hao HP giảm đến 17%.",
+            "en": "Reduces HP cost to 17%",
+            "zh": "消耗生命降低至17%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tiêu hao HP giảm đến 13%.",
+            "en": "Reduces HP cost to 13%",
+            "zh": "消耗生命降低至13%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu số lần tấn công của Ngũ Sơn Hỏa Tế đạt 5 lần, khi tấn công sẽ bỏ qua 30 phòng thủ, cộng dồn tối đa 5 tầng.",
+            "en": "If Fire Rite inflicts 5 strikes, her attack ignores DEF by 30 (max 5 stacks)",
+            "zh": "若五山火祭攻击次数达到5次，攻击时无视30防御，最多叠加5层"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3763",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "lingyanji",
+    "headKey": "h_lingyanji",
+    "armature": "",
+    "artName": "txt_zhanshi_lingyanji",
+    "skillIconKeys": [
+      "3761",
+      "3762",
+      "3763"
+    ]
+  },
+  "unresolvedTokens": []
+}

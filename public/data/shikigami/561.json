@@ -1,0 +1,220 @@
+{
+  "id": 561,
+  "name": {
+    "vi": "Lung",
+    "en": "Taki",
+    "zh": "泷"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[6, 38, 38]",
+    "en": "[6, 38, 38]",
+    "zh": "[6, 38, 38]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 1929,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10480,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 485,
+      "grade": "S"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5611,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lưỡi Dao Nước",
+        "en": "Torrential Blade",
+        "zh": "湍刃"
+      },
+      "intro": {
+        "vi": "Trên dòng thác vô tận, tung hoành tự tại.",
+        "en": "The far sea is my home.",
+        "zh": "远海之湍，游刃有余。"
+      },
+      "description": {
+        "vi": "Trên dòng hiểm lưu vô tận, triệu hồi lưỡi dao nước gây sát thương 125% cho mục tiêu kẻ địch.",
+        "en": "Conjures a torrential blade to attack 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "无尽湍流之上，召唤湍刃对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5611",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5613,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đột Quyết Lung",
+        "en": "Taki's Sweeper",
+        "zh": "泷之决荡"
+      },
+      "intro": {
+        "vi": "Cứ diễn cho thoải mái vào, «xì xì».",
+        "en": "Show them what you've got, Hizz.",
+        "zh": "放开表演吧，「嘶嘶」。"
+      },
+      "description": {
+        "vi": "Chọn 1 thức thần đồng minh ngoài bản thân nhận [buff_5613_1], duy trì 2 lượt, tối đa khiến 1 đồng minh nhận hộ tống; đồng thời kích hoạt Thời Khắc Quyết Đãng gây cho toàn thể kẻ địch lượng sát thương chuẩn bằng 150% phòng thủ ban đầu. [buff_5613_1]: Người mang giảm 2 điểm Quỷ Hỏa tiêu hao khi thi triển kỹ năng, nếu người mang không sử dụng Quỷ Hỏa trong lượt và Lung không ở trạng thái không thể hành động, kích hoạt Thời Khắc Quyết Đãng gây cho toàn thể kẻ địch lượng sát thương chuẩn bằng 150% phòng thủ ban đầu, sát thương này tối đa kích hoạt 1 lần mỗi lượt. Khi người mang thi triển kỹ năng, Lung tăng 15% thanh hành động cho bản thân. Sát thương của Thời Khắc Quyết Đãng không kích hoạt Ngự Hồn và bị động của người mang cùng kẻ địch.",
+        "en": "Grants [buff_5613_1] lasting 2 turns on another shikigami ally and triggers Sweeping Moment, dealing true damage to all enemies equal to 150% of his starting DEF. [buff_5613_1]: Reduces the skill orb cost of the ally with the Mark by 2 orbs. When the ally uses no orbs on their turn and Taki is not unable to take action, triggers Sweeping Moment, dealing true damage to all enemies equal to 150% of his starting DEF. The damage can only be triggered up to once each turn. When the ally uses a skill, raises Taki's Move Bar by 15%. Sweeping Moment's damage doesn't trigger the Souls and passives of the ally and the enemies'.",
+        "zh": "选择1位除自身外友方式神获得[buff_5613_1]，持续2回合，最多使1个友方获得护航；并触发决荡时刻对敌方全体造成初始防御150%真实伤害。[buff_5613_1]：携带者施放技能消耗鬼火减少2点，若携带者回合内未使用鬼火且泷未处于无法动作，触发决荡时刻对敌方全体造成初始防御150%真实伤害，该伤害每个回合最多触发1次。携带者施放技能时，泷提升自身15%进度条。决荡时刻的伤害不触发携带者以及敌方的御魂、被动。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương của Thời Khắc Quyết Đãng không kích hoạt hiệu ứng Ngự Hồn của kẻ địch.",
+            "en": "Sweeping Moment's damage doesn't trigger the enemies' Soul effects.",
+            "zh": "决荡时刻伤害不触发敌方的御魂效果"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng minh mang [buff_5613_1] thi triển kỹ năng, Lung tăng 15% thanh hành động.",
+            "en": "When the ally with [buff_5613_1] uses a skill, raises Taki's Move Bar by 15%.",
+            "zh": "带有[buff_5613_1]的友方施放技能时，泷提升15%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương của Thời Khắc Quyết Đãng không kích hoạt hiệu ứng bị động của kẻ địch.",
+            "en": "Sweeping Moment's damage doesn't trigger the enemies' passive effects.",
+            "zh": "决荡时刻伤害不触发敌方的被动效果"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đồng minh mang [buff_5613_1] thi triển kỹ năng, Quỷ Hỏa tiêu hao giảm 2 điểm.",
+            "en": "When the ally with [buff_5613_1] uses a skill, reduces their skills' orb cost by 2 orbs.",
+            "zh": "带有[buff_5613_1]的友方施放技能时，消耗的鬼火减少2点"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5613",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "long",
+    "headKey": "h_long",
+    "armature": "",
+    "artName": "txt_zhanshi_long",
+    "skillIconKeys": [
+      "5611",
+      "5613"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,255 @@
+{
+  "id": 305,
+  "name": {
+    "vi": "Mại Dược Lang",
+    "en": "Medicine Seller",
+    "zh": "卖药郎"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3055,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 102,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3051,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thích Vật Chi Hình",
+        "en": "Shape Revealer",
+        "zh": "释物之形"
+      },
+      "intro": {
+        "vi": "Yêu quái có được \"Hình\", sẽ hóa thành vật không nên tồn tại trên thế gian.",
+        "en": "Truth is the state of the object.",
+        "zh": "妖怪得其形，将化为不该存于世间之物。"
+      },
+      "description": {
+        "vi": "Sử dụng bùa chú tấn công mục tiêu kẻ địch, hé lộ 『Hình』 của mục tiêu, gây sát thương bằng 125% Tấn công.",
+        "en": "Uses an amulet to attack and reveal the Shape of a target, dealing damage equal to 125% of his ATK.",
+        "zh": "使用符咒攻击敌方目标，揭示目标之『形』，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3051",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3052,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Đạo Vật Chi Chân Lý",
+        "en": "Truth and Reasoning",
+        "zh": "道物之真理"
+      },
+      "intro": {
+        "vi": "Chân và \"Lý\" của chư vị, xin hãy dốc lòng bày tỏ đi!",
+        "en": "Reveal your Truth and Reason to me!",
+        "zh": "诸位的「真」与「理」，请仔细道来吧！"
+      },
+      "description": {
+        "vi": "[tips_11]\nSau khi lượt kẻ địch kết thúc, có 50% xác suất dùng Thiên Bình đánh dấu kẻ đó, giới hạn 3 Thiên Bình. Khi tấn công kẻ địch mang Thiên Bình, mỗi Thiên Bình tăng 33% sát thương.\nKẻ địch mang 1, 2, 3 Thiên Bình, khi HP thấp hơn 30%, 40%, 60%, sẽ chuyển hóa tất cả Thiên Bình thành [buff_3052_1], duy trì 2 lượt.",
+        "en": "[tips_11].\nAfter an enemy takes a turn, has a 50% chance of marking them with a Scale. Scales can stack up to 3 layers. When attacking an enemy with Scales, each Scale increases damage taken by 33%.\nWhen the HP of an enemy with 1/2/3 Scales drops below 30%/40%/60%, all Scales will be [buff_3052_1] for 2 turn(s).",
+        "zh": "[tips_11]。\n敌方回合结束后，有50%概率使用天平将之标记，上限3个天平。攻击带有天平的敌方时，每个天平提升33%伤害。\n带有1、2、3个天平的敌方，在生命低于30%、40%、60%时，将会把所有天平转化为[buff_3052_1]，持续2回合。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "3052",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3053,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thoái Ma",
+        "en": "Defense",
+        "zh": "退魔"
+      },
+      "intro": {
+        "vi": "Thích vật chi hình, đạo vật chi chân lý. Y phúng 「Hình」 「Chân」 「Lý」, Thoái Ma Kiếm, giải phóng!",
+        "en": "Form, truth, reason, assembled thus! My sword shall be released!",
+        "zh": "释物之形，道物之真理。依凭「形」 「真」 「理」，退魔剑，释放！"
+      },
+      "description": {
+        "vi": "Rút Thoái Ma Kiếm, biến thành thần linh dát vàng, gây cho mục tiêu kẻ địch sát thương bằng 328.75% Tấn công và dùng Thiên Bình đánh dấu kẻ đó.\nNếu kẻ địch mang [buff_3052_1], đổi thành gây sát thương bằng 300% HP hiện tại của kẻ đó (không vượt quá 600% Tấn công), sát thương lần này bỏ qua [tips_6], không thể san sẻ, không kích hoạt Ngự Hồn và Nội Tại của kẻ đó.",
+        "en": "Releases his sword and transforms into his inner self to attack 1 enemy, dealing damage equal to 328.75% of his ATK and marking the target with a Scale.\nIf the enemy is [buff_3052_1], damage equal to 300% of their current HP (up to a maximum of 600% of Medicine Seller's ATK) is inflicted instead. This damage ignores [tips_6]s, cannot be shared and does not trigger soul effects or passive skills.",
+        "zh": "拔出退魔剑，变身为金色神灵，对敌方目标造成攻击328.75%伤害并使用天平将之标记。\n若敌方带有[buff_3052_1]，则改为造成其当前生命300%伤害（不超过攻击600%），此次伤害无视[tips_6]、无法分担、不触发其御魂及被动。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至276.15%",
+            "en": "伤害增加至276.15%",
+            "zh": "伤害增加至276.15%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至289.3%",
+            "en": "伤害增加至289.3%",
+            "zh": "伤害增加至289.3%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至302.45%",
+            "en": "伤害增加至302.45%",
+            "zh": "伤害增加至302.45%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至328.75%",
+            "en": "伤害增加至328.75%",
+            "zh": "伤害增加至328.75%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3053",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "guaihuamao",
+    "headKey": "h_guaihuamao",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3051",
+      "3052",
+      "3053"
+    ]
+  },
+  "unresolvedTokens": [
+    "tips_6"
+  ]
+}

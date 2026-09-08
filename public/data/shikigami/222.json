@@ -1,0 +1,220 @@
+{
+  "id": 222,
+  "name": {
+    "vi": "Samurai no Rei",
+    "en": "Warrior Soul",
+    "zh": "武士之灵"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2733,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9455,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 374,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2221,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Samurai Chi Tâm",
+        "en": "Warrior's Heart",
+        "zh": "武士之心"
+      },
+      "intro": {
+        "vi": "Lão phu vẫn chưa thua, chiến thêm một trận nữa!",
+        "en": "I'm still standing!",
+        "zh": "老夫还没败，再战一场！"
+      },
+      "description": {
+        "vi": "Dù đã mất đi thân thể, mất đi vũ khí, Samurai no Rei vẫn giơ nắm đấm tấn công mục tiêu kẻ địch, gây sát thương 125%.",
+        "en": "Although he has lost his body and his weapon, Warrior Soul uses his powerful fists to punch 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "即使已经失去了身体、失去了武器，武士之灵还是挥起了拳头，攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2221",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2223,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bất Cam Chi Nộ",
+        "en": "Restless Rage",
+        "zh": "不甘之怒"
+      },
+      "intro": {
+        "vi": "Vong hồn ơi, hãy để bọn chúng cũng nếm trải tư vị không cam lòng đi!",
+        "en": "Souls, make them feel your pain!",
+        "zh": "亡魂啊，让他们也尝尝不甘的滋味！"
+      },
+      "description": {
+        "vi": "释放不甘的怨念，攻击敌方全体，造成攻击130%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2226_1]，持续3回合。",
+        "en": "释放不甘的怨念，攻击敌方全体，造成攻击130%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2226_1]，持续3回合。",
+        "zh": "释放不甘的怨念，攻击敌方全体，造成攻击130%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2226_1]，持续3回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng đến 114%, [tips_5] của [buff_2226_1] tăng đến [b_参数p1_per].",
+            "en": "Increases damage to 114% and [buff_2226_1]'s [tips_5] to [b_参数p1_per].",
+            "zh": "伤害增至114%，[buff_2226_1][tips_5]增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng đến 119%, [tips_5] của [buff_2226_1] tăng đến [b_参数p1_per].",
+            "en": "Increases damage to 119% and [buff_2226_1]'s [tips_5] to [b_参数p1_per].",
+            "zh": "伤害增至119%，[buff_2226_1][tips_5]增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng đến 125%, [tips_5] của [buff_2226_1] tăng đến [b_参数p1_per].",
+            "en": "Increases damage to 125% and [buff_2226_1]'s [tips_5] to [b_参数p1_per].",
+            "zh": "伤害增至125%，[buff_2226_1][tips_5]增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 130%, [tips_5] của [buff_2226_1] tăng đến [b_参数p1_per].",
+            "en": "Increases damage to 130% and [buff_2226_1]'s [tips_5] to [b_参数p1_per].",
+            "zh": "伤害增至130%，[buff_2226_1][tips_5]增至[b_参数p1_per]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2223",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "wushizhiling",
+    "headKey": "h_wushizhiling",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2221",
+      "2223"
+    ]
+  },
+  "unresolvedTokens": []
+}

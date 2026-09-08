@@ -1,0 +1,402 @@
+{
+  "id": 345,
+  "name": {
+    "vi": "Quỷ Đồng Hoàn",
+    "en": "Kidomaru",
+    "zh": "鬼童丸"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 19]",
+    "en": "[1, 19]",
+    "zh": "[1, 19]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3127,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 8999,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 348,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "11%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3451,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hàng Chu",
+        "en": "Arrival of Death",
+        "zh": "降诛"
+      },
+      "intro": {
+        "vi": "Nơi đây chính là con săn tốt nhất.",
+        "en": "This is the best hunting ground.",
+        "zh": "这里是最好的猎场。"
+      },
+      "description": {
+        "vi": "[tips_11].\nDùng xích xích tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 50% Tấn công, có 100% xác suất đính kèm [buff_3452_1], duy trì 2 lượt; nếu kẻ địch đã có [buff_3452_1] thì xác suất giảm xuống 30%. Khi kẻ địch nhận được hiệu ứng tăng Thanh Hành Động đơn thể hoặc tăng tốc, Quỷ Đồng Hoàn thi triển 「Hàng Chu」 lên kẻ đó (（trước khi bắt đầu lượt, hiệu ứng này cùng 「Hàng Chu」 do Dải Xích Hài Hốt kích hoạt thêm thi triển tối đa 5 lần, nếu kẻ địch đã nhận 「Dải Xích Hài Hốt」 sẽ không kích hoạt lần nữa)).",
+        "en": "[Tips_11].\nAttacks an enemy target 2 times with chains, each hit dealing 50% ATK damage, with a 100% chance to inflict [buff_3452_1] for 2 turns. If the target is already afflicted with [buff_3452_1], the chance is reduced to 30%. When the enemy gains a single-target Move Bar boost or a SPD Up effect, Kidomaru casts Descending Judgment on them. (（回合开始前，该效果和骸之锁额外触发的「降诛」至多施放5次，若敌方已获得「骸之锁」则不会再次触发）)",
+        "zh": "[tips_11]。\n用锁链攻击敌方目标2次，每次造成攻击50%伤害，有100%概率附加[buff_3452_1]，持续2回合；若敌方已有[buff_3452_1]则概率降至30%。敌方获得单体行动条提升或加速效果时，鬼童丸对其施放「降诛」(（回合开始前，该效果和骸之锁额外触发的「降诛」至多施放5次，若敌方已获得「骸之锁」则不会再次触发）)。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至53%",
+            "en": "伤害增加至53%",
+            "zh": "伤害增加至53%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至56%",
+            "en": "伤害增加至56%",
+            "zh": "伤害增加至56%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至59%",
+            "en": "伤害增加至59%",
+            "zh": "伤害增加至59%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tấn công mục tiêu bị Dải Xích Hài Hốt, sau khi kết thúc lượt nhận 1 tầng Cuồng",
+            "en": "Attack the Bone Locks target. At the end of the turn, gain 1 stack of Mania.",
+            "zh": "攻击骸之锁目标，回合结束后获得1层狂"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3451",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3452,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tàn Nguyệt Quỷ Y",
+        "en": "Demon Outfit",
+        "zh": "残月鬼衣"
+      },
+      "intro": {
+        "vi": "Ngươi cũng muốn bị ta mặc lên người sao?",
+        "en": "Would you like to be my outfit?",
+        "zh": "你也想被我穿在身上吗？"
+      },
+      "description": {
+        "vi": "[tips_11].\nKhi Quỷ Đồng Hoàn nhận 3 tầng [buff_3451_1], tiến vào trạng thái [buff_3453_1],\nTrong trạng thái [buff_3453_1], sau lượt kẻ địch, thi triển [skill_3454_1] lên kẻ địch.",
+        "en": "[tips_11].\nKidomaru enters the [buff_3453_1] state when he has 3 layers of [buff_3451_1].\nWhen he's in the [buff_3453_1] state, he uses [skill_3454_1] on all enemies at the end of an enemy's turn.",
+        "zh": "[tips_11]。\n当鬼童丸获得3层[buff_3451_1]时，进入[buff_3453_1]状态，\n[buff_3453_1]状态下，敌方回合后，对敌方施放[skill_3454_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ của lá chắn tăng lên 133%",
+            "en": "Increases his shield's damage absorbed 133%.",
+            "zh": "护盾吸收量增至133%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ của lá chắn tăng lên 133%",
+            "en": "Increases his shield's damage absorbed 133%.",
+            "zh": "护盾吸收量增至133%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ của lá chắn tăng lên 133%",
+            "en": "Increases his shield's damage absorbed 133%.",
+            "zh": "护盾吸收量增至133%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hấp thụ của lá chắn tăng lên 146%",
+            "en": "Increases his shield's damage absorbed 146%.",
+            "zh": "护盾吸收量增至146%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hấp thụ của lá chắn tăng lên 146%",
+            "en": "Increases his shield's damage absorbed 146%.",
+            "zh": "护盾吸收量增至146%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hấp thụ của lá chắn tăng lên 146%",
+            "en": "Increases his shield's damage absorbed 146%.",
+            "zh": "护盾吸收量增至146%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng hấp thụ của lá chắn tăng lên 160%",
+            "en": "Increases his shield's damage absorbed 160%.",
+            "zh": "护盾吸收量增至160%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng hấp thụ của lá chắn tăng lên 160%",
+            "en": "Increases his shield's damage absorbed 160%.",
+            "zh": "护盾吸收量增至160%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng hấp thụ của lá chắn tăng lên 160%",
+            "en": "Increases his shield's damage absorbed 160%.",
+            "zh": "护盾吸收量增至160%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi trạng thái Tu La kết thúc, mỗi khi xóa 1 Dải Xích Hài Hốt khiến Quỷ Hỏa tiêu hao của 「Tu La Hài Tỏa」 giảm 1 điểm",
+            "en": "When his Asura status ends, each Bone Lock removed reduces Asura Chains' orb cost by 1.",
+            "zh": "修罗状态结束后，每清除1条骸之锁使「修罗骸锁」鬼火消耗减少1点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi trạng thái Tu La kết thúc, mỗi khi xóa 1 Dải Xích Hài Hốt khiến Quỷ Hỏa tiêu hao của 「Tu La Hài Tỏa」 giảm 1 điểm",
+            "en": "When his Asura status ends, each Bone Lock removed reduces Asura Chains' orb cost by 1.",
+            "zh": "修罗状态结束后，每清除1条骸之锁使「修罗骸锁」鬼火消耗减少1点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi trạng thái Tu La kết thúc, mỗi khi xóa 1 Dải Xích Hài Hốt khiến Quỷ Hỏa tiêu hao của 「Tu La Hài Tỏa」 giảm 1 điểm",
+            "en": "When his Asura status ends, each Bone Lock removed reduces Asura Chains' orb cost by 1.",
+            "zh": "修罗状态结束后，每清除1条骸之锁使「修罗骸锁」鬼火消耗减少1点"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3452",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 3453,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tu La Hài Tỏa",
+        "en": "Asura Chains",
+        "zh": "修罗骸锁"
+      },
+      "intro": {
+        "vi": "锁链上有你的名字，直到海枯石烂也无法逃脱。",
+        "en": "锁链上有你的名字，直到海枯石烂也无法逃脱。",
+        "zh": "锁链上有你的名字，直到海枯石烂也无法逃脱。"
+      },
+      "description": {
+        "vi": "[tips_11].\nQuỷ Đồng Hoàn tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 70% Tấn công và đính kèm [buff_3452_1], duy trì 2 lượt, và tiến vào [buff_3454_1], sau khi kết thúc lượt nhận 1 tầng [buff_3451_1], nếu đã ở trạng thái [buff_3454_1], thì không thể nhận lại [buff_3454_1].",
+        "en": "[tips_11].\nKidomaru launches a 3-strike attack on the enemy target, dealing damage equal to 70% of his ATK and inflicting [buff_3452_1] for 2 turns on each strike. Kidomaru then becomes [buff_3454_1] and gains a stack of [buff_3451_1] at the end of the turn. If Kidomaru is already in the [buff_3454_1] state, he cannot gain [buff_3454_1] again.",
+        "zh": "[tips_11]。\n鬼童丸攻击敌方目标3次，每次造成攻击70%伤害并附加[buff_3452_1]，持续2回合，并进入[buff_3454_1]，回合结束后获得1层[buff_3451_1]，若已经处于[buff_3454_1]，则无法再次获得[buff_3454_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至75%",
+            "en": "伤害增加至75%",
+            "zh": "伤害增加至75%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至80%",
+            "en": "伤害增加至80%",
+            "zh": "伤害增加至80%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至90%",
+            "en": "伤害增加至90%",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Tiến vào [buff_3454_1]",
+            "en": "Upper Hand: She becomes an [buff_3454_1].",
+            "zh": "先机：进入[buff_3454_1]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3453",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "guitongwan",
+    "headKey": "h_guitongwan",
+    "armature": "",
+    "artName": "txt_zhanshi_guitongwan",
+    "skillIconKeys": [
+      "3451",
+      "3452",
+      "3453"
+    ]
+  },
+  "unresolvedTokens": []
+}

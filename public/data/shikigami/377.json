@@ -1,0 +1,302 @@
+{
+  "id": 377,
+  "name": {
+    "vi": "Mộng Tầm Sơn Thỏ",
+    "en": "Ninja Yamausagi",
+    "zh": "梦寻山兔"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[12, 17]",
+    "en": "[12, 17]",
+    "zh": "[12, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3031,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10480,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 418,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 116,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3771,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nhẫn Thỏ Phi Cước!",
+        "en": "Ninja Kick!",
+        "zh": "忍兔飞踢！"
+      },
+      "intro": {
+        "vi": "Bọn kẻ xấu kia, còn dám không nghe lời sao?",
+        "en": "Be nice, bad guys!",
+        "zh": "坏蛋们，还敢不听话？"
+      },
+      "description": {
+        "vi": "Nghiêm túc giáng đòn! Dùng cú đá bay tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 65% Tấn công.",
+        "en": "Gets serious and launches a 2-strike attack on 1 enemy with flying kick, dealing damage equal to 65% of her ATK on each strike.",
+        "zh": "认真一击！使用飞踢攻击敌方目标2次，每次造成攻击65%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至53%",
+            "en": "伤害增加至53%",
+            "zh": "伤害增加至53%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至56%",
+            "en": "伤害增加至56%",
+            "zh": "伤害增加至56%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至59%",
+            "en": "伤害增加至59%",
+            "zh": "伤害增加至59%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至65%",
+            "en": "伤害增加至65%",
+            "zh": "伤害增加至65%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3771",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3772,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mộng Tâm Mê Thố Trận!",
+        "en": "Ninja Formation!",
+        "zh": "梦心迷兔阵！"
+      },
+      "intro": {
+        "vi": "Anh hùng chân chính không bao giờ ngoảnh đầu nhìn vụ nổ!!",
+        "en": "Heroes never turn back to watch an explosion!!",
+        "zh": "真英雄从不回头看爆炸！！"
+      },
+      "description": {
+        "vi": "[tips_11].\n【Thi triển】 Đặt 3 quả [tips_3772] dưới chân phe địch. Nếu khi [tips_3772] phát nổ bản thân đang ở trạng thái [tips_27], liền thi triển 『Thỏ Nhẫn Vũ!!』 và nhận 1 chương [buff_3773_1].\nMục tiêu kẻ địch không phải vật triệu hồi sau khi tích lũy hành động 5 lượt xua tan 1 [tips_3] của bản thân, nếu bản thân không có [tips_3] để xua tan và chưa ở trạng thái [tips_17], liền thi triển miễn phí 1 lần 『Mộng Tâm Mê Thố Trận!』 đặt 2 quả [tips_3772].",
+        "en": "[tips_11].\nActive skill: Places 3 [tips_3772]s by the enemies' feet. If [tips_3772] detonated while she is under [tips_27], she uses Ninja Dance!! and gains 1 [buff_3773_1] chapter.\nWhenever non-summoned enemy entities take 5 turns, dispels 1 [tips_3] from her; if there's no [tips_3] to dispel and she's not [tips_17], she uses Ninja Formation! that places 2 [tips_3772]s once free of orb cost.",
+        "zh": "[tips_11]。\n【施放】在敌方脚下布置3颗[tips_3772]。若[tips_3772]引爆时自身处于[tips_27]，则施放『兔忍舞！！』并获得1篇[buff_3773_1]。\n非召唤物的敌方目标累计行动5回合后驱散自身1个[tips_3]，若自身没有[tips_3]可以驱散且未处于[tips_17]，则无消耗施放1次布置2颗[tips_3772]的『梦心迷兔阵！』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương do [tips_3772] gây ra bỏ qua 150 điểm Phòng thủ của mục tiêu",
+            "en": "Damage from [tips_3772]s ignores DEF by 150.",
+            "zh": "[tips_3772]造成的伤害忽视目标150点防御"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tấn công do 『[skill_3774_1]』 nâng lên tăng đến 20%",
+            "en": "Increases [skill_3774_1]'s damage boost to 20%.",
+            "zh": "『[skill_3774_1]』提升的攻击增至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_3772] khi gây sát thương giảm 30% Kháng Hiệu Ứng của mục tiêu, duy trì 1 lượt",
+            "en": "When a [tips_3772] deals damage, reduces the target's Effect RES by 30% for 1 turn.",
+            "zh": "[tips_3772]造成伤害时减少目标30%效果抵抗，持续1回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Số lượt hành động tích lũy cần thiết của kẻ địch để thi triển miễn phí 『Mộng Tâm Mê Thố Trận!』 giảm xuống 5 lượt",
+            "en": "Reduces the enemy turns required to use Ninja Formation! free of orb cost to 5 turns.",
+            "zh": "无消耗施放『梦心迷兔阵！』需要的敌方累计行动回合减少至5回合"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3772",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3773,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thụ Mộng Chi Loạn Vũ!",
+        "en": "Ninja Scurrying Steps!",
+        "zh": "狩梦之乱舞！"
+      },
+      "intro": {
+        "vi": "Đây chính là bí ảo tối cao của Thỏ Vũ Nhẫn Pháp! —— Chắc là vậy nhỉ?",
+        "en": "Behold possibly the most ultimate skill of Rabbit Ninja Tricks!",
+        "zh": "此乃兔舞忍法的终极奥义！——大概吧？"
+      },
+      "description": {
+        "vi": "Đặt 1 quả [tips_3772] và tăng 30% Chính Xác Hiệu Ứng cho bản thân, duy trì 2 lượt; chọn mục tiêu kẻ địch, có 30% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất biến kẻ đó thành [tips_107] trong 1 lượt, sau đó triệu hồi bom tấn công toàn bộ phe địch, gây sát thương bằng 160% Tấn công.",
+        "en": "Places a [tips_3772] and increases her Effect HIT by 30% for 2 turns. Has a 30% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_107] lasting 1 turn on the enemy. Then summons mines to attack all enemies, dealing damage equal to 160% of her ATK.",
+        "zh": "布置1颗[tips_3772]并提升自身30%效果命中，持续2回合；选择敌方目标，有30%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将其[tips_107]1回合，之后召唤炸弹攻击敌方全体，造成攻击160%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi thi triển tăng 30% Chính Xác Hiệu Ứng cho bản thân, duy trì 2 lượt",
+            "en": "Using the skill also increases her Effect HIT by 30% for 2 turns",
+            "zh": "施放时提升自身30%效果命中，持续2回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất cơ bản Biến Hình nâng lên 20%",
+            "en": "Increases the base chance of inflicting Morph to 20%.",
+            "zh": "变形的基础概率提升至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi thi triển đặt 1 quả [tips_3772]",
+            "en": "Using the skill also places a [tips_3772]",
+            "zh": "施放时布置1颗[tips_3772]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất cơ bản Biến Hình nâng lên 30%",
+            "en": "Increases the base chance of inflicting Morph to 30%",
+            "zh": "变形的基础概率提升至30%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3773",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_shantu",
+    "headKey": "h_sp_shantu",
+    "armature": [
+      "shenghezhouicon_ani",
+      0,
+      1
+    ],
+    "artName": "txt_zhanshi_spshantu",
+    "skillIconKeys": [
+      "3771",
+      "3772",
+      "3773"
+    ]
+  },
+  "unresolvedTokens": []
+}

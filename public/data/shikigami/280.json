@@ -1,0 +1,302 @@
+{
+  "id": 280,
+  "name": {
+    "vi": "Huy Dạ Cơ",
+    "en": "Kaguya",
+    "zh": "辉夜姬"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[6, 5]",
+    "en": "[6, 5]",
+    "zh": "[6, 5]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2144,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12645,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 370,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 98,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2801,
+      "maxLevel": 5,
+      "name": {
+        "vi": "蓬莱玉枝",
+        "en": "蓬莱玉枝",
+        "zh": "蓬莱玉枝"
+      },
+      "intro": {
+        "vi": "是谁……将我唤醒？",
+        "en": "是谁……将我唤醒？",
+        "zh": "是谁……将我唤醒？"
+      },
+      "description": {
+        "vi": "使用蓬莱玉枝召唤灵气攻击敌方目标，造成攻击125%伤害并有10%概率削减其1点鬼火。",
+        "en": "使用蓬莱玉枝召唤灵气攻击敌方目标，造成攻击125%伤害并有10%概率削减其1点鬼火。",
+        "zh": "使用蓬莱玉枝召唤灵气攻击敌方目标，造成攻击125%伤害并有10%概率削减其1点鬼火。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2801",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2802,
+      "maxLevel": 3,
+      "name": {
+        "vi": "Hỏa Thử Cừu",
+        "en": "Fire Rat",
+        "zh": "火鼠裘"
+      },
+      "intro": {
+        "vi": "Rất muốn trở về khu rừng trúc đó...",
+        "en": "How I long to return to that forest...",
+        "zh": "好想回到那片竹林……"
+      },
+      "description": {
+        "vi": "[tips_11].\nKhi bị tấn công, có 40% xác suất nhận 1 điểm Quỷ Hỏa.\nNếu sở hữu Huyễn Cảnh từ 『Long Thủ Chi Ngọc』, thì bất kỳ phe ta nào bị tấn công cũng sẽ kích hoạt. Khi chịu tấn công quần thể, tấn công nhiều đòn không kích hoạt nhiều lần.\n[tips_7]: Thi triển 『Long Thủ Chi Ngọc』",
+        "en": "[tips_11].\nWhen attacked, has a 40% chance of gaining 1 orb.\nIf Dragon Jewel protective field is active, the effect also triggers when an ally is attacked. When receiving AoE attacks, multiple strikes do not trigger the effect multiple times.\n[tips_7]: Forms Dragon Jewel protective field.",
+        "zh": "[tips_11]。\n受到攻击时，有40%概率获得1点鬼火。\n若拥有『龙首之玉』的幻境，则任一友方受到攻击也会触发。受到群体攻击、多段攻击不多次触发。\n[tips_7]：施放『龙首之玉』"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "触发概率增至35%",
+            "en": "触发概率增至35%",
+            "zh": "触发概率增至35%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "触发概率增至35%",
+            "en": "触发概率增至35%",
+            "zh": "触发概率增至35%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "触发概率增至40%",
+            "en": "触发概率增至40%",
+            "zh": "触发概率增至40%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "触发概率增至40%",
+            "en": "触发概率增至40%",
+            "zh": "触发概率增至40%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2802",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 2803,
+      "maxLevel": 5,
+      "name": {
+        "vi": "龙首之玉",
+        "en": "龙首之玉",
+        "zh": "龙首之玉"
+      },
+      "intro": {
+        "vi": "温柔的月光啊，请照亮我们。",
+        "en": "温柔的月光啊，请照亮我们。",
+        "zh": "温柔的月光啊，请照亮我们。"
+      },
+      "description": {
+        "vi": "Tạo ra Huyễn Cảnh tồn tại 2 lượt, giúp toàn bộ phe ta tăng [b_属性1数值_per] Phòng thủ, [b2_属性1数值_per] Kháng Hiệu Ứng, và trước khi lượt bắt đầu có 67% xác suất nhận 1 điểm Quỷ Hỏa.\nTrong Huyễn Cảnh, khi Quỷ Hỏa cần thiết để thi triển kỹ năng không đủ, vẫn có thể tiêu hao toàn bộ Quỷ Hỏa còn lại để thi triển; mỗi khi kích hoạt hiệu ứng này, Huy Dạ Cơ hy sinh chênh lệch số Quỷ Hỏa tiêu hao x 5% HP hiện tại, và khiến thời gian duy trì của Huyễn Cảnh giảm 1 lượt.\nThi triển Long Thủ Chi Ngọc trong Huyễn Cảnh tiêu hao Quỷ Hỏa giảm 1 điểm.",
+        "en": "Forms a protective field lasting 2 turns. The field increases all allies' DEF by [b_属性1数值_per] and their Effect RES by [b2_属性1数值_per] with a 67% chance of granting 1 orb at the start of their turn.\nUnder her field, if you don't have enough orbs to use a skill, you can still spend all the remaining orbs to use the skill. Each time the effect is triggered, Kaguya sacrifices 5% of her current HP for each orb spent and her field's duration is reduced by 1 turn\nUnder her field, her Dragon Jewel costs 1 orb less.",
+        "zh": "创造存在2回合的幻境，使友方全体提升[b_属性1数值_per]防御、[b2_属性1数值_per]效果抵抗，且在回合开始前有67%概率获得1点鬼火。\n幻境中，施放技能所需鬼火不足时，仍可消耗剩余全部鬼火施放；每次触发该效果，辉夜姬牺牲消耗鬼火数差值×5%当前生命，并使幻境的持续时间减少1回合。\n幻境中施放龙首之玉消耗鬼火减少1点。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng tăng Phòng thủ tăng lên [b_属性1数值_per]",
+            "en": "Increases DEF boost effect to [b_属性1数值_per].",
+            "zh": "提升防御效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng tăng Kháng Hiệu Ứng tăng lên [b2_属性1数值_per]",
+            "en": "Increases Effect RES boost effect to [b2_属性1数值_per].",
+            "zh": "提升效果抵抗效果增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tăng Phòng thủ tăng lên [b_属性1数值_per]",
+            "en": "Increases DEF boost effect to [b_属性1数值_per].",
+            "zh": "提升防御效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng tăng Kháng Hiệu Ứng tăng lên [b2_属性1数值_per]",
+            "en": "Increases Effect RES boost effect to [b2_属性1数值_per].",
+            "zh": "提升效果抵抗效果增至[b2_属性1数值_per]"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2803",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "huiyeji",
+    "headKey": "h_huiyeji",
+    "armature": "",
+    "artName": "txt_zhanshi_huiyeji",
+    "skillIconKeys": [
+      "2801",
+      "2802",
+      "2803"
+    ]
+  },
+  "unresolvedTokens": []
+}

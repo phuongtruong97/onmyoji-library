@@ -1,0 +1,350 @@
+{
+  "id": 569,
+  "name": {
+    "vi": "Miêu Xuyên",
+    "en": "Nekogawa",
+    "zh": "猫川"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 37, 21]",
+    "en": "[1, 37, 21]",
+    "zh": "[1, 37, 21]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3108,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9227,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 321,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5691,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thám Ôn",
+        "en": "Temperature Test",
+        "zh": "探温"
+      },
+      "intro": {
+        "vi": "Cẩn thận bị bỏng đó nha.",
+        "en": "Do not enter when it's too hot.",
+        "zh": "小心烫伤哦。"
+      },
+      "description": {
+        "vi": "Trước khi xuống nước, hãy thử nhiệt độ trước đã. Ngưng tụ nước suối hắt về phía kẻ địch 2 lần, mỗi lần gây sát thương bằng 62% Tấn công.",
+        "en": "Always test the temperature before you enter the pool. Splashes spring water at 1 enemy twice, dealing damage equal to 62% of his ATK each time.",
+        "zh": "下水之前，先试试温度吧。凝结泉水泼向敌方2次，每次造成攻击62%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至47%",
+            "en": "伤害增加至47%",
+            "zh": "伤害增加至47%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至52%",
+            "en": "伤害增加至52%",
+            "zh": "伤害增加至52%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至57%",
+            "en": "伤害增加至57%",
+            "zh": "伤害增加至57%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至62%",
+            "en": "伤害增加至62%",
+            "zh": "伤害增加至62%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5691",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5692,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tuyền Dũng",
+        "en": "Deluge",
+        "zh": "泉涌"
+      },
+      "intro": {
+        "vi": "Hoan nghênh quang lâm.",
+        "en": "Welcome.",
+        "zh": "欢迎光临。"
+      },
+      "description": {
+        "vi": "Khi đồng minh đi qua [tips_5691] tận hưởng trị liệu suối nước nóng: Hồi phục lượng HP bằng 98% Tấn công của Miêu Xuyên và có 100% xác suất xua tan 1 trạng thái giảm ích hoặc [tips_3], ưu tiên xua tan hiệu ứng khống chế. Khi bản thân đi qua suối nước nóng, lượng hồi phục nhận được tăng gấp đôi.",
+        "en": "When an ally passes through the [tips_5691], they enjoy healing from the hot spring: Recovers their HP by 98% of Nekogawa's ATK, with a 100% chance of dispelling 1 debuff or [tips_3] from them, prioritizing the controlling effect. When Nekogawa himself passes through the hot spring, doubles the recovery he receives instead.",
+        "zh": "友方经过[tips_5691]时享受温泉疗愈：恢复猫川攻击98%的生命并有100%概率驱散1个减益状态或[tips_3]，优先驱散控制效果。自身经过温泉时，获得的恢复量翻倍。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi bản thân đi qua [tips_5691], lượng hồi phục nhận được tăng gấp đôi",
+            "en": "When he himself passes through the [tips_5691], doubles the recovery he receives instead.",
+            "zh": "自身经过[tips_5691]时，获得的恢复量翻倍"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất xua tan nâng lên 60%",
+            "en": "Increases the dispelling chance to 60%.",
+            "zh": "驱散概率提升至60%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất xua tan nâng lên 80%",
+            "en": "Increases the dispelling chance to 80%.",
+            "zh": "驱散概率提升至80%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất xua tan nâng lên 100%",
+            "en": "Increases the dispelling chance to 100%.",
+            "zh": "驱散概率提升至100%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5692",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5693,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tẩy Cân Phạt Tủy",
+        "en": "Deep Cleaning",
+        "zh": "洗筋伐髓"
+      },
+      "intro": {
+        "vi": "Đảm bảo khiến vị khách đây lột xác thành người mới... Đúng rồi, phải thêm tiền.",
+        "en": "I guarantee you a thorough change... for extra money, of course.",
+        "zh": "保证让客人您脱胎换骨……对了，要加钱。"
+      },
+      "description": {
+        "vi": "Triệu hồi [tips_5691]. Khi [tips_5691] có mặt trên sân, hệ số đánh thường do Miêu Xuyên gây ra tăng gấp đôi, đồng thời giúp sát thương đánh thường của toàn bộ đồng minh tăng 50%. Khi triệu hồi lại [tips_5691], [tips_20] 100% HP của [tips_5691] và giúp toàn bộ đồng minh tận hưởng 1 lần trị liệu suối nước nóng. Khi bản thân đi qua suối nước nóng, xem như đi đến điểm cuối của thanh hành động. [tips_7]: Thi triển 「Tẩy Cân Phạt Tủy」",
+        "en": "Summons the [tips_5691]. While the [tips_5691] is on the battlefield, doubles Nekogawa's normal attack multiplier and increases all allies' normal attack damage by 50%. When he summons the [tips_5691] again, [tips_20]s the [tips_5691]'s HP to 100% and allows all allies to enjoy healing from the hot spring once. When he himself passes through the hot spring, he's regarded as having reached the end of the turn order. [tips_7]: Uses Deep Cleaning.",
+        "zh": "召唤[tips_5691]。[tips_5691]在场时，猫川造成的普攻系数翻倍，同时使友方全体造成的普攻伤害提升50%。再次[tips_5691]时，[tips_20][tips_5691]100%的生命并使友方全体享受1次温泉疗愈。自身经过温泉时，视为到达行动条终点。[tips_7]：施放「洗筋伐髓」"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương đánh thường gây ra nâng lên 35%",
+            "en": "Increases the normal attack boost to 35%.",
+            "zh": "造成的普攻伤害提升至35%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương đánh thường gây ra nâng lên 35%",
+            "en": "Increases the normal attack boost to 35%.",
+            "zh": "造成的普攻伤害提升至35%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi bản thân đi qua [tips_5691], xem như đi đến điểm cuối của thanh hành động",
+            "en": "When he himself passes through the [tips_5691], he's regarded as having reached the end of the turn order.",
+            "zh": "自身经过[tips_5691]时，视为到达行动条终点"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi bản thân đi qua [tips_5691], xem như đi đến điểm cuối của thanh hành động",
+            "en": "When he himself passes through the [tips_5691], he's regarded as having reached the end of the turn order.",
+            "zh": "自身经过[tips_5691]时，视为到达行动条终点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương đánh thường gây ra nâng lên 50%",
+            "en": "Increases the normal attack boost to 50%.",
+            "zh": "造成的普攻伤害提升至50%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương đánh thường gây ra nâng lên 50%",
+            "en": "Increases the normal attack boost to 50%.",
+            "zh": "造成的普攻伤害提升至50%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Thi triển 「Tẩy Cân Phạt Tủy」",
+            "en": "[tips_7]: Uses Deep Cleaning.",
+            "zh": "[tips_7]：施放「洗筋伐髓」"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Thi triển 「Tẩy Cân Phạt Tủy」",
+            "en": "[tips_7]: Uses Deep Cleaning.",
+            "zh": "[tips_7]：施放「洗筋伐髓」"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5693",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "maochuan",
+    "headKey": "h_maochuan",
+    "armature": "",
+    "artName": "txt_zhanshi_maochuan",
+    "skillIconKeys": [
+      "5691",
+      "5692",
+      "5693"
+    ]
+  },
+  "unresolvedTokens": []
+}

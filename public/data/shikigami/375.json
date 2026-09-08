@@ -1,0 +1,298 @@
+{
+  "id": 375,
+  "name": {
+    "vi": "Ảnh Ngạc",
+    "en": "Kagewani",
+    "zh": "影鳄"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17]",
+    "en": "[17]",
+    "zh": "[17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2706,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 392,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 106,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3751,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ảnh Kích",
+        "en": "Shadowstrike",
+        "zh": "影袭"
+      },
+      "intro": {
+        "vi": "Đang lặng lẽ tiến lại gần ngươi đó",
+        "en": "I'm creeping up on you.",
+        "zh": "正在悄悄靠近你哦"
+      },
+      "description": {
+        "vi": "Cái bóng đâm đầu xuống đất, ra sức lao về phía kẻ địch, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Calls the shadow to burrow underground and aim at 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "影子一头扎进地下，奋力向敌方冲去，对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3751",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3752,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ảnh Xác",
+        "en": "Shadowshell",
+        "zh": "影壳"
+      },
+      "intro": {
+        "vi": "Ta... Ta không sợ đâu!",
+        "en": "I... I'm not afraid!",
+        "zh": "我……我不害怕！"
+      },
+      "description": {
+        "vi": "Khi sử dụng 「[skill_3751_1]」 và 「[skill_3753_1]」 tấn công, có 60% [tips_2] đính kèm [buff_3752_1], duy trì 2 lượt.",
+        "en": "When attacking with [skill_3751_1] or [skill_3753_1], has a 60% [tips_2] of inflicting [buff_3752_1] lasting 2 turns.",
+        "zh": "使用「[skill_3751_1]」和「[skill_3753_1]」攻击时，有60%[tips_2]附加[buff_3752_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất cơ bản tăng lên 50%",
+            "en": "Increases the base chance to 50%.",
+            "zh": "基础概率增至50%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương Ảnh Thực tăng lên 30%",
+            "en": "Increases the damage of Shadowprey to 30%.",
+            "zh": "影食伤害增至30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất cơ bản tăng lên 60%",
+            "en": "Increases the base chance to 60%.",
+            "zh": "基础概率增至60%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Ảnh Thực bị tiêu hao, trị liệu lượng HP bằng 3% HP tối đa của bản thân",
+            "en": "When Shadowprey is consumed, heals his HP by 3% of his max HP.",
+            "zh": "影食被消耗时，治疗自身生命上限3%的生命"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3752",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3753,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mạc Ảnh Cái Địa",
+        "en": "Overshadow",
+        "zh": "幕影盖地"
+      },
+      "intro": {
+        "vi": "Bơi! Tiến công!",
+        "en": "Poi! Attack!",
+        "zh": "啵伊！进攻！"
+      },
+      "description": {
+        "vi": "Khô cổ vũ bản thân một tiếng “Bơi”, tấn công toàn bộ phe địch 2 lần, mỗi lần gây sát thương bằng 30% Tấn công, cái bóng cuối cùng lao mạnh về phía mục tiêu kẻ địch gây sát thương bằng 80% Tấn công và có 50% [tips_2] đính kèm [tips_113], duy trì 1 lượt.",
+        "en": "Encourages himself with a \"poi\" and launches a 2-strike attack on all enemies, dealing damage equal to 30% of his ATK on each strike. Then the shadow lunges at 1 enemy, dealing damage equal to 80% of his ATK with a 50% [tips_2] of inflicting [tips_113] lasting 1 turn on them.",
+        "zh": "“啵伊”一声给自己鼓劲，攻击敌方全体2次，每次造成攻击30%伤害，影子最后再对敌方目标猛冲造成攻击80%伤害并有50%[tips_2]附加[tips_113]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương lên mục tiêu tăng lên 70%",
+            "en": "Increases the damage to the enemy to 70%.",
+            "zh": "对目标伤害增加至70%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất cơ bản tăng lên 35%",
+            "en": "Increases the base chance to 35%.",
+            "zh": "基础概率增至35%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương lên mục tiêu tăng lên 80%",
+            "en": "Increases the damage to the enemy to 80%.",
+            "zh": "对目标伤害增加至80%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất cơ bản tăng lên 50%",
+            "en": "Increases the base chance to 50%.",
+            "zh": "基础概率增至50%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3753",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yinge",
+    "headKey": "h_yinge",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3751",
+      "3752",
+      "3753"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,277 @@
+{
+  "id": 373,
+  "name": {
+    "vi": "Yatagarasu",
+    "en": "Yato no Kami",
+    "zh": "夜刀神"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2760,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10024,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 357,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 103,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "9%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3731,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Xích Tử",
+        "en": "Crimson Child",
+        "zh": "赤子"
+      },
+      "intro": {
+        "vi": "Đây chỉ là lời mời đầu tiên thôi nhé.",
+        "en": "This is only the first of many invites.",
+        "zh": "这只是第一次邀请哦。"
+      },
+      "description": {
+        "vi": "Phóng ra 1 con dơi cắn xé mục tiêu kẻ địch, gây sát thương 125%, đồng thời có 50% xác suất nhận 1 tầng [buff_3731_1].",
+        "en": "Releases a bat which bites 1 enemy, dealing damage equal to 125% of his ATK and granting him a 50% chance of gaining 1 [buff_3731_1] stack.",
+        "zh": "释放1只蝙蝠对敌方目标进行撕咬，造成攻击125%伤害，且有50%概率获得1层[buff_3731_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 125%, đồng thời có 50% xác suất nhận thêm 1 tầng [buff_3731_1].",
+            "en": "Increases damage to 125% and grants him a 50% chance of gaining 1 additional [buff_3731_1] stack.",
+            "zh": "伤害增加至125%，且有50%概率额外获得1层[buff_3731_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3731",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3732,
+      "maxLevel": 6,
+      "name": {
+        "vi": "Dạ Chi Yêu Ước",
+        "en": "Invite of the Night",
+        "zh": "夜之邀约"
+      },
+      "intro": {
+        "vi": "Khách mời ơi, cùng chơi đùa nào?",
+        "en": "Let's play a game, shall we?",
+        "zh": "应邀者，一起游玩吧？"
+      },
+      "description": {
+        "vi": "Mỗi khi phái ra 1 con dơi, thanh hành động của bản thân tăng 5% và nhận 1 tầng [buff_3732_1]. Khi tích lũy đạt 7 tầng, nếu không ở trạng thái [tips_17], tiêu hao số tầng hiện tại, phong ấn vật triệu hồi của kẻ địch, [tips_15] 2 lượt;\nnếu ô vật triệu hồi của kẻ địch không có vật triệu hồi, sẽ gây 3 đoạn sát thương «[tips_18]» bằng 77% tấn công cho mục tiêu kẻ địch có HP thấp nhất.",
+        "en": "Each time he releases 1 bat, his Move Bar raises by 5% and he gets a [buff_3732_1] stack. When he has 7 stacks, he consumes all stacks to seal the enemy's summoned entity, as long as he's not [tips_17]. [tips_15] for 2 turns.\nIf there's no summoned entity on the enemy's summoned entity position, launches a 3-strike attack on the enemy with the lowest HP instead, dealing [tips_18] equal to 77% of his ATK for each strike.",
+        "zh": "每派出1只蝙蝠，自身行动条增加5%和获得1层[buff_3732_1]。累计获得7层时，若未处于[tips_17]，消耗当前层数，封印敌方召唤物，[tips_15]2回合；\n若敌方召唤物位无召唤物，则对生命最低的敌方目标造成3段攻击77%的[tips_18]。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "3732",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 3733,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thất Dạ Bí Nghi",
+        "en": "Seven-Night Ritual",
+        "zh": "七夜秘仪"
+      },
+      "intro": {
+        "vi": "Thất Trọng Lạc Mạc, Thất Chủng Chung Cục.",
+        "en": "Curtains fall seven times and life ends in seven ways.",
+        "zh": "七重落幕，七种终局。"
+      },
+      "description": {
+        "vi": "[tips_11]. Trước khi bắt đầu chiến đấu, sát thương nhận phải giảm 49%, đồng thời nhận 70% kháng hiệu ứng. Tung ra 3 con dơi gây sát thương 270% cho mục tiêu kẻ địch đồng thời đính kèm [buff_3733_1].\nMục tiêu kẻ địch có thể chọn [buff_3733_1] cùng thời gian kết toán trước lượt của bản thân, nếu chọn kết toán trước lượt, sẽ trực tiếp kích hoạt hiệu ứng [buff_3733_1] và kết thúc lượt của mục tiêu, nếu chọn kết toán sau lượt, thì mục tiêu hoàn thành lượt rồi mới kích hoạt hiệu ứng [buff_3733_1].\nKhi [buff_3733_1] kích hoạt, sát thương nhận phải tăng 7%, kháng hiệu ứng giảm 10%, đồng thời gây cho toàn thể kẻ địch lượng sát thương chuẩn bằng 100% tấn công của Yatagarasu, sát thương này không kích hoạt Ngự Hồn của người mang và kẻ địch. Khi cả 7 hiệu ứng của [buff_3733_1] đều được kích hoạt, nếu không ở trạng thái [tips_17], gây 7 lần sát thương «[tips_18]» bằng 77% tấn công cho mục tiêu kẻ địch ngẫu nhiên và làm mới hiệu ứng [buff_3733_1], mỗi lần tấn công đẩy lùi 20% thanh hành động của kẻ địch; tiêu hao Quỷ Hỏa của kỹ năng giảm 1 điểm.",
+        "en": "[tips_11]. Gains 70% Effect RES and 49% damage taken reduction.\nReleases 3 bats and attack 1 enemy, dealing damage equal to 270% of his ATK and inflicting [buff_3733_1] on them.\nThe enemy can choose the type and trigger time of the [buff_3733_1].\nWhen [buff_3733_1] is triggered, increases his damage taken by 7% and reduces Effect RES by 10%. Dealing 100% true damage of his ATK to all enemies, which will not trigger Souls effect on both side. After [buff_3733_1]'s all 7 effects triggered, launches a 7-strike attack on random enemies, dealing [tips_18] equal to 77% of his ATK and lowers the enemy's Move Bar by 20% for each strike if he's not [tips_17]. Then [buff_3733_1]'s effects resets.",
+        "zh": "[tips_11]。战斗开始前，受到的伤害降低49%，并获得70%效果抵抗。挥出3只蝙蝠对敌方目标造成攻击270%伤害并附加[buff_3733_1]。\n敌方目标可在自身回合前选择[buff_3733_1]以及结算时间，若是选择回合前结算，则直接触发[buff_3733_1]效果并结束目标回合，若是选择回合后结算，则目标完成回合后触发[buff_3733_1]效果。\n[buff_3733_1]触发时，受到伤害增加7%，降低10%效果抵抗，并对敌方全体造成夜刀神攻击100%的真实伤害，此伤害不触发携带者以及敌方的御魂。[buff_3733_1]7种效果全触发时，若未处于[tips_17]，对随机敌方目标造成7次攻击77%[tips_18]并重置[buff_3733_1]效果，每次攻击时击退敌方20%行动条；技能消耗鬼火减少1点。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tung ra dơi tăng đến 270% tấn công.",
+            "en": "Increases the released bats' damage to 270% of his ATK.",
+            "zh": "挥出蝙蝠的伤害增加至攻击270%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi làm mới Nêm Đêm, số lần tấn công tăng lên 7 lần.",
+            "en": "When Sigil of the Night resets, increases his attack to 7 strikes.",
+            "zh": "重置夜之楔时，攻击次数增加到7次"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi làm mới Nêm Đêm, mỗi lần tấn công kèm theo 20% hiệu quả đẩy lùi thanh hành động.",
+            "en": "When Sigil of the Night resets, each strike also lowers the Move Bar by 20%.",
+            "zh": "重置夜之楔时，每次攻击附加20%行动条击退效果"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Kỹ năng tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "Reduces the skill's required orbs by 1.",
+            "zh": "技能消耗鬼火减少1点"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3733",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yedaoshen",
+    "headKey": "h_yedaoshen",
+    "armature": "",
+    "artName": "txt_zhanshi_yedaoshen",
+    "skillIconKeys": [
+      "3731",
+      "3732",
+      "3733"
+    ]
+  },
+  "unresolvedTokens": []
+}

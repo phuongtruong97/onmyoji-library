@@ -1,0 +1,350 @@
+{
+  "id": 342,
+  "name": {
+    "vi": "Tinh Hùng Đồng Tử",
+    "en": "Hoshiguma Doji",
+    "zh": "星熊童子"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17]",
+    "en": "[17]",
+    "zh": "[17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2036,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12531,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 441,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "3%",
+      "grade": "C"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3421,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thính Tán Nhất Ngôn",
+        "en": "Listen Up",
+        "zh": "听咱一言"
+      },
+      "intro": {
+        "vi": "Yô~",
+        "en": "Hey ya!",
+        "zh": "唷~"
+      },
+      "description": {
+        "vi": "Dùng lời nói tấn công mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công. Nếu sau khi tấn công mục tiêu mang [tips_103], thì có 100% xác suất khiến kẻ đó lập tức thực hiện 1 lần Đánh Thường.",
+        "en": "Attacks 1 enemy with harsh words, dealing damage equal to 100% of his ATK. If the target is inflicted with [tips_103] after the attack, has a 100% chance of making them immediately launch a normal attack.",
+        "zh": "用言语攻击敌方目标，造成攻击100%的伤害。若攻击后目标带有[tips_103]，则有100%概率使其立即进行一次普攻。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất lập tức Đánh Thường tăng lên 50%",
+            "en": "Increases their chance of immediately launching a normal attack to 50%.",
+            "zh": "立即进行普攻的概率增至50%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất lập tức Đánh Thường tăng lên 60%",
+            "en": "Increases their chance of immediately launching a normal attack to 60%.",
+            "zh": "立即进行普攻的概率增至60%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất lập tức Đánh Thường tăng lên 80%",
+            "en": "Increases their chance of immediately launching a normal attack to 80%.",
+            "zh": "立即进行普攻的概率增至80%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất lập tức Đánh Thường tăng lên 100%",
+            "en": "Increases their chance of immediately launching a normal attack to 100%.",
+            "zh": "立即进行普攻的概率增至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3421",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3422,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đao Hạ Lưu Nhân",
+        "en": "Spare the Innocent",
+        "zh": "刀下留人"
+      },
+      "intro": {
+        "vi": "Đừng, người nhà cả.",
+        "en": "Hey, I'm on your side.",
+        "zh": "别，自己人。"
+      },
+      "description": {
+        "vi": "Miễn nhiễm [tips_103].\nKhi bị Đánh Thường, nếu bản thân không ở trạng thái [tips_17], có 45% xác suất [tips_24], và xua quỷ ma tửu trong bát [tips_103] người Đánh Thường, duy trì 1 lượt.\nKhi [tips_103] mang trên bất kỳ mục tiêu nào trên sân biến mất, giúp bản thân tăng 10% Thanh Hành Động; nếu [tips_103] đó biến mất vì bị xua tan, đổi thành giúp bản thân tăng 20% Thanh Hành Động.",
+        "en": "Gains immunity to [tips_103].\nWhen taking a normal attack, if he's not [tips_17], has a 45% chance to [tips_24] the attack, and commands the Wine Demon in his bowl to inflict [tips_103] on the attacker, lasting 1 turn.\nWhen a [tips_103] state on a unit wears off, his Move Bar is raised by 10%. If the [tips_103] state is dispelled, his Move Bar is raised by 20% instead.",
+        "zh": "免疫[tips_103]。\n被普攻时，若自身未处于[tips_17]，有45%概率[tips_24]，并驱使碗中酒鬼[tips_103]普攻者，持续1回合。\n场上任一目标带有的[tips_103]消失时，使自身增加10%行动条；若该[tips_103]是因为被驱散而消失，改为使自身增加20%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất né tránh tăng lên 30%",
+            "en": "Increases his Dodge chance to 30%.",
+            "zh": "闪避概率增至30%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất né tránh tăng lên 35%",
+            "en": "Increases his Dodge chance to 35%.",
+            "zh": "闪避概率增至35%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất né tránh tăng lên 40%",
+            "en": "Increases his Dodge chance to 40%.",
+            "zh": "闪避概率增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất né tránh tăng lên 45%",
+            "en": "Increases his Dodge chance to 45%.",
+            "zh": "闪避概率增至45%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3422",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3423,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Địch Ở Bát Rượu!",
+        "en": "The enemy is there!",
+        "zh": "敌在酒碗处！"
+      },
+      "intro": {
+        "vi": "Đều nghe ta là đúng đó~",
+        "en": "Y'all just listen to me!",
+        "zh": "都听咱的就对了~"
+      },
+      "description": {
+        "vi": "Ném bát rượu về phía mục tiêu kẻ địch, đính kèm [b2_参数p2_abs] tầng [buff_3423_2] cho kẻ đó, cho đến khi trận đấu kết thúc. Sau đó khiến toàn bộ phe địch có 40% [tips_2] [tips_103], duy trì 1 lượt.\nĐính kèm hiệu ứng phụ cho lần 『[skill_3421_1]』 tiếp theo: Có 40% [tips_2] khiến mục tiêu [tips_103], duy trì 1 lượt.\nHiệu ứng phụ của [buff_3423_2]: Sau khi bị đơn vị phe ta Đánh Thường, nếu tỷ lệ HP thấp hơn nguồn tấn công, sẽ phản kích nguồn tấn công.",
+        "en": "Throws his wine bowl at 1 enemy, inflicting [b2_参数p2_abs] [buff_3423_2] stacks lasting until the battle ends. Then, has a 40% [tips_2] of inflicting [tips_103] lasting 1 turn on all enemies.\nGrants the next [skill_3421_1] he uses an additional effect: Has a 40% [tips_2] of inflicting [tips_103] lasting 1 turn on the enemy.\n[buff_3423_2]'s additional effect: When taking a normal attack from an ally, launches a counter attack at the attacker if they have a higher proportion of HP.",
+        "zh": "将酒碗抛向敌方目标，为其附加[b2_参数p2_abs]层[buff_3423_2]，直到战斗结束。然后使敌方全体有40%[tips_2][tips_103]，持续1回合。\n为下一次『[skill_3421_1]』附加额外效果：有40%[tips_2]使目标[tips_103]，持续1回合。\n[buff_3423_2]额外效果：被友方单位普攻后，若生命比例低于攻击来源，则反击攻击来源。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_103] [tips_2] tăng lên 28%",
+            "en": "Increases his [tips_2] of inflicting [tips_103] to 28%.",
+            "zh": "[tips_103][tips_2]增至28%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_103] [tips_2] tăng lên 28%",
+            "en": "Increases his [tips_2] of inflicting [tips_103] to 28%.",
+            "zh": "[tips_103][tips_2]增至28%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_103] [tips_2] tăng lên 32%",
+            "en": "Increases his [tips_2] of inflicting [tips_103] to 32%.",
+            "zh": "[tips_103][tips_2]增至32%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_103] [tips_2] tăng lên 32%",
+            "en": "Increases his [tips_2] of inflicting [tips_103] to 32%.",
+            "zh": "[tips_103][tips_2]增至32%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_103] [tips_2] tăng lên 36%",
+            "en": "Increases his [tips_2] of inflicting [tips_103] to 36%.",
+            "zh": "[tips_103][tips_2]增至36%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_103] [tips_2] tăng lên 36%",
+            "en": "Increases his [tips_2] of inflicting [tips_103] to 36%.",
+            "zh": "[tips_103][tips_2]增至36%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_103] [tips_2] tăng lên 40%",
+            "en": "Increases his [tips_2] of inflicting [tips_103] to 40%.",
+            "zh": "[tips_103][tips_2]增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_103] [tips_2] tăng lên 40%",
+            "en": "Increases his [tips_2] of inflicting [tips_103] to 40%.",
+            "zh": "[tips_103][tips_2]增至40%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3423",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "xingxiongtongzi",
+    "headKey": "h_xingxiongtongzi",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3421",
+      "3422",
+      "3423"
+    ]
+  },
+  "unresolvedTokens": []
+}

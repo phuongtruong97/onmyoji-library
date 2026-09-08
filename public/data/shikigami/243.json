@@ -1,0 +1,249 @@
+{
+  "id": 243,
+  "name": {
+    "vi": "Zashiki Warashi",
+    "en": "Yamawaro",
+    "zh": "山童"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17]",
+    "en": "[17]",
+    "zh": "[17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2706,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 392,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 106,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2431,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Toái Nham",
+        "en": "Hammer Smash",
+        "zh": "碎岩"
+      },
+      "intro": {
+        "vi": "Hả... á, vỡ rồi sao? Đây cũng tính là đá á?",
+        "en": "It crumbled away! What kind of rock is this?",
+        "zh": "哈啊……啊，这就碎了？这也算岩石？"
+      },
+      "description": {
+        "vi": "Một tay nhấc búa đá nặng nề, nhảy lên cao rồi giáng mạnh xuống mục tiêu kẻ địch, gây sát thương 120%.",
+        "en": "Effortlessly raises his heavy stone hammer, leaps into the air and crashes down on 1 enemy, dealing damage equal to 120% of his ATK.",
+        "zh": "一把举起沉重的石锤，高高跃起然后重重地砸向敌方目标，造成攻击120%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2431",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2432,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Kỳ Lực",
+        "en": "Tenacity",
+        "zh": "怪力"
+      },
+      "intro": {
+        "vi": "Muốn đọ sức lực với ta sao? Ta không thua đâu~",
+        "en": "Hey you! Wanna wrestle?",
+        "zh": "要比力气吗？我可不会输~"
+      },
+      "description": {
+        "vi": "Khi tấn công, có xác suất 8% (+[*|a_debuff-acc_per|s_buff概率_per]) khiến mục tiêu [tips_108], duy trì 1 lượt.",
+        "en": "When attacking, has a 8% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_108] lasting 1 turn(s) on them.",
+        "zh": "攻击时，8%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使目标[tips_108]，持续1回合。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "2432",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2433,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Băng Sơn",
+        "en": "Bludgeoning",
+        "zh": "崩山"
+      },
+      "intro": {
+        "vi": "Sao thế, mới đó đã không chịu nổi rồi sao?",
+        "en": "What's the matter? Too much for you to handle?",
+        "zh": "怎么了，这就受不了了？"
+      },
+      "description": {
+        "vi": "抄起石锤跳入敌阵，使出怪力猛轰敌方全体3次，每次造成攻击43%伤害。",
+        "en": "抄起石锤跳入敌阵，使出怪力猛轰敌方全体3次，每次造成攻击43%伤害。",
+        "zh": "抄起石锤跳入敌阵，使出怪力猛轰敌方全体3次，每次造成攻击43%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至37%",
+            "en": "伤害增加至37%",
+            "zh": "伤害增加至37%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至39%",
+            "en": "伤害增加至39%",
+            "zh": "伤害增加至39%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至41%",
+            "en": "伤害增加至41%",
+            "zh": "伤害增加至41%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至43%",
+            "en": "伤害增加至43%",
+            "zh": "伤害增加至43%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2433",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "shantong",
+    "headKey": "h_shantong",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2431",
+      "2432",
+      "2433"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": 347,
+  "name": {
+    "vi": "Duyên Kết Thần",
+    "en": "Enmusubi",
+    "zh": "缘结神"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 10, 39]",
+    "en": "[37, 10, 39]",
+    "zh": "[37, 10, 39]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2010,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12189,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3471,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nguyệt Hạ Hoa",
+        "en": "Moonlit Flower",
+        "zh": "月下花"
+      },
+      "intro": {
+        "vi": "这个样子是不会得到幸福的！",
+        "en": "这个样子是不会得到幸福的！",
+        "zh": "这个样子是不会得到幸福的！"
+      },
+      "description": {
+        "vi": "Đây chính là Duyên Thần Phẫn Nộ! Dùng hoa dưới trăng đập vào...... triệu hồi ấn kết duyên đập xuống kẻ địch như thể hủy thiên diệt địa, gây sát thương bằng 115% Tấn công, và tăng 20% Thanh Hành Động cho bản thân.",
+        "en": "This is your bond with a goddess' wrath! Wields a moonlit flower to strike... Summons a crushing mark of bond to smash 1 enemy, dealing damage equal to 115% of her ATK. Also raises her Move Bar by 20%.",
+        "zh": "这就是神愤之缘！用月下花敲向......召出结缘之印毁天灭地般地砸向敌人，造成攻击115%伤害，并增加自身20%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tăng thêm 20% Thanh Hành Động cho bản thân",
+            "en": "Also raises her Move Bar by 20%.",
+            "zh": "额外增加自身20%行动条"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3471",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3472,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Phi Sắc Hoa Nguyệt",
+        "en": "Flower Moon",
+        "zh": "绯色花月"
+      },
+      "intro": {
+        "vi": "Ta có thể độc thân, nhưng các ngươi bắt buộc phải kết duyên!",
+        "en": "I'm happy to be single. But you two must get together!",
+        "zh": "我可以单身，但你们必须结缘！"
+      },
+      "description": {
+        "vi": "[tips_11].\nTrước khi lượt của đồng minh khác bắt đầu, ban cho kẻ đó 1 trong 4 loại kết duyên ngẫu nhiên, nếu kết duyên kẻ đó nhận được trùng khớp với đồng minh khác hành động trước đó, thì kết duyên thành công, lập tức nhận 1 điểm Quỷ Hỏa, đồng thời Duyên Kết Thần nhận 1 tầng [buff_3470_1]. Nếu không trùng khớp, thì kết duyên thất bại, Duyên Kết Thần nhận 1 tầng [buff_34726_1].",
+        "en": "[tips_11].\nAt the start of another ally's turn, grants them 1 Knot of a random type (4 in total). If the Knot they received is of the same type as the one granted to the last ally who performed an action (other than Enmusubi), a match is formed. You gain 1 orb immediately and Enmusubi gains a layer of [buff_3470_1]. If a match is not formed, Enmusubi gains a layer of [buff_34726_1].",
+        "zh": "[tips_11]。\n其他友方回合开始前，赐予其4种随机缘结之一，若其获得的缘结与上一个行动的其他友方相同，则结缘成功，立刻获得1点鬼火，同时缘结神获得1层[buff_3470_1]。若不相同，则结缘失败，缘结神获得1层[buff_34726_1]。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "3472",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3473,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thần Ban Lương Duyên",
+        "en": "Blessed Bond",
+        "zh": "神赐良缘"
+      },
+      "intro": {
+        "vi": "缘分增加了！",
+        "en": "缘分增加了！",
+        "zh": "缘分增加了！"
+      },
+      "description": {
+        "vi": "Chúc phúc 1 mục tiêu phe ta, giúp kẻ đó nhận [tips_14], đồng thời cổ vũ toàn bộ phe ta không phải vật triệu hồi, tăng 40% sát thương, và trị liệu cho toàn bộ phe ta không phải vật triệu hồi lượng HP bằng 9% HP tối đa, duy trì 1 lượt. Nếu sở hữu ít nhất 1 tầng Duyên, khi cổ vũ 50% lượng trị liệu dư thừa chuyển hóa thành Lá chắn, duy trì 1 lượt. Nếu sở hữu ít nhất 3 tầng Duyên, khi cổ vũ tăng thêm 30 điểm Tốc độ cho toàn bộ phe ta, duy trì 1 lượt. Nếu sở hữu 7 tầng Duyên, khi chúc phúc đồng minh khác tăng thêm [buff_3475_1] cho kẻ đó, và giúp bản thân nhận Che Chắn.\n[tips_7]: Nhận Che Chắn.",
+        "en": "Blesses 1 ally and grants them [tips_14]. Also boosts the morale of all non-summoned entity allies, increasing their damage by 40% until the start of her next turn and healing them by 9% of her max HP. When she boosts the morale of her non-summoned entity allies, if she has at least 1 Fateful Bond stack, 50% of the excess HP healed will be converted into a shield that lasts 1 turn. When she boosts the morale of her non-summoned entity allies, if she has at least 3 Fateful Bond stacks, their SPD will also increase by 30 until the start of her next turn. If she has 7 Fateful Bond stacks, when she blesses another ally, she also grants [buff_3475_1] to the blessed ally and Shelter to herself.\n[tips_7]: Gains Shelter.",
+        "zh": "祝福1个友方目标，使其获得[tips_14]，同时鼓舞非召唤物的友方全体，提升40%的伤害，并治疗非召唤物的友方全体生命上限9%的生命值，维持1回合。若拥有至少1层缘，鼓舞时溢出治疗量的50%转化成护盾，持续1回合。若拥有至少3层缘，鼓舞时额外使友方全体提升30点速度，维持1回合。若拥有7层缘，祝福其他友方时额外使其获得[buff_3475_1]，并使自身获得庇护。\n[tips_7]：获得庇护。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Nếu sở hữu ít nhất 1 tầng Duyên, khi cổ vũ 50% lượng trị liệu dư thừa chuyển hóa thành Lá chắn, duy trì 1 lượt",
+            "en": "When she boosts the morale of her allies, if she has at least 1 layer of Fateful Bond, 50% of excess HP healed will be converted into a shield that lasts 1 turn.",
+            "zh": "若拥有至少1层缘，鼓舞时溢出治疗量的50%转化为护盾，持续1回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Nếu sở hữu ít nhất 3 tầng Duyên, khi cổ vũ tăng thêm 30 điểm Tốc độ cho toàn bộ phe ta, duy trì 1 lượt",
+            "en": "When she boosts the morale of her allies, if she has at least 3 layers of Fateful Bond, their SPD will also increase by 30 until the start of her next turn.",
+            "zh": "若拥有至少3层缘，鼓舞时额外使友方全体提升30点速度，维持1回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Nếu sở hữu 7 tầng Duyên, khi chúc phúc đồng minh khác tăng thêm [buff_3475_1] cho kẻ đó, và giúp bản thân nhận Che Chắn",
+            "en": "If she has 7 layers of Fateful Bond, also grants [buff_3475_1] to the blessed ally when she blesses another ally, and she gains Shelter.",
+            "zh": "若拥有7层缘，祝福其他友方时额外使其获得[buff_3475_1]，并使自身获得庇护"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Nhận Che Chắn",
+            "en": "[tips_7]: Gains Shelter.",
+            "zh": "[tips_7]：获得庇护"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3473",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yuanjieshen",
+    "headKey": "h_yuanjieshen",
+    "armature": "",
+    "artName": "txt_zhanshi_yuanjieshen",
+    "skillIconKeys": [
+      "3471",
+      "3472",
+      "3473"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,298 @@
+{
+  "id": 582,
+  "name": {
+    "vi": "Megurine Luka",
+    "en": "Megurine Luka",
+    "zh": "巡音流歌"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[12, 38, 21]",
+    "en": "[12, 38, 21]",
+    "zh": "[12, 38, 21]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 1929,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12531,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 388,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "2%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5821,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quản Huyền Tấu",
+        "en": "Symphonic Performance",
+        "zh": "管弦奏"
+      },
+      "intro": {
+        "vi": "Tấu lên nào~",
+        "en": "Let's play music.",
+        "zh": "奏响吧~"
+      },
+      "description": {
+        "vi": "Quản huyền hòa tấu nhẹ nhàng, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Gently plays instruments to deal damage to 1 enemy equal to 125% of her ATK.",
+        "zh": "管弦轻奏，对敌方目标造成攻击125%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5821",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5822,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hòa Âm Hồi Hưởng",
+        "en": "Sonority Echoes",
+        "zh": "和音回响"
+      },
+      "intro": {
+        "vi": "Nốt nhạc sẽ xua tan nỗi buồn~",
+        "en": "Music notes will dispel your sorrow.",
+        "zh": "音符会驱散悲伤~"
+      },
+      "description": {
+        "vi": "[tips_11]. Nhè nhẹ cất tiếng hát, hòa âm vang lên, mỗi khi đồng minh không phải vật triệu hồi chịu 3 trạng thái giảm ích hoặc [tips_3], tăng 1 tầng [buff_5821_1] (（trước khi lượt bắt đầu, tăng tối đa 5 tầng)). Bản thân sau khi thoát khỏi [tips_3], tăng 60 điểm Tốc độ, duy trì 1 lượt. Mỗi khi có 40% Kháng Hiệu Ứng ban đầu, tăng 10% giảm sát thương. Khi tiêu hao [buff_5821_1] xua tan, khiến mục tiêu nhận [buff_5822_1], [tips_15] 1 lượt.",
+        "en": "[tips_11]. Softly hums to create a sonority. Whenever an non-summoned ally entity's debuffs or [tips_3]s reach 3 stacks, increases her [buff_5821_1] by 1 stack((max 5 stacks increased before her next turn)). When she herself is out of [tips_3]s, increases her SPD by 60 for 1 turn. Increases her own damage reduction by 10% for each 40% starting Effect RES she has. When a [buff_5821_1] stack is used to dispel, increases the ally's [buff_5822_1] stack [tips_15] for 1 turn).",
+        "zh": "[tips_11]。轻轻哼唱，和音响起，非召唤物友方每受到3个减益或[tips_3]，提升1层[buff_5821_1](（回合开始前，至多提升5层）)。自身脱离[tips_3]后，提升60点速度，持续1回合。每有40%初始效果抵抗，提升10%减伤。消耗[buff_5821_1]驱散时，使目标提升[buff_5822_1]，[tips_15]1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Bản thân sau khi thoát khỏi [tips_3], tăng 40 điểm Tốc độ, duy trì 1 lượt",
+            "en": "When she herself is out of [tips_3]s, increases her SPD by 40 for 1 turn.",
+            "zh": "自身脱离[tips_3]后，提升40点速度，持续1回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tăng Tốc độ nâng lên 60 điểm",
+            "en": "Increases the SPD boost to 60.",
+            "zh": "提升速度增至60点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Mỗi khi có 40% Kháng Hiệu Ứng ban đầu, nhận 10% giảm sát thương",
+            "en": "Grants 10% damage reduction for each 40% starting Effect RES she has.",
+            "zh": "每有40%初始效果抵抗，获得10%减伤"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi tiêu hao [buff_5821_1] xua tan, khiến mục tiêu nhận [buff_5822_1], duy trì 2 lượt.",
+            "en": "When a [buff_5821_1] stack is used to dispel, grants the ally [buff_5822_1] lasting 2 turns.",
+            "zh": "消耗[buff_5821_1]驱散时，使目标获得[buff_5822_1]，持续2回合。"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5822",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5823,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Luật Động Tuần Du",
+        "en": "Touring Music",
+        "zh": "律动巡游"
+      },
+      "intro": {
+        "vi": "Trung tâm sân khấu, thuộc về ta.",
+        "en": "The center stage belongs to me.",
+        "zh": "舞台中心，属于我。"
+      },
+      "description": {
+        "vi": "Âm luật tuần du trên sân khấu, xua tan 1 trạng thái giảm ích hoặc [tips_3] của toàn bộ đồng minh, và giúp họ nhận [buff_5822_1], duy trì 2 lượt. Sau khi thi triển, nhận 2 tầng [buff_5821_1], nếu mục tiêu đồng minh vẫn đang chịu [tips_3], tăng thêm 30% Thanh Hành Động cho kẻ đó.",
+        "en": "Music takes a tour on the stage, dispelling 1 debuff or [tips_3] from each ally and granting them [buff_5822_1] lasting 2 turns. Using the skill grants herself 2 [buff_5821_1] stacks. If an ally is still under a [tips_3] after the skill is used, additionally raises their Move Bar by 30%.",
+        "zh": "音律巡游舞台之上，驱散全体友方1个减益或[tips_3]，并使其获得[buff_5822_1]，持续2回合。施放后，获得2层[buff_5821_1]，若友方目标仍承受[tips_3]，额外增加其30%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sau khi thi triển, nhận 1 tầng [buff_5821_1]",
+            "en": "Using the skill grants herself 1 [buff_5821_1] stack.",
+            "zh": "施放后，获得1层[buff_5821_1]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Số tầng [buff_5821_1] nhận được tăng lên 2 tầng",
+            "en": "Increases the [buff_5821_1] stacks granted to 2.",
+            "zh": "获得的[buff_5821_1]层数增至2层"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sau khi thi triển, nếu mục tiêu đồng minh vẫn đang chịu [tips_3], tăng thêm 30% Thanh Hành Động cho kẻ đó",
+            "en": "If an ally is still under a [tips_3] after the skill is used, additionally raises their Move Bar by 30%.",
+            "zh": "施放后，若友方目标仍承受[tips_3]，额外增加其30%行动条"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "消耗鬼火减少1点",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5823",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "xunyinliuge",
+    "headKey": "h_xunyinliuge",
+    "armature": "",
+    "artName": "txt_zhanshi_xunyinliuge",
+    "skillIconKeys": [
+      "5821",
+      "5822",
+      "5823"
+    ]
+  },
+  "unresolvedTokens": []
+}

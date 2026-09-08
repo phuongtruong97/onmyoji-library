@@ -1,0 +1,350 @@
+{
+  "id": 392,
+  "name": {
+    "vi": "Mùi (Ki)",
+    "en": "Shiki",
+    "zh": "季"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 23]",
+    "en": "[1, 23]",
+    "zh": "[1, 23]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3296,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10024,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3921,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tứ Sắc Cẩn",
+        "en": "Viola Quadricolor",
+        "zh": "四色堇"
+      },
+      "intro": {
+        "vi": "Ngày bốn mùa ly biệt, chỉ lưu lại đóa hoa trong tưởng tượng.",
+        "en": "When the four seasons are gone, only the fantasized flower remains.",
+        "zh": "四季离去之日，徒留下幻想中的花。"
+      },
+      "description": {
+        "vi": "Tứ Sắc Cẩn đánh trúng kẻ địch sau đó bay tán loạn, gây sát thương bằng 125% Tấn công.",
+        "en": "Casts a viola quadricolor that scatters upon landing on 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "四色堇击中敌方后飞散，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3921",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3922,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hoa Lạc Tứ Thời Sinh",
+        "en": "Born of the Seasons",
+        "zh": "华落四时生"
+      },
+      "intro": {
+        "vi": "Một hoa rụng rơi, vạn vật ắt sinh.",
+        "en": "One flower falls, many lives are born.",
+        "zh": "一花零落，万昆遂生。"
+      },
+      "description": {
+        "vi": "Không thể bạo kích, với mỗi 1% Sát Thương Bạo Kích tăng thêm so với chỉ số cơ bản, sát thương không phải bạo kích do bản thân gây ra tăng 1%, kháng bạo kích tăng 0.5%.\n[tips_11].\n【Thi triển】 Hy sinh 24% HP tối đa (nếu không đủ giữ lại 1 điểm), triển khai «Tứ Thời Nhất Ngưng» duy trì 3 lượt và nhận 1 tầng [buff_3928_1], đồng thời căn cứ theo mùa đang ở để đính kèm hiệu ứng bổ sung. Trong «Tứ Thời Nhất Ngưng» bản thân không thể được trị liệu hoặc [tips_20] HP bởi hiệu ứng ngoài «Tứ Thời Nhất Ngưng • Xuân», nếu đồng minh thi triển kỹ năng yêu thuật, sau khi kết thúc lượt sẽ đính kèm [tips_3922] cho mục tiêu kẻ địch. Nếu mùa chọn giống với lần thi triển trước, bản thân nhận [buff_3922_1], duy trì 2 lượt; nếu mùa chọn giống với lần thi triển trước, nhận 1 điểm Quỷ Hỏa. Tiên cơ: Thi triển «Tứ Thời Nhất Ngưng • Xuân».",
+        "en": "She's unable to land critical hits. Each 1% Crit DMG increase to her base stat increases her non-critical damage dealt by 1% and her Crit RES by 0.5%.\n[tips_11].\nUsing the skill consumes 24% of her max HP (this won't reduce her HP to below 1), creating a Seasonal Sight that's [tips_15] for 3 turns, gaining her 1 [buff_3928_1] stack, and causing additional effects based on the season selected. While Seasonal Sight is active, her HP cannot be healed or [tips_20]ed by effects other than Seasonal Sight: Spring, and when an ally uses a Skill, inflicts a [tips_3922] on the enemy at the end of the ally's action. When selecting a season, if a different season was selected the last time the skill was used, she gains [buff_3922_1] for 2 turns; if the same season was selected, grants 1 orb. Uses Seasonal Sight: Spring as Upper Hand.",
+        "zh": "无法暴击，相比基础每提升1%暴击伤害，自身造成的非暴击伤害提升1%，暴击抵抗提升0.5%。\n[tips_11]。\n【施放】牺牲最大生命的24%（不足时保留1点），展开[tips_15]3回合的『四时一隅』并获得1层[buff_3928_1]，同时根据所处季节施加额外效果。在『四时一隅』中自身无法被『四时一隅·春』之外的效果治疗或[tips_20]生命，若友方施放了妖术技能，行动结束时将为敌方目标附加[tips_3922]。若与前次施放选择季节不同，自身获得[buff_3922_1]，持续2回合；若与前次施放选择季节相同，获得1点鬼火。先机：施放『四时一隅·春』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi ở trong [buff_3922_1], HP bản thân cứ giảm 1%, giảm sát thương tăng 1%",
+            "en": "When she's under [buff_3922_1], increases her damage reduction by 1% for each 1% HP reduced.",
+            "zh": "处于[buff_3922_1]时，自身生命每降低1%，减伤提升1%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi ở trong [buff_3922_1], HP bản thân cứ giảm 1%, giảm sát thương tăng 1%",
+            "en": "When she's under [buff_3922_1], increases her damage reduction by 1% for each 1% HP reduced.",
+            "zh": "处于[buff_3922_1]时，自身生命每降低1%，减伤提升1%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thời gian duy trì tăng lên 3 lượt",
+            "en": "Increases the sustainable turns to 3.",
+            "zh": "维持回合提升至3回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thời gian duy trì tăng lên 3 lượt",
+            "en": "Increases the sustainable turns to 3.",
+            "zh": "维持回合提升至3回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Nếu mùa chọn giống với lần thi triển trước, nhận 1 điểm Quỷ Hỏa; khi tấn công quái vật Quý Linh gây sát thương chuẩn",
+            "en": "When selecting a season, if the same season was selected the last time the skill was used, grants 1 orb. Seasonlings deal true damage when attacking monsters.",
+            "zh": "若与前次施放选择的季节相同，获得1点鬼火；攻击怪物时季灵造成真实伤害"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Nếu mùa chọn giống với lần thi triển trước, nhận 1 điểm Quỷ Hỏa; khi tấn công quái vật Quý Linh gây sát thương chuẩn",
+            "en": "When selecting a season, if the same season was selected the last time the skill was used, grants 1 orb. Seasonlings deal true damage when attacking monsters.",
+            "zh": "若与前次施放选择的季节相同，获得1点鬼火；攻击怪物时季灵造成真实伤害"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: Thi triển «Tứ Thời Nhất Ngưng • Xuân»",
+            "en": "Uses Seasonal Sight: Spring as Upper Hand.",
+            "zh": "先机：施放『四时一隅·春』"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: Thi triển «Tứ Thời Nhất Ngưng • Xuân»",
+            "en": "Uses Seasonal Sight: Spring as Upper Hand.",
+            "zh": "先机：施放『四时一隅·春』"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3922",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3923,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mê Thiên Diệp Lệ",
+        "en": "Shrouding Leaves",
+        "zh": "弥天叶唳"
+      },
+      "intro": {
+        "vi": "从今以后，黎明不再歌唱，种子不再发芽。",
+        "en": "从今以后，黎明不再歌唱，种子不再发芽。",
+        "zh": "从今以后，黎明不再歌唱，种子不再发芽。"
+      },
+      "description": {
+        "vi": "Gọi tới rừng cây tấn công toàn bộ kẻ địch 3 lần, mỗi lần gây sát thương bằng 30% Tấn công. Tỷ lệ HP bản thân cứ giảm 24%, tấn công bổ sung mục tiêu có tỷ lệ HP thấp nhất 1 lần, gây sát thương bằng 120% Tấn công; nếu trên sân tồn tại Quý Linh, khi thi triển Quý Linh sẽ ngay lập tức tấn công mục tiêu đính kèm 1 lần, đồng thời không tiêu hao số lần tấn công. Nếu [buff_3928_1] đạt 4 tầng, liền thay thế thành «[skill_39231_1]», cấp độ theo sát cường hóa của kỹ năng «Mê Thiên Diệp Lệ».",
+        "en": "Calls forth a sea of trees to launch a 3-strike attack on all enemies, dealing damage equal to 30% of her ATK on each strike. For each 24% HP she has lost, inflicts 1 follow-up strike on the enemy with the lowest proportion of HP, dealing damage equal to 120% of her ATK. If there's a Seasonling on the battlefield when using the skill, all Seasonlings will immediately attack the follow-up enemy once without spending their attack attempts. If she has 4 [buff_3928_1] stacks, changes the skill to [skill_39231_1], with its skill level equal to the skill level of Shrouding Leaves.",
+        "zh": "唤来树海攻击敌方全体3次，每次造成攻击30%的伤害。自身生命比例每降低24%，对敌方生命比例最低的目标追加1次攻击，造成攻击120%的伤害；若场上存在季灵，施放时季灵将立即攻击附加的目标1次，且不消耗攻击次数。若[buff_3928_1]达到4层，则替换为『[skill_39231_1]』，等级随『弥天叶唳』技能强化。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương đơn lẻ bổ sung tăng lên 80%",
+            "en": "Increases the follow-up single-target damage to 80%.",
+            "zh": "追加的单体伤害提升至80%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương đơn lẻ bổ sung tăng lên 100%",
+            "en": "Increases the follow-up single-target damage to 100%.",
+            "zh": "追加的单体伤害提升至100%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương đơn lẻ bổ sung tăng lên 120%",
+            "en": "Increases the follow-up single-target damage to 120%.",
+            "zh": "追加的单体伤害提升至120%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu trên sân tồn tại Quý Linh, khi thi triển Quý Linh sẽ ngay lập tức tấn công mục tiêu đính kèm 1 lần, đồng thời không tiêu hao số lần tấn công",
+            "en": "If there's a Seasonling on the battlefield when using the skill, all Seasonlings will immediately attack the follow-up enemy once without spending their attack attempts.",
+            "zh": "若场上存在季灵，施放时季灵将立即攻击附加的目标1次，且不消耗攻击次数"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3923",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "ji",
+    "headKey": "h_ji",
+    "armature": "",
+    "artName": "txt_zhanshi_ji",
+    "skillIconKeys": [
+      "3921",
+      "3922",
+      "3923"
+    ]
+  },
+  "unresolvedTokens": []
+}

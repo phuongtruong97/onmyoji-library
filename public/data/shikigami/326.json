@@ -1,0 +1,298 @@
+{
+  "id": 326,
+  "name": {
+    "vi": "Đạo Hà Thần Ngự Xam Tân",
+    "en": "Divine Miketsu",
+    "zh": "稻荷神御馔津"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[28, 12, 21]",
+    "en": "[28, 12, 21]",
+    "zh": "[28, 12, 21]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2787,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 436,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3261,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồ Linh",
+        "en": "Fox Bell",
+        "zh": "狐铃"
+      },
+      "intro": {
+        "vi": "Dùng chuông của ta, bảo vệ vùng đất này.",
+        "en": "With my bell, I shall protect this area.",
+        "zh": "以吾之铃，护此一方。"
+      },
+      "description": {
+        "vi": "Rung chuông ban phúc, phái 1 con cáo ngẫu nhiên tấn công mục tiêu kẻ địch, gây sát thương bằng 95% Tấn công, và có 100% [tips_2] đính kèm cho kẻ đó một trong các hiệu ứng [tips_104], [tips_105], [tips_106], [tips_117], duy trì 1 lượt.",
+        "en": "Rings her blessing bell to send out 1 random fox and attack 1 enemy, dealing damage equal to 95% of her ATK, with a 100% [tips_2] of inflicting [tips_104], [tips_105], [tips_106], or [tips_117] lasting 1 turn.",
+        "zh": "摇响赐福的铃铛，派出随机1只狐狸攻击敌方目标，造成攻击95%伤害，并有100%[tips_2]为其附加[tips_104]、[tips_105]、[tips_106]、[tips_117]其中之一，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至85%",
+            "en": "伤害增加至85%",
+            "zh": "伤害增加至85%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至90%",
+            "en": "伤害增加至90%",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至95%",
+            "en": "伤害增加至95%",
+            "zh": "伤害增加至95%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_2] tăng lên 100%",
+            "en": "Increases [tips_2] to 100%.",
+            "zh": "[tips_2]增至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3261",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3262,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồ Thụ · Nhật Diệu Giới",
+        "en": "Sunlit Fox Realm",
+        "zh": "狐狩·日曜界"
+      },
+      "intro": {
+        "vi": "Những gì ta kỳ vọng, là loài người có thể bình an dưới ánh mặt trời.",
+        "en": "My wish is that humans could live in a peaceful life under the sun.",
+        "zh": "吾所希冀的，是人类在阳光下得以安稳。"
+      },
+      "description": {
+        "vi": "[tips_11]。\n创造存在1回合的日曜结界，此期间，友方全体提升20点速度、20%效果抵抗。\n每当友方回合结束后，使行动条最前端的另一友方增加25%行动条，并有100%概率驱散其带有的1个减益状态或[tips_3]。",
+        "en": "[tips_11]。\n创造存在1回合的日曜结界，此期间，友方全体提升20点速度、20%效果抵抗。\n每当友方回合结束后，使行动条最前端的另一友方增加25%行动条，并有100%概率驱散其带有的1个减益状态或[tips_3]。",
+        "zh": "[tips_11]。\n创造存在1回合的日曜结界，此期间，友方全体提升20点速度、20%效果抵抗。\n每当友方回合结束后，使行动条最前端的另一友方增加25%行动条，并有100%概率驱散其带有的1个减益状态或[tips_3]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi phe ta tăng Thanh Hành Động, 40% xác suất giải trừ 1 trạng thái tiêu cực hoặc [tips_3] kẻ đó mang",
+            "en": "When the Move Bar of an ally is raised, has a (n) 40% chance of dispelling a debuff or [tips_3] on them.",
+            "zh": "友方增加行动条时，40%概率驱散其带有的1个减益状态或[tips_3]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất giải trừ tăng lên 60%",
+            "en": "Increases dispelling chance to 60%.",
+            "zh": "驱散概率增至60%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất giải trừ tăng lên 100%",
+            "en": "Increases dispelling chance to 100%.",
+            "zh": "驱散概率增至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng tăng Thanh Hành Động tăng lên 25%",
+            "en": "Increases Move Bar-raising effect to 25%.",
+            "zh": "增加行动条效果增至25%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3262",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3263,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồ Thụ · Nguyệt Ảnh Giới",
+        "en": "Moonlit Fox Realm",
+        "zh": "狐狩·月影界"
+      },
+      "intro": {
+        "vi": "Khi đêm đen buông xuống, hy vọng vẫn trường tồn.",
+        "en": "Darkness may fall, but hope shall remain.",
+        "zh": "黑夜来临之际，希望依旧永存。"
+      },
+      "description": {
+        "vi": "Tạo ra Kết giới Nguyệt Ảnh tồn tại trong 1 lượt, trong thời gian này, toàn bộ phe ta tăng 30% Tấn công, 30% Phòng thủ; bản thân tăng thêm 30 điểm Tốc độ và 30% Kháng Hiệu Ứng.\nSau khi lượt của kẻ địch kết thúc, dùng 『Hồ Linh』 tấn công kẻ địch đó, không kích hoạt Ngự Hồn và Nội tại của kẻ đó, đồng thời thời gian duy trì trạng thái tiêu cực kèm theo tăng lên 2 lượt.\n[tips_7]: Thi triển 『Hồ Thụ · Nguyệt Ảnh Giới』.",
+        "en": "Creates a moonlit realm that lasts 1 turn. While the realm is active, increases the ATK and DEF of all allies by 30% and her own SPD and Effect RES by 30%.\nAt the end of an enemy's turn, attacks the enemy with her Fox Bell. The attack doesn't trigger their Soul effects or passive skills, and increases the duration of the debuffs affecting them to 2 turns.\n[tips_7]: Uses Moonlit Fox Realm.",
+        "zh": "创造存在1回合的月影结界，此期间，友方全体提升30%攻击、30%防御；自身额外增加30速度和30%效果抵抗。\n敌方回合结束后，使用『狐铃』攻击该敌方，不触发其御魂及被动，并且附带的减益效果持续时间增至2回合。\n[tips_7]：施放『狐狩·月影界』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng tăng Tấn công, Phòng thủ tăng lên 25%",
+            "en": "Increases ATK and DEF boost effect to 25%.",
+            "zh": "提升攻击、防御效果增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trong thời gian Kết giới, bản thân tăng thêm 30 điểm Tốc độ, 30% Kháng Hiệu Ứng",
+            "en": "While the realm is active, increases her SPD and Effect RES by an additional 30 and 30%, respectively.",
+            "zh": "结界期间，自身额外提升30点速度、30%效果抵抗"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tăng Tấn công, Phòng thủ tăng lên 30%",
+            "en": "Increases ATK and DEF boost effect to 30%.",
+            "zh": "提升攻击、防御效果增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Thi triển 『Hồ Thụ · Nguyệt Ảnh Giới』",
+            "en": "[tips_7]: Uses Moonlit Fox Realm.",
+            "zh": "[tips_7]：施放『狐狩·月影界』"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3263",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_yuzhuanjin",
+    "headKey": "j_spyuzhuanjin",
+    "armature": "",
+    "artName": "txt_zhanshi_daoheshenyuzhuanjin",
+    "skillIconKeys": [
+      "3261",
+      "3262",
+      "3263"
+    ]
+  },
+  "unresolvedTokens": []
+}

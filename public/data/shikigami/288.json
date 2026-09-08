@@ -1,0 +1,476 @@
+{
+  "id": 288,
+  "name": {
+    "vi": "Bỉ Ngạn Hoa",
+    "en": "Higanbana",
+    "zh": "彼岸花"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2787,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10366,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 97,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2881,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tử Vong Chi Hoa",
+        "en": "Deadly Blooms",
+        "zh": "死亡之花"
+      },
+      "intro": {
+        "vi": "Ngươi muốn trở thành bùn hoa cho ta sao?",
+        "en": "Fear my razor-sharp petals!",
+        "zh": "你想成为我的花泥吗？"
+      },
+      "description": {
+        "vi": "Dùng cánh hoa đỏ thắm tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Uses her crimson petals to attack 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "用殷红的花瓣攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2881",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2882,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Xích Đoàn Hoa",
+        "en": "Crimson Flowers",
+        "zh": "赤团华"
+      },
+      "intro": {
+        "vi": "Màu sắc của lời nguyền này lại chính là màu rực rỡ nhất.",
+        "en": "Sometimes the most elegant curses are also the most lethal.",
+        "zh": "这诅咒的颜色偏偏又是最华丽的。"
+      },
+      "description": {
+        "vi": "[tips_11].\nKẻ địch trong biển hoa, khi bắt đầu lượt, mỗi tầng biển hoa gây cho kẻ đó sát thương bằng 48% Tấn công.\nKhi tỷ lệ HP bản thân ở 100%, 75%, 50%, 25%, giới hạn biển hoa là 3, 4, 5, 6 tầng; khi bắt đầu lượt tự động giảm 1 tầng biển hoa, ít nhất không thấp hơn 1 tầng.\nTỷ lệ HP cứ giảm 25%, nhận 1 tầng biển hoa và [tips_6] của 『Huyết Chi Hoa Hải』.\n[tips_7]: Tạo ra 3 tầng biển hoa, bao vây toàn bộ phe địch.",
+        "en": "[tips_11].\nOn turn start of an enemy surrounded by flowers, each layer of flowers deals damage to them equal to 48% of her ATK.\nFlowers are limited to 3/4/5/6 layers while her HP is at 100%/75%/50%/25%. The flowers decrease by 1 layer on each of her turns, to a minimum of 1 layer.\nGains a layer of flowers and a [tips_6] created by Blood-soaked Flowers for each 25% of her HP reduced.\n[tips_7]: Creates 3 layers of flowers to surround all enemies with.",
+        "zh": "[tips_11]。\n花海中的敌方，在回合开始时，每层花海对其造成攻击48%伤害。\n自身生命比例100%、75%、50%、25%时，花海上限为3、4、5、6层；回合开始时自动减少1层花海，最少不低于1层。\n生命比例每降低25%，获得1层花海及『血之花海』的[tips_6]。\n[tips_7]：创造3层花海，包围敌方全体。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương mỗi tầng biển hoa tăng lên 41%",
+            "en": "Increases damage of each layer of flowers to 41%.",
+            "zh": "每层花海伤害增加至41%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương mỗi tầng biển hoa tăng lên 43%",
+            "en": "Increases damage of each layer of flowers to 43%.",
+            "zh": "每层花海伤害增加至43%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương mỗi tầng biển hoa tăng lên 45%",
+            "en": "Increases damage of each layer of flowers to 45%.",
+            "zh": "每层花海伤害增加至45%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương mỗi tầng biển hoa tăng lên 48%",
+            "en": "Increases damage of each layer of flowers to 48%.",
+            "zh": "每层花海伤害增加至48%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2882",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2883,
+      "maxLevel": 11,
+      "name": {
+        "vi": "Huyết Chi Hoa Hải",
+        "en": "Blood-soaked Flowers",
+        "zh": "血之花海"
+      },
+      "intro": {
+        "vi": "Ta muốn biến chiến trường này cũng trở thành biển hoa Bỉ Ngạn.",
+        "en": "I will turn this battlefield into a sea of Lycoris!",
+        "zh": "我要让这片战场也变成彼岸花的花海。"
+      },
+      "description": {
+        "vi": "Bỉ Ngạn Hoa triệu hồi từ Minh Giới 3 tầng biển hoa (HP thấp hơn 50% tăng thêm 3 tầng). \nHP thấp hơn 75% sẽ đính kèm Lá chắn bảo vệ cho bản thân, hấp thụ sát thương bằng [b2_伤害吸收_per] lượng HP đã mất của Bỉ Ngạn Hoa.",
+        "en": "Higanbana summons 3 layers of flowers from the Underworld and an extra 3 layer when her HP drops below 50%.\nShe casts a shield (absorbing damage equal to [b2_伤害吸收_per] of her lost HP) to protect herself when her HP drops below 75%.",
+        "zh": "彼岸花从冥界召唤来3层花海（生命低于50%额外再增加3层）。 \n生命低于75%的时候给自己附加守护护盾，吸收彼岸花已损生命[b2_伤害吸收_per]的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_6] tăng lên [b2_伤害吸收_per] HP đã mất",
+            "en": "Increases damage absorbed by [tips_6] to [b2_伤害吸收_per] of HP lost.",
+            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_6] tăng lên [b2_伤害吸收_per] HP đã mất",
+            "en": "Increases damage absorbed by [tips_6] to [b2_伤害吸收_per] of HP lost.",
+            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Cường hóa hiệu ứng Lá chắn: Lượng hấp thụ sát thương tăng lên [b2_伤害吸收_per] lượng HP đã mất của Bỉ Ngạn Hoa",
+            "en": "Shield effect enhancement: Increases the damage absorbed to [b2_伤害吸收_per] of Higanbana's lost HP.",
+            "zh": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_6] tăng lên [b2_伤害吸收_per] HP đã mất",
+            "en": "Increases damage absorbed by [tips_6] to [b2_伤害吸收_per] of HP lost.",
+            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_6] tăng lên [b2_伤害吸收_per] HP đã mất",
+            "en": "Increases damage absorbed by [tips_6] to [b2_伤害吸收_per] of HP lost.",
+            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Cường hóa hiệu ứng Lá chắn: Lượng hấp thụ sát thương tăng lên [b2_伤害吸收_per] lượng HP đã mất của Bỉ Ngạn Hoa",
+            "en": "Shield effect enhancement: Increases the damage absorbed to [b2_伤害吸收_per] of Higanbana's lost HP.",
+            "zh": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_6] tăng lên [b2_伤害吸收_per] HP đã mất",
+            "en": "Increases damage absorbed by [tips_6] to [b2_伤害吸收_per] of HP lost.",
+            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_6] tăng lên [b2_伤害吸收_per] HP đã mất",
+            "en": "Increases damage absorbed by [tips_6] to [b2_伤害吸收_per] of HP lost.",
+            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Cường hóa hiệu ứng Lá chắn: Lượng hấp thụ sát thương tăng lên [b2_伤害吸收_per] lượng HP đã mất của Bỉ Ngạn Hoa",
+            "en": "Shield effect enhancement: Increases the damage absorbed to [b2_伤害吸收_per] of Higanbana's lost HP.",
+            "zh": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]",
+            "en": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]",
+            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_6] tăng lên [b2_伤害吸收_per] HP đã mất",
+            "en": "Increases damage absorbed by [tips_6] to [b2_伤害吸收_per] of HP lost.",
+            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Cường hóa hiệu ứng Lá chắn: Lượng hấp thụ sát thương tăng lên [b2_伤害吸收_per] lượng HP đã mất của Bỉ Ngạn Hoa",
+            "en": "Shield effect enhancement: Increases the damage absorbed to [b2_伤害吸收_per] of Higanbana's lost HP.",
+            "zh": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "Cường hóa hiệu ứng Lá chắn: Lượng hấp thụ sát thương tăng lên [b2_伤害吸收_per] lượng HP đã mất của Bỉ Ngạn Hoa",
+            "en": "Shield effect enhancement: Increases the damage absorbed to [b2_伤害吸收_per] of Higanbana's lost HP.",
+            "zh": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 7,
+          "text": {
+            "vi": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]",
+            "en": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]",
+            "zh": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 8,
+          "text": {
+            "vi": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]",
+            "en": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]",
+            "zh": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 9,
+          "text": {
+            "vi": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]",
+            "en": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]",
+            "zh": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 10,
+          "text": {
+            "vi": "Cường hóa hiệu ứng Lá chắn: Lượng hấp thụ sát thương tăng lên [b2_伤害吸收_per] lượng HP đã mất của Bỉ Ngạn Hoa",
+            "en": "Shield effect enhancement: Increases the damage absorbed to [b2_伤害吸收_per] of Higanbana's lost HP.",
+            "zh": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 11,
+          "text": {
+            "vi": "Cường hóa hiệu ứng Lá chắn: Lượng hấp thụ sát thương tăng lên [b2_伤害吸收_per] lượng HP đã mất của Bỉ Ngạn Hoa",
+            "en": "Shield effect enhancement: Increases the damage absorbed to [b2_伤害吸收_per] of Higanbana's lost HP.",
+            "zh": "护盾效果强化：吸收伤害增至彼岸花已损生命的[b2_伤害吸收_per]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2883",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 7,
+          "awakeFilter": 2
+        },
+        {
+          "level": 8,
+          "awakeFilter": 2
+        },
+        {
+          "level": 9,
+          "awakeFilter": 2
+        },
+        {
+          "level": 10,
+          "awakeFilter": 2
+        },
+        {
+          "level": 11,
+          "awakeFilter": 2
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "bianhua",
+    "headKey": "h_bianhua",
+    "armature": "",
+    "artName": "txt_zhanshi_bianhua",
+    "skillIconKeys": [
+      "2881",
+      "2882",
+      "2883"
+    ]
+  },
+  "unresolvedTokens": [
+    "tips_6"
+  ]
+}

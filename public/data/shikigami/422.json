@@ -1,0 +1,220 @@
+{
+  "id": 422,
+  "name": {
+    "vi": "Yoto Hime Quác",
+    "en": "Yoto Hime Frog",
+    "zh": "妖刀姬呱"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2465,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 379,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4221,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quác · Bất Tường Chi Nhận",
+        "en": "Croak: Cursed Blade",
+        "zh": "呱·不祥之刃"
+      },
+      "intro": {
+        "vi": "Thanh đao này đang gọi ta.",
+        "en": "My blade craves blood!",
+        "zh": "这把刀，正在呼唤我。"
+      },
+      "description": {
+        "vi": "使用太刀攻击敌方目标，造成攻击120%伤害。",
+        "en": "使用太刀攻击敌方目标，造成攻击120%伤害。",
+        "zh": "使用太刀攻击敌方目标，造成攻击120%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4221",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 4222,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quác · Sát Lục",
+        "en": "Croak: Savage Combo",
+        "zh": "呱·杀戮"
+      },
+      "intro": {
+        "vi": "阻碍我的人，都必须……消灭。",
+        "en": "阻碍我的人，都必须……消灭。",
+        "zh": "阻碍我的人，都必须……消灭。"
+      },
+      "description": {
+        "vi": "攻击敌方目标6次，每次造成攻击14%伤害。",
+        "en": "攻击敌方目标6次，每次造成攻击14%伤害。",
+        "zh": "攻击敌方目标6次，每次造成攻击14%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至11%",
+            "en": "伤害增加至11%",
+            "zh": "伤害增加至11%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至12%",
+            "en": "伤害增加至12%",
+            "zh": "伤害增加至12%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至13%",
+            "en": "伤害增加至13%",
+            "zh": "伤害增加至13%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至14%",
+            "en": "伤害增加至14%",
+            "zh": "伤害增加至14%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "4222",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "longche_yaodaojiwa",
+    "headKey": "h_yaodaojigua",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4221",
+      "4222"
+    ]
+  },
+  "unresolvedTokens": []
+}

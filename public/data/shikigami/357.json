@@ -1,0 +1,302 @@
+{
+  "id": 357,
+  "name": {
+    "vi": "Sơ Vũ Sơn Phong",
+    "en": "Valiant Yamakaze",
+    "zh": "初翎山风"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 8, 43]",
+    "en": "[1, 8, 43]",
+    "zh": "[1, 8, 43]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2974,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 106,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "12%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3571,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tật",
+        "en": "Swift",
+        "zh": "疾"
+      },
+      "intro": {
+        "vi": "Đến chủ quan cũng chỉ có con đường chết.",
+        "en": "You don't stay alert, you die.",
+        "zh": "大意只有死路一条"
+      },
+      "description": {
+        "vi": "Nhanh chóng lao tới và tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương 50%.",
+        "en": "Charges at 1 enemy and launches a 2-strike attack, dealing damage equal to 50% of his ATK with each strike.",
+        "zh": "迅速前冲并攻击敌方目标2次，每次造成攻击50%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至42%",
+            "en": "伤害增加至42%",
+            "zh": "伤害增加至42%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至44%",
+            "en": "伤害增加至44%",
+            "zh": "伤害增加至44%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至46%",
+            "en": "伤害增加至46%",
+            "zh": "伤害增加至46%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至50%",
+            "en": "伤害增加至50%",
+            "zh": "伤害增加至50%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3571",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3572,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lệnh",
+        "en": "Command",
+        "zh": "令"
+      },
+      "intro": {
+        "vi": "Con mồi? Đã sớm bị nhắm trúng rồi.",
+        "en": "Prey, I've got my eye on you.",
+        "zh": "猎物？早已经被盯上了。"
+      },
+      "description": {
+        "vi": "[tips_11].\nSau khi bắt đầu chiến đấu, cứ mỗi 1 điểm hành động Tấn Phong nhận được sẽ giúp Sơ Vũ Sơn Phong tăng 1% thanh hành động; khi [tips_3] biến mất, đồng thời đang ở trạng thái [tips_27], tăng 30% thanh hành động, lúc này [tips_3572] tiêu hao tất cả điểm hành động (tối đa không vượt quá 60 điểm) và tăng thanh hành động bằng lượng tiêu hao ×1%; khi Sơ Vũ Sơn Phong gây sát thương, cứ mỗi 1% tỷ lệ HP kẻ địch mất đi, sát thương lần đó tăng 0.5%.",
+        "en": "[tips_11].\nAfter the start of the battle, each time Briskey gains 1 MP, raises Valiant Yamakaze's Move Bar by 1%. When a [tips_3] on Valiant Yamakaze expires, if he's under [tips_27], raises his Move Bar by 30%. Then [tips_3572] consumes all MP (limited to 60) to raise Valiant Yamakaze's Move Bar by 1% for each MP consumed. When Valiant Yamakaze deals damage, inflicts an extra 0.5% damage for each 1% HP the enemy has lost.",
+        "zh": "[tips_11]。\n战斗开始后，迅风每获得1点行动值初翎山风增加1%行动条；[tips_3]消失时，且处于[tips_27]，增加30%行动条，此时[tips_3572]消耗所有行动值（最高不超过60点）并增加消耗量×1%的行动条；初翎山风造成伤害时，敌方每损失1%生命比例，则该次伤害增加0.5%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Giảm 50% sát thương diện rộng mà bản thân nhận phải.",
+            "en": "Reduces his AoE damage taken by 50%.",
+            "zh": "自身受到的群体伤害降低50%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trước khi bắt đầu lượt, cứ mỗi 1 điểm hành động của Tấn Phong, khi gây sát thương sẽ tăng 1% sát thương bạo kích.",
+            "en": "At the start of Valiant Yamakaze's turn, each 1 MP Briskey has amplifies his Crit DMG by 1% when he deals damage.",
+            "zh": "回合开始前，迅风每有1点行动值，在造成伤害时，提升暴击伤害的1%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Toàn thể đồng minh cứ chịu 1 lần sát thương bạo kích từ kẻ địch, bản thân tăng 10% thanh hành động ((tối đa kích hoạt 1 lần trong một lần tấn công)).",
+            "en": "For all allies, each time they take critical damage, raises his own Move Bar by 10%((triggers up to once for a single attack)).",
+            "zh": "全体友方每受到敌方1次暴击伤害，自身增加10%行动条 (（单次攻击内最多触发1次）)"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tấn Phong nhận 20 điểm hành động khi bắt đầu chiến đấu.",
+            "en": "At the start of battle, Briskey gains 20 MP.",
+            "zh": "战斗开始时迅风获得20点行动值"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3572",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3573,
+      "maxLevel": 5,
+      "name": {
+        "vi": "[Tông]",
+        "en": "Storm",
+        "zh": "岚"
+      },
+      "intro": {
+        "vi": "Gió đã ngừng, hãy cùng khô héo với những chiếc lá rơi đi.",
+        "en": "Rots with the fallen leaves now that the wind has stopped.",
+        "zh": "风停了，和落叶一同枯萎吧。"
+      },
+      "description": {
+        "vi": "Cùng ngọn lửa do cuồng phong cuốn lên lao về phía kẻ địch, vung song đao tấn công mục tiêu kẻ địch 4 lần, mỗi lần gây sát thương 75%.",
+        "en": "Rushes towards 1 enemy with a vortex of fire and slashes them 4 times, dealing damage equal to 75% of his ATK each time.",
+        "zh": "伴着狂风卷起的火焰冲向敌人，挥舞双刀对敌方目标攻击4次，每次造成攻击75%伤害"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至66%",
+            "en": "伤害增加至66%",
+            "zh": "伤害增加至66%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至69%",
+            "en": "伤害增加至69%",
+            "zh": "伤害增加至69%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至72%",
+            "en": "伤害增加至72%",
+            "zh": "伤害增加至72%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至75%",
+            "en": "伤害增加至75%",
+            "zh": "伤害增加至75%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3573",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_shanfeng",
+    "headKey": "h_spshanfeng",
+    "armature": [
+      "spshanfeng_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spshanfeng",
+    "skillIconKeys": [
+      "3571",
+      "3572",
+      "3573"
+    ]
+  },
+  "unresolvedTokens": []
+}

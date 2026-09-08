@@ -1,0 +1,302 @@
+{
+  "id": 598,
+  "name": {
+    "vi": "Chước Hoa Đào Yêu",
+    "en": "Everadiant Momo",
+    "zh": "灼华桃花妖"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[12, 10, 13]",
+    "en": "[12, 10, 13]",
+    "zh": "[12, 10, 13]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2144,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12531,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 485,
+      "grade": "S"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 110,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5981,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồi Xuân Vũ",
+        "en": "Spring Dance",
+        "zh": "回春舞"
+      },
+      "intro": {
+        "vi": "Nơi nào có ta, nơi đó chính là mùa xuân.",
+        "en": "Where I am, there is spring.",
+        "zh": "我在哪里，春天就在哪里。"
+      },
+      "description": {
+        "vi": "Phóng ra cành hoa đào tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Sends out a peach blossom branch to attack 1 enemy, dealing damage equal to 125% of ATK.",
+        "zh": "飞出桃花枝攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%.",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Increases damage to 125%.",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5981",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5982,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Huề Phương Ý",
+        "en": "Fragrant Greeting",
+        "zh": "携芳意"
+      },
+      "intro": {
+        "vi": "Đã nghe thấy chưa? Tin tức hoa nở.",
+        "en": "Do you hear it? The whisper of blooming flowers.",
+        "zh": "听到了吗？花开的讯息。"
+      },
+      "description": {
+        "vi": "[tips_11]. Trị liệu cho mục tiêu phe ta lượng HP bằng 15% HP tối đa và đính kèm [buff_5981_1]; khi trị liệu Bạo kích, trị liệu thêm cho 1 đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất. Khi trên sân phe ta có mục tiêu mang [buff_5981_1], bản thân khi chịu sát thương chí mạng sẽ miễn nhiễm và xóa bỏ tất cả [buff_5981_1]; khi [buff_5981_1] bị xóa bỏ, tăng 30% Thanh Hành Động cho bản thân. [tips_7]: Đính kèm [buff_5981_1] cho đồng minh có HP thấp nhất.",
+        "en": "[tips_11]. Heals an allied target for 15% of max HP and grants [buff_5981_1]; if the healing lands a critical hit, additionally heals 1 non-summoned entity ally with the lowest HP percentage. If an ally with [buff_5981_1] is on the field when Everadiant Momo takes lethal damage, she becomes immune to that damage and removes all [buff_5981_1]; when [buff_5981_1] is removed, raises her Move Bar by 30%. [tips_7]: Grants [buff_5981_1] to the ally with the lowest HP.",
+        "zh": "[tips_11]。为友方目标治疗生命上限15%的生命并施加[buff_5981_1]；治疗暴击时，额外治疗1个生命比例最低的非召唤物友方。友方场上有携带[buff_5981_1]的目标时，自身受到致命伤害时免疫并移除所有[buff_5981_1]；[buff_5981_1]被移除时，提升自身30%行动条。[tips_7]：为生命最低的友方施加[buff_5981_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi [buff_5981_1] bị xóa bỏ, tăng 30% Thanh Hành Động cho bản thân",
+            "en": "When [buff_5981_1] is removed, raises her Move Bar by 30%.",
+            "zh": "[buff_5981_1]被移除时，提升自身30%行动条"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi trên sân phe ta có mục tiêu mang [buff_5981_1], bản thân khi chịu sát thương chí mạng sẽ miễn nhiễm và xóa bỏ tất cả [buff_5981_1]",
+            "en": "If an ally with [buff_5981_1] is on the field when Everadiant Momo takes lethal damage, she becomes immune to that damage and removes all [buff_5981_1].",
+            "zh": "友方场上有携带[buff_5981_1]的目标时，自身受到致命伤害时免疫并移除所有[buff_5981_1]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi trị liệu Bạo kích, trị liệu thêm cho 1 đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất",
+            "en": "If the healing lands a critical hit, additionally heals 1 non-summoned entity ally with the lowest HP percentage.",
+            "zh": "治疗暴击时，额外治疗1个生命比例最低的非召唤物友方"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Đính kèm [buff_5981_1] cho đồng minh có HP thấp nhất",
+            "en": "[tips_7]: Grants [buff_5981_1] to the ally with the lowest HP.",
+            "zh": "[tips_7]：为生命最低的友方施加[buff_5981_1]"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5982",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5983,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tỉnh Thời Hoa",
+        "en": "Wakebloom",
+        "zh": "醒时花"
+      },
+      "intro": {
+        "vi": "Tỉnh giấc trong mùa xuân nào...",
+        "en": "Awaken in the midst of spring...",
+        "zh": "在春天之中醒来吧……"
+      },
+      "description": {
+        "vi": "[tips_11]. Khi Bạo kích ban đầu của bản thân đạt 100%, sát thương gánh chịu giảm 35%; khi đồng minh được hồi sinh, trị liệu cho kẻ đó lượng HP bằng 10% HP tối đa của Chước Hoa Đào Yêu và giúp kẻ đó nhận [buff_5982_1], duy trì 3 lượt.\n【Thi triển】 Hồi sinh mục tiêu phe ta và đính kèm [buff_5981_1] đồng thời tăng 50% Thanh Hành Động cho kẻ đó. Sau khi lượt của kẻ địch kết thúc, nếu mục tiêu phe ta bị hạ gục, thi triển miễn phí (trong 1 trận chiến kích hoạt tối đa 3 lần)",
+        "en": "[tips_11]. When self's initial Crit reaches 100%, damage taken is reduced by 35%; when an ally is revived, heals them by 10% of Everadiant Momo's max HP and grants them [buff_5982_1] for 3 turns.\nActive skill: Revives an ally and grants [buff_5981_1] to them, and raises their Move Bar by 50%. After an enemy action ends, if an ally is KO'd, casts the skill without cost (triggers up to 3 times per battle).",
+        "zh": "[tips_11]。自身初始暴击达到100%时，受到的伤害降低35%；友方被复活时，为其治疗灼华桃花妖生命上限10%的生命并使其获得[buff_5982_1]，持续3回合。\n【施放】复活友方目标并为其施加[buff_5981_1]且提升其50%行动条。敌方行动结束后，若友方目标被击败，无消耗施放（单次战斗至多触发3次 ）"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi mục tiêu phe ta được hồi sinh, trị liệu cho kẻ đó lượng HP bằng 10% HP tối đa của Chước Hoa Đào Yêu",
+            "en": "When an ally is revived, heals them by 10% of Everadiant Momo's max HP.",
+            "zh": "友方目标被复活时，为其治疗灼华桃花妖生命上限10%的生命"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng minh được hồi sinh bởi 『Tỉnh Thời Hoa』 được tăng 50% Thanh Hành Động",
+            "en": "Allied target revived by Wakebloom gains 50% Move Bar raise.",
+            "zh": "被『醒时花』复活的友方提升50%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Số lượt duy trì [buff_5982_1] tăng lên 3 lượt",
+            "en": "Increases [buff_5982_1] duration to 3 turns.",
+            "zh": "[buff_5982_1]持续回合增至3回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi lượt của kẻ địch kết thúc, nếu mục tiêu phe ta bị hạ gục, thi triển miễn phí (trong 1 trận chiến kích hoạt tối đa 3 lần)",
+            "en": "After an enemy action ends, if an ally is KO'd, casts the skill without cost (triggers up to 3 times per battle).",
+            "zh": "敌方行动结束后，若友方目标被击败，无消耗施放（单次战斗至多触发3次 ）"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5983",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_taohuayao",
+    "headKey": "h_sp_taohuayao",
+    "armature": [
+      "common_card_skin/2601_sp_thy_card_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_sptaohuayao",
+    "skillIconKeys": [
+      "5981",
+      "5982",
+      "5983"
+    ]
+  },
+  "unresolvedTokens": []
+}

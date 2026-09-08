@@ -1,0 +1,220 @@
+{
+  "id": 241,
+  "name": {
+    "vi": "Hồ Điệp Tinh",
+    "en": "Chocho",
+    "zh": "蝴蝶精"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[10, 8, 21]",
+    "en": "[10, 8, 21]",
+    "zh": "[10, 8, 21]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2197,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10822,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 410,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2411,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hương Khí Táp Nhân",
+        "en": "Butterfly Strike",
+        "zh": "香气袭人"
+      },
+      "intro": {
+        "vi": "Đây là hương thơm của rất nhiều loại hoa đó nhé~",
+        "en": "Just because it smells nice, doesn't mean it is nice.",
+        "zh": "这是很多种花的香味哦~"
+      },
+      "description": {
+        "vi": "Vỗ cánh thổi phấn hoa có thể làm rối loạn tâm trí người khác vào mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Flaps her wings to waft destructive pollen at 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "扇动翅膀将能乱人心神的花粉吹向敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2411",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2413,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kỳ Nguyện Chi Vũ",
+        "en": "Dance of Hope",
+        "zh": "祈愿之舞"
+      },
+      "intro": {
+        "vi": "Điệu nhảy trị trịu~",
+        "en": "A good dance cures everything!",
+        "zh": "治愈之舞~"
+      },
+      "description": {
+        "vi": "Giải trừ 3 trạng thái tiêu cực hoặc [tips_3] cho mục tiêu phe ta, và trị liệu lượng HP bằng 36% giới hạn HP, nếu trị liệu dư thừa, nhận 1 Lá chắn có thể hấp thụ lượng HP bằng 5% giới hạn HP của Hồ Điệp Tinh, duy trì 2 lượt; sau đó đính kèm [buff_2414_1] cho mục tiêu, duy trì 3 lượt.",
+        "en": "Dispels 3 debuffs and/or [tips_3]s on 1 ally, and restores their HP by 36% of her max HP. If there is excess HP after they are fully healed, a shield is created to protect them. The shield absorbs damage equal to 5% of Chocho's max HP and lasts 2 turns. After this, the ally gains [buff_2414_1] for 3 turns.",
+        "zh": "为友方目标驱散3个减益状态或[tips_3]，并治疗生命上限36%的生命，若治疗溢出，则获得1个能够吸收蝴蝶精生命上限5%的护盾，持续2回合；之后为其施加[buff_2414_1]，持续3回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu tăng lên 31%, sau khi chịu sát thương trị liệu tăng lên 9%",
+            "en": "Healing is increased to 31%, and healing after taking damage is increased to 9%.",
+            "zh": "治疗增至31%，受到伤害后治疗增至9%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trị liệu tăng lên 33%, sau khi chịu sát thương trị liệu tăng lên 10%",
+            "en": "Healing is increased to 33%, and healing after taking damage is increased to 10%.",
+            "zh": "治疗增至33%，受到伤害后治疗增至10%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trị liệu tăng lên 34%, sau khi chịu sát thương trị liệu tăng lên 11%",
+            "en": "Healing is increased to 34%, and healing after taking damage is increased to 11%.",
+            "zh": "治疗增至34%，受到伤害后治疗增至11%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Trị liệu tăng lên 36%, sau khi chịu sát thương trị liệu tăng lên 12%",
+            "en": "Healing is increased to 36%, and healing after taking damage is increased to 12%.",
+            "zh": "治疗增至36%，受到伤害后治疗增至12%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2413",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "hudiejing",
+    "headKey": "h_hudiejing",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2411",
+      "2413"
+    ]
+  },
+  "unresolvedTokens": []
+}

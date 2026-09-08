@@ -1,0 +1,402 @@
+{
+  "id": 296,
+  "name": {
+    "vi": "Yamausagi",
+    "en": "Yamakaze",
+    "zh": "山风"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3081,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "1%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2961,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong",
+        "en": "Wind",
+        "zh": "风"
+      },
+      "intro": {
+        "vi": "Máu trên dao chính là bằng chứng cho thực lực của ta.",
+        "en": "The blood on my blade is the proof of my power.",
+        "zh": "刀上的血，就是我实力的证据。"
+      },
+      "description": {
+        "vi": "Nhanh chóng lao tới và tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây 76% sát thương. Khi máu của mục tiêu thấp hơn 35%, chắc chắn bạo kích.",
+        "en": "Charges at 1 enemy and launches a 2-strike attack, dealing damage equal to 76% of his ATK with each strike. The strikes are guaranteed to land critical hits if the HP of the target is below 35%.",
+        "zh": "迅速前冲并攻击敌方目标2次，每次造成攻击76%伤害。当目标血量低于35%时，必定暴击。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至80%",
+            "en": "伤害增加至80%",
+            "zh": "伤害增加至80%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至84%",
+            "en": "伤害增加至84%",
+            "zh": "伤害增加至84%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至87%",
+            "en": "伤害增加至87%",
+            "zh": "伤害增加至87%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至95%",
+            "en": "伤害增加至95%",
+            "zh": "伤害增加至95%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2961",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2962,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Liệt",
+        "en": "Violent",
+        "zh": "烈"
+      },
+      "intro": {
+        "vi": "Ta chính là vương của khu rừng.",
+        "en": "I am the king of the forest.",
+        "zh": "我就是森林之王。"
+      },
+      "description": {
+        "vi": "Khi gây sát thương, tỷ lệ HP của mục tiêu càng thấp thì sát thương gây ra càng cao.",
+        "en": "When damage is dealt, the lower the target's HP percentage, the greater the damage.",
+        "zh": "造成伤害时，目标的生命值比例越低造成的伤害越高"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công tăng đến 15%.",
+            "en": "Increases the ATK boost effect to 15%.",
+            "zh": "增加攻击效果提升至15%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công tăng đến 20%.",
+            "en": "Increases the ATK boost effect to 20%.",
+            "zh": "增加攻击效果提升至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công tăng đến 25%.",
+            "en": "Increases the ATK boost effect to 25%.",
+            "zh": "增加攻击效果提升至25%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu tỷ lệ HP của bất kỳ kẻ địch nào thấp hơn 35%, hiệu quả tăng thanh hành động tăng đến 70%.",
+            "en": "If any enemy's HP is below 35%, the Move Bar-raising effect is increased to 70%.",
+            "zh": "若任一敌方生命比例低于35%，则增加行动条效果增至70%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu tỷ lệ HP của bất kỳ kẻ địch nào thấp hơn 35%, hiệu quả tăng thanh hành động tăng đến 70%.",
+            "en": "If any enemy's HP is below 35%, the Move Bar-raising effect is increased to 70%.",
+            "zh": "若任一敌方生命比例低于35%，则增加行动条效果增至70%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu tỷ lệ HP hiện tại của bất kỳ đơn vị kẻ địch nào thấp hơn 35%, tăng thêm 35% thanh hành động.",
+            "en": "Raises Move Bar by an extra 35% if an enemy's current HP is below 35%.",
+            "zh": "若任意敌方单位当前生命比例低于35%，则额外增加35%行动条"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2962",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2963,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trảm",
+        "en": "Slash",
+        "zh": "斩"
+      },
+      "intro": {
+        "vi": "Cuối cùng cũng đến lúc báo thù rồi!",
+        "en": "Finally, time for vengeance!",
+        "zh": "终于到了复仇之时！"
+      },
+      "description": {
+        "vi": "Bộc phát toàn thân sức mạnh tấn công mục tiêu kẻ địch, tiếp theo lại tấn công một mục tiêu kẻ địch khác có tỷ lệ HP thấp nhất, đều gây sát thương 152% và chắc chắn bạo kích, đồng thời đính kèm [buff_2963_1], gây lượng [tips_5] bằng HP hiện tại của kẻ địch [b_参数p1_per] + tấn công [b_参数p2_per] (không vượt quá [b_参数p3_per] tấn công của bản thân), duy trì 1 lượt. Sau khi [buff_2963_1] biến mất, đính kèm 100% cấm trị liệu, duy trì 1 lượt.",
+        "en": "Channels all of his power to attack 1 enemy before he attacks the enemy with the proportionally lowest HP, dealing damage equal to 152% of his ATK on each hit and inflicting [buff_2963_1] (dealing [tips_5] equal to [b_参数p1_per] of their current HP + [b_参数p2_per] of Yamakaze's ATK (max at [b_参数p3_per] of Yamakaze's ATK)) lasting 1 turn(s) on the targets. Both attacks are guaranteed to land critical hits. When [buff_2963_1] is lifted, inflicts a 100% Heal Down lasting 1 turn on them.",
+        "zh": "爆发全身力量攻击敌方目标，接着再攻击另一名生命比例最低的敌方目标，均造成攻击152%伤害且必定暴击，并附加[buff_2963_1]，造成敌方当前生命值[b_参数p1_per]+攻击[b_参数p2_per][tips_5]（不超过自身攻击[b_参数p3_per]），持续1回合。[buff_2963_1]消失后，附加减疗100%，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至139%",
+            "en": "伤害增加至139%",
+            "zh": "伤害增加至139%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至145%",
+            "en": "伤害增加至145%",
+            "zh": "伤害增加至145%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至152%",
+            "en": "伤害增加至152%",
+            "zh": "伤害增加至152%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi [buff_2963_1] biến mất, đính kèm 100% cấm trị liệu, duy trì 1 lượt.",
+            "en": "Inflicts a 100% Heal Down lasting 1 turn when [buff_2963_1] is lifted.",
+            "zh": "[buff_2963_1]消失后，附加减疗100%，持续1回合"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2963",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "shanfeng",
+    "headKey": "h_shanfeng",
+    "armature": "",
+    "artName": "txt_zhanshi_shanfeng",
+    "skillIconKeys": [
+      "2961",
+      "2962",
+      "2963"
+    ]
+  },
+  "unresolvedTokens": []
+}

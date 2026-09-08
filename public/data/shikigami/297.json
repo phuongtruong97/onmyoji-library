@@ -1,0 +1,274 @@
+{
+  "id": 297,
+  "name": {
+    "vi": "Nhật Hòa Phường",
+    "en": "Hiyoribo",
+    "zh": "日和坊"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[13, 10]",
+    "en": "[13, 10]",
+    "zh": "[13, 10]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2144,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12759,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 357,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 102,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2971,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Dương Viêm",
+        "en": "Blazing Sun",
+        "zh": "阳炎"
+      },
+      "intro": {
+        "vi": "Cẩn thận kẻo bị ánh nắng làm bỏng nhé~",
+        "en": "Don't you know not to stare directly into the sun?",
+        "zh": "小心不要被阳光灼伤喔~"
+      },
+      "description": {
+        "vi": "Ngưng tụ năng lượng ánh nắng rải về phía mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Focuses the energy of the sun and casts it onto 1 target, dealing damage equal to 125% of her ATK.",
+        "zh": "将日光的能量凝聚洒向敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2971",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2972,
+      "maxLevel": 3,
+      "name": {
+        "vi": "Tình Vũ",
+        "en": "Sunshine and Rain",
+        "zh": "晴雨"
+      },
+      "intro": {
+        "vi": "Cố lên nào, mọi người~",
+        "en": "Keep it up, everyone!",
+        "zh": "加油啊，大家~"
+      },
+      "description": {
+        "vi": "Búp bê cầu nắng sao lại ngủ gật rồi?",
+        "en": "Why is my Sunshine Doll asleep?",
+        "zh": "晴天娃娃怎么睡着了？"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Kỹ năng này không thể nâng cấp",
+            "en": "This skill cannot be leveled up.",
+            "zh": "该技能无法升级"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "2972",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2973,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tư Dưỡng",
+        "en": "Nourishment",
+        "zh": "滋养"
+      },
+      "intro": {
+        "vi": "Tuyệt đối, tuyệt đối không được bỏ cuộc!",
+        "en": "Don't ever give up!",
+        "zh": "绝对，绝对不可以放弃！"
+      },
+      "description": {
+        "vi": "Khi đồng minh tử trận, nếu kỹ năng nội tại của bản thân chưa bị mất hiệu lực, hy sinh Búp Bê Nắng để hồi sinh ngẫu nhiên 1 Thức Thần phe ta đã tử trận, trị liệu lượng HP bằng 100% HP tối đa cho kẻ đó, và chia đều 100% Năng Lượng Ánh Nắng để trị liệu cho toàn bộ phe ta không phải vật triệu hồi. Búp Bê Nắng sẽ hồi sinh sau 3 lượt, khi có nhiều Nhật Hòa Phường trên sân, sẽ hy sinh toàn bộ Búp Bê Nắng.\n【Thi triển】 Khi Búp Bê Nắng tồn tại, tích trữ Năng Lượng Ánh Nắng bằng 40% HP tối đa của bản thân; khi Búp Bê Nắng hy sinh, khiến số lượt hồi sinh của nó giảm 1.",
+        "en": "When an ally is KO'd, if Hiyoribou's passive skill is not disabled, she sacrifices her Sunshine Doll to randomly revive a KO'd allied shikigami, restoring their HP by 100% of their max HP. Also spends 100% of the sunshine energy stored to heal all non-summoned entity allies by a shared amount. Sunshine Doll revives in 3 turns. If multiple Hiyoribou are present, all of their Sunshine Dolls will be sacrificed.\nUsing the skill when her Sunshine Doll is present stores sunshine energy equal to 40% of her max HP. When her Sunshine Doll is sacrificed, its revival cool-down is reduced by 1 turn.",
+        "zh": "友方阵亡时，若自身被动技能未失效，牺牲晴天娃娃来复活随机1名阵亡的友方式神，为其治疗生命上限100%的生命，并将100%日光能量均分治疗非召唤物的友方全体。晴天娃娃在3回合后重生，多个日和坊在场时，将牺牲所有晴天娃娃。\n【施放】晴天娃娃存在时，存储等同自身生命上限40%的日光能量；晴天娃娃牺牲时，使其重生回合数减1。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu chia đều tăng lên 75% năng lượng ánh nắng",
+            "en": "Increases the shared sunshine energy for healing to 75%.",
+            "zh": "均分治疗增至75%日光能量"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Năng lượng ánh nắng tích trữ khi thi triển tăng lên 40%",
+            "en": "When using this skill, increases the sunshine energy stored to 40%.",
+            "zh": "施放时存储的日光能量增至40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trị liệu chia đều tăng lên 100% năng lượng ánh nắng",
+            "en": "Increases the shared sunshine energy for healing to 100%.",
+            "zh": "均分治疗增至100%日光能量"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Số lượt hồi sinh búp bê cầu nắng giảm 1",
+            "en": "Reduces Sunshine Doll's revival cooldown by 1 turn.",
+            "zh": "晴天娃娃重生回合数减1"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2973",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "rihefang",
+    "headKey": "h_rihefang",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2971",
+      "2972",
+      "2973"
+    ]
+  },
+  "unresolvedTokens": []
+}

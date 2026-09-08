@@ -1,0 +1,302 @@
+{
+  "id": 358,
+  "name": {
+    "vi": "Dạ Mịch Bỉ Ngạn Hoa",
+    "en": "Nightveil Higanbana",
+    "zh": "夜溟彼岸花"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 47, 46]",
+    "en": "[1, 47, 46]",
+    "zh": "[1, 47, 46]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3350,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10822,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3581,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lạc Mịch",
+        "en": "Fallen Flower",
+        "zh": "落溟"
+      },
+      "intro": {
+        "vi": "Trồng đóa hoa màu đỏ thắm này vào sâu trong linh hồn ngươi đi.",
+        "en": "May this crimson flower bloom in your soul's deepest place.",
+        "zh": "在你的灵魂深处种下这株赤色之花吧。"
+      },
+      "description": {
+        "vi": "Ném ra một đóa Bỉ Ngạn Hoa, gây cho mục tiêu sát thương bằng 125% Tấn công.",
+        "en": "Casts a red spider lily at 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "掷出一株彼岸花，对目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3581",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3582,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Xích Sắc Điêu Linh",
+        "en": "Withering Blooms",
+        "zh": "赤色凋零"
+      },
+      "intro": {
+        "vi": "Vô số lần tàn lụi, sẽ mang lại sự nở rộ rực rỡ hơn.",
+        "en": "Continuous withering brings ever more beautiful blooms.",
+        "zh": "无数次的凋零，会带来更美丽的盛放。"
+      },
+      "description": {
+        "vi": "[tips_11].\n[tips_21] 40% HP hiện tại của bản thân, rải 6 [buff_3582_1] về phía phe địch, ưu tiên chọn mục tiêu mang ít [buff_3582_1], bản thân tiến vào [tips_35831]. Khi lượt bắt đầu, nếu đang ở [tips_35831], thu hồi tất cả [buff_3582_1] và nhận [buff_3581_1] số lượng tương đương, tối đa nhận 3 tầng, sau đó rời khỏi [tips_35831].\nKhi mang [buff_3581_1] không thể thi triển.",
+        "en": "[tips_11].\n[tips_21]s 40% of her current HP to cast 6 [buff_3582_1]s at all enemies, prioritizing targets with fewer [buff_3582_1]s. Then she becomes [tips_35831]. At the start of her turn, if she's [tips_35831], she collects all the [buff_3582_1]s (maxed at 3 stacks collected) and gains an equal amount of [buff_3581_1]s. Then she leaves [tips_35831].\nCannot use the skill if she has [buff_3581_1].",
+        "zh": "[tips_11]。\n[tips_21]自身当前40%生命，向敌方撒出6个[buff_3582_1]，优先选择携带[buff_3582_1]较少的目标，自身进入[tips_35831]。回合开始时，若处于[tips_35831]，回收所有[buff_3582_1]并获得等量[buff_3581_1]，最多获得3层，然后离开[tips_35831]。\n携带[buff_3581_1]时无法施放。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi khi rời khỏi giấc ngủ chìm, tăng vĩnh viễn 10% Tấn công, giới hạn 3 tầng",
+            "en": "Whenever she leaves Dormant, permanently increases her ATK by 10%, up to 3 stacks.",
+            "zh": "每次离开沉眠后，永久增加10%攻击，上限3层"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "『Hoa Tẫn』 tiêu hao Quỷ Hỏa tăng 1 điểm",
+            "en": "Increases Root Out's orb cost by 1.",
+            "zh": "『花烬』消耗鬼火增加1点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Mỗi khi rời khỏi giấc ngủ chìm, giới hạn tầng Minh Hoa nhận được từ việc thu hồi Minh Chủng tăng thêm 1 tầng",
+            "en": "Whenever she leaves Dormant, the maximum stacks of nether flowers converted from nether seeds increases by 1.",
+            "zh": "每次离开沉眠后，由回收溟种获得的溟花的上限增加1层"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: Thi triển 『Xích Sắc Điêu Linh』",
+            "en": "Upper Hand: Uses Withering Blooms.",
+            "zh": "先机：施放『赤色凋零』"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3583",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3583,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cực Tận Hoàng Tuyền",
+        "en": "Doom to Underworld",
+        "zh": "殛尽黄泉"
+      },
+      "intro": {
+        "vi": "Hoa chấp niệm nở rộ, chính là lúc hạ màn.",
+        "en": "When the flower of obsession blooms, the curtain falls.",
+        "zh": "执念之花绽放，便是落幕之时。"
+      },
+      "description": {
+        "vi": "Điều khiển Hoang Khô Lâu vung thái đao, gây cho toàn bộ phe địch sát thương bằng 140%, đồng thời giảm 30% tổng Tấn công, tăng 50 điểm Tốc độ cho bản thân, duy trì 1 lượt.",
+        "en": "Orders Odokuro to wield his blade and attack all enemies, dealing damage equal to 140% of her ATK. Also reduces the overall ATK of all enemies by 30% for 1 turn. Also increases her SPD by 50 for 1 turn.",
+        "zh": "驱使荒骷髅挥舞太刀，对敌方全体造成攻击140%伤害，并降低30%总攻击，增加自身50点速度，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 110%, giảm tổng Tấn công nâng lên 20%",
+            "en": "Increases damage to 110% and reduces the overall ATK of enemies by 20%.",
+            "zh": "伤害增加至110%，降低总攻击增至20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 125%, giảm tổng Tấn công nâng lên 25%",
+            "en": "Increases damage to 125% and reduces the overall ATK of enemies by 25%.",
+            "zh": "伤害增加至125%，降低总攻击增至25%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 140%, giảm tổng Tấn công nâng lên 30%",
+            "en": "Increases damage to 140% and reduces the overall ATK of enemies by 30%.",
+            "zh": "伤害增加至140%，降低总攻击增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi thi triển tăng 50 điểm Tốc độ cho bản thân, duy trì 1 lượt",
+            "en": "Increases her SPD by 50 for 1 turn after using the skill.",
+            "zh": "施放后增加自身50点速度，持续1回合"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3584",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_bianhua",
+    "headKey": "h_spbianhua",
+    "armature": [
+      "spbianhua_ani",
+      0,
+      1
+    ],
+    "artName": "txt_zhanshi_sp_bianhua",
+    "skillIconKeys": [
+      "3581",
+      "3583",
+      "3584"
+    ]
+  },
+  "unresolvedTokens": []
+}

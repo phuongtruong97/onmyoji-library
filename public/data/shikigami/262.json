@@ -1,0 +1,249 @@
+{
+  "id": 262,
+  "name": {
+    "vi": "Cô Hạc",
+    "en": "Ubume",
+    "zh": "姑获鸟"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 29]",
+    "en": "[1, 29]",
+    "zh": "[1, 29]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2814,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9683,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 103,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "50%",
+      "grade": "SS"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "120%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2621,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ô Kiếm",
+        "en": "Umbrella Sword",
+        "zh": "伞剑"
+      },
+      "intro": {
+        "vi": "伞，就是吾之剑！",
+        "en": "伞，就是吾之剑！",
+        "zh": "伞，就是吾之剑！"
+      },
+      "description": {
+        "vi": "Dùng tốc độ không thể nắm bắt bằng mắt thường để nhanh chóng rút chiếc ô giấu bên hông chém vào mục tiêu kẻ địch, gây sát thương 96% đồng thời bỏ qua 20% phòng thủ.",
+        "en": "Faster than the eye can see she pulls out her umbrella and strikes 1 enemy, dealing damage equal to 96% of her ATK. Ignores 20% of their DEF.",
+        "zh": "以肉眼无法捕捉的速度迅速拔出藏在腰间的伞挥砍敌方目标，造成攻击96%伤害并无视20%防御。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至84%",
+            "en": "伤害增加至84%",
+            "zh": "伤害增加至84%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至88%",
+            "en": "伤害增加至88%",
+            "zh": "伤害增加至88%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至92%",
+            "en": "伤害增加至92%",
+            "zh": "伤害增加至92%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至96%",
+            "en": "伤害增加至96%",
+            "zh": "伤害增加至96%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2621",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2622,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Hiệp chiến",
+        "en": "Co-op",
+        "zh": "协战"
+      },
+      "intro": {
+        "vi": "Để hạ thần góp chút sức mọn!",
+        "en": "It feels like rain! Let me lend you my umbrella...",
+        "zh": "就让在下略尽绵力！"
+      },
+      "description": {
+        "vi": "Xác suất 30% [tips_9].\nNếu tổng tấn công của bản thân là cao nhất trong số các đơn vị đồng minh không phải vật triệu hồi, bản thân nhận [buff_2622_1].\nTrận chiến mà Cô Hạc xuất chiến và giành chiến thắng, phần thưởng kinh nghiệm nhận được tăng 9%.",
+        "en": "30% chance [tips_9].\nIf the user's total ATK is the highest among non-summoned allies, gains [buff_2622_1].\nWhen Ubume is deployed and wins a battle, EXP awarded increases by 9%.",
+        "zh": "30%概率[tips_9]。\n若自身总攻击是友方非召唤物单位中最高时，自身获得[buff_2622_1]。\n姑获鸟出战并获得胜利的战斗，获得的经验奖励提升9%。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "2622",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2623,
+      "maxLevel": 5,
+      "name": {
+        "vi": "天翔鹤斩",
+        "en": "天翔鹤斩",
+        "zh": "天翔鹤斩"
+      },
+      "intro": {
+        "vi": "以伞为剑，翔于天际，降之天罚，疏而不漏！",
+        "en": "以伞为剑，翔于天际，降之天罚，疏而不漏！",
+        "zh": "以伞为剑，翔于天际，降之天罚，疏而不漏！"
+      },
+      "description": {
+        "vi": "Dùng ô làm kiếm, vung kiếm khí sắc bén tấn công toàn thể kẻ địch 3 lần, mỗi lần gây sát thương 41%, cuối cùng chém mục tiêu kẻ địch gây sát thương 108%. Nếu tỷ lệ HP của mục tiêu thấp hơn 60% hoặc là mục tiêu cuối cùng, sát thương chém tăng đến 200%.",
+        "en": "Using her umbrella as a sword, she inflicts a barrage of 3 attacks on all enemies. Each attack deals damage equal to 41% of her ATK. Also deals final slashing damage equal to 108% of her ATK to 1 enemy. If the HP of the enemy is below 60% or if they're the last standing enemy, increases her slashing damage to 200%.",
+        "zh": "以伞为剑，划出凌冽的剑气攻击敌方全体3次，每次造成攻击41%伤害，最后对敌方目标劈斩造成攻击108%伤害。若目标生命值低于60%或是最后1个目标，则劈斩伤害提升至200%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương toàn thể tăng đến 35%, sát thương chém tăng đến 93%.",
+            "en": "Increases her AoE damage to 35% and her slashing damage to 93%.",
+            "zh": "全体伤害增至35%，劈斩伤害增至93%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương toàn thể tăng đến 37%, sát thương chém tăng đến 98%.",
+            "en": "Increases her AoE damage to 37% and her slashing damage to 98%.",
+            "zh": "全体伤害增至37%，劈斩伤害增至98%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương toàn thể tăng đến 39%, sát thương chém tăng đến 103%.",
+            "en": "Increases her AoE damage to 39% and her slashing damage to 103%.",
+            "zh": "全体伤害增至39%，劈斩伤害增至103%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương toàn thể tăng đến 41%, sát thương chém tăng đến 108%. Nếu tỷ lệ HP của mục tiêu thấp hơn 60% hoặc là mục tiêu cuối cùng, sát thương chém tăng đến 200%.",
+            "en": "Increases her AoE damage to 41% and her slashing damage to 108%. If the HP of the enemy is below 60% or if they're the last standing enemy, increases her slashing damage to 200%.",
+            "zh": "全体伤害增至41%，劈斩伤害增至108%。若目标生命值低于60%或是最后1个目标，则劈斩伤害提升至200%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2623",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "guhuoniao",
+    "headKey": "h_guhuoniao",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2621",
+      "2622",
+      "2623"
+    ]
+  },
+  "unresolvedTokens": []
+}

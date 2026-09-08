@@ -1,0 +1,298 @@
+{
+  "id": 248,
+  "name": {
+    "vi": "Hoang Xuyên Chi Chủ",
+    "en": "Lord Arakawa",
+    "zh": "荒川之主"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2706,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9911,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 101,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2481,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Du Ngư",
+        "en": "Roamy",
+        "zh": "游鱼"
+      },
+      "intro": {
+        "vi": "没用的东西还是退出战场吧！",
+        "en": "没用的东西还是退出战场吧！",
+        "zh": "没用的东西还是退出战场吧！"
+      },
+      "description": {
+        "vi": "以黑色妖力将水凝成鱼形攻击敌方目标，造成攻击125%伤害。",
+        "en": "以黑色妖力将水凝成鱼形攻击敌方目标，造成攻击125%伤害。",
+        "zh": "以黑色妖力将水凝成鱼形攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2481",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2482,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trục Lưu",
+        "en": "Empowering Flow",
+        "zh": "逐流"
+      },
+      "intro": {
+        "vi": "Lội ngược dòng nước, đi đến nơi cao hơn đi.",
+        "en": "Flow on and become ever-stronger.",
+        "zh": "逐流而上，往更高处去吧。"
+      },
+      "description": {
+        "vi": "[tips_11]\nKhi Bạo Kích gây thêm 20% sát thương, kèm theo 20% hiệu ứng Hút Máu, khi trận đấu bắt đầu, bản thân nhận [buff_12482_1].",
+        "en": "[tips_11].\nDeals additional 20% damage on crit with 20% HP Steal. At the start of battle, gains [buff_12482_1].",
+        "zh": "[tips_11]。\n暴击时额外造成20%伤害，附带20%吸血效果，战斗开始时，自身获得[buff_12482_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Điều kiện kích hoạt Trục Lưu giảm xuống 40% giới hạn HP",
+            "en": "Empowering Flow trigger condition lowered to 40% of Max HP.",
+            "zh": "逐流触发条件降至生命上限40%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Điều kiện kích hoạt Trục Lưu giảm xuống 30% giới hạn HP",
+            "en": "Empowering Flow trigger condition lowered to 30% of Max HP.",
+            "zh": "逐流触发条件降至生命上限30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi Bạo Kích đính kèm thêm 20% Hút Máu",
+            "en": "Additional 20% HP Steal on crit.",
+            "zh": "暴击时额外附带20%吸血"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng mới của ấn ký Trục Lưu: Khi chịu hiệu ứng đẩy lùi thanh hành động, đổi thành tăng 30% thanh hành động (giới hạn 2 lần trước khi lượt bản thân bắt đầu)",
+            "en": "Empowering Flow Mark gains new effect: When affected by Move Bar-lowering effects, increases Move Bar by 30% instead (max 2 times before own turn starts).",
+            "zh": "逐流印记新增效果：受到行动条击退效果时，改为增加30%行动条（自身回合开始前限2次）"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2482",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2483,
+      "maxLevel": 5,
+      "name": {
+        "vi": "吞噬",
+        "en": "吞噬",
+        "zh": "吞噬"
+      },
+      "intro": {
+        "vi": "没用的东西就该沉在黑漆漆的海底挣扎。",
+        "en": "没用的东西就该沉在黑漆漆的海底挣扎。",
+        "zh": "没用的东西就该沉在黑漆漆的海底挣扎。"
+      },
+      "description": {
+        "vi": "Dùng yêu lực màu đen ngưng tụ thành đàn cá tấn công mục tiêu kẻ địch 2 lần, lần đầu gây sát thương bằng 53% Tấn công và có 100% [tips_2] đính kèm [tips_19], duy trì 2 lượt. Lần thứ hai gây sát thương bằng 270% Tấn công. Sau khi thi triển tiến vào [tips_2483], duy trì 2 lượt.",
+        "en": "Forms water into a shoal of fish to inflict a 2-strike attack on 1 enemy. The first strike deals damage equal to 53% of ATK with a 100% chance to apply [tips_2][tips_19] for 2 turns. The second strike deals damage equal to 270% of ATK. After casting, gain [tips_2483] for 2 turns.",
+        "zh": "以黑色妖力凝成鱼群攻击敌方目标2次，首次造成攻击53%伤害并有100%[tips_2]附加[tips_19]，持续2回合。第二次造成攻击270%伤害。施放后进入[tips_2483]，维持2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương lần thứ hai tăng lên 226%",
+            "en": "Increases damage of the second stage to 226%.",
+            "zh": "第二次伤害增加至226%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương lần thứ hai tăng lên 241%",
+            "en": "Increases damage of the second stage to 241%.",
+            "zh": "第二次伤害增加至241%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương lần thứ hai tăng lên 256%",
+            "en": "Increases damage of the second stage to 256%.",
+            "zh": "第二次伤害增加至256%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương lần thứ hai tăng lên 270%",
+            "en": "Increases damage of the second stage to 270%.",
+            "zh": "第二次伤害增加至270%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2483",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "heichuanzhu",
+    "headKey": "h_heichuanzhu",
+    "armature": "",
+    "artName": "txt_zhanshi_huangchuanzhizhu",
+    "skillIconKeys": [
+      "2481",
+      "2482",
+      "2483"
+    ]
+  },
+  "unresolvedTokens": []
+}

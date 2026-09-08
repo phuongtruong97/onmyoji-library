@@ -1,0 +1,338 @@
+{
+  "id": 209,
+  "name": {
+    "vi": "Hà Đồng",
+    "en": "Kappa",
+    "zh": "河童"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2733,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 388,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 103,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2091,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thủy Lưu Đạn",
+        "en": "Water Grenade",
+        "zh": "水流弹"
+      },
+      "intro": {
+        "vi": "Hà á —— Thủy Lưu Đạn!",
+        "en": "Aha! Water grenade!",
+        "zh": "哈啊——水流弹！"
+      },
+      "description": {
+        "vi": "Nén dòng nước thành đạn nước tấn công mục tiêu kẻ địch, gây sát thương bằng 91% Tấn công.",
+        "en": "Compresses water into a grenade to attack 1 enemy, dealing damage equal to 91% of his ATK.",
+        "zh": "将水流压缩成水弹攻击敌方目标，造成攻击91%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至79%",
+            "en": "伤害增加至79%",
+            "zh": "伤害增加至79%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至83%",
+            "en": "伤害增加至83%",
+            "zh": "伤害增加至83%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至87%",
+            "en": "伤害增加至87%",
+            "zh": "伤害增加至87%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至91%",
+            "en": "伤害增加至91%",
+            "zh": "伤害增加至91%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2091",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2092,
+      "maxLevel": 4,
+      "name": {
+        "vi": "Thanh Lưu",
+        "en": "Pure Water",
+        "zh": "清流"
+      },
+      "intro": {
+        "vi": "Nhân danh dòng nước trong, tẩy sạch tội lỗi của ngươi!",
+        "en": "By the power of pure water, I absolve you of your sins!",
+        "zh": "以清流之名，洗清你的罪孽！"
+      },
+      "description": {
+        "vi": "Sự tưới mát của dòng nước trong giúp yêu lực tăng lên. Khi hành động kết thúc, nhận 1 tầng [buff_2092_1], giới hạn [b_堆叠上限] tầng.",
+        "en": "Pure water amplifies his spiritual power. At the end of his action, gains a [buff_2092_1] stack (max [b_堆叠上限] times).",
+        "zh": "清流的滋润使妖力提升。行动结束时，获得1层[buff_2092_1]，上限[b_堆叠上限]层。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_2092_1] hiệu ứng tăng Tấn công tăng lên [b_属性1数值_per]",
+            "en": "Increases [buff_2092_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2092_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_2092_1] hiệu ứng tăng Tấn công tăng lên [b_属性1数值_per]",
+            "en": "Increases [buff_2092_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2092_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_2092_1] hiệu ứng tăng Tấn công tăng lên [b_属性1数值_per]",
+            "en": "Increases [buff_2092_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2092_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2092",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2093,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đại Hà Chi Ca",
+        "en": "River Song",
+        "zh": "大河之歌"
+      },
+      "intro": {
+        "vi": "Lắng nghe đi, sự giận dữ đến từ dòng nước sông lớn này!",
+        "en": "Stay there and feel the river's wrath!",
+        "zh": "听吧，这来自大河之水的愤怒！"
+      },
+      "description": {
+        "vi": "Dùng đạn nước khổng lồ tạo thành từ nước sông lớn tấn công toàn bộ phe địch, gây sát thương bằng 112% Tấn công, đối với kẻ địch có tỷ lệ HP thấp hơn 40% gây thêm 20% sát thương.",
+        "en": "Summons a giant projectile from river water, dealing damage equal to 112% of his ATK on all enemies. Damage is increased by 20% to enemies with less than 40% HP.",
+        "zh": "以大河之水形成的巨大水弹攻击敌方全体，造成攻击112%伤害，对生命比例低于40%的敌方额外造成20%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至104%",
+            "en": "伤害增加至104%",
+            "zh": "伤害增加至104%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至104%",
+            "en": "伤害增加至104%",
+            "zh": "伤害增加至104%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至108%",
+            "en": "伤害增加至108%",
+            "zh": "伤害增加至108%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至108%",
+            "en": "伤害增加至108%",
+            "zh": "伤害增加至108%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至112%",
+            "en": "伤害增加至112%",
+            "zh": "伤害增加至112%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至112%",
+            "en": "伤害增加至112%",
+            "zh": "伤害增加至112%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2093",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "hetong",
+    "headKey": "h_hetong",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2091",
+      "2092",
+      "2093"
+    ]
+  },
+  "unresolvedTokens": []
+}

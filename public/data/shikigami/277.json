@@ -1,0 +1,428 @@
+{
+  "id": 277,
+  "name": {
+    "vi": "Hắc Đồng Tử",
+    "en": "Kuro",
+    "zh": "黑童子"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 28]",
+    "en": "[1, 28]",
+    "zh": "[1, 28]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3135,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 8999,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 348,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "9%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2771,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tội Phạt · Hắc",
+        "en": "Kuro Blast",
+        "zh": "罪罚·黑"
+      },
+      "intro": {
+        "vi": "...Hãy trả giá cho tội lỗi của ngươi đi!",
+        "en": "You must pay for your sins!",
+        "zh": "……为你的罪恶，付出代价吧！"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công, khoảng dao động sát thương lần này khá lớn.",
+        "en": "Attacks 1 enemy, dealing damage equal to 125% of his ATK. Passive damage dealt from this attack can vary greatly.",
+        "zh": "攻击敌方目标，造成攻击125%伤害，该次伤害波动区间较大。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2771",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2772,
+      "maxLevel": 5,
+      "name": {
+        "vi": "魂之怒火",
+        "en": "魂之怒火",
+        "zh": "魂之怒火"
+      },
+      "intro": {
+        "vi": "Ư... Bạch Đồng Tử ở đâu rồi?",
+        "en": "Hmm... Where is Shiro?",
+        "zh": "唔……白童子在哪里？"
+      },
+      "description": {
+        "vi": "Tiên Cơ: Thi triển 「Hồn Chi Nộ Hỏa」. Khi chịu đòn tấn công không phải [tips_12], có 20% xác suất thi triển miễn phí một lần 『[skill_2773_1]』.\n【Thi triển】 Nhận [buff_2772_1], duy trì 2 lượt. Tỷ lệ HP cứ giảm 30%, xác suất kích hoạt tăng thêm 3%.",
+        "en": "Upper Hand: Casts Soul Rage. When attacked by non-[tips_12], there is a 20% chance to cast [skill_2773_1] without consuming any resources.\nUpon casting, gains [buff_2772_1], lasting for 2 turns. For every 30% decrease in HP, the trigger chance increases by an additional 3%.",
+        "zh": "先机：施放「魂之怒火」。受到非[tips_12]的攻击时，有20%概率免消耗施放一次『[skill_2773_1]』。\n【施放】获得[buff_2772_1]，持续2回合。生命比例每降低30%，触发概率额外提升3%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "触发概率增至16%",
+            "en": "触发概率增至16%",
+            "zh": "触发概率增至16%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "触发概率增至20%",
+            "en": "触发概率增至20%",
+            "zh": "触发概率增至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tỷ lệ HP cứ giảm 30%, xác suất kích hoạt tăng thêm 3%",
+            "en": "For every 30% decrease in HP, the trigger chance increases by an additional 3%.",
+            "zh": "生命比例每降低30%，触发概率额外提升3%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Thi triển 「Hồn Chi Nộ Hỏa」",
+            "en": "Upper Hand: Casts Soul Rage",
+            "zh": "先机：施放「魂之怒火」"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2772",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2773,
+      "maxLevel": 7,
+      "name": {
+        "vi": "连斩",
+        "en": "连斩",
+        "zh": "连斩"
+      },
+      "intro": {
+        "vi": "嘻嘻嘻……永别了。",
+        "en": "嘻嘻嘻……永别了。",
+        "zh": "嘻嘻嘻……永别了。"
+      },
+      "description": {
+        "vi": "Hắc Đồng Tử xoay lưỡi đao gây cho mục tiêu sát thương bằng 99% Tấn công, Hắc Đồng Tử mỗi khi tổn thất 30% HP, sẽ truy kích thêm một đoạn sát thương, khi Liên Trảm tiêu diệt kẻ địch, sẽ tự động truy kích một lần [Liên Trảm] không tiêu hao, sát thương của lần [Liên Trảm] đó giảm 40%.",
+        "en": "Kuro spins his blade and deals damage equal to 99% of his ATK to the target. Each time he loses 30% HP, he inflicts an extra attack. When Extra Slice KO's an enemy, an Extra Slice that does not consume any orbs will be automatically added. This Extra Slice deals 40% less damage.",
+        "zh": "黑童子旋转刀刃对目标造成攻击99%的伤害，黑童子每损失30%的生命，会额外追加一段伤害，连斩消灭敌人时，会自动追加一次无消耗的[连斩]，该次[连斩]的伤害减少40%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至87%",
+            "en": "伤害增加至87%",
+            "zh": "伤害增加至87%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至87%",
+            "en": "伤害增加至87%",
+            "zh": "伤害增加至87%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "技能伤害额外+5%",
+            "en": "技能伤害额外+5%",
+            "zh": "技能伤害额外+5%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至91%",
+            "en": "伤害增加至91%",
+            "zh": "伤害增加至91%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至91%",
+            "en": "伤害增加至91%",
+            "zh": "伤害增加至91%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "技能伤害额外+5%",
+            "en": "技能伤害额外+5%",
+            "zh": "技能伤害额外+5%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至95%",
+            "en": "伤害增加至95%",
+            "zh": "伤害增加至95%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至95%",
+            "en": "伤害增加至95%",
+            "zh": "伤害增加至95%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "技能伤害额外+5%",
+            "en": "技能伤害额外+5%",
+            "zh": "技能伤害额外+5%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至99%",
+            "en": "伤害增加至99%",
+            "zh": "伤害增加至99%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至99%",
+            "en": "伤害增加至99%",
+            "zh": "伤害增加至99%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "技能伤害额外+5%",
+            "en": "技能伤害额外+5%",
+            "zh": "技能伤害额外+5%"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "技能伤害额外+5%",
+            "en": "技能伤害额外+5%",
+            "zh": "技能伤害额外+5%"
+          }
+        },
+        {
+          "level": 7,
+          "text": {
+            "vi": "技能伤害额外+5%",
+            "en": "技能伤害额外+5%",
+            "zh": "技能伤害额外+5%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2773",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 7,
+          "awakeFilter": 2
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "heitongzi",
+    "headKey": "h_heitongzi",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2771",
+      "2772",
+      "2773"
+    ]
+  },
+  "unresolvedTokens": [
+    "skill_2773_1"
+  ]
+}

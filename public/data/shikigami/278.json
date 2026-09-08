@@ -1,0 +1,220 @@
+{
+  "id": 278,
+  "name": {
+    "vi": "Bạch Đồng Tử",
+    "en": "Shiro",
+    "zh": "白童子"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 8]",
+    "en": "[1, 8]",
+    "zh": "[1, 8]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2948,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9569,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 357,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 103,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2781,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tội Phạt·Bạch",
+        "en": "Shiro Blast",
+        "zh": "罪罚·白"
+      },
+      "intro": {
+        "vi": "Mình sẽ cố gắng trở thành Quỷ Sứ lợi hại!",
+        "en": "I'll do my best to become a great emissary!",
+        "zh": "我会努力成为厉害的鬼使的！"
+      },
+      "description": {
+        "vi": "Sử dụng Quỷ Hỏa chưa thành thạo để tấn công mục tiêu kẻ địch, gây sát thương 125%.",
+        "en": "Still isn't very good at using orbs to attack the target. Deals damage equal to 125% of his ATK.",
+        "zh": "还不熟练地使用鬼火攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2781",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2783,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chiêu Hồn",
+        "en": "Soul Call",
+        "zh": "招魂"
+      },
+      "intro": {
+        "vi": "Tỉnh lại đi!",
+        "en": "Awaken!",
+        "zh": "醒来吧！"
+      },
+      "description": {
+        "vi": "使用巨化小鬼攻击敌方全体，造成攻击126%伤害。使友方全体获得[buff_2783_1]，[tips_15]1回合。在所有阵亡目标的位置召唤其魂魄，魂魄只能普攻，存在1回合。\n魂魄继承该位置目标100%攻击，在被召唤时立即普攻随机敌方目标。",
+        "en": "使用巨化小鬼攻击敌方全体，造成攻击126%伤害。使友方全体获得[buff_2783_1]，[tips_15]1回合。在所有阵亡目标的位置召唤其魂魄，魂魄只能普攻，存在1回合。\n魂魄继承该位置目标100%攻击，在被召唤时立即普攻随机敌方目标。",
+        "zh": "使用巨化小鬼攻击敌方全体，造成攻击126%伤害。使友方全体获得[buff_2783_1]，[tips_15]1回合。在所有阵亡目标的位置召唤其魂魄，魂魄只能普攻，存在1回合。\n魂魄继承该位置目标100%攻击，在被召唤时立即普攻随机敌方目标。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至111%",
+            "en": "伤害增加至111%",
+            "zh": "伤害增加至111%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至116%",
+            "en": "伤害增加至116%",
+            "zh": "伤害增加至116%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至121%",
+            "en": "伤害增加至121%",
+            "zh": "伤害增加至121%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至126%",
+            "en": "伤害增加至126%",
+            "zh": "伤害增加至126%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2783",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "baitongzi",
+    "headKey": "h_baitongzi",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2781",
+      "2783"
+    ]
+  },
+  "unresolvedTokens": []
+}

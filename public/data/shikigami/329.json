@@ -1,0 +1,350 @@
+{
+  "id": 329,
+  "name": {
+    "vi": "Hải Nhẫn",
+    "en": "Kainin",
+    "zh": "海忍"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2974,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9227,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 101,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "9%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3291,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ảnh Xuất",
+        "en": "Shadowy Strike",
+        "zh": "影出"
+      },
+      "intro": {
+        "vi": "Ngay cả cái bóng cũng đánh bại được ngươi",
+        "en": "My shadow is enough to beat you.",
+        "zh": "影子都能击败你"
+      },
+      "description": {
+        "vi": "对敌方目标造成攻击100%伤害并无视40%防御。\n（[tips_11]）每次攻击时，为目标附加1层[buff_3291_1]，上限3层。若目标带有3层[buff_3291_1]，则消耗所有层数并改为对敌方全体造成攻击120%伤害，此次攻击不触发敌方御魂及被动。",
+        "en": "对敌方目标造成攻击100%伤害并无视40%防御。\n（[tips_11]）每次攻击时，为目标附加1层[buff_3291_1]，上限3层。若目标带有3层[buff_3291_1]，则消耗所有层数并改为对敌方全体造成攻击120%伤害，此次攻击不触发敌方御魂及被动。",
+        "zh": "对敌方目标造成攻击100%伤害并无视40%防御。\n（[tips_11]）每次攻击时，为目标附加1层[buff_3291_1]，上限3层。若目标带有3层[buff_3291_1]，则消耗所有层数并改为对敌方全体造成攻击120%伤害，此次攻击不触发敌方御魂及被动。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至85%",
+            "en": "伤害增加至85%",
+            "zh": "伤害增加至85%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至90%",
+            "en": "伤害增加至90%",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至95%",
+            "en": "伤害增加至95%",
+            "zh": "伤害增加至95%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3291",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3292,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ảnh Hồi",
+        "en": "Shadowy Withdraw",
+        "zh": "影回"
+      },
+      "intro": {
+        "vi": "Hãy xem bước đi của ta đây",
+        "en": "Watch closely.",
+        "zh": "看我的步伐"
+      },
+      "description": {
+        "vi": "Khi Đánh Thường, có 30% xác suất Đánh Thường lần nữa lên cùng mục tiêu, giới hạn 3 lần, giới hạn này sẽ làm mới khi chuyển mục tiêu.\nSau khi tiêu hao [buff_3291_1], sử dụng Đánh Thường tấn công mục tiêu kẻ địch ngẫu nhiên khác.\n[tips_11] Khi bất kỳ lượt kẻ địch nào kết thúc, có 30% xác suất đính kèm 1 tầng [buff_3291_1] cho kẻ đó, giới hạn 3 tầng.",
+        "en": "When using a normal attack, has a 30% chance of using a normal attack on the same target again, up to 3 extra time(s). The limit resets when she changes a target.\nShe uses a normal attack on a random enemy when she consumes [buff_3291_1].\n[tips_11] At the end of an enemy's turn, has a 30% chance of inflicting a layer of [buff_3291_1] lasting 1 turn on them stacking up to 3 layers",
+        "zh": "普攻时，30%概率对同一目标再次普攻，上限3次，此上限在转变目标时重置。\n消耗[buff_3291_1]后，使用普攻攻击另一随机敌方目标。\n（[tips_11]）任一敌方回合结束时，30%概率为其附加1层[buff_3291_1]，上限3层。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất Đánh Thường lần nữa tăng lên 30%",
+            "en": "Increases her chance of using a normal attack an extra time to 30%.",
+            "zh": "再次普攻概率增至30%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất Đánh Thường lần nữa tăng lên 30%",
+            "en": "Increases her chance of using a normal attack an extra time to 30%.",
+            "zh": "再次普攻概率增至30%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Giới hạn tăng lên 2 lần",
+            "en": "Increases the extra normal attack inflicted to 2 times.",
+            "zh": "上限增至2次"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Giới hạn tăng lên 2 lần",
+            "en": "Increases the extra normal attack inflicted to 2 times.",
+            "zh": "上限增至2次"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giới hạn tăng lên 3 lần",
+            "en": "Increases the extra normal attack inflicted to 3 times.",
+            "zh": "上限增至3次"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giới hạn tăng lên 3 lần",
+            "en": "Increases the extra normal attack inflicted to 3 times.",
+            "zh": "上限增至3次"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_11] Khi bất kỳ lượt kẻ địch nào kết thúc, có 30% xác suất đính kèm 1 tầng [buff_3291_1] cho kẻ đó, giới hạn 3 tầng",
+            "en": "[tips_11] At the end of an enemy's turn, has a 30% chance of inflicting a layer of [buff_3291_1] lasting 1 turn on them stacking up to 3 layers.",
+            "zh": "（[tips_11]）任一敌方回合结束时，30%概率为其附加1层[buff_3291_1]，上限3层"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_11] Khi bất kỳ lượt kẻ địch nào kết thúc, có 30% xác suất đính kèm 1 tầng [buff_3291_1] cho kẻ đó, giới hạn 3 tầng",
+            "en": "[tips_11] At the end of an enemy's turn, has a 30% chance of inflicting a layer of [buff_3291_1] lasting 1 turn on them stacking up to 3 layers.",
+            "zh": "（[tips_11]）任一敌方回合结束时，30%概率为其附加1层[buff_3291_1]，上限3层"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3292",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3293,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tiềm Ảnh",
+        "en": "Shadow Stealth",
+        "zh": "潜影"
+      },
+      "intro": {
+        "vi": "Ta đang chờ thời cơ đây",
+        "en": "I am waiting for the opportunity.",
+        "zh": "我在等待时机呢"
+      },
+      "description": {
+        "vi": "[tips_3294] mục tiêu phe ta và khiến bản thân tiến vào trạng thái [buff_3294_1], duy trì 1 lượt.\nKhi mục tiêu [tips_3294] lần đầu chịu tấn công, Hải Nhẫn sẽ tiến hành tập kích một lần vào nguồn tấn công, gây sát thương bằng 100% Tấn công, và [tips_20] lượng HP tương đương, đồng thời có 100% [tips_2] khiến nguồn tấn công [tips_103] 1 lượt, sau khi tập kích, tăng 50% Thanh Hành Động cho bản thân. Khi có [buff_3294_1], xác suất Đánh Thường bồi thêm của Ảnh Hồi tăng thêm 50%, cho đến khi đòn tấn công tiếp theo kết thúc.",
+        "en": "Creates a [tips_3294] on an ally before entering into [buff_3294_1] status for 1 turn.\nWhen an ally with [tips_3294] is attacked the first time, Kainin launches a Sneak Attack on the attacker, dealing damage equal to 100% of her ATK and [tips_20]s equal amount HP. Has a 100% [tips_2] of inflicting [tips_103] lasting 1 turn on the attacker. After she launches a Sneak Attack, raises her own Move Bar by 50%. When she is in [buff_3294_1] status, increases the chance of using a normal attack an extra time with Shadowy Withdraw to 50% until the end of her next attack.",
+        "zh": "[tips_3294]友方目标并使自身进入[buff_3294_1]状态，持续1回合。\n当[tips_3294]目标首次受到攻击时，海忍将对攻击来源进行一次偷袭，造成攻击100%伤害，并[tips_20]等量生命，并有100%[tips_2]使攻击来源[tips_103]1回合，偷袭后，增加自身50%行动条。拥有[buff_3294_1]时，影回的追加普攻概率额外增加50%，直到下一次攻击结束。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_3294_1] tăng Kháng Hiệu Ứng nâng lên 20%, tăng Tốc độ nâng lên 20 điểm",
+            "en": "Increases the Effect RES boost and SPD boost of [buff_3294_1] to 20% and 20, respectively.",
+            "zh": "[buff_3294_1]提升效果抵抗增至20%、提升速度增至20点"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sau khi tập kích, tăng 50% Thanh Hành Động cho bản thân",
+            "en": "Raises her Move Bar by 50% after using Sneak Attack.",
+            "zh": "偷袭后，增加自身50%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_3294_1] tăng Kháng Hiệu Ứng nâng lên 30%, tăng Tốc độ nâng lên 30 điểm",
+            "en": "Increases the Effect RES boost and SPD boost of [buff_3294_1] to 30% and 30, respectively.",
+            "zh": "[buff_3294_1]提升效果抵抗增至30%、提升速度增至30点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi có [buff_3294_1], xác suất Đánh Thường bồi thêm của Ảnh Hồi tăng thêm 50%, cho đến khi đòn tấn công tiếp theo kết thúc",
+            "en": "When she is in [buff_3294_1] status, increases the chance of using a normal attack an extra time with Shadowy Withdraw to 50% until the end of her next attack.",
+            "zh": "拥有[buff_3294_1]时，影回的追加普攻概率额外增加50%，直到下一次攻击结束"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3293",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "hairen",
+    "headKey": "h_hairen",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3291",
+      "3292",
+      "3293"
+    ]
+  },
+  "unresolvedTokens": []
+}

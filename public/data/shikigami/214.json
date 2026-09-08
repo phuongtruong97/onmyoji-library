@@ -1,0 +1,350 @@
+{
+  "id": 214,
+  "name": {
+    "vi": "Ngạ Quỷ",
+    "en": "Gaki",
+    "zh": "饿鬼"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17]",
+    "en": "[17]",
+    "zh": "[17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2546,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 374,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 95,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2141,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bánh Bao Thối",
+        "en": "Rotten Bun",
+        "zh": "臭馒头"
+      },
+      "intro": {
+        "vi": "Hừ, ngươi cũng nếm thử bánh thối đi.",
+        "en": "How do you like dem buns?",
+        "zh": "哼，你也尝尝臭馒头吧。"
+      },
+      "description": {
+        "vi": "Ném bánh thối nát vào mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 20% xác suất trộm 1 trạng thái tăng ích, sau đó có 30% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất nhận 1 tầng [buff_2141_1], giới hạn 4 tầng.",
+        "en": "Throws a rotten bun at 1 enemy, dealing damage equal to 125% of his ATK with a 20% chance of stealing 1 buff and a 30% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of gaining a layer of [buff_2141_1] (stacks up to 4 layers).",
+        "zh": "把腐臭的馒头扔向敌方目标，造成攻击125%伤害并有20%概率偷取1个增益状态，然后有30%（+[*|a_debuff-acc_per|s_buff概率_per]）概率获得1层[buff_2141_1]，上限4层。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2141",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2142,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trộm Cắp",
+        "en": "Steal",
+        "zh": "盗窃"
+      },
+      "intro": {
+        "vi": "Đói quá đói quá~ Mau đưa đồ ăn cho ta!",
+        "en": "I'm starving! Give me all your food!",
+        "zh": "好饿好饿～快把吃的给我！"
+      },
+      "description": {
+        "vi": "30% xác suất [tips_9].",
+        "en": "30% chance of [tips_9]ing.",
+        "zh": "30%概率[tips_9]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "触发概率增至15%",
+            "en": "触发概率增至15%",
+            "zh": "触发概率增至15%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "触发概率增至20%",
+            "en": "触发概率增至20%",
+            "zh": "触发概率增至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "触发概率增至25%",
+            "en": "触发概率增至25%",
+            "zh": "触发概率增至25%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "触发概率增至30%",
+            "en": "触发概率增至30%",
+            "zh": "触发概率增至30%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2142",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2143,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cơ Không Trạch Thực",
+        "en": "Voracious",
+        "zh": "饥不择食"
+      },
+      "intro": {
+        "vi": "Đói chết mất, thèm ăn quá!",
+        "en": "I'm starving! I need to eat!",
+        "zh": "饿死了，好想吃！"
+      },
+      "description": {
+        "vi": "Gây cho mục tiêu kẻ địch sát thương bằng 120% Tấn công, có 30% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất [tips_2143] kẻ đó và nhè ra sau 1 lượt, trong thời gian này khi bị tấn công có 15% xác suất nhè ra sớm. Khi nhè ra, khiến kẻ địch đó mất toàn bộ trạng thái tăng ích.\nMỗi tầng [buff_2141_1] có thể tăng 30% tỷ lệ nuốt, khi không nuốt thành công nhận 1 tầng [buff_2141_1].\nNếu hạ gục kẻ địch, liền [tips_20] toàn bộ HP.",
+        "en": "Deals damage equal to 120% of ATK to 1 enemy with a 30% (+[*|a_debuff-acc_per|s_buff概率_per]) chance to [tips_2143] them before spitting them out after 1 turn. Has a 15% chance of spitting them out early when attacked. The enemy loses all their buffs when spat out.\nEach [buff_2141_1] stack increases the chance of devouring by 30%. Gains a [buff_2141_1] stack when failing to devour an enemy.\n[tips_20]s his HP to full when performing a KO.",
+        "zh": "对敌方目标造成攻击120%伤害，有30%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将其[tips_2143]并在1回合后吐出，此期间被攻击时有15%概率提早吐出。吐出时，使该敌方失去所有增益状态。\n每层[buff_2141_1]可以提升吞食概率30%，未成功吞食时获得1层[buff_2141_1]。\n若击败敌方，则[tips_20]所有生命。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2143",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "egui",
+    "headKey": "h_egui",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2141",
+      "2142",
+      "2143"
+    ]
+  },
+  "unresolvedTokens": []
+}

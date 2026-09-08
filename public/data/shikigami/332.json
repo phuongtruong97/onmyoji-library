@@ -1,0 +1,220 @@
+{
+  "id": 332,
+  "name": {
+    "vi": "Cửu Thứ Lương",
+    "en": "Kujira",
+    "zh": "久次良"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 12, 8]",
+    "en": "[1, 12, 8]",
+    "zh": "[1, 12, 8]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2680,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 8316,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 441,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3321,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kinh Cốt · Trú",
+        "en": "Whale Bone: Station",
+        "zh": "鲸骨·驻"
+      },
+      "intro": {
+        "vi": "Đừng gấp, vững vàng đội hình.",
+        "en": "Don't worry, hold your ground.",
+        "zh": "别急，稳住阵脚。"
+      },
+      "description": {
+        "vi": "Trước khi tấn công trong lượt bản thân, gắn [tips_3320] cho toàn bộ phe ta, sau đó dùng cốt nhẫn chém về phía mục tiêu, gây sát thương bằng 100% Tấn công.\nNếu khi gắn [tips_3320] mà toàn bộ phe ta đều đã sở hữu [tips_3320], khi tấn công sẽ gây thêm [tips_18] bằng 10% giới hạn HP của kẻ địch (không vượt quá 120% Tấn công).",
+        "en": "At the beginning of his turn, creates a [tips_3320] to protect all allies, and uses his bone blade to attack 1 enemy, dealing damage equal to 100% of his ATK.\nIf all allies are protected by [tips_3320] when he tries to create a [tips_3320], his attack inflicts extra [tips_18] equal to 10% of the enemy's max HP (to a max of 120% of his ATK.)",
+        "zh": "自身回合攻击前，为友方全体施加[tips_3320]，随后使用骨刃斩向目标，造成攻击100%的伤害。\n若施加[tips_3320]时友方全体均已拥有[tips_3320]，则攻击时会额外造成敌方生命上限10%的[tips_18]（不超过攻击120%）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至85%",
+            "en": "伤害增加至85%",
+            "zh": "伤害增加至85%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至90%",
+            "en": "伤害增加至90%",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至95%",
+            "en": "伤害增加至95%",
+            "zh": "伤害增加至95%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3321",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3323,
+      "maxLevel": 5,
+      "name": {
+        "vi": "鱼鳞之备",
+        "en": "鱼鳞之备",
+        "zh": "鱼鳞之备"
+      },
+      "intro": {
+        "vi": "Thời cơ đã đến, xung phong.",
+        "en": "The time has come. Charge!",
+        "zh": "时机已到，冲锋。"
+      },
+      "description": {
+        "vi": "[tips_11] Ở tư thế phòng thủ, toàn bộ phe ta tăng 20% Kháng Hiệu Ứng, 20% Phòng thủ, và sau khi lượt kết thúc có 80% xác suất nhận [tips_3320], nếu đã sở hữu [tips_3320], đồng minh đó sẽ tự trị liệu lượng HP đã mất bằng 15% (không vượt quá 120% Tấn công của Cửu Thứ Lương).\n【Thi triển】 Cửu Thứ Lương chuyển sang tư thế tiến công, bản thân tăng 60% Thanh Hành Động, và tăng 30% Thanh Hành Động cho các đồng minh còn lại.",
+        "en": "[tips_11].\nWhen in Defensive stance, increases the Effect RES and DEF of all allies by 20% and they have an 80% chance of gaining a [tips_3320] at the end of their turn. If an ally already has a [tips_3320], heals the HP of the ally by 15% of their HP lost instead (to a max of 120% of Kujira's ATK).\nUsing the skill changes Kujira's stance to Attacking, raising his Move Bar by 60% and raises the Move Bar of all other allies by 30%.",
+        "zh": "[tips_11]。\n守备姿态下，友方全体提升20%效果抵抗，20%防御，并在回合结束后有80%概率获得[tips_3320]，若已拥有[tips_3320]，则该友方会治疗自身已损生命值15%（不超过久次良攻击120%）。\n【施放】久次良切换为进攻姿态，自身增加60%行动条，并为其余友方增加30%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng tăng Phòng thủ tăng lên 20%",
+            "en": "Increases the DEF boost effect to 20%.",
+            "zh": "提升防御效果增至20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng tăng Kháng Hiệu Ứng tăng lên 20%",
+            "en": "Increases the Effect RES boost effect to 20%.",
+            "zh": "提升效果抵抗效果增至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tăng Thanh Hành Động tăng lên 30%",
+            "en": "Increases Move Bar-raising effect to 30%.",
+            "zh": "增加行动条效果增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng tăng Thanh Hành Động cho bản thân tăng lên 60%",
+            "en": "Increases Move Bar-raising effect for himself to 60%.",
+            "zh": "增加行动条效果对自身增至60%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3323",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "jiuciliang",
+    "headKey": "h_jiuciliang",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3321",
+      "3323"
+    ]
+  },
+  "unresolvedTokens": []
+}

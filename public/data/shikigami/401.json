@@ -1,0 +1,142 @@
+{
+  "id": 401,
+  "name": {
+    "vi": "Ký Sinh Hồn",
+    "en": "Parasite",
+    "zh": "寄生魂"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4011,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đầu Hỏa",
+        "en": "Fire Throw",
+        "zh": "投火"
+      },
+      "intro": {
+        "vi": "Hừ... thiêu rụi đi!",
+        "en": "Burn!",
+        "zh": "喝……灼烧吧！"
+      },
+      "description": {
+        "vi": "Ném cầu lửa tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Throws a fireball at 1 enemy, dealing damage equal to 125% of its ATK.",
+        "zh": "投掷火球攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4011",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "jishenghun",
+    "headKey": "h_jishenghun",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4011"
+    ]
+  },
+  "unresolvedTokens": []
+}

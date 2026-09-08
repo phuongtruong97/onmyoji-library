@@ -1,0 +1,253 @@
+{
+  "id": 384,
+  "name": {
+    "vi": "Phấn Bà Bà",
+    "en": "Oshiroibaba",
+    "zh": "粉婆婆"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 16]",
+    "en": "[1, 16]",
+    "zh": "[1, 16]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2261,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11392,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 388,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 111,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3841,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Giáp Chi Sắc • Tuyết",
+        "en": "White Rouge",
+        "zh": "颊之色·雪"
+      },
+      "intro": {
+        "vi": "Dung nhan, thay đổi yêu ghét trong lòng người.",
+        "en": "Face reflects one's change of preference.",
+        "zh": "容颜，更迭人心之爱憎。"
+      },
+      "description": {
+        "vi": "Vứt hộp phấn tấn công mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công, đồng thời đính kèm 1 tầng [buff_3843_1].",
+        "en": "Throws her compact at 1 enemy, dealing damage equal to 100% of her ATK and inflicting 1 [buff_3843_1] stack.",
+        "zh": "甩出粉盒攻击敌方目标，造成攻击100%伤害，并附加1层[buff_3843_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 85%",
+            "en": "Increases damage to 85%.",
+            "zh": "伤害增加至85%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 90%",
+            "en": "Increases damage to 90%.",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 95%",
+            "en": "Increases damage to 95%.",
+            "zh": "伤害增加至95%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 100%, khi tấn công đính kèm 1 tầng [buff_3843_1]",
+            "en": "Increases damage to 100% and attacks inflict a [buff_3843_1] stack.",
+            "zh": "伤害增加至100%，攻击附加1层[buff_3843_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3841",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3842,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Mâu Chi Sắc • Yểm",
+        "en": "Colorful Mascara",
+        "zh": "眸之色·嫣"
+      },
+      "intro": {
+        "vi": "Ánh mắt, xem xét vẻ bề ngoài phù phiếm.",
+        "en": "Eyes see through the facade of frivolity.",
+        "zh": "视线，审视轻浮之表象。"
+      },
+      "description": {
+        "vi": "Mục tiêu mang [buff_3843_1] mỗi khi nhận hiệu ứng hồi phục HP và tăng thanh hành động, sẽ đính kèm thêm 1 tầng [buff_3843_1], mỗi lần đính kèm tối đa 2 tầng [buff_3843_1]. Mục tiêu cứ có 1 tầng [buff_3843_1], sát thương gây ra cho Phấn Bà Bà giảm 5%.",
+        "en": "Whenever a unit with [buff_3843_1] receives a HP-restoring effect or Move Bar-raising effect, inflicts an additional [buff_3843_1] stack on them (max 2 [buff_3843_1] stacks each time). Each [buff_3843_1] stack on a unit reduces their damage dealt to Oshiroibaba by 5%.",
+        "zh": "带有[buff_3843_1]的目标每受到生命回复和行动条增加效果时，额外附加1层[buff_3843_1]，每次最多附加2层[buff_3843_1]。目标每有1层[buff_3843_1]，对粉婆婆造成的伤害降低5%。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "3842",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3843,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thần Chi Sắc • Xích",
+        "en": "Red Lipstick",
+        "zh": "唇之色·赤"
+      },
+      "intro": {
+        "vi": "Đôi môi, thốt ra lời ác ý khinh suất.",
+        "en": "Lips speak indiscreet words.",
+        "zh": "双唇，倾吐轻率之恶言。"
+      },
+      "description": {
+        "vi": "Đính kèm 3 tầng [buff_3843_1] cho toàn bộ kẻ địch, trước khi lượt bắt đầu mỗi tầng gây sát thương gián tiếp bằng 45% Tấn công, duy trì 2 lượt. Khi Phấn Bà Bà chịu đòn đánh thường, xóa bỏ 1 tầng [buff_3843_1] của toàn bộ kẻ địch. Nếu mục tiêu có từ 4 tầng [buff_3843_1] trở lên, mỗi tầng Phấn Trang khi gây sát thương sẽ phớt lờ 30 điểm Phòng thủ. Sau khi lượt của mục tiêu có 7 tầng [buff_3843_1] kết thúc, Phấn Bà Bà hồi phục lượng máu bằng 8% HP tối đa của bản thân.",
+        "en": "Inflicts 3 [buff_3843_1] stacks lasting 2 turns on all enemies. At the start of their turn, each stack deals indirect damage equal to 45% of her ATK. When Oshiroibaba takes a normal attack, removes 1 [buff_3843_1] stack from all enemies. If a unit has 4 or more [buff_3843_1] stacks, each Makeup stack ignores DEF by 30 when dealing damage. At the end of the turn of a unit with 7 [buff_3843_1] stacks, Oshiroibaba's HP is restored by 8% of her max HP.",
+        "zh": "对敌方全体附加3层[buff_3843_1]，回合开始前每层造成攻击45%的间接伤害，持续2回合。粉婆婆受到普通攻击时，移除敌方全体1层[buff_3843_1]。若目标拥有4层以上的[buff_3843_1]时，每层粉妆造成伤害时忽视30点防御。拥有7层[buff_3843_1]的目标回合结束后，粉婆婆恢复自身最大生命8%的血量。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi Phấn Bà Bà chịu đòn đánh thường, xóa bỏ 1 tầng [buff_3843_1] của toàn bộ kẻ địch",
+            "en": "When Oshiroibaba takes a normal attack, removes 1 [buff_3843_1] stack from all enemies.",
+            "zh": "粉婆婆受到普通攻击时，移除敌方全体1层[buff_3843_1]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Nếu mục tiêu có từ 4 tầng [buff_3843_1] trở lên, mỗi tầng Phấn Trang khi gây sát thương sẽ phớt lờ 30 điểm Phòng thủ",
+            "en": "If a unit has 4 or more [buff_3843_1] stacks, each Makeup stack ignores DEF by 30 when dealing damage.",
+            "zh": "若目标拥有4层以上的[buff_3843_1]时，每层粉妆造成伤害时忽视30点防御"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sau khi lượt của mục tiêu có 7 tầng [buff_3843_1] kết thúc, Phấn Bà Bà hồi phục lượng máu bằng 8% HP tối đa của bản thân",
+            "en": "At the end of the turn of a unit with 7 [buff_3843_1] stacks, Oshiroibaba's HP is restored by 8% of her max HP.",
+            "zh": "拥有7层[buff_3843_1]的目标回合结束后，粉婆婆恢复自身最大生命8%的血量"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "Reduces orb cost by 1.",
+            "zh": "鬼火消耗减少1点"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3843",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "fenpopo",
+    "headKey": "h_fenpopo",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3841",
+      "3842",
+      "3843"
+    ]
+  },
+  "unresolvedTokens": []
+}

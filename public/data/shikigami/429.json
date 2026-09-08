@@ -1,0 +1,220 @@
+{
+  "id": 429,
+  "name": {
+    "vi": "Tamamo no Mae Quác",
+    "en": "Tamamonomae Frog",
+    "zh": "玉藻前呱"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3001,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10138,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 97,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4291,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quác·Linh Kích",
+        "en": "Croak: Soul Burst",
+        "zh": "呱·灵击"
+      },
+      "intro": {
+        "vi": "Nói cho ta nghe bí mật của ngươi đi.",
+        "en": "Tell me your little secret.",
+        "zh": "告诉我，你的秘密。"
+      },
+      "description": {
+        "vi": "使用灵气攻击敌方目标，造成攻击120%伤害。",
+        "en": "使用灵气攻击敌方目标，造成攻击120%伤害。",
+        "zh": "使用灵气攻击敌方目标，造成攻击120%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 120%",
+            "en": "Increases damage to 120%.",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4291",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 4292,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quác·Đọa Thiên",
+        "en": "Croak: The Falling",
+        "zh": "呱·堕天"
+      },
+      "intro": {
+        "vi": "Đừng ham mê vẻ đẹp bề ngoài.",
+        "en": "Never lingers on outer beauty.",
+        "zh": "不要贪恋表面的美丽。"
+      },
+      "description": {
+        "vi": "爆发自身力量攻击敌方全体，造成攻击120%伤害。",
+        "en": "爆发自身力量攻击敌方全体，造成攻击120%伤害。",
+        "zh": "爆发自身力量攻击敌方全体，造成攻击120%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng đến 117%.",
+            "en": "Increases damage to 117%.",
+            "zh": "伤害增加至117%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng đến 118%.",
+            "en": "Increases damage to 118%.",
+            "zh": "伤害增加至118%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng đến 119%.",
+            "en": "Increases damage to 119%.",
+            "zh": "伤害增加至119%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 120%",
+            "en": "Increases damage to 120%.",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "4292",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "longche_yuzaoqianwa",
+    "headKey": "h_yuzaoqiangua",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4291",
+      "4292"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,302 @@
+{
+  "id": 348,
+  "name": {
+    "vi": "Phù Thế Thanh Hành Đăng",
+    "en": "Worldly Aoandon",
+    "zh": "浮世青行灯"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 5, 45]",
+    "en": "[1, 5, 45]",
+    "zh": "[1, 5, 45]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2492,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10480,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 392,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3481,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phù Quang",
+        "en": "Floating Flame",
+        "zh": "浮光"
+      },
+      "intro": {
+        "vi": "Ngọn nến đã tắt, nhưng câu chuyện vẫn chưa kết thúc.",
+        "en": "The lights are out, but the story continues.",
+        "zh": "蜡烛吹熄了，故事可还没结束。"
+      },
+      "description": {
+        "vi": "Thanh diễm hóa thành bướm, đốt cháy mục tiêu kẻ địch, gây sát thương 120% và đính kèm [buff_3481_1], duy trì 2 lượt.",
+        "en": "Forms a butterfly out of scorching blue flame to ignite 1 enemy, dealing damage equal to 120% of her ATK and inflicting [buff_3481_1] lasting 2 turn(s) on the enemy.",
+        "zh": "青焰化作蝴蝶，引燃敌方目标，造成攻击120%伤害并附加[buff_3481_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3481",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3482,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quỳnh Đăng Hoán Dạ",
+        "en": "Lights On",
+        "zh": "茕灯焕夜"
+      },
+      "intro": {
+        "vi": "想知道之后发生什么吗？靠近些，听我说。",
+        "en": "想知道之后发生什么吗？靠近些，听我说。",
+        "zh": "想知道之后发生什么吗？靠近些，听我说。"
+      },
+      "description": {
+        "vi": "[tips_11]. Bản thân vĩnh viễn nhận [buff_3483_1]. Khi đồng minh nhận Quỷ Hỏa thông qua thanh hành động Quỷ Hỏa, nhận thêm 1 điểm Quỷ Hỏa; khi kết thúc lượt của bản thân, đẩy thanh hành động Quỷ Hỏa tiến thêm 1 ô.\nĐối với mục tiêu có [buff_3481_1], khi lại bị áp đặt [buff_3481_1] sẽ bị khấu trừ 2 điểm Quỷ Hỏa, Quỷ Hỏa bị khấu trừ sẽ được Phù Thế Thanh Hành Đăng thu thập.\nThu thập tất cả Quỷ Hỏa, tất cả Quỷ Hỏa tràn ra mà phe ta nhận được và toàn bộ Quỷ Hỏa tiêu hao khi thi triển kỹ năng của đơn vị địch mang [buff_3481_1]. Đồng minh thi triển kỹ năng sẽ thu thập 1 điểm Quỷ Hỏa, cứ thu thập 30 điểm Quỷ Hỏa sẽ lập tức [Thi triển] 1 lần «Cáo Tử Minh Đăng» không tốn tiêu hao; cứ sau mỗi 100 điểm Quỷ Hỏa thu thập được, nhận kỹ năng bổ sung 『[skill_3484_1]』.",
+        "en": "[tips_11]. She gains [buff_3483_1] indefinitely. When you gain orbs from the Orb Bar, you will gain 1 additional orb. At the end of her turn, the Orb Bar will fill up 1 extra slot.\nFor a unit with [buff_3481_1], inflicting [buff_3481_1] on them again removes 2 orbs from them; Worldly Aoandon collects the removed orbs.\nShe collects all the orbs you have gained, all overflow orbs, and all the orbs spent on using skills by enemies with [buff_3481_1]. She collects 1 orb when an ally uses a skill. Whenever she collects 30 orbs, she immediately uses Lantern of Death free of orbs. Whenever she collects 100 orbs, she gains the additional skill [skill_3484_1].",
+        "zh": "[tips_11]。自身永久获得[buff_3483_1]。友方通过鬼火行动条获得鬼火时，额外获得1点鬼火；在自身回合结束时，使鬼火行动条额外推进1格。\n对于有[buff_3481_1]的目标，在再次被施加[buff_3481_1]时，扣除2点鬼火，扣除的鬼火被浮世青行灯收集。\n收集己方获得的所有鬼火、溢出的所有鬼火和附加[buff_3481_1]的敌方单位施放技能消耗的所有鬼火。友方施放技能时收集1点鬼火，每收集30点鬼火立即施放1次无消耗的『告死暝灯』；每收集100点鬼火后，获得额外技能『[skill_3484_1]』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Thu thập tất cả Quỷ Hỏa tràn ra của đồng minh.",
+            "en": "Collects all your overflow orbs.",
+            "zh": "收集友方溢出的所有鬼火"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thu thập 1 điểm Quỷ Hỏa khi đồng minh khác thi triển kỹ năng.",
+            "en": "Collects 1 orb when an ally uses a skill.",
+            "zh": "其他友方施放技能时收集1点鬼火"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thu thập toàn bộ Quỷ Hỏa tiêu hao khi thi triển kỹ năng của đơn vị mang [buff_3481_1].",
+            "en": "Collects all the orbs spent on using skills by units with [buff_3481_1].",
+            "zh": "收集附加[buff_3481_1]的单位施放技能消耗的所有鬼火"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi đồng minh nhận Quỷ Hỏa thông qua thanh hành động Quỷ Hỏa, nhận thêm 1 điểm Quỷ Hỏa; khi kết thúc lượt của bản thân, đẩy thanh hành động Quỷ Hỏa tiến thêm 1 ô.",
+            "en": "When you gain orbs from the Orb Bar, you gain 1 additional orb. At the end of her turn, Orb Bar fills up by 1 extra slot.",
+            "zh": "友方通过鬼火行动条获得鬼火时，额外获得1点鬼火；在自身回合结束时，使鬼火行动条额外推进1格"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3482",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3483,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cáo Tử Minh Đăng",
+        "en": "Lantern of Death",
+        "zh": "告死暝灯"
+      },
+      "intro": {
+        "vi": "Vạn ngàn kết cục, chỉ có duy nhất một cái phù hợp với ngươi.",
+        "en": "There may be millions of endings for you, but this is the only one you deserve.",
+        "zh": "结局万千，适合你的仅此一个。"
+      },
+      "description": {
+        "vi": "Sau khi chọn một mục tiêu sẽ tấn công toàn thể kẻ địch, gây sát thương 231% cho mục tiêu kẻ địch được chọn, đồng thời chắc chắn đính kèm [buff_3481_1], duy trì 2 lượt.\nGây sát thương 125% cho các mục tiêu khác, đồng thời ngẫu nhiên chọn hai đơn vị đính kèm [buff_3481_1], duy trì 2 lượt. Ưu tiên chọn mục tiêu chưa đính kèm [buff_3481_1].",
+        "en": "Chooses 1 enemy then attacks all enemies. Inflicts damage on the chosen enemy equal to 231% of her ATK and [buff_3481_1] lasting 2 turn(s) on them.\nThen inflicts damage on every other enemy equal to 125% of her ATK. Chooses 2 units at random and inflicts [buff_3481_1] lasting 2 turn(s) on them, prioritizing the ones without [buff_3481_1].",
+        "zh": "选择一个目标后攻击敌方全体，对被选择的敌方目标造成攻击231%伤害，并必定附加[buff_3481_1]，持续2回合。\n对其他目标造成攻击125%伤害，并随机选择两个单位附加[buff_3481_1]，持续2回合。优先选择没有附加[buff_3481_1]的目标。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương đối với mục tiêu kẻ địch được chọn tăng đến 216%, sát thương đối với các mục tiêu khác tăng đến 110%",
+            "en": "Increases damage dealt to the target enemy to 216% and to all other enemies to 110%.",
+            "zh": "对被选择的敌方目标伤害增加至216%，对其他目标伤害增加至110%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương đối với mục tiêu kẻ địch được chọn tăng đến 221%, sát thương đối với các mục tiêu khác tăng đến 115%",
+            "en": "Increases damage dealt to the target enemy to 221% and to all other enemies to 115%.",
+            "zh": "对被选择的敌方目标伤害增加至221%，对其他目标伤害增加至115%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương đối với mục tiêu kẻ địch được chọn tăng đến 226%, sát thương đối với các mục tiêu khác tăng đến 120%",
+            "en": "Increases damage dealt to the target enemy to 226% and to all other enemies to 120%.",
+            "zh": "对被选择的敌方目标伤害增加至226%，对其他目标伤害增加至120%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương đối với mục tiêu kẻ địch được chọn tăng đến 231%, sát thương đối với các mục tiêu khác tăng đến 125%",
+            "en": "Increases damage dealt to the target enemy to 231% and to all other enemies to 125%.",
+            "zh": "对被选择的敌方目标伤害增加至231%，对其他目标伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3483",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_qingxingdeng",
+    "headKey": "h_spqingxingdeng",
+    "armature": [
+      "spqingxingdeng_ani",
+      0,
+      1
+    ],
+    "artName": "txt_zhanshi_fushiqingxingdeng",
+    "skillIconKeys": [
+      "3481",
+      "3482",
+      "3483"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,302 @@
+{
+  "id": 367,
+  "name": {
+    "vi": "Họa Thế Hoa Điểu Quyển",
+    "en": "Virtuoso Hana",
+    "zh": "绘世花鸟卷"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 25, 10]",
+    "en": "[1, 25, 10]",
+    "zh": "[1, 25, 10]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2278,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 14467,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 388,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 112,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3671,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hàn Mai Tài Tuyết",
+        "en": "Plum Blossom Strike",
+        "zh": "寒梅裁雪"
+      },
+      "intro": {
+        "vi": "Hàn mai mượn xuân một cành về, đẹp không?",
+        "en": "Do you like the painting Winter Blossom Branch in Spring?",
+        "zh": "寒梅借春一枝回，好看吗？"
+      },
+      "description": {
+        "vi": "Vẽ cành hoa ngưng tụ từ màu mực để tấn công mục tiêu kẻ địch, gây sát thương 125%, đồng thời áp đặt Tí Hộ cho bản thân trong 1 lượt.",
+        "en": "Paints a colorful flower branch to attack 1 enemy, dealing damage equal to 125% of her ATK and grants Shelter to herself for 1 turn.",
+        "zh": "绘出彩墨凝成的花枝攻击敌方目标，对敌方目标造成攻击125%伤害，并为自身施加庇护1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tăng sát thương đến 125%, đồng thời áp đặt [buff_3675_1] cho bản thân trong 1 lượt.",
+            "en": "Increases the damage to 125% and grants [buff_3675_1] lasting 1 turn on herself.",
+            "zh": "伤害增加至125%，并为自身施加[buff_3675_1]1回合"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3671",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3672,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mặc Khí Thường Oanh",
+        "en": "Bound by Ink",
+        "zh": "墨气常萦"
+      },
+      "intro": {
+        "vi": "Bút mực luân chuyển, một thoáng mấy độ xuân thu.",
+        "en": "A few strokes mark the passing of a few centuries.",
+        "zh": "笔墨流转，一瞬几载春秋。"
+      },
+      "description": {
+        "vi": "[tips_11].\nKhi «Phù Sinh Họa Ảnh» biến mất ngoài lượt của bản thân, tăng 30% thanh hành động cho bản thân; khiến toàn thể đồng minh nhận [buff_3672_1].",
+        "en": "[tips_11].\nWhen Lifelike Image disappears outside her turn, her Move Bar raises by 30% and grants [buff_3672_1] to all allies.",
+        "zh": "[tips_11]。\n『浮生画影』在自身回合外消失时，增加自身30%行动条；使友方全体获得[buff_3672_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng trị liệu tăng do [buff_3672_1] cung cấp tăng đến 30%.",
+            "en": "Increases [buff_3672_1]'s healing amount boost to 30%.",
+            "zh": "[buff_3672_1]提升的治疗量增至30%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_3672_1] tăng thêm 20% kháng hiệu ứng.",
+            "en": "[buff_3672_1] also increases Effect RES by 20%.",
+            "zh": "[buff_3672_1]额外提升20%效果抵抗"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi bắt đầu chiến đấu, [buff_3672_1] khiến giới hạn HP của toàn thể đồng minh không phải vật triệu hồi vĩnh viễn tăng 10%.",
+            "en": "At the start of battle, [buff_3672_1] permanently increases the max HP of all non-summoned ally entities by 10%.",
+            "zh": "战斗开始时，[buff_3672_1]使全体非召唤物友方生命上限永久增加10%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi «Phù Sinh Họa Ảnh» biến mất ngoài lượt của bản thân, tăng 30% thanh hành động của bản thân.",
+            "en": "When Lifelike Image disappears outside her turn, raises her Move Bar by 30%.",
+            "zh": "『浮生画影』在自身回合外消失时，增加自身30%行动条"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3672",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3673,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Họa Mộng Phù Sinh",
+        "en": "Picturesque Life",
+        "zh": "绘梦浮生"
+      },
+      "intro": {
+        "vi": "Hoa tươi trước mắt, chẳng qua cũng chỉ là một cuộn giấc mộng cũ bụi trần.",
+        "en": "All these blossoms are nothing more than a scroll full of old memories.",
+        "zh": "眼前繁花，不过是一卷旧梦前尘。"
+      },
+      "description": {
+        "vi": "Triệu hồi [tips_3673] tồn tại [tips_15] 4 lượt, đưa chiến trường của kẻ địch cuốn vào cảnh tranh và chọn 1 mục tiêu kẻ địch không phải vật triệu hồi để áp đặt [buff_3674_1].\nKhi «Phù Sinh Họa Ảnh» tồn tại sẽ thay thế thành «Phồn Hoa Trụy Lộ», cấp độ tăng theo cường hóa của «Họa Mộng Phù Sinh».",
+        "en": "Summons a [tips_3673] that's [tips_15] for 4 turns to drag all enemies in a picturesque realm, then inflicts [buff_3674_1] on 1 non-summoned enemy entity.\nAs long as Lifelike Image is on the battlefield, the skill is changed to Blossom Rain, with its skill level equal to the skill level of Picturesque Life.",
+        "zh": "召唤[tips_15]4回合的[tips_3673]将敌方场地卷入画境中并选择一个非召唤物敌方目标施加[buff_3674_1]。\n当『浮生画影』存在时替换为『繁花坠露』，等级随『绘梦浮生』强化。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tỷ lệ truyền dẫn sát thương của «Phù Sinh Họa Ảnh» tăng đến 15%.",
+            "en": "Increases Lifelike Image's transferred damage to 15%.",
+            "zh": "『浮生画影』伤害传导比例提升至15%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi «Phù Sinh Họa Ảnh» tồn tại, sát thương diện rộng do toàn thể đồng minh gây ra tăng 10%.",
+            "en": "As long as Lifelike Image is on the battlefield, all allies deal 10% more AoE damage.",
+            "zh": "『浮生画影』存在时，全体友方造成的群体伤害提升10%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tỷ lệ truyền dẫn sát thương của «Phù Sinh Họa Ảnh» tăng đến 20%.",
+            "en": "Increases Lifelike Image's transferred damage to 20%.",
+            "zh": "『浮生画影』伤害传导比例提升至20%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi «Phù Sinh Họa Ảnh» tồn tại, sát thương diện rộng do toàn thể đồng minh gây ra tăng đến 20%.",
+            "en": "As long as Lifelike Image is on the battlefield, AoE damage boost to all allies to 20%.",
+            "zh": "『浮生画影』存在时，全体友方造成的群体伤害提升增至20%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3673",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_huaniaojuan",
+    "headKey": "h_sp_huaniaojuan",
+    "armature": [
+      "huaniaojuan_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_sphuaniaojuan",
+    "skillIconKeys": [
+      "3671",
+      "3672",
+      "3673"
+    ]
+  },
+  "unresolvedTokens": []
+}

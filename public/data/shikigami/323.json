@@ -1,0 +1,350 @@
+{
+  "id": 323,
+  "name": {
+    "vi": "Ameonna",
+    "en": "Tenjo-kudari",
+    "zh": "天井下"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[6]",
+    "en": "[6]",
+    "zh": "[6]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2010,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10822,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 445,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3231,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ném Đá",
+        "en": "Stone Strike",
+        "zh": "扔石头"
+      },
+      "intro": {
+        "vi": "Lén lút —— hầy!",
+        "en": "Hehe, let me just...",
+        "zh": "偷偷地——嘿！"
+      },
+      "description": {
+        "vi": "Ném đá về phía mục tiêu kẻ địch, gây sát thương 120%.",
+        "en": "Flings a stone at 1 enemy, dealing damage equal to 120% of her ATK.",
+        "zh": "向敌方目标扔出石头，造成攻击120%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3231",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3232,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Già Vũ",
+        "en": "Shelter for Rain",
+        "zh": "遮雨"
+      },
+      "intro": {
+        "vi": "Cứ yên tâm ở đây nhé!",
+        "en": "You can rest assured here!",
+        "zh": "在这里就安心吧！"
+      },
+      "description": {
+        "vi": "[tips_11].\nYêu Quái Ốc phát ra linh lực kỳ diệu, khiến toàn thể đồng minh không phải vật triệu hồi tăng [b_属性1数值_per] kháng hiệu ứng, bản thân tăng gấp đôi. Khi đồng minh không phải vật triệu hồi bắt đầu lượt, trị liệu lượng HP bằng [b_参数p1_per] giới hạn HP.",
+        "en": "[tips_11].\nGhoul House releases a magical charm, increasing the Effect RES of all non-summoned ally entities by [b_属性1数值_per]. The effect is doubled on herself. At the beginning of a non-summoned ally entity's turn, heals their HP by [b_参数p1_per] of their max HP.",
+        "zh": "[tips_11]。\n妖怪屋散发出神奇的灵力，使非召唤物的友方全体提升[b_属性1数值_per]效果抵抗，自身提升双倍。非召唤物的友方回合开始时，治疗等同其生命上限[b_参数p1_per]的生命。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng tăng kháng hiệu ứng tăng đến [b_属性1数值_per].",
+            "en": "Increases Effect RES to [b_属性1数值_per].",
+            "zh": "提升效果抵抗增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng tăng kháng hiệu ứng tăng đến [b_属性1数值_per].",
+            "en": "Increases Effect RES to [b_属性1数值_per].",
+            "zh": "提升效果抵抗增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tăng kháng hiệu ứng tăng đến [b_属性1数值_per].",
+            "en": "Increases Effect RES to [b_属性1数值_per].",
+            "zh": "提升效果抵抗增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi đồng minh không phải vật triệu hồi bắt đầu lượt, trị liệu lượng HP bằng [b_参数p1_per] giới hạn HP.",
+            "en": "At the beginning of a non-summoned entity ally's turn, heals their HP by [b_参数p1_per] of her max HP.",
+            "zh": "非召唤物的友方回合开始时，治疗等同其生命上限[b_参数p1_per]的生命"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3232",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3233,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Âm Vang Tái Ngộ",
+        "en": "Song of Reunion",
+        "zh": "再会之音"
+      },
+      "intro": {
+        "vi": "Ngươi có nhớ người quan trọng nào không?",
+        "en": "Are you thinking of someone important to you?",
+        "zh": "有回想起重要的人吗？"
+      },
+      "description": {
+        "vi": "Yêu Quái Ốc bình thường ở trạng thái mơ màng, khi sở hữu [buff_3233_1] sẽ miễn dịch [tips_3], Yêu Quái Ốc sẽ giữ được tỉnh táo. Ở trạng thái tỉnh táo, khiến toàn thể đồng minh tăng [b2_属性1数值_per] sát thương, bản thân tăng [b_属性1数值_per] kháng hiệu ứng. Khi đồng minh tiêu hao [buff_3233_1], khiến họ tăng thêm 25% thanh hành động.\nKhi bắt đầu lượt, Thiên Hấp Tấn tạm thời đánh thức Yêu Quái Ốc bên dưới, khiến nó giữ trạng thái tỉnh táo cho đến khi kết thúc lượt.\n【[Thi triển]】 Bản thân nhận 3 tầng [buff_3233_1], duy trì 1 lượt.",
+        "en": "Ghoul House normally stays dreamy, but becomes sober when Tenjo-kudari has [buff_3233_1], which grants her immunity to [tips_3]s. When sober, the damage of all allies is increased by [b2_属性1数值_per] and her own Effect RES is increased by [b_属性1数值_per]. When an ally consumes [buff_3233_1], it raises their Move Bar by 25%.\nAt the beginning of her turn, Tenjo-kudari wakes the Ghoul House underneath, making it sober until the end of her turn.\nActive skill: Gains her 3 stacks of [buff_3233_1] for 1 turn.",
+        "zh": "妖怪屋在平常时候处于迷梦状态，拥有[buff_3233_1]时免疫[tips_3]，妖怪屋将保持清醒。清醒状态时使友方全体提升[b2_属性1数值_per]伤害，自身提升[b_属性1数值_per]效果抵抗。友方消耗[buff_3233_1]时，使其额外增加25%行动条。\n回合开始时，天井下暂时唤醒身下的妖怪屋，使其保持清醒状态直到回合结束。\n【施放】自身获得3层[buff_3233_1]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng tăng sát thương tăng đến [b2_属性1数值_per].",
+            "en": "Increases damage boost effect to [b2_属性1数值_per].",
+            "zh": "提升伤害效果增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng tăng sát thương tăng đến [b2_属性1数值_per].",
+            "en": "Increases damage boost effect to [b2_属性1数值_per].",
+            "zh": "提升伤害效果增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi đồng minh tiêu hao [buff_3233_1], khiến họ tăng thêm 25% thanh hành động.",
+            "en": "Raises the Move Bar of an ally by 25% when a [buff_3233_1] is consumed on their turn.",
+            "zh": "友方消耗[buff_3233_1]时，使其额外增加25%行动条"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi đồng minh tiêu hao [buff_3233_1], khiến họ tăng thêm 25% thanh hành động.",
+            "en": "Raises the Move Bar of an ally by 25% when a [buff_3233_1] is consumed on their turn.",
+            "zh": "友方消耗[buff_3233_1]时，使其额外增加25%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tăng sát thương tăng đến [b2_属性1数值_per].",
+            "en": "Increases damage boost effect to [b2_属性1数值_per].",
+            "zh": "提升伤害效果增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tăng sát thương tăng đến [b2_属性1数值_per].",
+            "en": "Increases damage boost effect to [b2_属性1数值_per].",
+            "zh": "提升伤害效果增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nhận dấu ấn hoan hỉ tăng đến 3 tầng.",
+            "en": "Increases Revel Mark gained to 3 layers.",
+            "zh": "获得欢愉标记增至3层"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nhận dấu ấn hoan hỉ tăng đến 3 tầng.",
+            "en": "Increases Revel Mark gained to 3 layers.",
+            "zh": "获得欢愉标记增至3层"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3233",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "tianjinxia",
+    "headKey": "h_tianjinxia",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3231",
+      "3232",
+      "3233"
+    ]
+  },
+  "unresolvedTokens": []
+}

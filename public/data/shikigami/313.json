@@ -1,0 +1,255 @@
+{
+  "id": 313,
+  "name": {
+    "vi": "Inuyasha",
+    "en": "Inuyasha",
+    "zh": "犬夜叉"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2680,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 104,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3131,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong Chi Thương",
+        "en": "Wind Scar",
+        "zh": "风之伤"
+      },
+      "intro": {
+        "vi": "Phong Chi Thương!",
+        "en": "Wind Scar!",
+        "zh": "风之伤！"
+      },
+      "description": {
+        "vi": "Vung Thiết Toái Nha tung ra đòn đánh mạnh mẽ chứa đựng sức mạnh của gió tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công, và giúp bản thân có 10% xác suất nhận 1 tầng [buff_3131_1], giới hạn [b2_堆叠上限] tầng.\nKhi lượt kết thúc, nhận 1 tầng [buff_3131_1].",
+        "en": "Wields his Tessaiga to launch a heavy strike at the target with a gust of wind, dealing damage equal to 125% of his ATK, with a 10% chance of gaining a layer of [buff_3131_1] (stacks up to [b2_堆叠上限] layers) after the attack.\nGains a layer of [buff_3131_1] at the end of his turn.",
+        "zh": "挥动铁碎牙打出蕴含风之力的强力一击攻击敌方目标，造成攻击125%伤害，并使自身有10%概率获得1层[buff_3131_1]，上限[b2_堆叠上限]层。\n回合结束后，获得1层[buff_3131_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3131",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3132,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Bộc Lưu Phá",
+        "en": "Backlash Wave",
+        "zh": "爆流破"
+      },
+      "intro": {
+        "vi": "Bộc Lưu Phá!",
+        "en": "Backlash Wave!",
+        "zh": "爆流破！"
+      },
+      "description": {
+        "vi": "Khi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân ở trạng thái [tips_27], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1], mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho 『Thiết Toái Nha』 tiến hóa, lần lượt là 『[skill_3136_1]』, 『[skill_3136_2]』, 『[skill_3136_3]』, 『[skill_3136_4]』.",
+        "en": "Whenever an enemy spends orbs, if he's under [tips_27], there is a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each stack consumed increases the damage by 10%.\nWhenever this is triggered, Tessaiga evolves in sequence into [skill_3136_1], [skill_3136_2], [skill_3136_3], and [skill_3136_4].",
+        "zh": "当敌方消耗鬼火后，若自身处于[tips_27]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使『铁碎牙』得到进化，依序为『[skill_3136_1]』、『[skill_3136_2]』、『[skill_3136_3]』、『[skill_3136_4]』。"
+      },
+      "upgrades": [],
+      "orbCost": 1,
+      "iconKey": "3132",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3133,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiết Toái Nha",
+        "en": "Tessaiga",
+        "zh": "铁碎牙"
+      },
+      "intro": {
+        "vi": "Thiết Toái Nha!",
+        "en": "Tessaiga!",
+        "zh": "铁碎牙！"
+      },
+      "description": {
+        "vi": "Dùng hết sức vung Thiết Toái Nha giải phóng nhiều luồng đao khí, tấn công 7 lần, mỗi lần gây cho mục tiêu kẻ địch ngẫu nhiên sát thương bằng 50% Tấn công, và có 80% xác suất tấn công thêm một mục tiêu kẻ địch ngẫu nhiên.",
+        "en": "Strikes random enemies with a full swing of Tessaiga 7 times, releasing layers of blade energy and dealing damage equal to 50% of his ATK each time. Has an 80% chance of attacking an extra random enemy.",
+        "zh": "使出全力挥舞铁碎牙释放多重刀气，攻击7次，每次对随机敌方目标造成攻击50%伤害，并有80%的概率额外攻击一个随机敌方目标。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至42%",
+            "en": "伤害增加至42%",
+            "zh": "伤害增加至42%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至44%",
+            "en": "伤害增加至44%",
+            "zh": "伤害增加至44%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至46%",
+            "en": "伤害增加至46%",
+            "zh": "伤害增加至46%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至50%",
+            "en": "伤害增加至50%",
+            "zh": "伤害增加至50%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3133",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "quanyecha",
+    "headKey": "h_quanyecha",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3131",
+      "3132",
+      "3133"
+    ]
+  },
+  "unresolvedTokens": [
+    "tips_6"
+  ]
+}

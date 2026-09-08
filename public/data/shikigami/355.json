@@ -1,0 +1,302 @@
+{
+  "id": 355,
+  "name": {
+    "vi": "Lộc Minh Đại Nhạc Hoàn",
+    "en": "Monumental Otakemaru",
+    "zh": "麓铭大岳丸"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 38, 17]",
+    "en": "[1, 38, 17]",
+    "zh": "[1, 38, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3350,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11392,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 441,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 115,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3551,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lộc Ảnh • Thực",
+        "en": "Mountain's Shadow: Erode",
+        "zh": "麓影·蚀"
+      },
+      "intro": {
+        "vi": "Hóa thành bọt tuyết đi.",
+        "en": "I will reduce you to mass of bubbles.",
+        "zh": "化作泡沫吧。"
+      },
+      "description": {
+        "vi": "Vung Hiển Minh Liên, chém ra một luồng kiếm khí, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công, đồng thời đính kèm [buff_3551_1] cho mục tiêu.",
+        "en": "Wields Kenmyoren and unleashes a wave of energy at 1 enemy, dealing damage equal to 125% of his ATK and inflicts [buff_3551_1] on the enemy.",
+        "zh": "挥动显明连，斩出一道剑气，对敌方目标造成攻击125%伤害，并对目标附加[buff_3551_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3551",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3552,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Minh Hải Chi Chủ",
+        "en": "Master of the Mountain",
+        "zh": "铭海之主"
+      },
+      "intro": {
+        "vi": "Nơi nào có ta, nơi đó chính là Linh Lộc Sơn.",
+        "en": "Mt. Suzuka is where I stand.",
+        "zh": "我之所在，即为铃鹿山。"
+      },
+      "description": {
+        "vi": "[tips_11].\nTiến vào trạng thái Ngự Hồn, duy trì 3 lượt, tăng 100% Kháng Hiệu Ứng, sát thương đơn thể gánh chịu giảm 50%, khi bất kỳ đơn vị không phải vật triệu hồi nào tử trận, hồi phục lượng HP bằng 30% giới hạn HP, khi các đồng minh khác thi triển kỹ năng yêu thuật, nhận 1 tầng [buff_3553_1].\nTrong trạng thái Ngự Hồn, khi trên sân có từ 3 đơn vị không phải vật triệu hồi trở lên tử trận, xóa bỏ tất cả [tips_25] của bản thân, tiến vào trạng thái Quy Hài, tăng 100 điểm Tốc độ, sát thương gánh chịu giảm 50%, miễn nhiễm giảm ích và Trục Xuất, khi gây sát thương kèm theo 12% Hút Máu, vào lượt hành động của bản thân tự động thi triển 『[skill_3554_1]』.",
+        "en": "[tips_11].\nEnters the Soul-controlling form for 3 turns, increasing his Effect RES by 100%, reducing his single-target damage taken by 50%, recovering his HP by 30% of his max HP whenever another non-summoned entity is KO'd, and granting him 1 [buff_3553_1] stack whenever another ally uses a Skill.\nWhile in the Soul-controlling form, when a unit is KO'd, if 3 or more non-summoned entities have been KO'd, removes each [tips_25] on him. He then enters the Reincarnation form, increasing his SPD by 100, reducing his damage taken by 50%, granting him immunity to debuffs and Banish, and allowing him to inflict 12% HP Steal when dealing damage and use [skill_3554_1] on his action turns.",
+        "zh": "[tips_11]。\n进入驭魂形态，持续3回合，提升100%效果抵抗，受到的单体伤害降低50%，任意非召唤物单位阵亡时，恢复生命上限30%的生命，其它友方施放妖术技能后，获得1层[buff_3553_1]。\n驭魂形态下，场上有3名或以上非召唤物单位阵亡时，移除自身所有[tips_25]，进入归骸形态，提升100点速度，受到的伤害降低50%，免疫减益和放逐，造成伤害时附带12%吸血，自身行动回合自动施放『[skill_3554_1]』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trong trạng thái Ngự Hồn sát thương đơn thể bản thân gánh chịu giảm 50%",
+            "en": "Reduces his single-target damage taken by 50% when he's in the Soul-controlling form.",
+            "zh": "驭魂形态下自身受到的单体伤害降低50%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trong trạng thái Ngự Hồn khi bất kỳ đơn vị không phải vật triệu hồi nào tử trận, hồi phục lượng HP bằng 30% giới hạn HP",
+            "en": "When a non-summoned entity is KO'd while he's in the Soul-controlling form, recovers his HP by 30% of his max HP.",
+            "zh": "驭魂形态下任意非召唤物单位阵亡时，恢复生命上限30%的生命"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trạng thái Ngự Hồn duy trì 3 lượt",
+            "en": "Soul-controlling form lasts 3 turns.",
+            "zh": "驭魂形态持续3回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Thi triển 『Minh Hải Chi Chủ』",
+            "en": "[tips_7]: Uses Master of the Mountain.",
+            "zh": "[tips_7]：施放『铭海之主』"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3552",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3553,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đoạn Mạt Vô Minh",
+        "en": "Forgotten End",
+        "zh": "断末无铭"
+      },
+      "intro": {
+        "vi": "Kẻ nào đối đầu với Linh Lộc Sơn, hãy biến mất không tiếng động đi!",
+        "en": "Enemies of Mt. Suzuka, disappear now and be forgotten!",
+        "zh": "与铃鹿山为敌者，无声无息地消失吧！"
+      },
+      "description": {
+        "vi": "Chém ra sóng đá tấn công toàn bộ phe địch, gây sát thương bằng 240% Tấn công. Trong trạng thái Ngự Hồn, đồng thời đính kèm [buff_3551_1] cho toàn bộ phe địch, duy trì 1 lượt. Trước khi gây sát thương xua tan 1 hiệu ứng tăng ích của toàn bộ phe địch.",
+        "en": "Unleashes a wave of rocks to attack all enemies, dealing damage equal to 240% of his ATK. If he's in the Soul-controlling form, also inflicts [buff_3551_1] on all enemies for 1 turn. Before dealing damage, dispels a buff from each of his enemies.",
+        "zh": "斩出石浪攻击敌方全体，造成攻击240%伤害。驭魂形态下，同时对敌方全体附加[buff_3551_1]，持续1回合。造成伤害前驱散敌方全体1个增益效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至200%",
+            "en": "伤害增加至200%",
+            "zh": "伤害增加至200%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至220%",
+            "en": "伤害增加至220%",
+            "zh": "伤害增加至220%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至240%",
+            "en": "伤害增加至240%",
+            "zh": "伤害增加至240%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Trước khi gây sát thương xua tan 1 trạng thái tăng ích của toàn bộ phe địch",
+            "en": "Before dealing damage, dispels a buff from each of his enemies.",
+            "zh": "造成伤害前驱散敌方全体1个增益状态"
+          }
+        }
+      ],
+      "orbCost": 4,
+      "iconKey": "3553",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_dayuewan",
+    "headKey": "h_spdayuewan",
+    "armature": [
+      "spdayuewankamian_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_lumingdayuewan",
+    "skillIconKeys": [
+      "3551",
+      "3552",
+      "3553"
+    ]
+  },
+  "unresolvedTokens": []
+}

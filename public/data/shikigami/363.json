@@ -1,0 +1,350 @@
+{
+  "id": 363,
+  "name": {
+    "vi": "Đế Thích Thiên",
+    "en": "Taishakuten",
+    "zh": "帝释天"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17, 1, 12]",
+    "en": "[17, 1, 12]",
+    "zh": "[17, 1, 12]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2840,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 14126,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 101,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "9%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3631,
+      "maxLevel": 5,
+      "name": {
+        "vi": "天诛",
+        "en": "天诛",
+        "zh": "天诛"
+      },
+      "intro": {
+        "vi": "王必身先士卒。",
+        "en": "王必身先士卒。",
+        "zh": "王必身先士卒。"
+      },
+      "description": {
+        "vi": "攻击敌方目标，造成攻击125%伤害。",
+        "en": "攻击敌方目标，造成攻击125%伤害。",
+        "zh": "攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3631",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3632,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vô Cấu Liên Hoa",
+        "en": "Flawless Lotus",
+        "zh": "无垢莲华"
+      },
+      "intro": {
+        "vi": "Ngươi đang nghĩ gì, ta đều biết cả.",
+        "en": "I know everything that's on your mind.",
+        "zh": "你在想什么，我都知道。"
+      },
+      "description": {
+        "vi": "[tips_11].\nKhi bắt đầu lượt, nếu bản thân không ở trạng thái [tips_17], mở huyễn cảnh «[skill_3634_1]»; nếu huyễn cảnh «Vương Chi Thịnh Yến» chưa mở, khi kết thúc lượt tăng 50% thanh hành động của bản thân.\n【Thi triển】 Áp đặt [buff_3632_1] lên mục tiêu kẻ địch với 100% [tips_2], duy trì 2 lượt.",
+        "en": "[tips_11].\nAt the start of his turn, if he's not [tips_17], creates a [skill_3634_1] field. If Ceremony of the King field was not created, raises his Move Bar by 50% at the end of his turn.\nUsing the skill has a 100% [tips_2] of inflicting [buff_3632_1] lasting 2 turns on the enemy target.",
+        "zh": "[tips_11]。\n回合开始时，若自身未处于[tips_17]，开启『[skill_3634_1]』幻境；若『王之盛宴』幻境未开启，回合结束时提升自身50%行动条。\n【施放】以100%[tips_2]对敌方目标施加[buff_3632_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trong lượt của kẻ địch bị áp đặt [buff_3632_1], giảm 80% tấn công ban đầu",
+            "en": "Reduces the starting ATK of the enemy inflicted with [buff_3632_1] by 80% on their turn.",
+            "zh": "被施加[buff_3632_1]的敌方回合中降低80%初始攻击"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Nếu huyễn cảnh «Vương Chi Thịnh Yến» chưa mở, khi kết thúc lượt tăng 50% thanh hành động của bản thân",
+            "en": "If Ceremony of the King field was not created, raises his Move Bar by 50% at the end of his turn.",
+            "zh": "若『王之盛宴』幻境未开启，回合结束时提升自身50%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trong lượt của kẻ địch bị áp đặt [buff_3632_1], nếu tiến hành đánh thường, phe ta nhận 1 điểm Quỷ Hỏa",
+            "en": "If the enemy inflicted with [buff_3632_1] uses a normal attack on their turn, grants 1 orb to you.",
+            "zh": "被施加[buff_3632_1]的敌方回合中若进行普攻，友方获得1点鬼火"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Thời gian duy trì của [buff_3632_1] tăng đến 2 lượt; khi áp đặt lên quái vật, khiến sát thương bổ sung tăng bằng 70% tấn công của Đế Thích Thiên",
+            "en": "Increases [buff_3632_1] duration to 2 turns. If it's inflicted on a monster, it additional inflicts damage equal to 70% of Taishakuten's ATK.",
+            "zh": "[buff_3632_1]持续时间增加至2回合；对怪物施加时，使额外伤害增加帝释天攻击70%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3632",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3633,
+      "maxLevel": 5,
+      "name": {
+        "vi": "刹那莲华绽放",
+        "en": "刹那莲华绽放",
+        "zh": "刹那莲华绽放"
+      },
+      "intro": {
+        "vi": "这血肉之躯筑造的王座，会越来越高。",
+        "en": "这血肉之躯筑造的王座，会越来越高。",
+        "zh": "这血肉之躯筑造的王座，会越来越高。"
+      },
+      "description": {
+        "vi": "Tấn công toàn thể kẻ địch, gây sát thương 159%, đồng thời hồi phục lượng HP bằng 100% tấn công cho bản thân và 1 đồng minh có tỷ lệ HP thấp nhất khác. Khi [Thi triển] trong lượt, gây thêm 2 lần sát thương lên kẻ địch bị áp đặt Kim Liên.\nKhi Kim Liên bị áp đặt biến mất, giải trừ hoặc [tips_1] hiệu ứng khống chế của bản thân, không tốn tiêu hao [Thi triển] 1 lần «Sát Na Liên Hoa Trảm» không kích hoạt Ngự Hồn và bị động của toàn thể kẻ địch, nhưng sát thương và hồi phục giảm 40%",
+        "en": "Attacks all enemies, dealing damage equal to 159% of his ATK and recovering the HP of himself and the ally with the lowest proportion of HP each by 100% of his ATK. Using the skill on his turn also inflicts damage to the enemy with Golden Lotus twice.\nWhen the inflicted Golden Lotus disappears, dispels or [tips_1] all control effects on him and uses an Instant Lotus Bloom for no orb cost. The damage doesn't trigger the Soul-set effects and passive skills of all enemies, and instead deals 40% less damage and recovers 40% less HP.",
+        "zh": "攻击敌方全体，造成攻击159%伤害，并为自身和另一生命比例最低的友方恢复攻击100%的生命。回合内施放时，对被施加金莲的敌方额外造成2次伤害。\n施加的金莲消失时，驱散或[tips_1]自身控制效果，免消耗施放1次不触发敌方全体御魂及被动的『刹那莲华绽放』，但伤害和恢复降低40%"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至145%",
+            "en": "伤害增加至145%",
+            "zh": "伤害增加至145%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至145%",
+            "en": "伤害增加至145%",
+            "zh": "伤害增加至145%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至152%",
+            "en": "伤害增加至152%",
+            "zh": "伤害增加至152%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至152%",
+            "en": "伤害增加至152%",
+            "zh": "伤害增加至152%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至159%",
+            "en": "伤害增加至159%",
+            "zh": "伤害增加至159%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至159%",
+            "en": "伤害增加至159%",
+            "zh": "伤害增加至159%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Kim Liên bị áp đặt biến mất, giải trừ hoặc [tips_1] hiệu ứng khống chế của bản thân, không tốn tiêu hao [Thi triển] 1 lần «Sát Na Liên Hoa Trảm» không kích hoạt Ngự Hồn và bị động của toàn thể kẻ địch, nhưng sát thương và hồi phục giảm 40%.",
+            "en": "When the inflicted Golden Lotus disappears, dispels or [tips_1]s all control effects on him and uses an Instant Lotus Bloom for no orb cost. The damage doesn't trigger the Soul-set effects and passive skills of all enemies, and instead deals 40% less damage and recovers 40% less HP.",
+            "zh": "施加的金莲消失时，驱散或[tips_1]自身控制效果，免消耗施放1次不触发敌方全体御魂及被动的『刹那莲华绽放』，但伤害和恢复降低40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Kim Liên bị áp đặt biến mất, giải trừ hoặc [tips_1] hiệu ứng khống chế của bản thân, không tốn tiêu hao [Thi triển] 1 lần «Sát Na Liên Hoa Trảm» không kích hoạt Ngự Hồn và bị động của toàn thể kẻ địch, nhưng sát thương và hồi phục giảm 40%.",
+            "en": "When the inflicted Golden Lotus disappears, dispels or [tips_1]s all control effects on him and uses an Instant Lotus Bloom for no orb cost. The damage doesn't trigger the Soul-set effects and passive skills of all enemies, and instead deals 40% less damage and recovers 40% less HP.",
+            "zh": "施加的金莲消失时，驱散或[tips_1]自身控制效果，免消耗施放1次不触发敌方全体御魂及被动的『刹那莲华绽放』，但伤害和恢复降低40%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3633",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "dishitian",
+    "headKey": "h_dishitian",
+    "armature": "",
+    "artName": "txt_zhanshi_dishitian",
+    "skillIconKeys": [
+      "3631",
+      "3632",
+      "3633"
+    ]
+  },
+  "unresolvedTokens": []
+}

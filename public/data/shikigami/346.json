@@ -1,0 +1,253 @@
+{
+  "id": 346,
+  "name": {
+    "vi": "Linh Hải Kim Ngư Cơ",
+    "en": "Seawatch Kingyo",
+    "zh": "聆海金鱼姬"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[12, 38, 10]",
+    "en": "[12, 38, 10]",
+    "zh": "[12, 38, 10]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3001,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11050,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 111,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3461,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Xuyên Lưu",
+        "en": "River Water",
+        "zh": "川流"
+      },
+      "intro": {
+        "vi": "Nơi nước sông phía ấy.",
+        "en": "I stand by the water.",
+        "zh": "在水一方。"
+      },
+      "description": {
+        "vi": "Triệu hồi dòng nước xung kích kẻ địch, gây cho mục tiêu sát thương bằng 80% Tấn công và xua tan 1 hiệu ứng tăng ích.\nKhi đồng minh chịu sát thương đơn lẻ từ kẻ địch vượt quá 30% giới hạn HP của họ, đính kèm 3 tầng [buff_3461_1] cho nguồn gây sát thương, duy trì 2 lượt.",
+        "en": "Channels a stream of water to attack 1 enemy, dealing damage equal to 80% of her ATK and dispels 1 buff from them.\nWhen an ally takes damage from a single hit exceeding 30% of their max HP, inflicts 3 stacks of [buff_3461_1] on the damage source for 2 turns.",
+        "zh": "召唤水流冲击敌人，对目标造成攻击80%伤害并驱散1个增益状态。\n友方受到单次敌方伤害超过其生命上限30%时，为伤害来源施加3层[buff_3461_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至85%",
+            "en": "伤害增加至85%",
+            "zh": "伤害增加至85%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至90%",
+            "en": "伤害增加至90%",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至95%",
+            "en": "伤害增加至95%",
+            "zh": "伤害增加至95%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3461",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3462,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Lăng Ba",
+        "en": "Ride Wave",
+        "zh": "凌波"
+      },
+      "intro": {
+        "vi": "Ở bãi trong nước.",
+        "en": "I stand in the water.",
+        "zh": "在水中沚。"
+      },
+      "description": {
+        "vi": "Sau khi lượt của kẻ địch kết thúc, nhận 1 tầng [buff_3462_1], nếu bản thân chưa sở hữu [buff_3464_1], liền nhận [buff_3464_1] bằng 80% Tấn công. Khi [buff_3462_1] đạt 8 lớp, giải trừ hiệu ứng khống chế của bản thân và mở kết giới, trong kết giới khi kẻ địch nhận tăng thanh hành động đơn thể sẽ bị giảm 40% Tốc độ.\n[tips_7]: nhận 4 tầng [buff_3462_1].",
+        "en": "After the enemy turn ends, gain 1 stack of [buff_3462_1]. If [buff_3464_1] is not already active, gain [buff_3464_1] equal to 80% of ATK. When [buff_3462_1] reaches 8 stacks, remove all control effects from self and unfurl a Realm. Inside the Realm, when enemies gain single-target Move Bar boosts, their SPD is reduced by 40%.\n[tips_7]: Gain 4 stacks of [buff_3462_1].",
+        "zh": "敌方回合结束后，获得1层[buff_3462_1]，若自身未拥有[buff_3464_1]，则获得攻击80%的[buff_3464_1]。[buff_3462_1]达到8层时解除自身控制效果并开启结界，结界中敌方获得单体行动条提升时速度减少40%。\n[tips_7]：获得4层[buff_3462_1]。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "3462",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3463,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Linh Ngư Bão Nhụy",
+        "en": "Goldfish's Embrace",
+        "zh": "灵鱼抱蕊"
+      },
+      "intro": {
+        "vi": "Vẫn ở giữa làn nước.",
+        "en": "I'm embraced by the water.",
+        "zh": "宛在水中央。"
+      },
+      "description": {
+        "vi": "[tips_11]. Đính kèm 3 tầng Oán Hận cho mục tiêu kẻ địch đồng thời mở Chùm Đuôi Cá duy trì 1 lượt, khi mở tăng 10% Thanh Hành Động cho toàn bộ đồng minh, bản thân nhận 1 tầng [tips_6006]. Trong thời gian duy trì, khi kẻ địch nhận hiệu ứng tăng thanh hành động đơn thể hoặc tăng tốc đơn thể, nhận 1 tầng [tips_6006]; sau khi lượt của đồng minh kết thúc, nếu bản thân không ở trong [tips_17], trị liệu cho họ lượng HP bằng 50% Tấn công và kích hoạt [tips_6006].",
+        "en": "[tips_11]. Inflicts 3 stacks of Grudge on an enemy target and activates Fishtail Cluster for 1 turn. When activated, raises all allies' Move Bars by 10% and gains 1 stack of [tips_6006]. While active, whenever an enemy gains a single-target Move Bar boost or single-target Haste effect, gains 1 stack of [tips_6006]. After an ally's turn ends, if self is not under [tips_17], restores HP equal to 50% of ATK for that ally and triggers [tips_6006].",
+        "zh": "[tips_11]。为敌方目标施加3层结怨并开启持续1回合的鱼尾之簇，开启时提升友方全体10%行动条，自身获得1层[tips_6006]。持续期间敌方获得单体行动条提升或单体加速效果时，获得1层[tips_6006]，友方回合结束后，若自身未处于[tips_17]，为其治疗攻击50%的生命并触发[tips_6006]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương của Lãng Dũng gây ra cho mục tiêu mang [buff_3461_1] tăng lên 150%",
+            "en": "Surge increases the damage to targets with [buff_3461_1] to 150%.",
+            "zh": "浪涌对带有[buff_3461_1]的目标伤害增加至150%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trong thời gian Chùm Đuôi Cá, sát thương không phải bạo kích đồng minh gánh chịu giảm 30%, bản thân giảm thêm 30%",
+            "en": "During Fishtail Cluster, allies take 30% less non-Crit damage, and the user takes an extra 30% less.",
+            "zh": "鱼尾之簇期间友方受到的非暴击伤害降低30%，自身额外降低30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu quả trị liệu đối với đồng minh có HP không cao hơn 50% tăng 200%",
+            "en": "Increases her healing effects on allies with HP equal or lower than 50% to 200%.",
+            "zh": "对生命值不高于50%的友方治疗效果增加200%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "消耗鬼火减少1点",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3463",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_jinyuji",
+    "headKey": "h_spjinyuji",
+    "armature": [
+      "spjinyuji_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_linghaijinyuji",
+    "skillIconKeys": [
+      "3461",
+      "3462",
+      "3463"
+    ]
+  },
+  "unresolvedTokens": []
+}

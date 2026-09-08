@@ -1,0 +1,426 @@
+{
+  "id": 286,
+  "name": {
+    "vi": "Dĩ Tân Chân Thiên",
+    "en": "Itsumade",
+    "zh": "以津真天"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2974,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2861,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong Chi Vũ",
+        "en": "Dance of the Wind",
+        "zh": "风之舞"
+      },
+      "intro": {
+        "vi": "Nhanh chóng kết thúc tất cả chuyện này đi!",
+        "en": "I will end all this!",
+        "zh": "快点结束这一切吧！"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch bằng vuốt sắc, gây sát thương bằng 85% Tấn công. Nếu không phải tiến hành phản kích, mỗi tầng [buff_2862_1] tăng thêm 1 lần số đòn tấn công. Nếu kẻ địch bị đính kèm [buff_2862_1], mỗi khi có 1 tầng [buff_2862_1], liền tăng thêm 1 lần số đòn tấn công, giới hạn 4 lần.",
+        "en": "Mauls 1 enemy, dealing damage equal to 85% of her ATK. Inflicts 1 follow-up attack for each layer of [buff_2862_1] on her (not triggered when counter-attacking). Also inflicts 1 follow-up attack for each layer of [buff_2862_1] on the target if they have [buff_2862_1] on them. She can inflict up to 4 attacks in total.",
+        "zh": "以利爪攻击敌方目标，造成攻击85%伤害。若非进行反击，则每层[buff_2862_1]增加1次攻击次数。若敌方被附加[buff_2862_1]，每有1层[buff_2862_1]，则增加1次攻击次数，上限4次。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至65%",
+            "en": "伤害增加至65%",
+            "zh": "伤害增加至65%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至70%",
+            "en": "伤害增加至70%",
+            "zh": "伤害增加至70%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至75%",
+            "en": "伤害增加至75%",
+            "zh": "伤害增加至75%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至85%",
+            "en": "伤害增加至85%",
+            "zh": "伤害增加至85%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2861",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2862,
+      "maxLevel": 7,
+      "name": {
+        "vi": "Hoàng Kim Vũ",
+        "en": "Golden Feather",
+        "zh": "黄金羽"
+      },
+      "intro": {
+        "vi": "Hoàng kim vũ... vì thứ này mà gặp không ít rắc rối đấy.",
+        "en": "Feathers aren't always soft, you know...",
+        "zh": "黄金羽毛……因为这个遇到不少麻烦呢。"
+      },
+      "description": {
+        "vi": "Khi lượt bắt đầu, nhận ngẫu nhiên 1-3 tầng [buff_2862_1].\nKhi chịu sát thương, chuyển 1 tầng ấn ký đính kèm cho nguồn gây sát thương, giới hạn 3 tầng.\nKẻ địch mang [buff_2862_1] khi bị Đánh Thường, Dĩ Tân Chân Thiên có 50% xác suất [tips_9].\nKhi tử trận, đối với kẻ địch trên sân mang [buff_2862_1], tiêu hao toàn bộ số tầng, mỗi tầng ấn ký gây sát thương bằng 30% Tấn công.",
+        "en": "At the start of her turn, gains 1 - 3 layers of [buff_2862_1].\nWhen she's dealt damage, transfers a layer of the mark (stacks up to 3 layers) onto the damage dealer.\nItsumade has a 50% chance of [tips_9]ing when an enemy with [buff_2862_1] is attacked by a normal attack.\nWhen she's KO'd, consumes all layers of [buff_2862_1] on enemies, dealing damage equal to 30% of her ATK on them for each layer consumed.",
+        "zh": "回合开始时，获得随机1-3层[buff_2862_1]。\n受到伤害时，将1层印记转为附加至伤害者，上限3层。\n带有[buff_2862_1]的敌方被普攻时，以津真天有50%概率[tips_9]。\n阵亡时，对场上带有[buff_2862_1]的敌人，消耗所有层数，每层印记造成攻击30%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 7%, 21%, 42%",
+            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 7%, 21% and 42% respectively.",
+            "zh": "黄金羽的减疗和易伤效果根据层数增至7%、21%、42%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 7%, 21%, 42%",
+            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 7%, 21% and 42% respectively.",
+            "zh": "黄金羽的减疗和易伤效果根据层数增至7%、21%、42%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng tăng thương, giảm trị liệu tăng lên 6%",
+            "en": "Increases each effect of debuff to 6%.",
+            "zh": "增伤效果、减疗效果提升至6%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 8%, 24%, 48%",
+            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 8%, 24% and 48% respectively.",
+            "zh": "黄金羽的减疗和易伤效果根据层数增至8%、24%、48%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 8%, 24%, 48%",
+            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 8%, 24% and 48% respectively.",
+            "zh": "黄金羽的减疗和易伤效果根据层数增至8%、24%、48%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng tăng thương, giảm trị liệu tăng lên 7%",
+            "en": "Increases each effect of debuff to 7%.",
+            "zh": "增伤效果、减疗效果提升至7%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 9%, 27%, 54%",
+            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 9%, 27% and 54% respectively.",
+            "zh": "黄金羽的减疗和易伤效果根据层数增至9%、27%、54%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 9%, 27%, 54%",
+            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 9%, 27% and 54% respectively.",
+            "zh": "黄金羽的减疗和易伤效果根据层数增至9%、27%、54%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tăng thương, giảm trị liệu tăng lên 8%",
+            "en": "Increases each effect of debuff to 8%.",
+            "zh": "增伤效果、减疗效果提升至8%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 10%, 30%, 60%",
+            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 10%, 30% and 60% respectively.",
+            "zh": "黄金羽的减疗和易伤效果根据层数增至10%、30%、60%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 10%, 30%, 60%",
+            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 10%, 30% and 60% respectively.",
+            "zh": "黄金羽的减疗和易伤效果根据层数增至10%、30%、60%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng tăng thương, giảm trị liệu tăng lên 9%",
+            "en": "Increases each effect of debuff to 9%.",
+            "zh": "增伤效果、减疗效果提升至9%"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "Hiệu ứng tăng thương, giảm trị liệu tăng lên 9%",
+            "en": "Increases each effect of debuff to 9%.",
+            "zh": "增伤效果、减疗效果提升至9%"
+          }
+        },
+        {
+          "level": 7,
+          "text": {
+            "vi": "[buff_2862_1] hiệu ứng giảm trị liệu, tăng thương gánh chịu tăng lên [b_属性1数值_per]",
+            "en": "Increases [buff_2862_1]'s Heal Down and Vulnerability effect to [b_属性1数值_per].",
+            "zh": "[buff_2862_1]减疗、易伤效果增至[b_属性1数值_per]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2862",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 7,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2863,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Vũ Phong Chi Vũ",
+        "en": "Feather Dance",
+        "zh": "千羽风之舞"
+      },
+      "intro": {
+        "vi": "Đây chính là sự trừng phạt cho lòng tham!",
+        "en": "That's what you get for being greedy!",
+        "zh": "这就是贪婪的惩罚！"
+      },
+      "description": {
+        "vi": "Bay trên không trung lao vào trận địch tấn công toàn bộ phe địch, gây sát thương bằng 72% Tấn công, bản thân mỗi khi có 1 tầng [buff_2862_1] gây thêm 1 lần sát thương bằng 36% Tấn công cho toàn bộ phe địch. Đồng thời đối với kẻ địch mang [buff_2862_1], gây số lần sát thương bằng số tầng [buff_2862_1] của mục tiêu x 40% Tấn công, sau đó tiêu hao toàn bộ số tầng.",
+        "en": "She rises into the air and dives into the enemy's lineup to land an attack, dealing damage equal to 72% of her ATK. For each layer of [buff_2862_1] she has, she inflicts additional damage equal to 36% of her ATK on them. On each enemy with [buff_2862_1], she inflicts additional damage equal to 40% of her ATK for each layer of [buff_2862_1] on them, consuming all layers.",
+        "zh": "飞于空中冲入敌阵攻击敌方全体，造成72%伤害，自身每有1层[buff_2862_1]额外对敌方全体造成1次攻击36%伤害。同时对带有[buff_2862_1]的敌人，造成目标[buff_2862_1]层数次攻击40%伤害，之后消耗所有层数。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương đầu tiên tăng lên 63%",
+            "en": "Increases the first damage to 63%.",
+            "zh": "首次伤害增加至63%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương đầu tiên tăng lên 66%",
+            "en": "Increases the first damage to 66%.",
+            "zh": "首次伤害增加至66%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương đầu tiên tăng lên 69%",
+            "en": "Increases the first damage to 69%.",
+            "zh": "首次伤害增加至69%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương đầu tiên tăng lên 72%",
+            "en": "Increases the first damage to 72%.",
+            "zh": "首次伤害增加至72%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2863",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yijinzhentian",
+    "headKey": "h_yijinzhentian",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2861",
+      "2862",
+      "2863"
+    ]
+  },
+  "unresolvedTokens": []
+}

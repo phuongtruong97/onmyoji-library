@@ -1,0 +1,298 @@
+{
+  "id": 372,
+  "name": {
+    "vi": "Nhân Phiên Huy Dạ Cơ",
+    "en": "Inaba Kaguya",
+    "zh": "因幡辉夜姬"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 6]",
+    "en": "[37, 6]",
+    "zh": "[37, 6]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2949,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11392,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 113,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "165%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3721,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lưu Ly Quang",
+        "en": "Crystal Light",
+        "zh": "琉璃光"
+      },
+      "intro": {
+        "vi": "Sương hoa ngưng huy.",
+        "en": "May the moonlight light up your soul.",
+        "zh": "露华凝晖。"
+      },
+      "description": {
+        "vi": "Trích ánh trăng ngưng thành lưu ly, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Forms moonlight into a crystal and attacks 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "撷月光凝成琉璃，对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Increases damage to 125%.",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3721",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3722,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nguyện Mãn Dạ",
+        "en": "Wishful Night",
+        "zh": "愿满夜"
+      },
+      "intro": {
+        "vi": "Trường minh như nguyện.",
+        "en": "May the moon shine forever, just as your wished.",
+        "zh": "长明如愿。"
+      },
+      "description": {
+        "vi": "[tips_11]. Tạo ra Huyễn Cảnh tồn tại 2 lượt và nhận 3 điểm [buff_3722_1]. Trong Huyễn Cảnh Kháng Hiệu Ứng bản thân tăng 80%, Thức Thần phe ta ngoại trừ bản thân khi thi triển kỹ năng, nhận [buff_3723_1], duy trì 1 lượt; nếu không đủ Quỷ Hỏa, dùng Nguyện Lực tương đương thay thế.",
+        "en": "[tips_11]. Creates a field that lasts 2 turns and gains 3 points of [buff_3722_1]. In the field, she gains 80% Effect RES and other allies gain [buff_3723_1] that's sustainable for 1 turn whenever they use a skill. If you don't have enough orbs, you can use an equal amount of Wish Power.",
+        "zh": "[tips_11]。创造存在2回合的幻境并获得3点[buff_3722_1]。幻境中自身效果抵抗增加80%，除自身外的友方式神施放技能时，获得[buff_3723_1]，维持1回合；若鬼火不足，则使用等量的愿力代替。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trong Huyễn Cảnh, Quỷ Hỏa do Ngự Hồn tạo ra ưu tiên chuyển hóa thành Nguyện Lực tương đương",
+            "en": "Orbs generated from Souls are first converted into an equal amount of Wish Power in the field.",
+            "zh": "幻境中御魂产生的鬼火优先转化为等量愿力"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trong Huyễn Cảnh, khi lượt bản thân bắt đầu nhận 3 điểm Nguyện Lực",
+            "en": "Gains 3 Wish Power at the start of her turn in the field.",
+            "zh": "幻境中自身回合开始时获得3点愿力"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng Huyễn Cảnh tăng lên 2 lượt",
+            "en": "Increases field effect to 2 turns.",
+            "zh": "幻境效果增加为2回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Thi triển 「Nguyện Mãn Dạ」",
+            "en": "Upper Hand: Uses Wishful Night.",
+            "zh": "先机：施放「愿满夜」"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3722",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3723,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tịch Quang Ánh Nguyệt",
+        "en": "Reflected Devastation",
+        "zh": "寂光映月"
+      },
+      "intro": {
+        "vi": "Bước vào tịch diệt chi huyễn nguyệt.",
+        "en": "Behold the moon of devastation.",
+        "zh": "步入寂灭之幻月。"
+      },
+      "description": {
+        "vi": "Ánh sáng huyễn diệu của Nguyệt Chi Kén chiếu rọi thành Kính Vạn Hoa Lưu Ly, gây cho toàn bộ phe địch sát thương bằng 138% Tấn công, [tips_10] mục tiêu phe ta mang [buff_3723_1], và khiến lần thi triển 「Nguyện Mãn Dạ」 tiếp theo giảm 1 điểm Quỷ Hỏa tiêu hao. Mỗi khi cung cấp 1 điểm Nguyện Lực cho phe ta, Sát Thương Bạo Kích bản thân tăng 5%, tăng tối đa 120%, và nhận Lá chắn bằng 12% HP tối đa. Nếu khi thi triển tích lũy cung cấp 12 điểm Nguyện Lực, bỏ qua hiệu ứng Ngự Hồn và Nội Tại của kẻ địch. Nếu khi thi triển tích lũy cung cấp 24 điểm Nguyện Lực, triệu hồi Nhân Phiên Thố gây cho toàn bộ phe địch thêm một lần sát thương bằng 138% Tấn công.",
+        "en": "Turns the glowing moon cocoon into a crystal kaleidoscope and attacks all enemies, dealing damage equal to 138% of her ATK and issuing a [tips_10] to allies under [buff_3723_1]. Also reduces the orb cost of Wishful Night the next time she uses it by 1. Each time she provides Wish Power, her own Crit DMG increases by 5% (Max 120% Crit DMG boost) for each point of Wish Power provided, and creates a shield that absorbs damage equal to 12% of her max HP for each point of Wish Power provided. Ignores the enemy's Souls and passive skills if 12 points of Wish Power have been provided. Summons Inaba Rabbit to launch another attack on all enemies, dealing damage equal to 138% of Inaba Kaguya's ATK if 24 points of Wish Power have been provided.",
+        "zh": "月之茧的幻光辉映作琉璃万华镜，对敌方全体造成攻击138%伤害，[tips_10]带有[buff_3723_1]的友方目标，并使下次「愿满夜」鬼火消耗减少1点。每为友方提供1点愿力，自身暴击伤害增加5%，最多增加120%，并获得等量于最大生命值12%的护盾。若施放时累计提供12点愿力，无视敌方御魂和被动效果。若施放时累计提供24点愿力，召唤因幡兔再次对敌方全体造成攻击138%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi khi cung cấp 1 điểm Nguyện Lực, Sát Thương Bạo Kích bản thân tăng 5%, tăng tối đa 120%",
+            "en": "Each 1 point of Wish Power provided increases her own Crit DMG by 5%. Max 120% Crit DMG boost.",
+            "zh": "每提供1点愿力，自身暴击伤害增加5%，最多增加120%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi khi cung cấp 1 điểm Nguyện Lực, bản thân nhận Lá chắn bằng 12% HP tối đa, dồn tích tối đa 8 tầng, duy trì 2 lượt",
+            "en": "Each time she provides Wish Power, creates a shield that absorbs damage equal to 12% of her max HP for each point of Wish Power provided. Max 8 stacks. Lasts 2 turns.",
+            "zh": "每提供1点愿力，自身获得等量于最大生命值12%的护盾，最多叠加8层，持续2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Nếu khi thi triển tích lũy cung cấp 12 điểm Nguyện Lực, bỏ qua hiệu ứng Ngự Hồn và Nội Tại của kẻ địch",
+            "en": "Ignores enemy Souls and passive skills if 12 points of Wish Power have been provided.",
+            "zh": "若施放时累计提供12点愿力，无视敌方御魂和被动效果"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu khi thi triển tích lũy cung cấp 24 điểm Nguyện Lực, triệu hồi Nhân Phiên Thố thi triển 「[skill_3724_1]」",
+            "en": "Summons Inaba Rabbit to use [skill_3724_1] if 24 points of Wish Power have been provided.",
+            "zh": "若施放时累计提供24点愿力，召唤因幡兔施放「[skill_3724_1]」"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3723",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_huiyeji",
+    "headKey": "h_sp_huiyeji",
+    "armature": "",
+    "artName": "txt_zhanshi_sphuiyeji",
+    "skillIconKeys": [
+      "3721",
+      "3722",
+      "3723"
+    ]
+  },
+  "unresolvedTokens": []
+}

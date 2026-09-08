@@ -1,0 +1,302 @@
+{
+  "id": 566,
+  "name": {
+    "vi": "Thần Huy Ebisu",
+    "en": "Returner Ebisu",
+    "zh": "晨晖惠比寿"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 18, 9]",
+    "en": "[37, 18, 9]",
+    "zh": "[37, 18, 9]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2278,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12986,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 445,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 115,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5661,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lễ Giáo",
+        "en": "Courtesy",
+        "zh": "礼教"
+      },
+      "intro": {
+        "vi": "Phúc vận ngay bên cạnh, đừng tham lam quá nhé.",
+        "en": "Fortune is right here. Don't get too greedy.",
+        "zh": "福运就在身边，别太贪心哦。"
+      },
+      "description": {
+        "vi": "Vung cần câu câu ra cá vàng tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Swings his fishing rod to catch a goldfish that strikes 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "挥动鱼竿钓出金鱼攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5661",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5662,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồng Phúc Giáng Lâm",
+        "en": "Fortune Landing",
+        "zh": "洪福降临"
+      },
+      "intro": {
+        "vi": "Chân đạp đất bằng, tích nước thành vực.",
+        "en": "Keep your feet on the ground, because every bit counts.",
+        "zh": "足履实地，积水成渊。"
+      },
+      "description": {
+        "vi": "Phúc vận càng thích chiếu cố người cần cù. Khi kết thúc lượt của bản thân, đẩy lùi 15% Thanh Hành Động của toàn bộ mục tiêu kẻ địch và nhận 2 điểm Quỷ Hỏa; nếu trong lượt từng thi triển 『Ủy Dĩ Trọng Trách』 liền bắt đầu [tips_5663], [tips_15] 1 lượt; sau khi trận đấu bắt đầu, bản thân khi lần đầu chịu sát thương sẽ bắt đầu [tips_5663].",
+        "en": "Fortune favors the diligent. At the end of his turn, lowers the Move Bar of all enemies by 15% and grants you 2 orbs (if Great Responsibility was used in the turn, he begins to [tips_5663].) [tips_15] for 1 turn. After the battle starts, when he takes damage for the first time, he begins to [tips_5663].",
+        "zh": "福运，更喜欢眷顾勤奋的人。自身回合结束时，击退全体敌方目标15%行动条并获得2点鬼火；若回合中施放过『委以重任』则开始[tips_5663]，[tips_15]1回合；战斗开始后，自身首次受到伤害时开始[tips_5663]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng đẩy lùi Thanh Hành Động tăng lên 15%",
+            "en": "Increases the Move Bar-lowering effect to 15%.",
+            "zh": "击退行动条效果提升至15%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi kết thúc lượt nhận thêm 2 điểm Quỷ Hỏa",
+            "en": "At the end of his turn, additionally grants you 2 orbs.",
+            "zh": "回合结束时额外获得2点鬼火"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_5663] nhận thêm 1 điểm Quỷ Hỏa",
+            "en": "Additionally grants you 1 more orb if he [tips_5663]s.",
+            "zh": "[tips_5663]额外获得1点鬼火"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi trận đấu bắt đầu, bản thân khi lần đầu chịu sát thương sẽ bắt đầu [tips_5663]",
+            "en": "After the battle starts, when he takes damage for the first time, he begins to [tips_5663].",
+            "zh": "战斗开始后，自身首次受到伤害时开始[tips_5663]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5662",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5663,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ủy Dĩ Trọng Trách",
+        "en": "Great Responsibility",
+        "zh": "委以重任"
+      },
+      "intro": {
+        "vi": "Thiên giáng thần phúc, nhiệm trọng đạo viễn. Ta... ngủ một lát trước đã.",
+        "en": "Granting divine blessings is a great responsibility. I'm just going to... take a nap first.",
+        "zh": "天降神福，任重道远。我……先睡一会。"
+      },
+      "description": {
+        "vi": "[tips_20]) 20% giới hạn HP của mục tiêu đồng minh không phải vật triệu hồi đồng thời chuyển dịch hiệu ứng bộ 4 món Ngự Hồn của bản thân cho mục tiêu (（chuyển dịch tối đa 1 loại hiệu ứng, đồng thời tổng sát thương do Ngự Hồn gây ra tăng tối đa đến 140%)), [tips_15] 1 lượt. Khi thi triển lần nữa lên mục tiêu đang ở trong hiệu ứng chuyển dịch Ngự Hồn, xua tan hoặc giải trừ tất cả [tips_3] của họ; nếu mục tiêu không ở trong [tips_3], liền khiến kẻ đó nhận lượt hành động mới đồng thời xóa bỏ hiệu ứng chuyển dịch Ngự Hồn sau khi lượt đó kết thúc.",
+        "en": "[tips_20]s the HP of 1 non-summoned ally entity by 20% of max HP while transferring the 4-piece set effect of his Souls to the ally (（至多转移1种效果，且总御魂造成伤害提升至多为140%）) for [tips_15] 1 turn. When cast again on a target under the Soul-transferring effect, dispels or removes all their [tips_3]; if the target is not under [tips_3], grants them a new turn and removes the Soul-transferring effect at the end of that turn.",
+        "zh": "[tips_20]非召唤物友方目标生命上限20%的生命并将自身的御魂4件套效果转移给目标(（至多转移1种效果，且总御魂造成伤害提升至多为140%）)，[tips_15]1回合。对处于御魂转移效果的目标再次施放时，驱散或解除其所有[tips_3]；若目标未处于[tips_3]，则使其获得新的回合并在该回合结束后移除御魂转移效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hồi phục HP tăng lên 16%",
+            "en": "Increases HP recovery to 16%.",
+            "zh": "生命恢复量提升至16%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hồi phục HP tăng lên 18%",
+            "en": "Increases HP recovery to 18%.",
+            "zh": "生命恢复量提升至18%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng hồi phục HP tăng lên 20%",
+            "en": "Increases the HP recovery to 20%.",
+            "zh": "生命恢复量提升至20%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất tăng lên 100%",
+            "en": "Increases the chance to 100%.",
+            "zh": "概率提升至100%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5663",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_huibishou",
+    "headKey": "h_sp_huibishou",
+    "armature": [
+      "sp_huibishou_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_sphuibishou",
+    "skillIconKeys": [
+      "5661",
+      "5662",
+      "5663"
+    ]
+  },
+  "unresolvedTokens": []
+}

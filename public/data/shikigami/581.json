@@ -1,0 +1,298 @@
+{
+  "id": 581,
+  "name": {
+    "vi": "Karuta",
+    "en": "Karuta",
+    "zh": "歌留多"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3001,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 343,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "9%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5811,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thanh Đoản",
+        "en": "Blue Ribbon",
+        "zh": "青短"
+      },
+      "intro": {
+        "vi": "Ở đây, cứ lấy vui vẻ làm chính đã!",
+        "en": "Enjoy the fun while you're here!",
+        "zh": "在这里，先以快乐为主！"
+      },
+      "description": {
+        "vi": "Gây sát thương bằng 125% Tấn công, đính kèm 1 tầng [buff_5811_1].",
+        "en": "Deals damage equal to 125% of her ATK, inflicting 1 [buff_5811_1] stack.",
+        "zh": "造成攻击125%伤害，附加1层[buff_5811_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%, đính kèm 1 tầng [buff_5811_1]",
+            "en": "Increases the damage to 125%. And inflicts 1 [buff_5811_1] stack.",
+            "zh": "伤害增加至125%，附加1层[buff_5811_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5811",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5812,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trư Lộc Điệp",
+        "en": "Boar-Deer-Butterfly",
+        "zh": "猪鹿蝶"
+      },
+      "intro": {
+        "vi": "Rơi vào thế giới Hanafuda của ta đi.",
+        "en": "Indulge yourself in my world of hanafuda.",
+        "zh": "坠入我花札的世界吧。"
+      },
+      "description": {
+        "vi": "Bài Hanafuda hiểu chân ý. Khi thi triển 『Ngũ Quang Trảm』, đính kèm [buff_5812_1] cho mục tiêu chọn định, [tips_15] 1 lượt. Mỗi tầng Hoa Ước giảm trị liệu, không có hiệu lực với quái vật. Khi đính kèm [buff_5812_1], nhận 30% giảm sát thương, duy trì 2 lượt. [tips_5] do kỹ năng bản thân gây ra tăng 50%. Khi tấn công mục tiêu mang 6 tầng [buff_5811_1] bỏ qua 180 điểm Phòng thủ.",
+        "en": "Explore true sentiments from the hanafuda cards. When using Five-Light Slash, inflicts [buff_5812_1] that's [tips_15] for 1 turn on the enemy. Each Flower Memory stack reduces healing (ineffective on monsters). Upon inflicting [buff_5812_1], grants a 30% damage reduction for 2 turns. Increases her skills' [tips_5] dealt by 50%. Attacking enemies with 6 [buff_5811_1] stacks ignores DEF by 180.",
+        "zh": "花札牌中品真意。施放『五光斩』时，为选定目标附加[buff_5812_1]，[tips_15]1回合。 每层花忆减疗，对怪物无效。附加[buff_5812_1]时，获得30%减伤，持续2回合。自身技能造成[tips_5]提升50%。攻击携带6层[buff_5811_1]的目标时无视180点防御。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi tầng Hoa Ước giảm 10% trị liệu, không có hiệu lực với quái vật",
+            "en": "Each Flower Memory stack reduces healing efficiency by 10% (ineffective on monsters).",
+            "zh": "每层花忆减疗10%，对怪物无效"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi đính kèm [buff_5812_1], nhận 30% giảm sát thương, duy trì 2 lượt",
+            "en": "Upon inflicting [buff_5812_1], grants a 30% damage reduction for 2 turns.",
+            "zh": "附加[buff_5812_1]时，获得30%减伤，持续2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_5] do kỹ năng bản thân gây ra tăng 50%",
+            "en": "Increases her skills' [tips_5] dealt by 50%.",
+            "zh": "自身技能造成[tips_5]提升50%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi tấn công mục tiêu mang 6 tầng [buff_5811_1] bỏ qua 180 điểm Phòng thủ",
+            "en": "Attacking enemies with 6 [buff_5811_1] stacks ignores DEF by 180.",
+            "zh": "攻击携带6层[buff_5811_1]的目标时无视180点防御"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5812",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5813,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ngũ Quang Trảm",
+        "en": "Five-Light Slash",
+        "zh": "五光斩"
+      },
+      "intro": {
+        "vi": "Suýt, bí mật trong lá bài Ngũ Quang, ngươi nhìn thấy chưa?",
+        "en": "Shhh, did you see the secrets in Five Lights?",
+        "zh": "嘘，五光牌中的秘密，你看到了吗？"
+      },
+      "description": {
+        "vi": "Mọi điều đã qua, đều có ý nghĩa của nó. Rút Hoa Kiến Nhẫn, đính kèm 2 tầng [buff_5811_1] cho mục tiêu chọn định, gây [tips_5] bằng 350% Tấn công, và gây Sát Thương Gián Tiếp bằng 195% Tấn công cho các mục tiêu khác. Khi chịu sát thương đính kèm 2 tầng [buff_5811_1] cho nguồn gây sát thương.",
+        "en": "Everything in the past has a special meaning for the future. Draws her Flower-View Sabre to inflicts 2 [buff_5811_1] stacks on 1 enemy, dealing [tips_5] equal to 350% of her ATK and inflicting indirect damage equal to 195% of her ATK on other enemies. When she takes damage, inflicts 2 [buff_5811_1] stacks on the source.",
+        "zh": "过往种种，皆有其旨。抽出花见刃，对选定目标附加2层[buff_5811_1]，造成攻击350%[tips_5]，并对其他目标造成攻击195%间接伤害。受到伤害时为伤害来源附加2层[buff_5811_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi chịu sát thương đính kèm 2 tầng [buff_5811_1] cho nguồn gây sát thương",
+            "en": "When she takes damage, inflicts 2 [buff_5811_1] stacks on the source.",
+            "zh": "受到伤害时为伤害来源附加2层[buff_5811_1]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hệ số sát thương lên mục tiêu chọn định nâng lên 310%",
+            "en": "Increases the damage multiplier to the first enemy to 310%.",
+            "zh": "对选定目标伤害系数提高至310%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hệ số sát thương lên mục tiêu chọn định nâng lên 330%",
+            "en": "Increases the damage multiplier to the first enemy to 330%.",
+            "zh": "对选定目标伤害系数提高至330%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hệ số sát thương lên mục tiêu chọn định nâng lên 350%",
+            "en": "Increases the damage multiplier to the first enemy to 350%.",
+            "zh": "对选定目标伤害系数提高至350%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5813",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "geliuduo",
+    "headKey": "h_geliuduo",
+    "armature": "",
+    "artName": "txt_zhanshi_geliuduo",
+    "skillIconKeys": [
+      "5811",
+      "5812",
+      "5813"
+    ]
+  },
+  "unresolvedTokens": []
+}

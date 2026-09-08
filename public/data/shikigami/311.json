@@ -1,0 +1,426 @@
+{
+  "id": 311,
+  "name": {
+    "vi": "Diện Linh Khí",
+    "en": "Menreiki",
+    "zh": "面灵气"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[12]",
+    "en": "[12]",
+    "zh": "[12]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2948,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9227,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3111,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chú Linh",
+        "en": "Enchant",
+        "zh": "注灵"
+      },
+      "intro": {
+        "vi": "Đây là nỗi đau đã mất đi của ngươi...",
+        "en": "Here's all the pain that has eluded you.",
+        "zh": "这是你丢失的痛苦…"
+      },
+      "description": {
+        "vi": "为敌方目标附加[buff_3111_1]，造成攻击[b_参数p1_per][tips_5]，持续1回合。",
+        "en": "为敌方目标附加[buff_3111_1]，造成攻击[b_参数p1_per][tips_5]，持续1回合。",
+        "zh": "为敌方目标附加[buff_3111_1]，造成攻击[b_参数p1_per][tips_5]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_5] tăng lên [b_参数p1_per]",
+            "en": "Increases [tips_5] to [b_参数p1_per].",
+            "zh": "[tips_5]增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_5] tăng lên [b_参数p1_per]",
+            "en": "Increases [tips_5] to [b_参数p1_per].",
+            "zh": "[tips_5]增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_5] tăng lên [b_参数p1_per]",
+            "en": "Increases [tips_5] to [b_参数p1_per].",
+            "zh": "[tips_5]增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_5] tăng lên [b_参数p1_per]",
+            "en": "Increases [tips_5] to [b_参数p1_per].",
+            "zh": "[tips_5]增至[b_参数p1_per]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3111",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3112,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Luân Hồi Chi Diện",
+        "en": "Masks of Recurrence",
+        "zh": "轮回之面"
+      },
+      "intro": {
+        "vi": "Thời khắc thức tỉnh đã đến.",
+        "en": "It's time to wake up.",
+        "zh": "苏醒的时刻到了。"
+      },
+      "description": {
+        "vi": "场上每层[buff_3114_1]使自身提升[b2_属性1数值_abs]点速度、[b2_属性2数值_per]伤害，每层[buff_3113_1]提升[b_属性1数值_per]效果抵抗、[b_属性2数值_per]减伤。\n[buff_3113_1]在友方行动后，为其增加10%行动条，后转化为[buff_3114_1]附加至随机敌方目标（没有[buff_3114_1]优先，再是生命比例较低优先）。",
+        "en": "场上每层[buff_3114_1]使自身提升[b2_属性1数值_abs]点速度、[b2_属性2数值_per]伤害，每层[buff_3113_1]提升[b_属性1数值_per]效果抵抗、[b_属性2数值_per]减伤。\n[buff_3113_1]在友方行动后，为其增加10%行动条，后转化为[buff_3114_1]附加至随机敌方目标（没有[buff_3114_1]优先，再是生命比例较低优先）。",
+        "zh": "场上每层[buff_3114_1]使自身提升[b2_属性1数值_abs]点速度、[b2_属性2数值_per]伤害，每层[buff_3113_1]提升[b_属性1数值_per]效果抵抗、[b_属性2数值_per]减伤。\n[buff_3113_1]在友方行动后，为其增加10%行动条，后转化为[buff_3114_1]附加至随机敌方目标（没有[buff_3114_1]优先，再是生命比例较低优先）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_3114_1] tăng Tốc độ nâng lên [b2_属性1数值_abs] điểm",
+            "en": "Increases [buff_3114_1]'s SPD boost to [b2_属性1数值_abs].",
+            "zh": "[buff_3114_1]提升速度增至[b2_属性1数值_abs]点"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_3113_1] tăng Kháng Hiệu Ứng nâng lên [b_属性1数值_per]",
+            "en": "Increases [buff_3113_1]'s Effect RES boost to [b_属性1数值_per].",
+            "zh": "[buff_3113_1]提升效果抵抗增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_3114_1] tăng Tốc độ nâng lên [b2_属性1数值_abs] điểm",
+            "en": "Increases [buff_3114_1]'s SPD boost to [b2_属性1数值_abs].",
+            "zh": "[buff_3114_1]提升速度增至[b2_属性1数值_abs]点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_3113_1]增加行动条增至10%",
+            "en": "[buff_3113_1]增加行动条增至10%",
+            "zh": "[buff_3113_1]增加行动条增至10%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3112",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3113,
+      "maxLevel": 7,
+      "name": {
+        "vi": "Cấm Đoạn Chi Diện",
+        "en": "Forbidden Masks",
+        "zh": "禁断之面"
+      },
+      "intro": {
+        "vi": "忘却一切，变回最初的白吧。",
+        "en": "忘却一切，变回最初的白吧。",
+        "zh": "忘却一切，变回最初的白吧。"
+      },
+      "description": {
+        "vi": "召回所有7个面具，使拥有[buff_3113_1]的友方增加30%行动条，对带有[buff_3114_1]的敌方造成攻击150%[tips_5]（每层[buff_3114_1]额外提升10%）。然后释放7个面具，优先使其他友方获得[buff_3113_1]，剩余的为敌方附加[buff_3114_1]（没有[buff_3114_1]优先，再是生命比例较低优先）。\n[tips_11]，[tips_7]：释放自身的7个面具。\n面灵气无法获得[buff_3113_1]。",
+        "en": "召回所有7个面具，使拥有[buff_3113_1]的友方增加30%行动条，对带有[buff_3114_1]的敌方造成攻击150%[tips_5]（每层[buff_3114_1]额外提升10%）。然后释放7个面具，优先使其他友方获得[buff_3113_1]，剩余的为敌方附加[buff_3114_1]（没有[buff_3114_1]优先，再是生命比例较低优先）。\n[tips_11]，[tips_7]：释放自身的7个面具。\n面灵气无法获得[buff_3113_1]。",
+        "zh": "召回所有7个面具，使拥有[buff_3113_1]的友方增加30%行动条，对带有[buff_3114_1]的敌方造成攻击150%[tips_5]（每层[buff_3114_1]额外提升10%）。然后释放7个面具，优先使其他友方获得[buff_3113_1]，剩余的为敌方附加[buff_3114_1]（没有[buff_3114_1]优先，再是生命比例较低优先）。\n[tips_11]，[tips_7]：释放自身的7个面具。\n面灵气无法获得[buff_3113_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_3114_1] Sát Thương Gián Tiếp tăng lên 140%",
+            "en": "Increases [buff_3114_1]'s indirect damage to 140%.",
+            "zh": "[buff_3114_1]间接伤害增至140%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_3114_1] Sát Thương Gián Tiếp tăng lên 140%",
+            "en": "Increases [buff_3114_1]'s indirect damage to 140%.",
+            "zh": "[buff_3114_1]间接伤害增至140%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_3114_1] Sát Thương Gián Tiếp tăng lên 140%",
+            "en": "Increases [buff_3114_1]'s indirect damage to 140%.",
+            "zh": "[buff_3114_1]间接伤害增至140%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_3113_1] tăng Thanh Hành Động tăng lên 25%",
+            "en": "Increases Move Bar raised by [buff_3113_1] to 25%.",
+            "zh": "[buff_3113_1]增加行动条增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_3113_1] tăng Thanh Hành Động tăng lên 25%",
+            "en": "Increases Move Bar raised by [buff_3113_1] to 25%.",
+            "zh": "[buff_3113_1]增加行动条增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_3113_1] tăng Thanh Hành Động tăng lên 25%",
+            "en": "Increases Move Bar raised by [buff_3113_1] to 25%.",
+            "zh": "[buff_3113_1]增加行动条增至25%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_3114_1]间接伤害增至150%",
+            "en": "[buff_3114_1]间接伤害增至150%",
+            "zh": "[buff_3114_1]间接伤害增至150%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_3114_1]间接伤害增至150%",
+            "en": "[buff_3114_1]间接伤害增至150%",
+            "zh": "[buff_3114_1]间接伤害增至150%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_3114_1]间接伤害增至150%",
+            "en": "[buff_3114_1]间接伤害增至150%",
+            "zh": "[buff_3114_1]间接伤害增至150%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_3113_1]增加行动条增至30%",
+            "en": "[buff_3113_1]增加行动条增至30%",
+            "zh": "[buff_3113_1]增加行动条增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_3113_1]增加行动条增至30%",
+            "en": "[buff_3113_1]增加行动条增至30%",
+            "zh": "[buff_3113_1]增加行动条增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_3113_1]增加行动条增至30%",
+            "en": "[buff_3113_1]增加行动条增至30%",
+            "zh": "[buff_3113_1]增加行动条增至30%"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "[buff_3113_1]增加行动条增至30%",
+            "en": "[buff_3113_1]增加行动条增至30%",
+            "zh": "[buff_3113_1]增加行动条增至30%"
+          }
+        },
+        {
+          "level": 7,
+          "text": {
+            "vi": "[buff_3113_1]增加行动条增至30%",
+            "en": "[buff_3113_1]增加行动条增至30%",
+            "zh": "[buff_3113_1]增加行动条增至30%"
+          }
+        }
+      ],
+      "orbCost": 4,
+      "iconKey": "3113",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 7,
+          "awakeFilter": 2
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "mianlingqi",
+    "headKey": "h_mianlingqi",
+    "armature": "",
+    "artName": "txt_zhanshi_mianlingqi",
+    "skillIconKeys": [
+      "3111",
+      "3112",
+      "3113"
+    ]
+  },
+  "unresolvedTokens": []
+}

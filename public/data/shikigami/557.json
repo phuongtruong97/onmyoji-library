@@ -1,0 +1,350 @@
+{
+  "id": 557,
+  "name": {
+    "vi": "Y Tà Na Mỹ",
+    "en": "Izanami",
+    "zh": "伊邪那美"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[5, 17, 43]",
+    "en": "[5, 17, 43]",
+    "zh": "[5, 17, 43]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3350,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10936,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 405,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 106,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "15%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "20%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5571,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Yên Diệt",
+        "en": "Annihilation!",
+        "zh": "湮灭"
+      },
+      "intro": {
+        "vi": "Thời khắc thu hái đã đến, hãy trở về trong vòng tay ta đi.",
+        "en": "The harvest hour has come. Return to me.",
+        "zh": "采撷之刻已到，回到我的怀抱吧。"
+      },
+      "description": {
+        "vi": "Triệu hồi đàn xà tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 25% [tips_2] đính kèm [buff_5571_1], duy trì 1 lượt.",
+        "en": "Commands a naga swarm to strike 1 enemy, dealing damage equal to 125% of her ATK, with a 25% [tips_2] of inflicting [buff_5571_1] lasting 1 turn.",
+        "zh": "召唤蛇群攻击敌方目标，造成攻击125%伤害并有25%[tips_2]施加[buff_5571_1]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%, và có 25% [tips_2] đính kèm [buff_5571_1], duy trì 1 lượt",
+            "en": "Increases damage to 125%. Has a 25% [tips_2] of inflicting [buff_5571_1] lasting 1 turn.",
+            "zh": "伤害增加至125%，并有25%[tips_2]施加[buff_5571_1]，持续1回合"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5571",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5572,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thần Tứ Chi Nụ Hôn",
+        "en": "Divine Kiss",
+        "zh": "神赐之吻"
+      },
+      "intro": {
+        "vi": "Kính sợ cái chết, tán dương cái chết.",
+        "en": "Fear death, praise death.",
+        "zh": "敬畏死亡，赞美死亡。"
+      },
+      "description": {
+        "vi": "[tips_11]. Đính kèm [buff_5572_1] cho mục tiêu phe ta chỉ định ngoài bản thân, nếu mục tiêu đó đã ở trạng thái [buff_5572_1], khiến kẻ đó tổn thất thêm lượng HP bằng 50% HP tối đa (hiệu ứng này không gây tử vong). Phe ta mỗi khi giảm 100 điểm Phòng thủ do [buff_5572_1], bỏ qua thêm 40 điểm Phòng thủ, bỏ qua thêm tối đa 200 điểm Phòng thủ; khi bản thân có mặt trên sân, mục tiêu phe ta ở trạng thái [buff_5572_1] chịu sát thương chí mạng sẽ còn lại 1 điểm HP (mục tiêu trước khi bắt đầu lượt tiếp theo kích hoạt tối đa 1 lần, trước khi bị đính kèm lại [buff_5572_1] tích lũy kích hoạt tối đa 3 lần); khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Tốc độ và Sát Thương Bạo Kích tăng 50%, duy trì 2 lượt (mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần). [tips_7]: Thi triển miễn phí 『Thần Tứ Chi Nụ Hôn』 lên Thức Thần phe ta có Tấn công cao nhất. Khi Y Tà Na Mỹ tấn công, cũng có thể kích hoạt hiệu ứng bỏ qua Phòng thủ hiện tại từ [buff_5572_1] của mục tiêu phe ta.",
+        "en": "[tips_11]. Grants [buff_5572_1] to another ally. If the ally is already [buff_5572_1], they additionally lose HP equal to 50% of their max HP (the effect won't be lethal.) For each 100 DEF reduced due to [buff_5572_1], the ally ignores another 40 DEF, up to 200 DEF ignored. While she's on the battlefield, if the ally with [buff_5572_1] takes lethal damage, their HP won't reduce below 1 (triggers up to once before the ally's next turn, and up to 3 times before they're granted [buff_5572_1] again.) When the HP of a non-summoned ally entity drops to 1 for the first time, increases their SPD and Crit DMG by 50% for 2 turns (triggers up to once for each of the allies and up to a total of 3 times in a single battle.) [tips_7]: Uses Divine Kiss on the ally shikigami with the highest ATK, with no orb cost. Izanami's attacks also trigger the DEF-ignoring effect of the ally with [buff_5572_1].",
+        "zh": "[tips_11]。为自身以外的指定友方目标施加[buff_5572_1]，若该目标已处于[buff_5572_1]，则使其额外失去最大生命50%的生命（该效果不致命）。友方每因[buff_5572_1]降低100点防御，额外无视40点防御，至多额外无视200点防御；自身在场时，处于[buff_5572_1]的友方目标受到致命伤害将剩余1点生命（目标下回合开始前至多触发1次，被再次施加[buff_5572_1]前至多累计触发3次）；当场上非召唤物友方目标首次剩余1点生命时，速度和暴击伤害提升50%，持续2回合（每个目标至多生效1次，单次战斗累计至多生效3次）。[tips_7]：对攻击最高的友方式神无消耗施放『神赐之吻』。伊邪那美攻击时，也可触发友方目标当前[buff_5572_1]的防御无视效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Tốc độ tăng 50%, duy trì 2 lượt (（mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần))",
+            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their SPD by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle)).",
+            "zh": "当场上非召唤物友方目标首次剩余1点生命时，速度提升50%，持续2回合(（每个目标至多生效1次，单次战斗累计至多生效3次）)"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Tốc độ tăng 50%, duy trì 2 lượt (（mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần))",
+            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their SPD by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle)).",
+            "zh": "当场上非召唤物友方目标首次剩余1点生命时，速度提升50%，持续2回合(（每个目标至多生效1次，单次战斗累计至多生效3次）)"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Sát Thương Bạo Kích tăng 50%, duy trì 2 lượt (（mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần))",
+            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their Crit DMG by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle)).",
+            "zh": "当场上非召唤物友方目标首次剩余1点生命时，暴击伤害提升50%，持续2回合(（每个目标至多生效1次，单次战斗累计至多生效3次）)"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Sát Thương Bạo Kích tăng 50%, duy trì 2 lượt (（mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần))",
+            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their Crit DMG by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle)).",
+            "zh": "当场上非召唤物友方目标首次剩余1点生命时，暴击伤害提升50%，持续2回合(（每个目标至多生效1次，单次战斗累计至多生效3次）)"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Phe ta mỗi khi giảm 100 điểm Phòng thủ do [buff_5572_1], bỏ qua thêm 40 điểm Phòng thủ, bỏ qua thêm tối đa 200 điểm Phòng thủ",
+            "en": "For each 100 DEF reduced due to [buff_5572_1], the ally additionally ignores 40 DEF, up to a maximum of 200 DEF ignored.",
+            "zh": "友方每因[buff_5572_1]降低100点防御，额外无视40点防御，至多额外无视200点防御"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Phe ta mỗi khi giảm 100 điểm Phòng thủ do [buff_5572_1], bỏ qua thêm 40 điểm Phòng thủ, bỏ qua thêm tối đa 200 điểm Phòng thủ",
+            "en": "For each 100 DEF reduced due to [buff_5572_1], the ally additionally ignores 40 DEF, up to a maximum of 200 DEF ignored.",
+            "zh": "友方每因[buff_5572_1]降低100点防御，额外无视40点防御，至多额外无视200点防御"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Thi triển miễn phí 『Thần Tứ Chi Nụ Hôn』 lên Thức Thần phe ta có Tấn công cao nhất",
+            "en": "[tips_7]: Uses Divine Kiss on the ally shikigami with the highest ATK, with no orb cost.",
+            "zh": "[tips_7]：对攻击最高的友方式神无消耗施放『神赐之吻』"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Thi triển miễn phí 『Thần Tứ Chi Nụ Hôn』 lên Thức Thần phe ta có Tấn công cao nhất",
+            "en": "[tips_7]: Uses Divine Kiss on the ally shikigami with the highest ATK, with no orb cost.",
+            "zh": "[tips_7]：对攻击最高的友方式神无消耗施放『神赐之吻』"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5572",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 5573,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Diệt Thế Chi Vũ",
+        "en": "Annihilation Dance",
+        "zh": "灭世之舞"
+      },
+      "intro": {
+        "vi": "Hủy diệt mới là túc mệnh của muôn loài.",
+        "en": "Destruction is the only destiny that all things share.",
+        "zh": "毁灭才是万物的宿命。"
+      },
+      "description": {
+        "vi": "Gọi mời chung yên, tấn công toàn bộ phe địch gây sát thương bằng 120% Tấn công, và có 25% (khi tấn công quái vật là 80%) [tips_2] đính kèm [buff_5571_1], duy trì 2 lượt. Sau đó gọi ra cự xà tấn công mục tiêu kẻ địch chỉ định gây sát thương bằng 120% Tấn công, và khiến kẻ đó kích hoạt thêm [tips_5573]. Khi [buff_5571_1] trúng đích đính kèm [tips_116], duy trì 1 lượt.",
+        "en": "Calls forth the Grand Finale to attack all enemies, dealing damage equal to 120% of her ATK. Has a 25% [tips_2] (80% against monsters) of inflicting [buff_5571_1] for 2 turns on them. Then conjures a giant Naga to attack 1 enemy, dealing damage equal to 120% of her ATK, additionally triggering their [tips_5573]. When [buff_5571_1] is inflicted, triggers [tips_116] for 1 turn.",
+        "zh": "呼唤终焉，攻击敌方全体造成攻击120%伤害，并有25%（攻击怪物时80%）[tips_2]施加[buff_5571_1]，持续2回合。随后唤出巨蛇攻击指定敌方目标造成攻击120%伤害，并额外使其触发[tips_5573]。[buff_5571_1]命中时施加[tips_116]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi [buff_5571_1] trúng đích đính kèm [tips_116], duy trì 1 lượt",
+            "en": "When [buff_5571_1] is inflicted, triggers [tips_116] lasting 1 turn.",
+            "zh": "[buff_5571_1]命中时施加[tips_116]，持续1回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi thi triển, thời gian duy trì của [buff_5571_1] được đính kèm tăng lên 2 lượt",
+            "en": "When used, increases the duration of the [buff_5571_1] inflicted to 2 turns.",
+            "zh": "施放时，施加的[buff_5571_1]持续时间增至2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi thi triển lên quái vật, [tips_2] đính kèm [buff_5571_1] tăng lên 80%",
+            "en": "When used on monsters, increases the [tips_2] of inflicting [buff_5571_1] to 80%.",
+            "zh": "对怪物施放时，施加[buff_5571_1]的[tips_2]提升至80%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi mục tiêu ở trạng thái [tips_116], khi chịu đòn tấn công trong lượt bản thân từ Y Tà Na Mỹ cùng kẻ địch ở trạng thái Hủy Diệt, sát thương của người tấn công được tăng lên 10%",
+            "en": "While the unit is [tips_116], when they receive an attack from Izanami or the unit with Destroyed during the turn, increases the attacker's damage boost to 10%.",
+            "zh": "目标处于[tips_116]时，受到来自伊邪那美与处于毁灭的目标在其自身回合内的攻击时，攻击者伤害提升增至10%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5573",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yixienamei",
+    "headKey": "h_yixienamei",
+    "armature": "",
+    "artName": "txt_zhanshi_yixienamei",
+    "skillIconKeys": [
+      "5571",
+      "5572",
+      "5573"
+    ]
+  },
+  "unresolvedTokens": []
+}

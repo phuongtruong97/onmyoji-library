@@ -1,0 +1,302 @@
+{
+  "id": 339,
+  "name": {
+    "vi": "Tẫn Thiên Ngọc Tảo Tiền",
+    "en": "Blazing Tamamonomae",
+    "zh": "烬天玉藻前"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3216,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11392,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "12%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "160%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3391,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Linh Xung",
+        "en": "Soul Rush",
+        "zh": "灵冲"
+      },
+      "intro": {
+        "vi": "Toàn bộ về ngươi đều bị ta nhìn thấu rồi nhé.",
+        "en": "I see everything in your soul as clear as day.",
+        "zh": "你的一切被我看穿了哦。"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Attacks 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3391",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3392,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thấu Hồn",
+        "en": "Souldrainer",
+        "zh": "噬魂"
+      },
+      "intro": {
+        "vi": "Ngươi còn không xứng với sức mạnh này.",
+        "en": "You don't deserve this power.",
+        "zh": "你还配不上这力量。"
+      },
+      "description": {
+        "vi": "Trước khi thi triển 『Tẫn Thiên Cửu Vĩ』, đánh cắp trước 6% Tấn công của tất cả đơn vị trên sân (mỗi mục tiêu đánh cắp tối đa 10 lần), tổng giá trị đánh cắp không vượt quá 100% Tấn công ban đầu của bản thân (bao gồm tổng Tấn công cơ bản và Tấn công từ Ngự Hồn cung cấp).\nKhi tử vong, hoàn trả toàn bộ Tấn công đã đánh cắp.",
+        "en": "Before using Blazing Tails, drains the ATK of each unit on the battlefield by 6% (each target can be drained up to 10 times). Total ATK drained cannot exceed 100% of his initial ATK (this includes his base ATK plus the ATK bonus he received from Souls).\nWhen he's KO'd, returns all the ATK he drained.",
+        "zh": "施放『焚天九尾』前，先偷取场上全体6%攻击力（每个目标最多偷取10次），偷取总值不超过自身初始（包含基础攻击和御魂提供的攻击总和）攻击100%。\n阵亡时，将偷取的攻击全部归还。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Giới hạn đánh cắp Tấn công tăng lên 70%",
+            "en": "Increases max ATK drained to 70%.",
+            "zh": "偷取攻击上限增至70%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Giới hạn đánh cắp Tấn công tăng lên 80%",
+            "en": "Increases max ATK drained to 80%.",
+            "zh": "偷取攻击上限增至80%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giới hạn đánh cắp Tấn công tăng lên 100%",
+            "en": "Increases max ATK drained to 100%.",
+            "zh": "偷取攻击上限增至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tỷ lệ đánh cắp Tấn công tăng lên 6%",
+            "en": "Increases ATK proportion drained to 6%",
+            "zh": "偷取攻击力比例增加至6%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3392",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3393,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tẫn Thiên Cửu Vĩ",
+        "en": "Blazing Tails",
+        "zh": "焚天九尾"
+      },
+      "intro": {
+        "vi": "Ngọn lửa truyền thuyết, hãy đi thay đổi dòng chảy số mệnh đi!",
+        "en": "Legendary flame, go and alter the flow of fate!",
+        "zh": "传说的火焰，去改变命运之流吧！"
+      },
+      "description": {
+        "vi": "Tấn công 12 lần, mỗi lần gây sát thương bằng 104% Tấn công lên mục tiêu kẻ địch ngẫu nhiên.\nKhi tấn công lặp lại cùng một mục tiêu, sát thương giảm dần 15%.",
+        "en": "Launches 12 random attacks on enemies, dealing damage equal to 104% of his ATK with each strike.\nDamage is reduced by 15% for each subsequent attack on the same target.",
+        "zh": "攻击12次，每次对随机敌方目标造成攻击104%伤害。\n重复攻击同一目标时，伤害依次递减15%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至88%",
+            "en": "伤害增加至88%",
+            "zh": "伤害增加至88%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至96%",
+            "en": "伤害增加至96%",
+            "zh": "伤害增加至96%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至104%",
+            "en": "伤害增加至104%",
+            "zh": "伤害增加至104%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tỷ lệ phần trăm giảm dần giảm xuống 15%",
+            "en": "Reduces damage reduction to subsequent damage to 15%.",
+            "zh": "递减百分比降低至15%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3393",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_yuzaoqian",
+    "headKey": "j_spyuzaoqian",
+    "armature": [
+      "spyuzaoqian_ani",
+      1,
+      0
+    ],
+    "artName": "txt_zhanshi_jintianyuzaoqian",
+    "skillIconKeys": [
+      "3391",
+      "3392",
+      "3393"
+    ]
+  },
+  "unresolvedTokens": []
+}

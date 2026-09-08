@@ -1,0 +1,220 @@
+{
+  "id": 218,
+  "name": {
+    "vi": "Nha Thiên Cẩu",
+    "en": "Karasu Tengu",
+    "zh": "鸦天狗"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 20]",
+    "en": "[1, 20]",
+    "zh": "[1, 20]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2680,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9455,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 383,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 101,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2181,
+      "maxLevel": 5,
+      "name": {
+        "vi": "正义之刺",
+        "en": "正义之刺",
+        "zh": "正义之刺"
+      },
+      "intro": {
+        "vi": "正义一定会战胜邪恶的！",
+        "en": "正义一定会战胜邪恶的！",
+        "zh": "正义一定会战胜邪恶的！"
+      },
+      "description": {
+        "vi": "Lao nhanh tấn công mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công. Có 50% xác suất [tips_10] đồng minh ngoại trừ bản thân có Tấn công ban đầu cao nhất.",
+        "en": "Dashes forward to stab 1 enemy, dealing damage equal to 100% of his ATK with a 50% chance of issuing a [tips_10] to another ally with the highest starting ATK.",
+        "zh": "疾闪攻击敌方目标，造成攻击100%伤害。有50%概率[tips_10]除自身外的初始攻击最高的友方。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至90%",
+            "en": "伤害增加至90%",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_10] xác suất tăng lên 40%",
+            "en": "Increases [tips_10]'s chance of triggering to 40%.",
+            "zh": "[tips_10]概率增至40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_10] xác suất tăng lên 50%",
+            "en": "Increases [tips_10]'s chance of triggering to 50%.",
+            "zh": "[tips_10]概率增至50%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2181",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2183,
+      "maxLevel": 5,
+      "name": {
+        "vi": "群鸦乱舞",
+        "en": "群鸦乱舞",
+        "zh": "群鸦乱舞"
+      },
+      "intro": {
+        "vi": "正义之天鸦啊，与罪恶一战到底吧！",
+        "en": "正义之天鸦啊，与罪恶一战到底吧！",
+        "zh": "正义之天鸦啊，与罪恶一战到底吧！"
+      },
+      "description": {
+        "vi": "Dùng yêu lực triệu tập quạ đen, tấn công lần lượt từng kẻ địch theo tỷ lệ HP từ thấp đến cao, mỗi lần gây sát thương bằng 143% Tấn công và có 50% xác suất [tips_10] đồng minh có Tấn công ban đầu cao nhất. So với khi bắt đầu trận đấu, mỗi khi ít đi một kẻ địch, sát thương tăng 20%, tăng tối đa 100%.",
+        "en": "Summons crows to attack every one of his enemies, starting with the enemy with the lowest proportion of HP, dealing damage equal to 143% of his ATK on each enemy with a 50% chance of issuing [tips_10] to the ally with the highest starting ATK. Damage is increased by 20% for each KO'd enemy to a maximum boost of 100%.",
+        "zh": "以妖力召集黑鸦，对每个敌方按生命比例由低至高逐个攻击，每次造成攻击143%伤害并有50%概率[tips_10]初始攻击最高的友方。与战斗开始时相比，每少一个敌方，伤害提升20%，最多提升100%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至131%",
+            "en": "伤害增加至131%",
+            "zh": "伤害增加至131%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_10] xác suất tăng lên 40%",
+            "en": "Increases [tips_10]'s chance of triggering to 40%.",
+            "zh": "[tips_10]概率增至40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至143%",
+            "en": "伤害增加至143%",
+            "zh": "伤害增加至143%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_10] xác suất tăng lên 50%",
+            "en": "Increases [tips_10]'s chance of triggering to 50%.",
+            "zh": "[tips_10]概率增至50%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2183",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yatiangou",
+    "headKey": "h_yatiangou",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2181",
+      "2183"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,302 @@
+{
+  "id": 602,
+  "name": {
+    "vi": "Thiên Hỏa Mệnh Linh Ngạn Cơ",
+    "en": "Ignis Suzuhikohime",
+    "zh": "天火命铃彦姬"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 37]",
+    "en": "[1, 37]",
+    "zh": "[1, 37]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3510,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11505,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 432,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 114,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6021,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Linh Đao",
+        "en": "Chiming Blade",
+        "zh": "铃刀"
+      },
+      "intro": {
+        "vi": "Thế nào? Lưỡi đao Linh Đao cũng nóng rực lắm đấy.",
+        "en": "Well? Even the bell blade burns hot.",
+        "zh": "如何呢？铃刀的刀锋也是滚烫的。"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu và gây sát thương bằng 125% Tấn công.",
+        "en": "Attacks the target, dealing damage equal to 125% of ATK.",
+        "zh": "攻击目标并造成攻击125%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Increases damage to 125%.",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "6021",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 6022,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phần Tâm Chiếu Dạ",
+        "en": "Blazing Vigil",
+        "zh": "焚心照夜"
+      },
+      "intro": {
+        "vi": "Đốt cháy tâm tư làm ánh sáng, soi chiếu đêm nay.",
+        "en": "Heart aflame, night glows.",
+        "zh": "焚心为光，悬照此夜。"
+      },
+      "description": {
+        "vi": "[tips_11], khi trận đấu bắt đầu, thắp sáng thất tình, nhận [buff_6024_1] bằng 280% Tấn công cho đến lần hành động tiếp theo, đồng thời khiến toàn bộ phe ta nhận 1 tầng [buff_6022_1]. Khi lượt kết thúc, chuyển [buff_6022_1] của mục tiêu phe ta ngẫu nhiên (（ưu tiên kẻ không bị khống chế)) sang bản thân. Lúc này nếu có [tips_3] biến mất, liền nhận [buff_6024_1] bằng 220% Tấn công và tăng 30% Thanh Hành Động.\n【Thi triển】 [tips_1] toàn bộ [tips_3] của mục tiêu.",
+        "en": "[tips_11], at the start of combat, ignites the seven emotions, gaining [buff_6024_1] equal to 280% of ATK until the next turn, while granting all allies 1 stack of [buff_6022_1]. At the end of the turn, transfers a random ally's [buff_6022_1] (（未受控制者优先）) to self. If any [tips_3] disappears at this time, gains [buff_6024_1] equal to 220% of ATK and increases the Move Bar by 30%. \n[Cast] [tips_1] the target's all [tips_3].",
+        "zh": "[tips_11]，战斗开始时，引燃七情， 获得等量于攻击280%的[buff_6024_1]至下次行动，同时令所有友方获得1层[buff_6022_1]。回合结束时，将随机友方目标的[buff_6022_1](（未受控制者优先）)转移至自身。若此时有[tips_3]消失，则获得等量于攻击220%的[buff_6024_1]并提升30%行动条。\n【施放】[tips_1]目标的所有[tips_3]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_6024_1] tăng lên bằng 240% Tấn công",
+            "en": "[buff_6024_1] increases to 240% of ATK",
+            "zh": "[buff_6024_1]提升至攻击的240%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_6024_1] tăng lên bằng 260% Tấn công",
+            "en": "[buff_6024_1] increases to 260% of ATK",
+            "zh": "[buff_6024_1]提升至攻击的260%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_6024_1] tăng lên bằng 280% Tấn công",
+            "en": "[buff_6024_1] increases to 280% ATK",
+            "zh": "[buff_6024_1]提升至攻击的280%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi lượt kết thúc, nếu bản thân có [tips_3] biến mất, nhận [buff_6024_1] bằng 280% Tấn công và tăng 30% Thanh Hành Động",
+            "en": "At the end of a turn, if [tips_3] disappears, gain [buff_6024_1] equal to 280% of ATK and increase Move Bar by 30%",
+            "zh": "回合结束时，若自身有[tips_3]消失，获得等量于攻击280%的[buff_6024_1]并增加30%行动条"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "6022",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 6023,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cùng Ta Bùng Cháy",
+        "en": "World Aflame",
+        "zh": "与我燎原"
+      },
+      "intro": {
+        "vi": "Theo tiếng chuông này, cùng ta bùng cháy.",
+        "en": "One bell toll, a world aflame.",
+        "zh": "循此铃音，与我燎原。"
+      },
+      "description": {
+        "vi": "[tips_11], lắc chuông ra lệnh, chuyển [buff_6022_1] của mục tiêu phe ta chỉ định sang bản thân, và tăng 20% Thanh Hành Động cho kẻ đó. Sau đó gây cho nhóm kẻ địch 3 lần sát thương bằng 50% Tấn công bỏ qua Ngự Hồn, nếu đồng minh khác đều không mang [buff_6022_1], kỹ năng sẽ thay thế vĩnh viễn thành 『[skill_6024_1]』, cấp độ tăng theo cường hóa kỹ năng 『[skill_6023_1]』.",
+        "en": "[tips_11], ring the bell as a command to transfer the chosen ally's [buff_6022_1] to self and raise their Move Bar by 20%. Then deal 3 hits of damage at 50% ATK to all enemies that ignores Soul effects. If no other allies carry [buff_6022_1], this skill is permanently replaced with [skill_6024_1], and its level scales with [skill_6023_1].",
+        "zh": "[tips_11]，振铃为令，将指定友方的[buff_6022_1]转移至自身，并提升其20%行动条。之后对敌方群体造成3次攻击50%的无视御魂的伤害，若其他友方均未携带[buff_6022_1]，则技能永久替换为『[skill_6024_1]』，等级随『[skill_6023_1]』技能强化。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至40%",
+            "en": "伤害增加至40%",
+            "zh": "伤害增加至40%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương bỏ qua hiệu ứng Ngự Hồn của kẻ địch",
+            "en": "Damage ignores enemy Soul effects.",
+            "zh": "伤害无视敌方御魂效果"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 45%",
+            "en": "Increases damage to 45%.",
+            "zh": "伤害增加至45%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 50%",
+            "en": "Increases damage to 50%.",
+            "zh": "伤害增加至50%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "6023",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_lingyanji",
+    "headKey": "h_sp_lingyanji",
+    "armature": [
+      "common_card_skin/2605_sp_lyj_card_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_splingyanji",
+    "skillIconKeys": [
+      "6021",
+      "6022",
+      "6023"
+    ]
+  },
+  "unresolvedTokens": []
+}

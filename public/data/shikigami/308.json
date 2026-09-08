@@ -1,0 +1,253 @@
+{
+  "id": 308,
+  "name": {
+    "vi": "Quỷ Đăng",
+    "en": "Hozuki",
+    "zh": "鬼灯"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17, 20]",
+    "en": "[17, 20]",
+    "zh": "[17, 20]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2894,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 8430,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "160%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3081,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chùy Kích",
+        "en": "Club Strike",
+        "zh": "锤击"
+      },
+      "intro": {
+        "vi": "Nếu đánh một trận mà giải quyết được, thì tốt quá rồi.",
+        "en": "If a rain of fists will satisfy you, I'd be more than happy to get it over with!",
+        "zh": "如果打上一架就能解决，就太好了。"
+      },
+      "description": {
+        "vi": "Vung gậy lang nha trong tay, tấn công mục tiêu kẻ địch 2 lần, lần lượt gây sát thương bằng 38%, 88% Tấn công.",
+        "en": "Wields his spiked club and launches a 2-strike attack on 1 enemy, dealing damage equal to 38% and 88% of his ATK for each strike.",
+        "zh": "挥舞手中的狼牙棒，对敌方目标攻击2次，依序造成攻击38%、攻击88%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương lần lượt tăng lên 32%, 74%",
+            "en": "Increases his 2 damage to 32% and 74%.",
+            "zh": "依序伤害增加至32%、74%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương lần lượt tăng lên 33%, 77%",
+            "en": "Increases his 2 damage to 33% and 77%.",
+            "zh": "依序伤害增加至33%、77%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương lần lượt tăng lên 35%, 81%",
+            "en": "Increases his 2 damage to 35% and 81%.",
+            "zh": "依序伤害增加至35%、81%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương lần lượt tăng lên 38%, 88%",
+            "en": "Increases his 2 damage to 38% and 88%.",
+            "zh": "依序伤害增加至38%、88%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3081",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3082,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Chưởng Khống",
+        "en": "Full Control",
+        "zh": "掌控"
+      },
+      "intro": {
+        "vi": "Thật phiền phức...",
+        "en": "Ugh, how annoying...",
+        "zh": "真烦啊……"
+      },
+      "description": {
+        "vi": "Khi tấn công, có 22% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất khiến kẻ đó [tips_108] 1 lượt, chắc chắn Bạo kích đối với kẻ địch bị [tips_108].\nSau khi kết thúc lượt, nếu bản thân đang ở trạng thái [tips_27], liền tấn công mục tiêu phe ta ngẫu nhiên mang [tips_3] 2 lần, mỗi lần gây sát thương bằng 10% Tấn công, sau đó xua tan hoặc [tips_1] toàn bộ [tips_3] mang trên kẻ đó, và tăng 30% Thanh Hành Động cho kẻ đó.",
+        "en": "When attacking, has a 22% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_108] lasting 1 turn. The attack is guaranteed to land a critical hit on enemies with [tips_108].\nAt the end of the turn, if he's under [tips_27], launches a 2-strike attack on a random ally with [tips_3], dealing damage equal to 10% of his ATK with each strike. The attack dispels or [tips_1]s all the [tips_3]s they have and raises their Move Bar by 30%.",
+        "zh": "攻击时，有22%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_108]1回合，对[tips_108]的敌方必定暴击。\n回合结束后，若自身处于[tips_27]，则攻击带有[tips_3]的随机友方目标2次，每次造成攻击10%伤害，然后驱散或[tips_1]其带有的所有[tips_3]，并增加其30%行动条。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "3082",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3083,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Địa Ngục Chi Quỷ",
+        "en": "Ghost from Hell",
+        "zh": "地狱之鬼"
+      },
+      "intro": {
+        "vi": "Đã ở địa ngục, thì dùng bạo lực giải quyết đi.",
+        "en": "This is Hell, so let's settle this with violence!",
+        "zh": "既然是在地狱，就用暴力来解决吧。"
+      },
+      "description": {
+        "vi": "Vung gậy lang nha, tấn công mục tiêu kẻ địch dồn dập liên tiếp 3 lần, lần lượt gây sát thương bằng 55%, 110% và 165% Tấn công.",
+        "en": "Wields his spiked club and strikes 1 enemy 3 times in rapid succession, dealing damage equal to 55%, 110% and 165% of his ATK.",
+        "zh": "挥舞狼牙棒，快速猛烈的连续攻击敌方目标3次，依序造成攻击55%、攻击110%和攻击165%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương lần lượt tăng lên 47%, 93%, 139%",
+            "en": "Increases his 3 damage to 47%, 93% and 139%.",
+            "zh": "依序伤害增加至47%、93%、139%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương lần lượt tăng lên 49%, 97%, 146%",
+            "en": "Increases his 3 damage to 49%, 97% and 146%.",
+            "zh": "依序伤害增加至49%、97%、146%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương lần lượt tăng lên 51%, 102%, 152%",
+            "en": "Increases his 3 damage to 51%, 102% and 152%.",
+            "zh": "依序伤害增加至51%、102%、152%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương lần lượt tăng lên 55%, 110%, 165%",
+            "en": "Increases his 3 damage to 55%, 110% and 165%.",
+            "zh": "依序伤害增加至55%、110%、165%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3083",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "guideng",
+    "headKey": "h_guideng",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3081",
+      "3082",
+      "3083"
+    ]
+  },
+  "unresolvedTokens": []
+}

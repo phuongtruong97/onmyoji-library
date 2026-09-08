@@ -1,0 +1,438 @@
+{
+  "id": 285,
+  "name": {
+    "vi": "Trẫm",
+    "en": "Chin",
+    "zh": "鸩"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 43]",
+    "en": "[1, 43]",
+    "zh": "[1, 43]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2706,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 348,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2851,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trẫm Vũ",
+        "en": "Chin's Feathers",
+        "zh": "鸩羽"
+      },
+      "intro": {
+        "vi": "Vũ Chi Tiễn!",
+        "en": "Feather arrow!",
+        "zh": "羽之箭！"
+      },
+      "description": {
+        "vi": "Bắn ra lông vũ độc tấn công mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công và đính kèm 2 tầng [buff_2852_1].",
+        "en": "Shoots poisonous feathers at 1 enemy, dealing damage equal to 100% of her ATK and inflicting 2 [buff_2852_1] stacks on them.",
+        "zh": "射出毒羽攻击敌方目标，造成攻击100%伤害并附加2层[buff_2852_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至85%",
+            "en": "伤害增加至85%",
+            "zh": "伤害增加至85%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至90%",
+            "en": "伤害增加至90%",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至95%",
+            "en": "伤害增加至95%",
+            "zh": "伤害增加至95%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2851",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2852,
+      "maxLevel": 8,
+      "name": {
+        "vi": "Độc Chi Hoa",
+        "en": "Poisonous Beauty",
+        "zh": "毒之华"
+      },
+      "intro": {
+        "vi": "Trốn cũng vô ích thôi, từ bỏ đi.",
+        "en": "Give up already! There's no point in running!",
+        "zh": "逃也没用的，放弃吧。"
+      },
+      "description": {
+        "vi": "Khi chịu tấn công, đính kèm 1 tầng [buff_2852_1] cho kẻ tấn công.\n【Thi triển】 Đính kèm 2 tầng [buff_2852_1] cho toàn bộ phe địch, căn cứ vào số tầng [buff_2852_1] từ 1 ~ 5 tầng, gây [tips_5] bằng 1.5%, 4.5%, 9%, 15%, 22.5% giới hạn HP của mục tiêu (không vượt quá 280% Tấn công của Trẫm). Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ.",
+        "en": "When attacked, inflicts a layer of [buff_2852_1] to the attacker.\nActive skill: Inflicts 2 layers of [buff_2852_1] on all enemies, dealing [tips_5] equal to 1.5%, 4.5%, 9%, 15%, or 22.5% of the targets' max HP based on the layers (1-5) of [buff_2852_1] they have to a maximum of 280% of Chin's ATK. When Chin deals indirect damage, each layer of [buff_2852_1] reduces their DEF by 50.",
+        "zh": "受到攻击时，为攻击者附加1层[buff_2852_1]。\n【施放】为敌方全体附加2层[buff_2852_1]，根据[buff_2852_1]层数1～5层，造成目标生命上限1.5%、4.5%、9%、15%、22.5%[tips_5]（不超过鸩攻击280%）。鸩造成间接伤害时，目标带有的每层[buff_2852_1]视同降低50防御。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát Thương Gián Tiếp do [buff_2852_1] gây ra tăng lên 1.5%, 4.5%, 9%, 15%, 22.5% theo số tầng",
+            "en": "Increases [buff_2852_1]'s indirect damage based on layers to 1.5%, 4.5%, 9%, 15% and 22.5%, respectively.",
+            "zh": "[buff_2852_1]造成的间接伤害根据层数增至1.5%、4.5%、9%、15%、22.5%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tăng thêm 500% Sát Thương Gián Tiếp do [buff_2852_1] gây ra",
+            "en": "Increases [buff_2852_1]'s indirect damage to 500%.",
+            "zh": "[buff_2852_1]造成的间接伤害加成500%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tăng thêm 500% Sát Thương Gián Tiếp do [buff_2852_1] gây ra",
+            "en": "Increases [buff_2852_1]'s indirect damage to 500%.",
+            "zh": "[buff_2852_1]造成的间接伤害加成500%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ",
+            "en": "When Chin deals indirect damage, each layer of [buff_2852_1] reduces their DEF by 50.",
+            "zh": "鸩造成间接伤害时，目标带有的每层[buff_2852_1]视同降低50防御"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ",
+            "en": "When Chin deals indirect damage, each layer of [buff_2852_1] reduces their DEF by 50.",
+            "zh": "鸩造成间接伤害时，目标带有的每层[buff_2852_1]视同降低50防御"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ",
+            "en": "When Chin deals indirect damage, each layer of [buff_2852_1] reduces their DEF by 50.",
+            "zh": "鸩造成间接伤害时，目标带有的每层[buff_2852_1]视同降低50防御"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát Thương Gián Tiếp do [buff_2852_1] gây ra tăng lên 2%, 6%, 12%, 20%, 30% theo số tầng",
+            "en": "Increases [buff_2852_1]'s indirect damage based on layers to 2%, 6%, 12%, 20% and 30%, respectively.",
+            "zh": "[buff_2852_1]造成的间接伤害根据层数增至2%、6%、12%、20%、30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thành phần Sát Thương Gián Tiếp do [buff_2852_1] gây ra đổi thành 500%",
+            "en": "[buff_2852_1]'s indirect damage is now 500%.",
+            "zh": "[buff_2852_1]造成的间接伤害加成改为500%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tăng thêm 500% Sát Thương Gián Tiếp do [buff_2852_1] gây ra",
+            "en": "Increases [buff_2852_1]'s indirect damage to 500%.",
+            "zh": "[buff_2852_1]造成的间接伤害加成500%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi đính kèm lại [buff_2852_1] lên mục tiêu đã đạt số tầng tối đa, gây [tips_5] bằng 30% giới hạn HP cho mục tiêu đó (（không vượt quá 280% Tấn công của Trẫm))",
+            "en": "When inflicting [buff_2852_1] to an enemy with maxed out stacks, inflicts [tips_5] equal to 30% of their max HP((max 280% of Chin's ATK)).",
+            "zh": "对层数已达上限的目标再次附加[buff_2852_1]时，对该目标造成其生命上限30%的[tips_5](（不超过鸩攻击280%）)"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi đính kèm lại [buff_2852_1] lên mục tiêu đã đạt số tầng tối đa, gây [tips_5] bằng 30% giới hạn HP cho mục tiêu đó (（không vượt quá 280% Tấn công của Trẫm))",
+            "en": "When inflicting [buff_2852_1] to an enemy with maxed out stacks, inflicts [tips_5] equal to 30% of their max HP((max 280% of Chin's ATK)).",
+            "zh": "对层数已达上限的目标再次附加[buff_2852_1]时，对该目标造成其生命上限30%的[tips_5](（不超过鸩攻击280%）)"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ",
+            "en": "When Chin deals indirect damage, each layer of [buff_2852_1] reduces their DEF by 50.",
+            "zh": "鸩造成间接伤害时，目标带有的每层[buff_2852_1]视同降低50防御"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "[buff_99_1]",
+            "en": "[buff_99_1]",
+            "zh": "[buff_99_1]"
+          }
+        },
+        {
+          "level": 7,
+          "text": {
+            "vi": "Tăng thêm 500% Sát Thương Gián Tiếp do [buff_2852_1] gây ra",
+            "en": "Increases [buff_2852_1]'s indirect damage to 500%.",
+            "zh": "[buff_2852_1]造成的间接伤害加成500%"
+          }
+        },
+        {
+          "level": 8,
+          "text": {
+            "vi": "Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ",
+            "en": "When Chin deals indirect damage, each layer of [buff_2852_1] reduces their DEF by 50.",
+            "zh": "鸩造成间接伤害时，目标带有的每层[buff_2852_1]视同降低50防御"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2853",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 7,
+          "awakeFilter": 2
+        },
+        {
+          "level": 8,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2853,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Độc Thất",
+        "en": "Poison Erosion",
+        "zh": "毒蚀"
+      },
+      "intro": {
+        "vi": "Cảm giác bị độc tố gặm nhấm thế nào?",
+        "en": "How does it feel to be poisoned?",
+        "zh": "被毒侵蚀的感觉怎么样？"
+      },
+      "description": {
+        "vi": "Phóng độc tố trên lông vũ tấn công mục tiêu kẻ địch, lập tức đính kèm 3 tầng [buff_2852_1] cho mục tiêu kẻ địch, và gây sát thương bằng 210% Tấn công, đối với kẻ địch mang [buff_2852_1], tiêu hao toàn bộ số tầng, mỗi tầng gây [tips_5] bằng 42% Tấn công, nếu không kết liễu mục tiêu kẻ địch, lập tức thi triển miễn phí 1 lần Độc Chi Hoa, Độc Chi Hoa lần này đính kèm 1 tầng [buff_2852_1].",
+        "en": "Releases the toxins in her feathers to attack 1 enemy, immediately inflicting 3 [buff_2852_1] stacks and dealing damage equal to 210% of her ATK. For enemies with a [buff_2852_1] stack, consumes all their stacks, dealing [tips_5] equal to 42% for each stack. If the enemy is not KO'd, immediately uses Poisonous Beauty on them. Only 1 [buff_2852_1] stack is inflicted from Poisonous Beauty used this way.",
+        "zh": "施放羽毛上的毒素攻击敌方目标，立刻为敌方目标附加3层[buff_2852_1]，并造成攻击210%伤害，对带有[buff_2852_1]的敌人，消耗所有层数，每层造成攻击42%[tips_5]，若未击杀敌方目标，立刻无消耗施放1次毒之华，本次毒之华附加1层[buff_2852_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 193%, [tips_5] tăng lên 39%",
+            "en": "Increases damage to 193% and [tips_5] to 39%.",
+            "zh": "伤害增至193%，[tips_5]增至39%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 210%, [tips_5] tăng lên 42%",
+            "en": "Increases damage to 210% and [tips_5] to 42%.",
+            "zh": "伤害增至210%，[tips_5]增至42%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi thi triển, lập tức đính kèm 3 tầng [buff_2852_1] cho mục tiêu kẻ địch",
+            "en": "Immediately inflicts 3 [buff_2852_1] stacks to the enemy when using the skill.",
+            "zh": "施放时，立刻为敌方目标附加3层[buff_2852_1]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu không kết liễu mục tiêu kẻ địch, lập tức thi triển miễn phí 1 lần Độc Chi Hoa, Độc Chi Hoa lần này đính kèm 1 tầng [buff_2852_1]",
+            "en": "If the enemy is not KO'd, immediately uses Poisonous Beauty on them. It will only inflict 1 [buff_2852_1] stack.",
+            "zh": "若未击杀敌方目标，立刻无消耗施放1次毒之华，本次毒之华附加1层[buff_2852_1]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2852",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "zhen",
+    "headKey": "h_zhen",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2851",
+      "2853",
+      "2852"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,220 @@
+{
+  "id": 558,
+  "name": {
+    "vi": "Đạo Nhân Thần",
+    "en": "Nusubitogami",
+    "zh": "盗人神"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[16, 17]",
+    "en": "[16, 17]",
+    "zh": "[16, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2224,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10366,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 423,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 110,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5581,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Công Vô Bị",
+        "en": "Least-expected Strike",
+        "zh": "攻无备"
+      },
+      "intro": {
+        "vi": "Giờ mới phát hiện ra ta sao? Đã muộn rồi.",
+        "en": "By the time you see me, it'll already be too late.",
+        "zh": "现在才发现我？已经晚了。"
+      },
+      "description": {
+        "vi": "Ảnh nhảy rút đao, tấn công một mục tiêu kẻ địch, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Leaps out from the shadow to attack 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "影跃抽刀，攻击单个敌方目标，对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害提升至105%",
+            "en": "伤害提升至105%",
+            "zh": "伤害提升至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害提升至110%",
+            "en": "伤害提升至110%",
+            "zh": "伤害提升至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害提升至115%",
+            "en": "伤害提升至115%",
+            "zh": "伤害提升至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害提升至125%",
+            "en": "伤害提升至125%",
+            "zh": "伤害提升至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5581",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5583,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đạo Diệc Hữu Đạo",
+        "en": "Rogue of Principles",
+        "zh": "盗亦有道"
+      },
+      "intro": {
+        "vi": "Muôn vàn vạn vật trên đời làm gì có chuyện thuộc về ai? Ta chỉ là giúp chúng đổi sang một chủ nhân biết trân trọng hơn mà thôi.",
+        "en": "Nobody owns anything. I just make sure things go to those who will cherish them.",
+        "zh": "世间万物哪有归属一说？我只是让它们换个会珍惜的主人而已。"
+      },
+      "description": {
+        "vi": "Gây cho mục tiêu kẻ địch 4 đòn sát thương bằng 52% Tấn công. Nếu đòn tấn công lần đó không kết liễu được, mỗi đòn tấn công sẽ trộm ngẫu nhiên thuộc tính của mục tiêu kẻ địch, duy trì 2 lượt.\nThuộc tính có thể trộm bao gồm 15% Tấn công, 20% Phòng thủ, 15% Bạo Kích, 10 điểm Tốc độ, mỗi mục tiêu tối đa có thể trộm 3 lần cùng một thuộc tính, không hiệu lực với quái vật. Nếu Đạo Nhân Thần từ trạng thái [tips_5581] trở lại chiến trường, liền tăng thêm 4 đòn tấn công, đồng thời hoàn trả 2 điểm Quỷ Hỏa.",
+        "en": "Launches a 4-strike attack on 1 enemy, dealing damage equal to 52% of his ATK on each strike. If the attack fails to KO the enemy, each strike randomly steals a different stat from the enemy for 2 turns.\nStealable stats include 15% ATK, 20% DEF, 15% Crit, and 10 SPD. Each type of stat can be stolen up to 3 times from a single unit. Ineffective on monsters. When Nusubitogami returns to the battlefield from [tips_5581], increases the strikes by 4 and grants you 2 orbs.",
+        "zh": "对敌方目标造成4次攻击52%伤害。若该次攻击未造成击败，每次攻击会随机偷取敌方目标属性，持续2回合。\n可偷取的属性包含15%攻击、20%防御、15%暴击、10点速度、每个目标最多可偷取3次相同属性，对怪物无效。若盗人神从[tips_5581]状态回到战场，则增加4次攻击次数，并返还2点鬼火。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 44%",
+            "en": "Increases the damage to 44%.",
+            "zh": "伤害提升至44%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 48%",
+            "en": "Increases the damage to 48%.",
+            "zh": "伤害提升至48%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 52%",
+            "en": "Increases the damage to 52%.",
+            "zh": "伤害提升至52%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu Đạo Nhân Thần trong lượt này từ trạng thái [tips_5581] trở lại chiến trường, khiến số đòn tấn công lần này +4, đồng thời hoàn trả 2 điểm Quỷ Hỏa",
+            "en": "When Nusubitogami returns to the battlefield from [tips_5581], increases the strikes by 4 and grants you 2 orbs.",
+            "zh": "若盗人神本回合从[tips_5581]状态回到战场，则使本次攻击次数+4，并返还2点鬼火"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5583",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "daorenshen",
+    "headKey": "h_daorenshen",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "5581",
+      "5583"
+    ]
+  },
+  "unresolvedTokens": []
+}

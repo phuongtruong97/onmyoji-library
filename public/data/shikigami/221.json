@@ -1,0 +1,377 @@
+{
+  "id": 221,
+  "name": {
+    "vi": "Thực Phát Quỷ",
+    "en": "Kamikui",
+    "zh": "食发鬼"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[18, 17]",
+    "en": "[18, 17]",
+    "zh": "[18, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2599,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9683,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 388,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2211,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phát Bức",
+        "en": "Hair Whip",
+        "zh": "发鞭"
+      },
+      "intro": {
+        "vi": "能死在我的秀发之下，可是你的荣幸~",
+        "en": "能死在我的秀发之下，可是你的荣幸~",
+        "zh": "能死在我的秀发之下，可是你的荣幸~"
+      },
+      "description": {
+        "vi": "用引以为傲的长发编成鞭子，鞭打敌方目标，造成攻击120%伤害。",
+        "en": "用引以为傲的长发编成鞭子，鞭打敌方目标，造成攻击120%伤害。",
+        "zh": "用引以为傲的长发编成鞭子，鞭打敌方目标，造成攻击120%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2211",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2212,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Mê Yên",
+        "en": "Sleep Smoke",
+        "zh": "迷烟"
+      },
+      "intro": {
+        "vi": "Ngủ nướng nhiều chút, da mới đẹp đó nha~!",
+        "en": "It looks like you need some beauty sleep!",
+        "zh": "多睡美容觉，皮肤才会好哦～！"
+      },
+      "description": {
+        "vi": "Từ tẩu thuốc thổi ra khói mê, bay tới chỗ kẻ địch hóa thành sợi tóc quấn chặt mục tiêu kẻ địch, có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất khiến kẻ đó [tips_102] 1 lượt.",
+        "en": "Uses his pipe to blow magical smoke that transforms into strands of hair and entangles 1 enemy, has a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_102] lasting 1 turn(s) on the enemy.",
+        "zh": "从烟斗吹出迷烟，飘至敌人处化作发丝紧紧缠住敌方目标，100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_102]1回合。"
+      },
+      "upgrades": [],
+      "orbCost": 3,
+      "iconKey": "2212",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2213,
+      "maxLevel": 7,
+      "name": {
+        "vi": "真实之颜",
+        "en": "真实之颜",
+        "zh": "真实之颜"
+      },
+      "intro": {
+        "vi": "非要我露出真面目才肯乖乖的吗？",
+        "en": "非要我露出真面目才肯乖乖的吗？",
+        "zh": "非要我露出真面目才肯乖乖的吗？"
+      },
+      "description": {
+        "vi": "露出发幕下的真面目恫吓敌方全体，造成攻击104%伤害，并击退30%行动条。",
+        "en": "露出发幕下的真面目恫吓敌方全体，造成攻击104%伤害，并击退30%行动条。",
+        "zh": "露出发幕下的真面目恫吓敌方全体，造成攻击104%伤害，并击退30%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至91%",
+            "en": "伤害增加至91%",
+            "zh": "伤害增加至91%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至91%",
+            "en": "伤害增加至91%",
+            "zh": "伤害增加至91%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至91%",
+            "en": "伤害增加至91%",
+            "zh": "伤害增加至91%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至96%",
+            "en": "伤害增加至96%",
+            "zh": "伤害增加至96%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至96%",
+            "en": "伤害增加至96%",
+            "zh": "伤害增加至96%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至96%",
+            "en": "伤害增加至96%",
+            "zh": "伤害增加至96%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至104%",
+            "en": "伤害增加至104%",
+            "zh": "伤害增加至104%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至104%",
+            "en": "伤害增加至104%",
+            "zh": "伤害增加至104%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至104%",
+            "en": "伤害增加至104%",
+            "zh": "伤害增加至104%"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "伤害增加至104%",
+            "en": "伤害增加至104%",
+            "zh": "伤害增加至104%"
+          }
+        },
+        {
+          "level": 7,
+          "text": {
+            "vi": "伤害增加至104%",
+            "en": "伤害增加至104%",
+            "zh": "伤害增加至104%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2213",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 7,
+          "awakeFilter": 2
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "shifagui",
+    "headKey": "h_shifagui",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2211",
+      "2212",
+      "2213"
+    ]
+  },
+  "unresolvedTokens": []
+}

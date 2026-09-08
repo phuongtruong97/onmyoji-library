@@ -1,0 +1,302 @@
+{
+  "id": 341,
+  "name": {
+    "vi": "Quỷ Vương Tửu Thốn Đồng Tử",
+    "en": "Demoniac Shuten Doji",
+    "zh": "鬼王酒吞童子"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[18, 5, 20]",
+    "en": "[18, 5, 20]",
+    "zh": "[18, 5, 20]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2867,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10936,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 405,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3411,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phần Thiên",
+        "en": "Blazing Fire",
+        "zh": "焚天"
+      },
+      "intro": {
+        "vi": "能让本大爷出手，是你的荣幸。",
+        "en": "能让本大爷出手，是你的荣幸。",
+        "zh": "能让本大爷出手，是你的荣幸。"
+      },
+      "description": {
+        "vi": "驱动鬼火球攻击敌方目标，造成攻击125%伤害。",
+        "en": "驱动鬼火球攻击敌方目标，造成攻击125%伤害。",
+        "zh": "驱动鬼火球攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3411",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3412,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồng Liên",
+        "en": "Inflamed",
+        "zh": "红莲"
+      },
+      "intro": {
+        "vi": "只要能守住大江山，就算烧成灰烬也罢！",
+        "en": "只要能守住大江山，就算烧成灰烬也罢！",
+        "zh": "只要能守住大江山，就算烧成灰烬也罢！"
+      },
+      "description": {
+        "vi": "Miễn nhiễm [tips_3] và Trục Xuất, hiệu ứng trị liệu nhận được giảm 30%.\nGiúp toàn bộ phe ta nhận [buff_3411_1] (hiệu ứng bản thân gấp đôi).",
+        "en": "Gains immunity to [tips_3]s and Banish. Reduces healing effects received by 30%.\nGrants [buff_3411_1] to all allies. (Worth double on himself.)",
+        "zh": "免疫[tips_3]和放逐，受到治疗效果减少30%。\n使友方全体获得[buff_3411_1]（自身效果加倍）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng trị liệu nhận được giảm giảm xuống [b_属性1数值_per]",
+            "en": "Reduces the reduction to healing effect received to [b_属性1数值_per].",
+            "zh": "受到治疗减少效果降低至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_3411_1] giúp toàn bộ phe ta mỗi khi mất 1% HP, tăng thêm 1% giảm sát thương",
+            "en": "[buff_3411_1] additionally increases ally's damage reduction by 1% for each 1% HP they lost.",
+            "zh": "[buff_3411_1]使友方全体每损失1%生命，额外提升1%减伤"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng trị liệu nhận được giảm giảm xuống [b_属性1数值_per]",
+            "en": "Reduces the reduction to healing effect received to [b_属性1数值_per].",
+            "zh": "受到治疗减少效果降低至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng bản thân chịu ảnh hưởng bởi [buff_3411_1] gấp đôi",
+            "en": "The [buff_3411_1] effect is doubled on himself.",
+            "zh": "自身受[buff_3411_1]影响效果加倍"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3412",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3413,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Hỏa Nộ Diễm",
+        "en": "Raging Blaze",
+        "zh": "天火怒焱"
+      },
+      "intro": {
+        "vi": "这无穷无尽的烈火，将吞噬我最后的动摇！",
+        "en": "这无穷无尽的烈火，将吞噬我最后的动摇！",
+        "zh": "这无穷无尽的烈火，将吞噬我最后的动摇！"
+      },
+      "description": {
+        "vi": "Giải phóng yêu lực mạnh mẽ gầm lên giận dữ, đẩy lùi 40% Thanh Hành Động của toàn bộ phe địch và giải trừ 2 hiệu ứng tăng ích, sau đó bản thân tiến vào [buff_3413_3] 2 lượt. Khi trạng thái Quỷ Vương kết thúc, hồi phục cho toàn bộ phe ta lượng HP bằng 20% sát thương bản thân gây ra trong thời gian đó.\nChỉ có thể thi triển kỹ năng này khi không ở trong [buff_3413_1]. Phe ta sau khi bị thiêu đốt, nếu tỷ lệ HP thấp hơn 30%, giải trừ hoặc [tips_1] tất cả [tips_3]",
+        "en": "Unleashes a powerful demonic force with a thundering roar, lowering the Move Bar of all enemies by 40% and dispelling 2 buffs from them. Enters the [buff_3413_3] for 2 turns. When his Demoniac State ends, recovers the HP of all allies by 20% of the damage he dealt while in this state.\nThis skill can only be used when he has not entered [buff_3413_1]. If an ally's HP falls below 30% after being burned, dispels or [tips_1]s all [tips_3].",
+        "zh": "释放强大的妖力发出震怒咆哮，击退敌方全体40%行动条并驱散2个增益效果，然后自身进入[buff_3413_3]2回合。鬼王姿态结束时，为友方全体恢复自身在期间造成伤害20%的生命。\n仅在非[buff_3413_1]下可施放此技能。友方受到灼烧后，若生命比例低于30%，驱散或[tips_1]所有[tips_3]"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Số lượng hiệu ứng tăng ích giải trừ tăng lên 2",
+            "en": "Increases dispelled buffs to 2.",
+            "zh": "驱散增益数量增至2个"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi trạng thái Quỷ Vương kết thúc, [tips_20] lượng HP cho toàn bộ phe ta bằng 20% sát thương bản thân gây ra trong thời gian Quỷ Vương",
+            "en": "When his Demoniac State ends, [tips_20] the HP of all allies by the damage he dealt during the state.",
+            "zh": "鬼王姿态结束时，为友方全体[tips_20]生命，等同自身在鬼王姿态期间所造成伤害的20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Đẩy lùi Thanh Hành Động tăng lên 40%",
+            "en": "Increases Move Bar-lowering effect to 40%.",
+            "zh": "击退行动条增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Phe ta sau khi bị thiêu đốt, nếu tỷ lệ HP thấp hơn 30%, giải trừ hoặc [tips_1] tất cả [tips_3]",
+            "en": "When an ally is burned and their HP falls below 30%, dispels or [tips_1]s all [tips_3].",
+            "zh": "友方受到灼烧后，若生命比例低于30%，驱散或[tips_1]所有[tips_3]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3413",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_jiutuntongzi",
+    "headKey": "j_spjiutuntongzi",
+    "armature": [
+      "spjiutun_ani",
+      0,
+      1
+    ],
+    "artName": "txt_zhanshi_guiwangjiutuntongzi",
+    "skillIconKeys": [
+      "3411",
+      "3412",
+      "3413"
+    ]
+  },
+  "unresolvedTokens": []
+}

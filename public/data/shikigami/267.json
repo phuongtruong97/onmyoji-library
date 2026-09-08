@@ -1,0 +1,378 @@
+{
+  "id": 267,
+  "name": {
+    "vi": "Sakura no Sei",
+    "en": "Sakura",
+    "zh": "樱花妖"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[10, 33, 1]",
+    "en": "[10, 33, 1]",
+    "zh": "[10, 33, 1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2170,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12531,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 92,
+      "grade": "D"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "3%",
+      "grade": "C"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2671,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Anh Lạc",
+        "en": "Sakura Shower",
+        "zh": "樱落"
+      },
+      "intro": {
+        "vi": "Rừng phong rợp bóng qua, hoa rơi lả tả bay.",
+        "en": "Beautiful yet deadly.",
+        "zh": "山风樱林过，花落舞纷纷。"
+      },
+      "description": {
+        "vi": "Sử dụng cánh hoa tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Uses blossoms to attack 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "使用花瓣攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2671",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2672,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phục Sức",
+        "en": "Recovery",
+        "zh": "复苏"
+      },
+      "intro": {
+        "vi": "Đồng ruộng đầu xuân tạnh ráo, hoa anh đào đang lúc phồn thịnh.",
+        "en": "Let the flowers heal you.",
+        "zh": "初春田野霁，山樱正繁时。"
+      },
+      "description": {
+        "vi": "[tips_11].\nNếu bản thân không ở trong [tips_17], sau khi các đồng minh khác không phải vật triệu hồi kết thúc lượt, trị liệu cho họ lượng HP bằng 6% giới hạn HP; nếu là sau khi kết thúc lượt của bản thân, đổi thành trị liệu lượng HP bằng 9% giới hạn HP cho họ, đồng thời Sakura no Sei trị liệu cho bản thân lượng HP bằng 4% giới hạn HP.\n【Thi triển】 Nhận [buff_2672_1], duy trì 2 lượt.",
+        "en": "[tips_11].\nIf she's not [tips_17], at the end of other non-summoned entity ally's action, heals their HP by 6% of her max HP; at the end of a turn, heals their HP by 9% of her max HP. Also heals her own HP by 4% of her max HP. \nUsing the skill gains her a [buff_2672_1] stack for 2 turn(s).",
+        "zh": "[tips_11]。\n若自身未处于[tips_17]，则其他非召唤物的友方行动结束后，为其治疗生命上限6%的生命；若为回合结束后，则改为为其治疗生命上限9%生命，并同时樱花妖治疗自身生命上限4%生命。\n【施放】获得[buff_2672_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_2672_1] bổ sung tăng [b_属性2数值_per] Kháng Hiệu Ứng",
+            "en": "[buff_2672_1] also grants [b_属性2数值_per] Effect RES.",
+            "zh": "[buff_2672_1]额外提升[b_属性2数值_per]效果抵抗"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu quả trị liệu của [buff_2672_1] tăng lên [b_属性1数值_per]",
+            "en": "Increases the healing efficiency of [buff_2672_1] to [b_属性1数值_per].",
+            "zh": "[buff_2672_1]治疗效果提升增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thời gian duy trì của [buff_2672_1] tăng lên 2 lượt",
+            "en": "Increases the duration of [buff_2672_1] to 2 turns.",
+            "zh": "[buff_2672_1]持续时间增至2回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiêu hao Quỷ Hỏa giảm xuống 2 điểm",
+            "en": "Reduces orbs required to 2.",
+            "zh": "消耗鬼火降至2点"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2672",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2673,
+      "maxLevel": 7,
+      "name": {
+        "vi": "Anh Xuy Tuyết",
+        "en": "Sakura Blizzard",
+        "zh": "樱吹雪"
+      },
+      "intro": {
+        "vi": "Một rèm gió xuân hoa anh đào nửa sườn núi.",
+        "en": "A curtain of sakura as far as the eye can see.",
+        "zh": "半山春樱一帘风。"
+      },
+      "description": {
+        "vi": "Giáng hoa anh đào tấn công toàn bộ kẻ địch, xua tan 3 hiệu ứng tăng ích cho mỗi kẻ địch, đồng thời có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất giảm trị liệu 50%, duy trì 2 lượt; đồng thời đính kèm [buff_2674_1], gây [tips_5] bằng [b2_参数p1_per] giới hạn HP (không vượt quá [b2_参数p2_per] Tấn công), duy trì 2 lượt.",
+        "en": "Makes cherry blossoms fall from above to attack all enemies, dispelling 3 buffs from each enemy with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting a 50% Heal Down lasting 2 turns on them. Also inflicts a [buff_2674_1] lasting 2 turns on them, dealing [tips_5] equal to [b2_参数p1_per] of her max HP (up to a max of [b2_参数p2_per] of her ATK).",
+        "zh": "降下落樱攻击敌方全体，对每个敌方驱散3个增益状态，并且100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率减疗50%，持续2回合；同时附加[buff_2674_1]，造成生命上限[b2_参数p1_per][tips_5]（不超过攻击[b2_参数p2_per]），持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_5] của [buff_2674_1] tăng lên [b2_参数p1_per] giới hạn HP",
+            "en": "Increases the [tips_5] of [buff_2674_1] to [b2_参数p1_per] of her max HP.",
+            "zh": "[buff_2674_1][tips_5]增至生命上限[b2_参数p1_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_5] của [buff_2674_1] tăng lên [b2_参数p1_per] giới hạn HP",
+            "en": "Increases the [tips_5] of [buff_2674_1] to [b2_参数p1_per] of her max HP.",
+            "zh": "[buff_2674_1][tips_5]增至生命上限[b2_参数p1_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_5] của [buff_2674_1] tăng lên [b2_参数p1_per] giới hạn HP",
+            "en": "Increases the [tips_5] of [buff_2674_1] to [b2_参数p1_per] of her max HP.",
+            "zh": "[buff_2674_1][tips_5]增至生命上限[b2_参数p1_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_5] của [buff_2674_1] tăng lên [b2_参数p1_per] giới hạn HP",
+            "en": "Increases the [tips_5] of [buff_2674_1] to [b2_参数p1_per] of her max HP.",
+            "zh": "[buff_2674_1][tips_5]增至生命上限[b2_参数p1_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng giảm trị liệu tăng lên [b_属性1数值_per]",
+            "en": "Increases Heal Down effect to [b_属性1数值_per].",
+            "zh": "减疗效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng giảm trị liệu tăng lên [b_属性1数值_per]",
+            "en": "Increases Heal Down effect to [b_属性1数值_per].",
+            "zh": "减疗效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu không xua tan bất kỳ hiệu ứng tăng ích nào, hoàn trả 1 điểm Quỷ Hỏa",
+            "en": "If no buffs are dispelled, 1 orbs are refunded.",
+            "zh": "若没有驱散任何增益，返还1点鬼火"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu không xua tan bất kỳ hiệu ứng tăng ích nào, hoàn trả 1 điểm Quỷ Hỏa",
+            "en": "If no buffs are dispelled, 1 orbs are refunded.",
+            "zh": "若没有驱散任何增益，返还1点鬼火"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2673",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 7,
+          "awakeFilter": 2
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yinghuayao",
+    "headKey": "h_yinghuayao",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2671",
+      "2672",
+      "2673"
+    ]
+  },
+  "unresolvedTokens": []
+}

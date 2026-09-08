@@ -1,0 +1,350 @@
+{
+  "id": 318,
+  "name": {
+    "vi": "Ư Cúc Trùng",
+    "en": "Okikumushi",
+    "zh": "於菊虫"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2653,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10822,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 335,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3181,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thổ Ty",
+        "en": "Venomous Spit",
+        "zh": "吐丝"
+      },
+      "intro": {
+        "vi": "Xin hãy nghiêm túc lắng nghe ta nói!",
+        "en": "Listen close and listen well!",
+        "zh": "请认真听我讲话！"
+      },
+      "description": {
+        "vi": "Phun chất độc về phía mục tiêu kẻ địch, gây sát thương bằng 72% Tấn công và có 100% [tips_2] đính kèm [buff_99_1] cấp 3, duy trì 2 lượt.",
+        "en": "Spits venom at 1 enemy, dealing damage equal to 72% of her ATK, and has a 100% [tips_2] of inflicting Grade III [buff_99_1] lasting 2 turns on them.",
+        "zh": "向敌方目标喷射毒液，造成攻击72%伤害并有100%[tips_2]附加3级[buff_99_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至66%",
+            "en": "伤害增加至66%",
+            "zh": "伤害增加至66%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_99_1] đính kèm nâng lên cấp 2",
+            "en": "Inflicts Grade II [buff_99_1] instead.",
+            "zh": "附加[buff_99_1]增至2级"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至72%",
+            "en": "伤害增加至72%",
+            "zh": "伤害增加至72%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_99_1] đính kèm nâng lên cấp 3",
+            "en": "Inflicts Grade III [buff_99_1] instead.",
+            "zh": "附加[buff_99_1]增至3级"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3181",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3182,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phá Kén",
+        "en": "Breakout",
+        "zh": "破茧"
+      },
+      "intro": {
+        "vi": "Kén của ngươi đã xé ra chưa?",
+        "en": "Is your cocoon broken?",
+        "zh": "你的茧破开了吗？"
+      },
+      "description": {
+        "vi": "Khi phun chất độc gây sát thương, nếu mục tiêu mang [buff_99_1], liền kích nổ ngẫu nhiên 1 cái trong số đó, và gây [tips_5] bằng 16% Tấn công × cấp độ [buff_99_1] đó. Sau khi kích nổ, đính kèm thêm 1 [buff_99_1] tăng +1 cấp, số lượt duy trì +1. Mỗi khi đơn vị phe địch có hiệu ứng Trúng Độc, Tốc độ của Ư Cúc Trùng tăng 10 điểm.",
+        "en": "When she spits venom and deals damage, if the target is inflicted with [buff_99_1], randomly explodes one of the statuses, dealing [tips_5] equal to 16% of her ATK x the [buff_99_1] grade. After the explosion, inflicts another [buff_99_1] of 1 grade higher, lasting 1 more turn. Increases Okikumushi's SPD by 10 for each enemy with Poison.",
+        "zh": "喷射毒液造成伤害时，若目标带有[buff_99_1]，则随机引爆其中1个，并造成攻击16%×该[buff_99_1]等级的[tips_5]。引爆后，再附加1个等级+1的[buff_99_1]，持续回合+1。当敌方每有一个单位有中毒效果时，於菊虫速度提高10点。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương [tips_5] tăng lên 12%",
+            "en": "Increases [tips_5] multiplier to 12%.",
+            "zh": "[tips_5]伤害增至12%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sau khi kích nổ, đính kèm thêm 1 [buff_99_1] tăng lên 1 cấp, số lượt duy trì +1",
+            "en": "After the explosion, inflicts another [buff_99_1] of 1 grade higher, lasting 1 more turn.",
+            "zh": "引爆后，再附加1个提升1级的[buff_99_1]，持续回合数+1"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương [tips_5] tăng lên 16%",
+            "en": "Increases [tips_5] multiplier to 16%.",
+            "zh": "[tips_5]伤害增至16%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi đơn vị phe địch có hiệu ứng Trúng Độc, Tốc độ của Ư Cúc Trùng tăng 10 điểm",
+            "en": "Increases Okikumushi's SPD by 10 for each enemy with Poison.",
+            "zh": "当敌方每有一个单位有中毒效果时，於菊虫速度提高10点"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3182",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3183,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trùng Chi Độc",
+        "en": "Caterpillar Venom",
+        "zh": "虫之毒"
+      },
+      "intro": {
+        "vi": "Bây giờ có hối hận thì cũng đã quá muộn rồi nhỉ!",
+        "en": "It's already too late for regrets!",
+        "zh": "现在后悔已经太晚了吧！"
+      },
+      "description": {
+        "vi": "Nhìn chằm chằm một mục tiêu kẻ địch, sau đó phun liên tiếp chất độc tấn công 6 lần, mỗi lần gây sát thương bằng 36% Tấn công cho mục tiêu kẻ địch ngẫu nhiên, ưu tiên tấn công kẻ địch chưa bị tấn công, và có 100% [tips_2] đính kèm [buff_99_1] cấp 3, duy trì 2 lượt. Sau đó đính kèm [buff_3183_1] cho mục tiêu bị nhìn chằm chằm, gây [tips_5] bằng 105% Tấn công, đồng thời sao chép [buff_99_1] của các đơn vị khác bị kích nổ trong quá trình tấn công, 100% [tips_2] đính kèm cho mục tiêu bị nhìn chằm chằm, duy trì 2 lượt.",
+        "en": "Stares at 1 enemy and spits 6 shots of venom at random enemies, dealing damage equal to 36% of her ATK with each shot, prioritizing enemies she hasn't attacked, and has a 100% [tips_2] of inflicting Grade III [buff_99_1] lasting 2 turns on them. Also, inflicts [buff_3183_1] on the target she stared at, dealing [tips_5] equal to 105% of her ATK, and copies the [buff_99_1] on another enemy she caused to explode during the attack. Has a 100% [tips_2] of inflicting this copy on the target she stared at, lasting 2 turns.",
+        "zh": "凝视一个敌方目标，然后连续喷射毒液攻击6次，每次对随机敌方目标造成攻击36%伤害，优先攻击未攻击过的敌方，并有100%[tips_2]附加3级[buff_99_1]，持续2回合。然后对凝视目标附加[buff_3183_1]，造成攻击105%[tips_5]，并将攻击过程中引爆的其他单位的[buff_99_1]复制，100%[tips_2]附加给凝视目标，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_99_1] đính kèm nâng lên cấp 3",
+            "en": "Inflicts Grade III [buff_99_1] instead.",
+            "zh": "附加[buff_99_1]增至3级"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_99_1] đính kèm nâng lên cấp 3",
+            "en": "Inflicts Grade III [buff_99_1] instead.",
+            "zh": "附加[buff_99_1]增至3级"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至36%",
+            "en": "伤害增加至36%",
+            "zh": "伤害增加至36%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至36%",
+            "en": "伤害增加至36%",
+            "zh": "伤害增加至36%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Số đòn tấn công nâng lên 6 lần",
+            "en": "Increases her attack attempts to 6.",
+            "zh": "攻击次数增至6次"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Số đòn tấn công nâng lên 6 lần",
+            "en": "Increases her attack attempts to 6.",
+            "zh": "攻击次数增至6次"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "消耗鬼火减少1点",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "消耗鬼火减少1点",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3183",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yujuchong",
+    "headKey": "h_yujuchong",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3181",
+      "3182",
+      "3183"
+    ]
+  },
+  "unresolvedTokens": []
+}

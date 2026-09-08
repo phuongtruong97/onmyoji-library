@@ -1,0 +1,220 @@
+{
+  "id": 261,
+  "name": {
+    "vi": "Liêm Dữu",
+    "en": "Kamaitachi",
+    "zh": "镰鼬"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[12, 5]",
+    "en": "[12, 5]",
+    "zh": "[12, 5]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10480,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 388,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 107,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2611,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Béo Nện",
+        "en": "Beat Down",
+        "zh": "胖揍"
+      },
+      "intro": {
+        "vi": "Chùy? Bồ cào? Kiếm? Luôn có một loại hợp khẩu vị ngươi thôi haha~",
+        "en": "A hammer? A rake? A sword? I'm sure we've got something you'll like! Hahaha!",
+        "zh": "锤？钉耙？剑？总有一款合你口味哈哈~"
+      },
+      "description": {
+        "vi": "Sử dụng nhiều loại vũ khí tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, có 20% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm ngẫu nhiên 1 trong các hiệu ứng sau: Giảm 30% Phòng thủ duy trì 2 lượt, [tips_108] 1 lượt, hoặc mỗi lượt chịu sát thương bằng 5% HP tối đa, duy trì 2 lượt.",
+        "en": "Uses multiple weapons to attack 1 enemy, dealing damage equal to 120% of their ATK with a 20% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting one of the following effects: Reduces DEF by 30% for 2 turns; [tips_108] lasting 1 turn(s); Takes damage equal to 5% of max HP on each turn for 2 turn(s).",
+        "zh": "使用多种武器攻击敌方目标，造成攻击120%伤害，有20%（+[*|a_debuff-acc_per|s_buff概率_per]）概率随机附加以下一种效果，降低30%防御2回合、[tips_108]1回合、或每回合受到生命上限5%的伤害，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2611",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2613,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Huynh Đệ Chi Bàn",
+        "en": "Brotherly Bond",
+        "zh": "兄弟之绊"
+      },
+      "intro": {
+        "vi": "Cho ngươi chứng kiến sự gắn kết giữa ba anh em chúng ta!",
+        "en": "We might be blood brothers, but only our enemies will bleed!",
+        "zh": "就让你见识一下我们三兄弟的羁绊！"
+      },
+      "description": {
+        "vi": "Kích hoạt đồng đội, giúp toàn bộ phe ta tăng 30% Thanh Hành Động, và tăng [b_属性1数值_per] Tấn công, [b2_属性1数值_per] Kháng Hiệu Ứng, duy trì 2 lượt.",
+        "en": "Inspires all allies, raising their Move Bar by 30%, increasing their ATK by [b_属性1数值_per] and their Effect RES by [b2_属性1数值_per] for 2 turn(s).",
+        "zh": "激励队友，使友方全体增加30%行动条，并提升[b_属性1数值_per]攻击、[b2_属性1数值_per]效果抵抗，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_2613_1] hiệu ứng tăng Tấn công tăng lên [b_属性1数值_per]",
+            "en": "Increases [buff_2613_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2613_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Có thể giúp toàn bộ phe ta tăng 30% Thanh Hành Động",
+            "en": "Raises the Move Bar of all allies by 30%.",
+            "zh": "可以使友方全体增加30%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_2614_1] hiệu ứng tăng Kháng Hiệu Ứng tăng lên [b2_属性1数值_per]",
+            "en": "Increases [buff_2614_1]'s Effect RES boost to [b2_属性1数值_per].",
+            "zh": "[buff_2614_1]提升效果抵抗增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_2613_1] hiệu ứng tăng Tấn công tăng lên [b_属性1数值_per]",
+            "en": "Increases [buff_2613_1]'s ATK boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2613_1]提升攻击效果增至[b_属性1数值_per]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2613",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "lianyou",
+    "headKey": "h_lianyou",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2611",
+      "2613"
+    ]
+  },
+  "unresolvedTokens": []
+}

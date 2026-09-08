@@ -1,0 +1,220 @@
+{
+  "id": 596,
+  "name": {
+    "vi": "Thần Vô Nguyệt",
+    "en": "Kannazuki",
+    "zh": "神无月"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 6]",
+    "en": "[37, 6]",
+    "zh": "[37, 6]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2010,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 13100,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "6%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5961,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bắt Mộng",
+        "en": "Dreamcatcher",
+        "zh": "捕梦"
+      },
+      "intro": {
+        "vi": "Bong bóng, ăn cơm thôi.",
+        "en": "Bubbles, it's dinner time.",
+        "zh": "泡泡，开饭。"
+      },
+      "description": {
+        "vi": "Thần Vô Nguyệt ảo hóa ra pháp khí từ trong chuông bắt mộng, tấn công mục tiêu kẻ địch và gây sát thương bằng 125% Tấn công.",
+        "en": "Kannazuki manifests a magical artifact from the dreamcatcher, attacking an enemy target and dealing damage equal to 125% of her ATK.",
+        "zh": "神无月于捕梦网中幻化出法器，攻击敌方目标并造成攻击125%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5961",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5963,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ban Cho Giấc Mơ Đẹp",
+        "en": "Reverie Granted",
+        "zh": "美梦赐予"
+      },
+      "intro": {
+        "vi": "Bạn là chủ nhân mộng cảnh, mọi thứ theo như ý bạn.",
+        "en": "You're the master of your dreams—all unfolds as you wish.",
+        "zh": "你是梦境的主人，一切如你所愿。"
+      },
+      "description": {
+        "vi": "[tips_11]. Thần Vô Nguyệt dệt nên mộng cảnh cho đồng hành, tạo ra Huyễn Cảnh tồn tại 2 lượt, và khiến mục tiêu phe ta không phải vật triệu hồi nhận 2 tầng [buff_5965_1], duy trì 2 lượt.   \nTrong Huyễn Cảnh trước lượt bản thân và người mang [buff_5965_1], nhận 1 điểm Quỷ Hỏa. Quỷ Hỏa tiêu hao giảm 2 điểm. Khiến mục tiêu trong 1 lượt tiếp theo nhận [tips_5964].",
+        "en": "[tips_11]. Kannazuki weaves dreams for allies, creating a field that lasts for 2 turns. Non-summoned entity ally target gains 2 stacks of [buff_5965_1] for 2 turns.\nBefore the turn of Kannazuki and of [buff_5965_1] bearer within the field, gains 1 orb. Reduces orb cost by 2. The target gains [tips_5964] in the next turn.",
+        "zh": "[tips_11]。神无月为伙伴织就梦境，创造存在2回合的幻境，并使非召唤物友方目标获得2层[buff_5965_1]，维持2回合。   \n幻境中自身和[buff_5965_1]携带者回合前，获得1点鬼火。消耗鬼火减少2点。使目标下一回合内获得[tips_5964]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trong Huyễn Cảnh trước lượt bản thân và người mang [buff_5965_1], nhận 1 điểm Quỷ Hỏa",
+            "en": "Before the turn of herself and of [buff_5965_1] bearer within the field, gains 1 orb.",
+            "zh": "幻境中自身和[buff_5965_1]携带者回合前，获得1点鬼火"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng Huyễn Cảnh tăng lên 2 lượt",
+            "en": "Increases field effect to 2 turns.",
+            "zh": "幻境效果增加为2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Quỷ Hỏa tiêu hao giảm 2 điểm",
+            "en": "Reduces orb cost by 2.",
+            "zh": "消耗鬼火减少2点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khiến mục tiêu trong 1 lượt tiếp theo nhận [tips_5964]",
+            "en": "The target gains [tips_5964] in the next turn.",
+            "zh": "使目标下一回合内获得[tips_5964]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5963",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "shenwuyue",
+    "headKey": "h_shenwuyue",
+    "armature": "",
+    "artName": "txt_zhanshi_shenwuyue",
+    "skillIconKeys": [
+      "5961",
+      "5963"
+    ]
+  },
+  "unresolvedTokens": []
+}

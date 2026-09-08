@@ -1,0 +1,350 @@
+{
+  "id": 604,
+  "name": {
+    "vi": "Bất Tương Hồ Thiền",
+    "en": "Fuzenkitsune",
+    "zh": "不相狐禅"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 52]",
+    "en": "[1, 52]",
+    "zh": "[1, 52]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3403,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9797,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 383,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "20%",
+      "grade": "SS"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6041,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đương Đầu Nhất Kích",
+        "en": "Dice Strike",
+        "zh": "当骰一击"
+      },
+      "intro": {
+        "vi": "Xem xí ngầu đây, đỡ lấy nhé~",
+        "en": "Watch the dice, catch it!",
+        "zh": "看骰子，接好了~"
+      },
+      "description": {
+        "vi": "Búng vào đầu ngươi, đừng mong trốn thoát! Thảy xí ngầu tấn công mục tiêu kẻ địch gây 100% sát thương.",
+        "en": "A flick to the forehead, no dodging allowed! Toss a dice at the enemy and deal 100% damage.",
+        "zh": "弹你脑袋，休想躲开！掷出骰子攻击敌方目标造成100%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%.",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Increases damage to 125%.",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "6041",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 6042,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thời Dã Vận Dã",
+        "en": "Fate's Favor",
+        "zh": "时也运也"
+      },
+      "intro": {
+        "vi": "Mượn vận may của ngươi dùng một chút nào!",
+        "en": "Lend me some of your luck!",
+        "zh": "把你的运气借来用用！"
+      },
+      "description": {
+        "vi": "[tips_11].\nXúc xắc xoay thời vận, họa phúc nối đuôi nhau. Khi bắt đầu trận đấu và khi hành động nhận hoặc làm mới [buff_6041_1]. Khi nhận hoặc làm mới [buff_6041_1], toàn bộ phe ta hồi phục lượng HP bằng 98% Tấn công ban đầu của Bất Tương Hồ Thiền. Khi [buff_6041_1] biến mất hoặc làm mới không phải lần đầu, toàn bộ phe địch mất đi lượng HP bằng 78% Tấn công ban đầu của Bất Tương Hồ Thiền. Sau khi Xí Ngầu Ảo Tượng biến mất hoặc làm mới, tăng 20% Thanh Hành Động\n【Thi triển】 Chắc chắn đính kèm [buff_6042_1] cho Thức Thần phe địch, duy trì đến khi Lá chắn [buff_6041_1] biến mất.",
+        "en": "[tips_11].\nFortune rolls and fate flips. At the start of battle and each turn, gains or refreshes [buff_6041_1]. When gains or refreshes [buff_6041_1], all allies recover HP equal to 98% of Fuzenkitsune's starting ATK. When [buff_6041_1] disappears or refreshes beyond the first time, all enemies lose HP equal to 78% of Fuzenkitsune's starting ATK. After the Phantom Dice disappears or refreshes, raises Move Bar by 20%.\n[Cast] Always inflicts [buff_6042_1] on enemy shikigami, lasting until the shield from [buff_6041_1] disappears.",
+        "zh": "[tips_11]。\n骰转时运，福祸更替。战斗开始和行动时获得或刷新[buff_6041_1]。获得或刷新[buff_6041_1]时，友方全体恢复等同于不相狐禅初始攻击98%的生命值。[buff_6041_1]消失或非首次刷新时，敌方全体失去等同于不相狐禅初始攻击78%的生命值。幻象骰子消失或刷新后，提升20%行动条\n【施放】必定对敌方式神施加[buff_6042_1]，持续至[buff_6041_1]护盾消失。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất cơ bản tăng lên 100%",
+            "en": "Increases the base chance to 100%.",
+            "zh": "基础概率提升至100%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất cơ bản tăng lên 100%",
+            "en": "Increases the base chance to 100%.",
+            "zh": "基础概率提升至100%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sau khi Xí Ngầu Ảo Tượng biến mất hoặc làm mới, tăng 20% Thanh Hành Động",
+            "en": "When Phantom Dice disappears or refreshes, increases Move Bar by 20%",
+            "zh": "幻象骰子消失或刷新后，提升20%行动条"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sau khi Xí Ngầu Ảo Tượng biến mất hoặc làm mới, tăng 20% Thanh Hành Động",
+            "en": "When Phantom Dice disappears or refreshes, increases Move Bar by 20%",
+            "zh": "幻象骰子消失或刷新后，提升20%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thi triển chắc chắn đính kèm",
+            "en": "Guaranteed to inflict on cast",
+            "zh": "施放必定附加"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thi triển chắc chắn đính kèm",
+            "en": "Guaranteed to inflict on cast",
+            "zh": "施放必定附加"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi nhận hoặc làm mới [buff_6041_1], toàn bộ phe ta hồi phục lượng HP bằng 98% Tấn công ban đầu của Bất Tương Hồ Thiền",
+            "en": "When obtains or refreshes [buff_6041_1], all allies recover HP equal to 98% of Fuzenkitsune's starting ATK",
+            "zh": "获得或刷新[buff_6041_1]时，友方全体恢复等同于不相狐禅初始攻击98%的生命值"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi nhận hoặc làm mới [buff_6041_1], toàn bộ phe ta hồi phục lượng HP bằng 98% Tấn công ban đầu của Bất Tương Hồ Thiền",
+            "en": "When obtains or refreshes [buff_6041_1], all allies recover HP equal to 98% of Fuzenkitsune's starting ATK",
+            "zh": "获得或刷新[buff_6041_1]时，友方全体恢复等同于不相狐禅初始攻击98%的生命值"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "6042",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 6043,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồ Ảnh Hí Pháp",
+        "en": "Fox Trick",
+        "zh": "狐影戏法"
+      },
+      "intro": {
+        "vi": "Cực lạc lưu kim, thiên vận đảo ngược!",
+        "en": "Bliss of gold, fortune turns upside down!",
+        "zh": "极乐流金，天运翻转！"
+      },
+      "description": {
+        "vi": "Hồ ảnh đoạn vận, mệnh định cát hung. Gọi ra pháp trận tấn công toàn bộ 1 lần, sau đó chỉ huy hồ ảnh tấn công mục tiêu kẻ địch chỉ định 1 lần (（nếu bị pháp trận hạ gục sẽ chuyển sang thi triển lên mục tiêu có HP thấp nhất)). Khi thi triển nếu 600% Tấn công cao hơn HP, thì lần lượt gây sát thương bằng 100% và 300% Tấn công, nếu không thì lần lượt gây sát thương bằng 10% và 30% HP tối đa (（sát thương gây ra không vượt quá 1600% Tấn công ban đầu)), sát thương gây ra không kích hoạt Ngự Hồn và Nội tại, nếu có [buff_6042_1] Quỷ Hỏa tiêu hao khi thi triển kỹ năng giảm 1 điểm.",
+        "en": "Fox shadows predict fate and reveal fortune or doom. Summon a magic circle to strike all enemies once, then command the fox shadow to attack one designated enemy once (（If the target is defeated by the magic circle, the attack shifts to the target with the lowest HP）). If 600% of ATK is higher than HP when this skill is cast, it deals damage equal to 100% and 300% of ATK respectively. Otherwise, it deals damage equal to 10% and 30% of max HP respectively (（Damage dealt cannot exceed 1600% of his starting ATK）). This damage does not trigger Soul passives. If [buff_6042_1] is present, this skill costs 1 less orb.",
+        "zh": "狐影断运，命定吉凶。召出法阵攻击全体1次，然后指挥狐影攻击指定敌方目标1次(（若被法阵击败则转移对生命最低的目标施放）)。施放时若攻击的600%高于生命，则分别造成攻击100%和300%的伤害，否则分别造成生命上限10%和30%的伤害(（造成的伤害不超过初始攻击的1600%）)，造成伤害不触发御魂被动，若存在[buff_6042_1]施放技能鬼火消耗减少1点。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương hồ ảnh lần lượt tăng lên 275% và 24%",
+            "en": "Fox shadow damage increases to 275% and 24% respectively",
+            "zh": "狐影伤害分别提升至275%和24%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương gây ra không kích hoạt Ngự Hồn và Nội tại của kẻ địch",
+            "en": "Dealing damage does not trigger the enemy's Soul effects or passives",
+            "zh": "造成伤害不触发敌方的御魂和被动"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương hồ ảnh lần lượt tăng lên 300% và 30%",
+            "en": "Fox shadow damage increases to 300% and 30% respectively",
+            "zh": "狐影伤害分别提升至300%和30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu có [buff_6042_1] Quỷ Hỏa tiêu hao khi thi triển kỹ năng giảm 1 điểm",
+            "en": "If [buff_6042_1] is present, reduces skill orb cost by 1.",
+            "zh": "若存在[buff_6042_1]施放技能鬼火消耗减少1点"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "6043",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "buxianghuchan",
+    "headKey": "h_buxianghuchan",
+    "armature": "",
+    "artName": "txt_zhanshi_buxianghuchan",
+    "skillIconKeys": [
+      "6041",
+      "6042",
+      "6043"
+    ]
+  },
+  "unresolvedTokens": []
+}

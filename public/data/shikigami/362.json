@@ -1,0 +1,302 @@
+{
+  "id": 362,
+  "name": {
+    "vi": "Thiền Băng Tuyết Nữ",
+    "en": "Frosty Yuki Onna",
+    "zh": "蝉冰雪女"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 17]",
+    "en": "[1, 17]",
+    "zh": "[1, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3001,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10024,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 441,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3621,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ngọc Hưởng",
+        "en": "Jade Echoing",
+        "zh": "玉响"
+      },
+      "intro": {
+        "vi": "Nghe kìa, đây là âm thanh băng giá tan vỡ.",
+        "en": "Listen, it's the sound of the ice cracking.",
+        "zh": "听，这是冰凌碎裂的声响。"
+      },
+      "description": {
+        "vi": "Ngưng tụ băng giá trong lòng bàn tay, phóng ra gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Creates an ice dart in her hand and throws it at 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "于掌心凝起冰凌，飞出对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%.",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Increases damage to 125%.",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3621",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3622,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tức Xuy",
+        "en": "Frost Breath",
+        "zh": "息吹"
+      },
+      "intro": {
+        "vi": "Nơi ngọn gió lạnh thổi qua, vạn vật đóng băng.",
+        "en": "Where the bitter wind blows, everything is frozen.",
+        "zh": "凛风吹过之处，万物冰结。"
+      },
+      "description": {
+        "vi": "[tips_11].\nGiúp toàn bộ phe ta tăng 30% Phòng thủ. Sau khi lượt của phe ta và phe địch không phải vật triệu hồi kết thúc, Thiền Băng Tuyết Nữ kết ra 1 đóa [buff_3621_1]. Khi Thức Thần phe ta ngoại trừ bản thân chịu sát thương chí mạng, chiếm giữ vị trí cũ dưới dạng ngưng kết, coi như đã Tử Trận.\n【Thi triển】 Khi trên sân có Thức Thần phe ta ở dạng ngưng kết, hồi sinh tất cả Thức Thần phe ta ở dạng ngưng kết, [tips_20] lượng HP bằng HP tối đa của họ. Sau khi thi triển thay thế kỹ năng thành 「Xuân Cáo」.",
+        "en": "[tips_11].\nIncreases the DEF of all allies by 30%. At the end of a turn (either an ally's or an enemy's; not counting summoned entities), Frosty Yuki Onna creates a [buff_3621_1]. When an ally shikigami other than herself takes lethal damage, they become Bound in Ice to occupy their original position, but are regarded as KO'd.\nActive skill: If there's an ally shikigami Bound in Ice on the battlefield, revives all shikigami Bound in Ice and [tips_20]s their HP to full. After using the skill, it is changed to Spring's Arrival.",
+        "zh": "[tips_11]。\n使友方全体提升30%防御。非召唤物的友方和敌方回合结束后，蝉冰雪女结出1朵[buff_3621_1]。除自身外的友方式神受到致命伤害时，以凝结形态占据原位置，视为已经阵亡。\n【施放】场上有凝结形态的友方式神时，复活所有凝结形态的友方式神，[tips_20]其最大生命的血量。施放后将技能替换为「春告」。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương Khí Cực Hàn gây ra cho kẻ địch bị Băng Sương tăng 50%",
+            "en": "Increases the damage of Ice Nova against Frostbound enemies by 50%.",
+            "zh": "极寒之气对霜冻的敌方伤害增加50%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi khi có 1 đồng minh ở dạng ngưng kết, Tốc độ tăng 50 điểm",
+            "en": "Each ally Bound in Ice increases her SPD by 50.",
+            "zh": "每有1个凝结形态的友方，速度增加50点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương Khí Cực Hàn gây ra cho phe ta giảm 30%",
+            "en": "Ice Nova deals 30% less damage to allies.",
+            "zh": "极寒之气对友方的伤害降低30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi lượt của bản thân kết thúc nhận 3 đóa Băng Hoa",
+            "en": "Gains additional 3 Flowers of Ice at the end of her own turn.",
+            "zh": "自身回合结束后获得3朵冰花"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3622",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3623,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vĩnh Đông",
+        "en": "Eternal Winter",
+        "zh": "永冬"
+      },
+      "intro": {
+        "vi": "Băng tuyết trên đỉnh núi, sẽ không tan chảy.",
+        "en": "The snow at the top of the mountain will never melt.",
+        "zh": "山巅的冰雪，不会融化。"
+      },
+      "description": {
+        "vi": "Hóa thành ngọn giáo băng giá buốt xâm nhập mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công, khiến kẻ đó [tips_3621]. Bản thân nhận [buff_3622_1], nếu mất [buff_3622_1] sẽ kết thúc [tips_3621]. Tiên Cơ: Nhận Thiền Dực.\nKhi phe địch có mục tiêu [tips_3621], không thể thi triển kỹ năng này.",
+        "en": "Turns into a cold ice lancer to attack 1 enemy, dealing damage equal to 100% of her ATK and causes them to be [tips_3621]. She gains [buff_3622_1]. [tips_3621] ends when she loses [buff_3622_1]. Upper Hand: Gains Thin Ice.\nThe skill cannot be used if there's a [tips_3621] enemy on the battlefield.",
+        "zh": "化作凛冽的冰枪侵袭敌方目标，造成攻击100%伤害，使其[tips_3621]。自身获得[buff_3622_1]，若失去[buff_3622_1]则结束[tips_3621]。先机：获得蝉翼。\n敌方存在[tips_3621]目标时，无法施放此技能。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sương Đông đính kèm khóa vị trí Thanh Hành Động",
+            "en": "Frostbound also inflicts Move Bar-locking effect.",
+            "zh": "霜冻附加行动条位置锁定"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng Lá chắn Thiền Dực tăng lên 135% Tấn công",
+            "en": "Increases Thin Ice's shield volume to 135% of her ATK.",
+            "zh": "蝉翼护盾量增加至攻击135%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi Thiền Dực tồn tại, nhận 100% kháng Bạo kích",
+            "en": "Thin Ice grants 100% Crit RES.",
+            "zh": "蝉翼存在时，获得100%暴击抵抗"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Nhận Thiền Dực",
+            "en": "Upper Hand: Gains Thin Ice.",
+            "zh": "先机：获得蝉翼"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3623",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_xuenv",
+    "headKey": "h_spxuenv",
+    "armature": [
+      "xuenv_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spxuenv",
+    "skillIconKeys": [
+      "3621",
+      "3622",
+      "3623"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,402 @@
+{
+  "id": 335,
+  "name": {
+    "vi": "Giải Cơ",
+    "en": "Kanihime",
+    "zh": "蟹姬"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2948,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 330,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 98,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3351,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tả Càng Nối Hữu Quyền",
+        "en": "Left Claw Right Punch",
+        "zh": "左钳接右拳"
+      },
+      "intro": {
+        "vi": "Hửm? Có muốn thử xem không?",
+        "en": "Hey, wanna tussle?",
+        "zh": "嗯？要不要试试看？"
+      },
+      "description": {
+        "vi": "Sử dụng càng cua và nắm đấm tấn công mục tiêu kẻ địch 2 lần, gây sát thương bằng 62.5% Tấn công, nếu trong lượt bản thân liền tăng 30 Tốc độ, duy trì 1 lượt, và khiến lần thi triển 『[skill_3353_1]』 tiếp theo không tự gõ choáng mình.",
+        "en": "Uses her crab claws and fists to attack 1 enemy twice, dealing damage equal to 62.5% of her ATK each time, and increasing her SPD by 30 for 1 turn if it's her turn. She won't inflict [skill_3353_1] on herself the next time she uses Conch Blow.",
+        "zh": "使用蟹钳和拳头攻击敌方目标2次，造成攻击62.5%的伤害，若在自身回合则提升30速度，持续1回合，并使下一次释放『[skill_3353_1]』时不会锤晕自己。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增至52.5%",
+            "en": "伤害增至52.5%",
+            "zh": "伤害增至52.5%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增至55%",
+            "en": "伤害增至55%",
+            "zh": "伤害增至55%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增至57.5%",
+            "en": "伤害增至57.5%",
+            "zh": "伤害增至57.5%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增至62.5%",
+            "en": "伤害增至62.5%",
+            "zh": "伤害增至62.5%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3351",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3352,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phấn Chấn Trở Lại",
+        "en": "Fully Energized",
+        "zh": "这下有劲了"
+      },
+      "intro": {
+        "vi": "Nghe nói ngươi vẫn chưa phục sao?",
+        "en": "Still not convinced I see.",
+        "zh": "听说你还不服气？"
+      },
+      "description": {
+        "vi": "回合结束后，若自身未承受[tips_3]，则打起精神来，获得[buff_3350_1]，持续1回合。",
+        "en": "回合结束后，若自身未承受[tips_3]，则打起精神来，获得[buff_3350_1]，持续1回合。",
+        "zh": "回合结束后，若自身未承受[tips_3]，则打起精神来，获得[buff_3350_1]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
+            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
+            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
+            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
+            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
+            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
+            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_3350_1] tổng lượng giảm sát thương không vượt quá [b_参数p2_per] Tấn công bản thân",
+            "en": "Increases maximum damage reduction from [buff_3350_1] to [b_参数p2_per] of her ATK.",
+            "zh": "[buff_3350_1]总伤害减免量不超过自身攻击力[b_参数p2_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_3350_1] tổng lượng giảm sát thương không vượt quá [b_参数p2_per] Tấn công bản thân",
+            "en": "Increases maximum damage reduction from [buff_3350_1] to [b_参数p2_per] of her ATK.",
+            "zh": "[buff_3350_1]总伤害减免量不超过自身攻击力[b_参数p2_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_3350_1] tổng lượng giảm sát thương không vượt quá [b_参数p2_per] Tấn công bản thân",
+            "en": "Increases maximum damage reduction from [buff_3350_1] to [b_参数p2_per] of her ATK.",
+            "zh": "[buff_3350_1]总伤害减免量不超过自身攻击力[b_参数p2_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
+            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
+            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
+            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
+            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
+            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
+            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_3350_1] tăng thêm [b_属性1数值_per] Kháng Bạo Kích, tức nguồn gây sát thương coi như giảm 30% Bạo kích",
+            "en": "[buff_3350_1] additionally increases Crit RES by [b_属性1数值_per], meaning the source of damage has 30% less Crit.",
+            "zh": "[buff_3350_1]额外提升[b_属性1数值_per]暴击抵抗，即伤害来源视同降低30%暴击"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_3350_1] tăng thêm [b_属性1数值_per] Kháng Bạo Kích, tức nguồn gây sát thương coi như giảm 30% Bạo kích",
+            "en": "[buff_3350_1] additionally increases Crit RES by [b_属性1数值_per], meaning the source of damage has 30% less Crit.",
+            "zh": "[buff_3350_1]额外提升[b_属性1数值_per]暴击抵抗，即伤害来源视同降低30%暴击"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_3350_1] tăng thêm [b_属性1数值_per] Kháng Bạo Kích, tức nguồn gây sát thương coi như giảm 30% Bạo kích",
+            "en": "[buff_3350_1] additionally increases Crit RES by [b_属性1数值_per], meaning the source of damage has 30% less Crit.",
+            "zh": "[buff_3350_1]额外提升[b_属性1数值_per]暴击抵抗，即伤害来源视同降低30%暴击"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3352",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 3353,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lạc Lạc Chùy",
+        "en": "Conch Blow",
+        "zh": "螺螺锤"
+      },
+      "intro": {
+        "vi": "Nếu bị búa ốc của ta gõ trúng đầu, ngươi có thể sẽ chết đấy.",
+        "en": "You may fall dead if you're hit on the head by my Conch Hammer.",
+        "zh": "如果被我的螺螺锤敲到脑袋的话，你可能会死。"
+      },
+      "description": {
+        "vi": "Dùng hết sức vung búa ốc sau lưng đập vào kẻ địch, tấn công toàn bộ phe địch 2 lần, mỗi lần gây sát thương bằng 161% Tấn công. Giơ búa lên dùng lực quá đà, vô tình gõ trúng đầu mình, [buff_3351_1] 1 lượt.\nKhi bị [buff_3351_1] cũng có thể nhận vỏ cua.",
+        "en": "Exerts herself to lift her Conch Hammer on to her back and slams it down on all enemies twice, dealing damage equal to 161% of her ATK for each strike. As she is careless and uses too much strength when wielding her hammer, she knocks herself out, inflicting [buff_3351_1] on herself for 1 turn.\nShe can gain a Carapace even when she's inflicted with [buff_3351_1].",
+        "zh": "用尽全力抡起背后的螺螺锤砸向敌人，攻击敌方全体2次，每次造成攻击161%的伤害。抬起锤子时用力过猛，不小心敲到了自己脑壳，[buff_3351_1]1回合。\n[buff_3351_1]时也可以获得蟹壳。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增至147%",
+            "en": "伤害增至147%",
+            "zh": "伤害增至147%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增至154%",
+            "en": "伤害增至154%",
+            "zh": "伤害增至154%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增至161%",
+            "en": "伤害增至161%",
+            "zh": "伤害增至161%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi bị [buff_3351_1] cũng có thể nhận 『Vỏ Cua』, khi giải trừ Choáng nhận 『[buff_3353_1]』, duy trì 1 lượt",
+            "en": "She can gain Carapace even when she's inflicted with [buff_3351_1]. When Daze is removed, she gains [buff_3353_1] for 1 turn.",
+            "zh": "[buff_3351_1]时也可以获得『蟹壳』，眩晕解除时获得『[buff_3353_1]』，持续1回合"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3353",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "xieji",
+    "headKey": "h_xieji",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3351",
+      "3352",
+      "3353"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,350 @@
+{
+  "id": 338,
+  "name": {
+    "vi": "Takiyashahime",
+    "en": "Takiyashahime",
+    "zh": "泷夜叉姬"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3216,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 326,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 110,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3381,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nguyệt Đoạn",
+        "en": "Moon Slash",
+        "zh": "曜断"
+      },
+      "intro": {
+        "vi": "Cắt đứt!",
+        "en": "I'm ending this!",
+        "zh": "切断！"
+      },
+      "description": {
+        "vi": "Vung lưỡi dao Nguyệt Diệu tấn công mục tiêu kẻ địch, gây sát thương 125%.\nKhi bắt đầu chiến đấu nhận 5 tầng Chúc Phúc Tân Nguyệt.",
+        "en": "Wields Moonlight Glaive to attack 1 enemy, dealing damage equal to 125% of her ATK.\nGains 5 layers of New Moon's Blessing at the start of battle.",
+        "zh": "挥舞月曜之刃攻击敌方目标，造成攻击125%伤害。\n战斗开始时获得5层新月祝福。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3381",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3382,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nguyệt Chi Áo Nghĩa",
+        "en": "Moon's Secrets",
+        "zh": "月之奥义"
+      },
+      "intro": {
+        "vi": "Nguyệt Vĩnh Hằng!",
+        "en": "Eternal Moon",
+        "zh": "永恒之月！"
+      },
+      "description": {
+        "vi": "Chuyển đổi chiêu thức của Nguyệt Chi Áo Nghĩa, đồng thời có thể đính kèm hiệu ứng «Xâm Lược», «Phi Lưu», «Phong Tật» hoặc «Bất Động» cho chiêu thức đó, thời gian hồi chiêu 1 lượt.",
+        "en": "Toggles through different modes of Moon's Secrets. Adds the effect of Ignis, Aqua, Aer, or Terra to it with a 1 turn cooldown.",
+        "zh": "切换月之奥义的招式，并可为其附加『侵掠』、『飞流』、『风疾』或『不动』效果，冷却1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mở khóa hiệu ứng «[skill_33822_1]», khiến Nguyệt Chi Áo Nghĩa giải trừ 1 hiệu ứng có lợi của mục tiêu trong mỗi lần tấn công, nếu không có hiệu ứng có lợi để giải trừ thì đẩy lùi 5% thanh hành động của mục tiêu.",
+            "en": "Unlocks the [skill_33822_1] effect. Allows each attack of Moon's Secrets to dispel 1 buff from the target. If no buff was dispelled, lowers the target's Move Bar by 5% instead.",
+            "zh": "解锁『[skill_33822_1]』效果，使月之奥义每次攻击时驱散目标1个增益效果，若无可驱散增益则击退目标行动条5%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mở khóa hiệu ứng «[skill_33823_1]», khiến sát thương mà Nguyệt Chi Áo Nghĩa gây ra cho mục tiêu có tỷ lệ HP thấp hơn 50% tăng 30%.",
+            "en": "Unlocks the [skill_33823_1] effect. Allows damage dealt by Moon's Secrets to increase by 30% against targets with HP below 50%.",
+            "zh": "解锁『[skill_33823_1]』效果，使月之奥义对生命比例低于50%的目标造成的伤害提升30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Mở khóa hiệu ứng «[skill_33824_1]», khiến sát thương của Nguyệt Chi Áo Nghĩa không kích hoạt hiệu ứng Ngự Hồn của mục tiêu, đồng thời giúp bản thân nhận Nguyệt Chi Tí Hộ trong 1 lượt, có thể đỡ đòn 1 lần hiệu ứng khống chế.",
+            "en": "Unlocks the [skill_33824_1] effect. Prevents damage dealt by Moon's Secrets from triggering the target's Soul effects. She gains Moon Shelter for 1 turn, negating controlling effects once.",
+            "zh": "解锁『[skill_33824_1]』效果，使月之奥义伤害不会触发目标御魂效果，并使自身获得月之庇护1回合，可抵挡1次控制效果"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "冷却回合数减1",
+            "en": "冷却回合数减1",
+            "zh": "冷却回合数减1"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3382",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3383,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tàn Dương Vô Ảnh",
+        "en": "Shadowless Sun",
+        "zh": "残阳无影"
+      },
+      "intro": {
+        "vi": "Tiến quân về hướng phong bão vĩnh kiếp!",
+        "en": "To the eternal storm, charge!",
+        "zh": "向着永劫之风岚，进军！"
+      },
+      "description": {
+        "vi": "Hiệu lệnh Quỷ Linh Kỵ Sĩ xuất kích xung phong, gây 3 lần sát thương liên tiếp cho toàn thể kẻ địch lần lượt bằng tấn công 12%, tấn công 24% và tấn công 136%.",
+        "en": "Commands a legion of ghost knights to charge at all enemies 3 times, dealing damage equal to 12%, 24%, and 136% of her ATK, respectively.",
+        "zh": "号令鬼灵骑士发起冲锋，对敌方全体造成分别为攻击12%、攻击24%和攻击136%的连续3次伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương lần cuối tăng đến 109%.",
+            "en": "Increases the damage of the third attack to 109%.",
+            "zh": "末次伤害增加至109%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương lần cuối tăng đến 118%.",
+            "en": "Increases the damage of the third attack to 118%.",
+            "zh": "末次伤害增加至118%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương lần cuối tăng đến 127%.",
+            "en": "Increases the damage of the third attack to 127%.",
+            "zh": "末次伤害增加至127%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương lần cuối tăng đến 136%.",
+            "en": "Increases the damage of the third attack to 136%.",
+            "zh": "末次伤害增加至136%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3383",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "longyechaji",
+    "headKey": "h_longyechaji",
+    "armature": "",
+    "artName": "txt_zhanshi_longyechaji",
+    "skillIconKeys": [
+      "3381",
+      "3382",
+      "3383"
+    ]
+  },
+  "unresolvedTokens": []
+}

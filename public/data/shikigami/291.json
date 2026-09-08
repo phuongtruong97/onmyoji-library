@@ -1,0 +1,350 @@
+{
+  "id": 291,
+  "name": {
+    "vi": "Thư Ông",
+    "en": "Bukkuman",
+    "zh": "书翁"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 20]",
+    "en": "[1, 20]",
+    "zh": "[1, 20]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2911,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mặc Nhiễm",
+        "en": "Ink Splash",
+        "zh": "墨染"
+      },
+      "intro": {
+        "vi": "Có nên ghi chép ngươi vào trong cuốn sách của ta luôn không nhỉ?",
+        "en": "Do you want me to put you into my book as well?",
+        "zh": "是否也要把你记录在我的书中呢？"
+      },
+      "description": {
+        "vi": "Sử dụng cọ vẽ tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Attacks 1 enemy with his brush, dealing damage equal to 125% of his ATK.",
+        "zh": "使用毛笔攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2911",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2912,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vân Du",
+        "en": "Roam",
+        "zh": "云游"
+      },
+      "intro": {
+        "vi": "Mây du bốn phương, tỏ rõ chí lớn.",
+        "en": "Roam the world until you truly find yourself.",
+        "zh": "云游四方，以明心志。"
+      },
+      "description": {
+        "vi": "Trị liệu cho mục tiêu phe ta cùng một đồng minh khác có tỷ lệ HP thấp nhất lượng HP bằng 8% giới hạn HP, giải trừ hoặc [tips_1] 1 [tips_3] trên người họ, và giúp họ nhận [buff_2912_1], [tips_15] 1 lượt. Đồng thời thi triển miễn phí 『Vạn Tượng Chi Thư』 (Cấp kỹ năng 1) lên kẻ địch có tỷ lệ HP thấp nhất.\n[tips_7]: Bản thân nhận [buff_2912_1], [tips_15] 1 lượt.",
+        "en": "Heals the HP of 1 ally and another ally with the lowest proportion of HP by 8% of his max HP. Dispels or [tips_1]s a [tips_3] on the first ally and grants them [buff_2912_1] [tips_15] for 1 turn). Also uses Scroll of Everything (at Lv. 1) without spending any orbs on the enemy with the lowest proportion of HP.\n[tips_7]: He gains [buff_2912_1] [tips_15] for 1 turn).",
+        "zh": "为友方目标及生命比例最低的另一友方，治疗生命上限8%的生命，驱散或[tips_1]其带有的1个[tips_3]，并使其获得[buff_2912_1]，[tips_15]1回合。同时对生命比例最低的敌方，免消耗施放『万象之书』（技能等级1）\n[tips_7]：自身获得[buff_2912_1]，[tips_15]1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_2912_1] sát thương gánh chịu đổi thành không vượt quá [b_参数p1_per] giới hạn HP",
+            "en": "[buff_2912_1] now limits damage taken to [b_参数p1_per] of their max HP.",
+            "zh": "[buff_2912_1]承受伤害改为不超过生命上限[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_2912_1] sát thương gánh chịu đổi thành không vượt quá [b_参数p1_per] giới hạn HP",
+            "en": "[buff_2912_1] now limits damage taken to [b_参数p1_per] of their max HP.",
+            "zh": "[buff_2912_1]承受伤害改为不超过生命上限[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng thời thi triển miễn phí 『Vạn Tượng Chi Thư』 (（Cấp kỹ năng 1)) lên kẻ địch có tỷ lệ HP thấp nhất",
+            "en": "Also uses Scroll of Everything((at Lv. 1)) without spending any orbs on the enemy with the lowest proportion of HP.",
+            "zh": "同时对生命比例最低的敌方，免消耗施放『万象之书』(（技能等级1）)"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng thời thi triển miễn phí 『Vạn Tượng Chi Thư』 (（Cấp kỹ năng 1)) lên kẻ địch có tỷ lệ HP thấp nhất",
+            "en": "Also uses Scroll of Everything((at Lv. 1)) without spending any orbs on the enemy with the lowest proportion of HP.",
+            "zh": "同时对生命比例最低的敌方，免消耗施放『万象之书』(（技能等级1）)"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_2912_1] sát thương gánh chịu đổi thành không vượt quá [b_参数p1_per] giới hạn HP",
+            "en": "[buff_2912_1] now limits damage taken to [b_参数p1_per] of their max HP.",
+            "zh": "[buff_2912_1]承受伤害改为不超过生命上限[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_2912_1] sát thương gánh chịu đổi thành không vượt quá [b_参数p1_per] giới hạn HP",
+            "en": "[buff_2912_1] now limits damage taken to [b_参数p1_per] of their max HP.",
+            "zh": "[buff_2912_1]承受伤害改为不超过生命上限[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi thi triển, đồng thời trị liệu cho một đồng minh khác có tỷ lệ HP thấp nhất lượng HP bằng 8% giới hạn HP của Thư Ông, và giúp đồng minh đó nhận [buff_2912_1]",
+            "en": "Also heals the HP of the ally with the lowest proportion of HP by 8% of Bukkuman's max HP and grants them [buff_2912_1].",
+            "zh": "施放时，同时为另一生命比例最低的友方治疗书翁生命上限8%的生命，并使其获得[buff_2912_1]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi thi triển, đồng thời trị liệu cho một đồng minh khác có tỷ lệ HP thấp nhất lượng HP bằng 8% giới hạn HP của Thư Ông, và giúp đồng minh đó nhận [buff_2912_1]",
+            "en": "Also heals the HP of the ally with the lowest proportion of HP by 8% of Bukkuman's max HP and grants them [buff_2912_1].",
+            "zh": "施放时，同时为另一生命比例最低的友方治疗书翁生命上限8%的生命，并使其获得[buff_2912_1]"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2912",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 2913,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vạn Tượng Chi Thư",
+        "en": "Scroll of Everything",
+        "zh": "万象之书"
+      },
+      "intro": {
+        "vi": "Vạn tượng thế gian, đều nằm dưới ngòi bút của ta.",
+        "en": "My pen creates and destroys, from the highest mountain to the smallest ant!",
+        "zh": "世间万象，都在我的笔下。"
+      },
+      "description": {
+        "vi": "Đính kèm [buff_2911_1] cho mục tiêu kẻ địch cùng một kẻ địch khác có tỷ lệ HP thấp nhất, sau đó gây cho họ sát thương bằng 80% Tấn công, trạng thái [tips_15] 1 lượt sau đó kết toán. Đồng thời thi triển miễn phí 『Vân Du』 (Cấp kỹ năng 1) lên đồng minh có tỷ lệ HP thấp nhất.",
+        "en": "Inflicts [buff_2911_1] [tips_15] for 1 turn before resolving) to 1 enemy and the enemy with the lowest proportion of HP and deals damage equal to 80% of his ATK. Also uses Roam (at Lv. 1) without spending any orbs on the ally with the lowest proportion of HP.",
+        "zh": "为敌方目标及生命比例最低的另一敌方，附加[buff_2911_1]，然后对其造成攻击80%伤害，状态[tips_15]1回合后结算。同时对生命比例最低的友方，免消耗施放『云游』（技能等级1）"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tỷ lệ sát thương của [buff_2911_1] tăng lên 75%",
+            "en": "Increases [buff_2911_1]'s proportion of damage to 75%.",
+            "zh": "[buff_2911_1]伤害比例增至75%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng thời thi triển miễn phí 『Vân Du』 (（Cấp kỹ năng 1)) lên đồng minh có tỷ lệ HP thấp nhất",
+            "en": "Also uses Roam((at Lv. 1)) without spending any orbs on the ally with the lowest proportion of HP.",
+            "zh": "同时对生命比例最低的友方，免消耗施放『云游』(（技能等级1）)"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tỷ lệ sát thương của [buff_2911_1] tăng lên 100%",
+            "en": "Increases [buff_2911_1]'s proportion of damage to 100%.",
+            "zh": "[buff_2911_1]伤害比例增至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi thi triển, đồng thời gây cho một kẻ địch khác có tỷ lệ HP thấp nhất sát thương bằng 80% Tấn công của Thư Ông, và đính kèm [buff_2911_1] cho kẻ đó",
+            "en": "Also inflicts damage equal to 80% of Bukkuman's ATK on the enemy with the lowest proportion of HP and grants them [buff_2911_1].",
+            "zh": "施放时，同时对另一生命比例最低的敌方造成书翁攻击80%的伤害，并为其附加[buff_2911_1]"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2913",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "shuweng",
+    "headKey": "h_shuweng",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2911",
+      "2912",
+      "2913"
+    ]
+  },
+  "unresolvedTokens": []
+}

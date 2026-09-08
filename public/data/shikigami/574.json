@@ -1,0 +1,304 @@
+{
+  "id": 574,
+  "name": {
+    "vi": "Tâm Hữu Khuyển Thần",
+    "en": "Bosombuddy Inugami",
+    "zh": "心友犬神"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 28, 8]",
+    "en": "[1, 28, 8]",
+    "zh": "[1, 28, 8]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3108,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11505,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 366,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 110,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5741,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Tâm Trảm",
+        "en": "Tandem Slash",
+        "zh": "天心斩"
+      },
+      "intro": {
+        "vi": "Chim Khổng Tước, xuất kích cùng ta!",
+        "en": "Sparrow, strike with me!",
+        "zh": "雀，同我出击！"
+      },
+      "description": {
+        "vi": "Phóng ra phi đao tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Casts out his blade to attack 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "袭出飞刃攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5741",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5742,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tàn Tâm · Tước Thủ",
+        "en": "Vigilance: Sparrow's Protection",
+        "zh": "残心·雀守"
+      },
+      "intro": {
+        "vi": "Tường tận sơ hở của kẻ địch, là tố chất cơ bản của lãng khách.",
+        "en": "Spotting the enemy's flaw is a basic skill for us wanderers.",
+        "zh": "洞悉敌人破绽，是浪客的基本素养。"
+      },
+      "description": {
+        "vi": "[tips_11]. Khi Đánh Thường đính kèm [buff_5742_1] cho mục tiêu kẻ địch. Khi chuyển đổi mục tiêu Đánh Thường, [buff_5742_1] sẽ chuyển dời theo. Khi người mang tử vong, [buff_5742_1] sẽ chuyển dời cho mục tiêu kẻ địch khác có tỷ lệ HP thấp nhất. Khi bản thân Đánh Thường vào mục tiêu mang [buff_5742_1], tăng 20% Tấn công, 20% Chính Xác Hiệu Ứng (tối đa cộng dồn 3 tầng) và 10% Thanh Hành Động cho Âm Dương Sư. Khi Âm Dương Sư gây sát thương lên mục tiêu mang [buff_5742_1], Tâm Hữu Khuyển Thần dùng Đánh Thường để Hợp Chiến.",
+        "en": "[tips_11]. Normal attacks inflict [buff_5742_1] to the enemy. When he switches his normal attack target, [buff_5742_1] is also transferred to the new target. When the unit with the mark is KO'd, transfers [buff_5742_1] to another enemy with the lowest proportion of HP. When he uses a normal attack on a unit with [buff_5742_1], increases the onmyoji's ATK and Effect HIT by 20% (max 3 stacks), and raises their Move Bar by 10%. When the onmyoji deals damage to an enemy with [buff_5742_1], Bosombuddy Inugami assists with a normal attack.",
+        "zh": "[tips_11]。普攻时为敌方目标施加[buff_5742_1]。切换普攻目标时，[buff_5742_1]随之转移。携带者阵亡时，[buff_5742_1]将转移给生命比例最低的其他敌方目标。自身普攻携带[buff_5742_1]的目标时，提升阴阳师20%攻击、20%效果命中（至多叠加3次）与10%行动条。阴阳师对携带[buff_5742_1]目标造成伤害时，心友犬神使用普攻进行助战。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi bản thân Đánh Thường vào mục tiêu mang [buff_5742_1], tăng 10% Thanh Hành Động cho Âm Dương Sư",
+            "en": "When he uses a normal attack on a unit with [buff_5742_1], raises the onmyoji's Move Bar by 10%.",
+            "zh": "自身普攻携带[buff_5742_1]的目标时，提升阴阳师10%行动条"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi bản thân Đánh Thường vào mục tiêu mang [buff_5742_1], tăng 20% Tấn công cho Âm Dương Sư (tối đa cộng dồn 3 tầng)",
+            "en": "When he uses a normal attack on a unit with [buff_5742_1], increases the onmyoji's ATK by 20% (up to 3 stacks.)",
+            "zh": "自身普攻携带[buff_5742_1]的目标时，提升阴阳师20%攻击（至多叠加3次）"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi bản thân Đánh Thường vào mục tiêu mang [buff_5742_1], tăng 20% Chính Xác Hiệu Ứng cho Âm Dương Sư (tối đa cộng dồn 3 tầng, không có hiệu lực với Ngự Linh)",
+            "en": "When he uses a normal attack on a unit with [buff_5742_1], increases the onmyoji's Effect HIT by 20% (up to 3 stacks, ineffective on Totems.)",
+            "zh": "自身普攻携带[buff_5742_1]的目标时，提升阴阳师20%效果命中（至多叠加3次，对御灵不生效）"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Âm Dương Sư gây sát thương lên mục tiêu mang [buff_5742_1], Tâm Hữu Khuyển Thần dùng Đánh Thường để Hợp Chiến",
+            "en": "When the onmyoji deals damage to an enemy with [buff_5742_1], Bosombuddy Inugami assists with a normal attack.",
+            "zh": "阴阳师对携带[buff_5742_1]目标造成伤害时，心友犬神使用普攻进行助战"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5742",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5743,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lãng Khách Quy Đao",
+        "en": "Wanderer's Return",
+        "zh": "浪客归刀"
+      },
+      "intro": {
+        "vi": "Lấy tâm làm đao, vì ngài tuốt kiếm!",
+        "en": "With my heart as the blade, I unsheathe my weapon for you!",
+        "zh": "以心作刃，为君拔刀！"
+      },
+      "description": {
+        "vi": "[tips_11]. Giúp bản thân, Âm Dương Sư và Thức Thần phe ta có tỷ lệ HP thấp nhất nhận [tips_6] có thể hấp thụ sát thương bằng 120% Tấn công của Tâm Hữu Khuyển Thần, bản thân tiến vào [buff_5744_1], duy trì 2 lượt. Nếu Âm Dương Sư trong lượt không gây sát thương, khi kết thúc lượt Tâm Hữu Khuyển Thần thi triển 『Nhất Thệ Quy Tâm』. Tiên Cơ: Thi triển 『Lãng Khách Quy Đao』.",
+        "en": "[tips_11]. Creates a [tips_6] to protect himself, the onmyoji, and the shikigami ally with the lowest proportion of HP, absorbing damage equal to 120% of Bosombuddy Inugami's ATK. Grants himself [buff_5744_1] lasting for 2 turns. If the onmyoji deals no damage on their turn, at the end of their turn, Bosombuddy Inugami uses Promised Return. Upper Hand: Uses Wanderer's Return.",
+        "zh": "[tips_11]。使自身、阴阳师与生命比例最低的友方式神获得可吸收心友犬神攻击120%伤害的[tips_6]，自身进入[buff_5744_1]，维持2回合。若阴阳师在回合内未造成伤害，回合结束时心友犬神施放『一誓归心』。先机：施放『浪客归刀』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Đồng thời giúp Âm Dương Sư nhận [tips_6]",
+            "en": "Also creates a [tips_6] to protect the onmyoji.",
+            "zh": "同时使阴阳师获得[tips_6]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Nếu Âm Dương Sư trong lượt không gây sát thương, khi kết thúc lượt Tâm Hữu Khuyển Thần thi triển 『Nhất Thệ Quy Tâm』",
+            "en": "If the onmyoji deals no damage on their turn, at the end of their turn, Bosombuddy Inugami uses Promised Return.",
+            "zh": "若阴阳师在回合内未造成伤害，回合结束时心友犬神施放『一誓归心』"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "『Nhất Thệ Quy Tâm』 sau khi tấn công mục tiêu trong trạng thái [buff_5742_1], bản thân lập tức Đánh Thường vào mục tiêu đó 1 lần",
+            "en": "When Promised Return attacks an enemy with [buff_5742_1], he follows up with a normal attack on the enemy.",
+            "zh": "『一誓归心』攻击处于[buff_5742_1]的目标后，自身立即普攻该目标1次"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Thi triển 『Lãng Khách Quy Đao』",
+            "en": "Upper Hand: Uses Wanderer's Return.",
+            "zh": "先机：施放『浪客归刀』"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5743",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_quanshen",
+    "headKey": "h_sp_quanshen",
+    "armature": [
+      "sp_quanshen_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_xinyouquanshen",
+    "skillIconKeys": [
+      "5741",
+      "5742",
+      "5743"
+    ]
+  },
+  "unresolvedTokens": [
+    "tips_6"
+  ]
+}

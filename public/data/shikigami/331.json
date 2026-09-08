@@ -1,0 +1,298 @@
+{
+  "id": 331,
+  "name": {
+    "vi": "Quỷ Thiết Ngự Uyên",
+    "en": "Vengeful Hannya",
+    "zh": "御怨般若"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[38, 16, 41]",
+    "en": "[38, 16, 41]",
+    "zh": "[38, 16, 41]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2840,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10480,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 343,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3311,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hận Phản",
+        "en": "Returning Hatred",
+        "zh": "恨返"
+      },
+      "intro": {
+        "vi": "Đem mối hận này, gấp đôi trả lại!",
+        "en": "The grudge shall be returned twice over!",
+        "zh": "将这怨恨，加倍奉还！"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương 125%.\nNếu mở kết giới phong ấn, kỹ năng này đổi thành tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương 100%, 15% hút máu.\n([tips_11]) Nhận 1 tầng [buff_3312_1].",
+        "en": "Attacks 1 enemy, dealing damage equal to 125% of his ATK.\nIf Sealing Field is on, it inflicts a 2-strike attack instead, dealing damage equal to 100% of his ATK and inflicting a 15% HP Steal for each strike.\n[tips_11] Gains a layer of [buff_3312_1].",
+        "zh": "攻击敌方目标，造成攻击125%伤害。\n若开启封印结界，则此技能改为攻击敌方目标2次，每次造成攻击100%伤害，15%吸血。\n（[tips_11]）获得1层[buff_3312_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng đến 105%, sau khi mở kết giới sát thương tăng đến mỗi lần 84%.",
+            "en": "Increases damage to 105% or to 84% for each strike if the field is on.",
+            "zh": "伤害增至105%，开启结界后伤害增至每次84%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng đến 110%, sau khi mở kết giới sát thương tăng đến mỗi lần 88%.",
+            "en": "Increases damage to 110% or to 88% for each strike if the field is on.",
+            "zh": "伤害增至110%，开启结界后伤害增至每次88%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng đến 115%, sau khi mở kết giới sát thương tăng đến mỗi lần 92%.",
+            "en": "Increases damage to 115% or to 92% for each strike if the field is on.",
+            "zh": "伤害增至115%，开启结界后伤害增至每次92%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 125%, sau khi mở kết giới sát thương tăng đến mỗi lần 100%.",
+            "en": "Increases damage to 125% or to 100% for each strike if the field is on.",
+            "zh": "伤害增至125%，开启结界后伤害增至每次100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3311",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3312,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tích Trọng Nan Phản",
+        "en": "Deep-rooted Grudge",
+        "zh": "积重难返"
+      },
+      "intro": {
+        "vi": "Lấy oán báo oán, vĩnh viễn không dứt.",
+        "en": "Return grudge for grudge, endlessly.",
+        "zh": "以怨报怨，永无止尽。"
+      },
+      "description": {
+        "vi": "[tips_11].\nKhi kẻ địch gây sát thương bạo kích, có xác suất 100% nhận 1 tầng [buff_3312_1], tối đa kích hoạt 1 lần trong một lần hành động.\n【[Thi triển]】 Cần tiêu hao 9 tầng [buff_3312_1] để [Thi triển]. Mở [tips_3312] đính kèm 9 mặt quỷ bao trùm kẻ địch; khi tất cả mặt quỷ vỡ vụn sẽ tự động đóng kết giới, đồng thời có 100% [tips_2] đính kèm [buff_3318_1] cho toàn thể kẻ địch, duy trì 1 lượt. Mỗi khi tấn công 1 mục tiêu kẻ địch mang [buff_3318_1], lập tức nhận 1 tầng [buff_3312_1].",
+        "en": "[tips_11].\nWhenever an enemy deals critical damage, he has a 100% chance of gaining 1 [buff_3312_1]. Triggers only once per action taken.\nActive skill: Using the skill costs 9 [buff_3312_1]s. Creates a [tips_3312] with 9 Demon Masks to shadow all enemies. The field closes when all Demon Masks are shattered, with a 100% [tips_2] of inflicting [buff_3318_1] lasting 1 turn on all enemies. For each enemy with [buff_3318_1] he attacks, immediately gains him 1 [buff_3312_1].",
+        "zh": "[tips_11]。\n当敌方造成伤害暴击时，100%概率获得1层[buff_3312_1]，每个行动内最多触发一次。\n【施放】需消耗9层[buff_3312_1]来施放。开启附有9个鬼面的[tips_3312]笼罩敌方；所有鬼面破碎时自动关闭结界，并有100%[tips_2]为敌方全体附加[buff_3318_1]，持续1回合。每攻击1个带有[buff_3318_1]的敌方目标时，立即获得1层[buff_3312_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi đồng minh không phải vật triệu hồi tử trận, nhận 3 tầng [buff_3312_1].",
+            "en": "When a non-summoned entity ally is KO'd, gain 3 layer(s) of [buff_3312_1].",
+            "zh": "非召唤物的友方阵亡时，获得3层[buff_3312_1]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Giảm 3 điểm Quỷ Hỏa tiêu hao.",
+            "en": "Reduces orbs required by 3.",
+            "zh": "消耗鬼火减少3点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng đến 100%.",
+            "en": "Increases chance of triggering to 100%.",
+            "zh": "触发概率增至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Nhận 6 tầng [buff_3312_1].",
+            "en": "[tips_7]: Gains 6 layers of [buff_3312_1].",
+            "zh": "[tips_7]：获得6层[buff_3312_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3312",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3313,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Dự Nguyện Bất Phản",
+        "en": "Promised Wish",
+        "zh": "予愿必还"
+      },
+      "intro": {
+        "vi": "Hãy luôn, luôn chơi cùng ta nhé.",
+        "en": "Play with me till the end.",
+        "zh": "要一直、一直陪我玩噢。"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương 80%. Sau đó tấn công toàn thể kẻ địch 1 lần (nếu mở kết giới phong ấn, tăng thêm 1 lần), mỗi lần gây sát thương 80%.\n([tips_11]) Nhận 3 tầng [buff_3312_1].\nCứ có mỗi 1 đồng minh không phải vật triệu hồi có tỷ lệ HP thấp hơn 50%, sẽ gây sát thương bằng 80% tấn công lên 1 mục tiêu kẻ địch ngẫu nhiên.",
+        "en": "Inflicts a 3-strike attack on 1 enemy, dealing damage equal to 80% of his ATK. Then inflicts another attack (plus 1 if Sealing Field is on) on all enemies, dealing damage equal to 80% for each attack.\n[tips_11] Gains 3 layers of [buff_3312_1].\nFor each non-summoned entity ally with HP lower than 50%, an attack is inflicted on a random enemy, dealing damage equal to 80% of his ATK.",
+        "zh": "攻击敌方目标3次，每次造成攻击80%伤害。然后攻击敌方全体1次（若开启封印结界，再增加1次），每次造成攻击80%伤害。\n（[tips_11]）获得3层[buff_3312_1]。\n每有一个非召唤物、且生命比例低于50%的友方，便对1个随机敌方目标造成攻击80%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增至74%",
+            "en": "伤害增至74%",
+            "zh": "伤害增至74%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增至77%",
+            "en": "伤害增至77%",
+            "zh": "伤害增至77%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增至80%",
+            "en": "伤害增至80%",
+            "zh": "伤害增至80%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Cứ có mỗi 1 đồng minh không phải vật triệu hồi có tỷ lệ HP thấp hơn 50%, sẽ gây sát thương bằng 80% tấn công lên 1 mục tiêu kẻ địch ngẫu nhiên.",
+            "en": "For each non-summoned entity ally with HP lower than 50%, an attack is inflicted on a random enemy, dealing damage equal to 80% of his ATK.",
+            "zh": "每有一个非召唤物、且生命比例低于50%的友方，便对1个随机敌方目标造成攻击80%伤害"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3313",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_bore",
+    "headKey": "j_spbore",
+    "armature": "",
+    "artName": "txt_zhanshi_yuyuanbore",
+    "skillIconKeys": [
+      "3311",
+      "3312",
+      "3313"
+    ]
+  },
+  "unresolvedTokens": []
+}

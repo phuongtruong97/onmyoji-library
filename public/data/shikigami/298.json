@@ -1,0 +1,220 @@
+{
+  "id": 298,
+  "name": {
+    "vi": "Huân",
+    "en": "Kaoru",
+    "zh": "薰"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[6, 7, 21]",
+    "en": "[6, 7, 21]",
+    "zh": "[6, 7, 21]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2036,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12759,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 101,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "3%",
+      "grade": "C"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2981,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Can Nhiễu Đầu Trịch",
+        "en": "Interfering Throw",
+        "zh": "干扰投掷"
+      },
+      "intro": {
+        "vi": "Ăn hiếp trẻ con, đáng bị đánh!",
+        "en": "That's what you get for bullying children!",
+        "zh": "欺负小孩子，就该打！"
+      },
+      "description": {
+        "vi": "Nghịch ngợm ném đá về phía mục tiêu kẻ địch, gây sát thương bằng 115% Tấn công, nếu kẻ đó sở hữu từ 4 trạng thái tăng ích trở lên, đẩy lùi -15% Thanh Hành Động.",
+        "en": "Viciously flings a stone at one enemy, dealing damage equal to 115% of her ATK, also lowers the Move Bar of the enemy by -15% if they have 4 or more buffs.",
+        "zh": "调皮地朝敌方目标投掷石头，造成攻击115%伤害，如果其拥有4个或更多的增益，击退-15%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đối với mục tiêu sở hữu từ 4 trạng thái tăng ích trở lên, đẩy lùi thêm -15% Thanh Hành Động",
+            "en": "Additionally lowers the Move Bar of the target by -15% if the target has4 or more buffs.",
+            "zh": "对拥有4个或更多增益的目标，额外击退-15%行动条"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2981",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2983,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thủ Hộ Dịu Dàng",
+        "en": "Warm Protection",
+        "zh": "温柔的守护"
+      },
+      "intro": {
+        "vi": "Cú hỡi, cùng ta bảo vệ mọi người nhé!",
+        "en": "Owl, help me protect them!",
+        "zh": "鸮，和我一起守护大家吧！"
+      },
+      "description": {
+        "vi": "Khiến mục tiêu phe ta nhận [buff_2984_1], [tips_15] 1 lượt; nhận 4 điểm Quỷ Hỏa, và xua tan 1 trạng thái giảm ích hoặc [tips_3] cho từng người trong toàn bộ phe ta.\nSau đó nếu Huân ở trạng thái [tips_2983], khiến đồng minh vẫn chịu [tips_3] nhận [buff_2986_1], duy trì 2 lượt.",
+        "en": "Grants [buff_2984_1] to an ally. [tips_15] for 1 turn. Gains 4 orbs, and dispels 1 debuff or [tips_3] for each of her allies.\nIf Kaoru is still in [tips_2983] status, allies under [tips_3] gain [buff_2986_1] for 2 turns.",
+        "zh": "使友方目标获得[buff_2984_1]，[tips_15]1回合；获得4点鬼火，并对友方全体各驱散1个减益状态或是[tips_3]。\n然后若薰处于[tips_2983]状态，则使仍承受[tips_3]的友方获得[buff_2986_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi [buff_2984_1] biến mất, HP bị [tips_21] của đồng minh giảm còn [b_参数p1_per] giá trị ghi nhận",
+            "en": "When [buff_2984_1] fails, causes your ally [tips_21]'s HP to reduce to [b_参数p1_per] of the recorded amount.",
+            "zh": "[buff_2984_1]消失时，友方[tips_21]的生命减少至记录值[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "消耗鬼火减少1点",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi [buff_2984_1] biến mất, HP bị [tips_21] của đồng minh giảm còn [b_参数p1_per] giá trị ghi nhận",
+            "en": "When [buff_2984_1] fails, causes your ally [tips_21]'s HP to reduce to [b_参数p1_per] of the recorded amount.",
+            "zh": "[buff_2984_1]消失时，友方[tips_21]的生命减少至记录值[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Khiến đồng minh có HP ít nhất nhận [buff_2984_1], [tips_15] 1 lượt",
+            "en": "[tips_7]: Grants [buff_2984_1] to the ally with the lowest HP. [tips_15] for 1 turn.",
+            "zh": "[tips_7]：使生命最少的友方获得[buff_2984_1]，[tips_15]1回合"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "2983",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "xun",
+    "headKey": "h_xun",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2981",
+      "2983"
+    ]
+  },
+  "unresolvedTokens": []
+}

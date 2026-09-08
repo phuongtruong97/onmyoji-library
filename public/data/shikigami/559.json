@@ -1,0 +1,302 @@
+{
+  "id": 559,
+  "name": {
+    "vi": "Bản Chân Tam Vĩ Hồ",
+    "en": "Trueself Mio",
+    "zh": "本真三尾狐"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3350,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9683,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 115,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5591,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nhiếp Tâm",
+        "en": "Steal Heart",
+        "zh": "摄心"
+      },
+      "intro": {
+        "vi": "Cứ nhìn tôi chằm chằm vậy là nguy hiểm lắm đó nha~",
+        "en": "It'll be dangerous for you to keep looking at me.",
+        "zh": "一直盯着我看，可是很危险的哦~"
+      },
+      "description": {
+        "vi": "Dùng sức mạnh yêu hồ hút sinh mệnh của mục tiêu, gây 125% sát thương.",
+        "en": "Drain the life of 1 enemy with her fox force, dealing damage equal to 125% of her ATK.",
+        "zh": "以狐妖之力吸取目标的生命，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害提升至105%",
+            "en": "伤害提升至105%",
+            "zh": "伤害提升至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害提升至110%",
+            "en": "伤害提升至110%",
+            "zh": "伤害提升至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害提升至115%",
+            "en": "伤害提升至115%",
+            "zh": "伤害提升至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害提升至125%",
+            "en": "伤害提升至125%",
+            "zh": "伤害提升至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5591",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5592,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Linh Hợp",
+        "en": "Souls Bonded",
+        "zh": "灵合"
+      },
+      "intro": {
+        "vi": "Hoa rơi hữu ý, nguyện cuối cùng được đối xử dịu dàng.",
+        "en": "May falling flowers be treated well for they, too, have feelings.",
+        "zh": "落花亦有情，愿终得善待。"
+      },
+      "description": {
+        "vi": "[tips_11].\nKhi bắt đầu chiến đấu và kết thúc lượt, linh hồ trong ngực kích thích yêu lực, nhận [buff_5592_1] có thể hấp thụ sát thương bằng 140% tấn công, [tips_15] 1 lượt, đồng thời nhận 3 tầng [buff_5593_1].",
+        "en": "[tips_11].\nAt the start of battle and at the end of her turn, the fox in her arms unleashes its power, granting her a [buff_5592_1], absorbing damage equal to 140% of her ATK. [tips_15] for 1 turn. Also grants her 3 [buff_5593_1] stacks.",
+        "zh": "[tips_11]。\n战斗开始和回合结束时，怀中灵狐激发妖力，获得能吸收攻击140%伤害的[buff_5592_1]，[tips_15]1回合，同时获得3层[buff_5593_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Linh hồ thủ hộ tăng lên 140% tấn công.",
+            "en": "Increases Vulpine Protection to 140% of her ATK.",
+            "zh": "灵狐守护提高至攻击140%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng mới của Cấp Phách: Mỗi khi tấn công 1 mục tiêu, bản thân tăng 10% thanh hành động.",
+            "en": "Adds new effect to Steal Soul: For each enemy she attacked, raises her Move Bar by 10%.",
+            "zh": "汲魄新增效果：每攻击1个目标，自身增加10%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng mới của Linh hồ thủ hộ: Khi biến mất, hồi phục 80% lượng khiên còn lại của bản thân thành HP.",
+            "en": "Adds new effects to Vulpine Protection: When it fails, recovers her HP by 80% of her shield's remaining capacity.",
+            "zh": "灵狐守护新增效果：消失时，恢复自身剩余护盾量80%生命"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: Nhận linh hồ thủ hộ và 3 tầng tâm hỏa.",
+            "en": "Upper Hand: Grants her Vulpine Protection and 3 Heart's Flame stacks.",
+            "zh": "先机：获得灵狐守护与3层心焰"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5592",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5593,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồ Hoặc Mị Ảnh",
+        "en": "Seductive Phantom",
+        "zh": "狐惑魅影"
+      },
+      "intro": {
+        "vi": "Không cần phải nghĩ ngợi nhiều, cùng chìm đắm trong cảnh giới đẹp đẽ này đi.",
+        "en": "Forsake your thoughts and indulge yourself in the realm.",
+        "zh": "不必过多考虑，一起在绮境中沉沦吧。"
+      },
+      "description": {
+        "vi": "Khi sử dụng đòn đánh thường hoặc kỹ năng đơn thể, kèm theo 20% hút máu và đính kèm thêm [buff_5594_1] cho mục tiêu.\n【[Thi triển]】 Gây 145% sát thương cho mục tiêu kẻ địch, khi tấn công cứ mỗi 25% tỷ lệ HP của mục tiêu kẻ địch giảm đi sẽ truy kích thêm 1 lần sát thương, đồng thời trực tiếp kích hoạt ấn ký hồ ly của mục tiêu được chọn. Sau đó gây 1 đoạn sát thương bằng 145% tấn công cho các nhân vật kẻ địch khác.",
+        "en": "When she uses a normal attack or a single-target skill, grants her 20% HP Steal and inflicts [buff_5594_1] on the enemy.\nActive Skill: Attacks 1 enemy, dealing damage equal to 145% of her ATK. When attacking, inflicts 1 follow-up strike for each 25% HP the enemy has lost, and immediately triggers the Fox Mark on them. Then inflicts 1 strike on another enemy, dealing damage equal to 145% of her ATK.",
+        "zh": "使用普攻或单体技能时，附带20%吸血并额外对目标附加[buff_5594_1]。\n【施放】对敌方目标造成攻击145%伤害，攻击时敌方目标生命比例每降低25%，额外追加1次伤害，并直接触发选中目标的狐印。之后对其他敌方角色造成1段攻击145%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương đều tăng lên 125% tấn công.",
+            "en": "Increases all her strikes' damage to 125% of her ATK.",
+            "zh": "伤害均提升至攻击125%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương đều tăng lên 135% tấn công.",
+            "en": "Increases all her strikes' damage to 135% of her ATK.",
+            "zh": "伤害均提升至攻击135%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương đều tăng lên 145% tấn công.",
+            "en": "Increases all her strikes' damage to 145% of her ATK.",
+            "zh": "伤害均提升至攻击145%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Trực tiếp kích hoạt ấn ký hồ ly của mục tiêu được chọn.",
+            "en": "Immediately triggers the selected enemy's Fox Mark",
+            "zh": "直接触发选中目标的狐印"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5593",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_sanweihu",
+    "headKey": "h_sp_sanweihu",
+    "armature": [
+      "sp_sanweihu_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_benzhensanweihu",
+    "skillIconKeys": [
+      "5591",
+      "5592",
+      "5593"
+    ]
+  },
+  "unresolvedTokens": []
+}

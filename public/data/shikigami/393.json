@@ -1,0 +1,302 @@
+{
+  "id": 393,
+  "name": {
+    "vi": "Thiền Tâm Vân Ngoại Kính",
+    "en": "Zen Ungaikyo",
+    "zh": "禅心云外镜"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[12, 8, 20]",
+    "en": "[12, 8, 20]",
+    "zh": "[12, 8, 20]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2098,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12838,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 480,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 113,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "3%",
+      "grade": "C"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3931,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thủy Vô Ngân",
+        "en": "Boundless Water",
+        "zh": "水无垠"
+      },
+      "intro": {
+        "vi": "Không phải dư thiên, duy đáng nhất tâm.",
+        "en": "Worship not other deities and take sole refuge in the Buddha.",
+        "zh": "不是余天 , 唯当一心。"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương 125% Tấn công, đồng thời khiến tất cả trạng thái tiêu cực, hiệu ứng và dấu ấn mà bản thân mang theo giảm 1 lượt.",
+        "en": "Attacks 1 enemy, dealing damage equal to 125% of his ATK and reducing the duration of all negative statuses, effects, and marks on him by 1 turn.",
+        "zh": "攻击敌方目标，造成攻击125%伤害，并使自身携带的所有减益状态、效果和印记减少1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 125%, đồng thời khiến tất cả trạng thái tiêu cực, hiệu ứng và dấu ấn mà bản thân mang theo giảm 1 lượt.",
+            "en": "Increases the damage to 125% and reduces the duration of all negative statuses, effects, and marks on him by 1 turn.",
+            "zh": "伤害增加至125%，并使自身携带的所有减益状态、效果和印记减少1回合"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3931",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3932,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tâm Tịnh Minh",
+        "en": "Clear Mind",
+        "zh": "心净明"
+      },
+      "intro": {
+        "vi": "Bụi trần đã phai, bản tâm hiện rõ.",
+        "en": "The dust has been cleared away, and the true heart has been found.",
+        "zh": "尘埃已褪，本心得现。"
+      },
+      "description": {
+        "vi": "[tips_11]. Gột rửa bụi trần trong lòng, khi bắt đầu chiến đấu, tăng 25% kháng hiệu ứng cho toàn bộ mục tiêu đồng minh không phải vật triệu hồi. Cứ mỗi 30% tỷ lệ HP của bản thân giảm đi, Quỷ Hỏa tiêu hao khi thi triển kỹ năng giảm 1 điểm; khi hành động, phân phối lại tổng HP của đồng minh không phải vật triệu hồi, khiến tỷ lệ HP của đồng minh giống nhau.\n【Thi triển】 Gột rửa bụi trần trong lòng, khiến thời gian duy trì của tất cả trạng thái tiêu cực, hiệu ứng và dấu ấn mà mục tiêu đồng minh chỉ định mang theo giảm 1 lượt, đồng thời tăng kháng hiệu ứng ban đầu [b_参数p1_per] của bản thân, duy trì 2 lượt. Đồng thời tăng 30% Thanh Hành Động. Nếu không thể làm giảm số lượt hiệu ứng, trạng thái tiêu cực và dấu ấn mà đồng minh đó mang theo, tăng 100% Thanh Hành Động.",
+        "en": "[tips_11]. Clears the dust from his mind. At the start of battle, increases the Effect RES of all non-summoned ally entities by 25%. For each 30% of HP he has lost, reduces the cost of his skills by 1 orb. On his action, redistributes the HP of all non-summoned ally entities, causing all theses allies to have the same proportion of HP.\nActive skill: Clears the dust from his mind. Reduces the duration of all negative statuses, effects, and marks on 1 ally by 1 turn. Increases the ally's Effect RES by [b_参数p1_per] of his own starting Effect RES for 2 turns and raises the ally's Move Bar by 30%. If he fails to reduce the duration of negative effects, statues, or marks on the ally, raises their Move Bar by 100% instead.",
+        "zh": "[tips_11]。荡涤心中尘埃，战斗开始时，为全体非召唤物的友方目标增加25%效果抵抗。自身生命比例每降低30%，施放技能消耗鬼火减少1点；行动时，重新分配非召唤物的友方总生命，使得友方生命百分比相同。\n【施放】荡涤心中尘埃，使指定友方目标携带的所有减益状态、效果和印记的持续时间减少1个回合，并提升自身[b_参数p1_per]初始效果抵抗，持续2回合。同时提升30%行动条。若未能使该友方携带的减益效果、状态和印记回合减少，则提升100%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tăng kháng hiệu ứng ban đầu [b_参数p1_per] của bản thân cho mục tiêu đồng minh chỉ định, duy trì 2 lượt.",
+            "en": "Increases the ally's Effect RES by [b_参数p1_per] of his own starting Effect RES for 2 turns.",
+            "zh": "为指定友方目标提升自身[b_参数p1_per]初始效果抵抗，持续2回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng thời tăng 30% Thanh Hành Động cho mục tiêu đồng minh chỉ định.",
+            "en": "Also raises the ally's Move Bar by 30%.",
+            "zh": "同时为指定友方目标提升30%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hệ số tăng kháng hiệu ứng ban đầu của bản thân cho mục tiêu đồng minh chỉ định tăng đến [b_参数p1_per]",
+            "en": "Increases the Effect RES granted to the ally to [b_参数p1_per] of his own starting Effect RES.",
+            "zh": "为指定友方目标提升自身初始效果抵抗系数增加至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu không thể làm giảm số lượt hiệu ứng, trạng thái tiêu cực và dấu ấn mà đồng minh đó mang theo, tăng 100% Thanh Hành Động.",
+            "en": "If he fails to reduce the duration of negative effects, statues, or marks on the ally, raises their Move Bar by 100% instead.",
+            "zh": "若未能使该友方携带的减益效果、状态和印记回合减少，则提升100%行动条"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3932",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3933,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vạn Pháp Giai Không",
+        "en": "All is Void",
+        "zh": "万法皆空"
+      },
+      "intro": {
+        "vi": "Mọi pháp hữu vi, đều như mộng huyễn bọt nước",
+        "en": "Like a bubble, an illusion, a phantom, or a dream. So is all conditioned existence to be seen.",
+        "zh": "一切有为法，皆如梦幻泡影"
+      },
+      "description": {
+        "vi": "[tips_11].\nÂm dương luân chuyển, sinh sinh bất tức, khấu trừ 50% lượng máu hiện tại của toàn bộ mục tiêu đồng minh không phải vật triệu hồi, khiến họ nhận [buff_3931_1] tương đương 50% HP tối đa. Thiền Tâm Vân Ngoại Kính sau 2 lượt [tips_3933] lượng máu của toàn bộ mục tiêu đồng minh không phải vật triệu hồi và loại bỏ [buff_3931_1]. Sau khi [tips_3933], tỷ lệ HP thấp nhất không thấp hơn 20%. Trong thời gian hồi chiêu kỹ năng, tăng 25% tốc độ cho toàn bộ mục tiêu đồng minh không phải vật triệu hồi.",
+        "en": "[tips_11].\nThe wheel of life turns eternally. Deducts the HP of all non-summoned ally entities by 50% of their current HP to grant them [buff_3931_1], absorbing damage equal to 50% of their max HP. Zen Ungaikyo [tips_3933]s the HP of all non-summoned ally entities and removes their [buff_3931_1] after 2 turns. The proportion of HP after it's [tips_3933]ed won't be lower than 20%. While the skill is in CD, increases the SPD of all non-summoned ally entities by 25%.",
+        "zh": "[tips_11]。\n阴阳轮转，生生不息，扣除全体非召唤物的友方目标当前生命50%的血量，使其获得等量于最大生命50%的[buff_3931_1]。禅心云外镜2个回合后[tips_3933]全体非召唤物的友方目标的生命并移除[buff_3931_1]。[tips_3933]后最低生命比例不低于20%。技能冷却期间，为全体非召唤物的友方目标提升25%速度。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Kháng hiệu ứng của [buff_3931_1] tăng đến [b_属性1数值_per]",
+            "en": "Increases the Effect RES granted by [buff_3931_1] to [b_属性1数值_per].",
+            "zh": "[buff_3931_1]的效果抵抗增加至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sau khi [tips_3933], tỷ lệ HP thấp nhất không thấp hơn 20%",
+            "en": "The proportion of HP after it's [tips_3933]ed won't be lower than 20%.",
+            "zh": "[tips_3933]后最低生命比例不低于20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tỷ lệ chuyển hóa lượng giáp của [buff_3931_1] thành HP tăng đến [b_参数p1_per]",
+            "en": "Increases the proportion of HP [buff_3931_1] can restore to [b_参数p1_per] of the shield's remaining amount.",
+            "zh": "[buff_3931_1]的护盾量转化为生命的比例增加至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tỷ lệ chuyển hóa lượng giáp của [buff_3931_1] thành HP tăng đến [b_参数p1_per]",
+            "en": "Increases the proportion of HP [buff_3931_1] can restore to [b_参数p1_per] of the shield's remaining amount.",
+            "zh": "[buff_3931_1]的护盾量转化为生命的比例增加至[b_参数p1_per]"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3933",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_yunwaijing",
+    "headKey": "h_sp_yunwaijing",
+    "armature": [
+      "s2_ywjicon_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_chanxinyunwaijing",
+    "skillIconKeys": [
+      "3931",
+      "3932",
+      "3933"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,350 @@
+{
+  "id": 281,
+  "name": {
+    "vi": "Yên Yên La",
+    "en": "Enenra",
+    "zh": "烟烟罗"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17]",
+    "en": "[17]",
+    "zh": "[17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2948,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9683,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 357,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 102,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2811,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Giày Vò",
+        "en": "Devastation",
+        "zh": "蹂躏"
+      },
+      "intro": {
+        "vi": "Hơ, ta ra tay là không nương tay đâu đấy nhé?",
+        "en": "Hehe! My little servant won't show any mercy.",
+        "zh": "呵，我下手可是不会留情的哦？"
+      },
+      "description": {
+        "vi": "Đá khói tiểu quỷ vào mục tiêu kẻ địch, khói tiểu quỷ phát nổ gây sát thương bằng 125% Tấn công.",
+        "en": "Flicks a smoke ghost towards 1 enemy. The smoke ghost deals damage equal to 125% of her ATK after exploding.",
+        "zh": "将烟雾小鬼踢向敌方目标，烟雾小鬼爆炸造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2811",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2812,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bộc Sóc Mê Ly",
+        "en": "Ghostly Shield",
+        "zh": "扑朔迷离"
+      },
+      "intro": {
+        "vi": "Ta không muốn bị dơ bẩn đâu~",
+        "en": "Ugh, I hate getting dirty!",
+        "zh": "我可不想变得脏兮兮的～"
+      },
+      "description": {
+        "vi": "Khi chịu sát thương, có 40% xác suất khiến lần sát thương đó giảm 30%.\nKhi tấn công, có 10% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất [tips_107] kẻ địch thành khói tiểu quỷ, duy trì 1 lượt.",
+        "en": "When taking damage, has a 40% chance of reducing damage by 30%.\nWhen attacked, has a 10% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of [tips_107]ing the enemy into a smoke ghost for 1 turn(s).",
+        "zh": "受到伤害时，有40%概率使该次伤害降低30%。\n攻击时，有10%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将敌方[tips_107]为烟雾小鬼，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "触发概率增至35%",
+            "en": "触发概率增至35%",
+            "zh": "触发概率增至35%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "触发概率增至35%",
+            "en": "触发概率增至35%",
+            "zh": "触发概率增至35%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng giảm sát thương, tăng lên 25%",
+            "en": "Increases damage reduction effect to 25%.",
+            "zh": "降低伤害效果，增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng giảm sát thương, tăng lên 25%",
+            "en": "Increases damage reduction effect to 25%.",
+            "zh": "降低伤害效果，增至25%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "触发概率增至40%",
+            "en": "触发概率增至40%",
+            "zh": "触发概率增至40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "触发概率增至40%",
+            "en": "触发概率增至40%",
+            "zh": "触发概率增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng giảm sát thương, tăng lên 30%",
+            "en": "Increases damage reduction effect to 30%.",
+            "zh": "降低伤害效果，增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng giảm sát thương, tăng lên 30%",
+            "en": "Increases damage reduction effect to 30%.",
+            "zh": "降低伤害效果，增至30%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2812",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 2813,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Yên Chi Quỷ",
+        "en": "Smoke Phantom",
+        "zh": "烟之鬼"
+      },
+      "intro": {
+        "vi": "Chà chà, ngươi vẫn chưa bị bắt nạt đủ sao?",
+        "en": "Haven't you had enough yet?",
+        "zh": "哎呀，你还没被欺负够吗？"
+      },
+      "description": {
+        "vi": "酣畅攻击敌方目标5次，每次造成攻击23%伤害，最后对敌方全体造成攻击53%伤害；前5次攻击的每次暴击，都会使最后的伤害提升30%。",
+        "en": "酣畅攻击敌方目标5次，每次造成攻击23%伤害，最后对敌方全体造成攻击53%伤害；前5次攻击的每次暴击，都会使最后的伤害提升30%。",
+        "zh": "酣畅攻击敌方目标5次，每次造成攻击23%伤害，最后对敌方全体造成攻击53%伤害；前5次攻击的每次暴击，都会使最后的伤害提升30%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "5 lần sát thương đầu tăng lên 20%, sát thương toàn bộ cuối cùng tăng lên 46%",
+            "en": "Increases damage to the first target by 20% and damage of the second attack by 46%.",
+            "zh": "前5次伤害增至20%，最后全体伤害增至46%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "5 lần sát thương đầu tăng lên 21%, sát thương toàn bộ cuối cùng tăng lên 48%",
+            "en": "Increases damage to the first target by 21% and damage of the second attack by 48%.",
+            "zh": "前5次伤害增至21%，最后全体伤害增至48%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "5 lần sát thương đầu tăng lên 22%, sát thương toàn bộ cuối cùng tăng lên 51%",
+            "en": "Increases damage to the first target by 22% and damage of the second attack by 51%.",
+            "zh": "前5次伤害增至22%，最后全体伤害增至51%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "5 lần sát thương đầu tăng lên 23%, sát thương toàn bộ cuối cùng tăng lên 53%",
+            "en": "Increases damage to the first target by 23% and damage of the second attack by 53%.",
+            "zh": "前5次伤害增至23%，最后全体伤害增至53%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2813",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yanyanluo",
+    "headKey": "h_yanyanluo",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2811",
+      "2812",
+      "2813"
+    ]
+  },
+  "unresolvedTokens": []
+}

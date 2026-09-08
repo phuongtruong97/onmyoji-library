@@ -1,0 +1,220 @@
+{
+  "id": 242,
+  "name": {
+    "vi": "Khôi Lỗi Sư",
+    "en": "Puppeteer",
+    "zh": "傀儡师"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2546,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10594,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 98,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2421,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Khôi Lỗi • Xuất Kích",
+        "en": "Puppet: Attack",
+        "zh": "傀儡·出击"
+      },
+      "intro": {
+        "vi": "Ta đến, tấn công đây.",
+        "en": "What was that? You want me to hurt them?",
+        "zh": "我来，攻击。"
+      },
+      "description": {
+        "vi": "Vừa lẩm bẩm vừa điều khiển khôi lỗi tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Mumbles to herself, wandering across to 1 enemy, then suddenly makes her puppet attack them, dealing damage equal to 125% of her ATK.",
+        "zh": "一边自言自语一边操纵傀儡攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2421",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2423,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Khôi Lỗi • Bạo Phát",
+        "en": "Puppet: Combo",
+        "zh": "傀儡·爆发"
+      },
+      "intro": {
+        "vi": "Ca ca nói huynh ấy tức giận rồi đấy.",
+        "en": "Brother is getting angry...",
+        "zh": "哥哥说他生气了。"
+      },
+      "description": {
+        "vi": "激活机关，控制傀儡连续攻击敌方目标5次，每次造成攻击67%伤害。",
+        "en": "激活机关，控制傀儡连续攻击敌方目标5次，每次造成攻击67%伤害。",
+        "zh": "激活机关，控制傀儡连续攻击敌方目标5次，每次造成攻击67%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至58%",
+            "en": "伤害增加至58%",
+            "zh": "伤害增加至58%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至61%",
+            "en": "伤害增加至61%",
+            "zh": "伤害增加至61%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至64%",
+            "en": "伤害增加至64%",
+            "zh": "伤害增加至64%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至67%",
+            "en": "伤害增加至67%",
+            "zh": "伤害增加至67%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2423",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "kuileishi",
+    "headKey": "h_kuileishi",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2421",
+      "2423"
+    ]
+  },
+  "unresolvedTokens": []
+}

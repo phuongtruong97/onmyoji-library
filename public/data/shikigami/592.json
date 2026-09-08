@@ -1,0 +1,350 @@
+{
+  "id": 592,
+  "name": {
+    "vi": "Taira Masakado",
+    "en": "Taira no Masakado",
+    "zh": "平将门"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3751,
+      "grade": "SS"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 551,
+      "grade": "S"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 106,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "160%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5921,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lăng Không Nhất Kích",
+        "en": "Soaring Strike",
+        "zh": "凌空一击"
+      },
+      "intro": {
+        "vi": "Phân tranh trước mắt, hãy thần phục ta.",
+        "en": "Amidst chaos, kneel before me.",
+        "zh": "纷争当前，臣服于我。"
+      },
+      "description": {
+        "vi": "Vung Futsu-no-Mitama, gây sát thương 125%.",
+        "en": "Wields Futsunomitama to deal 125% damage.",
+        "zh": "挥动布都御魂，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5921",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5922,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thời Khắc Luân Chuyển",
+        "en": "Temporal Shift",
+        "zh": "时隙轮转"
+      },
+      "intro": {
+        "vi": "Mà thế cục công thủ nay đã khác.",
+        "en": "The tides of battle turn.",
+        "zh": "而攻守之势异也。"
+      },
+      "description": {
+        "vi": "Khi bắt đầu chiến đấu, nếu tấn công ban đầu của bản thân cao hơn 700% phòng thủ, bước vào [tips_5921], ngược lại bước vào [tips_5922]. Khi ở trạng thái [tips_5921], cứ cường hóa [tips_5923] 1 lần, hệ số tấn công toàn thể của «Kiêu Dương Trường Minh» tăng 5%, tăng tối đa 15%; hiệu ứng hồi phục của thế phòng thủ có hiệu lực với cả đồng minh khác, lượng hồi phục bằng 70% của bản thân (không kích hoạt khi chịu [tips_12]).\n[tips_11]. Nắm giữ thần khí [tips_5923]. Trong [tips_5832], tiêu hao Quỷ Hỏa của «Kiêu Dương Trường Minh» giảm 2 điểm. Sau khi [tips_5832] của bản thân kết thúc, thời gian duy trì trạng thái giảm ích và [tips_3] phải chịu giảm 1 lượt.\n【Thi triển】 Chuyển đổi thế đứng và tăng 50% thanh hành động của bản thân.",
+        "en": "At battle start, if Taira no Masakado's starting ATK exceeds 700% of DEF, enters [tips_5921]; otherwise enters [tips_5922]. While in [tips_5921], each time [tips_5923] is enhanced, Ever-burning Sun AoE multiplier increases by 5% (max 15%). Guard Stance's Recover effect also applies to other allies, with the amount equal to 70% of own stats (does not trigger when affected by [tips_12]).\n[tips_11]. Wields artifact [tips_5923]. While in [tips_5832], Ever-burning Sun's orb cost is reduced by 2. After [tips_5832] ends, reduces own duration of received debuffs and [tips_3] by 1 turn.\n[Cast] Switches stance and boosts own Move Bar by 50%.",
+        "zh": "战斗开始时，若自身初始攻击高于防御的700%，进入[tips_5921]，否则进入[tips_5922]。处于[tips_5921]时，每强化1次[tips_5923]，『骄阳长明』群体攻击系数提升5%，至多提升15%；防守架势的恢复效果对其他友方也生效，恢复量为自身的70%（受[tips_12]时不触发）。\n[tips_11]。掌控神器[tips_5923]。[tips_5832]中，『骄阳长明』鬼火消耗减少2点。自身的[tips_5832]结束后，承受的减益以及[tips_3]持续时间减少1回合。\n【施放】切换架势并提升自身50%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Thời gian duy trì trạng thái giảm ích và [tips_3] phải chịu giảm 1 lượt sau khi [tips_5832] của bản thân kết thúc.",
+            "en": "After [tips_5832] ends, reduces own duration of received debuffs and [tips_3] by 1 turn.",
+            "zh": "自身的[tips_5832]结束后，承受的减益以及[tips_3]持续时间减少1回合"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Thời gian duy trì trạng thái giảm ích và [tips_3] phải chịu giảm 1 lượt sau khi [tips_5832] của bản thân kết thúc.",
+            "en": "After [tips_5832] ends, reduces own duration of received debuffs and [tips_3] by 1 turn.",
+            "zh": "自身的[tips_5832]结束后，承受的减益以及[tips_3]持续时间减少1回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trong [tips_5832], tiêu hao Quỷ Hỏa của «Kiêu Dương Trường Minh» giảm 2 điểm.",
+            "en": "While in [tips_5832], Ever-burning Sun's orb cost is reduced by 2",
+            "zh": "[tips_5832]中，『骄阳长明』鬼火消耗减少2点"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trong [tips_5832], tiêu hao Quỷ Hỏa của «Kiêu Dương Trường Minh» giảm 2 điểm.",
+            "en": "While in [tips_5832], Ever-burning Sun's orb cost is reduced by 2",
+            "zh": "[tips_5832]中，『骄阳长明』鬼火消耗减少2点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng hồi phục của thế phòng thủ có hiệu lực với cả đồng minh khác, lượng hồi phục bằng 70% của bản thân (không kích hoạt khi chịu [tips_12]).",
+            "en": "Guard Stance's Recover effect also applies to other allies, with the amount equal to 70% of own stats (does not trigger when affected by [tips_12]).",
+            "zh": "防守架势的恢复效果对其他友方也生效，恢复量为自身的70%（受[tips_12]时不触发）"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng hồi phục của thế phòng thủ có hiệu lực với cả đồng minh khác, lượng hồi phục bằng 70% của bản thân (không kích hoạt khi chịu [tips_12]).",
+            "en": "Guard Stance's Recover effect also applies to other allies, with the amount equal to 70% of own stats (does not trigger when affected by [tips_12]).",
+            "zh": "防守架势的恢复效果对其他友方也生效，恢复量为自身的70%（受[tips_12]时不触发）"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi ở trạng thái [tips_5921], cứ cường hóa [tips_5923] 1 lần, hệ số tấn công toàn thể của «Kiêu Dương Trường Minh» tăng 5%, tăng tối đa 15%.",
+            "en": "While in [tips_5921], each time [tips_5923] is enhanced, Ever-burning Sun AoE multiplier increases by 5% (max 15%)",
+            "zh": "处于[tips_5921]时，每强化1次[tips_5923]，『骄阳长明』群体攻击系数提升5%，至多提升15%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi ở trạng thái [tips_5921], cứ cường hóa [tips_5923] 1 lần, hệ số tấn công toàn thể của «Kiêu Dương Trường Minh» tăng 5%, tăng tối đa 15%.",
+            "en": "While in [tips_5921], each time [tips_5923] is enhanced, Ever-burning Sun AoE multiplier increases by 5% (max 15%)",
+            "zh": "处于[tips_5921]时，每强化1次[tips_5923]，『骄阳长明』群体攻击系数提升5%，至多提升15%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5922",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 5923,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kiêu Dương Trường Minh",
+        "en": "Ever-burning Sun",
+        "zh": "骄阳长明"
+      },
+      "intro": {
+        "vi": "Dùng võ dừng chiến, ta chính là muôn quân.",
+        "en": "Halting the war with my might, no legion's power can compare to mine.",
+        "zh": "以武止戈，我即万军。"
+      },
+      "description": {
+        "vi": "Taira Masakado bùng nổ thần lực, tấn công toàn thể kẻ địch 3 lần, mỗi lần gây sát thương 80%; sau đó gây cho mục tiêu kẻ địch chỉ định lượng sát thương cố định bằng 18% tổng sát thương đợt tấn công này gây ra ((bao gồm phần bị hấp thụ)). Khi gây tiêu diệt, nhận 3 điểm Quỷ Hỏa và cường hóa 1 lần Futsu-no-Mitama. Cứ có 1 thức thần địch bị tiêu diệt, sát thương Taira Masakado chịu giảm 7%, hệ số sát thương cố định tăng 5% (tối đa kích hoạt 5 lần).",
+        "en": "Taira no Masakado unleashes Divine Power, attacking all enemies 3 times dealing 80% ATK damage each hit. Then deals Fixed Damage equal to 18% of total damage dealt ((including damage absored)) to selected enemy. If an enemy is defeated, gains 3 orbs and strengthens Futsunomitama once. For each enemy shikigami defeated, Taira no Masakado receives 7% less damage and his Fixed Damage coefficient increases by 5% (up to 5 times).",
+        "zh": "平将门迸发神力，攻击敌方全体3次，每次造成攻击80%伤害；随后对指定敌方目标造成等同于本次攻击造成总伤害(（包含被吸收的部分）)18%的固定伤害。造成击败时，获得3点鬼火并强化1次布都御魂。每有1位敌方式神被击败，平将门受到伤害降低7%，固定伤害系数提升5%（至多触发5次）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tấn công toàn thể tăng đến 68%.",
+            "en": "Increases AoE damage to 68%",
+            "zh": "群体攻击伤害增加至68%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tấn công toàn thể tăng đến 72%.",
+            "en": "Increases AoE damage to 72%",
+            "zh": "群体攻击伤害增加至72%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tấn công toàn thể tăng đến 76%.",
+            "en": "Increases AoE damage to 76%",
+            "zh": "群体攻击伤害增加至76%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tấn công toàn thể tăng đến 80%; cứ có 1 thức thần địch bị tiêu diệt, sát thương Taira Masakado chịu giảm 7%, hệ số sát thương cố định tăng 5% (tối đa kích hoạt 5 lần).",
+            "en": "AoE damage increases to 80%; for each enemy shikigami defeated, Taira no Masakado receives 7% less damage and Fixed Damage coefficient increases by 5% (up to 5 times).",
+            "zh": "群体攻击伤害增加至80%；每有1位敌方式神被击败，平将门受到伤害降低7%，固定伤害系数提升5%（至多触发5次）"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5923",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "pingjiangmen",
+    "headKey": "h_pingjiangmen",
+    "armature": "",
+    "artName": "txt_zhanshi_pingjiangmen",
+    "skillIconKeys": [
+      "5921",
+      "5922",
+      "5923"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,220 @@
+{
+  "id": 416,
+  "name": {
+    "vi": "Hoang Xuyên Oa",
+    "en": "Arakawa Frog",
+    "zh": "荒川呱"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2492,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 388,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4161,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Oa · Du Ngư",
+        "en": "Croak: Fish Strike",
+        "zh": "呱·游鱼"
+      },
+      "intro": {
+        "vi": "Thứ vô dụng tốt nhất nên rút khỏi chiến trường đi!",
+        "en": "The weak do not belong on the battlefield!",
+        "zh": "没用的东西还是退出战场吧！"
+      },
+      "description": {
+        "vi": "Dùng yêu lực màu đen ngưng tụ nước thành hình cá tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Forms water into a fish to assault 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "以黑色妖力将水凝成鱼形攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4161",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 4162,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Oa · Thâu Tóm",
+        "en": "Croak: Swallow",
+        "zh": "呱·吞噬"
+      },
+      "intro": {
+        "vi": "Thứ vô dụng thì nên chìm đắm giãy giụa dưới đáy biển đen ngòm đi.",
+        "en": "The weak should be dragged to the deepest, darkest depths of the sea.",
+        "zh": "没用的东西就该沉在黑漆漆的海底挣扎。"
+      },
+      "description": {
+        "vi": "Dùng yêu lực màu đen ngưng tụ thành đàn cá tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 80% Tấn công.",
+        "en": "Forms water into a shoal of fish to inflict a 2-strike attack on 1 enemy, dealing damage equal to 80% of his ATK on each strike.",
+        "zh": "以黑色妖力凝成鱼群攻击敌方目标2次，每次造成攻击80%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至70%",
+            "en": "伤害增加至70%",
+            "zh": "伤害增加至70%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至72%",
+            "en": "伤害增加至72%",
+            "zh": "伤害增加至72%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至76%",
+            "en": "伤害增加至76%",
+            "zh": "伤害增加至76%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至80%",
+            "en": "伤害增加至80%",
+            "zh": "伤害增加至80%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "4162",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "longche_huangchuanwa",
+    "headKey": "h_huangchuangua",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4161",
+      "4162"
+    ]
+  },
+  "unresolvedTokens": []
+}

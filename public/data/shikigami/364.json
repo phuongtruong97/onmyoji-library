@@ -1,0 +1,350 @@
+{
+  "id": 364,
+  "name": {
+    "vi": "Asura",
+    "en": "Asura",
+    "zh": "阿修罗"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3859,
+      "grade": "SS"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10024,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 392,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3641,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồng Liên Trảm Diệt",
+        "en": "Annihilation Flames",
+        "zh": "红莲诛灭"
+      },
+      "intro": {
+        "vi": "服从，或者，死。",
+        "en": "服从，或者，死。",
+        "zh": "服从，或者，死。"
+      },
+      "description": {
+        "vi": "Sai khiến roi xương gây cho mục tiêu kẻ địch sát thương bằng 120% Tấn công.\nKhi Asura hạ gục mục tiêu, đính kèm [buff_3645_1] cho mục tiêu, đồng thời thay thế 「Thiên Ma Uy Áp」 thành 「Vô Gián Sát Lục」.",
+        "en": "Wields Bonelash to attack 1 enemy, dealing damage equal to 120% of his ATK.\nWhen Asura KO's the enemy, he inflicts [buff_3645_1] on an enemy and Mighty Crush changes to Endless Slaughter.",
+        "zh": "驱使骨鞭对敌方目标造成攻击120%伤害。\n阿修罗造成击败时，为目标附加[buff_3645_1]，同时将「天魔威压」替换成「无间杀戮」。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3641",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3642,
+      "maxLevel": 5,
+      "name": {
+        "vi": "天魔威压",
+        "en": "天魔威压",
+        "zh": "天魔威压"
+      },
+      "intro": {
+        "vi": "用你的哀嚎，取悦我。",
+        "en": "用你的哀嚎，取悦我。",
+        "zh": "用你的哀嚎，取悦我。"
+      },
+      "description": {
+        "vi": "战斗和回合开始时，获得9点[buff_3641_1]。当[buff_3641_1]不足9点时，免疫[tips_3]和[tips_109]。每次攻击前消耗对应攻击目标数量的[buff_3641_1]。\n若阿修罗的初始速度快于被攻击目标的初始速度，造成的伤害增加10%。",
+        "en": "战斗和回合开始时，获得9点[buff_3641_1]。当[buff_3641_1]不足9点时，免疫[tips_3]和[tips_109]。每次攻击前消耗对应攻击目标数量的[buff_3641_1]。\n若阿修罗的初始速度快于被攻击目标的初始速度，造成的伤害增加10%。",
+        "zh": "战斗和回合开始时，获得9点[buff_3641_1]。当[buff_3641_1]不足9点时，免疫[tips_3]和[tips_109]。每次攻击前消耗对应攻击目标数量的[buff_3641_1]。\n若阿修罗的初始速度快于被攻击目标的初始速度，造成的伤害增加10%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 8%",
+            "en": "Reduces Sanity's damage suppressing effect to 8%.",
+            "zh": "理性对伤害的压制效果降低至8%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 8%",
+            "en": "Reduces Sanity's damage suppressing effect to 8%.",
+            "zh": "理性对伤害的压制效果降低至8%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 7%",
+            "en": "Reduces Sanity's damage suppressing effect to 7%.",
+            "zh": "理性对伤害的压制效果降低至7%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 7%",
+            "en": "Reduces Sanity's damage suppressing effect to 7%.",
+            "zh": "理性对伤害的压制效果降低至7%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 6%",
+            "en": "Reduces Sanity's damage suppressing effect to 6%.",
+            "zh": "理性对伤害的压制效果降低至6%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 6%",
+            "en": "Reduces Sanity's damage suppressing effect to 6%.",
+            "zh": "理性对伤害的压制效果降低至6%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi mất 1 điểm lí tính, sát thương gánh chịu giảm 6%",
+            "en": "Each point of Sanity he has lost reduces his damage taken by 6%.",
+            "zh": "每失去1点理性，受到的伤害降低6%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi mất 1 điểm lí tính, sát thương gánh chịu giảm 6%",
+            "en": "Each point of Sanity he has lost reduces his damage taken by 6%.",
+            "zh": "每失去1点理性，受到的伤害降低6%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3642",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3643,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Luyện Ngục Ngược Sát",
+        "en": "Inferno Slaughter",
+        "zh": "炼狱虐杀"
+      },
+      "intro": {
+        "vi": "我所至之处，皆将毁灭。",
+        "en": "我所至之处，皆将毁灭。",
+        "zh": "我所至之处，皆将毁灭。"
+      },
+      "description": {
+        "vi": "Xung phong vào trận hình kẻ địch giáng xuống bàn tay thiên ma, gây cho toàn bộ kẻ địch sát thương bằng 315% Tấn công; sau đó gây cho mục tiêu kẻ địch sát thương truy kích bằng 63% Tấn công, cho đến khi mất toàn bộ lí tính. Nếu khi hạ gục mục tiêu mà lí tính chưa dùng hết, sẽ chuyển sang tấn công mục tiêu kẻ địch khác có sinh mệnh thấp nhất.",
+        "en": "Plunges into the enemy lineup and summons forth a giant hand to attack all enemies, dealing damage equal to 315% of his ATK. Then inflicts a follow-up attack on the enemy until his Sanity points are fully consumed, dealing damage equal to 63% of his ATK on each attack. If the target is KO'd and he still has Sanity left, he will then attack another enemy with the lowest HP.",
+        "zh": "冲入敌方阵营降下天魔巨手，对敌方全体造成攻击315%的伤害；再对敌方目标造成攻击63%的追击伤害，直到失去所有理性。若击败目标时理性未用尽，则转化攻击生命最低的另一敌方目标。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương lên toàn bộ kẻ địch tăng lên 305%",
+            "en": "Increases the damage to all enemies to 305%.",
+            "zh": "对敌方全体伤害增加至305%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương lên toàn bộ kẻ địch tăng lên 315%",
+            "en": "Increases the damage to all enemies to 315%.",
+            "zh": "对敌方全体伤害增加至315%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương truy kích tăng lên 63%",
+            "en": "Increases the follow-up damage to 63%.",
+            "zh": "追击伤害增加至63%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu khi hạ gục mục tiêu mà lí tính chưa dùng hết, sẽ chuyển sang tấn công mục tiêu kẻ địch khác có sinh mệnh thấp nhất",
+            "en": "If the target is KO'd and he still has Sanity left, he will then attack another enemy with the lowest HP.",
+            "zh": "若击败目标时理性未用尽，则转化攻击生命最低的另一敌方目标"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3643",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "axiuluo",
+    "headKey": "h_axiuluo",
+    "armature": "",
+    "artName": "txt_zhanshi_axiuluo",
+    "skillIconKeys": [
+      "3641",
+      "3642",
+      "3643"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,298 @@
+{
+  "id": 571,
+  "name": {
+    "vi": "Kansai Hime",
+    "en": "Tagitsuhime",
+    "zh": "湍津姬"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[12, 10, 17]",
+    "en": "[12, 10, 17]",
+    "zh": "[12, 10, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 1983,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11619,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 414,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5711,
+      "maxLevel": 5,
+      "name": {
+        "vi": "帆流",
+        "en": "帆流",
+        "zh": "帆流"
+      },
+      "intro": {
+        "vi": "去吧，金八爪！",
+        "en": "去吧，金八爪！",
+        "zh": "去吧，金八爪！"
+      },
+      "description": {
+        "vi": "驱使金八爪攻击敌方目标，造成攻击125%伤害。",
+        "en": "驱使金八爪攻击敌方目标，造成攻击125%伤害。",
+        "zh": "驱使金八爪攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5711",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5712,
+      "maxLevel": 5,
+      "name": {
+        "vi": "暗鲨",
+        "en": "暗鲨",
+        "zh": "暗鲨"
+      },
+      "intro": {
+        "vi": "哧，我已经记住你了！",
+        "en": "哧，我已经记住你了！",
+        "zh": "哧，我已经记住你了！"
+      },
+      "description": {
+        "vi": "[tips_11]. Sau khi kết thúc lượt, nhận 1 tầng [buff_5711_1]. Khi thanh hành động của đồng minh bị đẩy lùi, Cận Tịch Cơ nhận 1 tầng [buff_5711_1] (tối đa kích hoạt 1 lần trong một lần hành động đơn lẻ), trị liệu lượng HP bằng 12% giới hạn HP của Cận Tịch Cơ cho mục tiêu đồng minh có tỷ lệ HP thấp nhất. Khi [buff_5711_1] đạt 5 tầng, giải trừ hoặc [tips_1] trạng thái khống chế của bản thân, đồng thời nhận 1 lượt mới. Khi bắt đầu chiến đấu, nhận 2 tầng Ám Sa.",
+        "en": "[tips_11]. At the end of the turn, gains 1 stack of [buff_5711_1]. When an ally's Move Bar is lowered, Tagitsuhime gains 1 stack of [buff_5711_1] (triggers once per action at most) and heals the ally with the lowest HP by 12% of Tagitsuhime's max HP. When [buff_5711_1] reaches 5 stacks, dispels or [tips_1]s all control effects from herself, and gains an additional turn. At the start of battle, gains 2 stacks of Dark Predation.",
+        "zh": "[tips_11]。回合结束后，获得1层[buff_5711_1]。友方被击退行动条时，湍津姬获得1层[buff_5711_1]（单次行动内最多触发1次），为生命比例最低的友方目标治疗湍津姬生命上限12%的生命。[buff_5711_1]达到5层时，驱散或[tips_1]自身的控制状态，并获得一个新的回合。战斗开始时，获得2层暗鲨。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "友方被击退行动条时，获得1层[buff_5711_1]（单次行动内最多触发1次）",
+            "en": "友方被击退行动条时，获得1层[buff_5711_1]（单次行动内最多触发1次）",
+            "zh": "友方被击退行动条时，获得1层[buff_5711_1]（单次行动内最多触发1次）"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi [buff_5711_1] đạt 5 tầng, giải trừ hoặc [tips_1] [tips_3] của bản thân.",
+            "en": "When [buff_5711_1] reaches 5 stacks, dispels or [tips_1]s [tips_3] from self.",
+            "zh": "[buff_5711_1]达到5层时，驱散或[tips_1]自身[tips_3]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_5711_1]达到5层时，获得回合",
+            "en": "[buff_5711_1]达到5层时，获得回合",
+            "zh": "[buff_5711_1]达到5层时，获得回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "战斗开始时，获得2层[buff_5711_1]",
+            "en": "战斗开始时，获得2层[buff_5711_1]",
+            "zh": "战斗开始时，获得2层[buff_5711_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5712",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5713,
+      "maxLevel": 5,
+      "name": {
+        "vi": "猛鲨起浪",
+        "en": "猛鲨起浪",
+        "zh": "猛鲨起浪"
+      },
+      "intro": {
+        "vi": "抓稳了，现在要开始踏浪了！",
+        "en": "抓稳了，现在要开始踏浪了！",
+        "zh": "抓稳了，现在要开始踏浪了！"
+      },
+      "description": {
+        "vi": "Giương buồm tiến lên, đạp sóng bước đi, tăng 30% thanh hành động cho mục tiêu đồng minh chỉ định, đồng thời tấn công toàn thể kẻ địch 2 lần, mỗi lần gây 90% sát thương, có 12% [tips_2] [tips_101] mục tiêu trong 1 lượt. Nếu khi [Thi triển], [buff_5711_1] đủ 5 tầng, hiệu ứng tăng thanh hành động tăng đến 100%.",
+        "en": "Raises the sails and rides the waves, boosting a designated ally's Move Bar by 30%. Launches a 2-strike attack on all enemies, dealing damage equal to 90% of ATK on each strike. 12% [tips_2] to [tips_101] them for 1 turn. If there are 5 stacks of [buff_5711_1] when cast, the Move Bar increase effect is enhanced to 100%.",
+        "zh": "扬起风帆，踏着疾浪前行，提升指定友方目标30%行动条，并攻击敌方全体2次，每次造成攻击90%伤害，并有12%[tips_2]将其[tips_101]1回合。若施放时[buff_5711_1]满5层，则提升行动条效果提升至100%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 80%",
+            "en": "Increases damage to 80%.",
+            "zh": "伤害增加至80%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "提升行动条效果增至30%",
+            "en": "提升行动条效果增至30%",
+            "zh": "提升行动条效果增至30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至90%",
+            "en": "伤害增加至90%",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_5711_1]满5层时，施放消耗全部层数并额外提升目标70%行动条",
+            "en": "[buff_5711_1]满5层时，施放消耗全部层数并额外提升目标70%行动条",
+            "zh": "[buff_5711_1]满5层时，施放消耗全部层数并额外提升目标70%行动条"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5713",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "tuanjinji",
+    "headKey": "h_tuanjinji",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "5711",
+      "5712",
+      "5713"
+    ]
+  },
+  "unresolvedTokens": []
+}

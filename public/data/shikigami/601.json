@@ -1,0 +1,300 @@
+{
+  "id": 601,
+  "name": {
+    "vi": "Tư Kim Thần",
+    "en": "Omoikane",
+    "zh": "思金神"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 6, 8]",
+    "en": "[37, 6, 8]",
+    "zh": "[37, 6, 8]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 1875,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 13556,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 489,
+      "grade": "S"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6011,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Diễm Đồ",
+        "en": "Blazepath",
+        "zh": "焰途"
+      },
+      "intro": {
+        "vi": "Men theo sự chỉ dẫn này, chạm đến chân lý.",
+        "en": "Follow this guidance and arrive at true wisdom.",
+        "zh": "循此指引，抵达真知。"
+      },
+      "description": {
+        "vi": "Dùng ngọn lửa thiêu rụi tri thức u mê, gây sát thương bằng 120% Tấn công, nhận 1 tầng [buff_6012_1].",
+        "en": "Burn away ignorance with flame, dealing damage equal to 120% ATK and gaining 1 stack of [buff_6012_1].",
+        "zh": "以火焰烧却蒙昧之识，造成攻击120%伤害，获得1层[buff_6012_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 120%, nhận 1 tầng [buff_6012_1]",
+            "en": "Increases the damage to 120% and grants 1 stack of [buff_6012_1].",
+            "zh": "伤害增加至120%，获得1层[buff_6012_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "6011",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 6012,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cảnh Tỉnh",
+        "en": "Vigilance",
+        "zh": "警醒"
+      },
+      "intro": {
+        "vi": "Lời này khẩn thiết, đủ để thức tỉnh lòng người.",
+        "en": "These words strike deep enough to awaken even the deafened mind.",
+        "zh": "此言切切，足以振聋发聩。"
+      },
+      "description": {
+        "vi": "[tips_11]. Trí hỏa không dứt, thấu tỏ vạn kiếp. Khi trên sân phe ta có [buff_6011_1], Tư Kim Thần nhận kỹ năng 「[skill_6014_1]」; Mỗi khi trải qua 1 lượt, nếu đồng minh không thi triển yêu thuật, Tư Kim Thần nhận 1 tầng [buff_6012_1]; Khi [buff_6012_1] bị xóa bỏ, khiến người mang [buff_6011_1] có Tấn công cao nhất nhận 1 lượt hành động.",
+        "en": "[tips_11]. The Wisdom Flame never fades, seeing through every trial. When an ally has [buff_6011_1] on the field, Omoikane gains the skill [skill_6014_1]. For each turn where allies do not cast a skill, Omoikane gains 1 stack of [buff_6012_1]. When [buff_6012_1] is removed, the [buff_6011_1] bearer with the highest ATK gains an additional turn.",
+        "zh": "[tips_11]。智火无歇，勘破万劫。当友方场上存在[buff_6011_1]时，思金神获得技能「[skill_6014_1]」；每经过1个回合，若友方未施放妖术，思金神获得1层[buff_6012_1]；[buff_6012_1]移除时，使攻击最高的[buff_6011_1]携带者获得1个回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi khi trải qua 1 lượt, nếu đồng minh không thi triển yêu thuật, Tư Kim Thần nhận 1 tầng [buff_6012_1]",
+            "en": "For each turn where allies do not cast a skill, Omoikane gains 1 stack of [buff_6012_1].",
+            "zh": "每经过1个回合，若友方未施放妖术，思金神获得1层[buff_6012_1]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hệ số [tips_28] của 『Khải Mông』 tăng lên 16%",
+            "en": "Enlightenment's [tips_28] multiplier is increased to 16%",
+            "zh": "『启蒙』的[tips_28]系数增至16%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi [buff_6012_1] bị xóa bỏ, khiến người mang [buff_6011_1] có Tấn công cao nhất nhận 1 lượt hành động",
+            "en": "When [buff_6012_1] is removed, the [buff_6011_1] bearer with the highest ATK gains 1 turn.",
+            "zh": "[buff_6012_1]移除时，使攻击最高的[buff_6011_1]携带者获得1个回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hệ số [tips_28] của 『Khải Mông』 tăng lên 20%",
+            "en": "Enlightenment's [tips_28] multiplier is increased to 20%",
+            "zh": "『启蒙』的[tips_28]系数增至20%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "6012",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 6013,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trí Hỏa Trường Minh",
+        "en": "Wisdom Aflame Forever",
+        "zh": "智火长明"
+      },
+      "intro": {
+        "vi": "Lấy thân ta, đổi lấy ngọn lửa trí tuệ cháy mãi không tắt.",
+        "en": "With this body of mine, I shall keep the Wisdom Flame burning forever.",
+        "zh": "以我之躯，换智识之火永燃不熄。"
+      },
+      "description": {
+        "vi": "Lòng hướng về đâu, thân đi về đó. Tổn thất 24% HP hiện tại, giúp mục tiêu đồng minh nhận [buff_6011_1]; Khi thi triển nhận Lá chắn bằng lượng HP đã tổn thất (không thể xua tan) và nhận 3 điểm Quỷ Hỏa; Tiên cơ: Thi triển lên thức thần đồng minh có Tấn công cao nhất.",
+        "en": "Where the heart leads, the body follows. Lose 24% of current HP to grant [buff_6011_1] to an ally. On cast, gain an undispellable shield equal to the HP lost and recover 3 orbs. Upper Hand: cast on the allied shikigami with the highest ATK.",
+        "zh": "心之所向，身之所往。失去当前生命的24%，使友方目标获得[buff_6011_1]；施放时获得失去生命等量的护盾（不可驱散）并获得3点鬼火；先机：对攻击最高的友方式神施放。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi thi triển nhận [tips_6] bằng lượng HP đã tổn thất (không thể xua tan)",
+            "en": "On cast, gain [tips_6] equal to the HP lost and it cannot be dispelled.",
+            "zh": "施放时获得失去生命等量的[tips_6]（不可驱散）"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát Thương Bạo Kích của [buff_6011_1] tăng lên đến 60%",
+            "en": "[buff_6011_1] Increases the Crit DMG boost to 60%.",
+            "zh": "[buff_6011_1]暴击伤害提升增至60%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi thi triển nhận 3 điểm Quỷ Hỏa",
+            "en": "Gain 3 orbs on cast",
+            "zh": "施放时获得3点鬼火"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Thi triển lên thức thần đồng minh có Tấn công cao nhất",
+            "en": "[tips_7]: Casts on the allied shikigami with the highest ATK",
+            "zh": "[tips_7]：对攻击最高的友方式神施放"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "6013",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sijinshen",
+    "headKey": "h_sijinshen",
+    "armature": "",
+    "artName": "txt_zhanshi_sijinshen",
+    "skillIconKeys": [
+      "6011",
+      "6012",
+      "6013"
+    ]
+  },
+  "unresolvedTokens": [
+    "tips_6"
+  ]
+}

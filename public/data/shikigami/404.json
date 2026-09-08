@@ -1,0 +1,220 @@
+{
+  "id": 404,
+  "name": {
+    "vi": "Thiên Tà Quỷ Lục",
+    "en": "Green Imp",
+    "zh": "天邪鬼绿"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4041,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ta Đánh",
+        "en": "Bash",
+        "zh": "我打"
+      },
+      "intro": {
+        "vi": "Hà á, đánh chính là ngươi!",
+        "en": "Would you like me to bat my lashes at you?",
+        "zh": "哈啊，打的就是你！"
+      },
+      "description": {
+        "vi": "Nhảy qua dùng hãn tử bản quật mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Leaps forwards and uses his bat to whip 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "跳过去用羽子板抽打敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4041",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 4042,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ta Đánh Đánh Đánh",
+        "en": "Bash Bash",
+        "zh": "我打打打"
+      },
+      "intro": {
+        "vi": "Vẫn chưa bị đánh đủ sao? Xem chiêu!",
+        "en": "Haven't you had enough yet? Take this!",
+        "zh": "还没有被打够吗？看招！"
+      },
+      "description": {
+        "vi": "Nhảy qua dùng hãn tử bản quật mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 88% Tấn công.",
+        "en": "Leaps forwards and uses his bat to whip 1 enemy 3 times, dealing damage equal to 88% of his ATK on each strike.",
+        "zh": "跳过去用羽子板抽打敌方目标3次，每次造成攻击88%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至76%",
+            "en": "伤害增加至76%",
+            "zh": "伤害增加至76%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至80%",
+            "en": "伤害增加至80%",
+            "zh": "伤害增加至80%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至84%",
+            "en": "伤害增加至84%",
+            "zh": "伤害增加至84%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至88%",
+            "en": "伤害增加至88%",
+            "zh": "伤害增加至88%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "4042",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "lvtianxiegui",
+    "headKey": "h_lvtianxiegui",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4041",
+      "4042"
+    ]
+  },
+  "unresolvedTokens": []
+}

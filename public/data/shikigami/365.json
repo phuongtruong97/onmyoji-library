@@ -1,0 +1,350 @@
+{
+  "id": 365,
+  "name": {
+    "vi": "Nhập Nội Tước",
+    "en": "Nyunai-suzume",
+    "zh": "入内雀"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[8, 7]",
+    "en": "[8, 7]",
+    "zh": "[8, 7]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2546,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 8202,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 454,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 104,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "9%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3651,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tước Trác",
+        "en": "Sparrow Peck",
+        "zh": "雀啄"
+      },
+      "intro": {
+        "vi": "Lấy chim của ta, đả thương thân ngươi.",
+        "en": "I will command my sparrows to hurt you.",
+        "zh": "以吾之雀，伤汝之身。"
+      },
+      "description": {
+        "vi": "Sai khiến chim sẻ tấn công, gây cho mục tiêu sát thương bằng 50% Tấn công và gây thêm Sát Thương Thực Tế bằng 90% Phòng thủ của bản thân, 40% xác suất hiệp chiến.",
+        "en": "Commands his sparrows to launch an attack on 1 enemy, dealing damage equal to 50% of his ATK and inflicting true damage equal to 90% of his DEF. Has a 40% chance of Assisting.",
+        "zh": "役使麻雀进行攻击，对目标造成攻击50%的伤害并额外造成自身防御90%的真实伤害，40%概率协战。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương phụ thêm tăng lên 60%",
+            "en": "Increases additional damage to 60%.",
+            "zh": "额外伤害增加至60%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương phụ thêm tăng lên 70%",
+            "en": "Increases additional damage to 70%.",
+            "zh": "额外伤害增加至70%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương phụ thêm tăng lên 80%",
+            "en": "Increases additional damage to 80%.",
+            "zh": "额外伤害增加至80%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương phụ thêm tăng lên 90%",
+            "en": "Increases additional damage to 90%.",
+            "zh": "额外伤害增加至90%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3651",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3652,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phụ Thân",
+        "en": "Possess",
+        "zh": "附身"
+      },
+      "intro": {
+        "vi": "Ta có thể thực hiện tâm nguyện của ngươi!",
+        "en": "I can grant your wishes!",
+        "zh": "我能实现你的心愿！"
+      },
+      "description": {
+        "vi": "[tips_11].\n[tips_7]: [tips_3652] đơn vị có Tấn công cao nhất của đồng minh.\nĐơn vị được Phụ Thân khi chịu sát thương chí mạng, miễn nhiễm sát thương lần đó và tiêu hao [tips_3652], khấu trừ HP tối đa hiện tại xuống 1 điểm, nhận lượng [buff_3651_1] tương đương lượng giới hạn HP bị khấu trừ (không vượt quá 4000% Phòng thủ ban đầu của Nhập Nội Tước), sau đó không thể nhận Hủ Huyết nữa. Khi Phụ Thân bị tiêu hao, xác suất hiệp chiến của Nhập Nội Tước nâng lên 100%, đơn vị được Phụ Thân xua tan hoặc [tips_1] tất cả khống chế, tăng 100% Thanh Hành Động.\n【Thi triển】 Chuyển dịch [tips_3652] sang một đơn vị đồng minh khác.",
+        "en": "[tips_11].\n[tips_7]: [tips_3652]es the ally with the highest ATK.\nWhen the possessed unit takes lethal damage, they cease to be [tips_3652]ed, negating the damage, deducting their max HP to 1, and granting them an amount of [buff_3651_1] equal to the amount of max HP deducted (max 4,000% of Nyunai-suzume's starting DEF). Then, they can no longer gain Decayed Blood. When the possessed unit cease to be possessed, increases Nyunai-suzume's chance of Assisting to 100%, dispels or [tips_1]s all controlling effects on them, and raises their Move Bar by 100%.\nActive skill: [tips_3652]es another ally instead.",
+        "zh": "[tips_11]。\n[tips_7]：[tips_3652]友方攻击力最高的单位。\n附身单位受到致命伤害时，免疫该次伤害并消耗[tips_3652]，扣除当前生命上限到1点，获得扣除生命上限等量的[buff_3651_1]（不超过入内雀初始防御4000%），之后无法再获得腐血。附身被消耗时，入内雀协战概率提升至100%附身单位驱散或[tips_1]所有控制，增加100%行动条。\n【施放】转移[tips_3652]到另外一个友方单位。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Đơn vị được Phụ Thân nhận Phòng thủ ban đầu của Nhập Nội Tước (tối đa không quá 100% Phòng thủ ban đầu của bản thân đơn vị đó)",
+            "en": "The possessed unit gains DEF equal to Nyunai-suzume's starting DEF (max 100% of the unit's starting DEF).",
+            "zh": "附身单位会获得入内雀的初始防御（最多不超过该单位自身初始防御100%）"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Đơn vị được Phụ Thân nhận Phòng thủ ban đầu của Nhập Nội Tước (tối đa không quá 100% Phòng thủ ban đầu của bản thân đơn vị đó)",
+            "en": "The possessed unit gains DEF equal to Nyunai-suzume's starting DEF (max 100% of the unit's starting DEF).",
+            "zh": "附身单位会获得入内雀的初始防御（最多不超过该单位自身初始防御100%）"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Nhập Nội Tước nhận Tấn công ban đầu của đơn vị được Phụ Thân (tối đa không quá 100% Tấn công ban đầu của bản thân)",
+            "en": "Nyunai-suzume gains ATK equal to the possessed unit's starting ATK (max 100% of his own starting ATK).",
+            "zh": "入内雀获得附身单位的初始攻击（最多不超过自身初始攻击100%）"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Nhập Nội Tước nhận Tấn công ban đầu của đơn vị được Phụ Thân (tối đa không quá 100% Tấn công ban đầu của bản thân)",
+            "en": "Nyunai-suzume gains ATK equal to the possessed unit's starting ATK (max 100% of his own starting ATK).",
+            "zh": "入内雀获得附身单位的初始攻击（最多不超过自身初始攻击100%）"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi Phụ Thân bị tiêu hao, xác suất hiệp chiến của Nhập Nội Tước nâng lên 100%",
+            "en": "When the possessed unit ceases to be possessed, increases Nyunai-suzume's chance of Assisting to 100%.",
+            "zh": "附身被消耗时，入内雀协战概率提升至100%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi Phụ Thân bị tiêu hao, xác suất hiệp chiến của Nhập Nội Tước nâng lên 100%",
+            "en": "When the possessed unit ceases to be possessed, increases Nyunai-suzume's chance of Assisting to 100%.",
+            "zh": "附身被消耗时，入内雀协战概率提升至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Phụ Thân bị tiêu hao, đơn vị được Phụ Thân xua tan hoặc [tips_1] tất cả khống chế, tăng 100% Thanh Hành Động",
+            "en": "When the possessed unit ceases to be possessed, dispels or [tips_1]s all controlling effects on them and raises their Move Bar by 100%.",
+            "zh": "附身被消耗时，附身单位驱散或[tips_1]所有控制，增加100%行动条"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Phụ Thân bị tiêu hao, đơn vị được Phụ Thân xua tan hoặc [tips_1] tất cả khống chế, tăng 100% Thanh Hành Động",
+            "en": "When the possessed unit ceases to be possessed, dispels or [tips_1]s all controlling effects on them and raises their Move Bar by 100%.",
+            "zh": "附身被消耗时，附身单位驱散或[tips_1]所有控制，增加100%行动条"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3652",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3653,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hủ Hóa",
+        "en": "Decay",
+        "zh": "腐化"
+      },
+      "intro": {
+        "vi": "Đây chính là túc mệnh của ngươi!",
+        "en": "This is your destiny!",
+        "zh": "这便是你的宿命！"
+      },
+      "description": {
+        "vi": "Khấu trừ giới hạn HP của mục tiêu đồng minh bằng 1000% Phòng thủ ban đầu của Nhập Nội Tước, đồng thời nhận lượng [buff_3651_1] tương đương (không vượt quá 50% giới hạn HP của mục tiêu).\nKhông thể thi triển lên đồng minh đã có [buff_3651_1]. Đồng minh mỗi khi có 1 đơn vị nhận Hủ Huyết, tăng 10 điểm Tốc độ, 20% Kháng Hiệu Ứng và giảm 10% sát thương gánh chịu cho bản thân",
+        "en": "Deducts the max HP of 1 ally equal to 1,000% of Nyunai-suzume's starting DEF and grants them an equal amount of [buff_3651_1] (max 50% of the ally's max HP)\nUnable to use it on allies with [buff_3651_1]. Each ally with Decayed Blood increases his own SPD by 10, his own Effect RES by 20%, and reduces his own damage taken by 10%.",
+        "zh": "扣除友方目标入内雀初始防御1000%的生命上限，并获得等量[buff_3651_1]（不超过目标生命上限50%）。\n无法对拥有[buff_3651_1]的友方进行施放。友方每有一个单位获得腐血提升自身10点速度、20%效果抵抗并且受到的伤害降低10%"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Đồng minh mỗi khi có 1 đơn vị nhận Hủ Huyết, tăng 10 điểm Tốc độ cho bản thân",
+            "en": "Each ally with Decayed Blood increases his own SPD by 10.",
+            "zh": "友方每有一个单位获得腐血提升自身10点速度"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng minh mỗi khi có 1 đơn vị nhận Hủ Huyết, tăng 20% Kháng Hiệu Ứng cho bản thân",
+            "en": "Each ally with Decayed Blood increases his own Effect RES by 20%.",
+            "zh": "友方每有一个单位获得腐血提升自身20%效果抵抗"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng Hủ Huyết nâng lên giới hạn HP bằng 2000% Phòng thủ của Nhập Nội Tước",
+            "en": "Increases Decayed Blood's effect to 2,000% of Nyunai-suzume's DEF.",
+            "zh": "腐血效果提升至入内雀防御2000%的生命上限"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đồng minh mỗi khi có 1 đơn vị nhận Hủ Huyết, sát thương gánh chịu của bản thân giảm 10%",
+            "en": "Each ally with Decayed Blood reduces his own damage taken by 10%.",
+            "zh": "友方每有一个单位获得腐血自身受到的伤害降低10%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3653",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "runeique",
+    "headKey": "h_runeique",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3651",
+      "3652",
+      "3653"
+    ]
+  },
+  "unresolvedTokens": []
+}

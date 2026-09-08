@@ -1,0 +1,302 @@
+{
+  "id": 599,
+  "name": {
+    "vi": "Thực Nguyệt Hấp Huyết Cơ",
+    "en": "Moonclipse Vampira",
+    "zh": "蚀月吸血姬"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 38]",
+    "en": "[1, 38]",
+    "zh": "[1, 38]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3216,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10936,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 441,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 115,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5991,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bức Kích",
+        "en": "Bat Strike",
+        "zh": "蝠击"
+      },
+      "intro": {
+        "vi": "Từ giờ trở đi, ngươi là con mồi của ta.",
+        "en": "From now on, you're my prey.",
+        "zh": "从现在起，你是我的猎物。"
+      },
+      "description": {
+        "vi": "Triệu hồi 1 con [tips_5991] tấn công mục tiêu kẻ địch, gây sát thương bằng 75% Tấn công, đồng thời kèm theo 100% hiệu ứng Hút Máu.",
+        "en": "Summons 1 [tips_5991] to attack an enemy, dealing damage equal to 75% of ATK and inflicting 100% HP Steal.",
+        "zh": "召唤1只[tips_5991]攻击敌方目标，造成攻击75%伤害，并附带100%吸血效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害提升至80%",
+            "en": "伤害提升至80%",
+            "zh": "伤害提升至80%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害提升至85%",
+            "en": "伤害提升至85%",
+            "zh": "伤害提升至85%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害提升至90%",
+            "en": "伤害提升至90%",
+            "zh": "伤害提升至90%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害提升至100%",
+            "en": "伤害提升至100%",
+            "zh": "伤害提升至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5991",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5992,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tẩm Tức",
+        "en": "Slumbering Breath",
+        "zh": "寐息"
+      },
+      "intro": {
+        "vi": "Một đêm mê đắm và đỏ thẫm, đang chờ khởi màn.",
+        "en": "A captivating crimson night is about to unfold.",
+        "zh": "一个迷人而猩红的夜晚，正待启幕。"
+      },
+      "description": {
+        "vi": "[tips_11].\nMỗi khi nhận tăng giới hạn HP, Tốc độ tăng 20 điểm, sát thương gánh chịu giảm 8%, [tips_15] 1 lượt. (（tối đa 5 tầng))\n【Thi triển】 [tips_20] lượng HP bằng 200% Tấn công ban đầu và triệu hồi 2 con [tips_5991].",
+        "en": "[tips_11].\nEach time max HP increases, SPD increases by 20 and damage taken decreases by 8%, [tips_15] for 1 turn ((up to 5 stacks)).\n[Cast]: [tips_20] HP equal to 200% of starting ATK and summons 2 [tips_5991].",
+        "zh": "[tips_11]。\n每次获得生命上限提升时，速度提升20点、受到伤害降低8%，[tips_15]1回合。(（至多5层）)\n【施放】[tips_20]初始攻击200%的生命并召唤2只[tips_5991]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi HP của mục tiêu kẻ địch không phải vật triệu hồi giảm quá 25%, triệu hồi 1 con dơi tấn công kẻ địch",
+            "en": "When an enemy non-summoned entity's HP drops by more than 25%, summons 1 Bat to attack the enemy.",
+            "zh": "敌方非召唤物目标的生命降低超过25%时，召唤1只蝙蝠攻击敌方"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi đồng minh không phải vật triệu hồi tử trận, triệu hồi 2 con dơi tấn công nguồn gây sát thương",
+            "en": "When a non-summoned entity ally is KO'd, summons 2 Bats to attack the damage source.",
+            "zh": "友方非召唤物阵亡时，召唤2只蝙蝠攻击伤害来源"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Bản thân sau khi bị tấn công, triệu hồi 1 con dơi tấn công nguồn gây sát thương",
+            "en": "After being attacked, summons 1 Bat to attack the damage source.",
+            "zh": "自身受到攻击后，召唤1只蝙蝠攻击伤害来源"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Thi triển kỹ năng tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "Reduces skill orb cost by 1.",
+            "zh": "施放技能鬼火消耗减少1点"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5992",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5993,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nguyệt Nhiễm U Hồng",
+        "en": "Bloodmoon Veil",
+        "zh": "月染幽红"
+      },
+      "intro": {
+        "vi": "Thỏa thích bay lượn đi, chúng ta chính là màn đêm.",
+        "en": "Fly freely, for we are the night.",
+        "zh": "恣意而飞吧，我们即是黑夜。"
+      },
+      "description": {
+        "vi": "Phi nguyệt lơ lửng trên không, đêm dài đã đến, triệu hồi 3 con dơi tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 75% Tấn công, đồng thời kèm theo 100% hiệu ứng Hút Máu.",
+        "en": "As the crimson moon ascends, the long night begins. Summons 3 Bats to attack an enemy target 3 times, each strike dealing damage equal to 75% of ATK, while inflicting 100% HP Steal.",
+        "zh": "绯月凌空，长夜已至，召唤3只蝙蝠攻击敌方目标3次，每次造成攻击75%伤害，并附带100%吸血效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害提升至80%",
+            "en": "伤害提升至80%",
+            "zh": "伤害提升至80%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害提升至90%",
+            "en": "伤害提升至90%",
+            "zh": "伤害提升至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害提升至100%",
+            "en": "伤害提升至100%",
+            "zh": "伤害提升至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi thức thần phe địch tử trận, triệu hồi [tips_5994] chiếm vị trí phe địch (（hiệu ứng duy nhất))",
+            "en": "When an enemy shikigami is KO'd, summons a [tips_5994] to occupy the enemy spot. ((Exclusive effect)).",
+            "zh": "敌方式神阵亡时，召唤[tips_5994]占据敌方位置(（唯一效果）)"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5993",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_xixueji",
+    "headKey": "h_sp_xixue",
+    "armature": [
+      "common_card_skin/2601_sp_xxj_card_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_shiyuexixueji",
+    "skillIconKeys": [
+      "5991",
+      "5992",
+      "5993"
+    ]
+  },
+  "unresolvedTokens": []
+}

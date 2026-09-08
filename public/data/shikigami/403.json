@@ -1,0 +1,220 @@
+{
+  "id": 403,
+  "name": {
+    "vi": "Đường Chỉ Tán Yêu",
+    "en": "Umbrella",
+    "zh": "唐纸伞妖"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4031,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ta Đỉnh!",
+        "en": "Pointy Point",
+        "zh": "我顶！"
+      },
+      "intro": {
+        "vi": "Ta đỉnh! Vẫn chưa chịu rút lui sao?",
+        "en": "Do you get my point? Huh?",
+        "zh": "我顶！还不退散？"
+      },
+      "description": {
+        "vi": "Nhảy tới dùng đầu ô húc vào mục tiêu kẻ địch, gây sát thương 125%.",
+        "en": "Leaps at 1 enemy and stabs them, dealing damage equal to 125% of her ATK.",
+        "zh": "跳过去用伞尖顶撞敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4031",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 4032,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Hoàn Địa Trực",
+        "en": "Spinning Whirl",
+        "zh": "天旋地转"
+      },
+      "intro": {
+        "vi": "Xem tài của ta đây! Hừm... đầu, đầu chóng mặt quá...",
+        "en": "Watch me go! Urgh... I'm -- so dizzy...",
+        "zh": "看我的厉害！唔……头、头好晕……"
+      },
+      "description": {
+        "vi": "Nhảy vào giữa sân đấu, vừa xoay tròn vừa hù dọa kẻ địch, gây sát thương 129% cho toàn thể kẻ địch.",
+        "en": "Jumps to the middle of the battlefield and spins around to frighten the enemy, dealing damage equal to 129% of her ATK to all enemies.",
+        "zh": "跳到场地中央，一边转圈一边恐吓敌人，对敌方全体造成攻击129%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至114%",
+            "en": "伤害增加至114%",
+            "zh": "伤害增加至114%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至119%",
+            "en": "伤害增加至119%",
+            "zh": "伤害增加至119%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至124%",
+            "en": "伤害增加至124%",
+            "zh": "伤害增加至124%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至129%",
+            "en": "伤害增加至129%",
+            "zh": "伤害增加至129%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "4032",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "tangzhisanyao",
+    "headKey": "h_tangzhisanyao",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4031",
+      "4032"
+    ]
+  },
+  "unresolvedTokens": []
+}

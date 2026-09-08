@@ -1,0 +1,373 @@
+{
+  "id": 264,
+  "name": {
+    "vi": "Bạch Lang",
+    "en": "Hakuro",
+    "zh": "白狼"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2814,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9683,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 102,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2641,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Văn Xạ",
+        "en": "Perfect Shot",
+        "zh": "文射"
+      },
+      "intro": {
+        "vi": "Bạch Lang, trình diện~!",
+        "en": "Don't you dare call me Cupid...",
+        "zh": "白狼，参上~！"
+      },
+      "description": {
+        "vi": "Bắn ra mũi tên đã rót yêu lực tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Shoots an arrow imbued with magical power at 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "射出注入了妖力的箭矢攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2641",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2642,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Minh Tưởng",
+        "en": "Meditation",
+        "zh": "冥想"
+      },
+      "intro": {
+        "vi": "Loại bỏ tạp niệm, tập trung một lòng.",
+        "en": "Dispense with distracting thoughts and focus the mind.",
+        "zh": "摈除杂念，专心一志。"
+      },
+      "description": {
+        "vi": "Khi kết thúc lượt, nếu Bạch Lang chưa tiến vào trạng thái Hồi Khí, liền tiến vào trạng thái Minh Tưởng. Trong trạng thái Minh Tưởng tăng 20% Sát Thương Bạo Kích cho đến khi kết thúc lượt tiếp theo. Đồng thời tạo ra một ảnh phân thân không thể bị tấn công, khi Bạch Lang bị tấn công, ảnh phân thân có 30% xác suất chống đỡ toàn bộ sát thương đơn thể.",
+        "en": "At the end of her turn, if Hakuro is not in a recharging state, she enters a meditative state. While in the meditative state, her Crit DMG is increased by 20% until the end of her next turn. Also creates a shadow double that cannot be attacked. When Hakuro is attacked, the shadow double has a 30% chance of blocking all single-target damage.",
+        "zh": "回合结束时，若白狼未进入回气状态，则进入冥想状态。冥想状态下提升20%暴击伤害直至下一回合结束。并制造一个不可被攻击的影分身，白狼被攻击时，影分身有30%概率抵挡全部单体伤害。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "2642",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2643,
+      "maxLevel": 8,
+      "name": {
+        "vi": "Vô Ngã",
+        "en": "Non-Self",
+        "zh": "无我"
+      },
+      "intro": {
+        "vi": "Vậy thì, tại hạ không khách khí nữa!",
+        "en": "You don't have to thank me!",
+        "zh": "那么，在下就不客气了！"
+      },
+      "description": {
+        "vi": "Tiến vào cảnh giới Vô Ngã, bắn ra mũi tên rót toàn bộ yêu lực, khiến lần tấn công này tăng 30% Bạo kích, gây cho mục tiêu kẻ địch sát thương bằng 150% Tấn công.",
+        "en": "Channels all of her energy into an arrow, increasing the Crit of the attack by 30% before dealing damage equal to 150% of her ATK.",
+        "zh": "进入无我之境，射出注入全部妖力的箭矢，使此次攻击提升30%暴击，对敌方目标造成攻击150%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至249%",
+            "en": "伤害增加至249%",
+            "zh": "伤害增加至249%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至249%",
+            "en": "伤害增加至249%",
+            "zh": "伤害增加至249%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至249%",
+            "en": "伤害增加至249%",
+            "zh": "伤害增加至249%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至261%",
+            "en": "伤害增加至261%",
+            "zh": "伤害增加至261%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至261%",
+            "en": "伤害增加至261%",
+            "zh": "伤害增加至261%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至261%",
+            "en": "伤害增加至261%",
+            "zh": "伤害增加至261%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至273%",
+            "en": "伤害增加至273%",
+            "zh": "伤害增加至273%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至273%",
+            "en": "伤害增加至273%",
+            "zh": "伤害增加至273%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至273%",
+            "en": "伤害增加至273%",
+            "zh": "伤害增加至273%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至285%",
+            "en": "伤害增加至285%",
+            "zh": "伤害增加至285%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至285%",
+            "en": "伤害增加至285%",
+            "zh": "伤害增加至285%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至285%",
+            "en": "伤害增加至285%",
+            "zh": "伤害增加至285%"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "伤害增加至285%",
+            "en": "伤害增加至285%",
+            "zh": "伤害增加至285%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2643",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 7,
+          "awakeFilter": 2
+        },
+        {
+          "level": 8,
+          "awakeFilter": 2
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "bailang",
+    "headKey": "h_bailang",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2641",
+      "2642",
+      "2643"
+    ]
+  },
+  "unresolvedTokens": []
+}

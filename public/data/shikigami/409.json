@@ -1,0 +1,171 @@
+{
+  "id": 409,
+  "name": {
+    "vi": "Đồ Bích",
+    "en": "Nurikabe",
+    "zh": "涂壁"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[38]",
+    "en": "[38]",
+    "zh": "[38]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4091,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Địa Thần",
+        "en": "Earthquake",
+        "zh": "地震"
+      },
+      "intro": {
+        "vi": "Uống……!",
+        "en": "Argh!",
+        "zh": "喝……！"
+      },
+      "description": {
+        "vi": "Lao đến tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Charges at an enemy, dealing damage equal to 125% of its ATK.",
+        "zh": "冲过去攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4091",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 4092,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Kiên Bích",
+        "en": "Defensive Wall",
+        "zh": "坚壁"
+      },
+      "intro": {
+        "vi": "Cơ thể của ta vô cùng kiên cố.",
+        "en": "I'm as tough as they come.",
+        "zh": "我的身体，可是很坚固的。"
+      },
+      "description": {
+        "vi": "Giúp toàn bộ đồng minh nhận [buff_4093_1], duy trì 2 lượt.",
+        "en": "Grants [buff_4093_1] lasting 2 turn(s) on all enemies.",
+        "zh": "使友方全体获得[buff_4093_1]，持续2回合。"
+      },
+      "upgrades": [],
+      "orbCost": 2,
+      "iconKey": "4092",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "tubi",
+    "headKey": "h_tubi",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4091",
+      "4092"
+    ]
+  },
+  "unresolvedTokens": []
+}

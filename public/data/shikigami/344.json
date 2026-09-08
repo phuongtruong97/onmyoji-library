@@ -1,0 +1,255 @@
+{
+  "id": 344,
+  "name": {
+    "vi": "Vân Ngoại Kính",
+    "en": "Ungaikyo",
+    "zh": "云外镜"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 12, 21]",
+    "en": "[1, 12, 21]",
+    "zh": "[1, 12, 21]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2760,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 7518,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 454,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3444,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lạc Ảnh",
+        "en": "Falling Shadow",
+        "zh": "落影"
+      },
+      "intro": {
+        "vi": "Ta đã xác định rằng, trong mắt toàn là ác ý tràn trề.",
+        "en": "I believe I see evil everywhere I look.",
+        "zh": "我已确信，眼目以内恶意满盈。"
+      },
+      "description": {
+        "vi": "Dùng sức mạnh hỗn mang tấn công mục tiêu kẻ địch, gây 125% sát thương.\nKhi ở trạng thái Dương, kỹ năng thay thế thành 『[skill_3441_1]』, cấp độ tăng theo cường hóa kỹ năng 『Lạc Ảnh』.",
+        "en": "Casts the power of chaos at 1 enemy, dealing damage equal to 125% of his ATK.\nWhen he's in Yang state, this is changed to [skill_3441_1], with its skill level equal to the skill level of Falling Shadow.",
+        "zh": "以混沌之力攻击敌方目标，造成攻击125%伤害。\n处于阳状态时，技能替换为『[skill_3441_1]』，等级随『落影』技能强化。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3444",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3445,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Đấu Chuyển",
+        "en": "Shifting of the Sky",
+        "zh": "斗转"
+      },
+      "intro": {
+        "vi": "Bình minh rạng rỡ, vạn vật bừng tỉnh.",
+        "en": "The dawn breaks and the world wakes up for the first time.",
+        "zh": "破晓晨曦，万物初醒。"
+      },
+      "description": {
+        "vi": "Vân Ngoại Kính ở trạng thái [tips_3443], trong gương cách ly lẫn nhau, có thể chuyển đổi giữa các trạng thái [tips_3442], giá trị HP của trạng thái Âm Dương bổ sung cho nhau, ban đầu mỗi bên một nửa, nhận khiên gương khi bắt đầu chiến đấu.\n【[Thi triển]】 Bước vào trạng thái Dương và [tips_3933] đến giá trị HP Dương, đồng thời tăng 100 điểm tốc độ cho bản thân, duy trì 1 lượt; đồng thời nhận khiên gương, tiêu hao Quỷ Hỏa vĩnh viễn +2 sau mỗi lần [Thi triển].\nKhi ở trạng thái Dương, kỹ năng thay thế thành 『[skill_3442_1]』.",
+        "en": "Ungaikyo lives in the [tips_3443] where his two faces are independent of each other. He can change between his [tips_3442] states. His starting HP is halved. His HP in Yin and Yang state compliment each other. He gains Mirror Shield to protect himself at the start of battle.\nActive skill: Enters the Yang state and [tips_3933]s his HP by turning it into the Yang state's HP. Also increases his SPD by 100 for 1 turn. He also gains Mirror Shield to protect himself. Using the skill increases the orb cost by +2 indefinitely each time.\nWhen he's in Yang state, the skill is changed to [skill_3442_1].",
+        "zh": "云外镜处于[tips_3443]，镜中相互隔绝，可于[tips_3442]状态间转换，阴阳状态的生命值互补，初始各一半，在战斗开始获得镜盾。\n【施放】进入阳状态并[tips_3933]至阳生命值，同时提升自身100点速度，持续1回合；并获得镜盾，每次施放后鬼火消耗永久+2。\n处于阳状态时，技能替换为『[skill_3442_1]』。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "3445",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3446,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vân Ngạn Tịnh Không",
+        "en": "World Purge",
+        "zh": "云岸净空"
+      },
+      "intro": {
+        "vi": "Quét sạch trần thế ô uế, chớ vướng bụi trần.",
+        "en": "Dust regularly to avoid it accumulating.",
+        "zh": "时时拂拭，勿惹尘埃。"
+      },
+      "description": {
+        "vi": "Quét sạch ô uế thế gian, gây 145% sát thương cho toàn thể kẻ địch, có 100% [tips_2] đính kèm [buff_3447_1] lên mục tiêu, duy trì đến khi kết thúc hồi, sau đó Hắc Liên rơi từ trời xuống tấn công mục tiêu kẻ địch, gây 145% sát thương, cứ mỗi 30% tỷ lệ HP Âm giảm đi, truy kích thêm 1 đoạn sát thương hắc liên.\nKhi ở trạng thái Dương, kỹ năng thay thế thành 『[skill_3443_1]』, cấp độ tăng theo cường hóa kỹ năng 『Vân Ngạn Tịnh Không』.",
+        "en": "To cleanse all filth from the world, he attacks all enemies, dealing damage equal to 145% of his ATK. Has a 100% [tips_2] of inflicting [buff_3447_1] on all enemies, lasting until the round ends. He then sends a Black Lotus plunging upon 1 enemy, dealing damage equal to 145% of his ATK. For every 30% HP reduced when he's in Yin state, inflicts additional Black Lotus damage.\nWhen he's in Yang state, this skill is changed to [skill_3443_1] with a skill level equal to his World Purge skill level.",
+        "zh": "清扫世间污秽，对敌方全体造成攻击145%伤害，有100%[tips_2]对其附加[buff_3447_1]，持续至回目结束，然后天坠黑莲攻击敌方目标，造成攻击145%伤害，阴生命比例每降低30%，额外追加一段黑莲伤害。\n处于阳状态时，技能替换为『[skill_3443_1]』，等级随『云岸净空』技能强化。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương quét sạch và hắc liên tăng đến 135%.",
+            "en": "Increases the damage of both Cleansing and Black Lotus to 135%.",
+            "zh": "清扫和黑莲伤害增加至135%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương quét sạch và hắc liên tăng đến 139%.",
+            "en": "Increases the damage of both Cleansing and Black Lotus to 139%.",
+            "zh": "清扫和黑莲伤害增加至139%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương quét sạch và hắc liên tăng đến 145%.",
+            "en": "Increases the damage of both Cleansing and Black Lotus to 145%.",
+            "zh": "清扫和黑莲伤害增加至145%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Cứ mỗi 30% tỷ lệ HP Âm giảm đi, truy kích thêm 1 đoạn sát thương hắc liên.",
+            "en": "For each 30% HP reduced when he's in Yin state, inflicts an additional stage of Black Lotus.",
+            "zh": "阴生命比例每降低30%，额外追加一段黑莲伤害"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3446",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yunwaijing",
+    "headKey": "j_yunwaijing_hei",
+    "armature": "",
+    "artName": "txt_zhanshi_yunwaijing",
+    "skillIconKeys": [
+      "3444",
+      "3445",
+      "3446"
+    ]
+  },
+  "unresolvedTokens": [
+    "skill_3442_1"
+  ]
+}

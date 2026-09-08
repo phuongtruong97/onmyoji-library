@@ -1,0 +1,274 @@
+{
+  "id": 263,
+  "name": {
+    "vi": "Nhị Khẩu Nữ",
+    "en": "Futakuchi",
+    "zh": "二口女"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2358,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10366,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 106,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2631,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bất Ngờ Tập Kích",
+        "en": "Surprise Attack",
+        "zh": "意外袭击"
+      },
+      "intro": {
+        "vi": "Hì hì~ A, ta chỉ muốn chào hỏi ngươi thôi...",
+        "en": "I just want to show my respect!",
+        "zh": "嘻嘻～啊，我只是想和你问好……"
+      },
+      "description": {
+        "vi": "Khi cúi đầu chào hỏi, yêu linh trên đầu thừa cơ tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công.",
+        "en": "Bows her head in respect and the malicious entity on the back of her head seizes the opportunity to attack 1 enemy, dealing damage equal to 120% of her ATK.",
+        "zh": "低头问好时，头上的妖灵乘机攻击敌方目标，造成攻击120%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2631",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2632,
+      "maxLevel": 3,
+      "name": {
+        "vi": "Nỗi Sợ",
+        "en": "Fear",
+        "zh": "恐惧"
+      },
+      "intro": {
+        "vi": "Đừng mà! Đừng qua đây!",
+        "en": "No! Stay back!",
+        "zh": "不要！别过来！"
+      },
+      "description": {
+        "vi": "Khi phe ta hành động, có 100% xác suất giúp bản thân nhận 1 tầng [buff_2632_1], giới hạn 10 tầng.\n[tips_7]: Nhận 10 tầng [buff_2632_1].",
+        "en": "When an ally takes action, has a 100% chance of gaining herself a layer of [buff_2632_1] stacking up to 10 layers.\n[tips_7]: Gains 10 layers of [buff_2632_1].",
+        "zh": "在友方行动时，有100%概率使自身获得1层[buff_2632_1]，上限10层。\n[tips_7]：获得10层[buff_2632_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "此技能无法升级",
+            "en": "此技能无法升级",
+            "zh": "此技能无法升级"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2632",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2633,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Yêu Ý",
+        "en": "Apology",
+        "zh": "歉意"
+      },
+      "intro": {
+        "vi": "Ta, ta không cố ý đâu! Xin lỗi!",
+        "en": "I- I didn't mean to do it. I'm sorry!",
+        "zh": "我、我不是故意的！对不起！"
+      },
+      "description": {
+        "vi": "Tiêu hao tất cả [buff_2632_1], tấn công 2 lần, mỗi lần gây cho mục tiêu kẻ địch ngẫu nhiên sát thương bằng 63% Tấn công, mỗi tiêu hao 1 tầng [buff_2632_1] có thể tăng 1 lần số lần tấn công.",
+        "en": "Spends all her [buff_2632_1] to inflict a 2-strike attack, dealing damage equal to 63% of her ATK to a random enemy on each strike. Each layer of [buff_2632_1] spent inflicts 1 follow-up attack.",
+        "zh": "消耗所有[buff_2632_1]，攻击2次，每次对随机敌方目标造成攻击63%伤害，每消耗1层[buff_2632_1]可增加1次攻击次数。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至54%",
+            "en": "伤害增加至54%",
+            "zh": "伤害增加至54%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至57%",
+            "en": "伤害增加至57%",
+            "zh": "伤害增加至57%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至60%",
+            "en": "伤害增加至60%",
+            "zh": "伤害增加至60%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至63%",
+            "en": "伤害增加至63%",
+            "zh": "伤害增加至63%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2633",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "erkounv",
+    "headKey": "h_erkounv",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2631",
+      "2632",
+      "2633"
+    ]
+  },
+  "unresolvedTokens": []
+}

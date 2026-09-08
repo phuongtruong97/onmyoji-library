@@ -1,0 +1,350 @@
+{
+  "id": 369,
+  "name": {
+    "vi": "Thực Linh",
+    "en": "Shokurei",
+    "zh": "食灵"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 37, 9]",
+    "en": "[1, 37, 9]",
+    "zh": "[1, 37, 9]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2760,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3691,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Khai Oa",
+        "en": "Stir Wok",
+        "zh": "开锅"
+      },
+      "intro": {
+        "vi": "Hoan nghênh quý khách, muốn dùng gì nào?",
+        "en": "Welcome. What can I get you?",
+        "zh": "欢迎光临，想吃点什么？"
+      },
+      "description": {
+        "vi": "Điều khiển thần lửa mở nồi, gây 125% sát thương tấn công cho mục tiêu kẻ địch, nếu thi triển ngoài lượt, đốt cháy kẻ địch và đính kèm 20% dễ bị tổn thương cho chúng.",
+        "en": "Stirs his divine wok to attack enemies, dealing damage equal to 125% of his ATK. Using the skill outside a turn also burns the enemy, inflicting 20% Vulnerability on them.",
+        "zh": "操控神火开锅，对敌方目标造成攻击125%伤害，若在回合外施放，灼伤敌方，为其附加20%易伤。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sơ sút tăng đến 125%, nếu thi triển ngoài lượt, đốt cháy kẻ địch, đính kèm 20% dễ bị tổn thương cho chúng, duy trì 2 lượt.",
+            "en": "Increases damage to 125%. Using the skill outside the turn also burns the enemy, inflicting 20% Vulnerability on them for 2 turns.",
+            "zh": "伤害增加至125%，若在回合外施放，灼伤敌方，为其附加20%易伤，持续2回合"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3691",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3692,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nhiệt Lãng",
+        "en": "Heat Wave",
+        "zh": "热浪"
+      },
+      "intro": {
+        "vi": "Phù Hoa Tuần Vị, Xuất Nhận Vu Tâm.",
+        "en": "Luxurious cuisine, made with love.",
+        "zh": "浮华旬味，出刃于心。"
+      },
+      "description": {
+        "vi": "Dùng nhiệt huyết và món ăn để cổ vũ toàn thể đồng minh, giúp sát thương gây ra ngoài lượt tăng 50%, đồng minh có sát thương bạo kích ban đầu cao nhất sẽ nhận thêm 30% xác suất hiệp chiến và khi hành động nếu chọn mục tiêu kẻ địch, Thực Linh sẽ dùng đòn đánh thường để trợ chiến.\nMỗi khi mục tiêu đồng minh bước vào [buff_3694_1], tài nghệ nấu nướng của Thực Linh được công nhận, tấn công tăng 30%, cộng dồn tối đa 5 lần.",
+        "en": "Inspires all allies with their passion and cuisine, increasing damage dealt outside the turn by 50%. The ally with the highest starting Crit DMG gains an additional 30% chance of Assisting, and when they take action, if they're targeting an enemy, Shokurei attacks together by launching a normal attack.\nWhen an ally has a [buff_3694_1], Shokurei's skill is recognized, increasing their ATK by 30%. Can stack up to 5 times.",
+        "zh": "用热情与料理激励全体友方，使回合外造成的伤害增加50%，初始暴击伤害最高的友方额外获得30%概率协战且行动时若选择敌方目标，食灵使用普攻进行助战。\n每当友方目标进入[buff_3694_1]时，食灵的厨艺受到认可，攻击提升30%，最多叠加5次。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương gây ra ngoài lượt tăng đến 40%.",
+            "en": "Boosts damage by 40% on others' turns.",
+            "zh": "回合外造成的伤害增加至40%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương gây ra ngoài lượt tăng đến 40%.",
+            "en": "Boosts damage by 40% on others' turns.",
+            "zh": "回合外造成的伤害增加至40%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng minh có sát thương bạo kích ban đầu cao nhất nhận thêm 30% xác suất hiệp chiến.",
+            "en": "The ally with the highest starting Crit DMG gains an additional 30% chance of Assisting.",
+            "zh": "初始暴击伤害最高的友方额外获得30%协战概率"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng minh có sát thương bạo kích ban đầu cao nhất nhận thêm 30% xác suất hiệp chiến.",
+            "en": "The ally with the highest starting Crit DMG gains an additional 30% chance of Assisting.",
+            "zh": "初始暴击伤害最高的友方额外获得30%协战概率"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương gây ra ngoài lượt tăng đến 50%.",
+            "en": "Boosts damage by 50% on others' turns.",
+            "zh": "回合外造成的伤害增加至50%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương gây ra ngoài lượt tăng đến 50%.",
+            "en": "Boosts damage by 50% on others' turns.",
+            "zh": "回合外造成的伤害增加至50%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đồng minh có sát thương bạo kích ban đầu cao nhất nếu chọn mục tiêu đơn lẻ là kẻ địch trong lượt, Thực Linh sẽ dùng đòn đánh thường để trợ chiến.",
+            "en": "When the ally with the highest starting Crit DMG targets an enemy in their turn, Shokurei will also launch a normal attack.",
+            "zh": "初始暴击伤害最高的友方回合内若选择敌方单体目标，食灵使用普攻进行助战"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đồng minh có sát thương bạo kích ban đầu cao nhất nếu chọn mục tiêu đơn lẻ là kẻ địch trong lượt, Thực Linh sẽ dùng đòn đánh thường để trợ chiến.",
+            "en": "When the ally with the highest starting Crit DMG targets an enemy in their turn, Shokurei will also launch a normal attack.",
+            "zh": "初始暴击伤害最高的友方回合内若选择敌方单体目标，食灵使用普攻进行助战"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3692",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3693,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mơ Ước Mỹ Vị",
+        "en": "Dream Cuisine",
+        "zh": "梦想料理"
+      },
+      "intro": {
+        "vi": "Quý khách đợi lâu rồi, xin mời thưởng thức!",
+        "en": "Sorry to keep you waiting. Here's your order!",
+        "zh": "您久等了，请品尝！"
+      },
+      "description": {
+        "vi": "Chuẩn bị món ăn mơ ước cho mục tiêu đồng minh, khiến họ bước vào trạng thái [buff_3693_1], duy trì 1 lượt; mục tiêu đồng minh ở trạng thái [buff_3693_1] sẽ ăn thức ăn sau khi kết thúc lượt, kết thúc [buff_3693_1] và bước vào [buff_3694_1].\nKhông thể thi triển lên bản thân và mục tiêu đồng minh đang ở trạng thái [buff_3693_1].",
+        "en": "Prepares a Dream Cuisine for 1 ally and serves them a [buff_3693_1] for 1 turn. At the end of their turn, the ally will finish their food and [buff_3693_1] and have a [buff_3694_1].\nCannot be used on self or allies with [buff_3693_1].",
+        "zh": "为友方目标准备梦想料理，使其进入[buff_3693_1]状态，持续1个回合；[buff_3693_1]状态的友方目标回合结束后吃下食物，结束[buff_3693_1]并进入[buff_3694_1]。\n无法对自身和已经处于[buff_3693_1]状态的友方目标施放。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "消耗鬼火减少1点",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi đồng minh ăn thức ăn, nhận [buff_3696_1], duy trì 1 lượt.",
+            "en": "When an ally finishes their food, grants [buff_3696_1] lasting 1 turn.",
+            "zh": "友方吃下食物时，获得[buff_3696_1]，持续1个回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi đồng minh ăn thức ăn, hồi phục lượng HP bằng 78% tấn công của Thực Linh cho toàn thể đồng minh.",
+            "en": "When an ally finishes their food, recovers the HP of all allies by 78% of Shokurei's ATK.",
+            "zh": "友方吃下食物时，为全体友方恢复食灵攻击78%的生命"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Ứng với mỗi 1 mục tiêu kẻ địch, Hưởng Thực sẽ đính kèm thêm 66% sát thương chuẩn dựa trên tấn công của Thực Linh.",
+            "en": "For each enemy on the battlefield, Feast inflicts additional True Damage equal to 66% of Shokurei's ATK.",
+            "zh": "敌方每有1个目标，飨食额外附加食灵攻击66%的真实伤害"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3693",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "shiling",
+    "headKey": "h_shiling",
+    "armature": "",
+    "artName": "txt_zhanshi_shiling",
+    "skillIconKeys": [
+      "3691",
+      "3692",
+      "3693"
+    ]
+  },
+  "unresolvedTokens": []
+}

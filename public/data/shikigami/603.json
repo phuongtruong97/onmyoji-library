@@ -1,0 +1,298 @@
+{
+  "id": 603,
+  "name": {
+    "vi": "Bì Sa Môn Thiên",
+    "en": "Bishamonten",
+    "zh": "毗沙门天"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 12, 6]",
+    "en": "[1, 12, 6]",
+    "zh": "[1, 12, 6]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3323,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 379,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6031,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chấn Quyền",
+        "en": "Thunder Fist",
+        "zh": "震拳"
+      },
+      "intro": {
+        "vi": "Này, ta không phải ác thần, đừng chạy!",
+        "en": "Hey, I'm not an evil god, don't run!",
+        "zh": "喂，我不是恶神，别跑！"
+      },
+      "description": {
+        "vi": "Hừ, ngươi không có phúc tận hưởng đâu. Ngưng tụ phúc vận cường hóa thân thể, tấn công mục tiêu kẻ địch gây sát thương bằng 120% Tấn công, nhận 1 tầng [buff_6031_1].",
+        "en": "Hmph, this blessing is not for you. Gather fortune into the body and strike the target for 120% ATK damage. Gain 1 stack of [buff_6031_1].",
+        "zh": "哼，你无福消受。凝聚福运强化肉身，攻击敌方目标造成攻击120%伤害，获得1层[buff_6031_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%.",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 120%, nhận 1 tầng [buff_6031_1]",
+            "en": "Increases the damage to 120% and grants 1 stack of [buff_6031_1].",
+            "zh": "伤害增加至120%，获得1层[buff_6031_1]"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "6031",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 6032,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Giới · Định · Tuệ",
+        "en": "Discipline",
+        "zh": "戒·定·慧"
+      },
+      "intro": {
+        "vi": "Mấy đứa các ngươi, đều lại đây cùng nhau tu hành.",
+        "en": "You lot, get over here and train together.",
+        "zh": "你们几个，都过来一起修行。"
+      },
+      "description": {
+        "vi": "[tips_11]. Tâm niệm gióng trống, voi lành trợ uy. Thức tỉnh [tips_6032] trên sân, [tips_15] 3 lượt. Khi [tips_6032] có mặt trên sân, liền gióng vang [tips_6032], nhận 1 điểm Quỷ Hỏa, 2 tầng [buff_6031_1] và tăng 10% Thanh Hành Động cho toàn bộ phe ta; khi gióng vang [tips_6032], khiến 2 kẻ địch có tỷ lệ HP thấp nhất mất 10% HP tối đa (không vượt quá 100% Tấn công ban đầu của Bì Sa Môn Thiên); khi kẻ địch mất HP, Bì Sa Môn Thiên nhận 1 tầng [buff_6033_1] (mỗi lần hành động tối đa 6 tầng). Khi Trống Voi có mặt trên sân, bản thân gánh chịu 30% sát thương đơn thể đồng minh chịu phải; Tiên Cơ: Thi triển 『Giới · Định · Tuệ』.",
+        "en": "[tips_11]. With a rallying drumbeat and elephant's cheer, awaken [tips_6032] on the field, [tips_15] for 3 turns. If [tips_6032] is already on the field, sound [tips_6032] instead, gaining 1 orb, 2 stacks of [buff_6031_1], and raising all allies' Move Bar by 10%. When [tips_6032] sounds, the 2 enemies with the lowest HP ratio lose 10% of their Max HP, up to 100% of Bishamonten's starting ATK. Whenever an enemy loses HP, Bishamonten gains 1 stack of [buff_6033_1], up to 6 stacks per action. While Elephant Drum is on the field, this unit shares 30% of the single-target damage allies take. Upper Hand: casts Discipline.",
+        "zh": "[tips_11]。心念鸣鼓，福象助威。在场上唤醒[tips_6032]，[tips_15]3回合。[tips_6032]在场时，则鸣响[tips_6032]，获得1点鬼火、2层[buff_6031_1]并提升友方全体10%行动条；鸣响[tips_6032]时，使生命比例最低的2个敌方失去最大生命的10%（不超过毗沙门天初始攻击100%）；敌方失去生命时，毗沙门天获得1层[buff_6033_1]（每次行动至多6层）。象鼓在场时，自身分担友方受到单体伤害的30%；先机：施放『戒·定·慧』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi gióng vang [tips_6032], khiến 2 kẻ địch có tỷ lệ HP thấp nhất mất 10% HP tối đa (không vượt quá 100% Tấn công ban đầu của Bì Sa Môn Thiên)",
+            "en": "When [tips_6032] sounds, the 2 enemies with the lowest HP ratio lose 10% of their Max HP, up to 100% of Bishamonten's starting ATK.",
+            "zh": "鸣响[tips_6032]时，使生命比例最低的2个敌方失去最大生命的10%（不超过毗沙门天初始攻击100%）"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi kẻ địch mất HP, Bì Sa Môn Thiên nhận 1 tầng [buff_6033_1] (mỗi lần hành động tối đa 6 tầng)",
+            "en": "When an enemy loses HP, Bishamonten gains 1 stack of [buff_6033_1] (up to 6 stacks per action)",
+            "zh": "敌方失去生命时，毗沙门天获得1层[buff_6033_1]（每次行动至多6层）"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi Trống Voi có mặt trên sân, bản thân gánh chịu 30% sát thương đơn thể đồng minh chịu phải",
+            "en": "While Elephant Drum is on the field, this unit shares 30% of the single-target damage allies take.",
+            "zh": "象鼓在场时，自身分担友方受到单体伤害的30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Thi triển 『Giới · Định · Tuệ』",
+            "en": "Upper Hand: Cast Discipline",
+            "zh": "先机：施放『戒·定·慧』"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "6032",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 6033,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hát Thiên Phục Ma Côn",
+        "en": "Heavenbreaker Staff",
+        "zh": "撼天伏魔棍"
+      },
+      "intro": {
+        "vi": "Gánh vác ngàn cân, đáp đền vạn khoảnh phúc âm!",
+        "en": "Bear a thousand weights, ring out boundless blessings!",
+        "zh": "承千斤之重，报万顷福鸣！"
+      },
+      "description": {
+        "vi": "Tiêu hao tất cả [buff_6031_1] tấn công mục tiêu kẻ địch, gây sát thương bằng 360% Tấn công, mỗi tiêu hao 1 tầng [buff_6031_1] giúp hệ số tăng thêm 40%; khi [tips_6032] có mặt trên sân, tiêu hao Quỷ Hỏa giảm 1 điểm; nếu sát thương gây ra khi tấn công bị hấp thụ, chia sẻ, miễn nhiễm, lập tức nhận 3 tầng [buff_6031_1] và tấn công lại cùng mục tiêu 1 lần (không kích hoạt liên tiếp); sau khi thi triển, trước khi lượt tiếp theo của bản thân bắt đầu gióng vang [tips_6032] làm hiệu ứng tăng Thanh Hành Động cho bản thân tăng lên 20%.",
+        "en": "Consume all [buff_6031_1] to attack an enemy target, dealing damage equal to 360% of ATK. Each [buff_6031_1] consumed increases the multiplier by an additional 40%. When [tips_6032] is on the field, orb cost is reduced by 1. If the damage dealt is absorbed, shared, or negated, immediately gain 3 stacks of [buff_6031_1] and attack the same target once more (cannot trigger consecutively). After use, before the start of the next turn, sound [tips_6032] and increase the Move Bar boost to 20%.",
+        "zh": "消耗所有[buff_6031_1]攻击敌方目标，造成攻击360%的伤害，每消耗1层[buff_6031_1]使系数额外提升40%；[tips_6032]在场时，鬼火消耗减少1点；若攻击时造成的伤害被吸收、分担、免疫，则立刻获得3层[buff_6031_1]并再攻击相同目标1次（不连续触发）；施放后，自身下个回合开始前鸣响[tips_6032]提升自身行动条效果增至20%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 330%, hệ số tăng thêm mỗi tầng [buff_6031_1] tăng lên 35%",
+            "en": "Damage increased to 330%, with each stack's [buff_6031_1] coefficient boost increased to 35%",
+            "zh": "伤害增至330%，每层[buff_6031_1]系数提升增至35%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi [tips_6032] có mặt trên sân, tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "While [tips_6032] is on the field, orb cost is reduced by 1",
+            "zh": "[tips_6032]在场时，鬼火消耗减少1点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 360%, hệ số tăng thêm mỗi tầng [buff_6031_1] tăng lên 40%",
+            "en": "Damage increased to 360%, with each stack's [buff_6031_1] coefficient boost increased to 40%",
+            "zh": "伤害增至360%，每层[buff_6031_1]系数提升增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu sát thương gây ra khi tấn công bị hấp thụ, chia sẻ, miễn nhiễm, lập tức nhận 3 tầng [buff_6031_1] và tấn công lại cùng mục tiêu 1 lần (không kích hoạt liên tiếp)",
+            "en": "If the damage dealt during the attack is absorbed, shared, or nullified, immediately gain 3 stacks of [buff_6031_1] and attack the same target 1 more time. This effect does not trigger consecutively.",
+            "zh": "若攻击时造成的伤害被吸收、分担、免疫，则立刻获得3层[buff_6031_1]并再攻击相同目标1次（不连续触发）"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "6033",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "pishamentian",
+    "headKey": "h_pishamentian",
+    "armature": "",
+    "artName": "txt_zhanshi_pishamentian",
+    "skillIconKeys": [
+      "6031",
+      "6032",
+      "6033"
+    ]
+  },
+  "unresolvedTokens": []
+}

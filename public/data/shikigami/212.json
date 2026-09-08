@@ -1,0 +1,253 @@
+{
+  "id": 212,
+  "name": {
+    "vi": "Đồng Nam",
+    "en": "Oguna",
+    "zh": "童男"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[13]",
+    "en": "[13]",
+    "zh": "[13]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2197,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11505,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 383,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 93,
+      "grade": "D"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2121,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vũ Nhận",
+        "en": "Feather Blade",
+        "zh": "羽刃"
+      },
+      "intro": {
+        "vi": "Hãy dùng lông vũ của ta để bảo vệ mọi người đi.",
+        "en": "Downy feathers, become hard as diamond!",
+        "zh": "就用我的羽毛，保护大家吧。"
+      },
+      "description": {
+        "vi": "Dùng yêu lực làm cứng lông vũ của bản thân bắn về phía mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất giảm [b_属性1数值_per] Chính Xác Hiệu Ứng, duy trì 2 lượt.",
+        "en": "Hardens his feathers and shoots them at 1 enemy, dealing damage equal to 125% of his ATK with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of reducing their Effect HIT by [b_属性1数值_per] for 2 turns.",
+        "zh": "以妖力硬化自身的羽毛射向敌方目标，造成攻击125%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率降低[b_属性1数值_per]效果命中，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2121",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2122,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vũ Y",
+        "en": "Feather Cloak",
+        "zh": "羽衣"
+      },
+      "intro": {
+        "vi": "Muội muội, ca ca đang ở ngay bên cạnh em đây",
+        "en": "Sister, I'm here for you!",
+        "zh": "妹妹，哥哥就在你身边哦"
+      },
+      "description": {
+        "vi": "Khi chịu sát thương, đỡ lượng sát thương bằng 5% giới hạn HP, đỡ tối đa 40% lần sát thương đó.",
+        "en": "When taking damage, prevents damage equal to 5% of her HP to a maximum of 40% of the damage.",
+        "zh": "受到伤害时，抵挡等同生命上限5%的伤害，最多抵挡该次伤害的40%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tỷ lệ đỡ tăng lên 3.5%",
+            "en": "Increases proportion prevented to 3.5%.",
+            "zh": "抵挡比例增至3.5%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tỷ lệ đỡ tăng lên 4%",
+            "en": "Increases proportion prevented to 4%.",
+            "zh": "抵挡比例增至4%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tỷ lệ đỡ tăng lên 4.5%",
+            "en": "Increases proportion prevented to 4.5%.",
+            "zh": "抵挡比例增至4.5%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tỷ lệ đỡ tăng lên 5%",
+            "en": "Increases proportion prevented to 5%.",
+            "zh": "抵挡比例增至5%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2122",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2123,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Hồn Chi Tế Hiến",
+        "en": "Soul Offering",
+        "zh": "魂之祭献"
+      },
+      "intro": {
+        "vi": "Ta nguyện hy sinh linh hồn của ta.",
+        "en": "I'm willing to offer my soul.",
+        "zh": "我愿意献上我的灵魂。"
+      },
+      "description": {
+        "vi": "Hồi sinh toàn bộ đồng minh, đồng thời trị liệu cho họ lượng HP bằng 30% giới hạn HP và tăng 30% Thanh Hành Động, sau đó hy sinh bản thân.",
+        "en": "Revives all allies, restores their HP by 30% of his max HP, and raises their Move Bar by 30% before sacrificing himself.",
+        "zh": "复活友方全体，并为其治疗生命上限30%生命及增加30%行动条，然后牺牲自身。"
+      },
+      "upgrades": [],
+      "orbCost": 3,
+      "iconKey": "2123",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "tongnan",
+    "headKey": "h_tongnan",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2121",
+      "2122",
+      "2123"
+    ]
+  },
+  "unresolvedTokens": []
+}

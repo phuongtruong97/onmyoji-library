@@ -1,0 +1,350 @@
+{
+  "id": 317,
+  "name": {
+    "vi": "Nhân Diện Thụ",
+    "en": "Jinmenju",
+    "zh": "人面树"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 1634,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11961,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 458,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 88,
+      "grade": "D"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3171,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thần Mộc",
+        "en": "Holy Wood",
+        "zh": "神木"
+      },
+      "intro": {
+        "vi": "Cầu nguyện, liệu thực sự có lời hồi đáp sao?",
+        "en": "Do you really expect your prayer to be answered?",
+        "zh": "祈祷，真的能有回应吗？"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Phòng thủ.\n[tips_11] Sau khi bất kỳ lượt kẻ địch nào kết thúc, nếu [buff_3172_1] sở hữu chưa đạt 3 tầng, đính kèm 1 tầng cho kẻ đó; nếu đã sở hữu 3 tầng [buff_3172_1], mỗi tầng gây cho kẻ đó [tips_5] bằng 90% Phòng thủ.",
+        "en": "Attacks 1 enemy, dealing damage equal to 125% of his DEF.\n[tips_11] At the end of an enemy's turn, inflicts 1 layer of [buff_3172_1] on the enemy if they have less than 3 layers, or inflicts [tips_5] equal to 90% of his DEF if they already have 3 layers of [buff_3172_1] on them.",
+        "zh": "攻击敌方目标，造成防御125%伤害。\n（[tips_11]）任一敌方回合结束后，若拥有的[buff_3172_1]未达3层，则为其附加1层；若其已拥有3层[buff_3172_1]，则每层对其造成防御90%[tips_5]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương Đánh Thường tăng lên 105%",
+            "en": "Increases normal attack damage to 105%.",
+            "zh": "普攻伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương Đánh Thường tăng lên 110%",
+            "en": "Increases normal attack damage to 110%.",
+            "zh": "普攻伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương Đánh Thường tăng lên 115%",
+            "en": "Increases normal attack damage to 115%.",
+            "zh": "普攻伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương Đánh Thường tăng lên 125%",
+            "en": "Increases normal attack damage to 125%.",
+            "zh": "普攻伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3171",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3172,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tai Ách Hoa",
+        "en": "Baneful Flower",
+        "zh": "灾厄花"
+      },
+      "intro": {
+        "vi": "Màu đỏ, là màu của nguy hiểm.",
+        "en": "Red is the most lethal color of all.",
+        "zh": "红色，是危险的颜色。"
+      },
+      "description": {
+        "vi": "Khi lượt bản thân kết thúc, đối với mục tiêu kẻ địch mang [buff_3172_1], tiêu hao toàn bộ số tầng, mỗi tầng gây cho kẻ đó [tips_5] bằng 105% Phòng thủ.\nKhi gây sát thương, nếu Phòng thủ bản thân cao hơn mục tiêu, thì mỗi khi chênh lệch 1%, sát thương lần đó tăng 1%, giới hạn 100%. Khi [buff_3172_1] bị xua tan, bản thân tăng 5% Phòng thủ, duy trì 2 lượt, trạng thái tăng ích này có thể bị xua tan.",
+        "en": "At the end of his turn, consumes all layers of [buff_3172_1] on enemies, inflicting [tips_5] equal to 105% of his DEF for each layer consumed.\nWhen dealing damage, if the target has a lower DEF, the damage is increased by 1% for each 1% of difference, up to a max of 100%. When [buff_3172_1] is dispelled, his DEF is increased by 5% for 2 turns. The buff can be dispelled.",
+        "zh": "自身回合结束时，对带有[buff_3172_1]的敌方目标，消耗所有层数，每层对其造成防御105%[tips_5]。\n造成伤害时，若自身防御高于目标，则每差距1%，该次伤害提升1%，上限100%。当[buff_3172_1]被驱散时，自身提升5%防御，持续2回合，此增益状态可被驱散。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_5] tăng lên 95%",
+            "en": "Increases [tips_5] to 95%.",
+            "zh": "[tips_5]增加至95%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_5] tăng lên 95%",
+            "en": "Increases [tips_5] to 95%.",
+            "zh": "[tips_5]增加至95%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_5] tăng lên 100%",
+            "en": "Increases [tips_5] to 100%.",
+            "zh": "[tips_5]增加至100%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_5] tăng lên 100%",
+            "en": "Increases [tips_5] to 100%.",
+            "zh": "[tips_5]增加至100%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_5] tăng lên 105%",
+            "en": "Increases [tips_5] to 105%.",
+            "zh": "[tips_5]增加至105%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_5] tăng lên 105%",
+            "en": "Increases [tips_5] to 105%.",
+            "zh": "[tips_5]增加至105%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi [buff_3172_1] bị xua tan, bản thân tăng 5% Phòng thủ, trạng thái tăng ích này có thể bị xua tan",
+            "en": "When [buff_3172_1] is dispelled, increases his DEF by 5%. The buff can be dispelled.",
+            "zh": "当[buff_3172_1]被驱散时，自身提升5%防御，此增益状态可被驱散"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi [buff_3172_1] bị xua tan, bản thân tăng 5% Phòng thủ, duy trì 2 lượt, trạng thái tăng ích này có thể bị xua tan",
+            "en": "When [buff_3172_1] is dispelled, increases his DEF by 5% for 2 turns. The buff can be dispelled.",
+            "zh": "当[buff_3172_1]被驱散时，自身提升5%防御，持续2回合，此增益状态可被驱散"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3172",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3173,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Họa Căn",
+        "en": "Baneful Root",
+        "zh": "祸根"
+      },
+      "intro": {
+        "vi": "Thần mộc hay tại họa, đều là hình dáng trong mắt người khác.",
+        "en": "A blessing or a bane? It depends solely on how you receive it.",
+        "zh": "神木亦或祸根，乃他人之相。"
+      },
+      "description": {
+        "vi": "Nhận [buff_3171_1], duy trì 3 lượt.\nĐối với mục tiêu kẻ địch mang [buff_3172_1], tiêu hao toàn bộ số tầng, mỗi tầng gây cho kẻ đó [tips_5] bằng 248% Phòng thủ, [buff_3171_1] giúp bản thân tăng 6% Phòng thủ ban đầu lúc bắt đầu trận đấu.",
+        "en": "Gains [buff_3171_1] for 3 turns.\nConsumes all layers of [buff_3172_1] on enemies, inflicting [tips_5] equal to 248% of his DEF for each layer consumed. [buff_3171_1] increases his DEF by 6% at the start of the battle.",
+        "zh": "获得[buff_3171_1]，持续3回合。\n对带有[buff_3172_1]的敌方目标，消耗所有层数，每层对其造成防御248%[tips_5]，[buff_3171_1]使自身提升6%战斗初始防御。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_5]增加至227%",
+            "en": "[tips_5]增加至227%",
+            "zh": "[tips_5]增加至227%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_5]增加至238%",
+            "en": "[tips_5]增加至238%",
+            "zh": "[tips_5]增加至238%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_5]增加至248%",
+            "en": "[tips_5]增加至248%",
+            "zh": "[tips_5]增加至248%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_3171_1] giúp bản thân tăng 6% Phòng thủ ban đầu lúc bắt đầu trận đấu",
+            "en": "[buff_3171_1] increases his DEF by 6% at the start of battle.",
+            "zh": "[buff_3171_1]使自身提升6%战斗初始防御"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3173",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "renmianshu",
+    "headKey": "h_renmianshu",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3171",
+      "3172",
+      "3173"
+    ]
+  },
+  "unresolvedTokens": []
+}

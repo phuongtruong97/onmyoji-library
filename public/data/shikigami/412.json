@@ -1,0 +1,93 @@
+{
+  "id": 412,
+  "name": {
+    "vi": "Phụng Vi Đạt Ma",
+    "en": "Grade Daruma",
+    "zh": "奉为达摩"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4101,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Lảo đảo",
+        "en": "Roly-Poly",
+        "zh": "摇摇晃晃"
+      },
+      "intro": {
+        "vi": "Lật đật thì không bao giờ ngã đâu~",
+        "en": "Daruma won't go down.",
+        "zh": "不倒翁是不会倒的～"
+      },
+      "description": {
+        "vi": "Lao tới va chạm mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công.",
+        "en": "Charges at an enemy, dealing damage equal to 100% of its ATK.",
+        "zh": "冲过去撞击敌方目标，造成攻击100%伤害。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "4031",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "damobudaoweng_bai",
+    "headKey": "h_damobudaoweng_bai",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4031"
+    ]
+  },
+  "unresolvedTokens": []
+}

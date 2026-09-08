@@ -1,0 +1,302 @@
+{
+  "id": 334,
+  "name": {
+    "vi": "Thao Lang Arakawa no Aruji",
+    "en": "Waverider Lord Arakawa",
+    "zh": "骁浪荒川之主"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3108,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10480,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "20%",
+      "grade": "SS"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3341,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Xuyên Tức",
+        "en": "River's Breath",
+        "zh": "川息"
+      },
+      "intro": {
+        "vi": "Lấy Arakawa làm tên, ta chính là Chúa tể Arakawa.",
+        "en": "In the name of Arakawa, I'm Lord Arakawa.",
+        "zh": "以荒川为名，吾乃荒川之主。"
+      },
+      "description": {
+        "vi": "Điều khiển nước tạo thành dòng chảy xiết tấn công mục tiêu kẻ địch, gây sát thương 125%.",
+        "en": "Forms water into a torrent to attack 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "驭水而成激流攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3341",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3342,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Xuyên Nộ",
+        "en": "River's Fury",
+        "zh": "川怒"
+      },
+      "intro": {
+        "vi": "Kẻ ỷ mạnh hiếp yếu, ta nhất định phải tru diệt!",
+        "en": "The strong must be hunted down if they bully the weak!",
+        "zh": "恃强凌弱者，吾必诛之！"
+      },
+      "description": {
+        "vi": "Khi tử trận, thân thể [buff_3341_1] cho đến khi kết thúc chiến đấu.\n([tips_11]) Khi bất kỳ đồng minh nào chịu sát thương, nếu lượng sát thương đó vượt quá 30% giới hạn HP của họ, tăng 50% thanh hành động đồng thời giải trừ hoặc [tips_1] 1 [tips_3]. (Tối đa kích hoạt 1 lần mỗi lượt.)\n【[Thi triển]】 Nhận 1 tầng [buff_3342_1]. Đồng minh nhận hiệu quả giảm sát thương của [buff_3341_1], duy trì 1 lượt.",
+        "en": "When he's KO'd, his body becomes [buff_3341_1] until the end of battle.\n[tips_11] When an ally takes damage, if the damage is over 30% of their max HP, raises his own Move Bar by 50% and dispels or [tips_1]s 1 [tips_3]s on himself. Triggers once each turn.\nActive skill: Gains a [buff_3342_1] stack. All allies gain the damage reduction effects of [buff_3341_1]. Sustainable for 1 turn.",
+        "zh": "阵亡时，身躯[buff_3341_1]，直到战斗结束。\n（[tips_11]）任一友方受到伤害时，若该次伤害超过其生命上限30%，增加50%行动条并驱散或[tips_1]1个[tips_3]。每回合最多触发1次。\n【施放】获得1层[buff_3342_1]。友方获得[buff_3341_1]的减伤效果，维持1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương chấn động sóng biển tăng lên 22% tổng tấn công ban đầu của thức thần đồng minh.",
+            "en": "Increases sea wave damage to 22% of allied shikigami's starting ATK.",
+            "zh": "海浪振动造成伤害提升至友方式神总初始攻击的22%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sau khi tử trận, hiệu quả Hải Nộ không biến mất.",
+            "en": "Sea Fury effects won't disappear when he's KO'd.",
+            "zh": "阵亡后，海怒效果不消失"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi tử trận, trị liệu lượng HP bằng 125% tấn công cho toàn thể đồng minh.",
+            "en": "When he's KO'd, heals the HP of all allies by 125% of his HP.",
+            "zh": "阵亡时，为友方全体治疗攻击125%的生命值"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hệ số sát thương chấn động sóng biển bằng 120% lần trước ((hệ số tăng tối đa 5 lần)).",
+            "en": "The damage multiplier of each sea wave strike is equal to 120% of the last one((the damage multiplier can be increased up to 5 times)).",
+            "zh": "海浪振动的伤害系数为前1次的120%(（系数增加至多5次）)"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3342",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3343,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kỹ Năng Trảm Hải Arakawa",
+        "en": "Wavebreaker Slash",
+        "zh": "骁浪海作斩"
+      },
+      "intro": {
+        "vi": "Ngọn sóng này vì ta mà dựng lên!",
+        "en": "The waves rise for me!",
+        "zh": "这海浪为吾而立！"
+      },
+      "description": {
+        "vi": "Cắt đôi mặt nước, chém sóng to gió lớn về phía mục tiêu kẻ địch, gây sát thương 335%. Khi sở hữu 3 tầng Hải Nộ, bản thân giảm 20% phòng thủ, sát thương gây ra tăng 40%; sau khi [Thi triển], đồng minh nhận hiệu quả giảm sát thương «Đứng Vững Không Đổ», duy trì 1 lượt.",
+        "en": "Cleaves through the water and strikes 1 enemy with a towering wave, dealing damage equal to 335% of his ATK. If the enemy is KO'd, he loses a Sea Fury stack. Target is regarded as being inflicted with Isolation. When he has 3 Sea Fury stacks, his DEF is reduced by 20% and his damage is increased by 40%. After using the skill, all allies gain the damage reduction effects of Unflinching. Sustainable for 1 turn.",
+        "zh": "切开水面，向敌方目标斩出惊涛骇浪，造成攻击335%伤害。若击败敌方，自身失去1层海怒。造成伤害视同孤立，拥有3层海怒时，自身降低20%防御，造成伤害提升40%；施放后，友方获得「屹立不倒」的减伤效果，维持1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至315%",
+            "en": "伤害增加至315%",
+            "zh": "伤害增加至315%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Gây sát thương được xem là Cô Lập.",
+            "en": "Target is regarded as being inflicted with Isolation.",
+            "zh": "造成伤害视同孤立"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至335%",
+            "en": "伤害增加至335%",
+            "zh": "伤害增加至335%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi sở hữu 3 tầng Hải Nộ, bản thân giảm 20% phòng thủ, sát thương gây ra tăng 40%; sau khi [Thi triển], đồng minh nhận hiệu quả giảm sát thương «Đứng Vững Không Đổ», duy trì 1 lượt.",
+            "en": "When he has 3 Sea Fury stacks, his DEF is reduced by 20% and his damage is increased by 40%. After using the skill, all allies gain the damage reduction effects of Unflinching. Sustainable for 1 turn.",
+            "zh": "拥有3层海怒时，自身降低20%防御，造成伤害提升40%；施放后，友方获得「屹立不倒」的减伤效果，维持1回合"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3343",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_huangchuan",
+    "headKey": "j_sphuangchuan",
+    "armature": [
+      "sphuangchuan",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_xiaolanghuangchuanzhizhu",
+    "skillIconKeys": [
+      "3341",
+      "3342",
+      "3343"
+    ]
+  },
+  "unresolvedTokens": []
+}

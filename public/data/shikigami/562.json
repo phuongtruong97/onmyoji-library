@@ -1,0 +1,302 @@
+{
+  "id": 562,
+  "name": {
+    "vi": "Kình Tịch Senhime",
+    "en": "Senhime Resurgent",
+    "zh": "鲸汐千姬"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 6, 20]",
+    "en": "[1, 6, 20]",
+    "zh": "[1, 6, 20]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2840,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11278,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 104,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5621,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tịch Niệm",
+        "en": "Tidal Thought",
+        "zh": "汐念"
+      },
+      "intro": {
+        "vi": "Nguyện vọng của người cá, để ta thủ hộ.",
+        "en": "I will protect the wishes of the merfolk.",
+        "zh": "鲛人的愿望，由我来守护。"
+      },
+      "description": {
+        "vi": "Giữa chốn vân hải mịt mờ, thủy triều dâng vì tiếng ca, gây sát thương bằng 125% Tấn công cho mục tiêu kẻ địch.",
+        "en": "Tides rise with the songs under the misty nebulous clouds. Attacks 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "苍茫云海间，潮汐因歌起，对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5621",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5622,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Giao Nhân Ca",
+        "en": "Merfolk Song",
+        "zh": "鲛人歌"
+      },
+      "intro": {
+        "vi": "Triều sương, hãy lắng nghe ước định của ta!",
+        "en": "Tides, fulfill your promise!",
+        "zh": "潮汐，倾听我的约定吧！"
+      },
+      "description": {
+        "vi": "[tips_11]. Khi trận đấu bắt đầu, nhận Chúc Phúc Triều Lưu: Chuyển hóa [tips_3] khác của bản thân thành [buff_5621_1]; khi tử trận, gọi tới 1 con [tips_5622], tồn tại 2 lượt.\n【Thi triển】 Chúc phúc 1 mục tiêu đồng minh ngoài bản thân không phải vật triệu hồi, chia sẻ Chúc Phúc Triều Lưu với kẻ đó, duy trì 2 lượt.",
+        "en": "[tips_11]. At the start of battle, gains her Tidal Blessing: Converts all other [tips_3]s inflicted to [buff_5621_1]. Summons 1 [tips_5622] that lasts 2 turns upon being KO'd.\nActive skill: Shares Tidal Blessing (lasts 2 turns) with another non-summoned ally entity.",
+        "zh": "[tips_11]。战斗开始时，获得汐流祝福：将自身携带的其他[tips_3]转化成[buff_5621_1]；阵亡时，唤来1只[tips_5622]，存在2个回合。\n【施放】祝福1个自身外非召唤物的友方目标，与其共享汐流祝福，持续2个回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Thời gian chia sẻ Chúc Phúc Triều Lưu kéo dài lên 2 lượt",
+            "en": "Increases the shared Tidal Blessing's duration to 2 turns.",
+            "zh": "共享汐流祝福延长至2个回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thời gian tồn tại của [tips_5622] kéo dài lên 2 lượt",
+            "en": "Increases [tips_5622]'s duration to 2 turns.",
+            "zh": "[tips_5622]的存在时间延长至2个回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi chịu sát thương trong thời gian Ngủ Đông, nhận lượng lá chắn tương đương, duy trì 1 lượt",
+            "en": "When she takes damage while she's in the Rest in Ice state, grants her a shield that lasts 1 turn, absorbing equal amount of damage.",
+            "zh": "冰眠期间受到伤害时，获得等量护盾，持续1个回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi mục tiêu mang Chúc Phúc Triều Lưu có HP nhỏ hơn 80%, lập tức tiến vào Ngủ Đông",
+            "en": "If the HP of the ally with Tidal Blessing is lower than 80% of their max HP, they immediately enter the Rest in Ice state.",
+            "zh": "携带汐流祝福的目标生命小于80%时，立刻进入冰眠"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5622",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5623,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kình Tức Hồi Mộng",
+        "en": "Resurgent Dream",
+        "zh": "鲸息洄梦"
+      },
+      "intro": {
+        "vi": "Tiếng cá voi ca ngợi sẽ không bao giờ ngừng lại, thủy triều vĩnh cửu chảy xiết, đây chính là Vĩnh Sinh Hải.",
+        "en": "This is the Sea of Eternity where the song of the whales forever echoes and tides flow into eternity.",
+        "zh": "鲸歌不会停歇，潮汐永恒奔流，这便是永生之海。"
+      },
+      "description": {
+        "vi": "[tips_11]. Ý chí tiếp nối, chính là sự bất tử mới. Mở ra Vĩnh Sinh Hải Huyễn Cảnh tồn tại 2 lượt, trong huyễn cảnh, khi đồng minh thi triển kỹ năng, tiêu hao Quỷ Hỏa giảm 1 điểm; khi gây sát thương không phải [tips_12] cho kẻ địch ngoài vật triệu hồi, đính kèm [buff_5622_1] bằng 30% sát thương này. Khi triển khai lại huyễn cảnh, gọi tới 1 con [tips_5621], tồn tại 2 lượt. Tiên cơ: Triển khai Vĩnh Sinh Hải Huyễn Cảnh.",
+        "en": "[tips_11]. A new form of eternity is born when the legacy carries on. Creates the Sea of Eternity realm that lasts 2 turns. While the realm is active, for all allies, reduces their skill orb cost by 1 orb, and whenever they deal non-[tips_12] to enemies other than summoned entities, inflicts [buff_5622_1] equal to 30% of the damage. When the realm is created again, summons 1 [tips_5621] that lasts 2 turns. Upper Hand: Creates the Sea of Eternity realm.",
+        "zh": "[tips_11]。意志延续，便是新的永生。展开存在2个回合的永生之海幻境，幻境中，友方施放技能时，消耗鬼火减少1点；对召唤物外的敌方造成非[tips_12]时，附加此伤害30%的[buff_5622_1]。重复展开幻境时，唤来1只[tips_5621]，存在2个回合。先机：施放永生之海幻境。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trong huyễn cảnh, sau khi lượt của kẻ địch không phải vật triệu hồi kết thúc, [tips_5621] và [tips_5622] tăng 10% Thanh Hành Động",
+            "en": "While the realm is active, raises the Move Bar of [tips_5621] and [tips_5622] by 10% at the end of non-summoned enemy entities' turns.",
+            "zh": "幻境中，非召唤物的敌方回合结束后[tips_5621]和[tips_5622]提升10%行动条"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hệ số đính kèm Hải Ngưng tăng lên 30%",
+            "en": "Increases Sea Frozen's multiplier to 30%.",
+            "zh": "附加海凝的系数提升至30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thời gian tồn tại của [tips_5621] kéo dài lên 2 lượt",
+            "en": "Increases [tips_5621]'s duration to 2 turns.",
+            "zh": "[tips_5621]的存在时间延长至2个回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: Thi triển Vĩnh Sinh Hải Huyễn Cảnh",
+            "en": "Upper Hand: Creates the Sea of Eternity realm.",
+            "zh": "先机：施放永生之海幻境"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5623",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_qianji",
+    "headKey": "h_sp_qianji",
+    "armature": [
+      "sp_qianji_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spqianji",
+    "skillIconKeys": [
+      "5621",
+      "5622",
+      "5623"
+    ]
+  },
+  "unresolvedTokens": []
+}

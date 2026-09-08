@@ -1,0 +1,265 @@
+{
+  "id": 247,
+  "name": {
+    "vi": "Hải Phường Chủ",
+    "en": "Umibozu",
+    "zh": "海坊主"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 10]",
+    "en": "[1, 10]",
+    "zh": "[1, 10]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2760,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9113,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 383,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2471,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thủy Long Cuộn",
+        "en": "Waterspout",
+        "zh": "水龙卷"
+      },
+      "intro": {
+        "vi": "Thủy long cuộn, xuất kích!",
+        "en": "Would you like a little drink?",
+        "zh": "水龙卷，出击！"
+      },
+      "description": {
+        "vi": "Dùng yêu lực nâng dòng nước xung quanh lên, tạo thành vòi rồng nước tấn công mục tiêu kẻ địch, gây sát thương 125%.",
+        "en": "Forms a waterspout to attack 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "以妖力升腾身边的水流，形成水流龙卷攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2471",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2472,
+      "maxLevel": 3,
+      "name": {
+        "vi": "Chúc Phúc Chi Thủy",
+        "en": "Blessed Water",
+        "zh": "祝福之水"
+      },
+      "intro": {
+        "vi": "Hãy để làn nước dịu dàng xoa dịu những nỗi đau nhé.",
+        "en": "Let the gentle waters ease your pain.",
+        "zh": "就让温柔的水来抚平伤痛吧。"
+      },
+      "description": {
+        "vi": "Khi gây sát thương bằng kỹ năng hoặc đánh thường, trị liệu cho đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất, lượng trị liệu bằng 100% sát thương đợt đó.\nKhi lặp lại trị liệu cho cùng một mục tiêu trong một lần hành động, lượng trị liệu sẽ giảm dần theo thứ tự 15%.",
+        "en": "When dealing damage with his skill or normal attack, heals the non-summoned entity ally with the lowest proportion of HP by 100% of the damage.\nReduces the healing amount by 15% for each extra healing performed on the same target during an action.",
+        "zh": "使用技能或普攻造成伤害时，为生命比例最低的非召唤物友方治疗，治疗等同该次伤害100%的生命。\n在一次行动内重复治疗同个目标时，治疗依次递减15%。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "2472",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2473,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cự Lãng",
+        "en": "Giant Waves",
+        "zh": "巨浪"
+      },
+      "intro": {
+        "vi": "Sóng dữ ơi, hãy nuốt chửng vạn vật đi!",
+        "en": "Waves, engulf them all!",
+        "zh": "巨浪啊，吞噬一切吧！"
+      },
+      "description": {
+        "vi": "用妖力汇聚身边的水流，形成波涛汹涌的巨大海浪席卷敌方全体，攻击3次，每次造成攻击45%伤害。",
+        "en": "用妖力汇聚身边的水流，形成波涛汹涌的巨大海浪席卷敌方全体，攻击3次，每次造成攻击45%伤害。",
+        "zh": "用妖力汇聚身边的水流，形成波涛汹涌的巨大海浪席卷敌方全体，攻击3次，每次造成攻击45%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至36%",
+            "en": "伤害增加至36%",
+            "zh": "伤害增加至36%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至39%",
+            "en": "伤害增加至39%",
+            "zh": "伤害增加至39%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至42%",
+            "en": "伤害增加至42%",
+            "zh": "伤害增加至42%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至45%",
+            "en": "伤害增加至45%",
+            "zh": "伤害增加至45%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2473",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "haifangzhu",
+    "headKey": "h_haifangzhu",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2471",
+      "2472",
+      "2473"
+    ]
+  },
+  "unresolvedTokens": []
+}

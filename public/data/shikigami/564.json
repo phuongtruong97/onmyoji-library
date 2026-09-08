@@ -1,0 +1,298 @@
+{
+  "id": 564,
+  "name": {
+    "vi": "Kagamine Rin · Len",
+    "en": "Kagamine Rin/Len",
+    "zh": "镜音铃·连"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 46]",
+    "en": "[37, 46]",
+    "zh": "[37, 46]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 1742,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12531,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 423,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5641,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Âm Phù Phi Tán",
+        "en": "Flying Notes",
+        "zh": "音符纷飞"
+      },
+      "intro": {
+        "vi": "Vút! Nốt nhạc bay tán loạn~",
+        "en": "Whoosh! The notes are flying!",
+        "zh": "咻！音符纷飞~"
+      },
+      "description": {
+        "vi": "Nốt nhạc bay tán loạn, tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 62% Tấn công.",
+        "en": "Launches a 2-strike attack on 1 enemy with flying notes, dealing damage equal to 62% of their ATK on each strike.",
+        "zh": "音符纷飞，攻击敌方目标2次，每次造成攻击62%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 53%",
+            "en": "Increases the damage to 53%.",
+            "zh": "伤害提升至53%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 56%",
+            "en": "Increases the damage to 56%.",
+            "zh": "伤害提升至56%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 59%",
+            "en": "Increases the damage to 59%.",
+            "zh": "伤害提升至59%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 62%",
+            "en": "Increases the damage to 62%.",
+            "zh": "伤害提升至62%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5641",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5642,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cơ Bàn Nhị Trọng Tấu",
+        "en": "Bonded Duet",
+        "zh": "羁绊二重奏"
+      },
+      "intro": {
+        "vi": "Chạm vào rồi nhé! Giai điệu thuộc về bạn và tôi.",
+        "en": "This is our very own rhythm!",
+        "zh": "触碰到了哦！属于你我的旋律。"
+      },
+      "description": {
+        "vi": "[tips_11]. Không thể chịu hiệu ứng tăng HP ngoài bản thân. Khi [buff_5643_1] tồn tại, tăng 20% Phòng thủ cho toàn bộ mục tiêu phe ta không phải vật triệu hồi.\n【Thi triển】 Có thể thi triển khi không tồn tại [buff_5643_1], chuyển hóa 60% HP hiện tại thành [buff_5643_1] với lượng tương đương.",
+        "en": "[tips_11]. Unable to receive HP-increasing effects from others. While they have [buff_5643_1], increases non-summoned ally entities' DEF by 20%.\nActive skill: Can only use while they don't have [buff_5643_1]. Converts 60% of their current HP to [buff_5643_1].",
+        "zh": "[tips_11]。无法受到自身外的生命增加效果。[buff_5643_1]存在时，为全体非召唤物友方目标提升20%防御。\n【施放】未存在[buff_5643_1]时可施放，将当前血量的60%等量转化为[buff_5643_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng HP chuyển hóa tăng lên 40%",
+            "en": "Increases the capacity converted to 40%.",
+            "zh": "转化血量增至40%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng HP chuyển hóa tăng lên 50%",
+            "en": "Increases the capacity converted to 50%.",
+            "zh": "转化血量增至50%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng HP chuyển hóa tăng lên 60%",
+            "en": "Increases the capacity converted to 60%.",
+            "zh": "转化血量增至60%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi [buff_5643_1] tiêu hao 1 tầng hiệu ứng miễn nhiễm, Thanh Hành Động của bản thân tăng 20%, duy trì 1 lượt.",
+            "en": "[buff_5643_1]'s immunity effect raises their own Move Bar by 20% for each stack consumed for 1 turn.",
+            "zh": "[buff_5643_1]每消耗一层免疫效果，自身行动条提升20%，持续1回合。"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5642",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5643,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thủ Hộ Định Cách",
+        "en": "Protective Moment",
+        "zh": "守护定格"
+      },
+      "intro": {
+        "vi": "Định khoảnh khắc này —— Cảm ơn bạn đã để chúng tôi sinh ra.",
+        "en": "Remember this moment. Thank you for bringing us to this world.",
+        "zh": "定格这一瞬间——谢谢你让我们诞生。"
+      },
+      "description": {
+        "vi": "Hồi mục tiêu đồng minh chỉ định và bản thân [tips_20] 40% lượng HP đã mất.\nNếu [buff_5643_1] tồn tại, liền tiêu hao [buff_5643_1] gây 3 lần [tips_5] bằng lượng Lá chắn còn lại của [buff_5643_1] cho mục tiêu kẻ địch không phải vật triệu hồi có HP thấp nhất, mỗi lần sát thương tối đa không vượt quá 400% Tấn công ban đầu của Kagamine Rin · Len.",
+        "en": "[tips_20]s the HP of 1 ally and themselves by 40% of their lost HP.\nIf they have [buff_5643_1], consumes the [buff_5643_1] to launch a 3-strike attack on the non-summoned enemy entity with the lowest HP, dealing [tips_5] equal to [buff_5643_1]'s remaining shield capacity on each strike (max 400% of Kagamine Rin/Len's starting ATK.)",
+        "zh": "为指定友方和自身[tips_20]已损失生命40%的血量。\n若[buff_5643_1]存在，则消耗[buff_5643_1]对敌方生命最低的非召唤物目标造成3次[buff_5643_1]剩余护盾量的[tips_5]，每次伤害最高不超过镜音铃·连初始攻击的400%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hồi phục tăng lên 40%",
+            "en": "Increases the HP recovery to 40%.",
+            "zh": "恢复量增至40%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hồi phục của bản thân tăng thêm lượng HP bằng 50% [buff_5643_1] còn lại",
+            "en": "Increases the HP recovery for themselves by 50% of [buff_5643_1]'s remaining shield capacity.",
+            "zh": "自身恢复量额外增加剩余[buff_5643_1]50%的生命"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Nếu khi hạ gục mục tiêu còn dư số lần, liền chuyển sang tấn công mục tiêu kẻ địch khác có HP thấp nhất",
+            "en": "If they have remaining strikes when the enemy is KO'd, switches their target to the enemy with the lowest HP.",
+            "zh": "若击败目标时有剩余次数，则转化攻击生命最低的另一敌方目标"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi thi triển tạo ra [buff_5643_1] bằng 10% HP tối đa",
+            "en": "After using the skill, creates [buff_5643_1], absorbing damage equal to 10% of their max HP.",
+            "zh": "施放后生成一个等同于10%最大生命的[buff_5643_1]"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5643",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "jingyinlinglian",
+    "headKey": "h_jingyinlinglian",
+    "armature": "",
+    "artName": "txt_zhanshi_jingyinlinglian",
+    "skillIconKeys": [
+      "5641",
+      "5642",
+      "5643"
+    ]
+  },
+  "unresolvedTokens": []
+}

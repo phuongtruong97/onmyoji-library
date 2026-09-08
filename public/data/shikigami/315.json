@@ -1,0 +1,249 @@
+{
+  "id": 315,
+  "name": {
+    "vi": "Thiếu Vũ Đại Thiên Cẩu",
+    "en": "Jr. Ootengu",
+    "zh": "少羽大天狗"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3216,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 8544,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 330,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 112,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3151,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong Triền",
+        "en": "Wind Coil",
+        "zh": "风缠"
+      },
+      "intro": {
+        "vi": "Gió hỡi, hãy nghe lệnh ta!",
+        "en": "Wind, obey my command!",
+        "zh": "风啊，请听命于我！"
+      },
+      "description": {
+        "vi": "Tụ gió tạo thành vũ nhẫn xoay tròn tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Forms the wind into a vortex of feathers to assault the enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "聚风形成旋转羽刃攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3151",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3152,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Ấu Vũ",
+        "en": "Growing Feathers",
+        "zh": "幼羽"
+      },
+      "intro": {
+        "vi": "Ta nhất định sẽ trở thành đôi cánh mạnh nhất nơi tầng mây cao sừng sững.",
+        "en": "I'm bound to be the strongest wings in the highest clouds.",
+        "zh": "吾必定成为崇天高云最强之羽翼。"
+      },
+      "description": {
+        "vi": "Khi thi triển kỹ năng tiến hành tấn công, nếu gây sát thương trùng lặp lên cùng một mục tiêu, sát thương kỹ năng tăng dần từng đòn 10%.\nKhi gánh chịu [tips_3], nhận [buff_3152_1], duy trì 2 lượt.",
+        "en": "When he attacks with his skill, increases the damage from the skill by 10% for each consecutive amount of damage dealt to the same target.\nGains [buff_3152_1] lasting 2 turns when inflicted with a [tips_3].",
+        "zh": "施放技能进行攻击时，若对同一目标重复造成伤害，则技能伤害逐次递增10%。\n承受[tips_3]时，获得[buff_3152_1]，持续2回合。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "3152",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3153,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vũ Nhẫn Chi Phong",
+        "en": "Feather Blade Wind",
+        "zh": "羽刃之风"
+      },
+      "intro": {
+        "vi": "Hãy biến sức mạnh của gió này thành lưỡi đao sắc bén của ta!",
+        "en": "Power of the wind, be as my blades!",
+        "zh": "将这风之力，化作吾之利刃！"
+      },
+      "description": {
+        "vi": "Triệu hồi cuồng phong tạo thành vòng xoáy vũ nhẫn tấn công mục tiêu kẻ địch 5 lần, mỗi lần gây sát thương bằng 50% Tấn công, và căn cứ theo số lượng kẻ địch khác, phân tách ra tối đa 2 cuồng phong nhỏ, tấn công ngẫu nhiên mục tiêu kẻ địch khác, mỗi cuồng phong gây sát thương bằng 50% Tấn công. Mỗi khi có 1 kẻ địch không phải vật triệu hồi tử trận, số đòn tấn công ban đầu tăng 2 lần, tăng tối đa 4 lần.",
+        "en": "Commands a hurricane to rain blades onto 1 enemy and inflict 5 continuous strikes, dealing damage equal to 50% of his ATK on each strike. The hurricane then splits into up to 2 small hurricanes based on the number of enemies to inflict random strikes on other enemies, dealing damage equal to 50% of his ATK on each strike. Each non-summoned enemy entity KO'd increases the starting strikes by 2, up to 4 strikes.",
+        "zh": "召唤飓风形成羽刃旋涡攻击敌方目标5次，每次造成攻击50%伤害，并根据其他敌方数量，分裂出至多2个小型飓风，随机攻击其他敌方目标，每个造成攻击50%伤害。每有1名非召唤物的敌方阵亡，初始攻击次数增加2次，最多增加4次。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至42%",
+            "en": "伤害增加至42%",
+            "zh": "伤害增加至42%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至44%",
+            "en": "伤害增加至44%",
+            "zh": "伤害增加至44%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至50%",
+            "en": "伤害增加至50%",
+            "zh": "伤害增加至50%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng duy nhất, mỗi khi có 1 kẻ địch không phải vật triệu hồi tử trận, số đòn tấn công ban đầu tăng 2 lần, tăng tối đa 4 lần.",
+            "en": "Effective effect. Each non-summoned enemy entity KO'd increases the starting strikes by 2, up to 4 strikes.",
+            "zh": "唯一效果，每有1名非召唤物的敌方阵亡，初始攻击次数增加2次，最多增加4次。"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3153",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_xiaotiangou",
+    "headKey": "j_shaoyudatiangou",
+    "armature": "",
+    "artName": "txt_zhanshi_shaoyudatiangou",
+    "skillIconKeys": [
+      "3151",
+      "3152",
+      "3153"
+    ]
+  },
+  "unresolvedTokens": []
+}

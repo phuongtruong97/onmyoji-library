@@ -1,0 +1,302 @@
+{
+  "id": 595,
+  "name": {
+    "vi": "Mộng Sơn Bạch Tàng Chủ",
+    "en": "Hakuzosu Unbound",
+    "zh": "梦山白藏主"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 38, 9]",
+    "en": "[1, 38, 9]",
+    "zh": "[1, 38, 9]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 1340,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 15151,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 515,
+      "grade": "S"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 111,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5951,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ngự Ngã Chi Danh",
+        "en": "Kohaku Strike",
+        "zh": "驭我之名"
+      },
+      "intro": {
+        "vi": "Biến tên của ta, thành lưỡi đao sắc bén của ngươi.",
+        "en": "Let my name become your blade.",
+        "zh": "将我的名字，化为你的利刃。"
+      },
+      "description": {
+        "vi": "Ngưng tụ yêu lực đâm xuyên kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Channels spiritual energy to pierce through an enemy, dealing damage equal to 125% of ATK.",
+        "zh": "凝聚妖力贯穿敌方，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5951",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5952,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bạch Hồ Chú",
+        "en": "White Fox Seal",
+        "zh": "白狐咒"
+      },
+      "intro": {
+        "vi": "Tiếp theo giao cho Tiểu Bạch nhé!",
+        "en": "Leave the rest to me!",
+        "zh": "接下来交给小白吧！"
+      },
+      "description": {
+        "vi": "[tips_11]. Hồi phục 20% HP đã mất cho mục tiêu phe ta chỉ định ngoại trừ bản thân và đính kèm [buff_5951_1], duy trì 2 lượt. Khi thi triển tăng 30% Thanh Hành Động cho Âm Dương Sư, nếu Âm Dương Sư là Tình Minh thì xóa bỏ thêm thời gian hồi kỹ năng của người đó. Người mang [buff_5951_1] khi hành động miễn nhiễm sát thương, khi chịu tấn công từ kẻ địch sẽ đính kèm [buff_5952_1] cho kẻ tấn công, duy trì 2 lượt, nếu Âm Dương Sư là Tình Minh thì tăng thêm 10% Thanh Hành Động cho người đó (mỗi lượt giới hạn 1 lần, trước khi lượt của Tình Minh bắt đầu giới hạn 3 lần). Thi triển khi [buff_5951_1] đang tồn tại, tăng thêm 20% Thanh Hành Động cho Âm Dương Sư. [tips_7]: Đính kèm [buff_5951_1] cho Thức Thần phe ta có Tấn công cao nhất.",
+        "en": "[tips_11]. Recovers 20% of lost HP for the designated ally (excluding self) and grants [buff_5951_1], lasting for 2 turns. When cast, raises the onmyoji's Move Bar by 30%; if the onmyoji is Seimei, additionally removes his skill cooldown. The bearer of [buff_5951_1] is immune to damage when taking action, and inflicts [buff_5952_1] on the attacker when attacked by enemy, lasting for 2 turns; if the onmyoji is Seimei, additionally raises his Move Bar by 10% (once per turn, up to 3 times before Seimei's turn starts). When [buff_5951_1] is present, casting additionally raises the onmyoji's Move Bar by 20%. [tips_7]: Grants [buff_5951_1] to the allied shikigami with the highest ATK.",
+        "zh": "[tips_11]。为自身外的指定友方恢复已损失生命的20%并施加[buff_5951_1]，维持2回合。施放时提升阴阳师30%行动条，若阴阳师为晴明则额外移除其技能冷却。[buff_5951_1]携带者行动时免疫伤害，受到敌方攻击时为攻击者施加[buff_5952_1]，持续2回合，若阴阳师为晴明则额外提升其10%行动条（每回合限1次，晴明回合开始前限3次）。[buff_5951_1]存在时施放，额外提升阴阳师20%行动条。[tips_7]：为攻击最高的友方式神施加[buff_5951_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Người mang [buff_5951_1] khi hành động miễn nhiễm sát thương",
+            "en": "The bearer of [buff_5951_1] is immune to damage when taking action.",
+            "zh": "[buff_5951_1]携带者行动时免疫伤害"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thi triển khi [buff_5951_1] đang tồn tại, tăng thêm 20% Thanh Hành Động cho Âm Dương Sư",
+            "en": "When [buff_5951_1] is present, casting additionally raises the onmyoji's Move Bar by 20%.",
+            "zh": "[buff_5951_1]存在时施放，额外提升阴阳师20%行动条"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Người mang [buff_5951_1] khi chịu tấn công từ kẻ địch đính kèm [buff_5952_1] cho kẻ tấn công, duy trì 2 lượt; nếu Âm Dương Sư là Tình Minh thì tăng thêm 10% Thanh Hành Động cho người đó (mỗi lượt giới hạn 1 lần, trước khi lượt của Tình Minh bắt đầu giới hạn 3 lần)",
+            "en": "When the bearer of [buff_5951_1] is attacked by enemy, inflicts [buff_5952_1] on the attacker, lasting for 2 turns; if the onmyoji is Seimei, additionally raises his Move Bar by 10% (once per turn, up to 3 times before Seimei's turn starts).",
+            "zh": "[buff_5951_1]携带者受到敌方攻击时为攻击者施加[buff_5952_1]，持续2回合；若阴阳师为晴明则额外提升其10%行动条（每回合限1次，晴明回合开始前限3次）"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Đính kèm [buff_5951_1] cho Thức Thần phe ta có Tấn công cao nhất",
+            "en": "[tips_7]: Grants [buff_5951_1] to the allied shikigami with the highest ATK.",
+            "zh": "[tips_7]：为攻击最高的友方式神施加[buff_5951_1]"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5952",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5953,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trảm Mộng Đao",
+        "en": "Dream Slash",
+        "zh": "斩梦刀"
+      },
+      "intro": {
+        "vi": "Bất kể khi nào nơi đâu, đều sẽ bảo vệ mọi người!",
+        "en": "I'll protect everyone, anytime and anywhere!",
+        "zh": "无论何时何地，都会保护大家！"
+      },
+      "description": {
+        "vi": "[tips_11], có hiệu lực khi Tình Minh phe ta có mặt trên sân. Tấn công toàn bộ phe địch, gây [tips_5] bằng 30% HP tối đa của bản thân; khi thi triển hồi phục cho toàn bộ phe ta 20% lượng HP đã mất và đính kèm [buff_5952_1], duy trì 2 lượt. Sau khi Tình Minh phe ta thi triển yêu thuật, thi triển miễn phí 『Trảm Mộng Đao』. Khi Tình Minh phe ta không có mặt trên sân, thay bằng 『[skill_5954_5]』, cấp độ tăng theo cường hóa kỹ năng 『Trảm Mộng Đao』. (（Sát thương do bản thân gây ra không vượt quá 1600% Tấn công ban đầu.))",
+        "en": "[tips_11], effective when allied Seimei is present. Attacks all enemies, dealing [tips_5] equal to 30% of his max HP; recovers 20% of lost HP for all allies and inflicts [buff_5952_1] for 2 turns. After allied Seimei casts a skill, casts Dream Slash without cost. When allied Seimei is absent, replaces with [skill_5954_5], level scales with Dream Slash skill enhancement. ((Damage dealt does not exceed 1600% of initial ATK.))",
+        "zh": "[tips_11]，友方晴明在场时生效。攻击敌方全体，造成自身生命上限30%[tips_5]；施放时恢复友方全体已损失生命的20%并施加[buff_5952_1]，持续2回合。友方晴明施放妖术后，无消耗施放『斩梦刀』。友方晴明不在场时，替换为『[skill_5954_5]』，等级随『斩梦刀』技能强化。(（自身造成的伤害不超过初始攻击的1600%。）)"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 25%",
+            "en": "Increases the damage to 25%.",
+            "zh": "伤害增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi thi triển hồi phục 20% lượng HP đã mất cho toàn bộ phe ta",
+            "en": "Recovers 20% of all allies' lost HP when cast.",
+            "zh": "施放时恢复友方全体已损失生命的20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 30%",
+            "en": "Increases the damage to 30%.",
+            "zh": "伤害增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi Tình Minh phe ta thi triển yêu thuật, thi triển miễn phí 『Trảm Mộng Đao』",
+            "en": "Casts Dream Slash without cost after allied Seimei casts skill.",
+            "zh": "友方晴明施放妖术后，无消耗施放『斩梦刀』"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5953",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_baizangzhu",
+    "headKey": "h_sp_baizangzhu",
+    "armature": [
+      "common_card_skin/2512_sp_bzz_card_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spbaizangzhu",
+    "skillIconKeys": [
+      "5951",
+      "5952",
+      "5953"
+    ]
+  },
+  "unresolvedTokens": []
+}

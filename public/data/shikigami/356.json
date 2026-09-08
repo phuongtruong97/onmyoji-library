@@ -1,0 +1,352 @@
+{
+  "id": 356,
+  "name": {
+    "vi": "Senhime",
+    "en": "Senhime",
+    "zh": "千姬"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[6, 1, 12]",
+    "en": "[6, 1, 12]",
+    "zh": "[6, 1, 12]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2680,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11392,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 374,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 111,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3561,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Tịch",
+        "en": "Thousand Tides",
+        "zh": "千汐"
+      },
+      "intro": {
+        "vi": "Thủy triều sẽ mang lại chúc phúc và sự hủy diệt.",
+        "en": "The waves bring both blessings and destruction.",
+        "zh": "海潮会带来祝福与毁灭。"
+      },
+      "description": {
+        "vi": "Sóng nước văng tung tóe, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công. Nếu Hải Nguyên Bối Kích tồn tại, Hải Nguyên Bối Kích tăng 1 lớp [buff_3563_1].",
+        "en": "Sends splashing waves to attack 1 enemy, dealing damage equal to 125% of her ATK. If Murex Halberd is present, it gains a [buff_3563_1] stack.",
+        "zh": "水浪飞溅，对敌方目标造成攻击125%伤害。若海原贝戟存在，海原贝戟增加1层[buff_3563_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%, nếu Hải Nguyên Bối Kích tồn tại, tăng 1 lớp Triều Âm",
+            "en": "Increases damage to 125%. If Murex Halberd is present, it gains 1 Sound of the Tides stack.",
+            "zh": "伤害增加至125%，若海原贝戟存在，增加1层潮声"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3561",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3562,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tịch Mộng",
+        "en": "Tidal Dream",
+        "zh": "汐梦"
+      },
+      "intro": {
+        "vi": "Ở Vĩnh Sinh Hải, thời gian không có ý nghĩa gì cả.",
+        "en": "Time is meaningless in the Sea of Eternity.",
+        "zh": "在永生之海，时间并没有意义。"
+      },
+      "description": {
+        "vi": "Tiến bước trong triều sương, sau khi lượt của kẻ địch không phải vật triệu hồi kết thúc, Senhime tăng 10% Thanh Hành Động.\nGây cho mục tiêu kẻ địch sát thương bằng 211% Tấn công, nếu [tips_3565] ở trên sân, đính kèm thêm [buff_3562_1].",
+        "en": "Rides the waves. At the end of a non-summoned enemy entity's turn, raises the Move Bar of Senhime by 10%.\nAttacks 1 enemy, dealing damage equal to 211% of her ATK. If [tips_3565] is on the battlefield, also inflicts [buff_3562_1] on them.",
+        "zh": "在潮汐中前行，非召唤物的敌方回合结束后，千姬增加10%的行动条。\n对敌方目标造成攻击211%伤害，若[tips_3565]在场，额外附加[buff_3562_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至185%",
+            "en": "伤害增加至185%",
+            "zh": "伤害增加至185%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至198%",
+            "en": "伤害增加至198%",
+            "zh": "伤害增加至198%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至211%",
+            "en": "伤害增加至211%",
+            "zh": "伤害增加至211%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu kẻ địch mang Tịch Mộng sau khi hành động có Quỷ Hỏa bằng 0, liền [tips_112] 1 lượt",
+            "en": "If the enemy with Tidal Dream has 0 orbs after taking an action, inflicts [tips_112] on them for 1 turn.",
+            "zh": "若带有汐梦的敌方行动后鬼火为0，则[tips_112]1个回合"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3562",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3563,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hải Triều Nhập Mộng",
+        "en": "Tame the Tides",
+        "zh": "海潮入梦"
+      },
+      "intro": {
+        "vi": "Chỉ có tiếng sóng triều và tiếng hát nhân ngư mới trở thành ngọn hải đăng trên biển.",
+        "en": "Only the tides and the songs of the merfolk are the guiding lights in the sea.",
+        "zh": "仅有海潮与人鱼的歌声会成为海上的明灯。"
+      },
+      "description": {
+        "vi": "Triệu hồi [tips_3565], nhận chúc phúc của thủy triều. Khi Senhime cầm Hải Nguyên Bối Kích sẽ vĩnh viễn miễn nhiễm hiệu ứng khống chế. Sau khi thi triển lập tức nhận 3 tầng [buff_3563_1], kỹ năng thay thế thành «[skill_3564_1]». Khi Hải Nguyên Bối Kích ở trên sân, đơn vị đồng minh cứ sử dụng 1 điểm Quỷ Hỏa, tích lũy 1 tầng [buff_3563_1] cho Hải Nguyên Bối Kích.",
+        "en": "Summons [tips_3565] to receive blessings from the tides. Senhime gains immunity to controlling effects as long as she's wielding Murex Halberd in her hands. The weapon immediately gains 3 [buff_3563_1] stacks after using the skill. Then the skill is changed to [skill_3564_1]. When Murex Halberd is on the battlefield, it gains a [buff_3563_1] stack for each orb allies spent.",
+        "zh": "召唤[tips_3565]，接受潮汐的祝福。千姬手持海原贝戟时永久免疫控制效果。施放后立刻获得3层[buff_3563_1]，技能替换为『[skill_3564_1]』。海原贝戟在场时，友方单位每使用1点鬼火，为海原贝戟叠加1层[buff_3563_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi Hải Nguyên Bối Kích ở trên sân, sát thương Senhime và Hải Nguyên Bối Kích gánh chịu giảm 30%",
+            "en": "When Murex Halberd is on the battlefield, Senhime and Murex Halberd take 30% less damage.",
+            "zh": "海原贝戟在场时，千姬和海原贝戟受到的伤害降低30%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi Hải Nguyên Bối Kích ở trên sân, sát thương Senhime và Hải Nguyên Bối Kích gánh chịu giảm 30%",
+            "en": "When Murex Halberd is on the battlefield, Senhime and Murex Halberd take 30% less damage.",
+            "zh": "海原贝戟在场时，千姬和海原贝戟受到的伤害降低30%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi Hải Nguyên Bối Kích ở trên sân, đơn vị đồng minh cứ sử dụng 1 điểm Quỷ Hỏa, xác suất tích lũy 1 tầng [buff_3563_1] cho Hải Nguyên Bối Kích tăng lên 100%",
+            "en": "When Murex Halberd is on the battlefield, increases Murex Halberd's chance of gaining a [buff_3563_1] stack each time an ally spends an orb to 100%.",
+            "zh": "海原贝戟在场时，友方单位每使用1点鬼火，为海原贝戟叠加1层[buff_3563_1]的概率增至100%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi Hải Nguyên Bối Kích ở trên sân, đơn vị đồng minh cứ sử dụng 1 điểm Quỷ Hỏa, xác suất tích lũy 1 tầng [buff_3563_1] cho Hải Nguyên Bối Kích tăng lên 100%",
+            "en": "When Murex Halberd is on the battlefield, increases Murex Halberd's chance of gaining a [buff_3563_1] stack each time an ally spends an orb to 100%.",
+            "zh": "海原贝戟在场时，友方单位每使用1点鬼火，为海原贝戟叠加1层[buff_3563_1]的概率增至100%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi Senhime cầm Hải Nguyên Bối Kích sẽ vĩnh viễn miễn nhiễm hiệu ứng khống chế và phóng thích",
+            "en": "Senhime gains immunity to controlling effects and Banish as long as she's wielding Murex Halberd in her hands.",
+            "zh": "千姬手持海原贝戟时永久免疫控制效果和放逐"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi Senhime cầm Hải Nguyên Bối Kích sẽ vĩnh viễn miễn nhiễm hiệu ứng khống chế và phóng thích",
+            "en": "Senhime gains immunity to controlling effects and Banish as long as she's wielding Murex Halberd in her hands.",
+            "zh": "千姬手持海原贝戟时永久免疫控制效果和放逐"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Hải Nguyên Bối Kích được triệu hồi, lập tức nhận 3 tầng [buff_3563_1]",
+            "en": "When Murex Halberd is summoned, it immediately gains 3 [buff_3563_1] stacks.",
+            "zh": "海原贝戟被召唤时，立刻获得3层[buff_3563_1]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Hải Nguyên Bối Kích được triệu hồi, lập tức nhận 3 tầng [buff_3563_1]",
+            "en": "When Murex Halberd is summoned, it immediately gains 3 [buff_3563_1] stacks.",
+            "zh": "海原贝戟被召唤时，立刻获得3层[buff_3563_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3563",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "qianji",
+    "headKey": "h_qianji",
+    "armature": "",
+    "artName": "txt_zhanshi_qianji",
+    "skillIconKeys": [
+      "3561",
+      "3562",
+      "3563"
+    ]
+  },
+  "unresolvedTokens": [
+    "skill_3564_1"
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "id": 228,
+  "name": {
+    "vi": "Sử Tịch Nữ",
+    "en": "Ushi no Toki",
+    "zh": "丑时之女"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 25]",
+    "en": "[1, 25]",
+    "zh": "[1, 25]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2599,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10024,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 374,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 107,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2281,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chú Chùy",
+        "en": "Cursed Dart",
+        "zh": "咒锥"
+      },
+      "intro": {
+        "vi": "Đóng! Đóng! Ta đóng! Cộp cộp cộp! Hahaha...!",
+        "en": "Knock knock knock! Clang clang clang! Ha ha ha!",
+        "zh": "钉！钉！我钉！哐哐哐！哈哈哈……！"
+      },
+      "description": {
+        "vi": "Đóng đinh hình nộm, tạo ra trận chú thuật ở phía sau nó, bắn ra chùy chú thuật về phía mục tiêu kẻ địch, gây sát thương 125%.",
+        "en": "Ushi no Toki hammers a nail into her straw doll. A magic symbol appears and she shoots a cursed dart at an enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "钉打稻草人，在其背后生成咒术阵，向敌方目标射出咒锥，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2281",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2282,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chú Hỏa",
+        "en": "Cursed Fire",
+        "zh": "咒火"
+      },
+      "intro": {
+        "vi": "Hi hí hí~ Sắp kết thúc rồi đây~",
+        "en": "Hehehe. It will all be over soon.",
+        "zh": "嘻嘻嘻～就快结束了~"
+      },
+      "description": {
+        "vi": "Khi kết thúc lượt, có xác suất 40% (+[*|a_debuff-acc_per|s_buff概率_per]) đính kèm [buff_2282_1] cho kẻ địch ngẫu nhiên, khiến chúng nhận [b_属性1数值_per] dễ bị tổn thương, duy trì 2 lượt.",
+        "en": "At the end of her action, has a 40% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [buff_2282_1] lasting 2 turn(s) on 1 random enemy, granting them a [b_属性1数值_per] Vulnerability effect.",
+        "zh": "行动结束时，有40%（+[*|a_debuff-acc_per|s_buff概率_per]）概率对随机敌人附加[buff_2282_1]，使其受到[b_属性1数值_per]易伤，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng dễ bị tổn thương của [buff_2282_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2282_1]'s Vulnerability effect up to [b_属性1数值_per].",
+            "zh": "[buff_2282_1]易伤效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_2] tăng đến 30%.",
+            "en": "Increases [tips_2] to 30%.",
+            "zh": "[tips_2]增至30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng dễ bị tổn thương của [buff_2282_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2282_1]'s Vulnerability effect up to [b_属性1数值_per].",
+            "zh": "[buff_2282_1]易伤效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_2] tăng đến 40%.",
+            "en": "Increases [tips_2] to 40%.",
+            "zh": "[tips_2]增至40%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2282",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2283,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hình Nộm Thay Thế",
+        "en": "Decoy Doll",
+        "zh": "草人替身"
+      },
+      "intro": {
+        "vi": "Sát thương của hình nộm, đều sẽ truyền lên người ngươi hết đó nha~ Á!",
+        "en": "Hurt my straw doll and you're only hurting yourself! Hahaha!",
+        "zh": "草人的伤，全都会到你身上哦~啊哈哈哈！"
+      },
+      "description": {
+        "vi": "召唤诅咒草人连接敌方目标，当草人受到伤害时，对被连接目标造成等量[tips_12]，草人存在3回合。\n草人继承目标[z_生命继承比_per]生命、[z_防御继承比_per]防御。",
+        "en": "召唤诅咒草人连接敌方目标，当草人受到伤害时，对被连接目标造成等量[tips_12]，草人存在3回合。\n草人继承目标[z_生命继承比_per]生命、[z_防御继承比_per]防御。",
+        "zh": "召唤诅咒草人连接敌方目标，当草人受到伤害时，对被连接目标造成等量[tips_12]，草人存在3回合。\n草人继承目标[z_生命继承比_per]生命、[z_防御继承比_per]防御。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "继承生命值增至[z_生命继承比_per]",
+            "en": "继承生命值增至[z_生命继承比_per]",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "继承生命值增至[z_生命继承比_per]",
+            "en": "继承生命值增至[z_生命继承比_per]",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Giá trị HP của hình nộm bằng [z_生命继承比_per] giới hạn HP của mục tiêu.",
+            "en": "The straw doll's HP is [z_生命继承比_per] of the target's max HP.",
+            "zh": "草人生命值为目标生命上限的[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "继承生命值增至[z_生命继承比_per]",
+            "en": "继承生命值增至[z_生命继承比_per]",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "继承生命值增至[z_生命继承比_per]",
+            "en": "继承生命值增至[z_生命继承比_per]",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Giá trị HP của hình nộm bằng [z_生命继承比_per] giới hạn HP của mục tiêu.",
+            "en": "The straw doll's HP is [z_生命继承比_per] of the target's max HP.",
+            "zh": "草人生命值为目标生命上限的[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "继承生命值增至[z_生命继承比_per]",
+            "en": "继承生命值增至[z_生命继承比_per]",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "继承生命值增至[z_生命继承比_per]",
+            "en": "继承生命值增至[z_生命继承比_per]",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giá trị HP của hình nộm bằng [z_生命继承比_per] giới hạn HP của mục tiêu.",
+            "en": "The straw doll's HP is [z_生命继承比_per] of the target's max HP.",
+            "zh": "草人生命值为目标生命上限的[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "继承生命值增至[z_生命继承比_per]",
+            "en": "继承生命值增至[z_生命继承比_per]",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "继承生命值增至[z_生命继承比_per]",
+            "en": "继承生命值增至[z_生命继承比_per]",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2283",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "choushizhinv",
+    "headKey": "h_choushizhinv",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2281",
+      "2282",
+      "2283"
+    ]
+  },
+  "unresolvedTokens": [
+    "buff_2282_1"
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "id": 353,
+  "name": {
+    "vi": "Khẩn Na La",
+    "en": "Kinnara",
+    "zh": "紧那罗"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 12, 21]",
+    "en": "[1, 12, 21]",
+    "zh": "[1, 12, 21]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2840,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9797,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "15%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "160%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3531,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tự",
+        "en": "Intro",
+        "zh": "序"
+      },
+      "intro": {
+        "vi": "Buổi biểu diễn, sắp sửa bắt đầu rồi.",
+        "en": "The show is about to begin.",
+        "zh": "演奏，马上就要开始了。"
+      },
+      "description": {
+        "vi": "Gẩy dây đàn tấu lên khúc mở đầu, tấn công mục tiêu kẻ địch, gây sát thương bằng 115% Tấn công,",
+        "en": "Strums her lute to play the prelude and attack 1 enemy, dealing damage equal to 115% of her ATK.",
+        "zh": "拨动琴弦奏响序曲，攻击敌方目标，造成攻击115%伤害，"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đòn tấn công sẽ đính kèm hiệu ứng 『Luật Âm』 của lần gẩy trước đó",
+            "en": "Attack inflicts the effects of the last Tune she played.",
+            "zh": "攻击会附加前一次弹奏的『律音』效果"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3531",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3532,
+      "maxLevel": 6,
+      "name": {
+        "vi": "Phá",
+        "en": "Raided",
+        "zh": "破"
+      },
+      "intro": {
+        "vi": "无尽长夜，奏律成光。",
+        "en": "无尽长夜，奏律成光。",
+        "zh": "无尽长夜，奏律成光。"
+      },
+      "description": {
+        "vi": "Gẩy đàn xong tăng 35% Thanh Hành Động cho bản thân, giúp bản thân nhận Che Chắn 1 lượt, có thể kháng 1 lần hiệu ứng khống chế; khi đợt chiến đấu bắt đầu nhận hiệu ứng giảm 50% sát thương bạo kích gánh chịu, mỗi lần gẩy luật âm liền chuyển hóa 10% trong đó thành tăng 20% Sát Thương Bạo Kích cho bản thân.",
+        "en": "After playing a tune, raises her Move Bar by 35% and gains her Shelter that lasts 1 turn and negates controlling effects once. At the start of a round, gains an effect that reduces her Crit DMG taken by 50%. Each time after playing a tune, converts 10% Crit DMG reduction to increase her Crit DMG by 20%.",
+        "zh": "弹奏后增加自身35%行动条，使自身获得庇护1回合，可抵抗1次控制效果；回目开始时获得受到暴击伤害时降低50%效果，每次弹奏律音后将其中10%转化为提升自身20%暴击伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sau khi gẩy luật âm tăng 35% Thanh Hành Động cho bản thân",
+            "en": "After playing a tune, raises her Move Bar by 35%.",
+            "zh": "弹奏律音后提升自身35%行动条"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sau khi gẩy luật âm tăng 35% Thanh Hành Động cho bản thân",
+            "en": "After playing a tune, raises her Move Bar by 35%.",
+            "zh": "弹奏律音后提升自身35%行动条"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sau khi gẩy luật âm tăng 35% Thanh Hành Động cho bản thân",
+            "en": "After playing a tune, raises her Move Bar by 35%.",
+            "zh": "弹奏律音后提升自身35%行动条"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi khi đợt chiến đấu bắt đầu nhận hiệu ứng giảm 50% sát thương bạo kích gánh chịu, mỗi lần gẩy luật âm liền chuyển hóa 10% trong đó thành tăng 20% Sát Thương Bạo Kích cho bản thân",
+            "en": "At the start of a round, gains an effect that reduces her Crit DMG taken by 50%. Each time after playing a tune, converts 10% Crit DMG reduction to increase her Crit DMG by 20%.",
+            "zh": "每回目开始时获得受到暴击伤害时降低50%效果，每次弹奏律音后将其中10%转化为提升自身20%暴击伤害"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi khi đợt chiến đấu bắt đầu nhận hiệu ứng giảm 50% sát thương bạo kích gánh chịu, mỗi lần gẩy luật âm liền chuyển hóa 10% trong đó thành tăng 20% Sát Thương Bạo Kích cho bản thân",
+            "en": "At the start of a round, gains an effect that reduces her Crit DMG taken by 50%. Each time after playing a tune, converts 10% Crit DMG reduction to increase her Crit DMG by 20%.",
+            "zh": "每回目开始时获得受到暴击伤害时降低50%效果，每次弹奏律音后将其中10%转化为提升自身20%暴击伤害"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi khi đợt chiến đấu bắt đầu nhận hiệu ứng giảm 50% sát thương bạo kích gánh chịu, mỗi lần gẩy luật âm liền chuyển hóa 10% trong đó thành tăng 20% Sát Thương Bạo Kích cho bản thân",
+            "en": "At the start of a round, gains an effect that reduces her Crit DMG taken by 50%. Each time after playing a tune, converts 10% Crit DMG reduction to increase her Crit DMG by 20%.",
+            "zh": "每回目开始时获得受到暴击伤害时降低50%效果，每次弹奏律音后将其中10%转化为提升自身20%暴击伤害"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sau khi gẩy luật âm bản thân nhận [buff_3532_1] 1 lượt, có thể kháng 1 lần hiệu ứng khống chế",
+            "en": "After playing a tune, grants her [buff_3532_1] that lasts 1 turn and negates controlling effects once.",
+            "zh": "弹奏律音后自身获得[buff_3532_1]1回合，可抵抗1次控制效果"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sau khi gẩy luật âm bản thân nhận Che Chắn 1 lượt, có thể kháng 1 lần hiệu ứng khống chế",
+            "en": "After playing a tune, gains her Shelter that lasts 1 turn and negates controlling effects once.",
+            "zh": "弹奏律音后自身获得庇护1回合，可抵抗1次控制效果"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sau khi gẩy luật âm bản thân nhận Che Chắn 1 lượt, có thể kháng 1 lần hiệu ứng khống chế",
+            "en": "After playing a tune, gains her Shelter that lasts 1 turn and negates controlling effects once.",
+            "zh": "弹奏律音后自身获得庇护1回合，可抵抗1次控制效果"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Gẩy luật âm tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "Reduces the orb cost of playing a tune by 1 orb.",
+            "zh": "弹奏律音消耗鬼火减少1点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Gẩy luật âm tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "Reduces the orb cost of playing a tune by 1 orb.",
+            "zh": "弹奏律音消耗鬼火减少1点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Gẩy luật âm tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "Reduces the orb cost of playing a tune by 1 orb.",
+            "zh": "弹奏律音消耗鬼火减少1点"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "Gẩy luật âm tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "Reduces the orb cost of playing a tune by 1 orb.",
+            "zh": "弹奏律音消耗鬼火减少1点"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3532",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 3533,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cấp",
+        "en": "Conclusion",
+        "zh": "急"
+      },
+      "intro": {
+        "vi": "Cảm ơn mọi người, đã đồng hành cùng ta tấu nhạc.",
+        "en": "Thank you all for playing this number with me.",
+        "zh": "谢谢你们，陪伴我演奏。"
+      },
+      "description": {
+        "vi": "连续攻击敌方目标5次，每次造成攻击60%伤害。",
+        "en": "连续攻击敌方目标5次，每次造成攻击60%伤害。",
+        "zh": "连续攻击敌方目标5次，每次造成攻击60%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至53%",
+            "en": "伤害增加至53%",
+            "zh": "伤害增加至53%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至56%",
+            "en": "伤害增加至56%",
+            "zh": "伤害增加至56%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至60%",
+            "en": "伤害增加至60%",
+            "zh": "伤害增加至60%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đòn tấn công sẽ đính kèm toàn bộ hiệu ứng 『Luật Âm』 đã từng gẩy",
+            "en": "Attack inflicts the effects of all the Tunes she played.",
+            "zh": "攻击会附加弹奏过的全部『律音』效果"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3533",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "jinnaluo",
+    "headKey": "h_jinnaluo",
+    "armature": "",
+    "artName": "txt_zhanshi_jinnaluo",
+    "skillIconKeys": [
+      "3531",
+      "3532",
+      "3533"
+    ]
+  },
+  "unresolvedTokens": []
+}

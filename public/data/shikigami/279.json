@@ -1,0 +1,220 @@
+{
+  "id": 279,
+  "name": {
+    "vi": "Hoa Điểu Quyển",
+    "en": "Hana",
+    "zh": "花鸟卷"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[10, 7]",
+    "en": "[10, 7]",
+    "zh": "[10, 7]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2117,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12986,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 102,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2791,
+      "maxLevel": 5,
+      "name": {
+        "vi": "归鸟",
+        "en": "归鸟",
+        "zh": "归鸟"
+      },
+      "intro": {
+        "vi": "要记得回来哦。",
+        "en": "要记得回来哦。",
+        "zh": "要记得回来哦。"
+      },
+      "description": {
+        "vi": "Sai khiến tất cả chim bay bên người tấn công mục tiêu kẻ địch, căn cứ vào số lượng chim bay sở hữu để quyết định số lần tấn công, mỗi lần gây sát thương bằng 40% Tấn công, và có 80% xác suất trị liệu cho đồng minh có tỷ lệ HP thấp nhất lượng HP bằng 10% HP tối đa.\nKhi lượt bắt đầu hoặc không có chim bay, bổ sung 1 con chim bay, giới hạn 3 con.\nThực hiện phản kích sẽ tiêu hao 1 con chim bay.",
+        "en": "Commands the birds around her to peck 1 enemy a number of times based on the number of birds she has. Each bird deals damage equal to 40% of her ATK with a 80% chance of restoring the ally with the lowest proportion of HP by 10% of her max HP.\nAt the start of her turn or when she has no birds, replenish 1 bird to a maximum of 3 birds.\nLaunching a counter-attack consumes 1 bird.",
+        "zh": "使唤身旁的所有飞鸟攻击敌方目标，根据拥有的飞鸟数量来决定攻击次数，每次造成攻击40%伤害，并有80%概率为生命比例最低的友方治疗10%生命上限的生命。\n回合开始或没有飞鸟时，补充1只飞鸟，上限3只。\n进行反击将消耗1只飞鸟。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất trị liệu tăng lên 60%",
+            "en": "Increases chance of healing to 60%.",
+            "zh": "治疗概率增至60%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất trị liệu tăng lên 70%",
+            "en": "Increases chance of healing to 70%.",
+            "zh": "治疗概率增至70%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất trị liệu tăng lên 80%",
+            "en": "Increases chance of healing to 80%.",
+            "zh": "治疗概率增至80%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Chim bay giới hạn tăng lên 3 con",
+            "en": "Increases max bird limit to 3.",
+            "zh": "飞鸟上限增至3只"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2791",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2793,
+      "maxLevel": 5,
+      "name": {
+        "vi": "花鸟相闻",
+        "en": "花鸟相闻",
+        "zh": "花鸟相闻"
+      },
+      "intro": {
+        "vi": "莺燕相闻，花草相生。",
+        "en": "莺燕相闻，花草相生。",
+        "zh": "莺燕相闻，花草相生。"
+      },
+      "description": {
+        "vi": "为友方全体治疗生命上限12%的生命，并使之获得[buff_2793_1]，持续2回合，依序治疗生命上限[b_参数p1_per]、[b_参数p2_per]的生命。",
+        "en": "为友方全体治疗生命上限12%的生命，并使之获得[buff_2793_1]，持续2回合，依序治疗生命上限[b_参数p1_per]、[b_参数p2_per]的生命。",
+        "zh": "为友方全体治疗生命上限12%的生命，并使之获得[buff_2793_1]，持续2回合，依序治疗生命上限[b_参数p1_per]、[b_参数p2_per]的生命。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu tăng lên 10%",
+            "en": "Increases healing to 10%.",
+            "zh": "治疗增至10%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_2793_1] lần lượt trị liệu tăng lên [b_参数p1_per], [b_参数p2_per]",
+            "en": "Increases HP restored by [buff_2793_1] in the next 2 turns to [b_参数p1_per] and [b_参数p2_per], respectively.",
+            "zh": "[buff_2793_1]依序治疗增至[b_参数p1_per]、[b_参数p2_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trị liệu tăng lên 12%",
+            "en": "Increases healing to 12%.",
+            "zh": "治疗增至12%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_2793_1] lần lượt trị liệu tăng lên [b_参数p1_per], [b_参数p2_per]",
+            "en": "Increases HP restored by [buff_2793_1] in the next 2 turns to [b_参数p1_per] and [b_参数p2_per], respectively.",
+            "zh": "[buff_2793_1]依序治疗增至[b_参数p1_per]、[b_参数p2_per]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2793",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "huaniaojuan",
+    "headKey": "h_huaniaojuan",
+    "armature": "",
+    "artName": "txt_zhanshi_huaniaojuan",
+    "skillIconKeys": [
+      "2791",
+      "2793"
+    ]
+  },
+  "unresolvedTokens": []
+}

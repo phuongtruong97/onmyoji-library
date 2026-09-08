@@ -1,0 +1,318 @@
+{
+  "id": 274,
+  "name": {
+    "vi": "Cổ Lồng Hỏa",
+    "en": "Koroka",
+    "zh": "古笼火"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17]",
+    "en": "[17]",
+    "zh": "[17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2304,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12189,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 107,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2741,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hỏa Phong Xa",
+        "en": "Fire Pinwheel",
+        "zh": "火风车"
+      },
+      "intro": {
+        "vi": "Hừ hừ, bắt được một kẻ lẻ loi rồi nhé~",
+        "en": "Feeling chilly? Let me warm you up!",
+        "zh": "哼哼，抓到一个落单的~"
+      },
+      "description": {
+        "vi": "Sử dụng pháo hoa tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Uses flames to attack 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "使用焰火攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2741",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2742,
+      "maxLevel": 4,
+      "name": {
+        "vi": "Linh Vận",
+        "en": "Heavenly Fate",
+        "zh": "灵运"
+      },
+      "intro": {
+        "vi": "Mau dừng tay cho ta, đồ ngu!",
+        "en": "Stop at once!",
+        "zh": "快给我住手，蠢货！"
+      },
+      "description": {
+        "vi": "Khi bị tấn công, có 50% xác suất hồi phục 1 điểm Quỷ Hỏa.",
+        "en": "When attacked, has a 50% chance of gaining 1 orb.",
+        "zh": "受到攻击时，有50%概率回复1点鬼火。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 25%",
+            "en": "Increases chance of triggering to 25%.",
+            "zh": "触发概率增至25%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 25%",
+            "en": "Increases chance of triggering to 25%.",
+            "zh": "触发概率增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 30%",
+            "en": "Increases chance of triggering to 30%.",
+            "zh": "触发概率增至30%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 30%",
+            "en": "Increases chance of triggering to 30%.",
+            "zh": "触发概率增至30%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2742",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2743,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ác Hí Chi Hỏa",
+        "en": "Silence Prank",
+        "zh": "恶戏之火"
+      },
+      "intro": {
+        "vi": "Không muốn nghe ngươi nói đâu, mau đi ra đi.",
+        "en": "I don't want to listen to you. Get out of my sight!",
+        "zh": "不想听你说话，快走开。"
+      },
+      "description": {
+        "vi": "对除自身外的任一目标，100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2743_1]，持续2回合。若目标为友方则必定命中。",
+        "en": "对除自身外的任一目标，100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2743_1]，持续2回合。若目标为友方则必定命中。",
+        "zh": "对除自身外的任一目标，100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2743_1]，持续2回合。若目标为友方则必定命中。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_2743_1] hiệu ứng tăng sát thương nâng lên [b2_属性1数值_per]",
+            "en": "Increases [buff_2743_1]'s damage boost effect to [b2_属性1数值_per].",
+            "zh": "[buff_2743_1]提升伤害效果，增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_2743_1] hiệu ứng tăng sát thương nâng lên [b2_属性1数值_per]",
+            "en": "Increases [buff_2743_1]'s damage boost effect to [b2_属性1数值_per].",
+            "zh": "[buff_2743_1]提升伤害效果，增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_2743_1] hiệu ứng tăng sát thương nâng lên [b2_属性1数值_per]",
+            "en": "Increases [buff_2743_1]'s damage boost effect to [b2_属性1数值_per].",
+            "zh": "[buff_2743_1]提升伤害效果，增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_2743_1] hiệu ứng tăng sát thương nâng lên [b2_属性1数值_per]",
+            "en": "Increases [buff_2743_1]'s damage boost effect to [b2_属性1数值_per].",
+            "zh": "[buff_2743_1]提升伤害效果，增至[b2_属性1数值_per]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2743",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "xindenglonggui",
+    "headKey": "h_gulonghuo",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2741",
+      "2742",
+      "2743"
+    ]
+  },
+  "unresolvedTokens": []
+}

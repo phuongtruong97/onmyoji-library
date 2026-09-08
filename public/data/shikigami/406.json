@@ -1,0 +1,171 @@
+{
+  "id": 406,
+  "name": {
+    "vi": "Tenjōkare",
+    "en": "Yellow Imp",
+    "zh": "天邪鬼黄"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4061,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đông Đông",
+        "en": "Boom Boom",
+        "zh": "咚咚"
+      },
+      "intro": {
+        "vi": "Hì hì, đập trúng chưa nè?",
+        "en": "Hehe, did I hit you?",
+        "zh": "嘻嘻，砸中了吗？"
+      },
+      "description": {
+        "vi": "Ném hai chiếc dùi trống tấn công mục tiêu kẻ địch, gây sát thương 125%.",
+        "en": "Throws two drumsticks, dealing damage equal to 125% of his ATK.",
+        "zh": "扔出两只鼓槌攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4061",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 4062,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Leng Keng Keng",
+        "en": "Drumbeat",
+        "zh": "锵锵锵"
+      },
+      "intro": {
+        "vi": "Leng keng keng~ Ta đến cổ vũ cho các bạn đây~",
+        "en": "Feel the beat!",
+        "zh": "锵锵锵～我来给你们助威啦～"
+      },
+      "description": {
+        "vi": "Đánh trống cổ vũ toàn thể đồng minh, tăng [b_属性1数值_per] bạo kích, duy trì 1 lượt.",
+        "en": "Beats his drum to boost his allies' morale, increasing the Crit of all allies by [b_属性1数值_per]. [tips_15] for 1 turn(s).",
+        "zh": "打起鼓来鼓舞友方全体，提升[b_属性1数值_per]暴击，[tips_15]1回合。"
+      },
+      "upgrades": [],
+      "orbCost": 2,
+      "iconKey": "4062",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "huangtianxiegui",
+    "headKey": "h_huangtianxiegui",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4061",
+      "4062"
+    ]
+  },
+  "unresolvedTokens": []
+}

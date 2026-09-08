@@ -1,0 +1,306 @@
+{
+  "id": 304,
+  "name": {
+    "vi": "Ngự Đao Tân",
+    "en": "Miketsu",
+    "zh": "御馔津"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 17]",
+    "en": "[1, 17]",
+    "zh": "[1, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2680,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11392,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 410,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3041,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nhất Thỉ",
+        "en": "Divine Arrow",
+        "zh": "一矢"
+      },
+      "intro": {
+        "vi": "Nhìn ra sơ hở của ngươi rồi!",
+        "en": "I can see a crack in your armor!",
+        "zh": "看到你的破绽了！"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công.\nSau khi kẻ địch hành động, có 5% xác suất thi triển 『Nhất Thỉ • Phong Ma』 lên kẻ đó, gây sát thương tương đương 『Nhất Thỉ』, và có 100% [tips_2] khiến kẻ đó [tips_104], [tips_105], [tips_106], giảm 75% trị liệu, đồng thời không kích hoạt Ngự Hồn và Nội Tại của kẻ đó.",
+        "en": "Attacks 1 enemy, dealing damage equal to 100% of her ATK.\nAfter an enemy takes an action, has a 5% chance of releasing an Arrow of Sealing at the enemy, dealing damage equal to Divine Arrow's damage with a 100% [tips_2] of inflicting [tips_104], [tips_105], [tips_106] or 75% Heal Down upon the enemy. Arrow of Sealing does not trigger soul effects or passive skills of the target.",
+        "zh": "攻击敌方目标，造成攻击100%伤害。\n敌方行动后，有5%概率对其施放『一矢·封魔』，造成等同『一矢』伤害，并有100%[tips_2]使其[tips_104]、[tips_105]、[tips_106]、减疗75%，且不触发其御魂及被动。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至84%",
+            "en": "伤害增加至84%",
+            "zh": "伤害增加至84%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至88%",
+            "en": "伤害增加至88%",
+            "zh": "伤害增加至88%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至92%",
+            "en": "伤害增加至92%",
+            "zh": "伤害增加至92%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3041",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3042,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồ Thụ Giới",
+        "en": "Fox Realm",
+        "zh": "狐狩界"
+      },
+      "intro": {
+        "vi": "Cùng ta, bảo vệ mảnh đất này...",
+        "en": "Together, let's protect this land...",
+        "zh": "和我一起，守护这片土地..."
+      },
+      "description": {
+        "vi": "Tạo ra kết giới tồn tại 1 lượt, khiến tỷ lệ thi triển 『Nhất Thỉ • Phong Ma』 tăng lên [b_参数p1_per], đồng thời khi thi triển sẽ nhận 4 tầng [buff_3041_1], giới hạn 12 tầng.\n[tips_7]: Thi triển 『Hồ Thụ Giới』",
+        "en": "Forms a Fox Realm lasting 1 turn. The realm increases her chance of releasing Arrow of Seal to [b_参数p1_per] and grants her 4 layers of [buff_3041_1] stacking up to 12 layers.\n[tips_7]: Forms a Fox Realm.",
+        "zh": "创造存在1回合的结界，使『一矢·封魔』的施放概率提升至[b_参数p1_per]，且在施放时将获得4层[buff_3041_1]，上限12层。\n[tips_7]：施放『狐狩界』"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "该技能无法升级",
+            "en": "该技能无法升级",
+            "zh": "该技能无法升级"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "该技能无法升级",
+            "en": "该技能无法升级",
+            "zh": "该技能无法升级"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "该技能无法升级",
+            "en": "该技能无法升级",
+            "zh": "该技能无法升级"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "该技能无法升级",
+            "en": "该技能无法升级",
+            "zh": "该技能无法升级"
+          }
+        }
+      ],
+      "orbCost": 5,
+      "iconKey": "3042",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 3043,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nhiên Bạo • Phá Ma Tiễn",
+        "en": "Ignite: Magic Arrow",
+        "zh": "燃爆·破魔箭"
+      },
+      "intro": {
+        "vi": "Xin lỗi, đây... là sứ mệnh của ta!",
+        "en": "I'm sorry, but I must do my duty!",
+        "zh": "对不起，这...是我的使命！"
+      },
+      "description": {
+        "vi": "Bắn cháy tất cả linh bùa tấn công mục tiêu kẻ địch, gây sát thương bằng 195% Tấn công, và tiêu hao tất cả số tầng [buff_3041_1], mỗi tầng tăng thêm 25% sát thương đòn đó.",
+        "en": "Ignites all amulets to attack 1 enemy, dealing damage equal to 195% of her ATK. Consumes all layers of [buff_3041_1] she has, increasing the damage by 25% for each layer consumed.",
+        "zh": "引燃全部灵符攻击敌方目标，造成攻击195%伤害，并消耗所有[buff_3041_1]层数，每层额外提升该次伤害25%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi tầng tăng sát thương nâng lên 21%",
+            "en": "Increases each layer's damage to 21%.",
+            "zh": "每层提升伤害增至21%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi tầng tăng sát thương nâng lên 22%",
+            "en": "Increases each layer's damage to 22%.",
+            "zh": "每层提升伤害增至22%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Mỗi tầng tăng sát thương nâng lên 23%",
+            "en": "Increases each layer's damage to 23%.",
+            "zh": "每层提升伤害增至23%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi tầng tăng sát thương nâng lên 25%",
+            "en": "Increases each layer's damage to 25%.",
+            "zh": "每层提升伤害增至25%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3043",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yuzhuanjin",
+    "headKey": "h_yuzhuanjin",
+    "armature": "",
+    "artName": "txt_zhanshi_yuzhuanjin",
+    "skillIconKeys": [
+      "3041",
+      "3042",
+      "3043"
+    ]
+  },
+  "unresolvedTokens": []
+}

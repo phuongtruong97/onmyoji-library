@@ -1,0 +1,302 @@
+{
+  "id": 385,
+  "name": {
+    "vi": "Oyamatsumi Enma",
+    "en": "Yamalord Enma",
+    "zh": "大夜摩天阎魔"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17]",
+    "en": "[17]",
+    "zh": "[17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2144,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12804,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 476,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 113,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "3%",
+      "grade": "C"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3851,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vong Giả Tài Quyết",
+        "en": "Verdict on the Dead",
+        "zh": "亡者裁决"
+      },
+      "intro": {
+        "vi": "Thu hồi tên của các người.",
+        "en": "I shall reap your names.",
+        "zh": "收割汝等之名。"
+      },
+      "description": {
+        "vi": "Thi triển trừng phạt từ luyện ngục bằng đôi tay, gây 125% sát thương cho mục tiêu kẻ địch đồng thời có 60% [tips_2] đính kèm 1 tầng [buff_3851_1].",
+        "en": "Unleashes inferno punishment on 1 enemy, dealing damage equal to 125% of her ATK, with a 60% [tips_2] of inflicting a [buff_3851_1] stack.",
+        "zh": "以双手施予来自炼狱的惩戒，对敌方目标造成攻击125%伤害并有60%[tips_2]附加1层[buff_3851_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 125% đồng thời có 60% [tips_2] đính kèm 1 tầng [buff_3851_1].",
+            "en": "Increases damage to 125% and grants a 60% [tips_2] of inflicting a [buff_3851_1] stack.",
+            "zh": "伤害增加至125%并有60%[tips_2]附加1层[buff_3851_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3851",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3852,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Luân Hồi Chi Phổ",
+        "en": "Book of Reincarnation",
+        "zh": "轮回之簿"
+      },
+      "intro": {
+        "vi": "Các ngươi, hãy cùng ta luân hồi đi.",
+        "en": "Follow me into the circle of reincarnation.",
+        "zh": "汝等，随我轮回吧。"
+      },
+      "description": {
+        "vi": "[tips_11].\nSau khi kết thúc lượt, ghi lại 30% tổng HP ban đầu của toàn thể đồng minh không phải vật triệu hồi vào trong [tips_3853].\nNếu [tips_3853] bị tiêu hao toàn bộ hoặc đồng minh không phải vật triệu hồi tử trận mà bản thân đang ở trạng thái [tips_27], sẽ [Thi triển] không tốn tiêu hao «An Hồn Quỷ Vực» lên nguồn gây sát thương; nếu lúc này đang ở trạng thái [tips_3], sẽ giải trừ hoặc [tips_1] tất cả [tips_3] đồng thời tăng 30% thanh hành động. Tối đa có hiệu lực 5 lần mỗi hiệp.\nNếu sau khi kết thúc lượt của mục tiêu kẻ địch, toàn thể kẻ địch không mang [buff_3856_1], mục tiêu đó có 60% xác suất cơ bản áp đặt 1 tầng [buff_3851_1].",
+        "en": "[tips_11].\nAt the end of her turn, records 30% of the total starting HP of all non-summoned ally entities in [tips_3853].\nWhen the HP recorded in [tips_3853] is reduced to 0 or a non-summoned ally entity is KO'd, as long as she's under any [tips_27], uses Requiem Realm on the source of the damage free of orb cost. If she's under any [tips_3], dispels or [tips_1]s all the [tips_3]s on her and raises her Move Bar by 30% (can be triggered only up to 5 times each round.)\nAt the end of an enemy's turn, if no enemy is in [buff_3856_1], there's a 60% base chance of inflicting a stack of [buff_3851_1] on the enemy.",
+        "zh": "[tips_11]。\n回合结束后，将非召唤物的友方全体初始总生命的30%记录于[tips_3853]中。\n若[tips_3853]被全部消耗或非召唤物友方阵亡且自身处于[tips_27]时，则对伤害来源无消耗施放「安魂鬼域」；若此时处于[tips_3]，则驱散或[tips_1]所有[tips_3]并增加30%行动条。一回目至多生效5次。\n若敌方目标回合结束后，敌方全体未携带[buff_3856_1]，则该目标有60%基础概率附加1层[buff_3851_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Ghi lại 37% HP của toàn thể đồng minh.",
+            "en": "Records 37% of all allies' HP.",
+            "zh": "记录全体友方37%的生命"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Ghi lại 34% HP của toàn thể đồng minh.",
+            "en": "Records 34% of all allies' HP.",
+            "zh": "记录全体友方34%的生命"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Ghi lại 30% HP của toàn thể đồng minh.",
+            "en": "Records 30% of all allies' HP.",
+            "zh": "记录全体友方30%的生命"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu sau khi kết thúc lượt của mục tiêu kẻ địch, toàn thể kẻ địch không mang [buff_3856_1], mục tiêu đó có 60% xác suất cơ bản áp đặt 1 tầng [buff_3851_1].",
+            "en": "At the end of an enemy's turn, if no enemy is in [buff_3856_1], there's a 60% base chance of inflicting an [buff_3851_1] stack on the enemy.",
+            "zh": "若敌方目标回合结束后，敌方全体未携带[buff_3856_1]，则该目标有60%基础概率附加1层[buff_3851_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3852",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3853,
+      "maxLevel": 5,
+      "name": {
+        "vi": "An Hồn Quỷ Vực",
+        "en": "Requiem Realm",
+        "zh": "安魂鬼域"
+      },
+      "intro": {
+        "vi": "Cảm nhận sự tiếp nối của sự sống tại đây.",
+        "en": "Your life will continue in this realm.",
+        "zh": "在此感受生之延续。"
+      },
+      "description": {
+        "vi": "Tước đoạt tên của vong linh, ban cho sự an ninh không đau đớn.\nGây 256% sát thương cho mục tiêu kẻ địch, có 70% [tips_2] khiến mục tiêu [tips_107] 1 lượt, ([tips_11]) có 60% [tips_2] đính kèm 2 tầng [buff_3851_1] cho toàn thể kẻ địch. Nếu biến hình không có hiệu lực, sẽ có 100% xác suất cơ bản áp đặt 1 tầng [buff_3851_1] lên mục tiêu đó.",
+        "en": "Removes the names of the dead souls, granting them a painless peace.\nLaunches an attack on 1 enemy, dealing damage equal to 256% of her ATK, with a 70% [tips_2] of inflicting [tips_107] lasting 1 turn on them. [tips_11] There's a 60% [tips_2] of inflicting 2 [buff_3851_1] stacks on all enemies. If she fails to inflict Morph, there's a 100% base chance of inflicting a [buff_3851_1] stack.",
+        "zh": "取走亡灵的名字，给予没有痛苦的安宁。\n对敌方目标造成攻击256%伤害，有70%[tips_2]使其[tips_107]1回合,（[tips_11]）有60%[tips_2]对敌方全体附加2层[buff_3851_1]。若变形未生效，则对其有100%基础概率附加1层[buff_3851_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng đến 240%.",
+            "en": "Increases damage to 240%.",
+            "zh": "伤害增至240%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng đến 248%.",
+            "en": "Increases damage to 248%.",
+            "zh": "伤害增至248%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng đến 256%.",
+            "en": "Increases damage to 256%.",
+            "zh": "伤害增至256%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu biến hình không có hiệu lực, sẽ có 100% xác suất cơ bản áp đặt 1 tầng [buff_3851_1] lên mục tiêu đó.",
+            "en": "If she fails to inflict Morph, there's a 100% base chance of inflicting a [buff_3851_1] stack.",
+            "zh": "若变形未生效，则对其有100%基础概率附加1层[buff_3851_1]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3853",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_yanmo",
+    "headKey": "h_sp_yanmo",
+    "armature": [
+      "s2_spyanmokamianicon_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_sp_yanmo",
+    "skillIconKeys": [
+      "3851",
+      "3852",
+      "3853"
+    ]
+  },
+  "unresolvedTokens": []
+}

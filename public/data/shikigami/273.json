@@ -1,0 +1,365 @@
+{
+  "id": 273,
+  "name": {
+    "vi": "Thanh Phường Chủ",
+    "en": "Aobozu",
+    "zh": "青坊主"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 5]",
+    "en": "[1, 5]",
+    "zh": "[1, 5]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2170,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12303,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 379,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2731,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ma Kha",
+        "en": "Divine Greatness",
+        "zh": "摩诃"
+      },
+      "intro": {
+        "vi": "Vạn vật đều là hư vọng.",
+        "en": "All life is but an illusion.",
+        "zh": "万物皆虚妄。"
+      },
+      "description": {
+        "vi": "Sử dụng linh chú tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Uses a soul spell to attack 1 enemy, dealing damage equal to 125% of his ATK.",
+        "zh": "使用灵咒攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2731",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2732,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Vô Lượng",
+        "en": "Fortification",
+        "zh": "无量"
+      },
+      "intro": {
+        "vi": "Hóa thành cát bụi, lá rụng về cội đi.",
+        "en": "Be strengthened by my holy light!",
+        "zh": "化为尘土，落叶归根吧。"
+      },
+      "description": {
+        "vi": "[tips_11].\nKhi bắt đầu trận đấu, nhận 1 tầng [buff_2732_1], giới hạn 6 tầng, tối thiểu 1 tầng, duy trì đến khi trận đấu kết thúc.\nMỗi khi phe ta bị [tips_3], nhận 1 tầng [buff_2732_1]; khi kết thúc lượt, mất 1 tầng [buff_2732_1].",
+        "en": "[tips_11].\nGains a layer of [buff_2732_1] (limited to 6 layers; at least 1 layer is active) at the start of battle until the end of battle.\nWhen an ally is affected by a [tips_3], gains a layer of [buff_2732_1]. [buff_2732_1] decreases by 1 layer at the end of his turns.",
+        "zh": "[tips_11]。\n战斗开始时，获得1层[buff_2732_1]，上限6层，最少1层，持续到战斗结束。\n每当友方受到[tips_3]时，获得1层[buff_2732_1]；回合结束时，失去1层[buff_2732_1]。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "2732",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2733,
+      "maxLevel": 6,
+      "name": {
+        "vi": "Thiền Tâm",
+        "en": "Peaceful Heart",
+        "zh": "禅心"
+      },
+      "intro": {
+        "vi": "Phật môn thanh tịnh, không được làm rùa làm hươu.",
+        "en": "A peaceful heart is the key to enlightenment.",
+        "zh": "佛门清净，不可造次。"
+      },
+      "description": {
+        "vi": "使用灵咒攻击敌方全体，造成攻击222%伤害，对召唤物造成双倍伤害。青坊主杀心受[buff_2732_1]抑制，每层降低10%伤害。",
+        "en": "使用灵咒攻击敌方全体，造成攻击222%伤害，对召唤物造成双倍伤害。青坊主杀心受[buff_2732_1]抑制，每层降低10%伤害。",
+        "zh": "使用灵咒攻击敌方全体，造成攻击222%伤害，对召唤物造成双倍伤害。青坊主杀心受[buff_2732_1]抑制，每层降低10%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至195%",
+            "en": "伤害增加至195%",
+            "zh": "伤害增加至195%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至195%",
+            "en": "伤害增加至195%",
+            "zh": "伤害增加至195%"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至195%",
+            "en": "伤害增加至195%",
+            "zh": "伤害增加至195%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至204%",
+            "en": "伤害增加至204%",
+            "zh": "伤害增加至204%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至204%",
+            "en": "伤害增加至204%",
+            "zh": "伤害增加至204%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至204%",
+            "en": "伤害增加至204%",
+            "zh": "伤害增加至204%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至213%",
+            "en": "伤害增加至213%",
+            "zh": "伤害增加至213%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至213%",
+            "en": "伤害增加至213%",
+            "zh": "伤害增加至213%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至213%",
+            "en": "伤害增加至213%",
+            "zh": "伤害增加至213%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至222%",
+            "en": "伤害增加至222%",
+            "zh": "伤害增加至222%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至222%",
+            "en": "伤害增加至222%",
+            "zh": "伤害增加至222%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至222%",
+            "en": "伤害增加至222%",
+            "zh": "伤害增加至222%"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "伤害增加至222%",
+            "en": "伤害增加至222%",
+            "zh": "伤害增加至222%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2733",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "qingfangzhu",
+    "headKey": "h_qingfangzhu",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2731",
+      "2732",
+      "2733"
+    ]
+  },
+  "unresolvedTokens": []
+}

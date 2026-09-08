@@ -1,0 +1,220 @@
+{
+  "id": 371,
+  "name": {
+    "vi": "Xuyên Viên",
+    "en": "Kawazaru",
+    "zh": "川猿"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17, 8, 1]",
+    "en": "[17, 8, 1]",
+    "zh": "[17, 8, 1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2546,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11050,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 357,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 113,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "9%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3711,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hoa Chỉ Tản",
+        "en": "Scattered Paper",
+        "zh": "花纸散"
+      },
+      "intro": {
+        "vi": "Đừng lại gần ta, u-ki!",
+        "en": "Wee choo, stay away from me!",
+        "zh": "别靠近我，呜叽！"
+      },
+      "description": {
+        "vi": "Ném giấy hoa trong tay về phía kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Throws paper sprinkles to attack 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "向敌方丢出手中的花纸，造成攻击125%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3711",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3713,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Biến Hán Tự Tại",
+        "en": "Shapeshifting Mastery",
+        "zh": "变幻自在"
+      },
+      "intro": {
+        "vi": "Xoạt xoạt xoạt ——",
+        "en": "Whoosh, whoosh, whoosh!",
+        "zh": "咻咻咻——"
+      },
+      "description": {
+        "vi": "Xuyên Viên biến hóa khôn lường, có thể tiêu hao [tips_3711] để biến ảo hình thái. Sau khi chuyển đổi hình thái, nhận [tips_3713] bằng 15% HP tối đa của bản thân, khi khiên giấy hoa biến mất hoặc chuyển sang hình thái khác, kết thúc hình thái hiện tại.\n【Thi triển】 Biến ảo hình thái, mở khóa một trong các kỹ năng 「Ngươi Là Kẻ Xấu」, 「Đừng Đuổi Theo Ta Nữa」, 「Mau Trốn Đi」 và thi triển hiệu ứng kỹ năng tương ứng.",
+        "en": "Kawazaru has many faces and can spend [tips_3711] to change her form. After completing a transformation, gains [tips_3713], absorbing damage equal to 15% of her max HP. The current form ends when the Paper Shield fails or she transforms again.\nUsing the skill transforms her, unlocking and using one of the following skills: You're Evil!, Stop Chasing Me!, and I'd Better Hide!",
+        "zh": "川猿千变万化，可以消耗[tips_3711]变幻形态。切换形态后，获得自身最大生命值15%的[tips_3713]，当花纸盾消失或切换其他形态时，结束当前形态。\n【施放】变幻形态，解锁「你是坏人」、「别再追我啦」、「快躲起来」中一个的技能并施放对应技能效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hệ số hấp thụ của khiên giấy hoa nâng lên 30%",
+            "en": "Increases the damage absorbed by Paper Shield to 30%.",
+            "zh": "花纸盾的吸收系数提高至30%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "「Ngươi Là Kẻ Xấu」 gây thêm sát thương bằng 180% Tấn công",
+            "en": "You're Evil! also inflicts damage equal to 180% of her ATK.",
+            "zh": "「你是坏人」额外造成攻击180%的伤害"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "「Đừng Đuổi Theo Ta Nữa」 đính kèm [buff_37152_1] cho mục tiêu, duy trì 1 lượt",
+            "en": "Stop Chasing Me! inflicts [buff_37152_1] lasting 1 turns on the target.",
+            "zh": "「别再追我啦」对目标施加[buff_37152_1]，持续1回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "「Mau Trốn Đi」 trị liệu lượng HP bằng 31% Tấn công của Xuyên Viên cho tất cả đồng đội",
+            "en": "I'd Better Hide! heals the HP of all allies by 31% of Kawazaru's ATK.",
+            "zh": "「快躲起来」治疗所有队友川猿31%攻击的生命"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3713",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "chuanyuan",
+    "headKey": "h_chuanyuan",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3711",
+      "3713"
+    ]
+  },
+  "unresolvedTokens": []
+}

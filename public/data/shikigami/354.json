@@ -1,0 +1,253 @@
+{
+  "id": 354,
+  "name": {
+    "vi": "Đãi Tiêu Cô Hoạch Điểu",
+    "en": "Guardian Ubume",
+    "zh": "待宵姑获鸟"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 29]",
+    "en": "[1, 29]",
+    "zh": "[1, 29]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3269,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10480,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 379,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 115,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "12%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3541,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mặc Phong",
+        "en": "Ink Wind",
+        "zh": "墨风"
+      },
+      "intro": {
+        "vi": "Dù kiếm của ta tồn tại là để bảo vệ họ.",
+        "en": "My umbrella sword is built to protect them.",
+        "zh": "我的伞剑是为了保护他们而存在。"
+      },
+      "description": {
+        "vi": "Uyển chuyển thanh thoát rút dù kiếm chém mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công. Mỗi 3 lần Đánh Thường, lần Đánh Thường tiếp theo sẽ thay bằng 『Mặc Ảnh Kiếm Quang』. Khi tiến vào trận đấu, coi như đã Đánh Thường 2 lần.",
+        "en": "Moves like a feather and unsheathes her sword to attack 1 enemy, dealing damage equal to 125% of her ATK. After 3 normal attacks, the next normal attack will be replaced with Ink-shadow Slash. At the start of battle, she's regarded as having used 2 normal attacks.",
+        "zh": "灵动飘逸地拔出伞剑挥砍敌方目标，造成攻击125%伤害。每3次普攻后，下1次普攻会替换为『墨影剑光』。进入战斗的时候，视为已经普攻2次。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%. Sát thương sau mỗi 3 lần Đánh Thường không còn giảm 30%",
+            "en": "Increases damage to 125%. Damage will no longer be reduced by 30% for every 3 normal attacks used.",
+            "zh": "伤害增加至125%。每3次普攻后的伤害不再降低30%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3541",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3542,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Mặc Ảnh",
+        "en": "Ink Shadow",
+        "zh": "墨影"
+      },
+      "intro": {
+        "vi": "Nhìn đi, ta sẽ dạy ngươi làm thế nào để chiến đấu.",
+        "en": "Watch and learn how I fight.",
+        "zh": "看吧，我将教你如何战斗。"
+      },
+      "description": {
+        "vi": "[tips_11]\nKhi lượt bắt đầu, nhận 2 tầng [buff_3542_1].",
+        "en": "[tips_11]\nAt the start of her turn, gains 2 [buff_3542_1] stacks.",
+        "zh": "[tips_11]\n回合开始时，获得2层[buff_3542_1]。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "3542",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3543,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mặc Ảnh Kiếm Quang",
+        "en": "Ink-shadow Slash",
+        "zh": "墨影剑光"
+      },
+      "intro": {
+        "vi": "Nếu có thể, ta nguyện vĩnh viễn bảo vệ họ.",
+        "en": "If I can, I will protect them forever.",
+        "zh": "如果可以，我愿永远守护他们。"
+      },
+      "description": {
+        "vi": "Đãi Tiêu Cô Hoạch Điểu hóa thành mực ảnh gây cho toàn bộ kẻ địch sát thương bằng 130% Tấn công, sau đó điều khiển kiếm khí gây cho mục tiêu được chọn 3 lần sát thương bằng 74% Tấn công. Mực ảnh mỗi khi Bạo kích 1 lần lên kẻ địch, sát thương kiếm khí gây ra cho mục tiêu tăng 10%; mực ảnh mỗi khi hạ gục 1 đơn vị kẻ địch, sát thương kiếm khí gây ra cho mục tiêu tăng 15%. Nếu mục tiêu được chọn bị mực ảnh hạ gục, kiếm khí sẽ tấn công kẻ địch có HP cao nhất.",
+        "en": "Guardian Ubume becomes an Ink-shadow and launches an attack on all enemies, dealing damage equal to 130% of her ATK. She then commands her umbrella to inflict a 3-strike attack on target enemy, dealing damage equal to 74% of her ATK on each strike. Each time the Ink-shadow lands a critical hit on an enemy, her damage dealt to the target enemy increases by 15%. Each enemy KO'd by the Ink-shadow increases her damage dealt to the target enemy by 10%. If the target enemy is KO'd by the Ink-shadow, her umbrella will switch to attack the enemy with the highest HP instead.",
+        "zh": "待宵姑获鸟化身墨影对全体敌人造成攻击130%伤害，然后驾驭剑气对所选目标造成3次攻击74%伤害。墨影每对敌方暴击1次，剑气对目标的伤害增加10%；墨影每击败1个敌方单位，剑气对目标的伤害增加15%。若所选目标被墨影击败，剑气会攻击生命最高的敌方。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương mực ảnh tăng lên 110%, sát thương lên mục tiêu tăng lên 66%",
+            "en": "Increases Ink-shadow's damage to 110% and her damage to the target enemy to 66%.",
+            "zh": "墨影伤害增加至110%，对目标伤害增加至66%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương mực ảnh tăng lên 120%, sát thương lên mục tiêu tăng lên 70%",
+            "en": "Increases Ink-shadow's damage to 120% and her damage to the target enemy to 70%.",
+            "zh": "墨影伤害增加至120%，对目标伤害增加至70%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương mực ảnh tăng lên 130%, sát thương lên mục tiêu tăng lên 74%",
+            "en": "Increases Ink-shadow's damage to 130% and her damage to the target enemy to 74%.",
+            "zh": "墨影伤害增加至130%，对目标伤害增加至74%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mực ảnh mỗi khi Bạo kích 1 lần lên kẻ địch, sát thương kiếm khí gây ra cho mục tiêu tăng 10%; mực ảnh mỗi khi hạ gục 1 đơn vị kẻ địch, sát thương kiếm khí gây ra cho mục tiêu tăng 15%",
+            "en": "Each time the Ink-shadow lands a critical hit on an enemy, the Slash's damage to the target increases by 10%. Each time the Ink-shadow KO's an enemy, the Slash's damage to the target increases by 15%.",
+            "zh": "墨影每对敌方暴击1次，剑气对目标的伤害增加10%；墨影每击败1个敌方单位，剑气对目标的伤害增加15%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3543",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_guhuoniao",
+    "headKey": "j_spguhuoniao",
+    "armature": [
+      "sp_guhuoniao_card",
+      0,
+      1
+    ],
+    "artName": "txt_zhanshi_daixiaoguhuoniao",
+    "skillIconKeys": [
+      "3541",
+      "3542",
+      "3543"
+    ]
+  },
+  "unresolvedTokens": []
+}

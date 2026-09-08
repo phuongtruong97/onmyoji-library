@@ -1,0 +1,402 @@
+{
+  "id": 231,
+  "name": {
+    "vi": "Quỷ Nữ Hồng Diệp",
+    "en": "Momiji",
+    "zh": "鬼女红叶"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2680,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9227,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 392,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 104,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2311,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hồng Phong",
+        "en": "Maple Shot",
+        "zh": "红枫"
+      },
+      "intro": {
+        "vi": "Hề hề~ Xem này... Lá phong này thật đỏ, thật đẹp làm sao.",
+        "en": "Hehe! Look how red my maple leaves are! Aren't they beautiful?",
+        "zh": "呵呵~看…这枫叶多红、多漂亮。"
+      },
+      "description": {
+        "vi": "Bắn lá phong tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Shoots maple leaves at 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "发射枫叶攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2311",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2312,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bạo Tạc Chi Chú",
+        "en": "Explosive Death",
+        "zh": "爆炸之咒"
+      },
+      "intro": {
+        "vi": "Nổ tung đi, haha! A ha ha ha ha~!",
+        "en": "Explode! Hahaha! Hahahaha!",
+        "zh": "爆炸吧，哈哈哈！啊哈哈哈哈~！"
+      },
+      "description": {
+        "vi": "Khi tấn công, đính kèm [buff_2312_1] cho mục tiêu, duy trì 2 lượt. Mục tiêu mang [buff_2312_1] sau khi thi triển kỹ năng tiêu hao Quỷ Hỏa, có 50% xác suất bị giảm 1 điểm Quỷ Hỏa. Khi mục tiêu mang [buff_2312_1] tử trận, tiêu hao [buff_2312_1] của mỗi kẻ địch, mỗi tầng tiêu hao gây [tips_5] bằng 42% Tấn công cho toàn bộ phe địch.",
+        "en": "When she attacks, inflicts a [buff_2312_1] lasting 2 turns on the target. Targets with [buff_2312_1]s have a 50% chance of 1 orb being removed after using a skill that costs orbs. When a target with [buff_2312_1] is KO'd, consumes the [buff_2312_1]s on every one of her enemies, dealing 42% [tips_5] to all enemies for each one consumed.",
+        "zh": "攻击时，为目标附加[buff_2312_1]，持续2回合。带有[buff_2312_1]的目标，施放消耗鬼火的技能后，50%概率削减1点鬼火。带有[buff_2312_1]的目标阵亡时，消耗每个敌方的[buff_2312_1]，每消耗一个，便对敌方全体造成攻击42%[tips_5]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
+            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
+            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
+            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
+            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
+            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
+            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
+            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
+            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
+            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
+            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
+            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
+            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
+            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
+            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
+            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
+            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
+            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
+            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mục tiêu mang [buff_2312_1], sau khi thi triển kỹ năng tiêu hao Quỷ Hỏa, có 50% xác suất bị giảm 1 điểm Quỷ Hỏa",
+            "en": "Targets with [buff_2312_1]s have a 50% chance of 1 orb being removed after using a skill that costs orbs.",
+            "zh": "带有[buff_2312_1]的目标，施放消耗鬼火的技能后，50%概率削减1点鬼火"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mục tiêu mang [buff_2312_1], sau khi thi triển kỹ năng tiêu hao Quỷ Hỏa, có 50% xác suất bị giảm 1 điểm Quỷ Hỏa",
+            "en": "Targets with [buff_2312_1]s have a 50% chance of 1 orb being removed after using a skill that costs orbs.",
+            "zh": "带有[buff_2312_1]的目标，施放消耗鬼火的技能后，50%概率削减1点鬼火"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mục tiêu mang [buff_2312_1], sau khi thi triển kỹ năng tiêu hao Quỷ Hỏa, có 50% xác suất bị giảm 1 điểm Quỷ Hỏa",
+            "en": "Targets with [buff_2312_1]s have a 50% chance of 1 orb being removed after using a skill that costs orbs.",
+            "zh": "带有[buff_2312_1]的目标，施放消耗鬼火的技能后，50%概率削减1点鬼火"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2312",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2313,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tử Vong Chi Vũ",
+        "en": "Dance of Death",
+        "zh": "死亡之舞"
+      },
+      "intro": {
+        "vi": "Đến khiêu vũ cùng ta nào, trên những chiếc lá phong đỏ thắm này ——!",
+        "en": "Come dance with me on these red maple leaves!",
+        "zh": "来和我跳舞吧，在这红色的枫叶上——！"
+      },
+      "description": {
+        "vi": "以妖力舞动红枫化作利刃飞速割伤敌方全体，造成攻击159%伤害。",
+        "en": "以妖力舞动红枫化作利刃飞速割伤敌方全体，造成攻击159%伤害。",
+        "zh": "以妖力舞动红枫化作利刃飞速割伤敌方全体，造成攻击159%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至139%",
+            "en": "伤害增加至139%",
+            "zh": "伤害增加至139%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至146%",
+            "en": "伤害增加至146%",
+            "zh": "伤害增加至146%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至152%",
+            "en": "伤害增加至152%",
+            "zh": "伤害增加至152%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至159%",
+            "en": "伤害增加至159%",
+            "zh": "伤害增加至159%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2313",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "guinvhongye",
+    "headKey": "h_guinvhongye",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2311",
+      "2312",
+      "2313"
+    ]
+  },
+  "unresolvedTokens": []
+}

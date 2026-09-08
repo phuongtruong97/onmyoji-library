@@ -1,0 +1,402 @@
+{
+  "id": 238,
+  "name": {
+    "vi": "Huỳnh Thảo",
+    "en": "Kusa",
+    "zh": "萤草"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[10]",
+    "en": "[10]",
+    "zh": "[10]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 93,
+      "grade": "D"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2381,
+      "maxLevel": 5,
+      "name": {
+        "vi": "吸取",
+        "en": "吸取",
+        "zh": "吸取"
+      },
+      "intro": {
+        "vi": "我也来帮忙～",
+        "en": "我也来帮忙～",
+        "zh": "我也来帮忙～"
+      },
+      "description": {
+        "vi": "Hội tụ yêu lực tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công, và kèm theo 30% Hút Máu.",
+        "en": "Focuses her magical power and attacks 1 enemy, dealing damage equal to 125% of her ATK and inflicting a 30% HP Steal on them.",
+        "zh": "汇聚妖力攻击敌方目标，造成攻击125%伤害，并附带30%吸血。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2381",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2382,
+      "maxLevel": 5,
+      "name": {
+        "vi": "生花",
+        "en": "生花",
+        "zh": "生花"
+      },
+      "intro": {
+        "vi": "只要不放弃，一定还有希望！",
+        "en": "只要不放弃，一定还有希望！",
+        "zh": "只要不放弃，一定还有希望！"
+      },
+      "description": {
+        "vi": "Khi bị tấn công, trị liệu lượng HP bằng 19% Tấn công.\nTrong một đòn tấn công đơn lẻ kích hoạt tối đa 1 lần.\nKhi Tấn công của nguồn gây sát thương thấp hơn Huỳnh Thảo, sát thương Huỳnh Thảo gánh chịu giảm 30%.",
+        "en": "When attacked, heals her HP by 19% of her ATK.\nTriggers only once for a single attack.\nIf the source of the damage has a lower ATK than Kusa's, reduces the damage taken by Kusa by 30%.",
+        "zh": "受到攻击时，治疗攻击19%的生命。\n单次攻击内最多触发1次。\n当伤害来源的攻击力低于萤草时，萤草受到的伤害降低30%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "治疗增至16%",
+            "en": "治疗增至16%",
+            "zh": "治疗增至16%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "治疗增至17%",
+            "en": "治疗增至17%",
+            "zh": "治疗增至17%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "治疗增至18%",
+            "en": "治疗增至18%",
+            "zh": "治疗增至18%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "治疗增至19%",
+            "en": "治疗增至19%",
+            "zh": "治疗增至19%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2382",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2383,
+      "maxLevel": 5,
+      "name": {
+        "vi": "治愈之光",
+        "en": "治愈之光",
+        "zh": "治愈之光"
+      },
+      "intro": {
+        "vi": "神啊，请您施以治愈的恩泽~",
+        "en": "神啊，请您施以治愈的恩泽~",
+        "zh": "神啊，请您施以治愈的恩泽~"
+      },
+      "description": {
+        "vi": "Trị liệu lượng HP bằng 104% Tấn công cho toàn bộ phe ta, và khiến họ nhận [buff_2383_1], duy trì 2 lượt, mỗi lượt trị liệu lượng HP bằng [b_参数p1_per] Tấn công.\nTrong thời gian [buff_2383_1], [tips_5] chịu phải lần đầu mỗi lượt sẽ được chuyển hóa thành lượng trị liệu tương đương.",
+        "en": "Restores HP of all allies by 104% of her ATK and grants them [buff_2383_1] lasting 2 turn(s), restoring their HP by [b_参数p1_per] of her ATK on each turn.\nWhile [buff_2383_1] is active, the first [tips_5] they take becomes an equal amount of HP healed.",
+        "zh": "为友方全体治疗攻击104%的生命，并使之获得[buff_2383_1]，持续2回合，每回合治疗攻击[b_参数p1_per]的生命。\n[buff_2383_1]期间，每回合首次受到的[tips_5]将被转化为等量的治疗。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu tăng lên 91%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 23% Tấn công",
+            "en": "Increases healing to 91% and the healing of Photosynthesis after her evolution to 23% of her ATK.",
+            "zh": "治疗增至91%，觉醒后光合作用治疗增至23%攻击"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu tăng lên 91%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 23% Tấn công",
+            "en": "Increases healing to 91% and the healing of Photosynthesis after her evolution to 23% of her ATK.",
+            "zh": "治疗增至91%，觉醒后光合作用治疗增至23%攻击"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hồi phục tăng thành 190% Tấn công của Huỳnh Thảo",
+            "en": "The HP restored is 190% of Kusa's ATK.",
+            "zh": "回复量增加为萤草攻击的190%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trị liệu tăng lên 95%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 24% Tấn công",
+            "en": "Increases healing to 95% and the healing of Photosynthesis after her evolution to 24% of her ATK.",
+            "zh": "治疗增至95%，觉醒后光合作用治疗增至24%攻击"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trị liệu tăng lên 95%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 24% Tấn công",
+            "en": "Increases healing to 95% and the healing of Photosynthesis after her evolution to 24% of her ATK.",
+            "zh": "治疗增至95%，觉醒后光合作用治疗增至24%攻击"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trị liệu tăng lên 104%, trị liệu [buff_2383_1] tăng lên [b_参数p1_per]",
+            "en": "Increases healing to 104% and [buff_2383_1]'s healing to [b_参数p1_per].",
+            "zh": "治疗增至104%，[buff_2383_1]治疗增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trị liệu tăng lên 99%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 25% Tấn công",
+            "en": "Increases healing to 99% and the healing of Photosynthesis after her evolution to 25% of her ATK.",
+            "zh": "治疗增至99%，觉醒后光合作用治疗增至25%攻击"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trị liệu tăng lên 99%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 25% Tấn công",
+            "en": "Increases healing to 99% and the healing of Photosynthesis after her evolution to 25% of her ATK.",
+            "zh": "治疗增至99%，觉醒后光合作用治疗增至25%攻击"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trị liệu tăng lên 104%, trị liệu [buff_2383_1] tăng lên [b_参数p1_per]",
+            "en": "Increases healing to 104% and [buff_2383_1]'s healing to [b_参数p1_per].",
+            "zh": "治疗增至104%，[buff_2383_1]治疗增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Trị liệu tăng lên 104%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 26% Tấn công",
+            "en": "Increases healing to 104% and the healing of Photosynthesis after her evolution to 26% of her ATK.",
+            "zh": "治疗增至104%，觉醒后光合作用治疗增至26%攻击"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Trị liệu tăng lên 104%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 26% Tấn công",
+            "en": "Increases healing to 104% and the healing of Photosynthesis after her evolution to 26% of her ATK.",
+            "zh": "治疗增至104%，觉醒后光合作用治疗增至26%攻击"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Trị liệu tăng lên 104%, trị liệu [buff_2383_1] tăng lên [b_参数p1_per]",
+            "en": "Increases healing to 104% and [buff_2383_1]'s healing to [b_参数p1_per].",
+            "zh": "治疗增至104%，[buff_2383_1]治疗增至[b_参数p1_per]"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2383",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "yingcao",
+    "headKey": "h_yingcao",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2381",
+      "2382",
+      "2383"
+    ]
+  },
+  "unresolvedTokens": []
+}

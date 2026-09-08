@@ -1,0 +1,220 @@
+{
+  "id": 237,
+  "name": {
+    "vi": "Yamausagi",
+    "en": "Yamausagi",
+    "zh": "山兔"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[12, 37]",
+    "en": "[12, 37]",
+    "zh": "[12, 37]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2599,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9683,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 388,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2371,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ai Còn Không Nghe Lời",
+        "en": "Be Nice",
+        "zh": "谁还不听话"
+      },
+      "intro": {
+        "vi": "砰——！大纸扇！还听不听话呀～",
+        "en": "砰——！大纸扇！还听不听话呀～",
+        "zh": "砰——！大纸扇！还听不听话呀～"
+      },
+      "description": {
+        "vi": "Ngồi trên con cóc lớn nhảy đến trước mặt kẻ địch, nhân lúc không đề phòng lấy quạt giấy đánh mạnh vào mục tiêu kẻ địch, gây sát thương 125%.",
+        "en": "Rides her giant frog up to an enemy, pulls out a fan and unleashes a frenzied attack, dealing damage equal to 125% of her ATK.",
+        "zh": "乘着巨大的山蛙跳到敌人面前，趁其不备拿出纸扇狠拍敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2371",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2373,
+      "maxLevel": 5,
+      "name": {
+        "vi": "幸运套环",
+        "en": "幸运套环",
+        "zh": "幸运套环"
+      },
+      "intro": {
+        "vi": "呱呱~你说宝宝套哪个奖品好呢~",
+        "en": "呱呱~你说宝宝套哪个奖品好呢~",
+        "zh": "呱呱~你说宝宝套哪个奖品好呢~"
+      },
+      "description": {
+        "vi": "Lấy kẻ địch làm phần thưởng của vòng may mắn, ném vòng tấn công mục tiêu kẻ địch, gây sát thương 285% đồng thời có xác suất 10% (+[*|a_debuff-acc_per|s_参数p1_per]) [tips_107] mục tiêu trong 2 lượt.",
+        "en": "Throws a ring at 1 enemy as if they're a prize in a ring toss game, dealing damage equal to 285% of her ATK with a 10% (+[*|a_debuff-acc_per|s_参数p1_per]) chance of inflicting [tips_107] on them for 2 turn(s).",
+        "zh": "把敌人当做幸运套环的奖品，丢出套环攻击敌方目标，造成攻击285%伤害并有10%（+[*|a_debuff-acc_per|s_参数p1_per]）概率将其[tips_107]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至249%",
+            "en": "伤害增加至249%",
+            "zh": "伤害增加至249%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至261%",
+            "en": "伤害增加至261%",
+            "zh": "伤害增加至261%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至273%",
+            "en": "伤害增加至273%",
+            "zh": "伤害增加至273%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng đến 285%, nếu kích hoạt biến hình thành công, lập tức [Thi triển] 1 lần «Thỏ Tử Vũ» không tốn tiêu hao.",
+            "en": "Increases the damage to 285%. If she manages to inflict Morph on the target, she immediately uses Bunny Dance again without spending any orbs.",
+            "zh": "伤害增加至285%，若有成功触发变形，则立即施放一次无消耗的『兔子舞』"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2373",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "shantu",
+    "headKey": "h_shantu",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2371",
+      "2373"
+    ]
+  },
+  "unresolvedTokens": []
+}

@@ -1,0 +1,368 @@
+{
+  "id": 234,
+  "name": {
+    "vi": "Tiêu Đồ",
+    "en": "Shouzu",
+    "zh": "椒图"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[10, 7]",
+    "en": "[10, 7]",
+    "zh": "[10, 7]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2063,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11050,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 423,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 107,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2341,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thủy Hoa Đạn",
+        "en": "Water Jet",
+        "zh": "水花弹"
+      },
+      "intro": {
+        "vi": "可别小看了水花哦~看招~",
+        "en": "可别小看了水花哦~看招~",
+        "zh": "可别小看了水花哦~看招~"
+      },
+      "description": {
+        "vi": "Vẫy đuôi, khuấy động hơi nước xung quanh thành đạn nước bắn vào mục tiêu kẻ địch, gây sát thương 125% và có xác suất 30% (+[*|a_debuff-acc_per|s_buff概率_per]) giảm tốc [b_属性1数值_abs] điểm, duy trì 2 lượt.",
+        "en": "Swings her tail to turn the surrounding water vapor into a vicious jet to spray at an enemy, dealing damage equal to 125% of her ATK with a 30% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of slowing the target's SPD by [b_属性1数值_abs] for 2 turn(s).",
+        "zh": "摆动尾巴，拨动周围的水气，形成水花弹攻击敌方目标，造成攻击125%伤害并有30%（+[*|a_debuff-acc_per|s_buff概率_per]）概率减速[b_属性1数值_abs]点，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2341",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2343,
+      "maxLevel": 7,
+      "name": {
+        "vi": "Quyên Lưu",
+        "en": "Water Circuit",
+        "zh": "涓流"
+      },
+      "intro": {
+        "vi": "Đau quá, chia đều ra là bay biến mất ngay thôi~ Hô hô~",
+        "en": "Pain shared is pain divided.",
+        "zh": "痛痛，分一分就飞走了~呼呼~"
+      },
+      "description": {
+        "vi": "Dùng yêu lực kết nối nước sự sống trong cơ thể tất cả đồng đội để tạo thành dòng suối nhỏ: Đơn vị được kết nối khi nhận sát thương sẽ được giảm [b_参数p1_per] và chia đều cho tất cả đơn vị được kết nối, đồng thời sau mỗi hành động sẽ hồi phục lượng HP bằng [b_参数p2_per], kết nối biến mất sau 1 lần Tiêu Đồ hành động.",
+        "en": "Shouzu connects to the water inside the bodies of her allies and forms a circuit. When one of the interconnected units takes damage, it is decreased by [b_参数p1_per] and shared among them all. HP is also restored by [b_参数p2_per] after each move. The connection disappears when Shouzu has made 1 move.",
+        "zh": "以妖力链接所有队友体内的生命之水，形成涓流：被链接单位受到伤害时减免[b_参数p1_per]并平摊给所有被链接单位，并且每次行动后恢复[b_参数p2_per]的生命值，链接在椒图行动1次后消失。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Số lượt duy trì tăng đến 2.",
+            "en": "Increases duration to 2 turns.",
+            "zh": "持续回合增至2"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Số lượt duy trì tăng đến 2.",
+            "en": "Increases duration to 2 turns.",
+            "zh": "持续回合增至2"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Số lượt duy trì của Quyên Lưu Chi Tỏa +1.",
+            "en": "Increases duration of the circuit by 1 turn.",
+            "zh": "涓流之链持续回合数+1"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_2343_1] cung cấp thêm giảm sát thương [b_参数p1_per].",
+            "en": "[buff_2343_1] grants an extra [b_参数p1_per] damage reduction.",
+            "zh": "[buff_2343_1]额外提供减伤[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_2343_1] cung cấp thêm giảm sát thương [b_参数p1_per].",
+            "en": "[buff_2343_1] grants an extra [b_参数p1_per] damage reduction.",
+            "zh": "[buff_2343_1]额外提供减伤[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đơn vị chịu ảnh hưởng của Quyên Lưu Chi Tỏa bị giảm sát thương [b_参数p1_per].",
+            "en": "The damage taken by an interconnected unit decreases by [b_参数p1_per].",
+            "zh": "受涓流之链影响的单位受到伤害下降[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Đơn vị chịu ảnh hưởng của Quyên Lưu Chi Tỏa bị giảm sát thương [b_参数p1_per].",
+            "en": "The damage taken by an interconnected unit decreases by [b_参数p1_per].",
+            "zh": "受涓流之链影响的单位受到伤害下降[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đơn vị chịu ảnh hưởng của Quyên Lưu Chi Tỏa bị giảm sát thương [b_参数p1_per].",
+            "en": "The damage taken by an interconnected unit decreases by [b_参数p1_per].",
+            "zh": "受涓流之链影响的单位受到伤害下降[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "[buff_2343_1] cung cấp thêm giảm sát thương [b_参数p1_per].",
+            "en": "[buff_2343_1] grants an extra [b_参数p1_per] damage reduction.",
+            "zh": "[buff_2343_1]额外提供减伤[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 7,
+          "text": {
+            "vi": "Đơn vị chịu ảnh hưởng của Quyên Lưu Chi Tỏa bị giảm sát thương [b_参数p1_per].",
+            "en": "The damage taken by an interconnected unit decreases by [b_参数p1_per].",
+            "zh": "受涓流之链影响的单位受到伤害下降[b_参数p1_per]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2343",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 7,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2342,
+      "maxLevel": 4,
+      "name": {
+        "vi": "Nhuận Vật Vô Thanh",
+        "en": "Unheard Counter",
+        "zh": "润物无声"
+      },
+      "intro": {
+        "vi": "就让椒图给您还击的力量吧~",
+        "en": "就让椒图给您还击的力量吧~",
+        "zh": "就让椒图给您还击的力量吧~"
+      },
+      "description": {
+        "vi": "Khi chịu sát thương, toàn thể đồng minh mỗi người có xác suất 50% tăng [b_属性1数值_per] sát thương bạo kích, duy trì 2 lượt. Khi gây sát thương, bản thân nhận [buff_2344_1], duy trì 2 lượt.",
+        "en": "When taking damage, all allies have a 50% chance of having their Crit DMG increased by [b_属性1数值_per] for 2 turns. When dealing damage, gains [buff_2344_1] for 2 turns.",
+        "zh": "受到伤害时，友方全体各有50%概率提升[b_属性1数值_per]暴击伤害，持续2回合。造成伤害时，自身获得[buff_2344_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng tăng sát thương bạo kích của [buff_2342_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2342_1]'s Crit DMG boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2342_1]提升暴击伤害效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng tăng sát thương bạo kích của [buff_2342_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2342_1]'s Crit DMG boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2342_1]提升暴击伤害效果增至[b_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tăng sát thương bạo kích của [buff_2342_1] tăng đến [b_属性1数值_per].",
+            "en": "Increases [buff_2342_1]'s Crit DMG boost effect to [b_属性1数值_per].",
+            "zh": "[buff_2342_1]提升暴击伤害效果增至[b_属性1数值_per]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2342",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "jiaotu",
+    "headKey": "h_jiaotu",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2341",
+      "2343",
+      "2342"
+    ]
+  },
+  "unresolvedTokens": [
+    "buff_2342_1"
+  ]
+}

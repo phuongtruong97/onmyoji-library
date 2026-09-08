@@ -1,0 +1,402 @@
+{
+  "id": 302,
+  "name": {
+    "vi": "Tiểu Tụ Chi Thủ",
+    "en": "Kosodenote",
+    "zh": "小袖之手"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[25]",
+    "en": "[25]",
+    "zh": "[25]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2680,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10024,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 106,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3021,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Miên Lý Tàng Châm",
+        "en": "Hidden Sting",
+        "zh": "绵里藏针"
+      },
+      "intro": {
+        "vi": "Huynh ấy vẫn chưa trở về, xem ra hôm nay cũng sẽ không ngoại lệ.",
+        "en": "He hasn't returned yet. I guess he won't be coming back today...",
+        "zh": "他还没有回来，看来今天也不会是例外。"
+      },
+      "description": {
+        "vi": "Thao túng kim chỉ xuyên qua mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Commands needle and thread to pierce through 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "操控针线穿过敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3021",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3022,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ty Lũ Tương Liên",
+        "en": "Threads Connection",
+        "zh": "丝缕相连"
+      },
+      "intro": {
+        "vi": "Cách một chiến trường, trái tim chúng ta vẫn kết nối với nhau.",
+        "en": "Our hearts are connected, even across the battlefield.",
+        "zh": "隔着战场，我们的心是相连着的。"
+      },
+      "description": {
+        "vi": "召唤针线连接敌方目标及另一名随机敌方，当其中一名敌方受到除霜冻与放逐以外的[tips_3]、受到伤害时，另一名敌方有60%概率被附加同样效果、受到等量70%[tips_12]，且均不触发被动及御魂。\n针线继承目标[z_生命继承比_per]生命（不超过小袖之手生命上限300%）、[z_防御继承比_per]防御。",
+        "en": "召唤针线连接敌方目标及另一名随机敌方，当其中一名敌方受到除霜冻与放逐以外的[tips_3]、受到伤害时，另一名敌方有60%概率被附加同样效果、受到等量70%[tips_12]，且均不触发被动及御魂。\n针线继承目标[z_生命继承比_per]生命（不超过小袖之手生命上限300%）、[z_防御继承比_per]防御。",
+        "zh": "召唤针线连接敌方目标及另一名随机敌方，当其中一名敌方受到除霜冻与放逐以外的[tips_3]、受到伤害时，另一名敌方有60%概率被附加同样效果、受到等量70%[tips_12]，且均不触发被动及御魂。\n针线继承目标[z_生命继承比_per]生命（不超过小袖之手生命上限300%）、[z_防御继承比_per]防御。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
+            "en": "Increases inherited HP to [z_生命继承比_per].",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
+            "en": "Increases inherited HP to [z_生命继承比_per].",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
+            "en": "Increases inherited HP to [z_生命继承比_per].",
+            "zh": "继承生命值增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất tăng lên 50%",
+            "en": "Increases chance to 50%.",
+            "zh": "概率增至50%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất tăng lên 50%",
+            "en": "Increases chance to 50%.",
+            "zh": "概率增至50%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất tăng lên 50%",
+            "en": "Increases chance to 50%.",
+            "zh": "概率增至50%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thừa hưởng Phòng thủ tăng lên [z_防御继承比_per]",
+            "en": "Increases inherited DEF to [z_防御继承比_per].",
+            "zh": "继承防御值增至[z_防御继承比_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thừa hưởng Phòng thủ tăng lên [z_防御继承比_per]",
+            "en": "Increases inherited DEF to [z_防御继承比_per].",
+            "zh": "继承防御值增至[z_防御继承比_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thừa hưởng Phòng thủ tăng lên [z_防御继承比_per]",
+            "en": "Increases inherited DEF to [z_防御继承比_per].",
+            "zh": "继承防御值增至[z_防御继承比_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất tăng lên 60%",
+            "en": "Increases chance to 60%.",
+            "zh": "概率增至60%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất tăng lên 60%",
+            "en": "Increases chance to 60%.",
+            "zh": "概率增至60%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất tăng lên 60%",
+            "en": "Increases chance to 60%.",
+            "zh": "概率增至60%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3022",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 3023,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Xuyên Châm Dẫn Tuyến",
+        "en": "Needle and Threads",
+        "zh": "穿针引线"
+      },
+      "intro": {
+        "vi": "Cuộc chiến này bao giờ mới kết thúc đây! Ta sẽ luôn chờ huynh...",
+        "en": "When is this war going to end? I'm still waiting...",
+        "zh": "这战争什么时候才会结束！我会一直等着你的……"
+      },
+      "description": {
+        "vi": "Thao túng kim chỉ tấn công toàn bộ phe địch, gây sát thương bằng 100% Tấn công, mỗi khi tấn công 1 đơn vị kết nối bằng kim chỉ, trả lại 1 điểm Quỷ Hỏa; cuối cùng gây cho mục tiêu kẻ địch sát thương bằng 100% Tấn công. Sát thương lên kẻ địch kết nối bằng kim chỉ tăng 30%.",
+        "en": "Commands needle and thread to pierce through all enemies, dealing damage equal to 100% of her ATK. For each enemy attacked and connected by her needle and thread, 1 orb is refunded. Also inflicts landing damage equal to 100% of her ATK on the target enemy. The damage dealt to the connected enemies is increased by 30%.",
+        "zh": "操纵针线攻击敌方全体，造成攻击100%伤害，每攻击1个针线连接的单位，返还1点鬼火；最后对敌方目标造成攻击100%伤害。对针线连接的敌方的伤害提升30%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%, sát thương lên kẻ địch kết nối bằng kim chỉ tăng 30%",
+            "en": "Increases damage to 125% and damage to connected enemies by 30%.",
+            "zh": "伤害增加至125%，对针线连接的敌方的伤害提升30%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3023",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "xiaoxiuzhishou",
+    "headKey": "h_xiaoxiuzhishou",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3021",
+      "3022",
+      "3023"
+    ]
+  },
+  "unresolvedTokens": []
+}

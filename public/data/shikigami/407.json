@@ -1,0 +1,171 @@
+{
+  "id": 407,
+  "name": {
+    "vi": "Thiên Tà Quỷ Thanh",
+    "en": "Blue Imp",
+    "zh": "天邪鬼青"
+  },
+  "rarity": "N",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 100,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "0%",
+      "grade": "D"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 4071,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Loạn Đả",
+        "en": "Manic Maul",
+        "zh": "乱打"
+      },
+      "intro": {
+        "vi": "Không được phép tiến lại gần dù chỉ một bước!",
+        "en": "Don't take another step!",
+        "zh": "一步都不准再靠近了！"
+      },
+      "description": {
+        "vi": "Nhảy qua dùng tay cào mạnh mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 41% Tấn công.",
+        "en": "Leaps at 1 enemy and ferociously scratches them 3 times, dealing damage equal to 41% of her ATK on each scratch.",
+        "zh": "跳过去用手狠抓敌方目标3次，每次造成攻击41%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至35%",
+            "en": "伤害增加至35%",
+            "zh": "伤害增加至35%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至37%",
+            "en": "伤害增加至37%",
+            "zh": "伤害增加至37%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至39%",
+            "en": "伤害增加至39%",
+            "zh": "伤害增加至39%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至41%",
+            "en": "伤害增加至41%",
+            "zh": "伤害增加至41%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "4071",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 4072,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Ngân Nga",
+        "en": "Speedup Song",
+        "zh": "低吟"
+      },
+      "intro": {
+        "vi": "Hăng hăng hăng~",
+        "en": "La la la...",
+        "zh": "哼哼哼～"
+      },
+      "description": {
+        "vi": "Vừa ngân nga khúc nhạc vừa thả diều, giúp toàn bộ phe ta tăng [b_属性1数值_abs] điểm Tốc độ, duy trì 1 lượt.",
+        "en": "Sings a song and flies her kite, increasing the SPD of all allies by [b_属性1数值_abs] for 1 turn(s).",
+        "zh": "一边低吟着曲子一边放飞风筝，使友方全体提升[b_属性1数值_abs]点速度，持续1回合。"
+      },
+      "upgrades": [],
+      "orbCost": 2,
+      "iconKey": "4072",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "qingtianxiegui",
+    "headKey": "h_qingtianxiegui",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "4071",
+      "4072"
+    ]
+  },
+  "unresolvedTokens": []
+}

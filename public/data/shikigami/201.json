@@ -1,0 +1,220 @@
+{
+  "id": 201,
+  "name": {
+    "vi": "Tuyết Nữ",
+    "en": "Yuki Onna",
+    "zh": "雪女"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[17, 41]",
+    "en": "[17, 41]",
+    "zh": "[17, 41]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2760,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9455,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 370,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2011,
+      "maxLevel": 5,
+      "name": {
+        "vi": "雪球",
+        "en": "雪球",
+        "zh": "雪球"
+      },
+      "intro": {
+        "vi": "呵，接招吧。",
+        "en": "呵，接招吧。",
+        "zh": "呵，接招吧。"
+      },
+      "description": {
+        "vi": "Ném cầu tuyết tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, đồng thời có 50%（+[*|a_debuff-acc_per|s_buff概率_per]） xác suất giảm [b_属性1数值_abs] điểm tốc độ, duy trì 2 lượt.",
+        "en": "Throws a snowball at 1 enemy, dealing damage equal to 120% of her ATK with a 50% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of slowing their SPD by [b_属性1数值_abs] for 2 turn(s).",
+        "zh": "扔出雪球攻击敌方目标，造成攻击120%伤害，并有50%（+[*|a_debuff-acc_per|s_buff概率_per]）概率降低[b_属性1数值_abs]点速度，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Có 25% [tips_2] khiến mục tiêu giảm tốc [b_属性1数值_abs] điểm, duy trì 2 lượt",
+            "en": "Has a 25% [tips_2] of slowing target's SPD by [b_属性1数值_abs] for 2 turn(s).",
+            "zh": "有25%[tips_2]使目标减速[b_属性1数值_abs]点，持续2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_2] giảm tốc tăng đến 50%",
+            "en": "Increases [tips_2] of inflicting Slow to 50%.",
+            "zh": "减速[tips_2]增至50%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2011",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2013,
+      "maxLevel": 5,
+      "name": {
+        "vi": "暴风雪",
+        "en": "暴风雪",
+        "zh": "暴风雪"
+      },
+      "intro": {
+        "vi": "冻结一切的洪荒之雪。",
+        "en": "冻结一切的洪荒之雪。",
+        "zh": "冻结一切的洪荒之雪。"
+      },
+      "description": {
+        "vi": "Triệu hồi bão tuyết tấn công toàn bộ kẻ địch 3 lần, mỗi lần gây sát thương bằng 36% Tấn công, đồng thời có 8%（+[*|a_debuff-acc_per|s_buff概率_per]） xác suất khiến mục tiêu [tips_101] trong 1 lượt. Nếu kẻ địch mang hiệu ứng giảm tốc, xác suất cuối cùng tăng 10%. Nếu mục tiêu là quái vật, [tips_2] tăng lên 25%.\nKhi tấn công lại mục tiêu bị [tips_101], có 30% xác suất chuyển hóa thành [tips_112]. Nếu mục tiêu là quái vật, đổi thành [tips_101] 2 lượt.",
+        "en": "Summons a blizzard to inflict a 3-strike attack on all enemies, dealing damage equal to 36% of his ATK on each strike, with a 8% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_101] lasting 1 turn. If the enemy has Slow, increases the final chance by 10%. If the enemy is a monster, increases the [tips_2] to 25%.\nAttacking an enemy with [tips_101] again has a 30% chance of converting it to [tips_112]. If the enemy is a monster, inflicts [tips_101] lasting 2 turns instead.",
+        "zh": "召唤暴风雪攻击敌方全体3次，每次造成攻击36%伤害，并有8%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将其[tips_101]1回合。若敌方带有减速效果，则最终概率提升10%。若目标为怪物，则[tips_2]提升至25%。\n再次攻击被[tips_101]的目标时，有30%概率转化为[tips_112]。若目标为怪物，则改为[tips_101]2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至33%",
+            "en": "伤害增加至33%",
+            "zh": "伤害增加至33%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Có 8% [tips_2] giảm tốc [b2_属性1数值_abs] điểm, duy trì 2 lượt.",
+            "en": "Has a 8% [tips_2] of slowing SPD by [b2_属性1数值_abs] for 2 turns.",
+            "zh": "有8%[tips_2]减速[b2_属性1数值_abs]点，持续2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至36%",
+            "en": "伤害增加至36%",
+            "zh": "伤害增加至36%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_2] giảm tốc tăng đến 16%.",
+            "en": "Increases [tips_2] of inflicting Slow to 16%.",
+            "zh": "减速[tips_2]增至16%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2013",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "xuenv",
+    "headKey": "h_xuenv",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2011",
+      "2013"
+    ]
+  },
+  "unresolvedTokens": []
+}

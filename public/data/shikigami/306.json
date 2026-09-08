@@ -1,0 +1,270 @@
+{
+  "id": 306,
+  "name": {
+    "vi": "Trùng Sư",
+    "en": "Mushishi",
+    "zh": "虫师"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[10, 21]",
+    "en": "[10, 21]",
+    "zh": "[10, 21]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2197,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12872,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 352,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 105,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "3%",
+      "grade": "C"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3061,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trùng Chi Vũ",
+        "en": "Dance of Mushi",
+        "zh": "虫之舞"
+      },
+      "intro": {
+        "vi": "Mào mào, ngươi đang nhìn gì thế?",
+        "en": "Shala, shala... What are you looking at?",
+        "zh": "沙啦沙啦，你在看什么？"
+      },
+      "description": {
+        "vi": "Dịch chuyển đến trước mặt mục tiêu kẻ địch và tung đòn tấn công, gây sát thương bằng 125% Tấn công.",
+        "en": "Appears in front of 1 enemy and launches an attack, dealing damage equal to 125% of her ATK.",
+        "zh": "闪烁到敌方目标面前并展开攻击，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3061",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3062,
+      "maxLevel": 2,
+      "name": {
+        "vi": "Trùng Chi Ngấn",
+        "en": "Mark of Mushi",
+        "zh": "虫之痕"
+      },
+      "intro": {
+        "vi": "Giống như ta trước đây, chìm vào giấc ngủ đi~",
+        "en": "Sleep, like I once did!",
+        "zh": "像过去的我一样，沉睡吧~"
+      },
+      "description": {
+        "vi": "Khi chịu sát thương, nếu bản thân chưa ở trạng thái [tips_17], có 25% xác suất miễn nhiễm sát thương, và có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm [buff_3062_1] cho kẻ tấn công, duy trì 2 lượt, trong 1 lần bị tấn công kích hoạt tối đa 1 lần.\nKẻ địch mang [buff_3062_1] khi chịu sát thương, trị liệu cho đồng minh có tỷ lệ HP thấp nhất lượng HP bằng [b_参数p1_per] sát thương lần đó.",
+        "en": "When taking damage, if she's not [tips_17], has a 25% chance of gaining immunity to damage and a 100% ([*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [buff_3062_1] lasting 2 turns on the attacker. Triggers only once for a single attack.\nWhen an enemy with [buff_3062_1] takes damage, heals the ally with the lowest proportion of HP by [b_参数p1_per] of the damage dealt.",
+        "zh": "受到伤害时，若自身未处于[tips_17]，则有25%概率免疫伤害，并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率为攻击者附加[buff_3062_1]，持续2回合，单次攻击内最多触发1次。\n带有[buff_3062_1]的敌方受到伤害时，为生命比例最低的友方治疗等同该次伤害[b_参数p1_per]的生命。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "该技能无法升级",
+            "en": "该技能无法升级",
+            "zh": "该技能无法升级"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3062",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 3063,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trùng Chi Hộ",
+        "en": "Protection of Mushi",
+        "zh": "虫之护"
+      },
+      "intro": {
+        "vi": "Trong kén của ta, không cần sợ hãi nữa đâu...",
+        "en": "There's no need to be afraid in my cocoon.",
+        "zh": "在我的茧里，不用害怕……"
+      },
+      "description": {
+        "vi": "为最多4个友方目标驱散1个减益状态或[tips_3]。然后为友方全体治疗生命上限18%的生命，受驱散的友方治疗量降低20%。",
+        "en": "为最多4个友方目标驱散1个减益状态或[tips_3]。然后为友方全体治疗生命上限18%的生命，受驱散的友方治疗量降低20%。",
+        "zh": "为最多4个友方目标驱散1个减益状态或[tips_3]。然后为友方全体治疗生命上限18%的生命，受驱散的友方治疗量降低20%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mục tiêu đồng minh có thể xua tan tăng lên 4 mục tiêu",
+            "en": "Increases dispelling targets to 4 allies.",
+            "zh": "可驱散友方目标增至4个"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng trị liệu tăng lên 15%",
+            "en": "Increases healing to 15%.",
+            "zh": "治疗增至15%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng trị liệu bị giảm của đồng minh nhận xua tan giảm xuống 20%",
+            "en": "For the ally affected by dispelling effect, the healing amount reduction reduced to 20%.",
+            "zh": "受驱散的友方治疗量降低降至20%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Lượng trị liệu tăng lên 18%",
+            "en": "Increases healing to 18%.",
+            "zh": "治疗增至18%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3063",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "chongshi",
+    "headKey": "h_chongshi",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3061",
+      "3062",
+      "3063"
+    ]
+  },
+  "unresolvedTokens": []
+}

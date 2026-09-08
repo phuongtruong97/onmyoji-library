@@ -1,0 +1,304 @@
+{
+  "id": 568,
+  "name": {
+    "vi": "Long Ngâm Linh Lộc Ngự Tiền",
+    "en": "Draconic Suzuka Gozen",
+    "zh": "龙吟铃鹿御前"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 37]",
+    "en": "[1, 37]",
+    "zh": "[1, 37]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3269,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 13556,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 480,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 117,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "180%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5681,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lộc Hồn · Phá Nhẫn",
+        "en": "Mountain's Soul: Shattering Blade",
+        "zh": "麓魂·破刃"
+      },
+      "intro": {
+        "vi": "Rồng đúc Lộc Hải, lưỡi đao phá chiến trường.",
+        "en": "With this blade, I shall conquer the battlefield.",
+        "zh": "龙铸麓海，刃破沙场。"
+      },
+      "description": {
+        "vi": "Lộc hồn trú ngụ trong thân thể này, vung ra bạch nhẫn 『Trục Ảnh』 trảm kích mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công; khi mục tiêu kẻ địch sở hữu Lá chắn, sát thương bản thân gánh chịu giảm 50%.",
+        "en": "Wields her white hot Shadowchaser, home of the mountain's soul, to attack 1 enemy, dealing damage equal to 120% of her ATK. As long as an enemy has a shield, reduces her damage taken by 50%.",
+        "zh": "麓魂宿于此身，挥出白刃『逐影』斩击敌方目标，造成攻击120%伤害；敌方目标拥有护盾时，自身受到的伤害降低50%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%.",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 120%; khi bất kỳ mục tiêu kẻ địch nào sở hữu Lá chắn, sát thương bản thân gánh chịu giảm 50%",
+            "en": "Increases damage by 120%. As long as an enemy has a shield, reduces her damage taken by 50%.",
+            "zh": "伤害增加至120%；任意敌方目标拥有护盾时，自身受到的伤害降低50%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5681",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5682,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lộc Hồn · Cộng Phó",
+        "en": "Mountain's Soul: Allied",
+        "zh": "麓魂·共赴"
+      },
+      "intro": {
+        "vi": "Cùng nhau thức tỉnh nào, linh hồn Linh Lộc Sơn.",
+        "en": "Soul of Mt. Suzuka, evolve with me.",
+        "zh": "一同觉醒吧，铃鹿山之魂。"
+      },
+      "description": {
+        "vi": "[tips_11]. Khi sát thương bản thân gây ra bị hấp thụ, gây thêm cho mục tiêu [tips_28] bằng 10% HP tối đa của kẻ đó (không vượt quá 120% Tấn công ban đầu của bản thân), sát thương này bỏ qua [tips_6]. Khi lượt bắt đầu, giúp toàn bộ phe ta ngoại trừ bản thân nhận 3 tầng [buff_5681_1]; [tips_7]: Giúp toàn bộ phe ta ngoại trừ bản thân nhận 3 tầng [buff_5681_1].",
+        "en": "[tips_11]. When his damage dealt is absorbed, additionally deals [tips_28] equal to 10% of the target's max HP (capped at 120% of his starting ATK). This damage ignores [tips_6]. At the start of the turn, grants all other allies 3 stacks of [buff_5681_1]. [tips_7]: Grants all other allies 3 stacks of [buff_5681_1].",
+        "zh": "[tips_11]。自身造成的伤害被吸收时，额外对目标造成其最大生命10%的[tips_28]（不超过自身初始攻击的120%），该伤害无视[tips_6]。回合开始时，使自身外的友方全体获得3层[buff_5681_1]；[tips_7]：使自身外的友方全体获得3层[buff_5681_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_5681_1] tăng Tấn công lên 135% Tấn công ban đầu của mục tiêu",
+            "en": "[buff_5681_1] increase ATK to 135% of the target's starting ATK",
+            "zh": "[buff_5681_1]提升攻击至目标初始攻击的135%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_5681_1] tăng Tấn công lên 145% Tấn công ban đầu của mục tiêu",
+            "en": "[buff_5681_1] increase ATK to 145% of the target's starting ATK",
+            "zh": "[buff_5681_1]提升攻击至目标初始攻击的145%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_5681_1] tăng Tấn công lên 155% Tấn công ban đầu của mục tiêu",
+            "en": "[buff_5681_1] increase ATK to 155% of the target's starting ATK",
+            "zh": "[buff_5681_1]提升攻击至目标初始攻击的155%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: Giúp toàn bộ phe ta ngoại trừ bản thân nhận 3 tầng [buff_5681_1]",
+            "en": "[tips_7]: Grants all other allies 3 stacks of [buff_5681_1]",
+            "zh": "[tips_7]：使自身外的友方全体获得3层[buff_5681_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5682",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5683,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lộc Hồn · Viễn Chinh",
+        "en": "Mountain's Soul: Conquest",
+        "zh": "麓魂·远征"
+      },
+      "intro": {
+        "vi": "Đội quân quỷ thuyền, theo ta xuất chinh!",
+        "en": "Demonship Army, follow me!",
+        "zh": "鬼船大军，随我出征！"
+      },
+      "description": {
+        "vi": "Tập kết đội quân quỷ thuyền! Tấn công toàn bộ phe địch 3 lần, mỗi lần gây sát thương bằng 80% Tấn công, khi tấn công miễn nhiễm hiệu ứng tiêu cực; khi thi triển Sát Thương Bạo Kích của bản thân tăng 100%, duy trì 1 lượt.",
+        "en": "Demonship Army, assemble! Launches a 3-strike attack on all enemies, dealing damage equal to 80% of her ATK on each strike, and gains immunity to debuffs during the attack. On cast, increases own Crit DMG by 100% for 1 turn.",
+        "zh": "鬼船大军集结！攻击敌方全体3次，每次造成攻击80%伤害，攻击时免疫减益效果；施放时自身暴击伤害提升100%，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 70%",
+            "en": "Increases damage to 70%.",
+            "zh": "伤害增加至70%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "消耗鬼火减少1点",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 80%",
+            "en": "Increases damage to 80%.",
+            "zh": "伤害增加至80%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi thi triển Sát Thương Bạo Kích của bản thân tăng 100%, duy trì 1 lượt",
+            "en": "On cast, increases own Crit DMG by 100% for 1 turn.",
+            "zh": "施放时自身暴击伤害提升100%，持续1回合"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5683",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_lingluyuqian",
+    "headKey": "h_sp_lingluyuqian",
+    "armature": [
+      "sp_linluyuqian_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_splingluyuqian",
+    "skillIconKeys": [
+      "5681",
+      "5682",
+      "5683"
+    ]
+  },
+  "unresolvedTokens": [
+    "tips_6"
+  ]
+}

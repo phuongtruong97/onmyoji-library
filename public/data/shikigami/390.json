@@ -1,0 +1,302 @@
+{
+  "id": 390,
+  "name": {
+    "vi": "Thần Khải Hoang",
+    "en": "Divine Prophet Susabi",
+    "zh": "神启荒"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3671,
+      "grade": "SS"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 13100,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 432,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 116,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3901,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vận Tinh",
+        "en": "Comet",
+        "zh": "陨星"
+      },
+      "intro": {
+        "vi": "Đây là điểm báo của tinh thần.",
+        "en": "This is what has been foretold by the stars.",
+        "zh": "此乃星辰的预示。"
+      },
+      "description": {
+        "vi": "Chỉ huy lưu tinh giáng xuống oanh kích mục tiêu kẻ địch gây sát thương bằng 115% Tấn công.",
+        "en": "Commands comets to fall on 1 enemy, dealing damage equal to 115% of the unit's ATK.",
+        "zh": "指挥流星坠击敌方目标造成攻击115%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Increases damage to 105%.",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Increases damage to 110%.",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Increases damage to 115%.",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Đánh Thường trong ảo cảnh 「Vận Mệnh Tinh Hà」 sẽ tăng 1 lần số lần kích hoạt ảo cảnh, số lần kích hoạt không vượt quá 6 lần",
+            "en": "While the Galaxy of Fate field is active, when he uses a normal attack, increases the field's available triggers by 1. There can be no more than 6 triggers.",
+            "zh": "在「命运星河」幻境中进行普通攻击时增加1次幻境的触发次数，触发次数不超过6次"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3901",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3902,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tinh La Vân Bố",
+        "en": "Starry Galaxy",
+        "zh": "星罗云布"
+      },
+      "intro": {
+        "vi": "Mệnh do trời định, vận do người làm.",
+        "en": "Fate might be predestined, but fortune is made.",
+        "zh": "命由天定，运在人为。"
+      },
+      "description": {
+        "vi": "[tips_11].\nTạo ảo cảnh Vận Mệnh Tinh Hà, khi lượt của mục tiêu kẻ địch trong ảo cảnh bắt đầu tiến hành phán đoán dự ngôn, nếu kẻ địch không phải Âm Dương Sư không tiêu hao Quỷ Hỏa, liền kích hoạt Tinh Bộc, gây cho toàn bộ phe địch Sát Thương Gián Tiếp bằng 72% Tấn công, và hồi phục lượng HP bằng 8% giới hạn HP của bản thân; sát thương Đánh Thường phe ta chịu phải giảm 20%. Mỗi khi kích hoạt Tinh Bộc Hoang nhận 1 tầng [buff_3903_1], sau khi kích hoạt Tinh Bộc 6 lần ảo cảnh kết thúc. Khi ảo cảnh kết thúc Thần Khải Hoang tăng 30% Thanh Hành Động.",
+        "en": "[tips_11].\nCreates the Galaxy of Fate field. While the field is active, at the start of a non-onmyoji enemy's turn, checks the prophecy of the enemy. If the enemy spends no orbs, triggers a Star Burst, inflicting indirect damage equal to 72% of his ATK on all enemies and recovering his HP by 8% of his max HP. Reduces allies' normal attack damage taken by 20%. Each time a Star Burst is triggered, Susabi gains 1 [buff_3903_1] stack. The field ends after 6 Star Burst triggers. When the field ends, raises Divine Prophet Susabi's Move Bar by 30%.",
+        "zh": "[tips_11]。\n创造命运星河幻境，在幻境中敌方目标回合开始时进行预言判定，若非阴阳师的敌方不消耗鬼火，则触发星爆，对敌方全体造成攻击72%的间接伤害，并恢复自身生命上限8%的生命；友方受到的普通攻击伤害降低20%。每次触发星爆时荒获得1层[buff_3903_1]，触发6次星爆后幻境结束。幻境结束时神启荒增加30%的行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Kích hoạt Tinh Bộc trong ảo cảnh giúp sát thương Tinh Bộc lần tới tăng 25%, tăng tối đa đến 75%",
+            "en": "While the field is active, each Star Burst triggered increases the damage of the next Star Burst by 25% (max 75% increased.)",
+            "zh": "幻境中触发星爆使下次星爆伤害提升25%，最多提升至75%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương bản thân gánh chịu trong ảo cảnh giảm 40%",
+            "en": "While the field is active, reduces his damage taken by 40%.",
+            "zh": "幻境中自身受到的伤害降低40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tiên Cơ: Thi triển 「Tinh La Vân Bố」",
+            "en": "Upper Hand: Uses Starry Galaxy.",
+            "zh": "先机：施放「星罗云布」"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tinh Bộc không kích hoạt Nội tại kẻ địch",
+            "en": "Star Burst doesn't trigger the enemies' passive skills.",
+            "zh": "星爆不触发敌方被动"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3902",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3903,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tinh Lưu Đình Kích",
+        "en": "Comet and Lightning",
+        "zh": "星流霆击"
+      },
+      "intro": {
+        "vi": "Bắt nguồn từ tinh thần, trở về với tinh thần.",
+        "en": "From the stars, to the stars.",
+        "zh": "源于星辰，归于星辰。"
+      },
+      "description": {
+        "vi": "Thao túng tinh thể giải phóng hố đen tinh vân, gây cho toàn bộ phe địch sát thương bằng 139% Tấn công, mỗi khi có 1 tầng [buff_3903_1] gây thêm 1 lần sát thương bằng 68% Tấn công cho toàn bộ phe địch, và tiêu hao toàn bộ [buff_3903_1].",
+        "en": "Commands stars to open up a black hole in a nebula and unleashes it onto all enemies, dealing damage equal to 139% of his ATK. Each [buff_3903_1] stack inflicts an additional strike on all enemies, dealing damage equal to 68% of his ATK. Then all [buff_3903_1] stacks are consumed.",
+        "zh": "操纵星体释放星云黑洞，对敌方全体造成攻击139%伤害，每有1层[buff_3903_1]额外对敌方全体造成1次攻击68%伤害，并消耗所有[buff_3903_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 139%",
+            "en": "Increases the damage to 139%.",
+            "zh": "伤害增加至139%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương thêm tăng lên 68%",
+            "en": "Increases the additional damage to 68%.",
+            "zh": "额外伤害增加至68%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi thi triển kỹ năng này trong ảo cảnh 「Vận Mệnh Tinh Hà」 sẽ tăng 3 lần số lần kích hoạt ảo cảnh, số lần kích hoạt không vượt quá 6 lần",
+            "en": "While the Galaxy of Fate field is active, when he uses the skill, increases the field's available triggers by 3. There can be no more than 6 triggers.",
+            "zh": "在「命运星河」幻境中施放该技能时增加3次幻境的触发次数，触发次数不超过6次"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương thêm bỏ qua hiệu ứng Ngự Hồn",
+            "en": "Additional damage ignores Soul effects.",
+            "zh": "额外伤害无视御魂效果"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "3903",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_huang",
+    "headKey": "h_sp_huang",
+    "armature": [
+      "sp_huang_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_sp_huang",
+    "skillIconKeys": [
+      "3901",
+      "3902",
+      "3903"
+    ]
+  },
+  "unresolvedTokens": []
+}

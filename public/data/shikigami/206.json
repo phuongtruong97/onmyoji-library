@@ -1,0 +1,468 @@
+{
+  "id": 206,
+  "name": {
+    "vi": "Lý Ngư Tinh",
+    "en": "Koi",
+    "zh": "鲤鱼精"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[8, 17]",
+    "en": "[8, 17]",
+    "zh": "[8, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2465,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10480,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 379,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 107,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2061,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vĩ Tiên",
+        "en": "Tail Whip",
+        "zh": "尾鞭"
+      },
+      "intro": {
+        "vi": "我也会生气的哦！",
+        "en": "我也会生气的哦！",
+        "zh": "我也会生气的哦！"
+      },
+      "description": {
+        "vi": "Vung vây cá tấn công mục tiêu kẻ địch, gây sát thương bằng 115% Tấn công, và xua tan 1 trạng thái tăng ích.",
+        "en": "Flicks her tail and whips 1 enemy, dealing damage equal to 115% of her ATK and dispelling 1 buff on them.",
+        "zh": "挥起鱼尾攻击敌方目标，造成攻击115%伤害，并驱散1个增益状态。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xua tan 1 trạng thái tăng ích",
+            "en": "Dispels 1 buff.",
+            "zh": "驱散1个增益状态"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2061",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2062,
+      "maxLevel": 13,
+      "name": {
+        "vi": "泡泡之盾",
+        "en": "泡泡之盾",
+        "zh": "泡泡之盾"
+      },
+      "intro": {
+        "vi": "泡泡，泡泡！快变成防护罩~",
+        "en": "泡泡，泡泡！快变成防护罩~",
+        "zh": "泡泡，泡泡！快变成防护罩~"
+      },
+      "description": {
+        "vi": "Biến bong bóng thành năng lượng bảo vệ, giúp toàn bộ mục tiêu phe ta không phải vật triệu hồi nhận [tips_6], có thể hấp thụ lượng sát thương bằng [b_伤害吸收_per] Tấn công, duy trì 2 lượt.",
+        "en": "Forms bubbles into energy [tips_6]s to protect all non-summoned ally entities, absorbing damage equal to [b_伤害吸收_per] of Koi's ATK. Lasts 2 turns.",
+        "zh": "将泡泡化为能量守护，使非召唤物的友方全体获得[tips_6]，能吸收[b_伤害吸收_per]攻击的伤害，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ của kỹ năng tăng 8%",
+            "en": "The damage absorbed by the skill increases by 8%.",
+            "zh": "技能吸收量增加8%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hấp thụ của kỹ năng tăng 8%",
+            "en": "The damage absorbed by the skill increases by 8%.",
+            "zh": "技能吸收量增加8%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
+            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng hấp thụ của kỹ năng tăng 8%",
+            "en": "The damage absorbed by the skill increases by 8%.",
+            "zh": "技能吸收量增加8%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi [tips_6] tồn tại nhận 50% miễn giảm sát thương gián tiếp",
+            "en": "Gains 50% indirect damage reduction when [tips_6] is active.",
+            "zh": "[tips_6]存在时获得50%间接伤害减免"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi [tips_6] tồn tại nhận 50% miễn giảm sát thương gián tiếp",
+            "en": "Gains 50% indirect damage reduction when [tips_6] is active.",
+            "zh": "[tips_6]存在时获得50%间接伤害减免"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Lượng hấp thụ của kỹ năng tăng 8%",
+            "en": "The damage absorbed by the skill increases by 8%.",
+            "zh": "技能吸收量增加8%"
+          }
+        },
+        {
+          "level": 6,
+          "text": {
+            "vi": "Lượng hấp thụ của kỹ năng tăng 8%",
+            "en": "The damage absorbed by the skill increases by 8%.",
+            "zh": "技能吸收量增加8%"
+          }
+        },
+        {
+          "level": 9,
+          "text": {
+            "vi": "Lượng hấp thụ của kỹ năng tăng 8%",
+            "en": "The damage absorbed by the skill increases by 8%.",
+            "zh": "技能吸收量增加8%"
+          }
+        },
+        {
+          "level": 10,
+          "text": {
+            "vi": "Khi [tips_6] tồn tại nhận 50% miễn giảm sát thương gián tiếp",
+            "en": "Gains 50% indirect damage reduction when [tips_6] is active.",
+            "zh": "[tips_6]存在时获得50%间接伤害减免"
+          }
+        },
+        {
+          "level": 11,
+          "text": {
+            "vi": "Khi [tips_6] tồn tại nhận 50% miễn giảm sát thương gián tiếp",
+            "en": "Gains 50% indirect damage reduction when [tips_6] is active.",
+            "zh": "[tips_6]存在时获得50%间接伤害减免"
+          }
+        },
+        {
+          "level": 12,
+          "text": {
+            "vi": "Khi [tips_6] tồn tại nhận 50% miễn giảm sát thương gián tiếp",
+            "en": "Gains 50% indirect damage reduction when [tips_6] is active.",
+            "zh": "[tips_6]存在时获得50%间接伤害减免"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2062",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 2
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 2
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 2
+        },
+        {
+          "level": 6,
+          "awakeFilter": 2
+        },
+        {
+          "level": 9,
+          "awakeFilter": 2
+        },
+        {
+          "level": 10,
+          "awakeFilter": 2
+        },
+        {
+          "level": 11,
+          "awakeFilter": 2
+        },
+        {
+          "level": 12,
+          "awakeFilter": 2
+        },
+        {
+          "level": 13,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2063,
+      "maxLevel": 5,
+      "name": {
+        "vi": "泡泡之牢",
+        "en": "泡泡之牢",
+        "zh": "泡泡之牢"
+      },
+      "intro": {
+        "vi": "都说了，不可以乱动哦。",
+        "en": "都说了，不可以乱动哦。",
+        "zh": "都说了，不可以乱动哦。"
+      },
+      "description": {
+        "vi": "将泡泡化作牢笼，有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将敌方目标[tips_110]，[tips_110]能吸收攻击[b_伤害吸收_per]伤害，并降低[b_属性1数值_per]暴击，且在回合后造成攻击[b_攻击力相关持续伤害_per]伤害，持续2回合。",
+        "en": "将泡泡化作牢笼，有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将敌方目标[tips_110]，[tips_110]能吸收攻击[b_伤害吸收_per]伤害，并降低[b_属性1数值_per]暴击，且在回合后造成攻击[b_攻击力相关持续伤害_per]伤害，持续2回合。",
+        "zh": "将泡泡化作牢笼，有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将敌方目标[tips_110]，[tips_110]能吸收攻击[b_伤害吸收_per]伤害，并降低[b_属性1数值_per]暴击，且在回合后造成攻击[b_攻击力相关持续伤害_per]伤害，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Đối với kẻ địch bị [tips_110], sau khi kết thúc lượt gây sát thương bằng [b_攻击力相关持续伤害_per] Tấn công",
+            "en": "Deals damage equal to [b_攻击力相关持续伤害_per] of their ATK at the end of their turn to enemies inflicted with [tips_110].",
+            "zh": "对被[tips_110]的敌方，在回合后造成攻击[b_攻击力相关持续伤害_per]伤害"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_110] tăng lên [b_伤害吸收_per]",
+            "en": "Increases damage absorbed by [tips_110] to [b_伤害吸收_per].",
+            "zh": "[tips_110]吸收量增至[b_伤害吸收_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương gây ra tăng lên [b_攻击力相关持续伤害_per]",
+            "en": "Increases damage dealt to [b_攻击力相关持续伤害_per].",
+            "zh": "造成伤害增加至[b_攻击力相关持续伤害_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Lượng hấp thụ [tips_110] tăng lên [b_伤害吸收_per]",
+            "en": "Increases damage absorbed by [tips_110] to [b_伤害吸收_per].",
+            "zh": "[tips_110]吸收量增至[b_伤害吸收_per]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2063",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "liyujing",
+    "headKey": "h_liyujing",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2061",
+      "2062",
+      "2063"
+    ]
+  },
+  "unresolvedTokens": [
+    "tips_6"
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": 301,
+  "name": {
+    "vi": "Trỗi Châu",
+    "en": "Juzu",
+    "zh": "数珠"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[21]",
+    "en": "[21]",
+    "zh": "[21]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2036,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10024,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 432,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 101,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "3%",
+      "grade": "C"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3011,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hàng Ma Trượng",
+        "en": "Holy Staff",
+        "zh": "降魔杖"
+      },
+      "intro": {
+        "vi": "Ác linh lui tán, không được quấy rễ chốn phật môn thanh tịnh của ta~~",
+        "en": "Evil begone! Don't you dare break the peace!",
+        "zh": "恶灵退散，不准扰我佛门清净~~"
+      },
+      "description": {
+        "vi": "Dùng trượng hàng ma nổ ra sóng xung kích tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm [buff_3010_1], duy trì 2 lượt.",
+        "en": "Slams her holy staff on the ground to attack 1 enemy with a shockwave, dealing damage equal to 125% of her ATK with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [buff_3010_1] lasting 2 turn(s) on them.",
+        "zh": "用降魔杖轰出冲击波来攻击敌方目标，造成攻击125%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_3010_1]，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3011",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3012,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Luân Hồi",
+        "en": "Karma",
+        "zh": "轮回"
+      },
+      "intro": {
+        "vi": "Phật nói, luân hồi đều là nhân quả... Thế nghĩa là sao nhỉ?~",
+        "en": "The Buddha says reincarnation follows karma... But what does that mean?",
+        "zh": "佛说，轮回都是因果……那是什么意思呢？~"
+      },
+      "description": {
+        "vi": "Mỗi khi kẻ địch hành động, nếu bản thân không ở trạng thái [tips_17], nhận 1 hạt phật châu.\nTrong thời gian đả tọa của 『[skill_3013_1]』, khi không có phật châu sẽ lập tức nhận 1 hạt phật châu.",
+        "en": "Whenever an enemy takes an action, if she is not [tips_17], grants her 1 Buddhist Bead.\nWhile she's meditating for [skill_3013_1], immediately grants her 1 Buddhist Bead if she doesn't have any.",
+        "zh": "敌方每次行动，若自身未处于[tips_17]，获得1颗佛珠。\n『[skill_3013_1]』打坐期间，没有佛珠时将立即获得1颗佛珠。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至143%",
+            "en": "伤害增加至143%",
+            "zh": "伤害增加至143%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đẩy lùi Thanh Hành Động tăng lên 40%",
+            "en": "Increases Move Bar-lowering effect to 40%.",
+            "zh": "击退行动条增至40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至150%",
+            "en": "伤害增加至150%",
+            "zh": "伤害增加至150%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Thanh hành động đẩy lùi tăng lên 50%",
+            "en": "Increases Move Bar-lowering effect to 50%.",
+            "zh": "击退行动条增至50%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3012",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3013,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiền Ý",
+        "en": "Zen",
+        "zh": "禅意"
+      },
+      "intro": {
+        "vi": "Chư pháp nhân duyên sinh... Hế, câu sau là gì tiêu rồi nhỉ?",
+        "en": "\"Of all those things that from a cause arise...\" What's the next line again?",
+        "zh": "诸法因缘生……诶，后一句是什么来着？"
+      },
+      "description": {
+        "vi": "打坐2回合，此期间若自身未处于[tips_17]：友方在回合开始前，有40%概率（每颗佛珠额外提升[b_参数p3_per]）驱散[b_参数p4_abs]个减益状态或[tips_3]，每个成功驱散可为其治疗生命上限[b_参数p5_per]的生命，并消耗1颗佛珠在目标回合后增加其30%行动条；若未成功驱散，则提升目标40%效果抵抗，持续1回合。",
+        "en": "打坐2回合，此期间若自身未处于[tips_17]：友方在回合开始前，有40%概率（每颗佛珠额外提升[b_参数p3_per]）驱散[b_参数p4_abs]个减益状态或[tips_3]，每个成功驱散可为其治疗生命上限[b_参数p5_per]的生命，并消耗1颗佛珠在目标回合后增加其30%行动条；若未成功驱散，则提升目标40%效果抵抗，持续1回合。",
+        "zh": "打坐2回合，此期间若自身未处于[tips_17]：友方在回合开始前，有40%概率（每颗佛珠额外提升[b_参数p3_per]）驱散[b_参数p4_abs]个减益状态或[tips_3]，每个成功驱散可为其治疗生命上限[b_参数p5_per]的生命，并消耗1颗佛珠在目标回合后增加其30%行动条；若未成功驱散，则提升目标40%效果抵抗，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu tăng lên [b_参数p5_per]",
+            "en": "Increases healing to [b_参数p5_per].",
+            "zh": "治疗增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Số lượng xua tan tăng lên [b_参数p4_abs] trạng thái",
+            "en": "Increases the amount to be dispelled to [b_参数p4_abs].",
+            "zh": "驱散个数增至[b_参数p4_abs]个"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trị liệu tăng lên [b_参数p5_per]",
+            "en": "Increases healing to [b_参数p5_per].",
+            "zh": "治疗增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Số lượng xua tan tăng lên [b_参数p4_abs] trạng thái",
+            "en": "Increases the amount to be dispelled to [b_参数p4_abs].",
+            "zh": "驱散个数增至[b_参数p4_abs]个"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3013",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "shuzhu",
+    "headKey": "h_shuzhu",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3011",
+      "3012",
+      "3013"
+    ]
+  },
+  "unresolvedTokens": []
+}

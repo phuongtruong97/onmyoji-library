@@ -1,0 +1,302 @@
+{
+  "id": 396,
+  "name": {
+    "vi": "Tu La Quỷ Đồng Hoàn",
+    "en": "Shura Kidomaru",
+    "zh": "修罗鬼童丸"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[38, 19, 17]",
+    "en": "[38, 19, 17]",
+    "zh": "[38, 19, 17]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3028,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11505,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 401,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 114,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3961,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thực Hài",
+        "en": "Corrode Bones",
+        "zh": "蚀骸"
+      },
+      "intro": {
+        "vi": "Cuộc săn mồi, bắt đầu rồi.",
+        "en": "The hunt begins.",
+        "zh": "狩猎，开始了。"
+      },
+      "description": {
+        "vi": "Sai khiến yêu quỷ hiện thân, tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương 62%.",
+        "en": "Commands demons to launch a 2-strike attack on 1 enemy, dealing damage equal to 62% of his ATK on each strike.",
+        "zh": "驱使妖鬼现身，攻击敌方目标2次，每次造成攻击62%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 53%",
+            "en": "Increases the damage to 53%.",
+            "zh": "伤害提升至53%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 56%",
+            "en": "Increases the damage to 56%.",
+            "zh": "伤害提升至56%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 59%",
+            "en": "Increases the damage to 59%.",
+            "zh": "伤害提升至59%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 62%",
+            "en": "Increases the damage to 62%.",
+            "zh": "伤害提升至62%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3961",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3962,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cốt Tỏa Dung Hồn",
+        "en": "Lock Soul",
+        "zh": "骨锁拥魂"
+      },
+      "intro": {
+        "vi": "Dùng linh hồn ôm lấy niềm hân hoan này.",
+        "en": "Embrace this joy with your soul.",
+        "zh": "用灵魂拥抱这份欢欣。"
+      },
+      "description": {
+        "vi": "[tips_11]. Bẫy săn mồi được kích hoạt, thợ săn đứng quan sát ngoài lưới. Kỹ năng của kẻ địch sẽ ưu tiên chọn mục tiêu không phải Tu La Quỷ Đồng Hoàn, bản thân khi sở hữu [buff_3961_1] sẽ mất đi hiệu ứng này.\n【Thi triển】 Đính kèm [buff_3962_1] cho mục tiêu kẻ địch, bản thân nhận 3 tầng [buff_3961_1]. Khi [Thi triển] nếu bản thân không mang [buff_3961_1], bản thân tăng 40% thanh hành động.",
+        "en": "[tips_11]. Lays a hunting trap while the hunter stalks outside the web's reach. Enemies' skills prioritize targets other than Shura Kidomaru. He loses the effect when he has [buff_3961_1].\nActive skill: Inflicts [buff_3962_1] on 1 enemy and gains him 3 [buff_3961_1] stacks. If he doesn't have [buff_3961_1] while using the skill, raises his Move Bar by 40%.",
+        "zh": "[tips_11]。狩猎陷阱开启，猎人于罗网之外观望。敌方技能将优先选择修罗鬼童丸以外的目标，自身拥有[buff_3961_1]时失去该效果。\n【施放】对敌方目标附加[buff_3962_1]，自身获得3层[buff_3961_1]。施放时若自身未带有[buff_3961_1]，自身增加40%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi tầng lưới hồn giúp bản thân nhận 20% giảm sát thương.",
+            "en": "Each Web of Souls stack grants him a 20% damage reduction.",
+            "zh": "每层魂网使自身获得20%减伤"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất cơ bản cưỡng chế đánh thường mất hồn được nâng lên đến 80%.",
+            "en": "Increases Delirious' base chance of forcing a normal attack to 80%.",
+            "zh": "失魂强制普攻的基础概率提升至80%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng giảm sát thương của mỗi tầng lưới hồn tăng lên 30%.",
+            "en": "Increases each Web of Souls stack's damage reduction to 30%.",
+            "zh": "每层魂网减伤效果提升至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi [Thi triển], bản thân nhận 3 tầng lưới hồn.",
+            "en": "Grants him 3 Web of Souls stacks when using the skill.",
+            "zh": "施放时自身获得3层魂网"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3962",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3963,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mê Tích Quỷ Thành",
+        "en": "Lost in Demon City",
+        "zh": "迷迹鬼城"
+      },
+      "intro": {
+        "vi": "Chìm đắm trong bãi săn ấm áp.",
+        "en": "Lose yourself in the warm hunting ground.",
+        "zh": "沉湎于温暖的猎场。"
+      },
+      "description": {
+        "vi": "Nơi tranh chấp, quỷ thành giáng lâm, yêu quỷ truy lùng tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương 95%, kèm theo 50% hút máu, đồng thời khiến mục tiêu đó không thể nhận hiệu ứng thay đổi thanh hành động, duy trì 2 lượt; khi [Thi triển] nếu bản thân tồn tại lưới hồn, sẽ tăng 1 tầng lưới hồn, nếu bản thân sở hữu [buff_3961_1] thì đổi thành gây sát thương cho toàn thể kẻ địch. Mỗi khi giảm 2 tầng lưới hồn và bản thân không ở trạng thái không thể hành động, sẽ [Thi triển] Tuyệt Kích Truy Lùng, gây 2 lần sát thương bằng 49% tấn công cho toàn thể kẻ địch, không kích hoạt hiệu ứng Ngự Hồn của mục tiêu.",
+        "en": "Brings Demon City, the land of strife, to the battlefield. Commands the demons he's hunting to launch a 3-strike attack on 1 enemy, dealing damage equal to 95% of his ATK on each strike with 50% HP Steal. Also, prevents the enemy from enjoying Move Bar-changing effects for 2 turns. If he has Web of Souls while using the skill, adds 1 Web of Souls stack. If he has [buff_3961_1], the damage is inflicted onto all enemies. Whenever after he loses 2 Web of Souls stacks, if he's not unable to take actions, uses Hunting Strike to launch a 2-strike attack on all enemies, dealing damage equal to 49% of his ATK on each strike, without triggering the Soul effects of the enemies.",
+        "zh": "纷争之地，鬼城降临，追猎的妖鬼攻击敌方目标3次，每次造成攻击95%伤害，附带50%吸血，并使该目标无法受到改变行动条的效果，持续2回合；施放时若自身存在魂网，则增加1层魂网，若自身拥有[buff_3961_1]则改为对敌方群体造成伤害。每减少2层魂网且自身未处于无法动作时，施放追猎绝击，对全体敌方造成2次攻击49%的伤害，不触发目标御魂效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sơ sút tăng đến 86%.",
+            "en": "Increases the damage to 86%.",
+            "zh": "伤害提升至86%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sơ sút tăng đến 95%.",
+            "en": "Increases the damage to 95%.",
+            "zh": "伤害提升至95%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi [Thi triển] nếu bản thân tồn tại lưới hồn, sẽ tăng 1 tầng lưới hồn.",
+            "en": "If he has Web of Souls when using the skill, adds 1 Web of Souls stack.",
+            "zh": "施放时若自身存在魂网，则增加1层魂网"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi giảm 2 tầng lưới hồn và bản thân không ở trạng thái không thể hành động, sẽ [Thi triển] Tuyệt Kích Truy Lùng, gây 2 lần sát thương bằng 49% tấn công cho toàn thể kẻ địch, không kích hoạt hiệu ứng Ngự Hồn của mục tiêu.",
+            "en": "Whenever after he loses 2 Web of Souls stacks, if he's not unable to take actions, uses Hunting Strike to launch a 2-strike attack on all enemies, dealing damage equal to 49% of his ATK on each strike, without triggering the Soul effects of the enemies.",
+            "zh": "每减少2层魂网且自身未处于无法动作时，施放追猎绝击，对全体敌方造成2次攻击49%的伤害，不触发目标御魂效果"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3963",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_guitongwan",
+    "headKey": "h_sp_guitongwan",
+    "armature": [
+      "s2_spgtw_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spguitongwan",
+    "skillIconKeys": [
+      "3961",
+      "3962",
+      "3963"
+    ]
+  },
+  "unresolvedTokens": []
+}

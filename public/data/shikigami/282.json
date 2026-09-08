@@ -1,0 +1,301 @@
+{
+  "id": 282,
+  "name": {
+    "vi": "Kim Ngư Cơ",
+    "en": "Kingyo",
+    "zh": "金鱼姬"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 25, 7]",
+    "en": "[1, 25, 7]",
+    "zh": "[1, 25, 7]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2144,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12531,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 366,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 106,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2821,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phiến Vũ",
+        "en": "Fan Dance",
+        "zh": "扇舞"
+      },
+      "intro": {
+        "vi": "Hừ hừ, không để ngươi ngáng đường giấc mơ của ta đâu!",
+        "en": "Hmph! You're not stopping me from pursuing my dream!",
+        "zh": "哼哼，才不会让你阻碍我的梦想呢！"
+      },
+      "description": {
+        "vi": "冲向敌方目标调皮地用扇子攻击，造成攻击100%伤害。\n若金鱼在场，则为其治疗生命上限10%的生命并获得1层[buff_2821_1]，上限5层。",
+        "en": "冲向敌方目标调皮地用扇子攻击，造成攻击100%伤害。\n若金鱼在场，则为其治疗生命上限10%的生命并获得1层[buff_2821_1]，上限5层。",
+        "zh": "冲向敌方目标调皮地用扇子攻击，造成攻击100%伤害。\n若金鱼在场，则为其治疗生命上限10%的生命并获得1层[buff_2821_1]，上限5层。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至84%",
+            "en": "伤害增加至84%",
+            "zh": "伤害增加至84%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至88%",
+            "en": "伤害增加至88%",
+            "zh": "伤害增加至88%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至92%",
+            "en": "伤害增加至92%",
+            "zh": "伤害增加至92%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2821",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2823,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kim Ngư · Trợ Chiến",
+        "en": "Goldfish: Aid",
+        "zh": "金鱼·助阵"
+      },
+      "intro": {
+        "vi": "Kim Ngư hỡi, cùng ta chinh phục thế giới thôi!",
+        "en": "Goldfish, let's go rule the world!",
+        "zh": "金鱼啊，跟我一起征服世界吧！"
+      },
+      "description": {
+        "vi": "召唤金鱼，金鱼可使用[skill_2824_1]。当友方被攻击时，若受到单体伤害，金鱼将为其分担40%（优先于薙魂触发），直到攻击结束，每次攻击最多触发一次。\n金鱼继承金鱼姬[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击，[z_速度继承比_per]速度，100%效果抵抗。",
+        "en": "召唤金鱼，金鱼可使用[skill_2824_1]。当友方被攻击时，若受到单体伤害，金鱼将为其分担40%（优先于薙魂触发），直到攻击结束，每次攻击最多触发一次。\n金鱼继承金鱼姬[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击，[z_速度继承比_per]速度，100%效果抵抗。",
+        "zh": "召唤金鱼，金鱼可使用[skill_2824_1]。当友方被攻击时，若受到单体伤害，金鱼将为其分担40%（优先于薙魂触发），直到攻击结束，每次攻击最多触发一次。\n金鱼继承金鱼姬[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击，[z_速度继承比_per]速度，100%效果抵抗。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Thừa hưởng HP tăng lên [z_生命继承比_per]",
+            "en": "The HP inherited increases to [z_生命继承比_per].",
+            "zh": "生命继承增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Thừa hưởng HP tăng lên [z_生命继承比_per]",
+            "en": "The HP inherited increases to [z_生命继承比_per].",
+            "zh": "生命继承增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thừa hưởng HP tăng lên [z_生命继承比_per]",
+            "en": "The HP inherited increases to [z_生命继承比_per].",
+            "zh": "生命继承增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thừa hưởng HP tăng lên [z_生命继承比_per]",
+            "en": "The HP inherited increases to [z_生命继承比_per].",
+            "zh": "生命继承增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thừa hưởng HP tăng lên [z_生命继承比_per]",
+            "en": "The HP inherited increases to [z_生命继承比_per].",
+            "zh": "生命继承增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Thừa hưởng HP tăng lên [z_生命继承比_per]",
+            "en": "The HP inherited increases to [z_生命继承比_per].",
+            "zh": "生命继承增至[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[skill_2824_1] có 50% xác suất đẩy lùi 30% Thanh Hành Động",
+            "en": "[skill_2824_1] has a 50% chance of lowering target's Move Bar by 30%.",
+            "zh": "[skill_2824_1]有50%概率击退30%行动条"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đánh Thường có 50% xác suất đẩy lùi 30% Thanh Hành Động",
+            "en": "Has a 50% chance of lowering target's Move Bar by 30% with a normal attack.",
+            "zh": "普攻有50%概率击退30%行动条"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2823",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 2822,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Kim Ngư · Phản Kích",
+        "en": "Goldfish: Counter",
+        "zh": "金鱼·反击"
+      },
+      "intro": {
+        "vi": "Kẻ xấu các người, không được bắt nạt ta!",
+        "en": "Don't you dare try to bully me, you scoundrels!",
+        "zh": "你们这些大坏蛋，不准欺负我！"
+      },
+      "description": {
+        "vi": "Khi phe địch tích lũy hành động 8 lần, Kim Ngư gây sát thương bằng 120% Tấn công cho toàn bộ phe địch, và có 25% [tips_2] khiến kẻ đó [tips_104], duy trì 1 lượt.",
+        "en": "Goldfish attacks all enemies, dealing damage equal to 120% of Goldfish's ATK with a 25% [tips_2] of inflicting [tips_104] lasting 1 turn on them when the opponent takes 8 actions.",
+        "zh": "当敌方累计行动8次时，金鱼对敌方全体造成攻击120%伤害，并有25%[tips_2]使其[tips_104]，持续1回合。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconKey": "2822",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "jinyuji",
+    "headKey": "h_jinyuji",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2821",
+      "2823",
+      "2822"
+    ]
+  },
+  "unresolvedTokens": []
+}

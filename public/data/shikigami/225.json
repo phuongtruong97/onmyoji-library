@@ -1,0 +1,220 @@
+{
+  "id": 225,
+  "name": {
+    "vi": "Khiêu Khiêu Đệ Đệ",
+    "en": "Kyonshi Ototo",
+    "zh": "跳跳弟弟"
+  },
+  "rarity": "R",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2733,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9683,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 366,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 94,
+      "grade": "D"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2251,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trực Quyền",
+        "en": "Mighty Punch",
+        "zh": "直拳"
+      },
+      "intro": {
+        "vi": "Đánh ngươi nha!",
+        "en": "Take this!",
+        "zh": "打你哦！"
+      },
+      "description": {
+        "vi": "Nhảy về phía trước và dốc sức đấm thẳng vào mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.",
+        "en": "Sneaks up to 1 enemy and punches them with all his might, dealing damage equal to 125% of his ATK.",
+        "zh": "往前跳并奋力使出直拳攻击敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2251",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2253,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Độc Khí Phún Tuyền",
+        "en": "Noxious Spray",
+        "zh": "毒气喷泉"
+      },
+      "intro": {
+        "vi": "Ư ư —— Thử thưởng thức khí độc này đi!",
+        "en": "Hey, how d'ya like this corpse mist?!",
+        "zh": "唔唔——尝尝这毒气吧！"
+      },
+      "description": {
+        "vi": "Phun khí độc tấn công toàn bộ phe địch, gây sát thương bằng 92% Tấn công và đính kèm [buff_2253_1], gây 22% [tips_5], duy trì 2 lượt.\nKhi [buff_2253_1] của phe địch bị xua tan, đính kèm [buff_2255_1] cho kẻ đó, duy trì [b_参数p4_abs] lượt.",
+        "en": "Sprays noxious mist at all enemies, dealing damage equal to 92% of his ATK and inflicts [buff_2253_1] lasting 2 turn(s) on them, dealing 22% [tips_5].\nWhen [buff_2253_1] is dispelled from an enemy, it inflicts [buff_2255_1] lasting [b_参数p4_abs] turn(s) on them.",
+        "zh": "喷吐毒气攻击敌方全体，造成攻击92%伤害并附加[buff_2253_1]，造成22%[tips_5]，持续2回合。\n敌方带有的[buff_2253_1]被驱散时，为其附加[buff_2255_1]，持续[b_参数p4_abs]回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 80%, Sát Thương Gián Tiếp tăng lên [b_参数p5_per]",
+            "en": "Increases damage to 80% and indirect damage to [b_参数p5_per].",
+            "zh": "伤害增至80%，间接伤害增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 84%, Sát Thương Gián Tiếp tăng lên [b_参数p5_per]",
+            "en": "Increases damage to 84% and indirect damage to [b_参数p5_per].",
+            "zh": "伤害增至84%，间接伤害增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 88%, Sát Thương Gián Tiếp tăng lên [b_参数p5_per]",
+            "en": "Increases damage to 88% and indirect damage to [b_参数p5_per].",
+            "zh": "伤害增至88%，间接伤害增至[b_参数p5_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 92%, Sát Thương Gián Tiếp tăng lên [b_参数p5_per]",
+            "en": "Increases damage to 92% and indirect damage to [b_参数p5_per].",
+            "zh": "伤害增至92%，间接伤害增至[b_参数p5_per]"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2253",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "tiaotiaoxiaogui",
+    "headKey": "h_tiaotiaodidi",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2251",
+      "2253"
+    ]
+  },
+  "unresolvedTokens": []
+}

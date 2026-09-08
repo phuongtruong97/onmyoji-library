@@ -1,0 +1,350 @@
+{
+  "id": 573,
+  "name": {
+    "vi": "Long Giác",
+    "en": "Loongjue",
+    "zh": "龙珏"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3518,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11505,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 342,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 108,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5731,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Long Sạc",
+        "en": "Loong's Roar",
+        "zh": "龙叱"
+      },
+      "intro": {
+        "vi": "Đạo ở đâu, ta đi ngàn vạn dặm.",
+        "en": "Nothing can stop me from seeking the way.",
+        "zh": "道所在，吾往万千。"
+      },
+      "description": {
+        "vi": "Tấn công nhanh mục tiêu, gây 3 đòn sát thương bằng 100% Tấn công.",
+        "en": "Launches a flurry of 3 strikes at 1 enemy, dealing damage equal to 100% of her ATK on each strike.",
+        "zh": "快速攻击目标，造成3次攻击100%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至85%",
+            "en": "伤害增加至85%",
+            "zh": "伤害增加至85%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至90%",
+            "en": "伤害增加至90%",
+            "zh": "伤害增加至90%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至95%",
+            "en": "伤害增加至95%",
+            "zh": "伤害增加至95%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至100%",
+            "en": "伤害增加至100%",
+            "zh": "伤害增加至100%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5731",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5732,
+      "maxLevel": 5,
+      "name": {
+        "vi": "龙息之力",
+        "en": "龙息之力",
+        "zh": "龙息之力"
+      },
+      "intro": {
+        "vi": "天地与我并生，万物与我为一。",
+        "en": "天地与我并生，万物与我为一。",
+        "zh": "天地与我并生，万物与我为一。"
+      },
+      "description": {
+        "vi": "Lòng này không sợ rung chuyển trời đất! Khi gây và chịu sát thương, ưu tiên chuyển hóa sát thương này thành [tips_5731] tương đương; nếu mục tiêu chịu đòn chỉ còn lại Huyền Huyết, dẫn động sức mạnh long tức gây [tips_5732] bằng 30% hệ số sát thương gốc cho mục tiêu đó (đối với mục tiêu quái vật, hệ số sức mạnh long tức tăng lên 100%). Khi bản thân chỉ còn lại Huyền Huyết, tự động thi triển.\n[tips_11] 【Thi triển】 Tăng 50% Thanh Hành Động cho bản thân, hồi phục 50% HP, sau đó thanh lọc Huyền Huyết của bản thân thành HP, và [tips_8] ngẫu nhiên 2 trạng thái tiêu cực của đồng minh.",
+        "en": "I'm not afraid to change the world! When she deals or takes damage, converts the damage to an equal amount of [tips_5731] first. If the attacked unit has only Loong's Blood, wields the Force of Loongbreath to deal [tips_5732] equal to 30% of the original damage multiplier (increases to 100% against monsters) to them. Automatically uses the skill when she has only Loong's Blood.\n[tips_11]. Active skill: Raises her Move Bar by 50%, recovers her HP by 50%, converts her Loong's Blood to HP, and [tips_8]s 2 debuffs from random allies.",
+        "zh": "此心不惧撼天地！造成和受到伤害时，优先将此伤害转换成等量的[tips_5731]；若受击目标只剩下玄血，引动龙息之力对该目标造成原伤害系数30%的[tips_5732]（对怪物目标，龙息之力系数提升至100%）。自身仅剩下玄血时，自动施放。\n[tips_11]，【施放】提升自身50%行动条，恢复50%生命，之后将自身的玄血净化成生命，并随机[tips_8]友方2个负面状态。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi thi triển, tăng 50% Thanh Hành Động cho bản thân",
+            "en": "Using the skill raises his Move Bar by 50%.",
+            "zh": "施放时，提升自身50%行动条"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi thi triển, tăng 50% Thanh Hành Động cho bản thân",
+            "en": "Using the skill raises his Move Bar by 50%.",
+            "zh": "施放时，提升自身50%行动条"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi thi triển, hồi phục trước 50% HP cho bản thân",
+            "en": "When she uses the skill, her HP recovers by 50% first.",
+            "zh": "施放时，先恢复自身50%生命"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi thi triển, hồi phục trước 50% HP cho bản thân",
+            "en": "When she uses the skill, her HP recovers by 50% first.",
+            "zh": "施放时，先恢复自身50%生命"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi bản thân chỉ còn lại Huyền Huyết, tự động thi triển",
+            "en": "Automatically uses the skill when she has only Loong's Blood.",
+            "zh": "自身仅剩下玄血时，自动施放"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi bản thân chỉ còn lại Huyền Huyết, tự động thi triển",
+            "en": "Automatically uses the skill when she has only Loong's Blood.",
+            "zh": "自身仅剩下玄血时，自动施放"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đối với mục tiêu quái vật, hệ số sức mạnh long tức tăng lên 100%",
+            "en": "Increases the Force of Loongbreath's multiplier against monsters to 100%.",
+            "zh": "对怪物目标，龙息之力系数提升至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đối với mục tiêu quái vật, hệ số sức mạnh long tức tăng lên 100%",
+            "en": "Increases the Force of Loongbreath's multiplier against monsters to 100%.",
+            "zh": "对怪物目标，龙息之力系数提升至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5732",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 5733,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phi Long Hành Đạo",
+        "en": "Loong's Descension",
+        "zh": "飞龙行道"
+      },
+      "intro": {
+        "vi": "百转千回心不退，无畏方使越万山。",
+        "en": "百转千回心不退，无畏方使越万山。",
+        "zh": "百转千回心不退，无畏方使越万山。"
+      },
+      "description": {
+        "vi": "Lòng kiên định có thể vượt muôn trùng núi, lấy khí điều khiển, gây cho toàn bộ phe địch sát thương bằng 588% Tấn công. Sau đó ngưng tụ khí tức, tấn công mục tiêu kẻ địch chỉ định, gây 3 đòn sát thương bằng 198% Tấn công.",
+        "en": "I have the conviction to cross all mountains. Wields chi to attack all enemies, dealing damage equal to 588% of her ATK. Then focuses chi to inflict a 3-strike attack on 1 enemy, dealing damage equal to 198% of her ATK on each strike.",
+        "zh": "心坚可越万重山，以气御行，对敌方全体造成攻击588%的伤害。之后将气息汇聚，攻击指定敌方目标，造成3段攻击198%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hệ số diện rộng tăng lên 555%",
+            "en": "Increases the AoE damage multiplier to 555%.",
+            "zh": "群体系数提升到555%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hệ số truy kích tăng lên 185%",
+            "en": "Increases follow-up strike multiplier to 185%.",
+            "zh": "追击系数提升到185%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hệ số diện rộng tăng lên 588%",
+            "en": "Increases the AoE damage multiplier to 588%.",
+            "zh": "群体系数提升到588%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hệ số truy kích tăng lên 198%",
+            "en": "Increases follow-up strike multiplier to 198%.",
+            "zh": "追击系数提升到198%"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconKey": "5733",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "longjue",
+    "headKey": "h_longjue",
+    "armature": "",
+    "artName": "txt_zhanshi_longjue",
+    "skillIconKeys": [
+      "5731",
+      "5732",
+      "5733"
+    ]
+  },
+  "unresolvedTokens": []
+}

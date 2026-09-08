@@ -1,0 +1,350 @@
+{
+  "id": 330,
+  "name": {
+    "vi": "Bất Tri Hỏa",
+    "en": "Shiranui",
+    "zh": "不知火"
+  },
+  "rarity": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 49, 5]",
+    "en": "[1, 49, 5]",
+    "zh": "[1, 49, 5]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3135,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 8430,
+      "grade": "D"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 357,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 107,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3301,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Sơ Vũ",
+        "en": "Debut",
+        "zh": "初舞"
+      },
+      "intro": {
+        "vi": "Tiếng hát ban đầu của ca cơ.",
+        "en": "The first song of Songstress.",
+        "zh": "歌姬最初的歌声。"
+      },
+      "description": {
+        "vi": "Nương theo âm thanh mà múa, dùng bướm tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương 60%.",
+        "en": "Dances to the music and sends off butterflies to launch a 2-strike attack on 1 enemy, dealing damage equal to 60% of her ATK on each strike.",
+        "zh": "随音而舞，以蝴蝶攻击敌方目标2次，每次造成攻击60%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至52%",
+            "en": "伤害增加至52%",
+            "zh": "伤害增加至52%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至54%",
+            "en": "伤害增加至54%",
+            "zh": "伤害增加至54%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至56%",
+            "en": "伤害增加至56%",
+            "zh": "伤害增加至56%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至60%",
+            "en": "伤害增加至60%",
+            "zh": "伤害增加至60%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3301",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3302,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ly Ảnh",
+        "en": "Silhouette of Sorrow",
+        "zh": "离影"
+      },
+      "intro": {
+        "vi": "Từ khi nào không rõ, ranh giới giữa người và yêu đã trở nên mơ hồ.",
+        "en": "The border between humans and spirits gradually began to blur.",
+        "zh": "不知何时起，模糊了人与妖的界线。"
+      },
+      "description": {
+        "vi": "[tips_11].\nNếu đồng minh đánh thường hoặc không thể hành động trong lượt, khi kết thúc lượt đó, Bất Tri Hỏa có xác suất 50% (tăng đến 100% trong kết giới Tinh Hỏa) khiêu vũ, hy sinh 5% HP hiện tại của bản thân, giúp đồng minh đó tăng [b2_属性1数值_per] kháng hiệu ứng, duy trì 1 lượt.\nKhi chịu sát thương chí mạng, bước vào tư thế [buff_3300_1].\n【Thi triển】 Tỷ lệ HP bản thân thấp hơn 50% có thể [Thi triển], bước vào tư thế [buff_3300_1], đồng thời [Thi triển] một lần 『Tẫn Nhiễm Bất Dạ』 không tốn tiêu hao.",
+        "en": "[tips_11].\nIf an ally uses a normal attack or is unable to take actions on their turn, Shiranui has a 50% (increased to 100% when she's in the Sparkling Flame Realm) chance of performing a dance at the end of that turn, spending 5% of her current HP to increase the Effect RES of the ally by [b2_属性1数值_per] for 1 turn.\nWhen Shiranui takes lethal damage, she enters the [buff_3300_1] state.\nActive skill: This can only be used when her HP drops below 50%. Enters the [buff_3300_1] state and uses Blazing Flame without spending any orbs.",
+        "zh": "[tips_11]。\n若友方在回合中普攻或无法动作，在该回合结束时，不知火有50%概率（在星火结界中增至100%）起舞，牺牲自身5%当前生命值，使该友方提升[b2_属性1数值_per]效果抵抗，持续1回合。\n受到致命伤害时，进入[buff_3300_1]姿态。\n【施放】自身生命比例低于50%可施放，进入[buff_3300_1]姿态，同时施放一次无消耗的『烬染不夜』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tăng kháng hiệu ứng tăng đến [b2_属性1数值_per].",
+            "en": "Increases Effect RES to [b2_属性1数值_per].",
+            "zh": "提升效果抵抗增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tăng kháng hiệu ứng tăng đến [b2_属性1数值_per].",
+            "en": "Increases Effect RES to [b2_属性1数值_per].",
+            "zh": "提升效果抵抗增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tăng kháng hiệu ứng tăng đến [b2_属性1数值_per].",
+            "en": "Increases Effect RES to [b2_属性1数值_per].",
+            "zh": "提升效果抵抗增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tăng kháng hiệu ứng tăng đến [b2_属性1数值_per].",
+            "en": "Increases Effect RES to [b2_属性1数值_per].",
+            "zh": "提升效果抵抗增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tăng kháng hiệu ứng tăng đến [b2_属性1数值_per].",
+            "en": "Increases Effect RES to [b2_属性1数值_per].",
+            "zh": "提升效果抵抗增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tăng kháng hiệu ứng tăng đến [b2_属性1数值_per].",
+            "en": "Increases Effect RES to [b2_属性1数值_per].",
+            "zh": "提升效果抵抗增至[b2_属性1数值_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Trong kết giới Tinh Hỏa, xác suất khiêu vũ tăng đến 100%.",
+            "en": "While the Sparkling Flame Realm is active, increases her chance of performing a dance to 100%.",
+            "zh": "在星火结界中，起舞概率增至100%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Trong kết giới Tinh Hỏa, xác suất khiêu vũ tăng đến 100%.",
+            "en": "While the Sparkling Flame Realm is active, increases her chance of performing a dance to 100%.",
+            "zh": "在星火结界中，起舞概率增至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3302",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 2,
+          "awakeFilter": 0
+        },
+        {
+          "level": 2,
+          "awakeFilter": 1
+        },
+        {
+          "level": 3,
+          "awakeFilter": 0
+        },
+        {
+          "level": 3,
+          "awakeFilter": 1
+        },
+        {
+          "level": 4,
+          "awakeFilter": 0
+        },
+        {
+          "level": 4,
+          "awakeFilter": 1
+        },
+        {
+          "level": 5,
+          "awakeFilter": 0
+        },
+        {
+          "level": 5,
+          "awakeFilter": 1
+        }
+      ]
+    },
+    {
+      "id": 3303,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tinh Hỏa Mãn Thiên",
+        "en": "Blazing Sky",
+        "zh": "星火满天"
+      },
+      "intro": {
+        "vi": "Nhìn ngọn lửa đầy trời kìa, ước gì khoảnh khắc này là vĩnh cửu.",
+        "en": "Look at the flames as they light up the sky. May this moment last forever.",
+        "zh": "看那满天星火，愿此刻永恒。"
+      },
+      "description": {
+        "vi": "[tips_11].\nTạo kết giới Tinh Hỏa tồn tại 2 lượt, trong thời gian này, toàn thể đồng minh tăng 10% sát thương, 25 điểm tốc độ, nhận 10% giảm sát thương.\nĐồng minh trong kết giới, sau khi thực hiện tấn công thường trong lượt của mình, có xác suất [b_参数p1_per] tấn công thường thêm một lần nữa lên cùng một mục tiêu, tấn công thường thêm không kích hoạt bị động của kẻ tấn công, không kích hoạt Ngự Hồn và bị động của mục tiêu, bỏ qua 200 phòng thủ và kèm theo 30% hút máu.\nTrong thời gian kết giới tồn tại, mỗi điểm Quỷ Hỏa có thể tăng 2% sát thương, 2% giảm sát thương.\n[tips_7]: [Thi triển]『Tinh Hỏa Mãn Thiên』.",
+        "en": "[tips_11].\nForms a Sparkling Flame Realm lasting 2 turns. While the realm is active, all allies' damage dealt and SPD are increased by 10% and 25, respectively, and they gain a 10% damage reduction.\nWhen an ally in the realm uses a normal attack during their own turn, they have a [b_参数p1_per] chance of using a normal attack on the same target again. The extra normal attack launched does not trigger the attacker's passive skills or the target's Soul effects and passive skills, ignores DEF by 200, and inflicts a 30% HP Steal.\nWhile the realm is active, each orb you have increases damage dealt by 2% and damage reduction by 2%.\n[tips_7]: Uses Blazing Sky.",
+        "zh": "[tips_11]。\n创造存在2回合的星火结界，此期间，友方全体提升10%伤害、25点速度、获得10%减伤。\n结界中的友方，在其回合进行普攻后，有[b_参数p1_per]概率对同一目标再额外普攻一次，额外普攻不触发攻击者被动，不触发目标的御魂及被动，无视200防御并附带30%吸血。\n结界存在期间，每点鬼火可增加2%伤害、2%减伤。\n[tips_7]：施放『星火满天』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tấn công thường thêm bỏ qua 200 phòng thủ và kèm theo 30% hút máu.",
+            "en": "The extra normal attack launched ignores DEF by 30% and has a 200 HP Steal.",
+            "zh": "额外普攻无视200防御并附带30%吸血"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trong thời gian kết giới tồn tại, mỗi điểm Quỷ Hỏa có thể tăng 2% sát thương, 2% giảm sát thương.",
+            "en": "While the realm is active, each orb increases damage by 2% and damage reduction by 2%.",
+            "zh": "结界存在期间，每点鬼火可增加2%伤害、2%减伤"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất tấn công thường thêm tăng đến [b_参数p1_per].",
+            "en": "Increases the chance of using a normal attack an extra time to [b_参数p1_per].",
+            "zh": "额外普攻概率增至[b_参数p1_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_7]: [Thi triển]『Tinh Hỏa Mãn Thiên』.",
+            "en": "[tips_7]: Uses Blazing Sky.",
+            "zh": "[tips_7]：施放『星火满天』"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "3303",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "buzhihuo",
+    "headKey": "h_buzhihuo",
+    "armature": "",
+    "artName": "txt_zhanshi_buzhihuo",
+    "skillIconKeys": [
+      "3301",
+      "3302",
+      "3303"
+    ]
+  },
+  "unresolvedTokens": []
+}

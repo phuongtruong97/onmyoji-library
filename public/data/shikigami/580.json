@@ -1,0 +1,302 @@
+{
+  "id": 580,
+  "name": {
+    "vi": "Tình Tư Nhật Hòa Phường",
+    "en": "Sungraced Hiyoribou",
+    "zh": "晴思日和坊"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[38, 10, 20]",
+    "en": "[38, 10, 20]",
+    "zh": "[38, 10, 20]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2948,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11392,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 396,
+      "grade": "B"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 114,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5801,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ầm Ầm",
+        "en": "Crackaboom",
+        "zh": "轰隆隆"
+      },
+      "intro": {
+        "vi": "Những lúc thời tiết xấu, cố gắng ra ngoài ít thôi nhé.",
+        "en": "Stay at home when the weather is not looking good.",
+        "zh": "天气不好的时候，尽量少出门哦。"
+      },
+      "description": {
+        "vi": "Búp bê chớp giật tinh nghịch mang theo búp bê sương mù xuất kích về phía mục tiêu kẻ địch, gây sát thương 125%.",
+        "en": "The playful Lightning Doll leads Drizzle Doll into attacking 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "调皮的霹雳娃娃带着雾雨娃娃向敌方目标出击，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5801",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5802,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Trừng Không Cầu Vồng",
+        "en": "Clearsky Rainbow",
+        "zh": "澄空彩虹"
+      },
+      "intro": {
+        "vi": "Có gió, có mây, còn có cầu vồng, là ngày thích hợp nhất để dã ngoại!",
+        "en": "Windy with clouds and a rainbow. A perfect day for a field trip!",
+        "zh": "有风，有云，还有彩虹，是最适合踏青的日子！"
+      },
+      "description": {
+        "vi": "[tips_11]. Khi đồng minh khác gây sát thương, tích trữ lượng [tips_5802] tương đương 35% sát thương. Trước khi bắt đầu lượt của bản thân, nếu tồn tại đồng minh không phải vật triệu hồi có tỷ lệ HP dưới 70%, tiêu hao lượng [tips_5802] bằng 120% tấn công ban đầu để trị liệu đồng minh đó, tối đa trị liệu 3 người. Khi bản thân và đồng minh không phải vật triệu hồi có tấn công ban đầu cao nhất chịu thương tổn, bản thân tối đa tiêu hao năng lượng cầu vồng bằng 90% tấn công ban đầu để đỡ đòn lượng sát thương tương đương, đồng minh tối đa tiêu hao năng lượng cầu vồng bằng 60% tấn công ban đầu để đỡ đòn lượng sát thương tương đương.",
+        "en": "[tips_11]. When another ally deals damage, stores [tips_5802] equal to 35% of the damage. At the start of her turn, if a non-summoned ally entity's HP is below 70%, spends [tips_5802] equal to 120% of her starting ATK to heal the ally, up to 3 allies can be healed. Whenever she or the non-summoned ally entity with the highest starting ATK takes damage, she spends rainbow energy up to 90% of her starting ATK to block equal amount of damage, while allies spend rainbow energy up to 60% of their starting ATK to block equal amount of damage.",
+        "zh": "[tips_11]。其他友方造成伤害时，储存等同于35%伤害的[tips_5802]。自身回合开始前，若存在非召唤物友方生命比例低于70%，消耗初始攻击120%的[tips_5802]治疗该友方，至多治疗3名。自身和初始攻击最高的非召唤物友方受伤时，自身至多消耗初始攻击90%的彩虹能量抵挡等量的伤害，友方至多消耗初始攻击60%的彩虹能量抵挡等量的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tỷ lệ tích trữ sát thương tăng đến 25%.",
+            "en": "Increases stored amount to 25% of the damage.",
+            "zh": "储存伤害的比例提升至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tỷ lệ tích trữ sát thương tăng đến 30%.",
+            "en": "Increases stored amount to 30% of the damage.",
+            "zh": "储存伤害的比例提升至30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi bản thân và đồng minh không phải vật triệu hồi có tấn công ban đầu cao nhất chịu thương tổn, tối đa tiêu hao năng lượng cầu vồng bằng 60% tấn công ban đầu để đỡ đòn lượng sát thương tương đương.",
+            "en": "When she or the non-summoned ally entity with the highest starting ATK takes damage, spends rainbow energy up to 60% of her starting ATK to block equal amount of damage.",
+            "zh": "自身和初始攻击最高的非召唤物友方受伤时，至多消耗初始攻击60%的彩虹能量抵挡等量的伤害"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi bản thân chịu thương tổn, năng lượng cầu vồng tiêu hao để đỡ đòn sát thương được tăng lên 90% tấn công ban đầu.",
+            "en": "When taking damage, the rainbow energy consumed to block it increases to 90% of starting ATK.",
+            "zh": "自身受伤时，抵挡伤害所消耗的彩虹能量提升至初始攻击的90%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5802",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5803,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tình Nhật Hoa Quang",
+        "en": "Sunny Radiance",
+        "zh": "晴日华光"
+      },
+      "intro": {
+        "vi": "Đừng sợ, ánh sáng sẽ xua tan bóng tối.",
+        "en": "Fear not. The light will dispel the darkness.",
+        "zh": "别害怕，光会驱散黑暗。"
+      },
+      "description": {
+        "vi": "Tiên cơ: [Thi triển] «Tình Nhật Hoa Quang» lên đồng minh có tấn công ban đầu cao nhất. Xua tan u ám, cầu vồng rợp trời, khiến 1 đồng minh ngoài bản thân nhận [buff_5803_1], duy trì 1 lượt, đồng thời tích trữ [tips_5802] tương đương 720% tấn công ban đầu. Cứ nhận được 600% tấn công ban đầu của năng lượng cầu vồng sẽ nhận được 1 [buff_5804_1]. Sau khi đồng minh mang [buff_5803_1] gây sát thương hoặc chịu sát thương, trị liệu tỷ lệ HP bằng 120% tấn công ban đầu cho 3 mục tiêu đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất (giới hạn 4 lần trước khi bắt đầu lượt bản thân).",
+        "en": "Upper Hand: Casts Sunny Radiance on the ally with the highest starting ATK. Dispels dark clouds to let the rainbow shine. Grants [buff_5803_1] to another ally (excluding self). Sustainable for 1 turn. Stores [tips_5802] equal to 720% of starting ATK. For every 600% of starting ATK stored as rainbow energy, gains 1 [buff_5804_1]. When an ally with [buff_5803_1] deals or takes damage, heals 3 non-summoned allies with the lowest HP percentage by 120% of starting ATK (max 4 times before her next turn).",
+        "zh": "先机：对初始攻击最高的友方施放「晴日华光」。驱散阴霾，彩虹当空，使1位除自身外的友方获得[buff_5803_1]，维持1回合，并储存等同于初始攻击720%的[tips_5802]。每获得600%初始攻击的彩虹能量，获得1个[buff_5804_1]。带有[buff_5803_1]的友方造成伤害或受到伤害后，为3名生命比例最低的非召唤物友方目标治疗初始攻击120%的生命比例（自身回合开始前限4次）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hệ số tích trữ [tips_5802] tăng lên 660%.",
+            "en": "Increases [tips_5802]'s storage multiplier to 660%.",
+            "zh": "储存[tips_5802]的系数提升至660%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hệ số tích trữ [tips_5802] tăng lên 720%.",
+            "en": "Increases [tips_5802]'s storage multiplier to 720%.",
+            "zh": "储存[tips_5802]的系数提升至720%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sau khi đồng minh mang [buff_5803_1] gây sát thương hoặc chịu sát thương, trị liệu lượng HP bằng 120% tấn công ban đầu cho 3 mục tiêu đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất (giới hạn 4 lần trước khi bắt đầu lượt bản thân).",
+            "en": "After the ally with [buff_5803_1] deals or takes damage, heals 3 non-summoned ally entities with the lowest proportion of HP by 120% of her starting ATK (max 4 times before her next turn).",
+            "zh": "带有[buff_5803_1]的友方造成伤害或受到伤害后，为3名生命比例最低的非召唤物友方目标治疗初始攻击120%的生命（自身回合开始前限4次）"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: [Thi triển] «Tình Nhật Hoa Quang» lên đồng minh có tấn công ban đầu cao nhất.",
+            "en": "Upper Hand: Casts Sunny Radiance on the ally with the highest starting ATK.",
+            "zh": "先机：对初始攻击最高的友方施放「晴日华光」"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5803",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_rihefang",
+    "headKey": "h_sp_rihefang",
+    "armature": [
+      "common_card_skin/25sp_rihefang_card",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_sprihefang",
+    "skillIconKeys": [
+      "5801",
+      "5802",
+      "5803"
+    ]
+  },
+  "unresolvedTokens": []
+}

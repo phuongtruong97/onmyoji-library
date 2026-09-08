@@ -1,0 +1,270 @@
+{
+  "id": 271,
+  "name": {
+    "vi": "Bát Nhã",
+    "en": "Hannya",
+    "zh": "般若"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[16]",
+    "en": "[16]",
+    "zh": "[16]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2867,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 9569,
+      "grade": "C"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 361,
+      "grade": "C"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 104,
+      "grade": "B"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2711,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quỷ Chi Giả Diện",
+        "en": "Fiendish Mask",
+        "zh": "鬼之假面"
+      },
+      "intro": {
+        "vi": "Hừ hừ, chơi với ta thêm chút nữa đi~",
+        "en": "Play with me for a little bit longer!",
+        "zh": "哼哼，再多陪我玩一下嘛~"
+      },
+      "description": {
+        "vi": "Vung mặt nạ quỷ tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công.",
+        "en": "Throws his mask at 1 enemy, dealing damage equal to 120% of his ATK.",
+        "zh": "甩出鬼面具攻击敌方目标，造成攻击120%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%, sát thương Quỷ Chi Trảo tăng lên 94.5%",
+            "en": "Increases damage to 105% and Demon Claw's damage to 94.5%",
+            "zh": "伤害增加至105%，鬼之爪伤害增加至94.5%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%, sát thương Quỷ Chi Trảo tăng lên 99%",
+            "en": "Increases damage to 110% and Demon Claw's damage to 99%",
+            "zh": "伤害增加至110%，鬼之爪伤害增加至99%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%, sát thương Quỷ Chi Trảo tăng lên 103.5%",
+            "en": "Increases damage to 115% and Demon Claw's damage to 103.5%",
+            "zh": "伤害增加至115%，鬼之爪伤害增加至103.5%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 120%, sát thương Quỷ Chi Trảo tăng lên 108%",
+            "en": "Increases damage to 120% and Demon Claw's damage to 108%",
+            "zh": "伤害增加至120%，鬼之爪伤害增加至108%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2711",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2712,
+      "maxLevel": 2,
+      "name": {
+        "vi": "Tật Hận Chi Tâm",
+        "en": "Jealous Heart",
+        "zh": "嫉恨之心"
+      },
+      "intro": {
+        "vi": "Chỉ có các ngươi mới là xấu xí nhất!",
+        "en": "Ugh, your ugliness sickens me!",
+        "zh": "只有你们才是最丑陋的！"
+      },
+      "description": {
+        "vi": "Bát Nhã khi tấn công đơn vị kẻ địch có 40% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất phong ấn hiệu ứng Ngự Hồn và kỹ năng Nội Tại của Thức Thần mục tiêu, duy trì 1 lượt.",
+        "en": "When Hannya attacks an enemy, there is a 40% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of sealing the target's soul effects and passive skills for 1 turns.",
+        "zh": "般若攻击敌方单位时有40%（+[*|a_debuff-acc_per|s_buff概率_per]）的概率封印目标式神的御魂效果和被动技能，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "此技能无法升级",
+            "en": "此技能无法升级",
+            "zh": "此技能无法升级"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2712",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": 0
+        },
+        {
+          "level": 1,
+          "awakeFilter": 1
+        },
+        {
+          "level": 1,
+          "awakeFilter": 2
+        },
+        {
+          "level": 2,
+          "awakeFilter": 2
+        }
+      ]
+    },
+    {
+      "id": 2713,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quỷ Kích",
+        "en": "Demonic Strike",
+        "zh": "鬼袭"
+      },
+      "intro": {
+        "vi": "Đừng kết thúc nhanh như thế chứ, không vui tẹo nào~",
+        "en": "I'm having so much fun! I never want this to end!",
+        "zh": "别这么快就结束嘛，不好玩~"
+      },
+      "description": {
+        "vi": "Mặt quỷ khổng lồ lao về phía toàn bộ phe địch, gây sát thương bằng 130% Tấn công, và khiến bản thân cuồng bạo, thay thế Đánh Thường thành 『[skill_2714_1]』, duy trì 2 lượt.",
+        "en": "Summons a giant mask to attack all enemies, dealing damage equal to 130% of his ATK. Also puts him in the Berserk state, changing his normal attack to [skill_2714_1] for 2 turns.",
+        "zh": "巨大的鬼面袭向敌方全体，造成攻击130%伤害，并使自身狂暴，替换普攻为『[skill_2714_1]』，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至120%",
+            "en": "伤害增加至120%",
+            "zh": "伤害增加至120%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至130%",
+            "en": "伤害增加至130%",
+            "zh": "伤害增加至130%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2713",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "bore",
+    "headKey": "h_bore",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2711",
+      "2712",
+      "2713"
+    ]
+  },
+  "unresolvedTokens": []
+}

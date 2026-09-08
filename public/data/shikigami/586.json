@@ -1,0 +1,302 @@
+{
+  "id": 586,
+  "name": {
+    "vi": "Vân Gian Bất Kiến Nhạc",
+    "en": "Lavaforged Fukengaku",
+    "zh": "云间不见岳"
+  },
+  "rarity": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1, 37, 10]",
+    "en": "[1, 37, 10]",
+    "zh": "[1, 37, 10]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2412,
+      "grade": "B"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 595,
+      "grade": "SS"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 109,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5861,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nguy Nga",
+        "en": "Majestic",
+        "zh": "巍峨"
+      },
+      "intro": {
+        "vi": "Thế sự dễ đổi dời, lòng đá vẫn chẳng lay.",
+        "en": "The world changes easily, but stone remains unyielding.",
+        "zh": "世事易变，匪石不转。"
+      },
+      "description": {
+        "vi": "Bùng nổ dung nham sôi sục tấn công mục tiêu kẻ địch, gây sát thương bằng 480% phòng thủ.",
+        "en": "Attacks an enemy target with scorching lava, dealing damage equal to 480% DEF.",
+        "zh": "迸发滚烫的熔岩攻击敌方目标，造成防御480%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至340%",
+            "en": "伤害增加至340%",
+            "zh": "伤害增加至340%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至380%",
+            "en": "伤害增加至380%",
+            "zh": "伤害增加至380%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至420%",
+            "en": "伤害增加至420%",
+            "zh": "伤害增加至420%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至480%",
+            "en": "伤害增加至480%",
+            "zh": "伤害增加至480%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "5861",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5862,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Viên Nhai",
+        "en": "Blazing Cliff",
+        "zh": "炎崖"
+      },
+      "intro": {
+        "vi": "Băng tan tuyết chảy, ngọn lửa vút không trung.",
+        "en": "Ice melts, snow thaws, and flames strike the skies.",
+        "zh": "融冰化雪，焰击长空。"
+      },
+      "description": {
+        "vi": "[tips_11] Tạo ra Ngự Thần Hỏa Giới trong [tips_15] 3 lượt và đính kèm 3 tầng [buff_5867_1] cho toàn bộ phe địch, tất cả mục tiêu sau khi hành động trong Ngự Thần Hỏa Giới bị đính kèm 1 tầng [buff_5867_1]; đồng minh khi thi triển yêu thuật trong Ngự Thần Hỏa Giới tăng 25% sát thương, duy trì 1 lượt; đồng minh [tips_5862] trong Ngự Thần Hỏa Giới tiêu hao Quỷ Hỏa giảm 1 điểm. Tiên Cơ: Thi triển 『Viên Nhai』.",
+        "en": "[tips_11]. Creates a Sentry Flame Domain that [tips_15] for 3 turns and applies 3 stacks of [buff_5867_1] to all enemies. After acting within the domain, targets gain 1 additional stack of [buff_5867_1]. Allies casting skills within the domain deal 25% more damage for 1 turn. Allied [tips_5862] also consumes 1 fewer orb while in the domain. Upper Hand: casts Blazing Cliff.",
+        "zh": "[tips_11]。创造[tips_15]3回合的御神火界并为敌方全体附加3层[buff_5867_1]，所有目标在御神火界中行动后被附加1层[buff_5867_1]；友方在御神火界中施放妖术时伤害提升25%，持续1回合；友方[tips_5862]在御神火界中鬼火消耗减少1点。先机：施放『炎崖』。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương phe ta tăng nâng lên 25%",
+            "en": "Increases the ally damage boost to 25%.",
+            "zh": "友方伤害提升增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đồng minh [tips_5862] trong Ngự Thần Hỏa Giới tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "Allied [tips_5862] consumes 1 fewer orb within the Sentry Flame Domain.",
+            "zh": "友方[tips_5862]在御神火界中鬼火消耗减少1点"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi thi triển đính kèm 3 tầng [buff_5867_1] cho toàn bộ phe địch",
+            "en": "When cast, inflicts 3 stacks of [buff_5867_1] on all enemies.",
+            "zh": "施放时为敌方全体附加3层[buff_5867_1]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Thi triển 『Viên Nhai』",
+            "en": "Upper Hand: Cast Blazing Cliff",
+            "zh": "先机：施放『炎崖』"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "5862",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 5863,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quy Sơn Chi Lộ",
+        "en": "Way Home",
+        "zh": "归山之路"
+      },
+      "intro": {
+        "vi": "Chuyến đi này dằng dặc, lại thấy núi xanh xưa.",
+        "en": "The road is long, but the green mountains remain in sight.",
+        "zh": "此行漫漫，又见青山。"
+      },
+      "description": {
+        "vi": "Đồng minh [tips_5862] khi thi triển yêu thuật trong Ngự Thần Hỏa Giới, Vân Gian Bất Kiến Nhạc nhận 1 tầng [buff_5868_1]. Khi trị liệu tăng Phòng thủ bằng 25% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc cùng Tấn công bằng 100% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc cho mục tiêu (không vượt quá 25% Tấn công ban đầu của đồng minh), duy trì 2 lượt.\n【Thi triển】 Nhận 2 tầng [buff_5868_1], trị liệu cho toàn bộ phe ta lượng HP bằng 240% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc.",
+        "en": "When an allied [tips_5862] casts a skill within the Sentry Flame Domain, Lavaforged Fukengaku gains 1 stack of [buff_5868_1]. When healing, increases the target's DEF by 25% of Lavaforged Fukengaku's starting DEF and ATK by 100% of his starting DEF (up to 25% of the ally's starting ATK), lasting 2 turns.\nCasts to gain 2 stacks of [buff_5868_1], healing all allies for 240% of Lavaforged Fukengaku's starting DEF.",
+        "zh": "友方[tips_5862]在御神火界中施放妖术时，云间不见岳获得1层[buff_5868_1]。治疗时提升目标云间不见岳初始防御25%的防御与初始防御100%的攻击（不超过友方初始攻击的25%），持续2回合。\n【施放】获得2层[buff_5868_1]，为友方全体治疗云间不见岳初始防御240%的生命。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng trị liệu nâng lên 220%",
+            "en": "Increases healing to 220%.",
+            "zh": "治疗量增至220%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi trị liệu tăng Phòng thủ cho mục tiêu bằng 25% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc, duy trì 2 lượt",
+            "en": "When healing, increases the target's DEF by 25% of Lavaforged Fukengaku's starting DEF, lasting for 2 turns.",
+            "zh": "治疗时提升目标云间不见岳初始防御25%的防御，持续2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng trị liệu nâng lên 240%",
+            "en": "Increases healing to 240%.",
+            "zh": "治疗量增至240%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi trị liệu tăng Tấn công cho mục tiêu bằng 160% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc (không vượt quá 25% Tấn công ban đầu của mục tiêu), duy trì 2 lượt",
+            "en": "When healing, increases the target's attack by 160% of Lavaforged Fukengaku's starting DEF (capped at 25% of the target's starting ATK), lasting for 2 turns.",
+            "zh": "治疗时提升目标云间不见岳初始防御160%的攻击（不超过目标初始攻击的25%），持续2回合"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "5863",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "sp_bujianyue",
+    "headKey": "h_sp_bujianyue",
+    "armature": [
+      "common_card_skin/2506_dc_sp_bjy_card_ani",
+      1,
+      1
+    ],
+    "artName": "txt_zhanshi_spbujianyue",
+    "skillIconKeys": [
+      "5861",
+      "5862",
+      "5863"
+    ]
+  },
+  "unresolvedTokens": []
+}

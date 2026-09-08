@@ -1,0 +1,298 @@
+{
+  "id": 349,
+  "name": {
+    "vi": "Phong Ly",
+    "en": "Furi",
+    "zh": "风狸"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[1]",
+    "en": "[1]",
+    "zh": "[1]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2706,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 348,
+      "grade": "D"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 99,
+      "grade": "C"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "3%",
+      "grade": "C"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 3491,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Long Quyển · Thủ Lý Kiếm",
+        "en": "Tornado: Shuriken",
+        "zh": "龙卷·手里剑"
+      },
+      "intro": {
+        "vi": "Xét về tốc độ chạy trốn, ai bì được với ta!?",
+        "en": "No one runs away faster than me!",
+        "zh": "论逃跑速度，谁比得上我！？"
+      },
+      "description": {
+        "vi": "Sử dụng đoản nhẫn, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công, bản thân nhận [buff_3491_1], duy trì 1 lượt",
+        "en": "Uses his short sword to attack 1 enemy, dealing damage equal to 125% of his ATK. He gains [buff_3491_1] for 1 turn.",
+        "zh": "使用短刃，对敌方目标造成攻击125%伤害，自身获得[buff_3491_1]，持续1回合"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3491",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3492,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tàn Ảnh · Thế Thân Thuật",
+        "en": "Afterimage: Decoy",
+        "zh": "残影·替身术"
+      },
+      "intro": {
+        "vi": "Đánh không tới ta đâu, hơ hơ!",
+        "en": "Hehe! You'll never hit me!",
+        "zh": "打不着我，嘿嘿！"
+      },
+      "description": {
+        "vi": "Khi bị Đánh Thường, nếu bản thân không ở trạng thái [tips_17], có 40% xác suất [tips_24], nếu [tips_24] thành công, tăng 40% kháng Bạo kích cho bản thân, duy trì 2 lượt.\nKhi tấn công mục tiêu, Phong Ly [tips_3492].",
+        "en": "When taking a normal attack, if he's not [tips_17], he has a 40% chance to [tips_24] the attack. If he manages to [tips_24], his Crit RES increases by 40% for 2 turns.\nWhen Furi attacks, he enters [tips_3492] state.",
+        "zh": "被普攻时，若自身未处于[tips_17]，有40%概率[tips_24]，若[tips_24]成功，则提升自身40%暴击抵抗，持续2回合。\n攻击目标时，风狸[tips_3492]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất né tránh tăng lên 20%",
+            "en": "Increases his Dodge chance to 20%.",
+            "zh": "闪避概率增至20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất né tránh tăng lên 30%",
+            "en": "Increases his Dodge chance to 30%.",
+            "zh": "闪避概率增至30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất né tránh tăng lên 40%",
+            "en": "Increases his Dodge chance to 40%.",
+            "zh": "闪避概率增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tăng kháng Bạo kích tăng lên 100%",
+            "en": "Increases Crit RES to 100%.",
+            "zh": "提升暴击抵抗增至100%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "3492",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 3493,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong Xa · Lôi Hỏa Đạn",
+        "en": "Windmill: Shrapnel Tomb",
+        "zh": "风车·雷火弹"
+      },
+      "intro": {
+        "vi": "Đùng——!",
+        "en": "Boom!",
+        "zh": "砰——！"
+      },
+      "description": {
+        "vi": "Sử dụng linh hoạt thủ lý kiếm khổng lồ, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công, kích nổ các [buff_3495_1] còn lại, gây [tips_5] bằng 175% Tấn công, và đính kèm [buff_3495_1] cho mục tiêu.",
+        "en": "Wields his giant shuriken with agility to attack 1 enemy, dealing damage equal to 125% of his ATK. Also detonates all other [buff_3495_1]s, each dealing [tips_5] equal to 175% of his ATK, and inflicts [buff_3495_1] on the enemy.",
+        "zh": "灵活使用巨大的手里剑，对敌方目标造成攻击125%伤害，引爆其余[buff_3495_1]，造成攻击175%[tips_5]，并对目标附加[buff_3495_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát Thương Gián Tiếp tăng lên 350%",
+            "en": "Increases indirect damage to 350%.",
+            "zh": "间接伤害增加至350%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "3493",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "fengli",
+    "headKey": "h_fengli",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "3491",
+      "3492",
+      "3493"
+    ]
+  },
+  "unresolvedTokens": []
+}

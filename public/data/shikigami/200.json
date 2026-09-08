@@ -1,0 +1,298 @@
+{
+  "id": 200,
+  "name": {
+    "vi": "Đào Hoa Yêu",
+    "en": "Momo",
+    "zh": "桃花妖"
+  },
+  "rarity": "SR",
+  "level": 40,
+  "maxLevel": 40,
+  "role": {
+    "vi": "[37, 10, 13]",
+    "en": "[37, 10, 13]",
+    "zh": "[37, 10, 13]"
+  },
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2144,
+      "grade": "C"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10252,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 441,
+      "grade": "A"
+    },
+    {
+      "key": "spd",
+      "label": "TỐC ĐỘ",
+      "value": 90,
+      "grade": "D"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "5%",
+      "grade": "B"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 2001,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hoa Vũ",
+        "en": "Flower Dance",
+        "zh": "花舞"
+      },
+      "intro": {
+        "vi": "Cánh hoa đào ơi, hãy tung bay ngợp trời đi!",
+        "en": "May peach blossoms fill the sky!",
+        "zh": "桃花瓣啊，漫天飞舞吧！"
+      },
+      "description": {
+        "vi": "Những cánh hoa nhảy múa kết thành ấn hoa tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công",
+        "en": "A flurry of petals forms a flower that attacks 1 enemy, dealing damage equal to 125% of her ATK.",
+        "zh": "舞动的花瓣结成花之印攻击敌方目标，造成攻击125%伤害"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconKey": "2001",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2002,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hoa Chi Hinh Tức",
+        "en": "Healing Fragrance",
+        "zh": "花之馨息"
+      },
+      "intro": {
+        "vi": "Hương thơm ngạt ngào, hãy ban cho ta sức mạnh trị liệu đi.",
+        "en": "Delicate nectar, grant me your healing power!",
+        "zh": "芬芳的香气，赐予我治愈之力吧。"
+      },
+      "description": {
+        "vi": "Khi trị liệu, trị liệu thêm cho các đồng minh khác lượng HP bằng 30% lượng trị liệu lần này, mục tiêu nhận trị liệu từ Đào Hoa Yêu nhận [buff_2002_1], duy trì 1 lượt.\n【Thi triển】 Trị liệu cho mục tiêu đồng minh lượng HP bằng 25% giới hạn HP.",
+        "en": "While healing, additionally heals the HP of other allies by 30% of the healing amount. Allies healed by Momo gain [buff_2002_1] for 1 turn.\nActive skill: Heals the HP of 1 ally by 25% of her max HP.",
+        "zh": "治疗时，额外治疗其他友方等同于本次治疗量30%的生命，受到桃花妖治疗的目标获得[buff_2002_1]，持续1回合。\n【施放】为友方目标治疗生命上限25%的生命。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu tăng lên 21%",
+            "en": "Increases healing to 21%.",
+            "zh": "治疗增至21%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "治疗增至22%",
+            "en": "治疗增至22%",
+            "zh": "治疗增至22%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "治疗增至23%",
+            "en": "治疗增至23%",
+            "zh": "治疗增至23%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "治疗增至25%",
+            "en": "治疗增至25%",
+            "zh": "治疗增至25%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconKey": "2002",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    },
+    {
+      "id": 2003,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đào Hoa Chước Chước",
+        "en": "Revival Blossom",
+        "zh": "桃华灼灼"
+      },
+      "intro": {
+        "vi": "Hừ, không được giả chết với ta, mau đứng dậy chiến đấu tiếp nào~",
+        "en": "Hmph, don't play dead. Get back on your feet!",
+        "zh": "哼，不准给我装死，快点起来战斗～"
+      },
+      "description": {
+        "vi": "Hồi sinh mục tiêu đồng minh đã tử trận, đồng thời trị liệu cho kẻ đó lượng HP bằng 25% giới hạn HP.",
+        "en": "Revives a KO'd ally and restores their HP by 25% of her max HP.",
+        "zh": "复活阵亡的友方目标，并为其治疗生命上限25%的生命。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "治疗增至21%",
+            "en": "治疗增至21%",
+            "zh": "治疗增至21%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "治疗增至22%",
+            "en": "治疗增至22%",
+            "zh": "治疗增至22%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "治疗增至23%",
+            "en": "治疗增至23%",
+            "zh": "治疗增至23%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "治疗增至25%",
+            "en": "治疗增至25%",
+            "zh": "治疗增至25%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconKey": "2003",
+      "variants": [
+        {
+          "level": 1,
+          "awakeFilter": -1
+        },
+        {
+          "level": 2,
+          "awakeFilter": -1
+        },
+        {
+          "level": 3,
+          "awakeFilter": -1
+        },
+        {
+          "level": 4,
+          "awakeFilter": -1
+        },
+        {
+          "level": 5,
+          "awakeFilter": -1
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "portraitKey": "taohuayao",
+    "headKey": "h_taohuayao",
+    "armature": "",
+    "artName": "",
+    "skillIconKeys": [
+      "2001",
+      "2002",
+      "2003"
+    ]
+  },
+  "unresolvedTokens": []
+}
