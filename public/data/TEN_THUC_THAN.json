@@ -27,7 +27,7 @@
       {
         "id": 11,
         "name": {
-          "vi": "Thần Lạc",
+          "vi": "Kagura",
           "en": "Kagura",
           "zh": "神乐"
         },
@@ -41,7 +41,7 @@
       {
         "id": 12,
         "name": {
-          "vi": "Bát Bách Tỉ Khâu Ni",
+          "vi": "Yao Bikuni",
           "en": "Yao Bikuni",
           "zh": "八百比丘尼"
         },
@@ -55,7 +55,7 @@
       {
         "id": 13,
         "name": {
-          "vi": "Nguồn Bác Nhã",
+          "vi": "Hiromasa",
           "en": "Hiromasa",
           "zh": "源博雅"
         },
@@ -71,7 +71,7 @@
       {
         "id": 593,
         "name": {
-          "vi": "Yoto Hime · Phi Dạ Lạp Nhận",
+          "vi": "Yêu Đao Cơ · Phi Dạ Lạp Nhận",
           "en": "Yoto Hime, Scarlet Nightedge",
           "zh": "妖刀姬·绯夜猎刃"
         },
@@ -115,7 +115,7 @@
       {
         "id": 326,
         "name": {
-          "vi": "Đạo Hà Thần Ngự Xam Tân",
+          "vi": "Đạo Hà Thần Ngự Soạn Tân",
           "en": "Divine Miketsu",
           "zh": "稻荷神御馔津"
         },
@@ -157,7 +157,7 @@
       {
         "id": 331,
         "name": {
-          "vi": "Quỷ Thiết Ngự Uyên",
+          "vi": "Ngự Oán Bát Nhã",
           "en": "Vengeful Hannya",
           "zh": "御怨般若"
         },
@@ -171,7 +171,7 @@
       {
         "id": 334,
         "name": {
-          "vi": "Thao Lang Arakawa no Aruji",
+          "vi": "Kiêu Lãnh Hoang Xuyên Chi Chủ",
           "en": "Waverider Lord Arakawa",
           "zh": "骁浪荒川之主"
         },
@@ -339,7 +339,7 @@
       {
         "id": 366,
         "name": {
-          "vi": "Menreiki Không Tướng",
+          "vi": "Không Tương Diện Linh Khí",
           "en": "Void Menreiki",
           "zh": "空相面灵气"
         },
@@ -381,7 +381,7 @@
       {
         "id": 377,
         "name": {
-          "vi": "Mộng Tầm Sơn Thỏ",
+          "vi": "Mộng Tầm Sơn Thố",
           "en": "Ninja Yamausagi",
           "zh": "梦寻山兔"
         },
@@ -409,7 +409,7 @@
       {
         "id": 385,
         "name": {
-          "vi": "Oyamatsumi Enma",
+          "vi": "Dạ Ma Thiên Diêm Ma",
           "en": "Yamalord Enma",
           "zh": "大夜摩天阎魔"
         },
@@ -549,7 +549,7 @@
       {
         "id": 562,
         "name": {
-          "vi": "Kình Tịch Senhime",
+          "vi": "Kính Tịch Thiên Cơ",
           "en": "Senhime Resurgent",
           "zh": "鲸汐千姬"
         },
@@ -577,7 +577,7 @@
       {
         "id": 566,
         "name": {
-          "vi": "Thần Huy Ebisu",
+          "vi": "Thần Huy Huệ Bỉ Thọ",
           "en": "Returner Ebisu",
           "zh": "晨晖惠比寿"
         },
@@ -647,7 +647,7 @@
       {
         "id": 579,
         "name": {
-          "vi": "Dao Âm Kagura",
+          "vi": "Dao Âm Khẩn Na La",
           "en": "Panharmonic Kinnara",
           "zh": "瑶音紧那罗"
         },
@@ -675,7 +675,7 @@
       {
         "id": 584,
         "name": {
-          "vi": "Thời Diệu Thác Dạ Xoa Cơ",
+          "vi": "Thời Diệu Lang Dạ Xoa Cơ",
           "en": "Glorious Takiyashahime",
           "zh": "时曜泷夜叉姬"
         },
@@ -845,7 +845,7 @@
       {
         "id": 258,
         "name": {
-          "vi": "Ryōmen Botchan",
+          "vi": "Lưỡng Diện Phật",
           "en": "Ryomen",
           "zh": "两面佛"
         },
@@ -901,7 +901,7 @@
       {
         "id": 269,
         "name": {
-          "vi": "Yoto Hime",
+          "vi": "Yêu Đao Cơ",
           "en": "Yoto Hime",
           "zh": "妖刀姬"
         },
@@ -985,7 +985,7 @@
       {
         "id": 292,
         "name": {
-          "vi": "Yoto",
+          "vi": "Tuyết Đồng Tử",
           "en": "Yuki",
           "zh": "雪童子"
         },
@@ -999,7 +999,7 @@
       {
         "id": 296,
         "name": {
-          "vi": "Yamausagi",
+          "vi": "Sơn Phong",
           "en": "Yamakaze",
           "zh": "山风"
         },
@@ -1013,7 +1013,7 @@
       {
         "id": 300,
         "name": {
-          "vi": "Tamamo no Mae",
+          "vi": "Ngọc Tảo Tiền",
           "en": "Tamamonomae",
           "zh": "玉藻前"
         },
@@ -1027,7 +1027,7 @@
       {
         "id": 304,
         "name": {
-          "vi": "Ngự Đao Tân",
+          "vi": "Ngự Soạn Tân",
           "en": "Miketsu",
           "zh": "御馔津"
         },
@@ -1153,7 +1153,7 @@
       {
         "id": 325,
         "name": {
-          "vi": "Yamata no Orochi",
+          "vi": "Bát Kỳ Đại Xà",
           "en": "Orochi",
           "zh": "八岐大蛇"
         },
@@ -1195,7 +1195,7 @@
       {
         "id": 338,
         "name": {
-          "vi": "Takiyashahime",
+          "vi": "Lang Dạ Xoa Cơ",
           "en": "Takiyashahime",
           "zh": "泷夜叉姬"
         },
@@ -1279,7 +1279,7 @@
       {
         "id": 356,
         "name": {
-          "vi": "Senhime",
+          "vi": "Thiên Cơ",
           "en": "Senhime",
           "zh": "千姬"
         },
@@ -1335,7 +1335,7 @@
       {
         "id": 370,
         "name": {
-          "vi": "Phạn Tự",
+          "vi": "Phạn Tứ",
           "en": "Mishige",
           "zh": "饭笥"
         },
@@ -1349,7 +1349,7 @@
       {
         "id": 373,
         "name": {
-          "vi": "Yatagarasu",
+          "vi": "Dạ Đao Thần",
           "en": "Yato no Kami",
           "zh": "夜刀神"
         },
@@ -1363,7 +1363,7 @@
       {
         "id": 376,
         "name": {
-          "vi": "Tsuzura Hime",
+          "vi": "Linh Ngạn Cơ",
           "en": "Suzuhikohime",
           "zh": "铃彦姬"
         },
@@ -1391,7 +1391,7 @@
       {
         "id": 389,
         "name": {
-          "vi": "Susanoo",
+          "vi": "Tu Tá Chi Nam",
           "en": "Susanoo",
           "zh": "须佐之男"
         },
@@ -1419,7 +1419,7 @@
       {
         "id": 392,
         "name": {
-          "vi": "Mùi (Ki)",
+          "vi": "Quý",
           "en": "Shiki",
           "zh": "季"
         },
@@ -1475,7 +1475,7 @@
       {
         "id": 556,
         "name": {
-          "vi": "Thái Dương Thần",
+          "vi": "Thiên Chiếu",
           "en": "Amaterasu.",
           "zh": "天照"
         },
@@ -1615,7 +1615,7 @@
       {
         "id": 581,
         "name": {
-          "vi": "Karuta",
+          "vi": "Ca Lưu Đa",
           "en": "Karuta",
           "zh": "歌留多"
         },
@@ -1643,7 +1643,7 @@
       {
         "id": 583,
         "name": {
-          "vi": "Ty Diệc Hô",
+          "vi": "Himiko",
           "en": "Himiko",
           "zh": "卑弥呼"
         },
@@ -1671,7 +1671,7 @@
       {
         "id": 591,
         "name": {
-          "vi": "Yuki Gozen",
+          "vi": "Tuyết Ngự Tiền",
           "en": "Yuki Gozen",
           "zh": "雪御前"
         },
@@ -1685,7 +1685,7 @@
       {
         "id": 592,
         "name": {
-          "vi": "Taira Masakado",
+          "vi": "Bình Tướng Môn",
           "en": "Taira no Masakado",
           "zh": "平将门"
         },
@@ -1813,7 +1813,7 @@
       {
         "id": 210,
         "name": {
-          "vi": "Quỷ Sứ Bạch",
+          "vi": "Bạch Quỷ Sứ",
           "en": "Shiro Mujou",
           "zh": "鬼使白"
         },
@@ -1827,7 +1827,7 @@
       {
         "id": 211,
         "name": {
-          "vi": "Quỷ Sử Hắc",
+          "vi": "Hắc Quỷ Sứ",
           "en": "Kuro Mujou",
           "zh": "鬼使黑"
         },
@@ -1841,7 +1841,7 @@
       {
         "id": 215,
         "name": {
-          "vi": "Mạn Bà",
+          "vi": "Mạnh Bà",
           "en": "Mouba",
           "zh": "孟婆"
         },
@@ -1953,7 +1953,7 @@
       {
         "id": 252,
         "name": {
-          "vi": "Phượng Hoàng Hỏa",
+          "vi": "Hỏa Phương Hoàng",
           "en": "Hououka",
           "zh": "凤凰火"
         },
@@ -1967,7 +1967,7 @@
       {
         "id": 253,
         "name": {
-          "vi": "Kyuuketsuki",
+          "vi": "Hấp Huyết Cơ",
           "en": "Vampira",
           "zh": "吸血姬"
         },
@@ -1981,7 +1981,7 @@
       {
         "id": 254,
         "name": {
-          "vi": "Kyuubi no Kitsune",
+          "vi": "Yêu Hồ",
           "en": "Youko",
           "zh": "妖狐"
         },
@@ -2009,7 +2009,7 @@
       {
         "id": 257,
         "name": {
-          "vi": "Thực Mộng Mạc",
+          "vi": "Thực Mộng Mô",
           "en": "Yumekui",
           "zh": "食梦貘"
         },
@@ -2037,7 +2037,7 @@
       {
         "id": 261,
         "name": {
-          "vi": "Liêm Dữu",
+          "vi": "Liêm Dứu",
           "en": "Kamaitachi",
           "zh": "镰鼬"
         },
@@ -2051,7 +2051,7 @@
       {
         "id": 262,
         "name": {
-          "vi": "Cô Hạc",
+          "vi": "Cô Hoạch Điểu",
           "en": "Ubume",
           "zh": "姑获鸟"
         },
@@ -2093,7 +2093,7 @@
       {
         "id": 267,
         "name": {
-          "vi": "Sakura no Sei",
+          "vi": "Anh Hoa Yêu",
           "en": "Sakura",
           "zh": "樱花妖"
         },
@@ -2107,7 +2107,7 @@
       {
         "id": 268,
         "name": {
-          "vi": "Huệ Tỷ Thọ",
+          "vi": "Huệ Bỉ Thọ",
           "en": "Ebisu",
           "zh": "惠比寿"
         },
@@ -2177,7 +2177,7 @@
       {
         "id": 276,
         "name": {
-          "vi": "Yasha",
+          "vi": "Dạ Xoa",
           "en": "Yasha",
           "zh": "夜叉"
         },
@@ -2247,7 +2247,7 @@
       {
         "id": 285,
         "name": {
-          "vi": "Trẫm",
+          "vi": "Trậm",
           "en": "Chin",
           "zh": "鸩"
         },
@@ -2429,7 +2429,7 @@
       {
         "id": 318,
         "name": {
-          "vi": "Ư Cúc Trùng",
+          "vi": "Vu Cúc Trùng",
           "en": "Okikumushi",
           "zh": "於菊虫"
         },
@@ -2597,7 +2597,7 @@
       {
         "id": 368,
         "name": {
-          "vi": "Kẹo Đường",
+          "vi": "Di Tế Công",
           "en": "Amezaiku",
           "zh": "饴细工"
         },
@@ -2709,7 +2709,7 @@
       {
         "id": 571,
         "name": {
-          "vi": "Kansai Hime",
+          "vi": "Thoạn Tân Cơ",
           "en": "Tagitsuhime",
           "zh": "湍津姬"
         },
@@ -2739,7 +2739,7 @@
       {
         "id": 205,
         "name": {
-          "vi": "Tsubaki Douji",
+          "vi": "Tọa Phu Đồng Tử",
           "en": "Zashiki",
           "zh": "座敷童子"
         },
@@ -2781,7 +2781,7 @@
       {
         "id": 208,
         "name": {
-          "vi": "Tanuki",
+          "vi": "Ly Miêu",
           "en": "Tanuki",
           "zh": "狸猫"
         },
@@ -2893,7 +2893,7 @@
       {
         "id": 222,
         "name": {
-          "vi": "Samurai no Rei",
+          "vi": "Võ Sĩ Chi Linh",
           "en": "Warrior Soul",
           "zh": "武士之灵"
         },
@@ -2963,7 +2963,7 @@
       {
         "id": 228,
         "name": {
-          "vi": "Sử Tịch Nữ",
+          "vi": "Sửu Nữ",
           "en": "Ushi no Toki",
           "zh": "丑时之女"
         },
@@ -2977,7 +2977,7 @@
       {
         "id": 230,
         "name": {
-          "vi": "Độc Nhãn Tiêu",
+          "vi": "Độc Nhãn Tiểu Tăng",
           "en": "Hitotsume",
           "zh": "独眼小僧"
         },
@@ -2991,7 +2991,7 @@
       {
         "id": 232,
         "name": {
-          "vi": "Jikkyū",
+          "vi": "Thiết Thử",
           "en": "Tesso",
           "zh": "铁鼠"
         },
@@ -3033,7 +3033,7 @@
       {
         "id": 237,
         "name": {
-          "vi": "Yamausagi",
+          "vi": "Sơn Thố",
           "en": "Yamausagi",
           "zh": "山兔"
         },
@@ -3075,7 +3075,7 @@
       {
         "id": 243,
         "name": {
-          "vi": "Zashiki Warashi",
+          "vi": "Sơn Đồng",
           "en": "Yamawaro",
           "zh": "山童"
         },
@@ -3131,7 +3131,7 @@
       {
         "id": 274,
         "name": {
-          "vi": "Cổ Lồng Hỏa",
+          "vi": "Cổ Lung Hỏa",
           "en": "Koroka",
           "zh": "古笼火"
         },
@@ -3159,7 +3159,7 @@
       {
         "id": 301,
         "name": {
-          "vi": "Trỗi Châu",
+          "vi": "Sổ Châu",
           "en": "Juzu",
           "zh": "数珠"
         },
@@ -3201,7 +3201,7 @@
       {
         "id": 310,
         "name": {
-          "vi": "Mật Đào & Karashi",
+          "vi": "Mật Đào & Giới Tử",
           "en": "Maki&Karashi",
           "zh": "蜜桃&芥子"
         },
@@ -3215,7 +3215,7 @@
       {
         "id": 323,
         "name": {
-          "vi": "Ameonna",
+          "vi": "Thiên Tĩnh Hạ",
           "en": "Tenjo-kudari",
           "zh": "天井下"
         },
@@ -3371,7 +3371,7 @@
       {
         "id": 406,
         "name": {
-          "vi": "Tenjōkare",
+          "vi": "Thiên Tà Quỷ Hoàng",
           "en": "Yellow Imp",
           "zh": "天邪鬼黄"
         },
@@ -3497,7 +3497,7 @@
       {
         "id": 415,
         "name": {
-          "vi": "Tửu Thôn Quác",
+          "vi": "Tửu Thôn Oa",
           "en": "Shuten Frog",
           "zh": "酒吞呱"
         },
@@ -3539,7 +3539,7 @@
       {
         "id": 418,
         "name": {
-          "vi": "Ryōmen Botchan Oa",
+          "vi": "Lưỡng Diện Oa",
           "en": "Ryomen Frog",
           "zh": "两面佛呱"
         },
@@ -3553,7 +3553,7 @@
       {
         "id": 419,
         "name": {
-          "vi": "Tiểu Lộc Nam Quác",
+          "vi": "Tiểu Lộc Oa",
           "en": "Shishio Frog",
           "zh": "小鹿男呱"
         },
@@ -3581,7 +3581,7 @@
       {
         "id": 421,
         "name": {
-          "vi": "Thanh Hành Đăng Oa",
+          "vi": "Thanh Hành Oa",
           "en": "Aoandon Frog",
           "zh": "青行灯呱"
         },
@@ -3595,7 +3595,7 @@
       {
         "id": 422,
         "name": {
-          "vi": "Yoto Hime Quác",
+          "vi": "Yêu Đao Oa",
           "en": "Yoto Hime Frog",
           "zh": "妖刀姬呱"
         },
@@ -3651,7 +3651,7 @@
       {
         "id": 426,
         "name": {
-          "vi": "Hoang Quác",
+          "vi": "Hoang Oa",
           "en": "Susabi Frog",
           "zh": "荒呱"
         },
@@ -3679,7 +3679,7 @@
       {
         "id": 428,
         "name": {
-          "vi": "Setouto Quác",
+          "vi": "Tuyết Đồng Tử Oa",
           "en": "Yuki Frog",
           "zh": "雪童子呱"
         },
@@ -3693,7 +3693,7 @@
       {
         "id": 429,
         "name": {
-          "vi": "Tamamo no Mae Quác",
+          "vi": "Ngọc Tảo Tiền Oa",
           "en": "Tamamonomae Frog",
           "zh": "玉藻前呱"
         },
@@ -3707,7 +3707,7 @@
       {
         "id": 430,
         "name": {
-          "vi": "Ngự Đao Tân Oa",
+          "vi": "Ngự Soạn Tân Oa",
           "en": "Miketsu Frog",
           "zh": "御馔津呱"
         },
