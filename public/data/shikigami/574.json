@@ -6,13 +6,11 @@
     "zh": "心友犬神"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 28, 8]",
-    "en": "[1, 28, 8]",
-    "zh": "[1, 28, 8]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 110,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5741,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Tâm Trảm",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5741",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5741.png"
     },
     {
       "id": 5742,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Tàn Tâm · Tước Thủ",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5742",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5742.png"
     },
     {
       "id": 5743,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Lãng Khách Quy Đao",
@@ -258,47 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "5743",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5743.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_quanshen",
-    "headKey": "h_sp_quanshen",
-    "armature": [
-      "sp_quanshen_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_xinyouquanshen",
-    "skillIconKeys": [
-      "5741",
-      "5742",
-      "5743"
-    ]
-  },
-  "unresolvedTokens": [
-    "tips_6"
-  ]
+    "portraitFile": "sp_quanshen.png",
+    "headIconFile": ""
+  }
 }

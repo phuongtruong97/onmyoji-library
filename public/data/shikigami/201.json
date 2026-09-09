@@ -6,13 +6,11 @@
     "zh": "雪女"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17, 41]",
-    "en": "[17, 41]",
-    "zh": "[17, 41]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 99,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2011,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "雪球",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2011",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2011.png"
     },
     {
       "id": 2013,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "暴风雪",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2013",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2013.png"
     }
   ],
   "assets": {
-    "portraitKey": "xuenv",
-    "headKey": "h_xuenv",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2011",
-      "2013"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_xuenv.png"
+  }
 }

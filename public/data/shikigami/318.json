@@ -6,13 +6,11 @@
     "zh": "於菊虫"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "D"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 99,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3181,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Thổ Ty",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3181",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3181.png"
     },
     {
       "id": 3182,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Phá Kén",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3182",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3182.png"
     },
     {
       "id": 3183,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Trùng Chi Độc",
@@ -290,61 +247,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3183",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3183.png"
     }
   ],
   "assets": {
-    "portraitKey": "yujuchong",
-    "headKey": "h_yujuchong",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3181",
-      "3182",
-      "3183"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_yujuchong.png"
+  }
 }

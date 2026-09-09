@@ -6,13 +6,11 @@
     "zh": "阿香"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 17]",
-    "en": "[1, 17]",
-    "zh": "[1, 17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 104,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3091,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Xà Tốt • Độc Nha",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3091",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3091.png"
     },
     {
       "id": 3092,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Xà Chi Ảnh",
@@ -148,20 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "3092",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3092.png"
     },
     {
       "id": 3093,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Xà Tốt • Cuồng Bạo",
@@ -213,41 +182,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3093",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3093.png"
     }
   ],
   "assets": {
-    "portraitKey": "axiang",
-    "headKey": "h_axiang",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3091",
-      "3092",
-      "3093"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_axiang.png"
+  }
 }

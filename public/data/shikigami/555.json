@@ -6,13 +6,11 @@
     "zh": "渺念萤草"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 10]",
-    "en": "[1, 10]",
-    "zh": "[1, 10]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 114,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5551,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Lưu Quang Chi Tiễn",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5551",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5551.png"
     },
     {
       "id": 5552,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Miểu Diểu Nhất Lữ",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5552",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5552.png"
     },
     {
       "id": 5553,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Huỳnh Quang Lạc Thế",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5553",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5553.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_yingcao",
-    "headKey": "h_sp_yingcao",
-    "armature": [
-      "sp_yingcao_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_spyingcao",
-    "skillIconKeys": [
-      "5551",
-      "5552",
-      "5553"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_sp_yingcao.png"
+  }
 }

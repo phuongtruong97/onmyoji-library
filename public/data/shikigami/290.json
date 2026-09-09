@@ -6,13 +6,11 @@
     "zh": "小松丸"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17]",
-    "en": "[17]",
-    "zh": "[17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 105,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2901,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tùng Quả Nhất Kích",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2901",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2901.png"
     },
     {
       "id": 2902,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Đảm Khiếp",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2902",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "2902.png"
     },
     {
       "id": 2903,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Nộ Khí",
@@ -310,41 +247,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2903",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2903.png"
     }
   ],
   "assets": {
-    "portraitKey": "xiaosongwan",
-    "headKey": "h_xiaosongwan",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2901",
-      "2902",
-      "2903"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "xiaosongwan.png",
+    "headIconFile": ""
+  }
 }

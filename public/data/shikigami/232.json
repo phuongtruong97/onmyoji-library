@@ -6,13 +6,11 @@
     "zh": "铁鼠"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[44]",
-    "en": "[44]",
-    "zh": "[44]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 105,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2321,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tiền Kêu Leng Keng",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2321",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2321.png"
     },
     {
       "id": 2323,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Tiền Chính Là Công Lý",
@@ -181,42 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2323",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2323.png"
     }
   ],
   "assets": {
-    "portraitKey": "tieshu",
-    "headKey": "h_tieshu",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2321",
-      "2323"
-    ]
-  },
-  "unresolvedTokens": [
-    "buff_2323_1"
-  ]
+    "portraitFile": "",
+    "headIconFile": "h_tieshu.png"
+  }
 }

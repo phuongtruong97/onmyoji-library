@@ -6,13 +6,11 @@
     "zh": "神无月"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[37, 6]",
-    "en": "[37, 6]",
-    "zh": "[37, 6]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 100,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5961,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Bắt Mộng",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5961",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5961.png"
     },
     {
       "id": 5963,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Ban Cho Giấc Mơ Đẹp",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5963",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5963.png"
     }
   ],
   "assets": {
-    "portraitKey": "shenwuyue",
-    "headKey": "h_shenwuyue",
-    "armature": "",
-    "artName": "txt_zhanshi_shenwuyue",
-    "skillIconKeys": [
-      "5961",
-      "5963"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

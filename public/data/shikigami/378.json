@@ -6,13 +6,11 @@
     "zh": "迦楼罗"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 102,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3781,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Hóa Sinh Kích",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3781",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3781.png"
     },
     {
       "id": 3782,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Y Diệu Cánh",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3782",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3782.png"
     },
     {
       "id": 3783,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Long Tức Sí Vũ",
@@ -342,83 +279,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3783",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "3783.png"
     }
   ],
   "assets": {
-    "portraitKey": "jialouluo",
-    "headKey": "h_jialouluo",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3781",
-      "3782",
-      "3783"
-    ]
-  },
-  "unresolvedTokens": [
-    "tips_6"
-  ]
+    "portraitFile": "jialouluo.png",
+    "headIconFile": ""
+  }
 }

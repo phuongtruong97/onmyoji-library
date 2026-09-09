@@ -6,13 +6,11 @@
     "zh": "待宵姑获鸟"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 29]",
-    "en": "[1, 29]",
-    "zh": "[1, 29]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 115,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3541,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Mặc Phong",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3541",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3541.png"
     },
     {
       "id": 3542,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Mặc Ảnh",
@@ -148,16 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "3542",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3542.png"
     },
     {
       "id": 3543,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Mặc Ảnh Kiếm Quang",
@@ -209,45 +182,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3543",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3543.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_guhuoniao",
-    "headKey": "j_spguhuoniao",
-    "armature": [
-      "sp_guhuoniao_card",
-      0,
-      1
-    ],
-    "artName": "txt_zhanshi_daixiaoguhuoniao",
-    "skillIconKeys": [
-      "3541",
-      "3542",
-      "3543"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

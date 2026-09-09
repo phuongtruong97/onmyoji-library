@@ -6,13 +6,11 @@
     "zh": "涂壁"
   },
   "rarity": "N",
+  "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[38]",
-    "en": "[38]",
-    "zh": "[38]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 100,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 4091,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Địa Thần",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "4091",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "4091.png"
     },
     {
       "id": 4092,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Kiên Bích",
@@ -148,24 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 2,
-      "iconKey": "4092",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "4092.png"
     }
   ],
   "assets": {
-    "portraitKey": "tubi",
-    "headKey": "h_tubi",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "4091",
-      "4092"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_tubi.png"
+  }
 }

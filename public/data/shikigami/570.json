@@ -6,13 +6,11 @@
     "zh": "祸津神"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 27, 8]",
-    "en": "[1, 27, 8]",
-    "zh": "[1, 27, 8]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 106,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5701,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Đê Ngữ",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5701",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5701.png"
     },
     {
       "id": 5702,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Đảo Ngôn",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5702",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5702.png"
     },
     {
       "id": 5703,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Họa Chú",
@@ -258,43 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "5703",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5703.png"
     }
   ],
   "assets": {
-    "portraitKey": "huojinshen",
-    "headKey": "h_huojinshen",
-    "armature": "",
-    "artName": "txt_zhanshi_huojinshen",
-    "skillIconKeys": [
-      "5701",
-      "5702",
-      "5703"
-    ]
-  },
-  "unresolvedTokens": [
-    "tips_6"
-  ]
+    "portraitFile": "huojinshen.png",
+    "headIconFile": ""
+  }
 }

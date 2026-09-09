@@ -6,13 +6,11 @@
     "zh": "缚骨清姬"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 41, 43]",
-    "en": "[1, 41, 43]",
-    "zh": "[1, 41, 43]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 118,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3521,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Triền Tâm",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3521",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3521.png"
     },
     {
       "id": 3522,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Thực Cốt",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3522",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3522.png"
     },
     {
       "id": 3523,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Hàng Cổ Chi Đồng",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3523",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3523.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_qingji",
-    "headKey": "j_spqingji",
-    "armature": [
-      "spqingji_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_fuguqingji",
-    "skillIconKeys": [
-      "3521",
-      "3522",
-      "3523"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

@@ -6,13 +6,11 @@
     "zh": "鬼使白"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 106,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2101,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Hoạt Tử Nhân",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2101",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2101.png"
     },
     {
       "id": 2102,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Hồn Thú",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "2102",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2102.png"
     },
     {
       "id": 2103,
+      "number": 3,
       "maxLevel": 7,
       "name": {
         "vi": "Vô Thường Đoạt Mệnh",
@@ -338,91 +295,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2103",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        },
-        {
-          "level": 6,
-          "awakeFilter": 2
-        },
-        {
-          "level": 7,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "2103.png"
     }
   ],
   "assets": {
-    "portraitKey": "baiwuchang",
-    "headKey": "h_baiwuchang",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2101",
-      "2102",
-      "2103"
-    ]
-  },
-  "unresolvedTokens": [
-    "buff_2104_1"
-  ]
+    "portraitFile": "baiwuchang.png",
+    "headIconFile": "h_baiwuchang.png"
+  }
 }

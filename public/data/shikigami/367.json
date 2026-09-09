@@ -6,13 +6,11 @@
     "zh": "绘世花鸟卷"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 25, 10]",
-    "en": "[1, 25, 10]",
-    "zh": "[1, 25, 10]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 112,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3671,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Hàn Mai Tài Tuyết",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3671",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3671.png"
     },
     {
       "id": 3672,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Mặc Khí Thường Oanh",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3672",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3672.png"
     },
     {
       "id": 3673,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Họa Mộng Phù Sinh",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3673",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3673.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_huaniaojuan",
-    "headKey": "h_sp_huaniaojuan",
-    "armature": [
-      "huaniaojuan_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_sphuaniaojuan",
-    "skillIconKeys": [
-      "3671",
-      "3672",
-      "3673"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

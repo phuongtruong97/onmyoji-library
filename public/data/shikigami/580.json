@@ -6,13 +6,11 @@
     "zh": "晴思日和坊"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[38, 10, 20]",
-    "en": "[38, 10, 20]",
-    "zh": "[38, 10, 20]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 114,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5801,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Ầm Ầm",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5801",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5801.png"
     },
     {
       "id": 5802,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Trừng Không Cầu Vồng",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5802",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5802.png"
     },
     {
       "id": 5803,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Tình Nhật Hoa Quang",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5803",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5803.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_rihefang",
-    "headKey": "h_sp_rihefang",
-    "armature": [
-      "common_card_skin/25sp_rihefang_card",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_sprihefang",
-    "skillIconKeys": [
-      "5801",
-      "5802",
-      "5803"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "sp_rihefang.png",
+    "headIconFile": "h_sp_rihefang.png"
+  }
 }

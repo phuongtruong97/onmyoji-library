@@ -6,13 +6,11 @@
     "zh": "御馔津"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 17]",
-    "en": "[1, 17]",
-    "zh": "[1, 17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 109,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3041,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Nhất Thỉ",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3041",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3041.png"
     },
     {
       "id": 3042,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Hồ Thụ Giới",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 5,
-      "iconKey": "3042",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "3042.png"
     },
     {
       "id": 3043,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Nhiên Bạo • Phá Ma Tiễn",
@@ -266,41 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3043",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3043.png"
     }
   ],
   "assets": {
-    "portraitKey": "yuzhuanjin",
-    "headKey": "h_yuzhuanjin",
-    "armature": "",
-    "artName": "txt_zhanshi_yuzhuanjin",
-    "skillIconKeys": [
-      "3041",
-      "3042",
-      "3043"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "yuzhuanjin.png",
+    "headIconFile": ""
+  }
 }

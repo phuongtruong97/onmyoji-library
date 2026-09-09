@@ -6,13 +6,11 @@
     "zh": "卖药郎"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 102,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3051,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Thích Vật Chi Hình",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3051",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3051.png"
     },
     {
       "id": 3052,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Đạo Vật Chi Chân Lý",
@@ -148,20 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "3052",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3052.png"
     },
     {
       "id": 3053,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Thoái Ma",
@@ -213,43 +182,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3053",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3053.png"
     }
   ],
   "assets": {
-    "portraitKey": "guaihuamao",
-    "headKey": "h_guaihuamao",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3051",
-      "3052",
-      "3053"
-    ]
-  },
-  "unresolvedTokens": [
-    "tips_6"
-  ]
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

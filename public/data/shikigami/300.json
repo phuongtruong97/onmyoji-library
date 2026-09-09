@@ -6,13 +6,11 @@
     "zh": "玉藻前"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "D"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 100,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3001,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "灵击",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3001",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3001.png"
     },
     {
       "id": 3002,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "狐火",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3002",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3002.png"
     },
     {
       "id": 3003,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "堕天",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3003",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3003.png"
     }
   ],
   "assets": {
-    "portraitKey": "yuzaoqian",
-    "headKey": "h_yuzaoqian",
-    "armature": "",
-    "artName": "txt_zhanshi_yuzaoqian",
-    "skillIconKeys": [
-      "3001",
-      "3002",
-      "3003"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "yuzaoqian.png",
+    "headIconFile": ""
+  }
 }

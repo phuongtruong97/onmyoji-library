@@ -6,13 +6,11 @@
     "zh": "跳跳弟弟"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 94,
       "grade": "D"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2251,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Trực Quyền",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2251",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2251.png"
     },
     {
       "id": 2253,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Độc Khí Phún Tuyền",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2253",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2253.png"
     }
   ],
   "assets": {
-    "portraitKey": "tiaotiaoxiaogui",
-    "headKey": "h_tiaotiaodidi",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2251",
-      "2253"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_tiaotiaodidi.png"
+  }
 }

@@ -6,13 +6,11 @@
     "zh": "神酿星熊童子"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17, 16]",
-    "en": "[17, 16]",
-    "zh": "[17, 16]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 108,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5781,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tíu Tít Vui Vẻ",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5781",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5781.png"
     },
     {
       "id": 5782,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Chủ Khách Cùng Vui",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5782",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5782.png"
     },
     {
       "id": 5783,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Uống Qua Ba Tuần",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "5783",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5783.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_xingxiongtongzi",
-    "headKey": "h_sp_xingxiongtongzi",
-    "armature": [
-      "sp_xingxiong_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_spxingxiongtongzi",
-    "skillIconKeys": [
-      "5781",
-      "5782",
-      "5783"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_sp_xingxiongtongzi.png"
+  }
 }

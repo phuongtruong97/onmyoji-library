@@ -6,13 +6,11 @@
     "zh": "夜刀神"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 103,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3731,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Xích Tử",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3731",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3731.png"
     },
     {
       "id": 3732,
+      "number": 2,
       "maxLevel": 6,
       "name": {
         "vi": "Dạ Chi Yêu Ước",
@@ -148,44 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "3732",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        },
-        {
-          "level": 6,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "3732.png"
     },
     {
       "id": 3733,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Thất Dạ Bí Nghi",
@@ -237,41 +182,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3733",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3733.png"
     }
   ],
   "assets": {
-    "portraitKey": "yedaoshen",
-    "headKey": "h_yedaoshen",
-    "armature": "",
-    "artName": "txt_zhanshi_yedaoshen",
-    "skillIconKeys": [
-      "3731",
-      "3732",
-      "3733"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_yedaoshen.png"
+  }
 }

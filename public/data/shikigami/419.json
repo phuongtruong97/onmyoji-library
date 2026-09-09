@@ -6,13 +6,11 @@
     "zh": "小鹿男呱"
   },
   "rarity": "N",
+  "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 101,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 4191,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Quác·Sâm Chi Lực",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "4191",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "4191.png"
     },
     {
       "id": 4192,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Quác·Lộc Giác Trùng Khúc",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "4192",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "4192.png"
     }
   ],
   "assets": {
-    "portraitKey": "longche_lunanwa",
-    "headKey": "h_xiaolunangua",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "4191",
-      "4192"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

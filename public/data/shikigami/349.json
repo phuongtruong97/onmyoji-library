@@ -6,13 +6,11 @@
     "zh": "风狸"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "D"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 99,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3491,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Long Quyển · Thủ Lý Kiếm",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3491",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3491.png"
     },
     {
       "id": 3492,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Tàn Ảnh · Thế Thân Thuật",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3492",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3492.png"
     },
     {
       "id": 3493,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Xa · Lôi Hỏa Đạn",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3493",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3493.png"
     }
   ],
   "assets": {
-    "portraitKey": "fengli",
-    "headKey": "h_fengli",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3491",
-      "3492",
-      "3493"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "fengli.png",
+    "headIconFile": ""
+  }
 }

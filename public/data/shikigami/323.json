@@ -6,13 +6,11 @@
     "zh": "天井下"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[6]",
-    "en": "[6]",
-    "zh": "[6]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 99,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3231,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Ném Đá",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3231",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3231.png"
     },
     {
       "id": 3232,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Già Vũ",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3232",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3232.png"
     },
     {
       "id": 3233,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Âm Vang Tái Ngộ",
@@ -290,61 +247,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3233",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3233.png"
     }
   ],
   "assets": {
-    "portraitKey": "tianjinxia",
-    "headKey": "h_tianjinxia",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3231",
-      "3232",
-      "3233"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "tianjinxia.png",
+    "headIconFile": ""
+  }
 }

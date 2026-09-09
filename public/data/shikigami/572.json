@@ -6,13 +6,11 @@
     "zh": "遥念烟烟罗"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17, 22, 8]",
-    "en": "[17, 22, 8]",
-    "zh": "[17, 22, 8]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 114,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5721,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Yên Hoa",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5721",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5721.png"
     },
     {
       "id": 5722,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Như Ảnh",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5722",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5722.png"
     },
     {
       "id": 5723,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Dạ Mạc Hoa Thái",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "5723",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5723.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_yanyanluo",
-    "headKey": "h_sp_yanyanluo",
-    "armature": [
-      "sp_yanyanluo_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_yaonianyanyanluo",
-    "skillIconKeys": [
-      "5721",
-      "5722",
-      "5723"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "sp_yanyanluo.png",
+    "headIconFile": ""
+  }
 }

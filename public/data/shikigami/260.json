@@ -6,13 +6,11 @@
     "zh": "清姬"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[43]",
-    "en": "[43]",
-    "zh": "[43]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 95,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2601,
+      "number": 1,
       "maxLevel": 6,
       "name": {
         "vi": "Xà Hành Kích",
@@ -112,36 +111,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2601",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        },
-        {
-          "level": 6,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2601.png"
     },
     {
       "id": 2602,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Thôi Độc",
@@ -160,20 +134,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "2602",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "2602.png"
     },
     {
       "id": 2603,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "焚身之火",
@@ -225,41 +190,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2603",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2603.png"
     }
   ],
   "assets": {
-    "portraitKey": "qingji",
-    "headKey": "h_qingji",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2601",
-      "2602",
-      "2603"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_qingji.png"
+  }
 }

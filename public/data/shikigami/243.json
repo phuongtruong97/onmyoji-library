@@ -6,13 +6,11 @@
     "zh": "山童"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17]",
-    "en": "[17]",
-    "zh": "[17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 106,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2431,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Toái Nham",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2431",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2431.png"
     },
     {
       "id": 2432,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Kỳ Lực",
@@ -148,16 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "2432",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2432.png"
     },
     {
       "id": 2433,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Băng Sơn",
@@ -209,41 +182,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2433",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2433.png"
     }
   ],
   "assets": {
-    "portraitKey": "shantong",
-    "headKey": "h_shantong",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2431",
-      "2432",
-      "2433"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "shantong.png",
+    "headIconFile": ""
+  }
 }

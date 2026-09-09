@@ -6,13 +6,11 @@
     "zh": "妖刀姬"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 101,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2691,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "不祥之刃",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2691",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2691.png"
     },
     {
       "id": 2693,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "杀戮",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2693",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2693.png"
     }
   ],
   "assets": {
-    "portraitKey": "yaodaoji",
-    "headKey": "h_yaodaoji",
-    "armature": "",
-    "artName": "txt_zhanshi_yaodaoji",
-    "skillIconKeys": [
-      "2691",
-      "2693"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "yaodaoji.png",
+    "headIconFile": "h_yaodaoji.png"
+  }
 }

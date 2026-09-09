@@ -6,13 +6,11 @@
     "zh": "鲤鱼精"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[8, 17]",
-    "en": "[8, 17]",
-    "zh": "[8, 17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 107,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2061,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Vĩ Tiên",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2061",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2061.png"
     },
     {
       "id": 2062,
+      "number": 2,
       "maxLevel": 13,
       "name": {
         "vi": "泡泡之盾",
@@ -285,96 +263,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2062",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        },
-        {
-          "level": 6,
-          "awakeFilter": 2
-        },
-        {
-          "level": 9,
-          "awakeFilter": 2
-        },
-        {
-          "level": 10,
-          "awakeFilter": 2
-        },
-        {
-          "level": 11,
-          "awakeFilter": 2
-        },
-        {
-          "level": 12,
-          "awakeFilter": 2
-        },
-        {
-          "level": 13,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "2062.png"
     },
     {
       "id": 2063,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "泡泡之牢",
@@ -426,43 +319,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2063",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2063.png"
     }
   ],
   "assets": {
-    "portraitKey": "liyujing",
-    "headKey": "h_liyujing",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2061",
-      "2062",
-      "2063"
-    ]
-  },
-  "unresolvedTokens": [
-    "tips_6"
-  ]
+    "portraitFile": "liyujing.png",
+    "headIconFile": "h_liyujing.png"
+  }
 }

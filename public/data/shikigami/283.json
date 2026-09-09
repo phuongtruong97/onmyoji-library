@@ -6,13 +6,11 @@
     "zh": "荒"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 12, 29]",
-    "en": "[1, 12, 29]",
-    "zh": "[1, 12, 29]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 99,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2831,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tinh Quỹ",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2831",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2831.png"
     },
     {
       "id": 2832,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Tinh Thần Chi Cảnh",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2832",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "2832.png"
     },
     {
       "id": 2833,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Phạt·Tinh",
@@ -310,41 +247,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2833",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2833.png"
     }
   ],
   "assets": {
-    "portraitKey": "huang",
-    "headKey": "h_huang",
-    "armature": "",
-    "artName": "txt_zhanshi_huang",
-    "skillIconKeys": [
-      "2831",
-      "2832",
-      "2833"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "huang.png",
+    "headIconFile": "h_huang.png"
+  }
 }

@@ -6,13 +6,11 @@
     "zh": "阎魔"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17]",
-    "en": "[17]",
-    "zh": "[17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 107,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2551,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Quỷ Diện",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2551",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2551.png"
     },
     {
       "id": 2552,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Đoạt Hồn",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2552",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2552.png"
     },
     {
       "id": 2553,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Oán Hồn Trùng Áp",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2553",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2553.png"
     }
   ],
   "assets": {
-    "portraitKey": "yanluowang",
-    "headKey": "h_yanmo",
-    "armature": "",
-    "artName": "txt_zhanshi_yanluowang",
-    "skillIconKeys": [
-      "2551",
-      "2552",
-      "2553"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_yanmo.png"
+  }
 }

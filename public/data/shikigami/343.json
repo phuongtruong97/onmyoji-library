@@ -6,13 +6,11 @@
     "zh": "天剑韧心鬼切"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 19, 17]",
-    "en": "[1, 19, 17]",
-    "zh": "[1, 19, 17]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "D"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 109,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3431,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Vô Kiếm",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3431",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3431.png"
     },
     {
       "id": 3432,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Chân Kiếm • Nhẫn Tâm",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3433",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3433.png"
     },
     {
       "id": 3433,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Kiếm • Đoạn Ác Trảm",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3434",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3434.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_guiqie",
-    "headKey": "j_spguiqie",
-    "armature": [
-      "spguiqie_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_tianjianrenxinguiqie",
-    "skillIconKeys": [
-      "3431",
-      "3433",
-      "3434"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

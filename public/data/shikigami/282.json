@@ -6,13 +6,11 @@
     "zh": "金鱼姬"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 25, 7]",
-    "en": "[1, 25, 7]",
-    "zh": "[1, 25, 7]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 106,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2821,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Phiến Vũ",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2821",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2821.png"
     },
     {
       "id": 2823,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Kim Ngư · Trợ Chiến",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2823",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "2823.png"
     },
     {
       "id": 2822,
+      "number": 3,
       "maxLevel": 1,
       "name": {
         "vi": "Kim Ngư · Phản Kích",
@@ -277,25 +214,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "2822",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2822.png"
     }
   ],
   "assets": {
-    "portraitKey": "jinyuji",
-    "headKey": "h_jinyuji",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2821",
-      "2823",
-      "2822"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "jinyuji.png",
+    "headIconFile": ""
+  }
 }

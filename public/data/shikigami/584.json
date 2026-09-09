@@ -6,13 +6,11 @@
     "zh": "时曜泷夜叉姬"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 106,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5841,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tuế Ngấn Chi Đoạn",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5841",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5841.png"
     },
     {
       "id": 5842,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Diệu Thời Chi Lữ",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5842",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5842.png"
     },
     {
       "id": 5843,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Tấn Thời Chi Trảm",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "5843",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5843.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_longyechaji",
-    "headKey": "h_sp_longyechaji",
-    "armature": [
-      "common_card_skin/2504_sp_lycj_card_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_sp_longyechaji",
-    "skillIconKeys": [
-      "5841",
-      "5842",
-      "5843"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

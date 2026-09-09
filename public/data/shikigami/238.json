@@ -6,13 +6,11 @@
     "zh": "萤草"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[10]",
-    "en": "[10]",
-    "zh": "[10]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 93,
       "grade": "D"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2381,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "吸取",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2381",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2381.png"
     },
     {
       "id": 2382,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "生花",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2382",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2382.png"
     },
     {
       "id": 2383,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "治愈之光",
@@ -322,81 +279,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2383",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "2383.png"
     }
   ],
   "assets": {
-    "portraitKey": "yingcao",
-    "headKey": "h_yingcao",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2381",
-      "2382",
-      "2383"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "yingcao.png",
+    "headIconFile": "h_yingcao.png"
+  }
 }

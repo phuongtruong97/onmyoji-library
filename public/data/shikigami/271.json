@@ -6,13 +6,11 @@
     "zh": "般若"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[16]",
-    "en": "[16]",
-    "zh": "[16]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 104,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2711,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Quỷ Chi Giả Diện",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2711",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2711.png"
     },
     {
       "id": 2712,
+      "number": 2,
       "maxLevel": 2,
       "name": {
         "vi": "Tật Hận Chi Tâm",
@@ -157,28 +135,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2712",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "2712.png"
     },
     {
       "id": 2713,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Quỷ Kích",
@@ -230,41 +191,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2713",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2713.png"
     }
   ],
   "assets": {
-    "portraitKey": "bore",
-    "headKey": "h_bore",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2711",
-      "2712",
-      "2713"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "bore.png",
+    "headIconFile": ""
+  }
 }

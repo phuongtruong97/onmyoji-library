@@ -6,13 +6,11 @@
     "zh": "丑时之女"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 25]",
-    "en": "[1, 25]",
-    "zh": "[1, 25]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 107,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2281,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Chú Chùy",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2281",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2281.png"
     },
     {
       "id": 2282,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Chú Hỏa",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2282",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2282.png"
     },
     {
       "id": 2283,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Hình Nộm Thay Thế",
@@ -314,79 +271,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2283",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "2283.png"
     }
   ],
   "assets": {
-    "portraitKey": "choushizhinv",
-    "headKey": "h_choushizhinv",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2281",
-      "2282",
-      "2283"
-    ]
-  },
-  "unresolvedTokens": [
-    "buff_2282_1"
-  ]
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

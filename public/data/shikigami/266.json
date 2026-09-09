@@ -6,13 +6,11 @@
     "zh": "青行灯"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 6, 45]",
-    "en": "[1, 6, 45]",
-    "zh": "[1, 6, 45]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 109,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2661,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "幽光",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2661",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2661.png"
     },
     {
       "id": 2662,
+      "number": 2,
       "maxLevel": 9,
       "name": {
         "vi": "Minh Đăng",
@@ -277,88 +255,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2662",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        },
-        {
-          "level": 6,
-          "awakeFilter": 2
-        },
-        {
-          "level": 7,
-          "awakeFilter": 2
-        },
-        {
-          "level": 8,
-          "awakeFilter": 2
-        },
-        {
-          "level": 9,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "2662.png"
     },
     {
       "id": 2663,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "吸魂灯",
@@ -410,41 +311,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2663",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2663.png"
     }
   ],
   "assets": {
-    "portraitKey": "qingxingdeng",
-    "headKey": "h_qingxingdeng",
-    "armature": "",
-    "artName": "txt_zhanshi_qingxingdeng",
-    "skillIconKeys": [
-      "2661",
-      "2662",
-      "2663"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "qingxingdeng.png",
+    "headIconFile": "h_qingxingdeng.png"
+  }
 }

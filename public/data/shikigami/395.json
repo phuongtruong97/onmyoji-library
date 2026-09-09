@@ -6,13 +6,11 @@
     "zh": "流光追月神"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[37, 6]",
-    "en": "[37, 6]",
-    "zh": "[37, 6]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 111,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3951,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Lưu Minh",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3951",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3951.png"
     },
     {
       "id": 3952,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Khỉ La Vũ",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3952",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3952.png"
     },
     {
       "id": 3953,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Phi Thải Ngưng Huy",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3953",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3953.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_zhuiyueshen",
-    "headKey": "h_sp_zhuiyueshen",
-    "armature": [
-      "sp_zhuiyueshen",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_liuguangzhuiyueshen",
-    "skillIconKeys": [
-      "3951",
-      "3952",
-      "3953"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "sp_zhuiyueshen.png",
+    "headIconFile": ""
+  }
 }

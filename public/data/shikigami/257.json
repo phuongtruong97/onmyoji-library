@@ -6,13 +6,11 @@
     "zh": "食梦貘"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17]",
-    "en": "[17]",
-    "zh": "[17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 109,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2571,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Nhập Miên",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2571",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2571.png"
     },
     {
       "id": 2572,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Ngủ say",
@@ -148,20 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "2572",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "2572.png"
     },
     {
       "id": 2573,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Kẻ Ăn Mơ",
@@ -213,41 +182,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2573",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2573.png"
     }
   ],
   "assets": {
-    "portraitKey": "shimengmo",
-    "headKey": "h_shimengmo",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2571",
-      "2572",
-      "2573"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "shimengmo.png",
+    "headIconFile": ""
+  }
 }

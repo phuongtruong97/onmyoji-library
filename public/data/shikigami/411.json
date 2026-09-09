@@ -6,13 +6,11 @@
     "zh": "御行达摩"
   },
   "rarity": "N",
+  "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 100,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 4101,
+      "number": 1,
       "maxLevel": 1,
       "name": {
         "vi": "Lảo đảo",
@@ -71,23 +70,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "4031",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "4031.png"
     }
   ],
   "assets": {
-    "portraitKey": "damobudaoweng_hei",
-    "headKey": "h_damobudaoweng_hei",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "4031"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_damobudaoweng_hei.png"
+  }
 }

@@ -6,13 +6,11 @@
     "zh": "妖琴师"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[18, 11]",
-    "en": "[18, 11]",
-    "zh": "[18, 11]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 110,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2561,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Kinh Huyền",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2561",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2561.png"
     },
     {
       "id": 2562,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Dư Âm",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2562",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2562.png"
     },
     {
       "id": 2563,
+      "number": 3,
       "maxLevel": 6,
       "name": {
         "vi": "Phong Ma Cầm Tâm",
@@ -330,85 +287,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2563",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        },
-        {
-          "level": 6,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "2563.png"
     }
   ],
   "assets": {
-    "portraitKey": "qinmo",
-    "headKey": "h_qinmo",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2561",
-      "2562",
-      "2563"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "qinmo.png",
+    "headIconFile": ""
+  }
 }

@@ -6,13 +6,11 @@
     "zh": "巡音流歌"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[12, 38, 21]",
-    "en": "[12, 38, 21]",
-    "zh": "[12, 38, 21]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 105,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5821,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Quản Huyền Tấu",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5821",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5821.png"
     },
     {
       "id": 5822,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Hòa Âm Hồi Hưởng",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5822",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5822.png"
     },
     {
       "id": 5823,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Luật Động Tuần Du",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5823",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5823.png"
     }
   ],
   "assets": {
-    "portraitKey": "xunyinliuge",
-    "headKey": "h_xunyinliuge",
-    "armature": "",
-    "artName": "txt_zhanshi_xunyinliuge",
-    "skillIconKeys": [
-      "5821",
-      "5822",
-      "5823"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_xunyinliuge.png"
+  }
 }

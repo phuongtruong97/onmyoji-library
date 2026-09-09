@@ -6,13 +6,11 @@
     "zh": "青蛙瓷器"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 97,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2501,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Đổ Gian",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2501",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2501.png"
     },
     {
       "id": 2503,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Lĩnh Thượng Khai Hoa",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "2503",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2503.png"
     }
   ],
   "assets": {
-    "portraitKey": "qingwaciqi",
-    "headKey": "h_qingwaciqi",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2501",
-      "2503"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

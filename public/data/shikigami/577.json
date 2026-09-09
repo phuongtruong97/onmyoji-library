@@ -6,13 +6,11 @@
     "zh": "鬼金羊"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[45, 17, 41]",
-    "en": "[45, 17, 41]",
-    "zh": "[45, 17, 41]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 108,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5771,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Kim Dương Kỳ Kích",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5771",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5771.png"
     },
     {
       "id": 5772,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Túc Ảnh Ám Độ",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5772",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5772.png"
     },
     {
       "id": 5773,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Quỷ Túc Kỳ Kinh · Trường Tinh",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "5773",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5773.png"
     }
   ],
   "assets": {
-    "portraitKey": "guijinyang",
-    "headKey": "h_guijinyang",
-    "armature": "",
-    "artName": "txt_zhanshi_guijinyang",
-    "skillIconKeys": [
-      "5771",
-      "5772",
-      "5773"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

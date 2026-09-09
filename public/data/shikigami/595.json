@@ -6,13 +6,11 @@
     "zh": "梦山白藏主"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 38, 9]",
-    "en": "[1, 38, 9]",
-    "zh": "[1, 38, 9]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "S"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 111,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5951,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Ngự Ngã Chi Danh",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5951",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5951.png"
     },
     {
       "id": 5952,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Bạch Hồ Chú",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5952",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5952.png"
     },
     {
       "id": 5953,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Trảm Mộng Đao",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "5953",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5953.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_baizangzhu",
-    "headKey": "h_sp_baizangzhu",
-    "armature": [
-      "common_card_skin/2512_sp_bzz_card_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_spbaizangzhu",
-    "skillIconKeys": [
-      "5951",
-      "5952",
-      "5953"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

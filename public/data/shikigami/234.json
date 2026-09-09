@@ -6,13 +6,11 @@
     "zh": "椒图"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[10, 7]",
-    "en": "[10, 7]",
-    "zh": "[10, 7]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 107,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2341,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Thủy Hoa Đạn",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2341",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2341.png"
     },
     {
       "id": 2343,
+      "number": 2,
       "maxLevel": 7,
       "name": {
         "vi": "Quyên Lưu",
@@ -229,64 +207,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2343",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        },
-        {
-          "level": 6,
-          "awakeFilter": 2
-        },
-        {
-          "level": 7,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "2343.png"
     },
     {
       "id": 2342,
+      "number": 3,
       "maxLevel": 4,
       "name": {
         "vi": "Nhuận Vật Vô Thanh",
@@ -330,39 +255,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2342",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2342.png"
     }
   ],
   "assets": {
-    "portraitKey": "jiaotu",
-    "headKey": "h_jiaotu",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2341",
-      "2343",
-      "2342"
-    ]
-  },
-  "unresolvedTokens": [
-    "buff_2342_1"
-  ]
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

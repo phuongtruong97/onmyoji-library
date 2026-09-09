@@ -6,13 +6,11 @@
     "zh": "玉藻前呱"
   },
   "rarity": "N",
+  "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 97,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 4291,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Quác·Linh Kích",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "4291",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "4291.png"
     },
     {
       "id": 4292,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Quác·Đọa Thiên",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "4292",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "4292.png"
     }
   ],
   "assets": {
-    "portraitKey": "longche_yuzaoqianwa",
-    "headKey": "h_yuzaoqiangua",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "4291",
-      "4292"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_yuzaoqiangua.png"
+  }
 }

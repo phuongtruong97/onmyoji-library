@@ -6,13 +6,11 @@
     "zh": "禅心云外镜"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[12, 8, 20]",
-    "en": "[12, 8, 20]",
-    "zh": "[12, 8, 20]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 113,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3931,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Thủy Vô Ngân",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3931",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3931.png"
     },
     {
       "id": 3932,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Tâm Tịnh Minh",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3932",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3932.png"
     },
     {
       "id": 3933,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Vạn Pháp Giai Không",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3933",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3933.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_yunwaijing",
-    "headKey": "h_sp_yunwaijing",
-    "armature": [
-      "s2_ywjicon_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_chanxinyunwaijing",
-    "skillIconKeys": [
-      "3931",
-      "3932",
-      "3933"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "sp_yunwaijing.png",
+    "headIconFile": ""
+  }
 }

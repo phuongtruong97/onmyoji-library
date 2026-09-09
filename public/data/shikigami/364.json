@@ -6,13 +6,11 @@
     "zh": "阿修罗"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 109,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3641,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Hồng Liên Trảm Diệt",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3641",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3641.png"
     },
     {
       "id": 3642,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "天魔威压",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3642",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3642.png"
     },
     {
       "id": 3643,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Luyện Ngục Ngược Sát",
@@ -310,41 +247,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3643",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3643.png"
     }
   ],
   "assets": {
-    "portraitKey": "axiuluo",
-    "headKey": "h_axiuluo",
-    "armature": "",
-    "artName": "txt_zhanshi_axiuluo",
-    "skillIconKeys": [
-      "3641",
-      "3642",
-      "3643"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

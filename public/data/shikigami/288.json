@@ -6,13 +6,11 @@
     "zh": "彼岸花"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 97,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2881,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tử Vong Chi Hoa",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2881",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2881.png"
     },
     {
       "id": 2882,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Xích Đoàn Hoa",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2882",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2882.png"
     },
     {
       "id": 2883,
+      "number": 3,
       "maxLevel": 11,
       "name": {
         "vi": "Huyết Chi Hoa Hải",
@@ -370,107 +327,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2883",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        },
-        {
-          "level": 6,
-          "awakeFilter": 2
-        },
-        {
-          "level": 7,
-          "awakeFilter": 2
-        },
-        {
-          "level": 8,
-          "awakeFilter": 2
-        },
-        {
-          "level": 9,
-          "awakeFilter": 2
-        },
-        {
-          "level": 10,
-          "awakeFilter": 2
-        },
-        {
-          "level": 11,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "2883.png"
     }
   ],
   "assets": {
-    "portraitKey": "bianhua",
-    "headKey": "h_bianhua",
-    "armature": "",
-    "artName": "txt_zhanshi_bianhua",
-    "skillIconKeys": [
-      "2881",
-      "2882",
-      "2883"
-    ]
-  },
-  "unresolvedTokens": [
-    "tips_6"
-  ]
+    "portraitFile": "",
+    "headIconFile": "h_bianhua.png"
+  }
 }

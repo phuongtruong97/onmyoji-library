@@ -6,13 +6,11 @@
     "zh": "凤凰火"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17]",
-    "en": "[17]",
-    "zh": "[17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 96,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2521,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Phượng Hỏa",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2521",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2521.png"
     },
     {
       "id": 2523,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "凤凰业火",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2523",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2523.png"
     }
   ],
   "assets": {
-    "portraitKey": "fenghuanghuo",
-    "headKey": "h_fenghuanghuo",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2521",
-      "2523"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

@@ -6,13 +6,11 @@
     "zh": "鲸汐千姬"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 6, 20]",
-    "en": "[1, 6, 20]",
-    "zh": "[1, 6, 20]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 104,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5621,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tịch Niệm",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5621",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5621.png"
     },
     {
       "id": 5622,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Giao Nhân Ca",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5622",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5622.png"
     },
     {
       "id": 5623,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Kình Tức Hồi Mộng",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5623",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5623.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_qianji",
-    "headKey": "h_sp_qianji",
-    "armature": [
-      "sp_qianji_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_spqianji",
-    "skillIconKeys": [
-      "5621",
-      "5622",
-      "5623"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_sp_qianji.png"
+  }
 }

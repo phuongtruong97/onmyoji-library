@@ -6,13 +6,11 @@
     "zh": "铃鹿御前"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 12, 17]",
-    "en": "[1, 12, 17]",
-    "zh": "[1, 12, 17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 100,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3511,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "逐影",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3511",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3511.png"
     },
     {
       "id": 3512,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "麓魂·极",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3512",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3512.png"
     },
     {
       "id": 3513,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "万羽浪行",
@@ -310,41 +247,11 @@
         }
       ],
       "orbCost": 4,
-      "iconKey": "3513",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3513.png"
     }
   ],
   "assets": {
-    "portraitKey": "lingluyuqian",
-    "headKey": "h_lingluyuqian",
-    "armature": "",
-    "artName": "txt_zhanshi_lingluyuqian",
-    "skillIconKeys": [
-      "3511",
-      "3512",
-      "3513"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "lingluyuqian.png",
+    "headIconFile": ""
+  }
 }

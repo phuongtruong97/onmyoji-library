@@ -6,13 +6,11 @@
     "zh": "大夜摩天阎魔"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17]",
-    "en": "[17]",
-    "zh": "[17]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 113,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3851,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Vong Giả Tài Quyết",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3851",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3851.png"
     },
     {
       "id": 3852,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Luân Hồi Chi Phổ",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3852",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3852.png"
     },
     {
       "id": 3853,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "An Hồn Quỷ Vực",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3853",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3853.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_yanmo",
-    "headKey": "h_sp_yanmo",
-    "armature": [
-      "s2_spyanmokamianicon_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_sp_yanmo",
-    "skillIconKeys": [
-      "3851",
-      "3852",
-      "3853"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_sp_yanmo.png"
+  }
 }

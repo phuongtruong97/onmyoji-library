@@ -6,13 +6,11 @@
     "zh": "孔雀明王"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 17]",
-    "en": "[1, 17]",
-    "zh": "[1, 17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 109,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5501,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Lưu Vũ Phong",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5501",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5501.png"
     },
     {
       "id": 5502,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Vũ Hóa",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5502",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5502.png"
     },
     {
       "id": 5503,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Mê Ly Chi Cảnh",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5503",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5503.png"
     }
   ],
   "assets": {
-    "portraitKey": "kongquemingwang",
-    "headKey": "h_kongquemingwang",
-    "armature": "",
-    "artName": "txt_zhanshi_kongquemingwang",
-    "skillIconKeys": [
-      "5501",
-      "5502",
-      "5503"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "kongquemingwang.png",
+    "headIconFile": ""
+  }
 }

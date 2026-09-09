@@ -6,13 +6,11 @@
     "zh": "星熊童子"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17]",
-    "en": "[17]",
-    "zh": "[17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 105,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3421,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Thính Tán Nhất Ngôn",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3421",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3421.png"
     },
     {
       "id": 3422,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Đao Hạ Lưu Nhân",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3422",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3422.png"
     },
     {
       "id": 3423,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Địch Ở Bát Rượu!",
@@ -290,61 +247,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3423",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3423.png"
     }
   ],
   "assets": {
-    "portraitKey": "xingxiongtongzi",
-    "headKey": "h_xingxiongtongzi",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3421",
-      "3422",
-      "3423"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "xingxiongtongzi.png",
+    "headIconFile": "h_xingxiongtongzi.png"
+  }
 }

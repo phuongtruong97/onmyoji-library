@@ -6,13 +6,11 @@
     "zh": "须佐之男"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 102,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3891,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Lôi Đình Thức",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3891",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3891.png"
     },
     {
       "id": 3892,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Chi Lĩnh Vực",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3892",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3892.png"
     },
     {
       "id": 3893,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Lôi Vạn Tượng",
@@ -310,41 +247,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3893",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3893.png"
     }
   ],
   "assets": {
-    "portraitKey": "xuzuozhinan",
-    "headKey": "h_xuzuozhinan",
-    "armature": "",
-    "artName": "txt_zhanshi_xuzuozhinan",
-    "skillIconKeys": [
-      "3891",
-      "3892",
-      "3893"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_xuzuozhinan.png"
+  }
 }

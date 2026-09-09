@@ -6,13 +6,11 @@
     "zh": "河童"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 103,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2091,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Thủy Lưu Đạn",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2091",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2091.png"
     },
     {
       "id": 2092,
+      "number": 2,
       "maxLevel": 4,
       "name": {
         "vi": "Thanh Lưu",
@@ -173,28 +151,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2092",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2092.png"
     },
     {
       "id": 2093,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Đại Hà Chi Ca",
@@ -278,61 +239,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2093",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "2093.png"
     }
   ],
   "assets": {
-    "portraitKey": "hetong",
-    "headKey": "h_hetong",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2091",
-      "2092",
-      "2093"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "hetong.png",
+    "headIconFile": "h_hetong.png"
+  }
 }

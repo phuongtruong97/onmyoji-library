@@ -6,13 +6,11 @@
     "zh": "苍风一目连"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 8]",
-    "en": "[1, 8]",
-    "zh": "[1, 8]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "D"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 111,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3271,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Phù · Diệt",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3271",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3271.png"
     },
     {
       "id": 3272,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Phù · Thủ",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3272",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3272.png"
     },
     {
       "id": 3273,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Chỉ · Thương Long Trụy",
@@ -310,41 +247,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3273",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3273.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_yimulian",
-    "headKey": "j_spyimulian",
-    "armature": "",
-    "artName": "txt_zhanshi_cangfengyimulian",
-    "skillIconKeys": [
-      "3271",
-      "3272",
-      "3273"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

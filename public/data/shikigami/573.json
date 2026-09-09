@@ -6,13 +6,11 @@
     "zh": "龙珏"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "D"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 108,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5731,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Long Sạc",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5731",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5731.png"
     },
     {
       "id": 5732,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "龙息之力",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5732",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "5732.png"
     },
     {
       "id": 5733,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Phi Long Hành Đạo",
@@ -310,41 +247,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5733",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5733.png"
     }
   ],
   "assets": {
-    "portraitKey": "longjue",
-    "headKey": "h_longjue",
-    "armature": "",
-    "artName": "txt_zhanshi_longjue",
-    "skillIconKeys": [
-      "5731",
-      "5732",
-      "5733"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "longjue.png",
+    "headIconFile": "h_longjue.png"
+  }
 }

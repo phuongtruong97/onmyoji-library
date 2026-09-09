@@ -6,13 +6,11 @@
     "zh": "鬼灯"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17, 20]",
-    "en": "[17, 20]",
-    "zh": "[17, 20]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 100,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3081,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Chùy Kích",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3081",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3081.png"
     },
     {
       "id": 3082,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Chưởng Khống",
@@ -148,20 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "3082",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3082.png"
     },
     {
       "id": 3083,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Địa Ngục Chi Quỷ",
@@ -213,41 +182,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3083",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3083.png"
     }
   ],
   "assets": {
-    "portraitKey": "guideng",
-    "headKey": "h_guideng",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3081",
-      "3082",
-      "3083"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_guideng.png"
+  }
 }

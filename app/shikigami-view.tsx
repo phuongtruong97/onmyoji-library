@@ -1,25 +1,119 @@
 'use client';
-import {ChevronLeft,ChevronRight,Flame,ListFilter,Search,X} from 'lucide-react';
-import {useEffect,useMemo,useState} from 'react';
-type Language='vi'|'en'|'zh'; type Text3=Record<Language,string>;
-type CatalogHero={id:number;name:Text3;rarity:string;assets:{portraitKey:string;headKey:string;skillIconKeys:string[]}};
-type Skill={id:number|string;maxLevel:number;name:Text3;intro:Text3;description:Text3;upgrades:{level:number;text:Text3}[];orbCost:number;iconKey:string};
-type Hero=CatalogHero&{level:number;maxLevel:number;stats:{key:string;label:string;value:number|string;grade:string}[];secondaryStats:Record<string,string>;skills:Skill[]};
-type GlossaryEntry={kind:string;title:Text3;description:Text3}; type Catalog={count:number;heroes:CatalogHero[]};
-const languages:{id:Language;label:string}[]=[{id:'vi',label:'Tiếng Việt'},{id:'en',label:'English'},{id:'zh',label:'中文'}];
-const secondaryLabels:Record<string,Text3>={critDamage:{vi:'SÁT THƯƠNG CHÍ MẠNG',en:'CRIT DMG',zh:'暴击伤害'},effectHit:{vi:'CHÍNH XÁC',en:'EFFECT HIT',zh:'效果命中'},effectRes:{vi:'KHÁNG HIỆU ỨNG',en:'EFFECT RES',zh:'效果抵抗'}};
-const statLabels:Record<string,Text3>={atk:{vi:'CÔNG',en:'ATK',zh:'攻击'},hp:{vi:'MÁU',en:'HP',zh:'生命'},def:{vi:'THỦ',en:'DEF',zh:'防御'},speed:{vi:'TỐC ĐỘ',en:'SPEED',zh:'速度'},crit:{vi:'CHÍ MẠNG',en:'CRIT',zh:'暴击'}};
-const buffIcon=(token:string)=>token.replace(/^buff_/,'').replace(/_\d+$/,'');
-function RichText({text,language,glossary,onToken}:{text:string;language:Language;glossary:Record<string,GlossaryEntry>;onToken:(s:string)=>void}){return <>{String(text||'').split(/(\[[^\]]+\])/g).map((chunk,i)=>{const token=/^\[([^\]]+)\]$/.exec(chunk)?.[1];return token&&glossary[token]?<button type="button" className="game-token" key={`${token}-${i}`} onClick={()=>onToken(token)}>{glossary[token].title?.[language]||chunk}</button>:token?<span className="game-code" key={`${token}-${i}`}>{chunk}</span>:<span key={i}>{chunk}</span>})}</>}
-export default function ShikigamiView(){
- const [catalog,setCatalog]=useState<Catalog|null>(null),[glossary,setGlossary]=useState<Record<string,GlossaryEntry>>({}),[hero,setHero]=useState<Hero|null>(null); const [selectedId,setSelectedId]=useState(554),[activeSkill,setActiveSkill]=useState(0); const [language,setLanguage]=useState<Language>('vi'),[query,setQuery]=useState(''),[rarity,setRarity]=useState('Tất cả'); const [showLibrary,setShowLibrary]=useState(true),[activeToken,setActiveToken]=useState<string|null>(null),[loading,setLoading]=useState(true);
- useEffect(()=>{Promise.all([fetch('/data/shikigami_catalog.json').then(r=>r.json()),fetch('/data/glossary.json').then(r=>r.json())]).then(([c,g])=>{setCatalog(c);setGlossary(g);const id=Number(new URLSearchParams(location.search).get('hero'));if(c.heroes.some((h:CatalogHero)=>h.id===id))setSelectedId(id)}).catch(()=>setLoading(false))},[]);
- useEffect(()=>{setLoading(true);fetch(`/data/shikigami/${selectedId}.json`).then(r=>{if(!r.ok)throw Error();return r.json()}).then(d=>{setHero(d);setActiveSkill(0);setActiveToken(null);setLoading(false);history.replaceState(null,'',`?hero=${selectedId}`)}).catch(()=>setLoading(false))},[selectedId]);
- useEffect(()=>{if(!activeToken)return;const close=(e:PointerEvent)=>{const t=e.target;if(t instanceof Element&&(t.closest('.glossary-popover')||t.closest('.game-token')))return;setActiveToken(null)};document.addEventListener('pointerdown',close);return()=>document.removeEventListener('pointerdown',close)},[activeToken]);
- const rarities=useMemo(()=>['Tất cả',...Array.from(new Set((catalog?.heroes||[]).map(h=>h.rarity||'?'))).sort()],[catalog]); const filtered=useMemo(()=>{const q=query.trim().toLocaleLowerCase();return(catalog?.heroes||[]).filter(h=>(rarity==='Tất cả'||h.rarity===rarity)&&(!q||Object.values(h.name).some(n=>String(n).toLocaleLowerCase().includes(q))))},[catalog,query,rarity]); const currentIndex=catalog?.heroes.findIndex(h=>h.id===selectedId)??-1; const moveHero=(d:number)=>{if(catalog?.heroes.length)setSelectedId(catalog.heroes[(currentIndex+d+catalog.heroes.length)%catalog.heroes.length].id)}; const skill=hero?.skills[activeSkill]; const picture=hero?.id===554?'/reference-554.jpg':hero?.assets.portraitKey?`/body-images/${hero.assets.portraitKey}.png`:'';
- return <main className="shiki-shell"><div className="scene" aria-hidden="true"/><header className="topbar"><button className="icon-button" onClick={()=>setShowLibrary(v=>!v)} aria-label="Mở thư viện"><ListFilter/></button><div className="brand-lockup"><span>ONMYOJI • THƯ VIỆN THỨC THẦN</span><strong>{catalog?.count||266} thức thần</strong></div><label className="searchbox"><Search size={18}/><input value={query} onChange={e=>{setQuery(e.target.value);setShowLibrary(true)}} placeholder="Tìm tên Việt, Anh hoặc Trung"/></label><div className="language-tabs">{languages.map(l=><button key={l.id} className={language===l.id?'active':''} onClick={()=>{setLanguage(l.id);setActiveToken(null)}}>{l.label}</button>)}</div></header>
- <aside className={`library-drawer ${showLibrary?'open':''}`}><div className="library-heading"><div><b>Danh sách thức thần</b><small>{filtered.length} kết quả</small></div><button onClick={()=>setShowLibrary(false)}><X/></button></div><div className="rarity-filter">{rarities.map(r=><button key={r} className={rarity===r?'active':''} onClick={()=>setRarity(r)}>{r}</button>)}</div><div className="hero-list">{filtered.map(h=><button key={h.id} className={h.id===selectedId?'selected':''} onClick={()=>{setSelectedId(h.id);setShowLibrary(false)}}><span className="hero-thumb"><img src={`/head-icons/${h.assets.headKey}.png`} alt="" onError={e=>{e.currentTarget.style.display='none'}}/><i>{h.rarity}</i></span><span><strong>{h.name[language]||h.name.en||`#${h.id}`}</strong><small>{language==='vi'?h.name.en:h.name.vi} · #{h.id}</small></span></button>)}</div></aside>{showLibrary&&<button className="drawer-scrim" onClick={()=>setShowLibrary(false)}/>} 
- {loading||!hero||!skill?<section className="empty-state"><span className="loader"/><h1>Đang nạp dữ liệu game…</h1></section>:<section className="workspace"><aside className="identity-panel"><div className="rarity">{hero.rarity}</div><div className="character-frame">{picture&&<img src={picture} alt={hero.name[language]} onError={e=>{e.currentTarget.style.display='none';e.currentTarget.parentElement?.classList.add('missing')}}/>}<div className="character-fade"/></div><div className="identity-copy"><span>Thức thần #{hero.id}</span><h1>{hero.name[language]}</h1><p>{language==='vi'?hero.name.en:hero.name.vi}</p></div><button className="switch-arrow left" onClick={()=>moveHero(-1)}><ChevronLeft/></button><button className="switch-arrow right" onClick={()=>moveHero(1)}><ChevronRight/></button></aside>
- <section className="info-card"><div className="card-heading"><div><span>THÔNG TIN THỨC THẦN</span><h2>Lv. <strong>{hero.level}</strong>/{hero.maxLevel}</h2></div><span className="status-chip">6 sao • đã thức tỉnh</span></div><div className="stats-grid">{hero.stats.map(s=><div className="stat-row" key={s.key}><span className={`grade grade-${String(s.grade).toLowerCase()}`}>{s.grade}</span><span>{statLabels[s.key]?.[language]||s.label}</span><strong>{s.value}</strong></div>)}{Object.entries(hero.secondaryStats||{}).map(([k,v])=><div className="stat-row secondary" key={k}><span>{secondaryLabels[k]?.[language]||k}</span><strong>{v}</strong></div>)}</div><div className="skills-dock">{hero.skills.map((s,i)=><button key={`${s.id}-${i}`} className={i===activeSkill?'selected':''} onClick={()=>{setActiveSkill(i);setActiveToken(null)}}><span className={`skill-glyph glyph-${i%3+1}`}><img src={`/skill-icons/${s.iconKey}.png`} alt="" onError={e=>{e.currentTarget.style.display='none';e.currentTarget.parentElement?.classList.add('icon-missing')}}/><i>{i+1}</i></span><b>{s.maxLevel}</b><small>{s.name[language]}</small></button>)}</div></section>
- <article className="skill-scroll"><header className="skill-heading"><div className={`large-glyph glyph-${activeSkill%3+1}`}><img src={`/skill-icons/${skill.iconKey}.png`} alt="" onError={e=>{e.currentTarget.style.display='none';e.currentTarget.parentElement?.classList.add('icon-missing')}}/><i>{activeSkill+1}</i></div><div><span>KỸ NĂNG CẤP TỐI ĐA • Lv.{skill.maxLevel}</span><h2>{skill.name[language]}</h2><p>{skill.intro[language]}</p></div>{skill.orbCost>0&&<div className="orb-cost"><Flame size={18}/>{skill.orbCost}</div>}</header><div className="skill-body"><div className="skill-tags"><span>Chiến đấu</span><span>{skill.maxLevel>1?'Có thể nâng cấp':'Kỹ năng đặc biệt'}</span></div><p className="description"><RichText text={skill.description[language]} language={language} glossary={glossary} onToken={setActiveToken}/></p>{skill.upgrades?.length>0&&<div className="upgrade-list"><h3>{language==='vi'?'Hiệu quả nâng cấp':language==='en'?'Upgrade effects':'升级效果'}</h3>{skill.upgrades.map(u=><div key={u.level}><b>Lv.{u.level}</b><p><RichText text={u.text[language]} language={language} glossary={glossary} onToken={setActiveToken}/></p></div>)}</div>}</div>{activeToken&&glossary[activeToken]&&<aside className="glossary-popover"><button className="close-popover" onClick={()=>setActiveToken(null)}><X size={16}/></button><span className={`glossary-kind ${glossary[activeToken].kind}`}>{glossary[activeToken].kind==='buff'?'BUFF / DẤU ẤN':'THUẬT NGỮ'}</span><div className="glossary-title">{glossary[activeToken].kind==='buff'&&<img src={`/buff-icons/${buffIcon(activeToken)}.png`} alt="" onError={e=>{e.currentTarget.style.display='none'}}/>}<h3>{glossary[activeToken].title[language]||`[${activeToken}]`}</h3></div><p><RichText text={glossary[activeToken].description[language]} language={language} glossary={glossary} onToken={setActiveToken}/></p></aside>}</article></section>}</main>
+
+import { ChevronLeft, ChevronRight, Flame, ListFilter, Search, X } from 'lucide-react';
+import { useEffect, useMemo, useState } from 'react';
+
+type Language = 'vi' | 'en' | 'zh';
+type Text3 = Record<Language, string>;
+type Assets = { portraitFile: string; headIconFile: string };
+type CatalogHero = { id: number; name: Text3; rarity: string; tier?: string; assets: Assets };
+type Skill = { id: number | string; number: number; maxLevel: number; name: Text3; intro: Text3; description: Text3; upgrades: { level: number; text: Text3 }[]; orbCost: number; iconFile: string };
+type Hero = CatalogHero & { level: number; maxLevel: number; statState: string; reviewStatus: string; stats: { key: string; label: string; value: number | string; grade: string }[]; secondaryStats: Record<string, string>; skills: Skill[] };
+type GlossaryEntry = { kind: string; title: Text3; description: Text3; iconFile?: string };
+type Catalog = { count: number; heroes: CatalogHero[] };
+
+const languages: { id: Language; label: string }[] = [{ id: 'vi', label: 'Tiếng Việt' }, { id: 'en', label: 'English' }, { id: 'zh', label: '中文' }];
+const tierOrder = ['Onmyoji', 'UR', 'SP', 'SSR', 'SR', 'R', 'N'];
+const secondaryLabels: Record<string, Text3> = {
+  critDamage: { vi: 'SÁT THƯƠNG CHÍ MẠNG', en: 'CRIT DMG', zh: '暴击伤害' },
+  effectHit: { vi: 'CHÍNH XÁC', en: 'EFFECT HIT', zh: '效果命中' },
+  effectRes: { vi: 'KHÁNG HIỆU ỨNG', en: 'EFFECT RES', zh: '效果抵抗' },
+};
+const statLabels: Record<string, Text3> = {
+  atk: { vi: 'CÔNG', en: 'ATK', zh: '攻击' }, hp: { vi: 'MÁU', en: 'HP', zh: '生命' },
+  def: { vi: 'THỦ', en: 'DEF', zh: '防御' }, speed: { vi: 'TỐC ĐỘ', en: 'SPEED', zh: '速度' },
+  crit: { vi: 'CHÍ MẠNG', en: 'CRIT', zh: '暴击' },
+};
+
+function UiIcon({ kind, name, className }: { kind: 'grades' | 'rarities'; name: string; className: string }) {
+  const [failed, setFailed] = useState(false);
+  return <span className={`${className} custom-ui-icon ${failed ? 'fallback' : ''}`}>
+    {!failed && <img src={`/ui/${kind}/${encodeURIComponent(name)}.png`} alt="" onError={() => setFailed(true)} />}
+    <em>{name}</em>
+  </span>;
+}
+
+function RichText({ text, language, glossary, onToken }: { text: string; language: Language; glossary: Record<string, GlossaryEntry>; onToken: (s: string) => void }) {
+  return <>{String(text || '').split(/(\[[^\]]+\])/g).map((chunk, i) => {
+    const token = /^\[([^\]]+)\]$/.exec(chunk)?.[1];
+    return token && glossary[token]
+      ? <button type="button" className="game-token" key={`${token}-${i}`} onClick={() => onToken(token)}>{glossary[token].title?.[language] || chunk}</button>
+      : token ? <span className="game-code" key={`${token}-${i}`}>{chunk}</span> : <span key={i}>{chunk}</span>;
+  })}</>;
+}
+
+export default function ShikigamiView() {
+  const [catalog, setCatalog] = useState<Catalog | null>(null);
+  const [glossary, setGlossary] = useState<Record<string, GlossaryEntry>>({});
+  const [hero, setHero] = useState<Hero | null>(null);
+  const [selectedId, setSelectedId] = useState(554);
+  const [activeSkill, setActiveSkill] = useState(0);
+  const [language, setLanguage] = useState<Language>('vi');
+  const [query, setQuery] = useState('');
+  const [rarity, setRarity] = useState('Tất cả');
+  const [showLibrary, setShowLibrary] = useState(true);
+  const [activeToken, setActiveToken] = useState<string | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    Promise.all([fetch('/data/shikigami_catalog.json').then(r => r.json()), fetch('/data/glossary.json').then(r => r.json())])
+      .then(([c, g]) => { setCatalog(c); setGlossary(g); const id = Number(new URLSearchParams(location.search).get('hero')); if (c.heroes.some((h: CatalogHero) => h.id === id)) setSelectedId(id); })
+      .catch(() => setLoading(false));
+  }, []);
+  useEffect(() => {
+    setLoading(true);
+    fetch(`/data/shikigami/${selectedId}.json`).then(r => { if (!r.ok) throw Error(); return r.json(); })
+      .then(d => { setHero(d); setActiveSkill(0); setActiveToken(null); setLoading(false); history.replaceState(null, '', `?hero=${selectedId}`); })
+      .catch(() => setLoading(false));
+  }, [selectedId]);
+  useEffect(() => {
+    if (!activeToken) return;
+    const close = (e: PointerEvent) => { const t = e.target; if (t instanceof Element && (t.closest('.glossary-popover') || t.closest('.game-token'))) return; setActiveToken(null); };
+    document.addEventListener('pointerdown', close); return () => document.removeEventListener('pointerdown', close);
+  }, [activeToken]);
+
+  const rarities = useMemo(() => ['Tất cả', ...tierOrder.filter(r => (catalog?.heroes || []).some(h => h.rarity === r))], [catalog]);
+  const filtered = useMemo(() => { const q = query.trim().toLocaleLowerCase(); return (catalog?.heroes || []).filter(h => (rarity === 'Tất cả' || h.rarity === rarity) && (!q || Object.values(h.name).some(n => String(n).toLocaleLowerCase().includes(q)))); }, [catalog, query, rarity]);
+  const currentIndex = catalog?.heroes.findIndex(h => h.id === selectedId) ?? -1;
+  const moveHero = (d: number) => { if (catalog?.heroes.length) setSelectedId(catalog.heroes[(currentIndex + d + catalog.heroes.length) % catalog.heroes.length].id); };
+  const skill = hero?.skills[activeSkill];
+  const picture = hero?.assets.portraitFile ? `/portraits/${hero.assets.portraitFile}` : '';
+
+  return <main className="shiki-shell">
+    <div className="scene" aria-hidden="true" />
+    <header className="topbar">
+      <button className="icon-button" onClick={() => setShowLibrary(v => !v)} aria-label="Mở thư viện"><ListFilter /></button>
+      <div className="brand-lockup"><span>ONMYOJI • THƯ VIỆN THỨC THẦN</span><strong>{catalog?.count || 266} thức thần</strong></div>
+      <label className="searchbox"><Search size={18} /><input value={query} onChange={e => { setQuery(e.target.value); setShowLibrary(true); }} placeholder="Tìm tên Việt, Anh hoặc Trung" /></label>
+      <div className="language-tabs">{languages.map(l => <button key={l.id} className={language === l.id ? 'active' : ''} onClick={() => { setLanguage(l.id); setActiveToken(null); }}>{l.label}</button>)}</div>
+    </header>
+    <aside className={`library-drawer ${showLibrary ? 'open' : ''}`}>
+      <div className="library-heading"><div><b>Danh sách thức thần</b><small>{filtered.length} kết quả</small></div><button onClick={() => setShowLibrary(false)}><X /></button></div>
+      <div className="rarity-filter">{rarities.map(r => <button key={r} className={rarity === r ? 'active' : ''} onClick={() => setRarity(r)}>{r}</button>)}</div>
+      <div className="hero-list">{filtered.map(h => <button key={h.id} className={h.id === selectedId ? 'selected' : ''} onClick={() => { setSelectedId(h.id); setShowLibrary(false); }}>
+        <span className="hero-thumb">{h.assets.headIconFile && <img src={`/head-icons/${h.assets.headIconFile}`} alt="" onError={e => { e.currentTarget.style.display = 'none'; }} />}<i>{h.rarity}</i></span>
+        <span><strong>{h.name[language] || h.name.en || `#${h.id}`}</strong><small>{language === 'vi' ? h.name.en : h.name.vi} · #{h.id}</small></span>
+      </button>)}</div>
+    </aside>
+    {showLibrary && <button className="drawer-scrim" onClick={() => setShowLibrary(false)} />}
+    {loading || !hero ? <section className="empty-state"><span className="loader" /><h1>Đang nạp dữ liệu…</h1></section> : !skill ? <section className="empty-state"><h1>Chưa nhập kỹ năng</h1><p>Hãy bổ sung kỹ năng trong file Excel thủ công.</p></section> :
+      <section className="workspace">
+        <aside className="identity-panel">
+          <UiIcon kind="rarities" name={hero.rarity} className="rarity" />
+          <div className="character-frame">{picture && <img src={picture} alt={hero.name[language]} onError={e => { e.currentTarget.style.display = 'none'; e.currentTarget.parentElement?.classList.add('missing'); }} />}<div className="character-fade" /></div>
+          <div className="identity-copy"><span>Thức thần #{hero.id}</span><h1>{hero.name[language]}</h1><p>{language === 'vi' ? hero.name.en : hero.name.vi}</p></div>
+          <button className="switch-arrow left" onClick={() => moveHero(-1)}><ChevronLeft /></button><button className="switch-arrow right" onClick={() => moveHero(1)}><ChevronRight /></button>
+        </aside>
+        <section className="info-card">
+          <div className="card-heading"><div><span>THÔNG TIN THỨC THẦN</span><h2>Lv. <strong>{hero.level}</strong>/{hero.maxLevel}</h2></div><span className="status-chip">{hero.statState === 'EVOLVED' ? 'Evolved Lv.40' : hero.statState === 'SP_NO_EVO' ? 'SP · Lv.40' : 'Lv.40'}</span></div>
+          <div className="stats-grid">{hero.stats.map(s => <div className="stat-row" key={s.key}><UiIcon kind="grades" name={String(s.grade)} className={`grade grade-${String(s.grade).toLowerCase()}`} /><span>{statLabels[s.key]?.[language] || s.label}</span><strong>{s.value}</strong></div>)}{Object.entries(hero.secondaryStats || {}).map(([k, v]) => <div className="stat-row secondary" key={k}><span>{secondaryLabels[k]?.[language] || k}</span><strong>{v}</strong></div>)}</div>
+          <div className="skills-dock">{hero.skills.map((s, i) => <button key={`${s.id}-${i}`} className={i === activeSkill ? 'selected' : ''} onClick={() => { setActiveSkill(i); setActiveToken(null); }}><span className={`skill-glyph glyph-${i % 3 + 1}`}>{s.iconFile && <img src={`/skill-icons/${s.iconFile}`} alt="" onError={e => { e.currentTarget.style.display = 'none'; e.currentTarget.parentElement?.classList.add('icon-missing'); }} />}<i>{i + 1}</i></span><b>{s.maxLevel}</b><small>{s.name[language]}</small></button>)}</div>
+        </section>
+        <article className="skill-scroll">
+          <header className="skill-heading"><div className={`large-glyph glyph-${activeSkill % 3 + 1}`}>{skill.iconFile && <img src={`/skill-icons/${skill.iconFile}`} alt="" onError={e => { e.currentTarget.style.display = 'none'; e.currentTarget.parentElement?.classList.add('icon-missing'); }} />}<i>{activeSkill + 1}</i></div><div><span>KỸ NĂNG CẤP TỐI ĐA • Lv.{skill.maxLevel}</span><h2>{skill.name[language]}</h2><p>{skill.intro[language]}</p></div>{skill.orbCost > 0 && <div className="orb-cost"><Flame size={18} />{skill.orbCost}</div>}</header>
+          <div className="skill-body"><div className="skill-tags"><span>Chiến đấu</span><span>{skill.maxLevel > 1 ? 'Có thể nâng cấp' : 'Kỹ năng đặc biệt'}</span></div><p className="description"><RichText text={skill.description[language]} language={language} glossary={glossary} onToken={setActiveToken} /></p>{skill.upgrades?.length > 0 && <div className="upgrade-list"><h3>{language === 'vi' ? 'Hiệu quả nâng cấp' : language === 'en' ? 'Upgrade effects' : '升级效果'}</h3>{skill.upgrades.map(u => <div key={u.level}><b>Lv.{u.level}</b><p><RichText text={u.text[language]} language={language} glossary={glossary} onToken={setActiveToken} /></p></div>)}</div>}</div>
+          {activeToken && glossary[activeToken] && <aside className="glossary-popover"><button className="close-popover" onClick={() => setActiveToken(null)}><X size={16} /></button><span className={`glossary-kind ${glossary[activeToken].kind}`}>{glossary[activeToken].kind === 'buff' ? 'BUFF / DẤU ẤN' : 'THUẬT NGỮ'}</span><div className="glossary-title">{glossary[activeToken].iconFile && <img src={`/buff-icons/${glossary[activeToken].iconFile}`} alt="" onError={e => { e.currentTarget.style.display = 'none'; }} />}<h3>{glossary[activeToken].title[language] || `[${activeToken}]`}</h3></div><p><RichText text={glossary[activeToken].description[language]} language={language} glossary={glossary} onToken={setActiveToken} /></p></aside>}
+        </article>
+      </section>}
+  </main>;
 }

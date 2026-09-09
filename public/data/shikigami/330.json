@@ -6,13 +6,11 @@
     "zh": "不知火"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 49, 5]",
-    "en": "[1, 49, 5]",
-    "zh": "[1, 49, 5]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 107,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3301,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Sơ Vũ",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3301",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3301.png"
     },
     {
       "id": 3302,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Ly Ảnh",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3302",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3302.png"
     },
     {
       "id": 3303,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Tinh Hỏa Mãn Thiên",
@@ -310,41 +247,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3303",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3303.png"
     }
   ],
   "assets": {
-    "portraitKey": "buzhihuo",
-    "headKey": "h_buzhihuo",
-    "armature": "",
-    "artName": "txt_zhanshi_buzhihuo",
-    "skillIconKeys": [
-      "3301",
-      "3302",
-      "3303"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_buzhihuo.png"
+  }
 }

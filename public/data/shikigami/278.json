@@ -6,13 +6,11 @@
     "zh": "白童子"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 8]",
-    "en": "[1, 8]",
-    "zh": "[1, 8]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 103,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2781,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tội Phạt·Bạch",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2781",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2781.png"
     },
     {
       "id": 2783,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Chiêu Hồn",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2783",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2783.png"
     }
   ],
   "assets": {
-    "portraitKey": "baitongzi",
-    "headKey": "h_baitongzi",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2781",
-      "2783"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_baitongzi.png"
+  }
 }

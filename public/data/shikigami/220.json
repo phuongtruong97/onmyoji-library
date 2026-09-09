@@ -6,13 +6,11 @@
     "zh": "犬神"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 28]",
-    "en": "[1, 28]",
-    "zh": "[1, 28]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 99,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2201,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tâm Trảm",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2201",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2201.png"
     },
     {
       "id": 2203,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Tâm Kiếm Loạn Vũ",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2203",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2203.png"
     }
   ],
   "assets": {
-    "portraitKey": "quanshen",
-    "headKey": "h_quanshen",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2201",
-      "2203"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "quanshen.png",
+    "headIconFile": "h_quanshen.png"
+  }
 }

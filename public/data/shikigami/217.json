@@ -6,13 +6,11 @@
     "zh": "大天狗"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 104,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2171,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Tập",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2171",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2171.png"
     },
     {
       "id": 2172,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Cương Thiết Chi Vũ",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2172",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2172.png"
     },
     {
       "id": 2173,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "羽刃暴风",
@@ -258,43 +215,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "2173",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2173.png"
     }
   ],
   "assets": {
-    "portraitKey": "datiangou",
-    "headKey": "h_datiangou",
-    "armature": "",
-    "artName": "txt_zhanshi_datiangou",
-    "skillIconKeys": [
-      "2171",
-      "2172",
-      "2173"
-    ]
-  },
-  "unresolvedTokens": [
-    "skill_2173_1"
-  ]
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

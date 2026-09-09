@@ -6,13 +6,11 @@
     "zh": "本真三尾狐"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 115,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5591,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Nhiếp Tâm",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5591",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5591.png"
     },
     {
       "id": 5592,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Linh Hợp",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5592",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5592.png"
     },
     {
       "id": 5593,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Hồ Hoặc Mị Ảnh",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "5593",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5593.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_sanweihu",
-    "headKey": "h_sp_sanweihu",
-    "armature": [
-      "sp_sanweihu_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_benzhensanweihu",
-    "skillIconKeys": [
-      "5591",
-      "5592",
-      "5593"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_sp_sanweihu.png"
+  }
 }

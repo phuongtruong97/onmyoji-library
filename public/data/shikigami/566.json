@@ -6,13 +6,11 @@
     "zh": "晨晖惠比寿"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[37, 18, 9]",
-    "en": "[37, 18, 9]",
-    "zh": "[37, 18, 9]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 115,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5661,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Lễ Giáo",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5661",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5661.png"
     },
     {
       "id": 5662,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Hồng Phúc Giáng Lâm",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5662",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5662.png"
     },
     {
       "id": 5663,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Ủy Dĩ Trọng Trách",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5663",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5663.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_huibishou",
-    "headKey": "h_sp_huibishou",
-    "armature": [
-      "sp_huibishou_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_sphuibishou",
-    "skillIconKeys": [
-      "5661",
-      "5662",
-      "5663"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

@@ -6,13 +6,11 @@
     "zh": "初音未来"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[12, 6, 37]",
-    "en": "[12, 6, 37]",
-    "zh": "[12, 6, 37]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 106,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5631,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Âm Huyền Động",
@@ -136,52 +135,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5631",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "5631.png"
     },
     {
       "id": 5632,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Âm Luật Khởi",
@@ -265,52 +223,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5632",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "5632.png"
     },
     {
       "id": 5633,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Âm Chi Vũ Khúc",
@@ -362,41 +279,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5633",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5633.png"
     }
   ],
   "assets": {
-    "portraitKey": "chuyinweilai",
-    "headKey": "h_chuyinweilai",
-    "armature": "",
-    "artName": "txt_zhanshi_chuyinweilai",
-    "skillIconKeys": [
-      "5631",
-      "5632",
-      "5633"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "chuyinweilai.png",
+    "headIconFile": ""
+  }
 }

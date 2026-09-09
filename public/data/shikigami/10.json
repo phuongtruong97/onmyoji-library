@@ -5,14 +5,12 @@
     "en": "Seimei",
     "zh": "晴明"
   },
-  "rarity": "SSR",
+  "rarity": "Onmyoji",
+  "tier": "Onmyoji",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "",
-    "en": "",
-    "zh": ""
-  },
+  "statState": "ONMYOJI",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 100,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 1003,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "基础术式",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "1003",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "1003.png"
     },
     {
       "id": 1009,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Ngôn Linh • Phược",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "1009",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "1009.png"
     },
     {
       "id": 1011,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "言灵·守",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "1011",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "1011.png"
     }
   ],
   "assets": {
-    "portraitKey": "zhujue01",
-    "headKey": "h_zhujue01",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "1003",
-      "1009",
-      "1011"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "zhujue01.png",
+    "headIconFile": "h_zhujue01.png"
+  }
 }

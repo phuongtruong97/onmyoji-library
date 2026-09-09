@@ -6,13 +6,11 @@
     "zh": "盗墓小鬼"
   },
   "rarity": "N",
+  "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 100,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 4001,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Bất Tường Hắc Hỏa",
@@ -104,39 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "4001",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "4001.png"
     }
   ],
   "assets": {
-    "portraitKey": "daomuxiaogui",
-    "headKey": "h_daomuxiaogui",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "4001"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "daomuxiaogui.png",
+    "headIconFile": "h_daomuxiaogui.png"
+  }
 }

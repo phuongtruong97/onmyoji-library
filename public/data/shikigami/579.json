@@ -6,13 +6,11 @@
     "zh": "瑶音紧那罗"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 115,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5791,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Dục Âm Nhĩ Sinh",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5791",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5791.png"
     },
     {
       "id": 5792,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Dạ Âm Đồng Tấu",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5792",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5792.png"
     },
     {
       "id": 5793,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Thế Gian Chi Khúc",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5793",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5793.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_jinnaluo",
-    "headKey": "h_sp_jinnaluo",
-    "armature": [
-      "common_card_skin/25sp_jinnaluo_card",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_spjinnaluo",
-    "skillIconKeys": [
-      "5791",
-      "5792",
-      "5793"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "sp_jinnaluo.png",
+    "headIconFile": ""
+  }
 }

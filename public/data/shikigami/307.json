@@ -6,13 +6,11 @@
     "zh": "猫掌柜"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 108,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3071,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Miêu Miêu Triệu Đến",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3071",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3071.png"
     },
     {
       "id": 3072,
+      "number": 2,
       "maxLevel": 2,
       "name": {
         "vi": "Miêu Hợp Chiến",
@@ -148,28 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "3072",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "3072.png"
     },
     {
       "id": 3073,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Miêu Miêu Loạn Đả",
@@ -221,41 +182,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3073",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3073.png"
     }
   ],
   "assets": {
-    "portraitKey": "maoyou",
-    "headKey": "h_maoyou",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3071",
-      "3072",
-      "3073"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_maoyou.png"
+  }
 }

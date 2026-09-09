@@ -6,13 +6,11 @@
     "zh": "天火命铃彦姬"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 37]",
-    "en": "[1, 37]",
-    "zh": "[1, 37]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 114,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 6021,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Linh Đao",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "6021",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "6021.png"
     },
     {
       "id": 6022,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Phần Tâm Chiếu Dạ",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "6022",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "6022.png"
     },
     {
       "id": 6023,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Cùng Ta Bùng Cháy",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "6023",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "6023.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_lingyanji",
-    "headKey": "h_sp_lingyanji",
-    "armature": [
-      "common_card_skin/2605_sp_lyj_card_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_splingyanji",
-    "skillIconKeys": [
-      "6021",
-      "6022",
-      "6023"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

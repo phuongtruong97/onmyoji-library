@@ -6,13 +6,11 @@
     "zh": "蝎女"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[43]",
-    "en": "[43]",
-    "zh": "[43]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 97,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3501,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Hạt Thích",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3501",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3501.png"
     },
     {
       "id": 3502,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Dĩ Độc Công Độc",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3502",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3502.png"
     },
     {
       "id": 3503,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Bách Hạt Chi Độc",
@@ -310,41 +247,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3503",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3503.png"
     }
   ],
   "assets": {
-    "portraitKey": "xienv",
-    "headKey": "h_xienv",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3501",
-      "3502",
-      "3503"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "xienv.png",
+    "headIconFile": "h_xienv.png"
+  }
 }

@@ -5,14 +5,12 @@
     "en": "Hiromasa",
     "zh": "源博雅"
   },
-  "rarity": "SSR",
+  "rarity": "Onmyoji",
+  "tier": "Onmyoji",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "",
-    "en": "",
-    "zh": ""
-  },
+  "statState": "ONMYOJI",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 100,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 1301,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "破魔矢",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "1301",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "1301.png"
     },
     {
       "id": 1302,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Đa Trọng Tiễn",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "1302",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "1302.png"
     },
     {
       "id": 1303,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "诛邪箭",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "1303",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "1303.png"
     }
   ],
   "assets": {
-    "portraitKey": "zhujue04",
-    "headKey": "h_zhujue04",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "1301",
-      "1302",
-      "1303"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_zhujue04.png"
+  }
 }

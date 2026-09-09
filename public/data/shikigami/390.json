@@ -6,13 +6,11 @@
     "zh": "神启荒"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 116,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3901,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Vận Tinh",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3901",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3901.png"
     },
     {
       "id": 3902,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Tinh La Vân Bố",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3902",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3902.png"
     },
     {
       "id": 3903,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Tinh Lưu Đình Kích",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3903",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3903.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_huang",
-    "headKey": "h_sp_huang",
-    "armature": [
-      "sp_huang_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_sp_huang",
-    "skillIconKeys": [
-      "3901",
-      "3902",
-      "3903"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_sp_huang.png"
+  }
 }

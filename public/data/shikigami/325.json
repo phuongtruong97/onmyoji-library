@@ -6,13 +6,11 @@
     "zh": "八岐大蛇"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 11, 37]",
-    "en": "[1, 11, 37]",
-    "zh": "[1, 11, 37]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 108,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3251,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Hồn Phách Toái Liệt",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3251",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3251.png"
     },
     {
       "id": 3252,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Bất Khiết Chi Lực",
@@ -213,52 +191,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3252",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3252.png"
     },
     {
       "id": 3253,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Niệm Chi Ảnh",
@@ -310,43 +247,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3253",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3253.png"
     }
   ],
   "assets": {
-    "portraitKey": "dasheshen",
-    "headKey": "h_dasheshen",
-    "armature": "",
-    "artName": "txt_zhanshi_baqidashe",
-    "skillIconKeys": [
-      "3251",
-      "3252",
-      "3253"
-    ]
-  },
-  "unresolvedTokens": [
-    "buff_3253"
-  ]
+    "portraitFile": "dasheshen.png",
+    "headIconFile": "h_dasheshen.png"
+  }
 }

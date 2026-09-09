@@ -6,13 +6,11 @@
     "zh": "龙吟铃鹿御前"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 37]",
-    "en": "[1, 37]",
-    "zh": "[1, 37]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 117,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5681,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Lộc Hồn · Phá Nhẫn",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5681",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5681.png"
     },
     {
       "id": 5682,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Lộc Hồn · Cộng Phó",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5682",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5682.png"
     },
     {
       "id": 5683,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Lộc Hồn · Viễn Chinh",
@@ -258,47 +215,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5683",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5683.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_lingluyuqian",
-    "headKey": "h_sp_lingluyuqian",
-    "armature": [
-      "sp_linluyuqian_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_splingluyuqian",
-    "skillIconKeys": [
-      "5681",
-      "5682",
-      "5683"
-    ]
-  },
-  "unresolvedTokens": [
-    "tips_6"
-  ]
+    "portraitFile": "sp_lingluyuqian.png",
+    "headIconFile": "h_sp_lingluyuqian.png"
+  }
 }

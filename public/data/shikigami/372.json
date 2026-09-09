@@ -6,13 +6,11 @@
     "zh": "因幡辉夜姬"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[37, 6]",
-    "en": "[37, 6]",
-    "zh": "[37, 6]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 113,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3721,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Lưu Ly Quang",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3721",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3721.png"
     },
     {
       "id": 3722,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Nguyện Mãn Dạ",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3722",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3722.png"
     },
     {
       "id": 3723,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Tịch Quang Ánh Nguyệt",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3723",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3723.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_huiyeji",
-    "headKey": "h_sp_huiyeji",
-    "armature": "",
-    "artName": "txt_zhanshi_sphuiyeji",
-    "skillIconKeys": [
-      "3721",
-      "3722",
-      "3723"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "sp_huiyeji.png",
+    "headIconFile": ""
+  }
 }

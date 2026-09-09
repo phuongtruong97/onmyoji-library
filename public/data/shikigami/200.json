@@ -6,13 +6,11 @@
     "zh": "桃花妖"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[37, 10, 13]",
-    "en": "[37, 10, 13]",
-    "zh": "[37, 10, 13]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 90,
       "grade": "D"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2001,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Hoa Vũ",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2001",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2001.png"
     },
     {
       "id": 2002,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Hoa Chi Hinh Tức",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2002",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2002.png"
     },
     {
       "id": 2003,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Đào Hoa Chước Chước",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2003",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2003.png"
     }
   ],
   "assets": {
-    "portraitKey": "taohuayao",
-    "headKey": "h_taohuayao",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2001",
-      "2002",
-      "2003"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

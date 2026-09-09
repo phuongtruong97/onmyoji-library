@@ -6,13 +6,11 @@
     "zh": "心狩鬼女红叶"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 41, 43]",
-    "en": "[1, 41, 43]",
-    "zh": "[1, 41, 43]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 114,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3881,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Ô Lăng",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3881",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3881.png"
     },
     {
       "id": 3882,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Kinh Sương",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3882",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3882.png"
     },
     {
       "id": 3883,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Khởi Chi Vũ",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3883",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3883.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_guinvhongye",
-    "headKey": "h_sp_guinvhongye",
-    "armature": [
-      "sphongyecard_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_spguinvhongye",
-    "skillIconKeys": [
-      "3881",
-      "3882",
-      "3883"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

@@ -6,13 +6,11 @@
     "zh": "千姬"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[6, 1, 12]",
-    "en": "[6, 1, 12]",
-    "zh": "[6, 1, 12]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 111,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3561,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Tịch",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3561",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3561.png"
     },
     {
       "id": 3562,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Tịch Mộng",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3562",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3562.png"
     },
     {
       "id": 3563,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Hải Triều Nhập Mộng",
@@ -290,63 +247,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3563",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3563.png"
     }
   ],
   "assets": {
-    "portraitKey": "qianji",
-    "headKey": "h_qianji",
-    "armature": "",
-    "artName": "txt_zhanshi_qianji",
-    "skillIconKeys": [
-      "3561",
-      "3562",
-      "3563"
-    ]
-  },
-  "unresolvedTokens": [
-    "skill_3564_1"
-  ]
+    "portraitFile": "qianji.png",
+    "headIconFile": ""
+  }
 }

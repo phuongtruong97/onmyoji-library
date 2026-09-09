@@ -6,13 +6,11 @@
     "zh": "万年竹"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 28, 30]",
-    "en": "[1, 28, 30]",
-    "zh": "[1, 28, 30]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 105,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2751,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Địch Trung Kiếm",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2751",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2751.png"
     },
     {
       "id": 2752,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Trúc Diệp Bảo Hộ",
@@ -148,16 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "2752",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2752.png"
     },
     {
       "id": 2753,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Trúc Ngữ",
@@ -209,41 +182,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "2753",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2753.png"
     }
   ],
   "assets": {
-    "portraitKey": "wannianzhu",
-    "headKey": "h_wannianzhu",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2751",
-      "2752",
-      "2753"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "wannianzhu.png",
+    "headIconFile": ""
+  }
 }

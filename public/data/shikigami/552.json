@@ -6,13 +6,11 @@
     "zh": "慧明灯"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[9, 17]",
-    "en": "[9, 17]",
-    "zh": "[9, 17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 112,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5521,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tịnh Uế",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5521",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5521.png"
     },
     {
       "id": 5522,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Nghiệp Hồi",
@@ -148,16 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "5522",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5522.png"
     },
     {
       "id": 5523,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Chính Niệm",
@@ -209,41 +182,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "5523",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5523.png"
     }
   ],
   "assets": {
-    "portraitKey": "huimingdeng",
-    "headKey": "h_huimingdeng",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "5521",
-      "5522",
-      "5523"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

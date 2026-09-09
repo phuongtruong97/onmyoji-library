@@ -6,37 +6,35 @@
     "zh": "天逆每"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17]",
-    "en": "[17]",
-    "zh": "[17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "DA_KIEM_TRA_ANH",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 1661,
+      "value": 1903,
       "grade": "D"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12645,
+      "value": 13671,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 436,
-      "grade": "B"
+      "value": 481,
+      "grade": "A"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3981,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Cụ Trung Nhân",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3985",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3985.png"
     },
     {
       "id": 3982,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Cụ Ảnh Tùy",
@@ -148,16 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 2,
-      "iconKey": "3982",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3982.png"
     },
     {
       "id": 3983,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Cụ Bát Chi Phong",
@@ -241,63 +214,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3983",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3983.png"
     }
   ],
   "assets": {
-    "portraitKey": "tiannimei",
-    "headKey": "h_tiannimei",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "3985",
-      "3982",
-      "3983"
-    ]
-  },
-  "unresolvedTokens": [
-    "skill_3983_1"
-  ]
+    "portraitFile": "",
+    "headIconFile": "h_tiannimei.png"
+  }
 }

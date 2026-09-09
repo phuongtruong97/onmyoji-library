@@ -6,13 +6,11 @@
     "zh": "少羽大天狗"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "D"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 112,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3151,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Triền",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3151",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3151.png"
     },
     {
       "id": 3152,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Ấu Vũ",
@@ -148,16 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconKey": "3152",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3152.png"
     },
     {
       "id": 3153,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Vũ Nhẫn Chi Phong",
@@ -209,41 +182,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3153",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3153.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_xiaotiangou",
-    "headKey": "j_shaoyudatiangou",
-    "armature": "",
-    "artName": "txt_zhanshi_shaoyudatiangou",
-    "skillIconKeys": [
-      "3151",
-      "3152",
-      "3153"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

@@ -6,13 +6,11 @@
     "zh": "食发鬼"
   },
   "rarity": "R",
+  "tier": "R",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[18, 17]",
-    "en": "[18, 17]",
-    "zh": "[18, 17]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 108,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2211,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Phát Bức",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2211",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2211.png"
     },
     {
       "id": 2212,
+      "number": 2,
       "maxLevel": 1,
       "name": {
         "vi": "Mê Yên",
@@ -148,16 +126,11 @@
       },
       "upgrades": [],
       "orbCost": 3,
-      "iconKey": "2212",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2212.png"
     },
     {
       "id": 2213,
+      "number": 3,
       "maxLevel": 7,
       "name": {
         "vi": "真实之颜",
@@ -289,89 +262,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2213",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 2
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 2
-        },
-        {
-          "level": 6,
-          "awakeFilter": 2
-        },
-        {
-          "level": 7,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "2213.png"
     }
   ],
   "assets": {
-    "portraitKey": "shifagui",
-    "headKey": "h_shifagui",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2211",
-      "2212",
-      "2213"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "shifagui.png",
+    "headIconFile": ""
+  }
 }

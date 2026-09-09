@@ -6,13 +6,11 @@
     "zh": "泷夜叉姬"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "D"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 110,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3381,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Nguyệt Đoạn",
@@ -136,52 +135,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3381",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3381.png"
     },
     {
       "id": 3382,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Nguyệt Chi Áo Nghĩa",
@@ -233,32 +191,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "3382",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3382.png"
     },
     {
       "id": 3383,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Tàn Dương Vô Ảnh",
@@ -310,41 +247,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3383",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3383.png"
     }
   ],
   "assets": {
-    "portraitKey": "longyechaji",
-    "headKey": "h_longyechaji",
-    "armature": "",
-    "artName": "txt_zhanshi_longyechaji",
-    "skillIconKeys": [
-      "3381",
-      "3382",
-      "3383"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_longyechaji.png"
+  }
 }

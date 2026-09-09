@@ -6,13 +6,11 @@
     "zh": "日和坊"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[13, 10]",
-    "en": "[13, 10]",
-    "zh": "[13, 10]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 102,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2971,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Dương Viêm",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2971",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2971.png"
     },
     {
       "id": 2972,
+      "number": 2,
       "maxLevel": 3,
       "name": {
         "vi": "Tình Vũ",
@@ -157,32 +135,11 @@
         }
       ],
       "orbCost": 1,
-      "iconKey": "2972",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 1,
-          "awakeFilter": 2
-        },
-        {
-          "level": 2,
-          "awakeFilter": 2
-        },
-        {
-          "level": 3,
-          "awakeFilter": 2
-        }
-      ]
+      "iconFile": "2972.png"
     },
     {
       "id": 2973,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Tư Dưỡng",
@@ -234,41 +191,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2973",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2973.png"
     }
   ],
   "assets": {
-    "portraitKey": "rihefang",
-    "headKey": "h_rihefang",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2971",
-      "2972",
-      "2973"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": ""
+  }
 }

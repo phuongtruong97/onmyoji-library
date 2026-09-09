@@ -6,13 +6,11 @@
     "zh": "寻香行"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 43]",
-    "en": "[1, 43]",
-    "zh": "[1, 43]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 107,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3911,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Ngự Hương Dẫn",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3911",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3911.png"
     },
     {
       "id": 3912,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Phược Mộng Minh Hương",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3912",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3912.png"
     },
     {
       "id": 3913,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Bồ Đề Nguyện",
@@ -290,61 +247,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3913",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3913.png"
     }
   ],
   "assets": {
-    "portraitKey": "xunxiangxing",
-    "headKey": "h_xunxiangxing",
-    "armature": "",
-    "artName": "txt_zhanshi_xunxiangxing",
-    "skillIconKeys": [
-      "3911",
-      "3912",
-      "3913"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "xunxiangxing.png",
+    "headIconFile": "h_xunxiangxing.png"
+  }
 }

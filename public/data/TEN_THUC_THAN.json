@@ -1,0 +1,3751 @@
+{
+  "tierOrder": [
+    "Onmyoji",
+    "UR",
+    "SP",
+    "SSR",
+    "SR",
+    "R",
+    "N"
+  ],
+  "tiers": {
+    "Onmyoji": [
+      {
+        "id": 10,
+        "name": {
+          "vi": "Seimei",
+          "en": "Seimei",
+          "zh": "晴明"
+        },
+        "rarity": "Onmyoji",
+        "tier": "Onmyoji",
+        "assets": {
+          "portraitFile": "zhujue01.png",
+          "headIconFile": "h_zhujue01.png"
+        }
+      },
+      {
+        "id": 11,
+        "name": {
+          "vi": "Thần Lạc",
+          "en": "Kagura",
+          "zh": "神乐"
+        },
+        "rarity": "Onmyoji",
+        "tier": "Onmyoji",
+        "assets": {
+          "portraitFile": "zhujue02.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 12,
+        "name": {
+          "vi": "Bát Bách Tỉ Khâu Ni",
+          "en": "Yao Bikuni",
+          "zh": "八百比丘尼"
+        },
+        "rarity": "Onmyoji",
+        "tier": "Onmyoji",
+        "assets": {
+          "portraitFile": "zhujue03.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 13,
+        "name": {
+          "vi": "Nguồn Bác Nhã",
+          "en": "Hiromasa",
+          "zh": "源博雅"
+        },
+        "rarity": "Onmyoji",
+        "tier": "Onmyoji",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_zhujue04.png"
+        }
+      }
+    ],
+    "UR": [
+      {
+        "id": 593,
+        "name": {
+          "vi": "Yoto Hime · Phi Dạ Lạp Nhận",
+          "en": "Yoto Hime, Scarlet Nightedge",
+          "zh": "妖刀姬·绯夜猎刃"
+        },
+        "rarity": "UR",
+        "tier": "UR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      }
+    ],
+    "SP": [
+      {
+        "id": 315,
+        "name": {
+          "vi": "Thiếu Vũ Đại Thiên Cẩu",
+          "en": "Jr. Ootengu",
+          "zh": "少羽大天狗"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 322,
+        "name": {
+          "vi": "Luyện Ngục Tỳ Mộc Đồng Tử",
+          "en": "Inferno Ibaraki Doji",
+          "zh": "炼狱茨木童子"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 326,
+        "name": {
+          "vi": "Đạo Hà Thần Ngự Xam Tân",
+          "en": "Divine Miketsu",
+          "zh": "稻荷神御馔津"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 327,
+        "name": {
+          "vi": "Thương Phong Nhất Mục Liên",
+          "en": "Azurestorm Ichimokuren",
+          "zh": "苍风一目连"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 328,
+        "name": {
+          "vi": "Xích Ảnh Yêu Đao Cơ",
+          "en": "Crimson Yoto",
+          "zh": "赤影妖刀姬"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 331,
+        "name": {
+          "vi": "Quỷ Thiết Ngự Uyên",
+          "en": "Vengeful Hannya",
+          "zh": "御怨般若"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 334,
+        "name": {
+          "vi": "Thao Lang Arakawa no Aruji",
+          "en": "Waverider Lord Arakawa",
+          "zh": "骁浪荒川之主"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "j_sphuangchuan.png"
+        }
+      },
+      {
+        "id": 339,
+        "name": {
+          "vi": "Tẫn Thiên Ngọc Tảo Tiền",
+          "en": "Blazing Tamamonomae",
+          "zh": "烬天玉藻前"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "j_spyuzaoqian.png"
+        }
+      },
+      {
+        "id": 341,
+        "name": {
+          "vi": "Quỷ Vương Tửu Thốn Đồng Tử",
+          "en": "Demoniac Shuten Doji",
+          "zh": "鬼王酒吞童子"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "j_spjiutuntongzi.png"
+        }
+      },
+      {
+        "id": 343,
+        "name": {
+          "vi": "Thiên Kiếm Nhẫn Tâm Quỷ Thiết",
+          "en": "Onikiri Reforged",
+          "zh": "天剑韧心鬼切"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 346,
+        "name": {
+          "vi": "Linh Hải Kim Ngư Cơ",
+          "en": "Seawatch Kingyo",
+          "zh": "聆海金鱼姬"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 348,
+        "name": {
+          "vi": "Phù Thế Thanh Hành Đăng",
+          "en": "Worldly Aoandon",
+          "zh": "浮世青行灯"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_spqingxingdeng.png"
+        }
+      },
+      {
+        "id": 352,
+        "name": {
+          "vi": "Phược Cốt Thanh Cơ",
+          "en": "Lovebound Kiyohime",
+          "zh": "缚骨清姬"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 354,
+        "name": {
+          "vi": "Đãi Tiêu Cô Hoạch Điểu",
+          "en": "Guardian Ubume",
+          "zh": "待宵姑获鸟"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 355,
+        "name": {
+          "vi": "Lộc Minh Đại Nhạc Hoàn",
+          "en": "Monumental Otakemaru",
+          "zh": "麓铭大岳丸"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 357,
+        "name": {
+          "vi": "Sơ Vũ Sơn Phong",
+          "en": "Valiant Yamakaze",
+          "zh": "初翎山风"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_spshanfeng.png"
+        }
+      },
+      {
+        "id": 358,
+        "name": {
+          "vi": "Dạ Mịch Bỉ Ngạn Hoa",
+          "en": "Nightveil Higanbana",
+          "zh": "夜溟彼岸花"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 362,
+        "name": {
+          "vi": "Thiền Băng Tuyết Nữ",
+          "en": "Frosty Yuki Onna",
+          "zh": "蝉冰雪女"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 366,
+        "name": {
+          "vi": "Menreiki Không Tướng",
+          "en": "Void Menreiki",
+          "zh": "空相面灵气"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_sp_mianlingqi_bai.png"
+        }
+      },
+      {
+        "id": 367,
+        "name": {
+          "vi": "Họa Thế Hoa Điểu Quyển",
+          "en": "Virtuoso Hana",
+          "zh": "绘世花鸟卷"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 372,
+        "name": {
+          "vi": "Nhân Phiên Huy Dạ Cơ",
+          "en": "Inaba Kaguya",
+          "zh": "因幡辉夜姬"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_huiyeji.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 377,
+        "name": {
+          "vi": "Mộng Tầm Sơn Thỏ",
+          "en": "Ninja Yamausagi",
+          "zh": "梦寻山兔"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_sp_shantu.png"
+        }
+      },
+      {
+        "id": 383,
+        "name": {
+          "vi": "Thần Đọa Bát Kỳ Đại Xà",
+          "en": "Fallen God Orochi",
+          "zh": "神堕八岐大蛇"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_baqidashe.png",
+          "headIconFile": "h_sp_baqidashe.png"
+        }
+      },
+      {
+        "id": 385,
+        "name": {
+          "vi": "Oyamatsumi Enma",
+          "en": "Yamalord Enma",
+          "zh": "大夜摩天阎魔"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_sp_yanmo.png"
+        }
+      },
+      {
+        "id": 388,
+        "name": {
+          "vi": "Tâm Thú Quỷ Nữ Hồng Diệp",
+          "en": "Heartseeker Momiji",
+          "zh": "心狩鬼女红叶"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 390,
+        "name": {
+          "vi": "Thần Khải Hoang",
+          "en": "Divine Prophet Susabi",
+          "zh": "神启荒"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_sp_huang.png"
+        }
+      },
+      {
+        "id": 393,
+        "name": {
+          "vi": "Thiền Tâm Vân Ngoại Kính",
+          "en": "Zen Ungaikyo",
+          "zh": "禅心云外镜"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_yunwaijing.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 395,
+        "name": {
+          "vi": "Lưu Quang Truy Nguyệt Thần",
+          "en": "Luminary Oitsuki",
+          "zh": "流光追月神"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_zhuiyueshen.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 396,
+        "name": {
+          "vi": "Tu La Quỷ Đồng Hoàn",
+          "en": "Shura Kidomaru",
+          "zh": "修罗鬼童丸"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_guitongwan.png",
+          "headIconFile": "h_sp_guitongwan.png"
+        }
+      },
+      {
+        "id": 551,
+        "name": {
+          "vi": "Tầm Sâm Tiểu Lộc Nam",
+          "en": "Greenwarden Shishio",
+          "zh": "寻森小鹿男"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_spxiaolunan.png"
+        }
+      },
+      {
+        "id": 554,
+        "name": {
+          "vi": "Phưởng Nguyện Duyên Kết Thần",
+          "en": "Bondweaver Enmusubi",
+          "zh": "纺愿缘结神"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "554.jpg",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 555,
+        "name": {
+          "vi": "Miểu Niệm Huỳnh Thảo",
+          "en": "Kusa Regrown",
+          "zh": "渺念萤草"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_sp_yingcao.png"
+        }
+      },
+      {
+        "id": 559,
+        "name": {
+          "vi": "Bản Chân Tam Vĩ Hồ",
+          "en": "Trueself Mio",
+          "zh": "本真三尾狐"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_sp_sanweihu.png"
+        }
+      },
+      {
+        "id": 562,
+        "name": {
+          "vi": "Kình Tịch Senhime",
+          "en": "Senhime Resurgent",
+          "zh": "鲸汐千姬"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_sp_qianji.png"
+        }
+      },
+      {
+        "id": 565,
+        "name": {
+          "vi": "Phúc Duyệt Tọa Phu Đồng Tử",
+          "en": "Fortunegiver Zashiki",
+          "zh": "福悦座敷童子"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 566,
+        "name": {
+          "vi": "Thần Huy Ebisu",
+          "en": "Returner Ebisu",
+          "zh": "晨晖惠比寿"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 568,
+        "name": {
+          "vi": "Long Ngâm Linh Lộc Ngự Tiền",
+          "en": "Draconic Suzuka Gozen",
+          "zh": "龙吟铃鹿御前"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_lingluyuqian.png",
+          "headIconFile": "h_sp_lingluyuqian.png"
+        }
+      },
+      {
+        "id": 572,
+        "name": {
+          "vi": "Dao Niệm Yên Yên La",
+          "en": "Nostalgic Enenra",
+          "zh": "遥念烟烟罗"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_yanyanluo.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 574,
+        "name": {
+          "vi": "Tâm Hữu Khuyển Thần",
+          "en": "Bosombuddy Inugami",
+          "zh": "心友犬神"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_quanshen.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 578,
+        "name": {
+          "vi": "Thần Nhưỡng Tinh Hùng Đồng Tử",
+          "en": "Ambrosial Hoshiguma Doji",
+          "zh": "神酿星熊童子"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_sp_xingxiongtongzi.png"
+        }
+      },
+      {
+        "id": 579,
+        "name": {
+          "vi": "Dao Âm Kagura",
+          "en": "Panharmonic Kinnara",
+          "zh": "瑶音紧那罗"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_jinnaluo.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 580,
+        "name": {
+          "vi": "Tình Tư Nhật Hòa Phường",
+          "en": "Sungraced Hiyoribou",
+          "zh": "晴思日和坊"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_rihefang.png",
+          "headIconFile": "h_sp_rihefang.png"
+        }
+      },
+      {
+        "id": 584,
+        "name": {
+          "vi": "Thời Diệu Thác Dạ Xoa Cơ",
+          "en": "Glorious Takiyashahime",
+          "zh": "时曜泷夜叉姬"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 586,
+        "name": {
+          "vi": "Vân Gian Bất Kiến Nhạc",
+          "en": "Lavaforged Fukengaku",
+          "zh": "云间不见岳"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "sp_bujianyue.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 590,
+        "name": {
+          "vi": "Diệu Chủ Cửu Mệnh Miêu",
+          "en": "Meowlord Kyuumei Neko",
+          "zh": "妙主九命猫"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 594,
+        "name": {
+          "vi": "Mộng Dẫn Hồ Điệp Tinh",
+          "en": "Dreambound Chocho",
+          "zh": "梦引蝴蝶精"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 595,
+        "name": {
+          "vi": "Mộng Sơn Bạch Tàng Chủ",
+          "en": "Hakuzosu Unbound",
+          "zh": "梦山白藏主"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 598,
+        "name": {
+          "vi": "Chước Hoa Đào Yêu",
+          "en": "Everadiant Momo",
+          "zh": "灼华桃花妖"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 599,
+        "name": {
+          "vi": "Thực Nguyệt Hấp Huyết Cơ",
+          "en": "Moonclipse Vampira",
+          "zh": "蚀月吸血姬"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 602,
+        "name": {
+          "vi": "Thiên Hỏa Mệnh Linh Ngạn Cơ",
+          "en": "Ignis Suzuhikohime",
+          "zh": "天火命铃彦姬"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      }
+    ],
+    "SSR": [
+      {
+        "id": 217,
+        "name": {
+          "vi": "Đại Thiên Cẩu",
+          "en": "Ootengu",
+          "zh": "大天狗"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 219,
+        "name": {
+          "vi": "Tửu Thôn Đồng Tử",
+          "en": "Shuten Doji",
+          "zh": "酒吞童子"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "jiutuntongzi.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 248,
+        "name": {
+          "vi": "Hoang Xuyên Chi Chủ",
+          "en": "Lord Arakawa",
+          "zh": "荒川之主"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "heichuanzhu.png",
+          "headIconFile": "h_heichuanzhu.png"
+        }
+      },
+      {
+        "id": 255,
+        "name": {
+          "vi": "Diêm Ma",
+          "en": "Enma",
+          "zh": "阎魔"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_yanmo.png"
+        }
+      },
+      {
+        "id": 258,
+        "name": {
+          "vi": "Ryōmen Botchan",
+          "en": "Ryomen",
+          "zh": "两面佛"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "liangmianfo.png",
+          "headIconFile": "h_liangmianfo.png"
+        }
+      },
+      {
+        "id": 259,
+        "name": {
+          "vi": "Tiểu Lộc Nam",
+          "en": "Shishio",
+          "zh": "小鹿男"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_xiaolunan.png"
+        }
+      },
+      {
+        "id": 265,
+        "name": {
+          "vi": "Tỳ Mộc Đồng Tử",
+          "en": "Ibaraki Doji",
+          "zh": "茨木童子"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_cimutongzi.png"
+        }
+      },
+      {
+        "id": 266,
+        "name": {
+          "vi": "Thanh Hành Đăng",
+          "en": "Aoandon",
+          "zh": "青行灯"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "qingxingdeng.png",
+          "headIconFile": "h_qingxingdeng.png"
+        }
+      },
+      {
+        "id": 269,
+        "name": {
+          "vi": "Yoto Hime",
+          "en": "Yoto Hime",
+          "zh": "妖刀姬"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "yaodaoji.png",
+          "headIconFile": "h_yaodaoji.png"
+        }
+      },
+      {
+        "id": 272,
+        "name": {
+          "vi": "Nhất Mục Liên",
+          "en": "Ichimokuren",
+          "zh": "一目连"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 279,
+        "name": {
+          "vi": "Hoa Điểu Quyển",
+          "en": "Hana",
+          "zh": "花鸟卷"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_huaniaojuan.png"
+        }
+      },
+      {
+        "id": 280,
+        "name": {
+          "vi": "Huy Dạ Cơ",
+          "en": "Kaguya",
+          "zh": "辉夜姬"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "huiyeji.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 283,
+        "name": {
+          "vi": "Hoang",
+          "en": "Susabi",
+          "zh": "荒"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "huang.png",
+          "headIconFile": "h_huang.png"
+        }
+      },
+      {
+        "id": 288,
+        "name": {
+          "vi": "Bỉ Ngạn Hoa",
+          "en": "Higanbana",
+          "zh": "彼岸花"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_bianhua.png"
+        }
+      },
+      {
+        "id": 292,
+        "name": {
+          "vi": "Yoto",
+          "en": "Yuki",
+          "zh": "雪童子"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "xuetongzi.png",
+          "headIconFile": "h_xuetongzi.png"
+        }
+      },
+      {
+        "id": 296,
+        "name": {
+          "vi": "Yamausagi",
+          "en": "Yamakaze",
+          "zh": "山风"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 300,
+        "name": {
+          "vi": "Tamamo no Mae",
+          "en": "Tamamonomae",
+          "zh": "玉藻前"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "yuzaoqian.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 304,
+        "name": {
+          "vi": "Ngự Đao Tân",
+          "en": "Miketsu",
+          "zh": "御馔津"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "yuzhuanjin.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 305,
+        "name": {
+          "vi": "Mại Dược Lang",
+          "en": "Medicine Seller",
+          "zh": "卖药郎"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 308,
+        "name": {
+          "vi": "Quỷ Đăng",
+          "en": "Hozuki",
+          "zh": "鬼灯"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_guideng.png"
+        }
+      },
+      {
+        "id": 311,
+        "name": {
+          "vi": "Diện Linh Khí",
+          "en": "Menreiki",
+          "zh": "面灵气"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "mianlingqi.png",
+          "headIconFile": "h_mianlingqi.png"
+        }
+      },
+      {
+        "id": 312,
+        "name": {
+          "vi": "Quỷ Thiết",
+          "en": "Onikiri",
+          "zh": "鬼切"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "guiqie.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 313,
+        "name": {
+          "vi": "Inuyasha",
+          "en": "Inuyasha",
+          "zh": "犬夜叉"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "quanyecha.png",
+          "headIconFile": "h_quanyecha.png"
+        }
+      },
+      {
+        "id": 314,
+        "name": {
+          "vi": "Sesshomaru",
+          "en": "Sesshomaru",
+          "zh": "杀生丸"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "shashengwan.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 316,
+        "name": {
+          "vi": "Bạch Tàng Chủ",
+          "en": "Hakuzosu",
+          "zh": "白藏主"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "j_xiaobai.png"
+        }
+      },
+      {
+        "id": 319,
+        "name": {
+          "vi": "Cát Cánh",
+          "en": "Kikyo",
+          "zh": "桔梗"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "jiegeng.png",
+          "headIconFile": "h_jiegeng.png"
+        }
+      },
+      {
+        "id": 325,
+        "name": {
+          "vi": "Yamata no Orochi",
+          "en": "Orochi",
+          "zh": "八岐大蛇"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "dasheshen.png",
+          "headIconFile": "h_dasheshen.png"
+        }
+      },
+      {
+        "id": 330,
+        "name": {
+          "vi": "Bất Tri Hỏa",
+          "en": "Shiranui",
+          "zh": "不知火"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_buzhihuo.png"
+        }
+      },
+      {
+        "id": 333,
+        "name": {
+          "vi": "Đại Nhạc Hoàn",
+          "en": "Otakemaru",
+          "zh": "大岳丸"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_dayuewan.png"
+        }
+      },
+      {
+        "id": 338,
+        "name": {
+          "vi": "Takiyashahime",
+          "en": "Takiyashahime",
+          "zh": "泷夜叉姬"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_longyechaji.png"
+        }
+      },
+      {
+        "id": 344,
+        "name": {
+          "vi": "Vân Ngoại Kính",
+          "en": "Ungaikyo",
+          "zh": "云外镜"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 345,
+        "name": {
+          "vi": "Quỷ Đồng Hoàn",
+          "en": "Kidomaru",
+          "zh": "鬼童丸"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "guitongwan.png",
+          "headIconFile": "h_guitongwan.png"
+        }
+      },
+      {
+        "id": 347,
+        "name": {
+          "vi": "Duyên Kết Thần",
+          "en": "Enmusubi",
+          "zh": "缘结神"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 351,
+        "name": {
+          "vi": "Linh Lộc Ngự Tiền",
+          "en": "Suzuka Gozen",
+          "zh": "铃鹿御前"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "lingluyuqian.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 353,
+        "name": {
+          "vi": "Khẩn Na La",
+          "en": "Kinnara",
+          "zh": "紧那罗"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_jinnaluo.png"
+        }
+      },
+      {
+        "id": 356,
+        "name": {
+          "vi": "Senhime",
+          "en": "Senhime",
+          "zh": "千姬"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "qianji.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 363,
+        "name": {
+          "vi": "Đế Thích Thiên",
+          "en": "Taishakuten",
+          "zh": "帝释天"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_dishitian.png"
+        }
+      },
+      {
+        "id": 364,
+        "name": {
+          "vi": "Asura",
+          "en": "Asura",
+          "zh": "阿修罗"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 369,
+        "name": {
+          "vi": "Thực Linh",
+          "en": "Shokurei",
+          "zh": "食灵"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 370,
+        "name": {
+          "vi": "Phạn Tự",
+          "en": "Mishige",
+          "zh": "饭笥"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_fansi.png"
+        }
+      },
+      {
+        "id": 373,
+        "name": {
+          "vi": "Yatagarasu",
+          "en": "Yato no Kami",
+          "zh": "夜刀神"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_yedaoshen.png"
+        }
+      },
+      {
+        "id": 376,
+        "name": {
+          "vi": "Tsuzura Hime",
+          "en": "Suzuhikohime",
+          "zh": "铃彦姬"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "lingyanji.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 379,
+        "name": {
+          "vi": "Bất Kiến Nhạc",
+          "en": "Fukengaku",
+          "zh": "不见岳"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_bujianyue.png"
+        }
+      },
+      {
+        "id": 389,
+        "name": {
+          "vi": "Susanoo",
+          "en": "Susanoo",
+          "zh": "须佐之男"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_xuzuozhinan.png"
+        }
+      },
+      {
+        "id": 391,
+        "name": {
+          "vi": "Tầm Hương Hành",
+          "en": "Jinkougyou",
+          "zh": "寻香行"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "xunxiangxing.png",
+          "headIconFile": "h_xunxiangxing.png"
+        }
+      },
+      {
+        "id": 392,
+        "name": {
+          "vi": "Mùi (Ki)",
+          "en": "Shiki",
+          "zh": "季"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "ji.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 394,
+        "name": {
+          "vi": "Nguyệt Độc",
+          "en": "Tsukuyomi",
+          "zh": "月读"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_yueduming.png"
+        }
+      },
+      {
+        "id": 399,
+        "name": {
+          "vi": "Ngôn Linh",
+          "en": "Kotodama",
+          "zh": "言灵"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_yanling.png"
+        }
+      },
+      {
+        "id": 550,
+        "name": {
+          "vi": "Khổng Tước Minh Vương",
+          "en": "Kujaku-Myoo",
+          "zh": "孔雀明王"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "kongquemingwang.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 556,
+        "name": {
+          "vi": "Thái Dương Thần",
+          "en": "Amaterasu.",
+          "zh": "天照"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "tianzhao.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 557,
+        "name": {
+          "vi": "Y Tà Na Mỹ",
+          "en": "Izanami",
+          "zh": "伊邪那美"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "yixienamei.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 561,
+        "name": {
+          "vi": "Lung",
+          "en": "Taki",
+          "zh": "泷"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 563,
+        "name": {
+          "vi": "Hatsune Miku",
+          "en": "Hatsune Miku",
+          "zh": "初音未来"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "chuyinweilai.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 564,
+        "name": {
+          "vi": "Kagamine Rin · Len",
+          "en": "Kagamine Rin/Len",
+          "zh": "镜音铃·连"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "jingyinlinglian.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 569,
+        "name": {
+          "vi": "Miêu Xuyên",
+          "en": "Nekogawa",
+          "zh": "猫川"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 570,
+        "name": {
+          "vi": "Họa Tân Thần",
+          "en": "Magatsuhi",
+          "zh": "祸津神"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "huojinshen.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 573,
+        "name": {
+          "vi": "Long Giác",
+          "en": "Loongjue",
+          "zh": "龙珏"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "longjue.png",
+          "headIconFile": "h_longjue.png"
+        }
+      },
+      {
+        "id": 575,
+        "name": {
+          "vi": "Phong Dương Quân",
+          "en": "Fengyang",
+          "zh": "封阳君"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "fengyangjun.png",
+          "headIconFile": "h_fengyangjun.png"
+        }
+      },
+      {
+        "id": 577,
+        "name": {
+          "vi": "Quỷ Kim Dương",
+          "en": "Guijinyang",
+          "zh": "鬼金羊"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 581,
+        "name": {
+          "vi": "Karuta",
+          "en": "Karuta",
+          "zh": "歌留多"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 582,
+        "name": {
+          "vi": "Megurine Luka",
+          "en": "Megurine Luka",
+          "zh": "巡音流歌"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_xunyinliuge.png"
+        }
+      },
+      {
+        "id": 583,
+        "name": {
+          "vi": "Ty Diệc Hô",
+          "en": "Himiko",
+          "zh": "卑弥呼"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "beimihu.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 585,
+        "name": {
+          "vi": "Hoang Khô Lâu",
+          "en": "Odokuro",
+          "zh": "荒骷髅"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 591,
+        "name": {
+          "vi": "Yuki Gozen",
+          "en": "Yuki Gozen",
+          "zh": "雪御前"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "xueyuqian.png",
+          "headIconFile": "h_xueyuqian.png"
+        }
+      },
+      {
+        "id": 592,
+        "name": {
+          "vi": "Taira Masakado",
+          "en": "Taira no Masakado",
+          "zh": "平将门"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 596,
+        "name": {
+          "vi": "Thần Vô Nguyệt",
+          "en": "Kannazuki",
+          "zh": "神无月"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 597,
+        "name": {
+          "vi": "Cát Diệp",
+          "en": "Kuzunoha",
+          "zh": "葛叶"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 600,
+        "name": {
+          "vi": "Thị Gia Mỹ",
+          "en": "Shinigami",
+          "zh": "市加美"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 601,
+        "name": {
+          "vi": "Tư Kim Thần",
+          "en": "Omoikane",
+          "zh": "思金神"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 603,
+        "name": {
+          "vi": "Bì Sa Môn Thiên",
+          "en": "Bishamonten",
+          "zh": "毗沙门天"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 604,
+        "name": {
+          "vi": "Bất Tương Hồ Thiền",
+          "en": "Fuzenkitsune",
+          "zh": "不相狐禅"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      }
+    ],
+    "SR": [
+      {
+        "id": 200,
+        "name": {
+          "vi": "Đào Hoa Yêu",
+          "en": "Momo",
+          "zh": "桃花妖"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 201,
+        "name": {
+          "vi": "Tuyết Nữ",
+          "en": "Yuki Onna",
+          "zh": "雪女"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_xuenv.png"
+        }
+      },
+      {
+        "id": 210,
+        "name": {
+          "vi": "Quỷ Sứ Bạch",
+          "en": "Shiro Mujou",
+          "zh": "鬼使白"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "baiwuchang.png",
+          "headIconFile": "h_baiwuchang.png"
+        }
+      },
+      {
+        "id": 211,
+        "name": {
+          "vi": "Quỷ Sử Hắc",
+          "en": "Kuro Mujou",
+          "zh": "鬼使黑"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_heiwuchang.png"
+        }
+      },
+      {
+        "id": 215,
+        "name": {
+          "vi": "Mạn Bà",
+          "en": "Mouba",
+          "zh": "孟婆"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "mengpo.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 220,
+        "name": {
+          "vi": "Khuyển Thần",
+          "en": "Inugami",
+          "zh": "犬神"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "quanshen.png",
+          "headIconFile": "h_quanshen.png"
+        }
+      },
+      {
+        "id": 223,
+        "name": {
+          "vi": "Cốt Nữ",
+          "en": "Hone Onna",
+          "zh": "骨女"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "gunv.png",
+          "headIconFile": "h_gunv.png"
+        }
+      },
+      {
+        "id": 231,
+        "name": {
+          "vi": "Quỷ Nữ Hồng Diệp",
+          "en": "Momiji",
+          "zh": "鬼女红叶"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_guinvhongye.png"
+        }
+      },
+      {
+        "id": 233,
+        "name": {
+          "vi": "Khiêu Khiêu Ca Ca",
+          "en": "Kyonshi Ani",
+          "zh": "跳跳哥哥"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "tiaotiaogege.png",
+          "headIconFile": "h_tiaotiaogege.png"
+        }
+      },
+      {
+        "id": 242,
+        "name": {
+          "vi": "Khôi Lỗi Sư",
+          "en": "Puppeteer",
+          "zh": "傀儡师"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 247,
+        "name": {
+          "vi": "Hải Phường Chủ",
+          "en": "Umibozu",
+          "zh": "海坊主"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "haifangzhu.png",
+          "headIconFile": "h_haifangzhu.png"
+        }
+      },
+      {
+        "id": 251,
+        "name": {
+          "vi": "Phán Quan",
+          "en": "Hangan",
+          "zh": "判官"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 252,
+        "name": {
+          "vi": "Phượng Hoàng Hỏa",
+          "en": "Hououka",
+          "zh": "凤凰火"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 253,
+        "name": {
+          "vi": "Kyuuketsuki",
+          "en": "Vampira",
+          "zh": "吸血姬"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "xixueji.png",
+          "headIconFile": "h_xixueji.png"
+        }
+      },
+      {
+        "id": 254,
+        "name": {
+          "vi": "Kyuubi no Kitsune",
+          "en": "Youko",
+          "zh": "妖狐"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 256,
+        "name": {
+          "vi": "Yêu Cầm Sư",
+          "en": "Maestro",
+          "zh": "妖琴师"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "qinmo.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 257,
+        "name": {
+          "vi": "Thực Mộng Mạc",
+          "en": "Yumekui",
+          "zh": "食梦貘"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "shimengmo.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 260,
+        "name": {
+          "vi": "Thanh Cơ",
+          "en": "Kiyohime",
+          "zh": "清姬"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_qingji.png"
+        }
+      },
+      {
+        "id": 261,
+        "name": {
+          "vi": "Liêm Dữu",
+          "en": "Kamaitachi",
+          "zh": "镰鼬"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 262,
+        "name": {
+          "vi": "Cô Hạc",
+          "en": "Ubume",
+          "zh": "姑获鸟"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_guhuoniao.png"
+        }
+      },
+      {
+        "id": 263,
+        "name": {
+          "vi": "Nhị Khẩu Nữ",
+          "en": "Futakuchi",
+          "zh": "二口女"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 264,
+        "name": {
+          "vi": "Bạch Lang",
+          "en": "Hakuro",
+          "zh": "白狼"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 267,
+        "name": {
+          "vi": "Sakura no Sei",
+          "en": "Sakura",
+          "zh": "樱花妖"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "yinghuayao.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 268,
+        "name": {
+          "vi": "Huệ Tỷ Thọ",
+          "en": "Ebisu",
+          "zh": "惠比寿"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "huibishou.png",
+          "headIconFile": "h_fushen.png"
+        }
+      },
+      {
+        "id": 270,
+        "name": {
+          "vi": "Lạc Tân Phụ",
+          "en": "Jorogumo",
+          "zh": "络新妇"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_luoxinfu.png"
+        }
+      },
+      {
+        "id": 271,
+        "name": {
+          "vi": "Bát Nhã",
+          "en": "Hannya",
+          "zh": "般若"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "bore.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 273,
+        "name": {
+          "vi": "Thanh Phường Chủ",
+          "en": "Aobozu",
+          "zh": "青坊主"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 275,
+        "name": {
+          "vi": "Vạn Niên Trúc",
+          "en": "Mannendake",
+          "zh": "万年竹"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "wannianzhu.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 276,
+        "name": {
+          "vi": "Yasha",
+          "en": "Yasha",
+          "zh": "夜叉"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 277,
+        "name": {
+          "vi": "Hắc Đồng Tử",
+          "en": "Kuro",
+          "zh": "黑童子"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 278,
+        "name": {
+          "vi": "Bạch Đồng Tử",
+          "en": "Shiro",
+          "zh": "白童子"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_baitongzi.png"
+        }
+      },
+      {
+        "id": 281,
+        "name": {
+          "vi": "Yên Yên La",
+          "en": "Enenra",
+          "zh": "烟烟罗"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_yanyanluo.png"
+        }
+      },
+      {
+        "id": 282,
+        "name": {
+          "vi": "Kim Ngư Cơ",
+          "en": "Kingyo",
+          "zh": "金鱼姬"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "jinyuji.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 285,
+        "name": {
+          "vi": "Trẫm",
+          "en": "Chin",
+          "zh": "鸩"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "zhen.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 286,
+        "name": {
+          "vi": "Dĩ Tân Chân Thiên",
+          "en": "Itsumade",
+          "zh": "以津真天"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_yijinzhentian.png"
+        }
+      },
+      {
+        "id": 287,
+        "name": {
+          "vi": "Hạp Trung Thiếu Nữ",
+          "en": "Hako Shoujo",
+          "zh": "匣中少女"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_xiazhongshaonv.png"
+        }
+      },
+      {
+        "id": 290,
+        "name": {
+          "vi": "Tiểu Tùng Hoàn",
+          "en": "Komatsu",
+          "zh": "小松丸"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "xiaosongwan.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 291,
+        "name": {
+          "vi": "Thư Ông",
+          "en": "Bukkuman",
+          "zh": "书翁"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 293,
+        "name": {
+          "vi": "Bách Mục Quỷ",
+          "en": "Dodomeki",
+          "zh": "百目鬼"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "baimugui.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 295,
+        "name": {
+          "vi": "Truy Nguyệt Thần",
+          "en": "Oitsuki",
+          "zh": "追月神"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_zhuiyueshen.png"
+        }
+      },
+      {
+        "id": 297,
+        "name": {
+          "vi": "Nhật Hòa Phường",
+          "en": "Hiyoribo",
+          "zh": "日和坊"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 298,
+        "name": {
+          "vi": "Huân",
+          "en": "Kaoru",
+          "zh": "薰"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "xun.png",
+          "headIconFile": "h_xun.png"
+        }
+      },
+      {
+        "id": 303,
+        "name": {
+          "vi": "Dịch",
+          "en": "Kisei",
+          "zh": "弈"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 307,
+        "name": {
+          "vi": "Miêu Chưởng Quỹ",
+          "en": "Nekomata",
+          "zh": "猫掌柜"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_maoyou.png"
+        }
+      },
+      {
+        "id": 309,
+        "name": {
+          "vi": "A Hương",
+          "en": "Oko",
+          "zh": "阿香"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_axiang.png"
+        }
+      },
+      {
+        "id": 317,
+        "name": {
+          "vi": "Nhân Diện Thụ",
+          "en": "Jinmenju",
+          "zh": "人面树"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_renmianshu.png"
+        }
+      },
+      {
+        "id": 318,
+        "name": {
+          "vi": "Ư Cúc Trùng",
+          "en": "Okikumushi",
+          "zh": "於菊虫"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_yujuchong.png"
+        }
+      },
+      {
+        "id": 320,
+        "name": {
+          "vi": "Nhất Phản Mộc Miên",
+          "en": "Ittan-momen",
+          "zh": "一反木绵"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "yifanmumian.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 321,
+        "name": {
+          "vi": "Nhập Liệm Sư",
+          "en": "Okuribito",
+          "zh": "入殓师"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "rulianshi.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 324,
+        "name": {
+          "vi": "Hóa Kình",
+          "en": "Bake-kujira",
+          "zh": "化鲸"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_huajing.png"
+        }
+      },
+      {
+        "id": 329,
+        "name": {
+          "vi": "Hải Nhẫn",
+          "en": "Kainin",
+          "zh": "海忍"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 332,
+        "name": {
+          "vi": "Cửu Thứ Lương",
+          "en": "Kujira",
+          "zh": "久次良"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "jiuciliang.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 335,
+        "name": {
+          "vi": "Giải Cơ",
+          "en": "Kanihime",
+          "zh": "蟹姬"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_xieji.png"
+        }
+      },
+      {
+        "id": 340,
+        "name": {
+          "vi": "Chỉ Vũ",
+          "en": "Kamimai",
+          "zh": "纸舞"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "zhiwu.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 342,
+        "name": {
+          "vi": "Tinh Hùng Đồng Tử",
+          "en": "Hoshiguma Doji",
+          "zh": "星熊童子"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "xingxiongtongzi.png",
+          "headIconFile": "h_xingxiongtongzi.png"
+        }
+      },
+      {
+        "id": 349,
+        "name": {
+          "vi": "Phong Ly",
+          "en": "Furi",
+          "zh": "风狸"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "fengli.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 350,
+        "name": {
+          "vi": "Hạt Nữ",
+          "en": "Sasori",
+          "zh": "蝎女"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "xienv.png",
+          "headIconFile": "h_xienv.png"
+        }
+      },
+      {
+        "id": 365,
+        "name": {
+          "vi": "Nhập Nội Tước",
+          "en": "Nyunai-suzume",
+          "zh": "入内雀"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "runeique.png",
+          "headIconFile": "h_runeique.png"
+        }
+      },
+      {
+        "id": 368,
+        "name": {
+          "vi": "Kẹo Đường",
+          "en": "Amezaiku",
+          "zh": "饴细工"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "yixigong.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 371,
+        "name": {
+          "vi": "Xuyên Viên",
+          "en": "Kawazaru",
+          "zh": "川猿"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "chuanyuan.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 378,
+        "name": {
+          "vi": "Ca Lâu La",
+          "en": "Garuda",
+          "zh": "迦楼罗"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "jialouluo.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 382,
+        "name": {
+          "vi": "Linh Hải Điệp",
+          "en": "Uminocho",
+          "zh": "灵海蝶"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 384,
+        "name": {
+          "vi": "Phấn Bà Bà",
+          "en": "Oshiroibaba",
+          "zh": "粉婆婆"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "fenpopo.png",
+          "headIconFile": "h_fenpopo.png"
+        }
+      },
+      {
+        "id": 398,
+        "name": {
+          "vi": "Thiên Nghịch Mỗi",
+          "en": "Amanozako",
+          "zh": "天逆每"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_tiannimei.png"
+        }
+      },
+      {
+        "id": 552,
+        "name": {
+          "vi": "Tuệ Minh Đăng",
+          "en": "Miakashi",
+          "zh": "慧明灯"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 558,
+        "name": {
+          "vi": "Đạo Nhân Thần",
+          "en": "Nusubitogami",
+          "zh": "盗人神"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_daorenshen.png"
+        }
+      },
+      {
+        "id": 571,
+        "name": {
+          "vi": "Kansai Hime",
+          "en": "Tagitsuhime",
+          "zh": "湍津姬"
+        },
+        "rarity": "SR",
+        "tier": "SR",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      }
+    ],
+    "R": [
+      {
+        "id": 202,
+        "name": {
+          "vi": "Tam Vĩ Hồ",
+          "en": "Mio",
+          "zh": "三尾狐"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_sanweihu.png"
+        }
+      },
+      {
+        "id": 205,
+        "name": {
+          "vi": "Tsubaki Douji",
+          "en": "Zashiki",
+          "zh": "座敷童子"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "zuofutongzi.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 206,
+        "name": {
+          "vi": "Lý Ngư Tinh",
+          "en": "Koi",
+          "zh": "鲤鱼精"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "liyujing.png",
+          "headIconFile": "h_liyujing.png"
+        }
+      },
+      {
+        "id": 207,
+        "name": {
+          "vi": "Cửu Mệnh Miêu",
+          "en": "Kyuumei Neko",
+          "zh": "九命猫"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "jiumingmao.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 208,
+        "name": {
+          "vi": "Tanuki",
+          "en": "Tanuki",
+          "zh": "狸猫"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_limao.png"
+        }
+      },
+      {
+        "id": 209,
+        "name": {
+          "vi": "Hà Đồng",
+          "en": "Kappa",
+          "zh": "河童"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "hetong.png",
+          "headIconFile": "h_hetong.png"
+        }
+      },
+      {
+        "id": 212,
+        "name": {
+          "vi": "Đồng Nam",
+          "en": "Oguna",
+          "zh": "童男"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_tongnan.png"
+        }
+      },
+      {
+        "id": 213,
+        "name": {
+          "vi": "Đồng Nữ",
+          "en": "Doujo",
+          "zh": "童女"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 214,
+        "name": {
+          "vi": "Ngạ Quỷ",
+          "en": "Gaki",
+          "zh": "饿鬼"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_egui.png"
+        }
+      },
+      {
+        "id": 216,
+        "name": {
+          "vi": "Vu Cổ Sư",
+          "en": "Kodokushi",
+          "zh": "巫蛊师"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 218,
+        "name": {
+          "vi": "Nha Thiên Cẩu",
+          "en": "Karasu Tengu",
+          "zh": "鸦天狗"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "yatiangou.png",
+          "headIconFile": "h_yatiangou.png"
+        }
+      },
+      {
+        "id": 221,
+        "name": {
+          "vi": "Thực Phát Quỷ",
+          "en": "Kamikui",
+          "zh": "食发鬼"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "shifagui.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 222,
+        "name": {
+          "vi": "Samurai no Rei",
+          "en": "Warrior Soul",
+          "zh": "武士之灵"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 224,
+        "name": {
+          "vi": "Vũ Nữ",
+          "en": "Ame Onna",
+          "zh": "雨女"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "yunv.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 225,
+        "name": {
+          "vi": "Khiêu Khiêu Đệ Đệ",
+          "en": "Kyonshi Ototo",
+          "zh": "跳跳弟弟"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_tiaotiaodidi.png"
+        }
+      },
+      {
+        "id": 226,
+        "name": {
+          "vi": "Khiêu Khiêu Muội Muội",
+          "en": "Kyonshi Imoto",
+          "zh": "跳跳妹妹"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 227,
+        "name": {
+          "vi": "Binh Dũng",
+          "en": "Samurai X",
+          "zh": "兵俑"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 228,
+        "name": {
+          "vi": "Sử Tịch Nữ",
+          "en": "Ushi no Toki",
+          "zh": "丑时之女"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 230,
+        "name": {
+          "vi": "Độc Nhãn Tiêu",
+          "en": "Hitotsume",
+          "zh": "独眼小僧"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "duyanxiaoseng.png",
+          "headIconFile": "h_duyanxiaoseng.png"
+        }
+      },
+      {
+        "id": 232,
+        "name": {
+          "vi": "Jikkyū",
+          "en": "Tesso",
+          "zh": "铁鼠"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_tieshu.png"
+        }
+      },
+      {
+        "id": 234,
+        "name": {
+          "vi": "Tiêu Đồ",
+          "en": "Shouzu",
+          "zh": "椒图"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 236,
+        "name": {
+          "vi": "Quản Hồ",
+          "en": "Kanko",
+          "zh": "管狐"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "guanhu.png",
+          "headIconFile": "h_guanhu.png"
+        }
+      },
+      {
+        "id": 237,
+        "name": {
+          "vi": "Yamausagi",
+          "en": "Yamausagi",
+          "zh": "山兔"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "shantu.png",
+          "headIconFile": "h_shantu.png"
+        }
+      },
+      {
+        "id": 238,
+        "name": {
+          "vi": "Huỳnh Thảo",
+          "en": "Kusa",
+          "zh": "萤草"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "yingcao.png",
+          "headIconFile": "h_yingcao.png"
+        }
+      },
+      {
+        "id": 241,
+        "name": {
+          "vi": "Hồ Điệp Tinh",
+          "en": "Chocho",
+          "zh": "蝴蝶精"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 243,
+        "name": {
+          "vi": "Zashiki Warashi",
+          "en": "Yamawaro",
+          "zh": "山童"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "shantong.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 244,
+        "name": {
+          "vi": "Thủ Vô",
+          "en": "Kubinashi",
+          "zh": "首无"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_shouwu.png"
+        }
+      },
+      {
+        "id": 249,
+        "name": {
+          "vi": "Giác",
+          "en": "Satori",
+          "zh": "觉"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 250,
+        "name": {
+          "vi": "Thố Sành",
+          "en": "Jikikaeru",
+          "zh": "青蛙瓷器"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 274,
+        "name": {
+          "vi": "Cổ Lồng Hỏa",
+          "en": "Koroka",
+          "zh": "古笼火"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 289,
+        "name": {
+          "vi": "Thố Hoàn",
+          "en": "Usagi",
+          "zh": "兔丸"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 301,
+        "name": {
+          "vi": "Trỗi Châu",
+          "en": "Juzu",
+          "zh": "数珠"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "shuzhu.png",
+          "headIconFile": "h_shuzhu.png"
+        }
+      },
+      {
+        "id": 302,
+        "name": {
+          "vi": "Tiểu Tụ Chi Thủ",
+          "en": "Kosodenote",
+          "zh": "小袖之手"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 306,
+        "name": {
+          "vi": "Trùng Sư",
+          "en": "Mushishi",
+          "zh": "虫师"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "chongshi.png",
+          "headIconFile": "h_chongshi.png"
+        }
+      },
+      {
+        "id": 310,
+        "name": {
+          "vi": "Mật Đào & Karashi",
+          "en": "Maki&Karashi",
+          "zh": "蜜桃&芥子"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_taozijiezi.png"
+        }
+      },
+      {
+        "id": 323,
+        "name": {
+          "vi": "Ameonna",
+          "en": "Tenjo-kudari",
+          "zh": "天井下"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "tianjinxia.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 361,
+        "name": {
+          "vi": "Cấu Thường",
+          "en": "Akaname",
+          "zh": "垢尝"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_gouchang.png"
+        }
+      },
+      {
+        "id": 375,
+        "name": {
+          "vi": "Ảnh Ngạc",
+          "en": "Kagewani",
+          "zh": "影鳄"
+        },
+        "rarity": "R",
+        "tier": "R",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      }
+    ],
+    "N": [
+      {
+        "id": 203,
+        "name": {
+          "vi": "Đăng Lồng Quỷ",
+          "en": "Lantern Soul",
+          "zh": "灯笼鬼"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 245,
+        "name": {
+          "vi": "Đề Đăng Tiểu Tăng",
+          "en": "Lantern Boy",
+          "zh": "提灯小僧"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "tidengxiaoseng.png",
+          "headIconFile": "h_tidengxiaoseng.png"
+        }
+      },
+      {
+        "id": 246,
+        "name": {
+          "vi": "Xích Thiệt",
+          "en": "Akashita",
+          "zh": "赤舌"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "chishe.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 400,
+        "name": {
+          "vi": "Đạo Mộ Tiếu Quỷ",
+          "en": "Grave Digger",
+          "zh": "盗墓小鬼"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "daomuxiaogui.png",
+          "headIconFile": "h_daomuxiaogui.png"
+        }
+      },
+      {
+        "id": 401,
+        "name": {
+          "vi": "Ký Sinh Hồn",
+          "en": "Parasite",
+          "zh": "寄生魂"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 403,
+        "name": {
+          "vi": "Đường Chỉ Tán Yêu",
+          "en": "Umbrella",
+          "zh": "唐纸伞妖"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "tangzhisanyao.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 404,
+        "name": {
+          "vi": "Thiên Tà Quỷ Lục",
+          "en": "Green Imp",
+          "zh": "天邪鬼绿"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_lvtianxiegui.png"
+        }
+      },
+      {
+        "id": 405,
+        "name": {
+          "vi": "Thiên Tà Quỷ Xích",
+          "en": "Red Imp",
+          "zh": "天邪鬼赤"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "chitianxiegui.png",
+          "headIconFile": "h_chitianxiegui.png"
+        }
+      },
+      {
+        "id": 406,
+        "name": {
+          "vi": "Tenjōkare",
+          "en": "Yellow Imp",
+          "zh": "天邪鬼黄"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_huangtianxiegui.png"
+        }
+      },
+      {
+        "id": 407,
+        "name": {
+          "vi": "Thiên Tà Quỷ Thanh",
+          "en": "Blue Imp",
+          "zh": "天邪鬼青"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "qingtianxiegui.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 408,
+        "name": {
+          "vi": "Tảo Thần",
+          "en": "Hahakigami",
+          "zh": "帚神"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_zhoushen.png"
+        }
+      },
+      {
+        "id": 409,
+        "name": {
+          "vi": "Đồ Bích",
+          "en": "Nurikabe",
+          "zh": "涂壁"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_tubi.png"
+        }
+      },
+      {
+        "id": 410,
+        "name": {
+          "vi": "Chiêu Phúc Đạt Ma",
+          "en": "Base Daruma",
+          "zh": "招福达摩"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 411,
+        "name": {
+          "vi": "Ngự Hành Đạt Ma",
+          "en": "Skill Daruma",
+          "zh": "御行达摩"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_damobudaoweng_hei.png"
+        }
+      },
+      {
+        "id": 412,
+        "name": {
+          "vi": "Phụng Vi Đạt Ma",
+          "en": "Grade Daruma",
+          "zh": "奉为达摩"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "damobudaoweng_bai.png",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 413,
+        "name": {
+          "vi": "Đại Cát Đạt Ma",
+          "en": "EXP Daruma",
+          "zh": "大吉达摩"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 414,
+        "name": {
+          "vi": "Đại Thiên Cẩu Oa",
+          "en": "Ootengu Frog",
+          "zh": "大天狗呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_datiangougua.png"
+        }
+      },
+      {
+        "id": 415,
+        "name": {
+          "vi": "Tửu Thôn Quác",
+          "en": "Shuten Frog",
+          "zh": "酒吞呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 416,
+        "name": {
+          "vi": "Hoang Xuyên Oa",
+          "en": "Arakawa Frog",
+          "zh": "荒川呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_huangchuangua.png"
+        }
+      },
+      {
+        "id": 417,
+        "name": {
+          "vi": "Diêm Ma Oa",
+          "en": "Enma Frog",
+          "zh": "阎魔呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_yanmogua.png"
+        }
+      },
+      {
+        "id": 418,
+        "name": {
+          "vi": "Ryōmen Botchan Oa",
+          "en": "Ryomen Frog",
+          "zh": "两面佛呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_liangmianfogua.png"
+        }
+      },
+      {
+        "id": 419,
+        "name": {
+          "vi": "Tiểu Lộc Nam Quác",
+          "en": "Shishio Frog",
+          "zh": "小鹿男呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 420,
+        "name": {
+          "vi": "Tỳ Mộc Oa",
+          "en": "Ibaraki Frog",
+          "zh": "茨木呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_cimugua.png"
+        }
+      },
+      {
+        "id": 421,
+        "name": {
+          "vi": "Thanh Hành Đăng Oa",
+          "en": "Aoandon Frog",
+          "zh": "青行灯呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_qingxingdenggua.png"
+        }
+      },
+      {
+        "id": 422,
+        "name": {
+          "vi": "Yoto Hime Quác",
+          "en": "Yoto Hime Frog",
+          "zh": "妖刀姬呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_yaodaojigua.png"
+        }
+      },
+      {
+        "id": 423,
+        "name": {
+          "vi": "Nhất Mục Liên Oa",
+          "en": "Ichimokuren Frog",
+          "zh": "一目连呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 424,
+        "name": {
+          "vi": "Hoa Điểu Quyển Oa",
+          "en": "Hana Frog",
+          "zh": "花鸟卷呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 425,
+        "name": {
+          "vi": "Huy Dạ Cơ Oa",
+          "en": "Kaguya Frog",
+          "zh": "辉夜姬呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 426,
+        "name": {
+          "vi": "Hoang Quác",
+          "en": "Susabi Frog",
+          "zh": "荒呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_huanggua.png"
+        }
+      },
+      {
+        "id": 427,
+        "name": {
+          "vi": "Bỉ Ngạn Hoa Oa",
+          "en": "Higanbana Frog",
+          "zh": "彼岸花呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 428,
+        "name": {
+          "vi": "Setouto Quác",
+          "en": "Yuki Frog",
+          "zh": "雪童子呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_xuetongzigua.png"
+        }
+      },
+      {
+        "id": 429,
+        "name": {
+          "vi": "Tamamo no Mae Quác",
+          "en": "Tamamonomae Frog",
+          "zh": "玉藻前呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": "h_yuzaoqiangua.png"
+        }
+      },
+      {
+        "id": 430,
+        "name": {
+          "vi": "Ngự Đao Tân Oa",
+          "en": "Miketsu Frog",
+          "zh": "御馔津呱"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 433,
+        "name": {
+          "vi": "Sinh Bác Quỷ",
+          "en": "Namahage",
+          "zh": "生剥鬼"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "",
+          "headIconFile": ""
+        }
+      },
+      {
+        "id": 499,
+        "name": {
+          "vi": "Quỷ Võ Đạt Ma",
+          "en": "Samurai Daruma",
+          "zh": "鬼武达摩"
+        },
+        "rarity": "N",
+        "tier": "N",
+        "assets": {
+          "portraitFile": "damo_guiwu.png",
+          "headIconFile": "h_damo_guiwu.png"
+        }
+      }
+    ]
+  }
+}

@@ -6,13 +6,11 @@
     "zh": "唐纸伞妖"
   },
   "rarity": "N",
+  "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1]",
-    "en": "[1]",
-    "zh": "[1]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 100,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 4031,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Ta Đỉnh!",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "4031",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "4031.png"
     },
     {
       "id": 4032,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Hoàn Địa Trực",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "4032",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "4032.png"
     }
   ],
   "assets": {
-    "portraitKey": "tangzhisanyao",
-    "headKey": "h_tangzhisanyao",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "4031",
-      "4032"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "tangzhisanyao.png",
+    "headIconFile": ""
+  }
 }

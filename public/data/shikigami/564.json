@@ -6,13 +6,11 @@
     "zh": "镜音铃·连"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[37, 46]",
-    "en": "[37, 46]",
-    "zh": "[37, 46]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 105,
       "grade": "A"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 5641,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Âm Phù Phi Tán",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "5641",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5641.png"
     },
     {
       "id": 5642,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Cơ Bàn Nhị Trọng Tấu",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5642",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5642.png"
     },
     {
       "id": 5643,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Thủ Hộ Định Cách",
@@ -258,41 +215,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "5643",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "5643.png"
     }
   ],
   "assets": {
-    "portraitKey": "jingyinlinglian",
-    "headKey": "h_jingyinlinglian",
-    "armature": "",
-    "artName": "txt_zhanshi_jingyinlinglian",
-    "skillIconKeys": [
-      "5641",
-      "5642",
-      "5643"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "jingyinlinglian.png",
+    "headIconFile": ""
+  }
 }

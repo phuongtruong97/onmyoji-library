@@ -6,13 +6,11 @@
     "zh": "空相面灵气"
   },
   "rarity": "SP",
+  "tier": "SP",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[1, 12, 16]",
-    "en": "[1, 12, 16]",
-    "zh": "[1, 12, 16]"
-  },
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 119,
       "grade": "S"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3661,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tồn Tiêu",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3661",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3661.png"
     },
     {
       "id": 3662,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Biểu Lý Chi Tướng",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3662",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3662.png"
     },
     {
       "id": 3663,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "Mộng Hư Không Cảnh",
@@ -258,45 +215,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3663",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3663.png"
     }
   ],
   "assets": {
-    "portraitKey": "sp_mianlingqi",
-    "headKey": "h_sp_mianlingqi_bai",
-    "armature": [
-      "mianlingqi_ani",
-      1,
-      1
-    ],
-    "artName": "txt_zhanshi_sp_mianlingqi",
-    "skillIconKeys": [
-      "3661",
-      "3662",
-      "3663"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_sp_mianlingqi_bai.png"
+  }
 }

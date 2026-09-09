@@ -6,13 +6,11 @@
     "zh": "帝释天"
   },
   "rarity": "SSR",
+  "tier": "SSR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[17, 1, 12]",
-    "en": "[17, 1, 12]",
-    "zh": "[17, 1, 12]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "B"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 101,
       "grade": "B"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 3631,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "天诛",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "3631",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3631.png"
     },
     {
       "id": 3632,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Vô Cấu Liên Hoa",
@@ -181,32 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "3632",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "3632.png"
     },
     {
       "id": 3633,
+      "number": 3,
       "maxLevel": 5,
       "name": {
         "vi": "刹那莲华绽放",
@@ -290,61 +247,11 @@
         }
       ],
       "orbCost": 3,
-      "iconKey": "3633",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": 0
-        },
-        {
-          "level": 1,
-          "awakeFilter": 1
-        },
-        {
-          "level": 2,
-          "awakeFilter": 0
-        },
-        {
-          "level": 2,
-          "awakeFilter": 1
-        },
-        {
-          "level": 3,
-          "awakeFilter": 0
-        },
-        {
-          "level": 3,
-          "awakeFilter": 1
-        },
-        {
-          "level": 4,
-          "awakeFilter": 0
-        },
-        {
-          "level": 4,
-          "awakeFilter": 1
-        },
-        {
-          "level": 5,
-          "awakeFilter": 0
-        },
-        {
-          "level": 5,
-          "awakeFilter": 1
-        }
-      ]
+      "iconFile": "3633.png"
     }
   ],
   "assets": {
-    "portraitKey": "dishitian",
-    "headKey": "h_dishitian",
-    "armature": "",
-    "artName": "txt_zhanshi_dishitian",
-    "skillIconKeys": [
-      "3631",
-      "3632",
-      "3633"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "",
+    "headIconFile": "h_dishitian.png"
+  }
 }

@@ -6,13 +6,11 @@
     "zh": "惠比寿"
   },
   "rarity": "SR",
+  "tier": "SR",
   "level": 40,
   "maxLevel": 40,
-  "role": {
-    "vi": "[25, 10]",
-    "en": "[25, 10]",
-    "zh": "[25, 10]"
-  },
+  "statState": "EVOLVED",
+  "reviewStatus": "CHUA_KIEM_TRA",
   "stats": [
     {
       "key": "atk",
@@ -33,7 +31,7 @@
       "grade": "C"
     },
     {
-      "key": "spd",
+      "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 97,
       "grade": "C"
@@ -53,6 +51,7 @@
   "skills": [
     {
       "id": 2681,
+      "number": 1,
       "maxLevel": 5,
       "name": {
         "vi": "Tứ Phúc",
@@ -104,32 +103,11 @@
         }
       ],
       "orbCost": 0,
-      "iconKey": "2681",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2681.png"
     },
     {
       "id": 2683,
+      "number": 2,
       "maxLevel": 5,
       "name": {
         "vi": "Lý Ngư Kỳ",
@@ -181,40 +159,11 @@
         }
       ],
       "orbCost": 2,
-      "iconKey": "2683",
-      "variants": [
-        {
-          "level": 1,
-          "awakeFilter": -1
-        },
-        {
-          "level": 2,
-          "awakeFilter": -1
-        },
-        {
-          "level": 3,
-          "awakeFilter": -1
-        },
-        {
-          "level": 4,
-          "awakeFilter": -1
-        },
-        {
-          "level": 5,
-          "awakeFilter": -1
-        }
-      ]
+      "iconFile": "2683.png"
     }
   ],
   "assets": {
-    "portraitKey": "huibishou",
-    "headKey": "h_fushen",
-    "armature": "",
-    "artName": "",
-    "skillIconKeys": [
-      "2681",
-      "2683"
-    ]
-  },
-  "unresolvedTokens": []
+    "portraitFile": "huibishou.png",
+    "headIconFile": "h_fushen.png"
+  }
 }
