@@ -67,28 +67,46 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
   const [loading, setLoading] = useState(true);
   const [navDirection, setNavDirection] = useState<-1 | 0 | 1>(0);
   const [animationKey, setAnimationKey] = useState(0);
+  const currentIndex = catalog?.heroes.findIndex(h => h.id === selectedId) ?? -1;
 
   useEffect(() => {
-    Promise.all([fetch('/data/shikigami_catalog.json').then(r => r.json()), fetch('/data/glossary.json').then(r => r.json())])
-      .then(([c, g]) => {
+    fetch('/data/shikigami_catalog.json')
+      .then(r => r.json())
+      .then(c => {
         setCatalog(c);
-        setGlossary(g);
         const requestedId = Number(new URLSearchParams(location.search).get('hero'));
         const requestedHero = c.heroes.find((h: CatalogHero) => h.id === requestedId);
         const newestHero = c.heroes.reduce((latest: CatalogHero | null, item: CatalogHero) => !latest || item.id > latest.id ? item : latest, null);
         setSelectedId(requestedHero?.id ?? newestHero?.id ?? null);
       })
       .catch(() => setLoading(false));
+    fetch('/data/glossary.json').then(r => r.json()).then(setGlossary).catch(() => {});
   }, []);
   useEffect(() => {
     if (selectedId === null) return;
     const controller = new AbortController();
     setLoading(true);
-    fetch(`/data/shikigami/${selectedId}.json`, { signal: controller.signal, cache: 'no-store' }).then(r => { if (!r.ok) throw Error(); return r.json(); })
+    fetch(`/data/shikigami/${selectedId}.json`, { signal: controller.signal }).then(r => { if (!r.ok) throw Error(); return r.json(); })
       .then(d => { setHero(d); setActiveSlot(0); setActiveVariants({}); setShowVariants(false); setActiveToken(null); setAnimationKey(k => k + 1); setLoading(false); history.replaceState(null, '', `?hero=${selectedId}`); })
       .catch(error => { if (error?.name !== 'AbortError') setLoading(false); });
     return () => controller.abort();
   }, [selectedId]);
+  useEffect(() => {
+    if (!catalog || selectedId === null || currentIndex < 0) return;
+    const warmHero = (item: CatalogHero | undefined) => {
+      if (!item) return;
+      fetch(`/data/shikigami/${item.id}.json`).catch(() => {});
+      if (item.assets.portraitFile) {
+        const image = new Image();
+        image.src = `/portraits/${item.assets.portraitFile}`;
+      }
+    };
+    const timer = window.setTimeout(() => {
+      warmHero(catalog.heroes[(currentIndex - 1 + catalog.heroes.length) % catalog.heroes.length]);
+      warmHero(catalog.heroes[(currentIndex + 1) % catalog.heroes.length]);
+    }, 300);
+    return () => window.clearTimeout(timer);
+  }, [catalog, selectedId, currentIndex]);
   useEffect(() => {
     if (!activeToken) return;
     const close = (e: PointerEvent) => { const t = e.target; if (t instanceof Element && (t.closest('.glossary-popover') || t.closest('.game-token'))) return; setActiveToken(null); };
@@ -97,7 +115,6 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
 
   const rarities = useMemo(() => ['Tất cả', ...tierOrder.filter(r => (catalog?.heroes || []).some(h => h.rarity === r))], [catalog]);
   const filtered = useMemo(() => { const q = query.trim().toLocaleLowerCase(); return (catalog?.heroes || []).filter(h => (rarity === 'Tất cả' || h.rarity === rarity) && (!q || Object.values(h.name).some(n => String(n).toLocaleLowerCase().includes(q)))); }, [catalog, query, rarity]);
-  const currentIndex = catalog?.heroes.findIndex(h => h.id === selectedId) ?? -1;
   const moveHero = (d: -1 | 1) => { if (catalog?.heroes.length) { setNavDirection(d); setSelectedId(catalog.heroes[(currentIndex + d + catalog.heroes.length) % catalog.heroes.length].id); } };
   const skillSlots = useMemo(() => {
     const grouped = new Map<number, Skill[]>();
@@ -135,18 +152,18 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
     </header>
     <aside className={`library-drawer ${showLibrary ? 'open' : ''}`}>
       <div className="library-heading"><div><b>Danh sách thức thần</b><small>{filtered.length} kết quả</small></div><button onClick={() => setShowLibrary(false)}><X /></button></div>
-      <div className="rarity-filter">{rarities.map(r => <button key={r} className={rarity === r ? 'active' : ''} onClick={() => setRarity(r)}>{r}</button>)}</div>
+      {showLibrary && <><div className="rarity-filter">{rarities.map(r => <button key={r} className={rarity === r ? 'active' : ''} onClick={() => setRarity(r)}>{r}</button>)}</div>
       <div className="hero-list">{filtered.map(h => <button key={h.id} className={h.id === selectedId ? 'selected' : ''} onClick={() => { setNavDirection(0); setSelectedId(h.id); setShowLibrary(false); }}>
-        <span className="hero-thumb">{h.assets.headIconFile && <img src={`/head-icons/${h.assets.headIconFile}`} alt="" onError={e => { e.currentTarget.style.display = 'none'; }} />}<i>{h.rarity}</i></span>
+        <span className="hero-thumb">{h.assets.headIconFile && <img src={`/head-icons/${h.assets.headIconFile}`} alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} />}<i>{h.rarity}</i></span>
         <span><strong>{h.name[language] || h.name.en || `#${h.id}`}</strong><small>{language === 'vi' ? h.name.en : h.name.vi} · #{h.id}</small></span>
-      </button>)}</div>
+      </button>)}</div></>}
     </aside>
     {showLibrary && <button className="drawer-scrim" onClick={() => setShowLibrary(false)} />}
     {!hero ? <section className="empty-state"><span className="loader" /><h1>Đang nạp dữ liệu…</h1></section> : !skill ? <section className="empty-state"><h1>Chưa nhập kỹ năng</h1><p>Hãy bổ sung kỹ năng trong file Excel thủ công.</p></section> :
       <section className={`workspace hero-transition ${loading ? 'is-loading' : ''}`} aria-busy={loading}>
         <aside key={`identity-${animationKey}`} className={`identity-panel hero-slide ${navDirection > 0 ? 'from-right' : navDirection < 0 ? 'from-left' : 'from-fade'}`}>
           <UiIcon kind="rarities" name={hero.rarity} className="rarity" />
-          <div className="character-frame">{picture && <img src={picture} alt={hero.name[language]} onError={e => { e.currentTarget.style.display = 'none'; e.currentTarget.parentElement?.classList.add('missing'); }} />}<div className="character-fade" /></div>
+          <div className="character-frame">{picture && <img src={picture} alt={hero.name[language]} decoding="async" fetchPriority="high" onError={e => { e.currentTarget.style.display = 'none'; e.currentTarget.parentElement?.classList.add('missing'); }} />}<div className="character-fade" /></div>
           <div className="identity-copy"><span>Thức thần #{hero.id}</span><h1>{hero.name[language]}</h1><p>{language === 'vi' ? hero.name.en : hero.name.vi}</p></div>
           <button className="switch-arrow left" onClick={() => moveHero(-1)}><ChevronLeft /></button><button className="switch-arrow right" onClick={() => moveHero(1)}><ChevronRight /></button>
         </aside>
