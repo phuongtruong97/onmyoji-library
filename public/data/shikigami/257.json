@@ -149,7 +149,7 @@
         "zh": "噗噗～你的梦，就让我吃掉吧！"
       },
       "description": {
-        "vi": "Tiềm nhập vào giấc mơ của kẻ địch, khiến toàn bộ kẻ địch có 50%（+Chính Xác Hiệu Ứng） xác suất [tips_102], duy trì 1~2 lượt.",
+        "vi": "Tiềm nhập vào giấc mơ của kẻ địch, khiến toàn bộ kẻ địch có 50% [tips_2] xác suất [tips_102], duy trì 1~2 lượt.",
         "en": "Enters the dreams of each enemy. Has a 50% (+Effect HIT) chance of inflicting [tips_102] lasting 1-2 turns on all enemies.",
         "zh": "潜入敌人梦中，使敌方全体有50%（+效果命中）概率[tips_102]，持续1~2回合。"
       },

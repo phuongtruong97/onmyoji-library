@@ -3115,7 +3115,7 @@
       "zh": "护航"
     },
     "description": {
-      "vi": "Đơn vị mang thi triển kỹ năng giảm 2 điểm tiêu hao Quỷ Hỏa. Nếu trong lượt của đơn vị mang không dùng Quỷ Hỏa và Táp không ở trạng thái bị khống chế, kích hoạt Quyết Đãng Thời Khắc, gây cho toàn thể kẻ địch sát thương chuẩn bằng 150% Phòng ngự ban đầu (sát thương này kích hoạt tối đa 1 lần mỗi lượt).",
+      "vi": "Đơn vị mang thi triển kỹ năng giảm 2 điểm tiêu hao Quỷ Hỏa. Nếu trong lượt của đơn vị mang không dùng Quỷ Hỏa và Táp không ở trạng thái bị khống chế, kích hoạt [Thời Khắc Quyết Đãng], gây cho toàn thể kẻ địch sát thương chuẩn bằng 150% Phòng ngự ban đầu (sát thương này kích hoạt tối đa 1 lần mỗi lượt).",
       "en": "Reduces the skill orb cost of the ally with the Mark by 1 orb. When the ally uses no orbs on their turn and Taki is not under any controlling effects, triggers Sweeping Moment, dealing true damage to all enemies equal to 150% of his starting DEF(the damage can be triggered up to once each turn).",
       "zh": "携带者施放技能消耗鬼火减少1点。若携带者回合内未使用鬼火且泷未处于控制状态，触发决荡时刻，对敌方全体造成初始防御150%真实伤害(该伤害每个回合最多触发1次)。"
     },
@@ -6536,5 +6536,117 @@
       "zh": ""
     },
     "iconFile": "Buff123.png"
+  },
+  "buff_2012_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Khiên Băng",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khi một đồng minh có Khiên Băng gây sát thương lên kẻ địch đang chịu hiệu ứng Đóng Băng hoặc Đóng Băng Sâu, chỉ số Tấn công của họ sẽ tăng thêm 40% so với chỉ số Tấn công ban đầu.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Buff52.png"
+  },
+  "buff_2104_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Đoạt Mệnh",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Gây sát thương gián tiếp vào cuối lượt của mục tiêu.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Indirect17.png"
+  },
+  "buff_2202_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Ấn Hộ Mệnh",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khi đồng minh chịu sát thương không phải dạng chuyển đổi, Inugami sẽ phản công kẻ gây sát thương, gây lượng sát thương bằng 110% Tấn công của bản thân.\n(Dấu chân sẽ xoay quanh các đồng minh được bảo vệ.)",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_2201_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Bạn Thân",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Bạn thân của Inugami. Anh ấy sẽ trở nên cuồng nộ khi bạn thân của mình bị hạ gục.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Buff150.png"
+  },
+  "buff_2204_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Ngưng Thị",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Giảm 35% Tấn công",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "2.png"
+  },
+  "skill_2204_1": {
+    "kind": "skill",
+    "title": {
+      "vi": "Bạn Thân Phẫn Nộ",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Unique46.png"
+  },
+  "buff_3792_1": {
+    "kind": "skill",
+    "title": {
+      "vi": "Loan Văn ・Vân",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tối đa 5 tầng. Sử dụng tấn công thường sẽ tiêu hao toàn bộ số tầng. Mỗi tầng được tiêu hao giúp tăng 3% sát thương không chí mạng của toàn bộ đồng minh (tối đa 15%, không vượt quá 6000% chỉ số Phòng thủ ban đầu của Fukengaku) ​​trong 1 hiệp. Hiệu ứng này có thể kích hoạt nhiều lần để cộng dồn và làm mới thời gian duy trì.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Unique30.png"
+  },
+  "buff_3793_1": {
+    "kind": "skill",
+    "title": {
+      "vi": "Loan Văn ・Sơn",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tối đa 5 tầng. Sử dụng tấn công thường sẽ tiêu hao toàn bộ số tầng. Mỗi tầng được tiêu hao sẽ hồi HP cho tất cả đồng minh một lượng bằng 100% chỉ số Phòng thủ ban đầu của nhân vật.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Unique31.png"
   }
 }

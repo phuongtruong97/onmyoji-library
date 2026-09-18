@@ -66,7 +66,7 @@
         "zh": "呵，接招吧。"
       },
       "description": {
-        "vi": "Ném cầu tuyết tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, đồng thời có 50%（+Chính Xác Hiệu Ứng） xác suất giảm 10 điểm tốc độ, duy trì 2 lượt.",
+        "vi": "Ném cầu tuyết tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, đồng thời có 50% [tips_2] xác suất giảm 10 điểm tốc độ, duy trì 2 lượt.",
         "en": "Throws a snowball at 1 enemy, dealing damage equal to 120% of her ATK with a 50% (+Effect HIT) chance of slowing their SPD by 10 for 2 turn(s).",
         "zh": "扔出雪球攻击敌方目标，造成攻击120%伤害，并有50%（+效果命中）概率降低10点速度，持续2回合。"
       },
@@ -182,7 +182,7 @@
         "zh": "冻结一切的洪荒之雪。"
       },
       "description": {
-        "vi": "Triệu hồi bão tuyết tấn công toàn bộ kẻ địch 3 lần, mỗi lần gây sát thương bằng 36% Tấn công, đồng thời có 8%（+Chính Xác Hiệu Ứng） xác suất khiến mục tiêu [tips_101] trong 1 lượt. Nếu kẻ địch mang hiệu ứng giảm tốc, xác suất cuối cùng tăng 10%. Nếu mục tiêu là quái vật, [tips_2] tăng lên 25%.\nKhi tấn công lại mục tiêu bị [tips_101], có 30% xác suất chuyển hóa thành [tips_112]. Nếu mục tiêu là quái vật, đổi thành [tips_101] 2 lượt.",
+        "vi": "Triệu hồi bão tuyết tấn công toàn bộ kẻ địch 3 lần, mỗi lần gây sát thương bằng 36% Tấn công, đồng thời có 8% [tips_2] xác suất khiến mục tiêu [tips_101] trong 1 lượt. Nếu kẻ địch mang hiệu ứng giảm tốc, xác suất cuối cùng tăng 10%. Nếu mục tiêu là quái vật, [tips_2] tăng lên 25%.\nKhi tấn công lại mục tiêu bị [tips_101], có 30% xác suất chuyển hóa thành [tips_112]. Nếu mục tiêu là quái vật, đổi thành [tips_101] 2 lượt.",
         "en": "Summons a blizzard to inflict a 3-strike attack on all enemies, dealing damage equal to 36% of his ATK on each strike, with a 8% (+Effect HIT) chance of inflicting [tips_101] lasting 1 turn. If the enemy has Slow, increases the final chance by 10%. If the enemy is a monster, increases the [tips_2] to 25%.\nAttacking an enemy with [tips_101] again has a 30% chance of converting it to [tips_112]. If the enemy is a monster, inflicts [tips_101] lasting 2 turns instead.",
         "zh": "召唤暴风雪攻击敌方全体3次，每次造成攻击36%伤害，并有8%（+效果命中）概率将其[tips_101]1回合。若敌方带有减速效果，则最终概率提升10%。若目标为怪物，则[tips_2]提升至25%。\n再次攻击被[tips_101]的目标时，有30%概率转化为[tips_112]。若目标为怪物，则改为[tips_101]2回合。"
       },
