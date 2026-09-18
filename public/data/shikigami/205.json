@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2090,
-      "grade": "D"
+      "value": 2332,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11164,
-      "grade": "B"
+      "value": 12418,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 414,
-      "grade": "B"
+      "value": 459,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 92,
-      "grade": "D"
+      "value": 102,
+      "grade": "B"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2051,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồn Chi Hỏa",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -106,8 +108,52 @@
       "iconFile": "2051.png"
     },
     {
-      "id": 2054,
+      "id": 2052,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 3,
+      "name": {
+        "vi": "Phúc Vận Xương Long",
+        "en": "Serendipity",
+        "zh": "福运昌隆"
+      },
+      "intro": {
+        "vi": "Vận may của mọi người, ta xin nhận trước nhé.",
+        "en": "Why keep all the good luck for yourself?",
+        "zh": "大家的运气，我就先收下啦。"
+      },
+      "description": {
+        "vi": "[tips_7]: Nhận 3 điểm Quỷ Hỏa.",
+        "en": "[tips_7]: Gains 3 orbs.",
+        "zh": "[tips_7]：获得3点鬼火。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Nhận Quỷ Hỏa tăng đến 2",
+            "en": "Increase orbs gained to 2.",
+            "zh": "获得鬼火增至2"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Nhận Quỷ Hỏa tăng đến 3",
+            "en": "Increase orbs gained to 3.",
+            "zh": "获得鬼火增至3"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2052.png"
+    },
+    {
+      "id": 2054,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 3,
       "name": {
         "vi": "Họa Phúc Song Hành",
@@ -117,7 +163,7 @@
       "intro": {
         "vi": "Tái ông mất ngựa, sao biết không phải phúc? Tái ông được ngựa, sao biết không phải họa?",
         "en": "Sometimes a loss can become a win.",
-        "zh": "「塞翁失马，焉知非福，塞翁得马，焉知非祸？」"
+        "zh": "「塞翁失马，焉知非福，塞翁得马，焉知非祸？]"
       },
       "description": {
         "vi": "Phúc họa song hành, mọi may mắn đều đi kèm với cái giá phải trả.\nHy sinh 20% HP hiện tại, nhận 3 điểm Quỷ Hỏa.",
@@ -147,7 +193,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "zuofutongzi.png",
-    "headIconFile": ""
+    "portraitFile": "205.png",
+    "headIconFile": "205a.png"
   }
 }

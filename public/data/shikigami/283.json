@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3001,
+      "value": 3323,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9227,
-      "grade": "C"
+      "value": 10254,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 441,
-      "grade": "A"
+      "value": 490,
+      "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2831,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tinh Quỹ",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2832,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tinh Thần Chi Cảnh",
@@ -120,9 +124,9 @@
         "zh": "踏入我的领地，就要接受我的制裁！"
       },
       "description": {
-        "vi": "Hiệu ứng duy nhất. Trước khi bắt đầu lượt, có xác suất 60% tạo ra huyễn cảnh tồn tại 1 lượt, nếu số lượng Quỷ Hỏa không ít hơn 4 điểm thì chắc chắn thi triển huyễn cảnh; trong huyễn cảnh, khi Hoang bắt đầu lượt, giải trừ 1 trạng thái giảm ích hoặc [tips_3] mang trên bản thân, khi bất kỳ đồng minh nào tiến hành đánh thường lên kẻ địch, Hoang có 50% xác suất [tips_9]. Nếu số lượng Quỷ Hỏa không ít hơn 4 điểm thì chắc chắn thi triển huyễn cảnh.\nTrong huyễn cảnh, nhận kỹ năng bổ sung 『[skill_2835_1]』.\n【Thi triển】 Mở hoặc kéo dài thời gian tồn tại của huyễn cảnh thêm 1 lượt, đồng thời đính kèm 3 tầng [buff_2831_1] cho mục tiêu kẻ địch.",
+        "vi": "Hiệu ứng duy nhất. Trước khi bắt đầu lượt, có xác suất 60% tạo ra huyễn cảnh tồn tại 1 lượt, nếu số lượng Quỷ Hỏa không ít hơn 4 điểm thì chắc chắn thi triển huyễn cảnh; trong huyễn cảnh, khi Hoang bắt đầu lượt, giải trừ 1 trạng thái giảm ích hoặc [tips_3] mang trên bản thân, khi bất kỳ đồng minh nào tiến hành đánh thường lên kẻ địch, Hoang có 50% xác suất [tips_9]. Nếu số lượng Quỷ Hỏa không ít hơn 4 điểm thì chắc chắn thi triển huyễn cảnh.\nTrong huyễn cảnh, nhận kỹ năng bổ sung [skill_2835_1].\n[Thi triển] Mở hoặc kéo dài thời gian tồn tại của huyễn cảnh thêm 1 lượt, đồng thời đính kèm 3 tầng [buff_2831_1] cho mục tiêu kẻ địch.",
         "en": "Exclusive effect. At the start of his turn, has a 60% chance of forming an attack-assisting field lasting 1 turn. Chance of forming a field is 100% if 4 or more orbs are available. While the field is active, at the start of Susabi's turn, dispels 1 debuff or [tips_3] on him; Susabi has a 50% chance of [tips_9]ing an ally when the ally uses a normal attack. Chance of forming a field is 100% if 4 or more orbs are available.\nWhile the field is active, Susabi also gains the additional skill [skill_2835_1].\nActive skill: Forms an attack-assisting field or extends its duration by 1 turn and inflicts 3 [buff_2831_1] stacks on 1 enemy.",
-        "zh": "唯一效果。回合开始前，有60%概率创造存在1回合的幻境，若鬼火数量不少于4点，则必定释放幻境；幻境中，荒回合开始时，驱散自身带有的1个减益状态或[tips_3]，任一友方对敌方进行普攻时，荒有50%概率[tips_9]。若鬼火数量不少于4点，则必定释放幻境。\n在幻境中，获得额外技能『[skill_2835_1]』。\n【施放】开启或延长幻境存在时间1回合，并对敌方目标附加3层[buff_2831_1]。"
+        "zh": "唯一效果。回合开始前，有60%概率创造存在1回合的幻境，若鬼火数量不少于4点，则必定释放幻境；幻境中，荒回合开始时，驱散自身带有的1个减益状态或[tips_3]，任一友方对敌方进行普攻时，荒有50%概率[tips_9]。若鬼火数量不少于4点，则必定释放幻境。\n在幻境中，获得额外技能『[skill_2835_1]。\n【施放】开启或延长幻境存在时间1回合，并对敌方目标附加3层[buff_2831_1]。"
       },
       "upgrades": [
         {
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Xác suất thi triển huyễn cảnh tăng đến 50%.",
-            "en": "Increases the chance of forming the field to 50%.",
-            "zh": "释放幻境概率增至50%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất thi triển huyễn cảnh tăng đến 60%.",
-            "en": "Increases the chance of forming the field to 60%.",
-            "zh": "释放幻境概率增至60%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Xác suất thi triển huyễn cảnh tăng đến 60%.",
@@ -163,22 +151,6 @@
             "vi": "Nếu số lượng Quỷ Hỏa không ít hơn 4 điểm thì chắc chắn thi triển huyễn cảnh.",
             "en": "Chance of forming a field is 100% if 4 or more orbs are available.",
             "zh": "若鬼火数量不少于4点，则必定释放幻境"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Nếu số lượng Quỷ Hỏa không ít hơn 4 điểm thì chắc chắn thi triển huyễn cảnh.",
-            "en": "Chance of forming a field is 100% if 4 or more orbs are available.",
-            "zh": "若鬼火数量不少于4点，则必定释放幻境"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Nếu huyễn cảnh đã tồn tại, khi [Thi triển] tăng thêm 25% thanh hành động cho toàn thể đồng minh.",
-            "en": "While the field is active, using the skill additionally raises the Move Bar of all allies by 25%.",
-            "zh": "若幻境已经存在，施放时额外提升友方全体25%行动条"
           }
         },
         {
@@ -194,8 +166,68 @@
       "iconFile": "2832.png"
     },
     {
+      "id": 2835,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 2832,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Phạt·Nguyệt",
+        "en": "Scourge: Moon",
+        "zh": "天罚·月"
+      },
+      "intro": {
+        "vi": "Hãy than thở sự nhỏ bé của mình đi!",
+        "en": "How frail you are!",
+        "zh": "哀叹自己的渺小吧！"
+      },
+      "description": {
+        "vi": "Tiêu hao tất cả Quỷ Hỏa, triệu hồi sao băng tấn công mục tiêu kẻ địch số lần tương ứng, lần đầu gây sát thương 150%, các sát thương sau đó giảm dần theo thứ tự 20%. Cứ mỗi 1 tầng Tinh Ngân của kẻ địch sẽ làm giảm 1 điểm tiêu hao Quỷ Hỏa. Nếu đánh bại kẻ địch không phải vật triệu hồi, sao băng phía sau đổi thành gây sát thương cho toàn thể kẻ địch.",
+        "en": "Uses up all orbs to summon comets which inflict equal number of strikes on 1 enemy, dealing damage equal to 150% of his ATK for the first strike. Reduces his damage by 20% for each subsequent strike. Each Star Mark on the enemy reduces the orb cost by 1. If the enemy is a non-summoned entity and is KO'd, remaining comets inflict damage to all enemies instead.",
+        "zh": "消耗所有鬼火，召唤流星攻击敌方目标等量次数，首次造成攻击150%伤害，后续伤害依次递减20%。敌方每有1层星痕，消耗鬼火数减少1点。若击败非召唤物的敌方，后续流星改为对敌方全体造成伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至135%",
+            "en": "伤害增加至135%",
+            "zh": "伤害增加至135%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至150%",
+            "en": "伤害增加至150%",
+            "zh": "伤害增加至150%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Cứ mỗi 1 tầng Tinh Ngân của kẻ địch sẽ làm giảm 1 điểm tiêu hao Quỷ Hỏa.",
+            "en": "Each Star Mark on the enemy reduces the orb cost by 1.",
+            "zh": "敌方每有1层星痕，消耗鬼火数减少1点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu đánh bại kẻ địch không phải vật triệu hồi, sao băng phía sau đổi thành gây sát thương cho toàn thể kẻ địch.",
+            "en": "If the enemy is a non-summoned entity and is KO'd, remaining comets inflict damage to all enemies instead.",
+            "zh": "若击败非召唤物的敌方，后续流星改为对敌方全体造成伤害"
+          }
+        }
+      ],
+      "orbCost": 1,
+      "iconFile": "2833.png"
+    },
+    {
       "id": 2833,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Phạt·Tinh",
@@ -216,33 +248,33 @@
         {
           "level": 2,
           "text": {
-            "vi": "Sơ sút tăng đến 135%, đồng thời cường hóa 『[skill_2835_1]』.",
+            "vi": "Sơ sút tăng đến 135%, đồng thời cường hóa [skill_2835_1].",
             "en": "Increases damage to 135% and enhances [skill_2835_1].",
-            "zh": "伤害增加至135%，同时强化『[skill_2835_1]』"
+            "zh": "伤害增加至135%，同时强化『[skill_2835_1]"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Sơ sút tăng đến 150%, đồng thời cường hóa 『[skill_2835_1]』.",
+            "vi": "Sơ sút tăng đến 150%, đồng thời cường hóa [skill_2835_1].",
             "en": "Increases damage to 150% and enhances [skill_2835_1].",
-            "zh": "伤害增加至150%，同时强化『[skill_2835_1]』"
+            "zh": "伤害增加至150%，同时强化『[skill_2835_1]"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Nếu không đánh bại kẻ địch, chồng 1 tầng Tinh Ngân cho kẻ địch, đồng thời cường hóa 『[skill_2835_1]』.",
+            "vi": "Nếu không đánh bại kẻ địch, chồng 1 tầng Tinh Ngân cho kẻ địch, đồng thời cường hóa [skill_2835_1].",
             "en": "If the enemy is not KO'd, inflicts a Star Mark on them and enhances [skill_2835_1].",
-            "zh": "若未击败敌方，为敌方叠加1层星痕，同时强化『[skill_2835_1]』"
+            "zh": "若未击败敌方，为敌方叠加1层星痕，同时强化『[skill_2835_1]"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Nếu đánh bại kẻ địch không phải vật triệu hồi, sao băng phía sau đổi thành gây sát thương cho toàn thể kẻ địch, đồng thời cường hóa 『[skill_2835_1]』.",
+            "vi": "Nếu đánh bại kẻ địch không phải vật triệu hồi, sao băng phía sau đổi thành gây sát thương cho toàn thể kẻ địch, đồng thời cường hóa [skill_2835_1].",
             "en": "If the enemy is a non-summoned entity and is KO'd, remaining comets inflict damage to all enemies instead and enhance [skill_2835_1].",
-            "zh": "若击败非召唤物的敌方，后续流星改为对敌方全体造成伤害，同时强化『[skill_2835_1]』"
+            "zh": "若击败非召唤物的敌方，后续流星改为对敌方全体造成伤害，同时强化『[skill_2835_1]"
           }
         }
       ],
@@ -251,7 +283,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "huang.png",
-    "headIconFile": "h_huang.png"
+    "portraitFile": "283.png",
+    "headIconFile": "283a.png"
   }
 }

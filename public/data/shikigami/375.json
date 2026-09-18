@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2706,
-      "grade": "A"
+      "value": 3002,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
+      "value": 10140,
       "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 392,
-      "grade": "C"
+      "value": 524,
+      "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 106,
+      "value": 116,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3751,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ảnh Kích",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3752,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ảnh Xác",
@@ -120,9 +124,9 @@
         "zh": "我……我不害怕！"
       },
       "description": {
-        "vi": "Khi sử dụng 「[skill_3751_1]」 và 「[skill_3753_1]」 tấn công, có 60% [tips_2] đính kèm [buff_3752_1], duy trì 2 lượt.",
+        "vi": "Khi sử dụng [skill_3751_1] và [skill_3753_1] tấn công, có 60% [tips_2] đính kèm [buff_3752_1], duy trì 2 lượt.",
         "en": "When attacking with [skill_3751_1] or [skill_3753_1], has a 60% [tips_2] of inflicting [buff_3752_1] lasting 2 turns.",
-        "zh": "使用「[skill_3751_1]」和「[skill_3753_1]」攻击时，有60%[tips_2]附加[buff_3752_1]，持续2回合。"
+        "zh": "使用「[skill_3751_1]和「[skill_3753_1]攻击时，有60%[tips_2]附加[buff_3752_1]，持续2回合。"
       },
       "upgrades": [
         {
@@ -164,6 +168,8 @@
     {
       "id": 3753,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mạc Ảnh Cái Địa",
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "375.png",
+    "headIconFile": "375a.png"
   }
 }

@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11392,
+      "value": 11393,
       "grade": "A"
     },
     {
@@ -34,7 +34,7 @@
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 115,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3551,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lộc Ảnh • Thực",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3552,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Minh Hải Chi Chủ",
@@ -120,9 +124,9 @@
         "zh": "我之所在，即为铃鹿山。"
       },
       "description": {
-        "vi": "[tips_11].\nTiến vào trạng thái Ngự Hồn, duy trì 3 lượt, tăng 100% Kháng Hiệu Ứng, sát thương đơn thể gánh chịu giảm 50%, khi bất kỳ đơn vị không phải vật triệu hồi nào tử trận, hồi phục lượng HP bằng 30% giới hạn HP, khi các đồng minh khác thi triển kỹ năng yêu thuật, nhận 1 tầng [buff_3553_1].\nTrong trạng thái Ngự Hồn, khi trên sân có từ 3 đơn vị không phải vật triệu hồi trở lên tử trận, xóa bỏ tất cả [tips_25] của bản thân, tiến vào trạng thái Quy Hài, tăng 100 điểm Tốc độ, sát thương gánh chịu giảm 50%, miễn nhiễm giảm ích và Trục Xuất, khi gây sát thương kèm theo 12% Hút Máu, vào lượt hành động của bản thân tự động thi triển 『[skill_3554_1]』.",
+        "vi": "[tips_11].\nTiến vào trạng thái Ngự Hồn, duy trì 3 lượt, tăng 100% Kháng Hiệu Ứng, sát thương đơn thể gánh chịu giảm 50%, khi bất kỳ đơn vị không phải vật triệu hồi nào tử trận, hồi phục lượng HP bằng 30% giới hạn HP, khi các đồng minh khác thi triển kỹ năng yêu thuật, nhận 1 tầng [buff_3553_1].\nTrong trạng thái Ngự Hồn, khi trên sân có từ 3 đơn vị không phải vật triệu hồi trở lên tử trận, xóa bỏ tất cả [tips_25] của bản thân, tiến vào trạng thái Quy Hài, tăng 100 điểm Tốc độ, sát thương gánh chịu giảm 50%, miễn nhiễm giảm ích và Trục Xuất, khi gây sát thương kèm theo 12% Hút Máu, vào lượt hành động của bản thân tự động thi triển [skill_3554_1].",
         "en": "[tips_11].\nEnters the Soul-controlling form for 3 turns, increasing his Effect RES by 100%, reducing his single-target damage taken by 50%, recovering his HP by 30% of his max HP whenever another non-summoned entity is KO'd, and granting him 1 [buff_3553_1] stack whenever another ally uses a Skill.\nWhile in the Soul-controlling form, when a unit is KO'd, if 3 or more non-summoned entities have been KO'd, removes each [tips_25] on him. He then enters the Reincarnation form, increasing his SPD by 100, reducing his damage taken by 50%, granting him immunity to debuffs and Banish, and allowing him to inflict 12% HP Steal when dealing damage and use [skill_3554_1] on his action turns.",
-        "zh": "[tips_11]。\n进入驭魂形态，持续3回合，提升100%效果抵抗，受到的单体伤害降低50%，任意非召唤物单位阵亡时，恢复生命上限30%的生命，其它友方施放妖术技能后，获得1层[buff_3553_1]。\n驭魂形态下，场上有3名或以上非召唤物单位阵亡时，移除自身所有[tips_25]，进入归骸形态，提升100点速度，受到的伤害降低50%，免疫减益和放逐，造成伤害时附带12%吸血，自身行动回合自动施放『[skill_3554_1]』。"
+        "zh": "[tips_11]。\n进入驭魂形态，持续3回合，提升100%效果抵抗，受到的单体伤害降低50%，任意非召唤物单位阵亡时，恢复生命上限30%的生命，其它友方施放妖术技能后，获得1层[buff_3553_1]。\n驭魂形态下，场上有3名或以上非召唤物单位阵亡时，移除自身所有[tips_25]，进入归骸形态，提升100点速度，受到的伤害降低50%，免疫减益和放逐，造成伤害时附带12%吸血，自身行动回合自动施放『[skill_3554_1]。"
       },
       "upgrades": [
         {
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "[tips_7]: Thi triển 『Minh Hải Chi Chủ』",
+            "vi": "[tips_7]: Thi triển [Minh Hải Chi Chủ]",
             "en": "[tips_7]: Uses Master of the Mountain.",
-            "zh": "[tips_7]：施放『铭海之主』"
+            "zh": "[tips_7]：施放『铭海之主]"
           }
         }
       ],
@@ -162,8 +166,35 @@
       "iconFile": "3552.png"
     },
     {
+      "id": 3554,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 3552,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Nghịch Hồn Tận Đoạn",
+        "en": "Obliterate Evils",
+        "zh": "逆魂尽断"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Điều khiển ác linh tấn công 5 lần, mỗi lần gây sát thương bằng 240% Tấn công cho mục tiêu kẻ địch ngẫu nhiên.",
+        "en": "Commands imps to launch a 5-strike attack at random enemies, dealing damage equal to 240% of his ATK.",
+        "zh": "驱使恶灵攻击5次，每次对随机敌方目标造成攻击240%伤害。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3554.png"
+    },
+    {
       "id": 3553,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đoạn Mạt Vô Minh",
@@ -184,7 +215,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至200%",
+            "vi": "Sát thương tăng lên 200%",
             "en": "伤害增加至200%",
             "zh": "伤害增加至200%"
           }
@@ -192,7 +223,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至220%",
+            "vi": "Sát thương tăng lên 220%",
             "en": "伤害增加至220%",
             "zh": "伤害增加至220%"
           }
@@ -200,7 +231,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至240%",
+            "vi": "Sát thương tăng lên 240%",
             "en": "伤害增加至240%",
             "zh": "伤害增加至240%"
           }
@@ -219,7 +250,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "355.png",
+    "headIconFile": "355a.png"
   }
 }

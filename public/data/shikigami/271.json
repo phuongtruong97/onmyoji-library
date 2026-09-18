@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2867,
-      "grade": "A"
+      "value": 3136,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9569,
-      "grade": "C"
+      "value": 10595,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 361,
+      "value": 397,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 104,
-      "grade": "B"
+      "value": 114,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2711,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quỷ Chi Giả Diện",
@@ -108,6 +110,8 @@
     {
       "id": 2712,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 2,
       "name": {
         "vi": "Tật Hận Chi Tâm",
@@ -120,15 +124,15 @@
         "zh": "只有你们才是最丑陋的！"
       },
       "description": {
-        "vi": "Bát Nhã khi tấn công đơn vị kẻ địch có 40% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất phong ấn hiệu ứng Ngự Hồn và kỹ năng Nội Tại của Thức Thần mục tiêu, duy trì 1 lượt.",
-        "en": "When Hannya attacks an enemy, there is a 40% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of sealing the target's soul effects and passive skills for 1 turns.",
-        "zh": "般若攻击敌方单位时有40%（+[*|a_debuff-acc_per|s_buff概率_per]）的概率封印目标式神的御魂效果和被动技能，持续1回合。"
+        "vi": "Bát Nhã khi tấn công đơn vị kẻ địch có 40% [tips_2] xác suất phong ấn hiệu ứng Ngự Hồn và kỹ năng Nội Tại của Thức Thần mục tiêu, duy trì 1 lượt.",
+        "en": "When Hannya attacks an enemy, there is a 40% (+Effect HIT) chance of sealing the target's soul effects and passive skills for 1 turns.",
+        "zh": "般若攻击敌方单位时有40%（+效果命中）的概率封印目标式神的御魂效果和被动技能，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "此技能无法升级",
+            "vi": "Kỹ năng này không thể nâng cấp",
             "en": "此技能无法升级",
             "zh": "此技能无法升级"
           }
@@ -140,6 +144,8 @@
     {
       "id": 2713,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quỷ Kích",
@@ -152,15 +158,15 @@
         "zh": "别这么快就结束嘛，不好玩~"
       },
       "description": {
-        "vi": "Mặt quỷ khổng lồ lao về phía toàn bộ phe địch, gây sát thương bằng 130% Tấn công, và khiến bản thân cuồng bạo, thay thế Đánh Thường thành 『[skill_2714_1]』, duy trì 2 lượt.",
+        "vi": "Mặt quỷ khổng lồ lao về phía toàn bộ phe địch, gây sát thương bằng 130% Tấn công, và khiến bản thân cuồng bạo, thay thế Đánh Thường thành [skill_2714_1], duy trì 2 lượt.",
         "en": "Summons a giant mask to attack all enemies, dealing damage equal to 130% of his ATK. Also puts him in the Berserk state, changing his normal attack to [skill_2714_1] for 2 turns.",
-        "zh": "巨大的鬼面袭向敌方全体，造成攻击130%伤害，并使自身狂暴，替换普攻为『[skill_2714_1]』，持续2回合。"
+        "zh": "巨大的鬼面袭向敌方全体，造成攻击130%伤害，并使自身狂暴，替换普攻为『[skill_2714_1]，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -168,7 +174,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -176,7 +182,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -184,7 +190,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至130%",
+            "vi": "Sát thương tăng lên 130%",
             "en": "伤害增加至130%",
             "zh": "伤害增加至130%"
           }
@@ -192,10 +198,68 @@
       ],
       "orbCost": 3,
       "iconFile": "2713.png"
+    },
+    {
+      "id": 2714,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 2713,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quỷ Chi Trảo",
+        "en": "Demon Claw",
+        "zh": "鬼之爪"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Sử dụng móng sắc tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 108% Tấn công.",
+        "en": "Uses razor-sharp claws to inflict a 2-strike attack on 1 enemy. Each blow deals damage equal to 108% of his ATK.",
+        "zh": "使用利爪攻击敌方目标2次，每次造成攻击108%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương Quỷ Chi Trảo tăng lên 94.5%",
+            "en": "Increases Demon Claw's damage to 94.5%.",
+            "zh": "鬼之爪伤害增加至94.5%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương Quỷ Chi Trảo tăng lên 99%",
+            "en": "Increases Demon Claw's damage to 99%.",
+            "zh": "鬼之爪伤害增加至99%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương Quỷ Chi Trảo tăng lên 103.5%",
+            "en": "Increases Demon Claw's damage to 103.5%.",
+            "zh": "鬼之爪伤害增加至103.5%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương Quỷ Chi Trảo tăng lên 108%",
+            "en": "Increases Demon Claw's damage to 108%.",
+            "zh": "鬼之爪伤害增加至108%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2711.png"
     }
   ],
   "assets": {
-    "portraitFile": "bore.png",
-    "headIconFile": ""
+    "portraitFile": "271.png",
+    "headIconFile": "271a.png"
   }
 }

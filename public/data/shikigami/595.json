@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,20 +21,20 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 15151,
+      "value": 15153,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 515,
+      "value": 516,
       "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 111,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5951,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ngự Ngã Chi Danh",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5952,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bạch Hồ Chú",
@@ -164,6 +168,8 @@
     {
       "id": 5953,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Trảm Mộng Đao",
@@ -176,9 +182,9 @@
         "zh": "无论何时何地，都会保护大家！"
       },
       "description": {
-        "vi": "[tips_11], có hiệu lực khi Tình Minh phe ta có mặt trên sân. Tấn công toàn bộ phe địch, gây [tips_5] bằng 30% HP tối đa của bản thân; khi thi triển hồi phục cho toàn bộ phe ta 20% lượng HP đã mất và đính kèm [buff_5952_1], duy trì 2 lượt. Sau khi Tình Minh phe ta thi triển yêu thuật, thi triển miễn phí 『Trảm Mộng Đao』. Khi Tình Minh phe ta không có mặt trên sân, thay bằng 『[skill_5954_5]』, cấp độ tăng theo cường hóa kỹ năng 『Trảm Mộng Đao』. (（Sát thương do bản thân gây ra không vượt quá 1600% Tấn công ban đầu.))",
-        "en": "[tips_11], effective when allied Seimei is present. Attacks all enemies, dealing [tips_5] equal to 30% of his max HP; recovers 20% of lost HP for all allies and inflicts [buff_5952_1] for 2 turns. After allied Seimei casts a skill, casts Dream Slash without cost. When allied Seimei is absent, replaces with [skill_5954_5], level scales with Dream Slash skill enhancement. ((Damage dealt does not exceed 1600% of initial ATK.))",
-        "zh": "[tips_11]，友方晴明在场时生效。攻击敌方全体，造成自身生命上限30%[tips_5]；施放时恢复友方全体已损失生命的20%并施加[buff_5952_1]，持续2回合。友方晴明施放妖术后，无消耗施放『斩梦刀』。友方晴明不在场时，替换为『[skill_5954_5]』，等级随『斩梦刀』技能强化。(（自身造成的伤害不超过初始攻击的1600%。）)"
+        "vi": "[tips_11], có hiệu lực khi Tình Minh phe ta có mặt trên sân. Tấn công toàn bộ phe địch, gây [tips_5] bằng 30% HP tối đa của bản thân; khi thi triển hồi phục cho toàn bộ phe ta 20% lượng HP đã mất và đính kèm [buff_5952_1], duy trì 2 lượt. Sau khi Tình Minh phe ta thi triển yêu thuật, thi triển miễn phí [Trảm Mộng Đao]. Khi Tình Minh phe ta không có mặt trên sân, thay bằng [skill_5954_5], cấp độ tăng theo cường hóa kỹ năng [Trảm Mộng Đao]. (Sát thương do bản thân gây ra không vượt quá 1600% Tấn công ban đầu.)",
+        "en": "[tips_11], effective when allied Seimei is present. Attacks all enemies, dealing [tips_5] equal to 30% of his max HP; recovers 20% of lost HP for all allies and inflicts [buff_5952_1] for 2 turns. After allied Seimei casts a skill, casts Dream Slash without cost. When allied Seimei is absent, replaces with [skill_5954_5], level scales with Dream Slash skill enhancement. (Damage dealt does not exceed 1600% of initial ATK.)",
+        "zh": "[tips_11]，友方晴明在场时生效。攻击敌方全体，造成自身生命上限30%[tips_5]；施放时恢复友方全体已损失生命的20%并施加[buff_5952_1]，持续2回合。友方晴明施放妖术后，无消耗施放『斩梦刀]。友方晴明不在场时，替换为『[skill_5954_5]，等级随『斩梦刀]技能强化。(自身造成的伤害不超过初始攻击的1600%。）)"
       },
       "upgrades": [
         {
@@ -208,18 +214,76 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sau khi Tình Minh phe ta thi triển yêu thuật, thi triển miễn phí 『Trảm Mộng Đao』",
+            "vi": "Sau khi Tình Minh phe ta thi triển yêu thuật, thi triển miễn phí [Trảm Mộng Đao]",
             "en": "Casts Dream Slash without cost after allied Seimei casts skill.",
-            "zh": "友方晴明施放妖术后，无消耗施放『斩梦刀』"
+            "zh": "友方晴明施放妖术后，无消耗施放『斩梦刀]"
           }
         }
       ],
       "orbCost": 3,
       "iconFile": "5953.png"
+    },
+    {
+      "id": 5954,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 5953,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mộng Sơn Thệ",
+        "en": "Mt. Dream Vow",
+        "zh": "梦山誓"
+      },
+      "intro": {
+        "vi": "Lấy thân này tên này thề nguyện.",
+        "en": "I swear by this body and name.",
+        "zh": "以此身此名起誓。"
+      },
+      "description": {
+        "vi": "Tấn công toàn bộ phe địch, gây [tips_5] bằng 20% HP tối đa của bản thân; khi tấn công đính kèm [buff_5952_1], duy trì 2 lượt. Thi triển thêm [skill_1004_1] và [skill_1005_1] ở cấp độ hiện tại của Tình Minh phe ta.",
+        "en": "Attacks all enemies, dealing [tips_5] equal to 20% of his max HP; inflicts [buff_5952_1] for 2 turns when attacking. Additionally applies allied Seimei's current level of [skill_1004_1] and [skill_1005_1].",
+        "zh": "攻击敌方全体，造成自身生命上限20%[tips_5]；攻击时施加[buff_5952_1]，持续2回合。额外施加友方晴明当前等级的『[skill_1004_1]与『[skill_1005_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 17%",
+            "en": "Increases the damage to 17%.",
+            "zh": "伤害增至17%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Thi triển thêm [skill_1004_1] ở cấp độ hiện tại của Tình Minh phe ta",
+            "en": "Additionally applies allied Seimei's current level of [skill_1004_1].",
+            "zh": "额外施加友方晴明当前等级的『[skill_1004_1]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 20%",
+            "en": "Increases the damage to 20%.",
+            "zh": "伤害增至20%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Thi triển thêm [skill_1005_1] ở cấp độ hiện tại của Tình Minh phe ta",
+            "en": "Additionally applies allied Seimei's current level of [skill_1005_1].",
+            "zh": "额外施加友方晴明当前等级的『[skill_1005_1]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "5954.png"
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "595.png",
+    "headIconFile": "595a.png"
   }
 }

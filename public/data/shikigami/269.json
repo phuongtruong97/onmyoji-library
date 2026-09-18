@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2974,
+      "value": 3270,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
+      "value": 10026,
       "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 361,
+      "value": 397,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 101,
-      "grade": "B"
+      "value": 111,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,9 +52,11 @@
     {
       "id": 2691,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "不祥之刃",
+        "vi": "Bất Nhận Chi Nhận",
         "en": "不祥之刃",
         "zh": "不祥之刃"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -106,11 +108,129 @@
       "iconFile": "2691.png"
     },
     {
-      "id": 2693,
+      "id": 2692,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "杀戮",
+        "vi": "U Phong",
+        "en": "Ghostly Blade",
+        "zh": "幽锋"
+      },
+      "intro": {
+        "vi": "Vứt bỏ tất cả, cắt đứt mọi tạp niệm đi.",
+        "en": "Sometimes once just isn't enough.",
+        "zh": "抛却一切，斩断杂念吧。"
+      },
+      "description": {
+        "vi": "Khi gây sát thương bạo kích, sát thương bạo kích vĩnh viễn tăng 10%, tối đa tăng 200% sát thương bạo kích. Khi sát thương bạo kích của bản thân đạt 350%, vào đầu lượt sẽ vĩnh viễn bước vào trạng thái [buff_2693_1].",
+        "en": "Whenever she lands a critical hit, permanently increases her Crit DMG by 10% (max 200% Crit DMG increase). If her Crit DMG reaches 350%, she enters the [buff_2693_1] state indefinitely at the beginning of her turn.",
+        "zh": "造成伤害暴击时，暴击伤害永久增加10%，最多增加200%的暴击伤害。当自身暴击伤害到达350%时，在回合开始时永久进入[buff_2693_1]状态。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương bạo kích tăng thêm khi gây sát thương bạo kích tăng lên 6%, giới hạn sát thương bạo kích tăng thêm tăng lên 120%.",
+            "en": "Increases the Crit DMG boost from critical hits to 6% and increases the Crit DMG boost limit to 120%.",
+            "zh": "造成伤害暴击时增加的暴击伤害提升至6%，增加的暴击伤害上限提升至120%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương bạo kích tăng thêm khi gây sát thương bạo kích tăng lên 7%, giới hạn sát thương bạo kích tăng thêm tăng lên 140%.",
+            "en": "Increases the Crit DMG boost from critical hits to 7% and increases the Crit DMG boost limit to 140%.",
+            "zh": "造成伤害暴击时增加的暴击伤害提升至7%，增加的暴击伤害上限提升至140%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương bạo kích tăng thêm khi gây sát thương bạo kích tăng lên 8%, giới hạn sát thương bạo kích tăng thêm tăng lên 160%.",
+            "en": "Increases the Crit DMG boost from critical hits to 8% and increases the Crit DMG boost limit to 160%.",
+            "zh": "造成伤害暴击时增加的暴击伤害提升至8%，增加的暴击伤害上限提升至160%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương bạo kích tăng thêm khi gây sát thương bạo kích tăng lên 10%, giới hạn sát thương bạo kích tăng thêm tăng lên 200%.",
+            "en": "Increases the Crit DMG boost from critical hits to 10% and increases the Crit DMG boost limit to 200%.",
+            "zh": "造成伤害暴击时增加的暴击伤害提升至10%，增加的暴击伤害上限提升至200%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2692.png"
+    },
+    {
+      "id": 2695,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 2693,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bách Hoa Liễu Lạn",
+        "en": "Dazzling Cleave",
+        "zh": "百花缭乱"
+      },
+      "intro": {
+        "vi": "Kẻ cản đường ta, đều phải... tiêu diệt.",
+        "en": "Never mess with a girl with a katana!",
+        "zh": "阻碍我的人，都必须……消灭。"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu kẻ địch 6 lần, mỗi lần gây 60% sát thương.",
+        "en": "Launches a 6-strike attack on the enemy, dealing damage equal to 60% of her ATK on each strike.",
+        "zh": "攻击敌方目标6次，每次造成攻击60%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng đến 65%.",
+            "en": "Increases damage to 65%.",
+            "zh": "伤害增加至65%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 70%",
+            "en": "Increases damage to 70%.",
+            "zh": "伤害增加至70%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng đến 75%.",
+            "en": "Increases damage to 75%.",
+            "zh": "伤害增加至75%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 80%",
+            "en": "Increases damage to 80%.",
+            "zh": "伤害增加至80%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "2695.png"
+    },
+    {
+      "id": 2693,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Sát Lục",
         "en": "杀戮",
         "zh": "杀戮"
       },
@@ -120,15 +240,15 @@
         "zh": "阻碍我的人，都必须……消灭。"
       },
       "description": {
-        "vi": "Tấn công mục tiêu kẻ địch 6 lần, mỗi lần gây sát thương 58%, nếu đánh bại mục tiêu mà số lần tấn công vẫn chưa dùng hết, sẽ chuyển sang tấn công mục tiêu kẻ địch khác có HP thấp nhất, đồng thời tăng số lần tấn công thêm 2 lần. Khi ở trạng thái [buff_2693_1], nhận 『[skill_2695_1]』, cấp độ tăng theo cường hóa kỹ năng «Sát Lục».",
+        "vi": "Tấn công mục tiêu kẻ địch 6 lần, mỗi lần gây sát thương 58%, nếu đánh bại mục tiêu mà số lần tấn công vẫn chưa dùng hết, sẽ chuyển sang tấn công mục tiêu kẻ địch khác có HP thấp nhất, đồng thời tăng số lần tấn công thêm 2 lần. Khi ở trạng thái [buff_2693_1], nhận [skill_2695_1], cấp độ tăng theo cường hóa kỹ năng «Sát Lục».",
         "en": "Launches a 6-strike attack on 1 enemy, dealing damage equal to 58% of her ATK on each strike. If the enemy is KO'd before she finishes her 6 strikes, she changes her target to the enemy with the lowest HP, inflicting the remaining strikes plus 2 additional strikes. If she's in the [buff_2693_1] state, she gains [skill_2695_1] with its skill level equal to the skill level of Savage Combo.",
-        "zh": "攻击敌方目标6次，每次造成攻击58%伤害，若击败目标时攻击次数未用尽，则转换攻击生命最低的另一敌方目标，并使攻击次数增加2次。处于[buff_2693_1]状态时，获得『[skill_2695_1]』，等级随『杀戮』技能强化。"
+        "zh": "攻击敌方目标6次，每次造成攻击58%伤害，若击败目标时攻击次数未用尽，则转换攻击生命最低的另一敌方目标，并使攻击次数增加2次。处于[buff_2693_1]状态时，获得『[skill_2695_1]，等级随『杀戮]技能强化。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至52%",
+            "vi": "Sát thương tăng lên 52%",
             "en": "伤害增加至52%",
             "zh": "伤害增加至52%"
           }
@@ -136,7 +256,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至54%",
+            "vi": "Sát thương tăng lên 54%",
             "en": "伤害增加至54%",
             "zh": "伤害增加至54%"
           }
@@ -144,7 +264,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至56%",
+            "vi": "Sát thương tăng lên 56%",
             "en": "伤害增加至56%",
             "zh": "伤害增加至56%"
           }
@@ -163,7 +283,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "yaodaoji.png",
-    "headIconFile": "h_yaodaoji.png"
+    "portraitFile": "269.png",
+    "headIconFile": "269a.png"
   }
 }

@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3859,
+      "value": 4127,
       "grade": "SS"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10024,
-      "grade": "C"
+      "value": 11279,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 392,
-      "grade": "C"
+      "value": 428,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 109,
-      "grade": "A"
+      "value": 119,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3641,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồng Liên Trảm Diệt",
@@ -64,15 +66,15 @@
         "zh": "服从，或者，死。"
       },
       "description": {
-        "vi": "Sai khiến roi xương gây cho mục tiêu kẻ địch sát thương bằng 120% Tấn công.\nKhi Asura hạ gục mục tiêu, đính kèm [buff_3645_1] cho mục tiêu, đồng thời thay thế 「Thiên Ma Uy Áp」 thành 「Vô Gián Sát Lục」.",
+        "vi": "Sai khiến roi xương gây cho mục tiêu kẻ địch sát thương bằng 120% Tấn công.\nKhi Asura hạ gục mục tiêu, đính kèm [buff_3645_1] cho mục tiêu, đồng thời thay thế [Thiên Ma Uy Áp] thành [Vô Gián Sát Lục].",
         "en": "Wields Bonelash to attack 1 enemy, dealing damage equal to 120% of his ATK.\nWhen Asura KO's the enemy, he inflicts [buff_3645_1] on an enemy and Mighty Crush changes to Endless Slaughter.",
-        "zh": "驱使骨鞭对敌方目标造成攻击120%伤害。\n阿修罗造成击败时，为目标附加[buff_3645_1]，同时将「天魔威压」替换成「无间杀戮」。"
+        "zh": "驱使骨鞭对敌方目标造成攻击120%伤害。\n阿修罗造成击败时，为目标附加[buff_3645_1]，同时将「天魔威压]替换成「无间杀戮]。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 3642,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "天魔威压",
+        "vi": "Thiên Ma Uy Áp",
         "en": "天魔威压",
         "zh": "天魔威压"
       },
@@ -120,7 +124,7 @@
         "zh": "用你的哀嚎，取悦我。"
       },
       "description": {
-        "vi": "战斗和回合开始时，获得9点[buff_3641_1]。当[buff_3641_1]不足9点时，免疫[tips_3]和[tips_109]。每次攻击前消耗对应攻击目标数量的[buff_3641_1]。\n若阿修罗的初始速度快于被攻击目标的初始速度，造成的伤害增加10%。",
+        "vi": "Bắt đầu chiến đấu và đầu lượt, nhận 9 điểm [buff_3641_1]. Khi [buff_3641_1] không đủ 9 điểm, miễn dịch [tips_3] và [tips_109]. Trước mỗi lần tấn công tiêu hao số lượng [buff_3641_1] tương ứng với số lượng mục tiêu bị tấn công.\nNếu Tốc độ ban đầu của Tu La nhanh hơn Tốc độ ban đầu của mục tiêu bị tấn công, sát thương gây ra tăng 10%.",
         "en": "战斗和回合开始时，获得9点[buff_3641_1]。当[buff_3641_1]不足9点时，免疫[tips_3]和[tips_109]。每次攻击前消耗对应攻击目标数量的[buff_3641_1]。\n若阿修罗的初始速度快于被攻击目标的初始速度，造成的伤害增加10%。",
         "zh": "战斗和回合开始时，获得9点[buff_3641_1]。当[buff_3641_1]不足9点时，免疫[tips_3]和[tips_109]。每次攻击前消耗对应攻击目标数量的[buff_3641_1]。\n若阿修罗的初始速度快于被攻击目标的初始速度，造成的伤害增加10%。"
       },
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 8%",
-            "en": "Reduces Sanity's damage suppressing effect to 8%.",
-            "zh": "理性对伤害的压制效果降低至8%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 7%",
-            "en": "Reduces Sanity's damage suppressing effect to 7%.",
-            "zh": "理性对伤害的压制效果降低至7%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 7%",
@@ -163,22 +151,6 @@
             "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 6%",
             "en": "Reduces Sanity's damage suppressing effect to 6%.",
             "zh": "理性对伤害的压制效果降低至6%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 6%",
-            "en": "Reduces Sanity's damage suppressing effect to 6%.",
-            "zh": "理性对伤害的压制效果降低至6%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Mỗi khi mất 1 điểm lí tính, sát thương gánh chịu giảm 6%",
-            "en": "Each point of Sanity he has lost reduces his damage taken by 6%.",
-            "zh": "每失去1点理性，受到的伤害降低6%"
           }
         },
         {
@@ -196,6 +168,8 @@
     {
       "id": 3643,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Luyện Ngục Ngược Sát",
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "364.png",
+    "headIconFile": "364a.png"
   }
 }

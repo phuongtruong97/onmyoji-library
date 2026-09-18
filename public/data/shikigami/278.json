@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2948,
+      "value": 3189,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9569,
-      "grade": "C"
+      "value": 10482,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
+      "value": 392,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 103,
-      "grade": "B"
+      "value": 113,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2781,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tội Phạt·Bạch",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,35 @@
       "iconFile": "2781.png"
     },
     {
-      "id": 2783,
+      "id": 2782,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Bất Diệt",
+        "en": "Valor",
+        "zh": "不灭"
+      },
+      "intro": {
+        "vi": "Sẽ không để các ngươi làm tổn thương đồng bạn đâu~",
+        "en": "I won't let you hurt my friends!",
+        "zh": "不会让你们伤害同伴的~"
+      },
+      "description": {
+        "vi": "Khi thức thần địch hy sinh, dùng đánh thường để tấn công mục tiêu kẻ địch ngẫu nhiên.",
+        "en": "When an enemy shikigami is KO'd, uses a normal attack to attack a random enemy.",
+        "zh": "敌方式神阵亡时，使用普攻攻击随机敌方目标。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "2782.png"
+    },
+    {
+      "id": 2783,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Chiêu Hồn",
@@ -120,7 +149,7 @@
         "zh": "醒来吧！"
       },
       "description": {
-        "vi": "使用巨化小鬼攻击敌方全体，造成攻击126%伤害。使友方全体获得[buff_2783_1]，[tips_15]1回合。在所有阵亡目标的位置召唤其魂魄，魂魄只能普攻，存在1回合。\n魂魄继承该位置目标100%攻击，在被召唤时立即普攻随机敌方目标。",
+        "vi": "Dùng tiểu quỷ khổng lồ hóa tấn công toàn thể phe địch, gây sát thương bằng 126% Tấn công. Khiến toàn thể đồng minh nhận [buff_2783_1], [tips_15] 1 lượt. Tại vị trí của tất cả mục tiêu đã tử trận triệu hồi hồn phách tương ứng, hồn phách chỉ có thể đánh thường, tồn tại 1 lượt.\nHồn phách kế thừa 100% Tấn công của mục tiêu tại vị trí đó, khi được triệu hồi lập tức đánh thường một mục tiêu ngẫu nhiên phe địch.",
         "en": "使用巨化小鬼攻击敌方全体，造成攻击126%伤害。使友方全体获得[buff_2783_1]，[tips_15]1回合。在所有阵亡目标的位置召唤其魂魄，魂魄只能普攻，存在1回合。\n魂魄继承该位置目标100%攻击，在被召唤时立即普攻随机敌方目标。",
         "zh": "使用巨化小鬼攻击敌方全体，造成攻击126%伤害。使友方全体获得[buff_2783_1]，[tips_15]1回合。在所有阵亡目标的位置召唤其魂魄，魂魄只能普攻，存在1回合。\n魂魄继承该位置目标100%攻击，在被召唤时立即普攻随机敌方目标。"
       },
@@ -128,7 +157,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至111%",
+            "vi": "Sát thương tăng lên 111%",
             "en": "伤害增加至111%",
             "zh": "伤害增加至111%"
           }
@@ -136,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至116%",
+            "vi": "Sát thương tăng lên 116%",
             "en": "伤害增加至116%",
             "zh": "伤害增加至116%"
           }
@@ -144,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至121%",
+            "vi": "Sát thương tăng lên 121%",
             "en": "伤害增加至121%",
             "zh": "伤害增加至121%"
           }
@@ -152,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至126%",
+            "vi": "Sát thương tăng lên 126%",
             "en": "伤害增加至126%",
             "zh": "伤害增加至126%"
           }
@@ -163,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_baitongzi.png"
+    "portraitFile": "278.png",
+    "headIconFile": "278a.png"
   }
 }

@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2224,
-      "grade": "C"
+      "value": 2492,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10366,
-      "grade": "B"
+      "value": 11507,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 423,
-      "grade": "B"
+      "value": 467,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 110,
+      "value": 120,
       "grade": "S"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 5581,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Công Vô Bị",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害提升至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害提升至105%",
             "zh": "伤害提升至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害提升至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害提升至110%",
             "zh": "伤害提升至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害提升至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害提升至115%",
             "zh": "伤害提升至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害提升至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害提升至125%",
             "zh": "伤害提升至125%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "5581.png"
     },
     {
-      "id": 5583,
+      "id": 5582,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đoạn Dư Vĩ",
+        "en": "Tail Play",
+        "zh": "断予尾"
+      },
+      "intro": {
+        "vi": "Bất cứ lúc nào, tẩu vi thượng sách.",
+        "en": "Always remember to run when you have the chance.",
+        "zh": "任何时候，走为上策。"
+      },
+      "description": {
+        "vi": "Ánh nến bập bùng, chập chờn biến mất không còn dấu vết. Bản thân khi chịu hiệu ứng đẩy lùi thanh hành động, sẽ đính kèm [buff_5583_1] cho thức thần gây ra hiệu ứng này, duy trì 2 lượt. Đồng thời có 100% xác suất [tips_5581] chiến trường, duy trì cho đến lần hành động tiếp theo. Thời gian hồi kỹ năng 2 lượt. Khi trở lại chiến trường, hồi phục 25% HP tối đa. Khi chịu hiệu ứng khống chế, có 60% xác suất miễn nhiễm khống chế và [tips_5581] chiến trường. Nếu sát thương chịu phải vượt quá 30% giới hạn HP của bản thân, đính kèm [buff_5583_1] cho thức thần kẻ địch gây ra sát thương; nếu Độ Ly chưa ở thời gian hồi chiêu, liền độ ly khỏi chiến trường.",
+        "en": "Then he disappeared again as the candle flickered. When he receives a Move Bar-lowering effect, inflicts [buff_5583_1] lasting 2 turns on the shikigami who caused the effect, with a 100% chance to be [tips_5581] until his next action. CD: 2 turns. When he returns to the battlefield, recovers his HP by 25% of his max HP. When he's inflicted with a controlling effect, has a 60% chance of gaining immunity to the effect and becoming [tips_5581]. If his damage taken exceeds 30% of his max HP, inflicts [buff_5583_1] on the shikigami who dealt the damage. If his Phased Out is not in cooldown, he phases out.",
+        "zh": "烛火摇曳，明灭之间又不见了踪影。自身受到行动条击退效果时，会对造成此效果的式神施加[buff_5583_1]，持续2回合。并有100%的概率[tips_5581]战场，持续到下次行动。技能冷却2回合。回到战场时，恢复25%最大生命值。受到控制效果时，有60%的概率免疫控制并[tips_5581]战场。若受到的伤害超过自身生命上限30%，对造成伤害的敌方式神施加[buff_5583_1]；若遁离未处于冷却，则会遁离战场。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi trở lại chiến trường, hồi phục 25% HP tối đa",
+            "en": "When he returns to the battlefield, recovers his HP by 25% of his max HP.",
+            "zh": "回到战场时，恢复25%最大生命值"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi chịu hiệu ứng đẩy lùi thanh hành động, xác suất [tips_5581] tăng lên 100%",
+            "en": "When he receives a Move Bar-lowering effect, increases his chance to be [tips_5581] to 100%.",
+            "zh": "受到行动条击退效果时[tips_5581]概率提升为100%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi chịu [tips_3], đính kèm [buff_5583_1] cho thức thần gây ra khống chế. Nếu Độ Ly chưa ở thời gian hồi chiêu, liền xóa bỏ giảm ích của bản thân và độ ly khỏi chiến trường.",
+            "en": "When he's inflicted with a [tips_3], inflicts [buff_5583_1] on the shikigami who inflicted the effect. If his Phased Out is not in cooldown, removes debuffs on him and he phases out.",
+            "zh": "受到[tips_3]时，对造成控制的式神施加[buff_5583_1]。若遁离未处于冷却，则会移除自身减益并遁离战场。"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu sát thương chịu phải vượt quá 30% giới hạn HP của bản thân, đính kèm [buff_5583_1] cho thức thần kẻ địch gây ra sát thương; nếu Độ Ly chưa ở thời gian hồi chiêu, liền độ ly khỏi chiến trường",
+            "en": "If his damage taken exceeds 30% of his max HP, inflicts [buff_5583_1] on the shikigami who dealt the damage. If his Phased Out is not in cooldown, he phases out.",
+            "zh": "若受到的伤害超过自身生命上限30%，对造成伤害的敌方式神施加[buff_5583_1]；若遁离未处于冷却，则会遁离战场"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "5582.png"
+    },
+    {
+      "id": 5583,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đạo Diệc Hữu Đạo",
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_daorenshen.png"
+    "portraitFile": "558.png",
+    "headIconFile": "558a.png"
   }
 }

@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 1983,
-      "grade": "D"
+      "value": 2251,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11392,
-      "grade": "A"
+      "value": 12532,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 423,
-      "grade": "B"
+      "value": 467,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 112,
+      "value": 122,
       "grade": "S"
     },
     {
@@ -46,12 +46,14 @@
   "secondaryStats": {
     "critDamage": "150%",
     "effectHit": "0%",
-    "effectRes": "0%"
+    "effectRes": "30%"
   },
   "skills": [
     {
       "id": 5521,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tịnh Uế",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害提升至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害提升至105%",
             "zh": "伤害提升至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害提升至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害提升至110%",
             "zh": "伤害提升至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害提升至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害提升至115%",
             "zh": "伤害提升至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5522,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Nghiệp Hồi",
@@ -131,6 +135,8 @@
     {
       "id": 5523,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Chính Niệm",
@@ -151,7 +157,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Phòng thủ nâng lên 30%",
+            "vi": "Phòng thủ tăng lên 30%",
             "en": "Increases the DEF boost to 30%.",
             "zh": "防御提升至30%"
           }
@@ -159,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Phòng thủ nâng lên 40%",
+            "vi": "Phòng thủ tăng lên 40%",
             "en": "Increases the DEF boost to 40%.",
             "zh": "防御提升至40%"
           }
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "552.png",
+    "headIconFile": "552a.png"
   }
 }

@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2814,
-      "grade": "A"
+      "value": 3450,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 8999,
-      "grade": "D"
+      "value": 10026,
+      "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 379,
-      "grade": "C"
+      "value": 419,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 104,
-      "grade": "B"
+      "value": 114,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2171,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Tập",
@@ -64,7 +66,7 @@
         "zh": "风啊，听吾之命！"
       },
       "description": {
-        "vi": "聚风形成旋转风刃攻击敌方目标，造成攻击125%伤害。",
+        "vi": "Tụ gió tạo thành lưỡi đao gió xoay tròn tấn công mục tiêu phe địch, gây sát thương bằng 125% Tấn công.",
         "en": "聚风形成旋转风刃攻击敌方目标，造成攻击125%伤害。",
         "zh": "聚风形成旋转风刃攻击敌方目标，造成攻击125%伤害。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2172,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cương Thiết Chi Vũ",
@@ -120,7 +124,7 @@
         "zh": "见吾此羽者，死！"
       },
       "description": {
-        "vi": "Khi trận đấu bắt đầu và khi kết thúc lượt, nhận [tips_14].\nNếu Hộ Sức chống đỡ hiệu ứng khống chế, không tốn Quỷ Hỏa thi triển [skill_2173_1].\nKhi gây sát thương, có 50% xác suất nhận [buff_2173_1], giới hạn 80 tầng, duy trì đến khi kết thúc hồi mục.",
+        "vi": "Khi trận đấu bắt đầu và khi kết thúc lượt, nhận [tips_14].\nNếu Che Chắn chống đỡ hiệu ứng khống chế, không tốn Quỷ Hỏa thi triển [skill_2173_1].\nKhi gây sát thương, có 50% xác suất nhận [buff_2173_1], giới hạn 80 tầng, duy trì đến khi kết thúc lượt.",
         "en": "At the start of battle and after his turn ends, gains [tips_14].\nIf Shelter blocks a control effect, casts [skill_2173_1] at no cost.\nWhen dealing damage, has a 50% chance of gaining [buff_2173_1], stacking up to 80 times and lasting until the round ends.",
         "zh": "战斗开始及回合结束时，获得[tips_14]。\n若庇护抵挡控制效果，无消耗施放[skill_2173_1]。\n造成伤害时，有50%概率获得[buff_2173_1]，上限80层，持续至回目结束。"
       },
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sau khi Hộ Sức chống đỡ hiệu ứng khống chế, không tốn Quỷ Hỏa thi triển『Vũ Nhận Bạo Phong』.",
+            "vi": "Sau khi Che Chắn chống đỡ hiệu ứng khống chế, không tốn Quỷ Hỏa thi triển『Vũ Nhận Bạo Phong].",
             "en": "After Shelter blocks a control effect, uses Blade Storm at no cost.",
-            "zh": "庇护抵挡控制效果后，无消耗施放『羽刃暴风』。"
+            "zh": "庇护抵挡控制效果后，无消耗施放『羽刃暴风]。"
           }
         }
       ],
@@ -164,9 +168,11 @@
     {
       "id": 2173,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "羽刃暴风",
+        "vi": "Vũ Nhận Bạo Phong",
         "en": "羽刃暴风",
         "zh": "羽刃暴风"
       },
@@ -176,7 +182,7 @@
         "zh": "将吾这风之力，铭记在心吧！"
       },
       "description": {
-        "vi": "召唤飓风形成大型的羽刃旋涡攻击敌方全体4次，每次造成攻击75%伤害。",
+        "vi": "Triệu hồi bão lốc tạo thành vòng xoáy vũ nhận khổng lồ tấn công toàn thể phe địch 4 lần, mỗi lần gây sát thương bằng 75% Tấn công.",
         "en": "召唤飓风形成大型的羽刃旋涡攻击敌方全体4次，每次造成攻击75%伤害。",
         "zh": "召唤飓风形成大型的羽刃旋涡攻击敌方全体4次，每次造成攻击75%伤害。"
       },
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "217.png",
+    "headIconFile": "217a.png"
   }
 }

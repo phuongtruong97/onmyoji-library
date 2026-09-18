@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
+      "value": 10254,
       "grade": "B"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 5861,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nguy Nga",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至340%",
+            "vi": "Sát thương tăng lên 340%",
             "en": "伤害增加至340%",
             "zh": "伤害增加至340%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至380%",
+            "vi": "Sát thương tăng lên 380%",
             "en": "伤害增加至380%",
             "zh": "伤害增加至380%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至420%",
+            "vi": "Sát thương tăng lên 420%",
             "en": "伤害增加至420%",
             "zh": "伤害增加至420%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至480%",
+            "vi": "Sát thương tăng lên 480%",
             "en": "伤害增加至480%",
             "zh": "伤害增加至480%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5862,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Viên Nhai",
@@ -120,15 +124,15 @@
         "zh": "融冰化雪，焰击长空。"
       },
       "description": {
-        "vi": "[tips_11] Tạo ra Ngự Thần Hỏa Giới trong [tips_15] 3 lượt và đính kèm 3 tầng [buff_5867_1] cho toàn bộ phe địch, tất cả mục tiêu sau khi hành động trong Ngự Thần Hỏa Giới bị đính kèm 1 tầng [buff_5867_1]; đồng minh khi thi triển yêu thuật trong Ngự Thần Hỏa Giới tăng 25% sát thương, duy trì 1 lượt; đồng minh [tips_5862] trong Ngự Thần Hỏa Giới tiêu hao Quỷ Hỏa giảm 1 điểm. Tiên Cơ: Thi triển 『Viên Nhai』.",
+        "vi": "[tips_11] Tạo ra Ngự Thần Hỏa Giới trong [tips_15] 3 lượt và đính kèm 3 tầng [buff_5867_1] cho toàn bộ phe địch, tất cả mục tiêu sau khi hành động trong Ngự Thần Hỏa Giới bị đính kèm 1 tầng [buff_5867_1]; đồng minh khi thi triển yêu thuật trong Ngự Thần Hỏa Giới tăng 25% sát thương, duy trì 1 lượt; đồng minh [tips_5862] trong Ngự Thần Hỏa Giới tiêu hao Quỷ Hỏa giảm 1 điểm. Tiên Cơ: Thi triển [Viên Nhai].",
         "en": "[tips_11]. Creates a Sentry Flame Domain that [tips_15] for 3 turns and applies 3 stacks of [buff_5867_1] to all enemies. After acting within the domain, targets gain 1 additional stack of [buff_5867_1]. Allies casting skills within the domain deal 25% more damage for 1 turn. Allied [tips_5862] also consumes 1 fewer orb while in the domain. Upper Hand: casts Blazing Cliff.",
-        "zh": "[tips_11]。创造[tips_15]3回合的御神火界并为敌方全体附加3层[buff_5867_1]，所有目标在御神火界中行动后被附加1层[buff_5867_1]；友方在御神火界中施放妖术时伤害提升25%，持续1回合；友方[tips_5862]在御神火界中鬼火消耗减少1点。先机：施放『炎崖』。"
+        "zh": "[tips_11]。创造[tips_15]3回合的御神火界并为敌方全体附加3层[buff_5867_1]，所有目标在御神火界中行动后被附加1层[buff_5867_1]；友方在御神火界中施放妖术时伤害提升25%，持续1回合；友方[tips_5862]在御神火界中鬼火消耗减少1点。先机：施放『炎崖]。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương phe ta tăng nâng lên 25%",
+            "vi": "Sát thương phe ta tăng tăng lên 25%",
             "en": "Increases the ally damage boost to 25%.",
             "zh": "友方伤害提升增至25%"
           }
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Tiên Cơ: Thi triển 『Viên Nhai』",
+            "vi": "Tiên Cơ: Thi triển [Viên Nhai]",
             "en": "Upper Hand: Cast Blazing Cliff",
-            "zh": "先机：施放『炎崖』"
+            "zh": "先机：施放『炎崖]"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 5863,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quy Sơn Chi Lộ",
@@ -176,7 +182,7 @@
         "zh": "此行漫漫，又见青山。"
       },
       "description": {
-        "vi": "Đồng minh [tips_5862] khi thi triển yêu thuật trong Ngự Thần Hỏa Giới, Vân Gian Bất Kiến Nhạc nhận 1 tầng [buff_5868_1]. Khi trị liệu tăng Phòng thủ bằng 25% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc cùng Tấn công bằng 100% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc cho mục tiêu (không vượt quá 25% Tấn công ban đầu của đồng minh), duy trì 2 lượt.\n【Thi triển】 Nhận 2 tầng [buff_5868_1], trị liệu cho toàn bộ phe ta lượng HP bằng 240% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc.",
+        "vi": "Đồng minh [tips_5862] khi thi triển yêu thuật trong Ngự Thần Hỏa Giới, Vân Gian Bất Kiến Nhạc nhận 1 tầng [buff_5868_1]. Khi trị liệu tăng Phòng thủ bằng 25% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc cùng Tấn công bằng 100% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc cho mục tiêu (không vượt quá 25% Tấn công ban đầu của đồng minh), duy trì 2 lượt.\n[Thi triển] Nhận 2 tầng [buff_5868_1], trị liệu cho toàn bộ phe ta lượng HP bằng 240% Phòng thủ ban đầu của Vân Gian Bất Kiến Nhạc.",
         "en": "When an allied [tips_5862] casts a skill within the Sentry Flame Domain, Lavaforged Fukengaku gains 1 stack of [buff_5868_1]. When healing, increases the target's DEF by 25% of Lavaforged Fukengaku's starting DEF and ATK by 100% of his starting DEF (up to 25% of the ally's starting ATK), lasting 2 turns.\nCasts to gain 2 stacks of [buff_5868_1], healing all allies for 240% of Lavaforged Fukengaku's starting DEF.",
         "zh": "友方[tips_5862]在御神火界中施放妖术时，云间不见岳获得1层[buff_5868_1]。治疗时提升目标云间不见岳初始防御25%的防御与初始防御100%的攻击（不超过友方初始攻击的25%），持续2回合。\n【施放】获得2层[buff_5868_1]，为友方全体治疗云间不见岳初始防御240%的生命。"
       },
@@ -184,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Lượng trị liệu nâng lên 220%",
+            "vi": "Lượng trị liệu tăng lên 220%",
             "en": "Increases healing to 220%.",
             "zh": "治疗量增至220%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Lượng trị liệu nâng lên 240%",
+            "vi": "Lượng trị liệu tăng lên 240%",
             "en": "Increases healing to 240%.",
             "zh": "治疗量增至240%"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "sp_bujianyue.png",
-    "headIconFile": ""
+    "portraitFile": "586.png",
+    "headIconFile": "586a.png"
   }
 }

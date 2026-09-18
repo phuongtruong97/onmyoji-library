@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2224,
-      "grade": "C"
+      "value": 2439,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12645,
+      "value": 13672,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
+      "value": 392,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 109,
-      "grade": "A"
+      "value": 119,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2871,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lưu Quang",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2872,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 4,
       "name": {
         "vi": "Dật Thái",
@@ -120,9 +124,9 @@
         "zh": "你就是我最珍惜的宝物哦~"
       },
       "description": {
-        "vi": "[tips_11].\nTrước khi phe ta hành động, có 80% xác suất giúp kẻ đó nhận [tips_6], có thể hấp thụ sát thương bằng [b_伤害吸收_per] Tấn công của Hạp Trung Thiếu Nữ, duy trì 2 lượt. Đồng thời nhận 1 hiệu ứng [tips_200], duy trì 2 lượt.\nKhi chịu tấn công, có 100% [tips_2] đính kèm 1 hiệu ứng [tips_201] cho kẻ tấn công, duy trì 1 lượt.",
-        "en": "[tips_11].\nBefore an ally takes an action, has an 80% chance of creating a [tips_6] that lasts 2 turns for the ally, absorbing damage equal to [b_伤害吸收_per] of Hako Shoujo's max HP. Also grants a [tips_200] lasting 2 turns.\nWhen she's attacked, has a 100% [tips_2] of inflicting a [tips_201] lasting 1 turn on the attacker.",
-        "zh": "[tips_11]。\n友方行动前，有80%概率使其获得[tips_6]，能吸收匣中少女[b_伤害吸收_per]攻击的伤害，持续2回合。同时获得1个[tips_200]效果，持续2回合。\n受到攻击时，有100%[tips_2]为攻击者附加1个[tips_201]效果，持续1回合。"
+        "vi": "[tips_11].\nTrước khi phe ta hành động, có 80% xác suất giúp kẻ đó nhận [tips_6], có thể hấp thụ sát thương bằng 70% Tấn công của Hạp Trung Thiếu Nữ, duy trì 2 lượt. Đồng thời nhận 1 hiệu ứng [tips_200], duy trì 2 lượt.\nKhi chịu tấn công, có 100% [tips_2] đính kèm 1 hiệu ứng [tips_201] cho kẻ tấn công, duy trì 1 lượt.",
+        "en": "[tips_11].\nBefore an ally takes an action, has an 80% chance of creating a [tips_6] that lasts 2 turns for the ally, absorbing damage equal to 70% of Hako Shoujo's max HP. Also grants a [tips_200] lasting 2 turns.\nWhen she's attacked, has a 100% [tips_2] of inflicting a [tips_201] lasting 1 turn on the attacker.",
+        "zh": "[tips_11]。\n友方行动前，有80%概率使其获得[tips_6]，能吸收匣中少女70%攻击的伤害，持续2回合。同时获得1个[tips_200]效果，持续2回合。\n受到攻击时，有100%[tips_2]为攻击者附加1个[tips_201]效果，持续1回合。"
       },
       "upgrades": [],
       "orbCost": 0,
@@ -131,6 +135,8 @@
     {
       "id": 2873,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồi Mộng",
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_xiazhongshaonv.png"
+    "portraitFile": "287.png",
+    "headIconFile": "287a.png"
   }
 }

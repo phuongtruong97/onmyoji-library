@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2546,
-      "grade": "B"
+      "value": 2841,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10594,
-      "grade": "B"
+      "value": 11735,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 361,
-      "grade": "C"
+      "value": 401,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 98,
-      "grade": "C"
+      "value": 108,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2421,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Khôi Lỗi • Xuất Kích",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,35 @@
       "iconFile": "2421.png"
     },
     {
-      "id": 2423,
+      "id": 2422,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Khôi Lỗi • Truy Kích",
+        "en": "Golem: Follow-Up",
+        "zh": "傀儡·追击"
+      },
+      "intro": {
+        "vi": "Tiêu diệt ngươi.",
+        "en": "No strings on me!",
+        "zh": "干掉你。"
+      },
+      "description": {
+        "vi": "Khi gây sát thương, có 20% xác suất gây cho mục tiêu sát thương bằng 10% giới hạn HP của kẻ đó, mức tối đa không vượt quá 120% Tấn công.",
+        "en": "When dealing damage, has a 20% chance of inflicting damage equal to 10% of the target's max HP to a maximum of 120% of own ATK.",
+        "zh": "造成伤害时，20%概率对目标造成其生命上限10%伤害，最高不超过攻击120%。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "2422.png"
+    },
+    {
+      "id": 2423,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Khôi Lỗi • Bạo Phát",
@@ -120,7 +149,7 @@
         "zh": "哥哥说他生气了。"
       },
       "description": {
-        "vi": "激活机关，控制傀儡连续攻击敌方目标5次，每次造成攻击67%伤害。",
+        "vi": "Kích hoạt cơ quan, điều khiển con rối liên tục tấn công mục tiêu phe địch 5 lần, mỗi lần gây sát thương bằng 67% Tấn công.",
         "en": "激活机关，控制傀儡连续攻击敌方目标5次，每次造成攻击67%伤害。",
         "zh": "激活机关，控制傀儡连续攻击敌方目标5次，每次造成攻击67%伤害。"
       },
@@ -128,7 +157,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至58%",
+            "vi": "Sát thương tăng lên 58%",
             "en": "伤害增加至58%",
             "zh": "伤害增加至58%"
           }
@@ -136,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至61%",
+            "vi": "Sát thương tăng lên 61%",
             "en": "伤害增加至61%",
             "zh": "伤害增加至61%"
           }
@@ -144,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至64%",
+            "vi": "Sát thương tăng lên 64%",
             "en": "伤害增加至64%",
             "zh": "伤害增加至64%"
           }
@@ -152,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至67%",
+            "vi": "Sát thương tăng lên 67%",
             "en": "伤害增加至67%",
             "zh": "伤害增加至67%"
           }
@@ -163,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "242.png",
+    "headIconFile": "242a.png"
   }
 }

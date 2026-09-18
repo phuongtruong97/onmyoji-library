@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2117,
-      "grade": "D"
+      "value": 2358,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11619,
-      "grade": "A"
+      "value": 12874,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 392,
-      "grade": "C"
+      "value": 437,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 97,
-      "grade": "C"
+      "value": 107,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2681,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tứ Phúc",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -106,8 +108,52 @@
       "iconFile": "2681.png"
     },
     {
-      "id": 2683,
+      "id": 2682,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 3,
+      "name": {
+        "vi": "Chuyển Họa Thành Phúc",
+        "en": "Reversal",
+        "zh": "转祸为福"
+      },
+      "intro": {
+        "vi": "Không sao đâu không sao đâu~ Tiếp theo sẽ thuận lợi thôi.",
+        "en": "It's no big deal. I'm all good now!",
+        "zh": "没事没事～接下来就会顺利了。"
+      },
+      "description": {
+        "vi": "Khi chịu tấn công, có 30% xác suất hồi phục 1 điểm Quỷ Hỏa.",
+        "en": "When attacked, has a 30% chance of gaining 1 orb.",
+        "zh": "受到攻击时，有30%概率回复1点鬼火。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 25%",
+            "en": "Increases chance of triggering to 25%.",
+            "zh": "触发概率增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 30%",
+            "en": "Increases chance of triggering to 30%.",
+            "zh": "触发概率增至30%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2682.png"
+    },
+    {
+      "id": 2683,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lý Ngư Kỳ",
@@ -163,7 +209,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "huibishou.png",
-    "headIconFile": "h_fushen.png"
+    "portraitFile": "268.png",
+    "headIconFile": "268a.png"
   }
 }

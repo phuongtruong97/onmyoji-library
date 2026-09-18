@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2117,
-      "grade": "D"
+      "value": 2358,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11619,
-      "grade": "A"
+      "value": 12874,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 392,
-      "grade": "C"
+      "value": 437,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2081,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Yêu Tửu Hồ",
@@ -64,15 +66,15 @@
         "zh": "我的酒壶，可硬了，嗝……！"
       },
       "description": {
-        "vi": "用酒壶狠狠地砸敌方目标的脑门，造成攻击120%伤害并附加1层[buff_2081_1]，上限5层，持续至战斗结束。此外还有50%（+[*|a_debuff-acc_per|s_buff2概率_per]）概率对其[tips_111]，持续1回合。",
-        "en": "用酒壶狠狠地砸敌方目标的脑门，造成攻击120%伤害并附加1层[buff_2081_1]，上限5层，持续至战斗结束。此外还有50%（+[*|a_debuff-acc_per|s_buff2概率_per]）概率对其[tips_111]，持续1回合。",
-        "zh": "用酒壶狠狠地砸敌方目标的脑门，造成攻击120%伤害并附加1层[buff_2081_1]，上限5层，持续至战斗结束。此外还有50%（+[*|a_debuff-acc_per|s_buff2概率_per]）概率对其[tips_111]，持续1回合。"
+        "vi": "Dùng bình rượu đập thật mạnh vào trán mục tiêu phe địch, gây sát thương bằng 120% Tấn công và gắn 1 tầng [buff_2081_1], tối đa 5 tầng, duy trì đến khi chiến đấu kết thúc. Ngoài ra còn có 50% [tips_2] xác suất khiến mục tiêu bị [tips_111], duy trì 1 lượt.",
+        "en": "用酒壶狠狠地砸敌方目标的脑门，造成攻击120%伤害并附加1层[buff_2081_1]，上限5层，持续至战斗结束。此外还有50%（+Effect HIT）概率对其[tips_111]，持续1回合。",
+        "zh": "用酒壶狠狠地砸敌方目标的脑门，造成攻击120%伤害并附加1层[buff_2081_1]，上限5层，持续至战斗结束。此外还有50%（+效果命中）概率对其[tips_111]，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2082,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Say Ngủ",
@@ -164,6 +168,8 @@
     {
       "id": 2083,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 9,
       "name": {
         "vi": "Liệt Diễm Chi Tửu",
@@ -176,7 +182,7 @@
         "zh": "酒不能给你……不过火可以！"
       },
       "description": {
-        "vi": "喝下一口妖酒，治疗生命上限8%的生命，再喷出妖火攻击敌方全体，造成等同自身当前生命3%伤害，敌方每带有1层[buff_2081_1]，便转为1层[buff_2083_1]，造成自身生命上限5%[tips_5]，持续1回合。",
+        "vi": "Uống một ngụm yêu tửu, trị liệu 8% giới hạn HP, rồi phun yêu hỏa tấn công toàn thể phe địch, gây sát thương tương đương 3% HP hiện tại của bản thân, mỗi tầng [buff_2081_1] phe địch đang mang sẽ chuyển thành 1 tầng [buff_2083_1], gây [tips_5] bằng 5% giới hạn HP của bản thân, duy trì 1 lượt.",
         "en": "喝下一口妖酒，治疗生命上限8%的生命，再喷出妖火攻击敌方全体，造成等同自身当前生命3%伤害，敌方每带有1层[buff_2081_1]，便转为1层[buff_2083_1]，造成自身生命上限5%[tips_5]，持续1回合。",
         "zh": "喝下一口妖酒，治疗生命上限8%的生命，再喷出妖火攻击敌方全体，造成等同自身当前生命3%伤害，敌方每带有1层[buff_2081_1]，便转为1层[buff_2083_1]，造成自身生命上限5%[tips_5]，持续1回合。"
       },
@@ -190,22 +196,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Sát thương tăng đến 14%.",
-            "en": "Increases damage to 14%.",
-            "zh": "伤害增加至14%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Sát thương tăng đến 16%.",
-            "en": "Increases damage to 16%.",
-            "zh": "伤害增加至16%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Sát thương tăng đến 16%.",
@@ -219,22 +209,6 @@
             "vi": "Sát thương tăng đến 18%.",
             "en": "Increases damage to 18%.",
             "zh": "伤害增加至18%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Sát thương tăng đến 18%.",
-            "en": "Increases damage to 18%.",
-            "zh": "伤害增加至18%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Sát thương tăng đến 20%.",
-            "en": "Increases damage to 20%.",
-            "zh": "伤害增加至20%"
           }
         },
         {
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_limao.png"
+    "portraitFile": "208.png",
+    "headIconFile": "208a.png"
   }
 }

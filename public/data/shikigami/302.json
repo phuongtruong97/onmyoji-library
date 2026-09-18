@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2680,
-      "grade": "A"
+      "value": 2948,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10024,
-      "grade": "C"
+      "value": 11051,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
-      "grade": "C"
+      "value": 401,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 106,
+      "value": 116,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3021,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Miên Lý Tàng Châm",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3022,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ty Lũ Tương Liên",
@@ -120,7 +124,7 @@
         "zh": "隔着战场，我们的心是相连着的。"
       },
       "description": {
-        "vi": "召唤针线连接敌方目标及另一名随机敌方，当其中一名敌方受到除霜冻与放逐以外的[tips_3]、受到伤害时，另一名敌方有60%概率被附加同样效果、受到等量70%[tips_12]，且均不触发被动及御魂。\n针线继承目标[z_生命继承比_per]生命（不超过小袖之手生命上限300%）、[z_防御继承比_per]防御。",
+        "vi": "Triệu hồi kim chỉ kết nối mục tiêu phe địch cùng một kẻ địch ngẫu nhiên khác, khi một trong hai kẻ địch chịu [tips_3] ngoài Sương Đông và Trục Xuất hoặc chịu sát thương, kẻ địch còn lại có 60% xác suất bị gắn hiệu ứng tương tự, chịu 70% [tips_12] tương đương, đồng thời đều không kích hoạt bị động và ngự hồn.\nKim chỉ kế thừa [z_生命继承比_per] HP của mục tiêu (không vượt quá 300% giới hạn HP của Tiểu Tụ Chi Thủ), [z_防御继承比_per] Phòng thủ.",
         "en": "召唤针线连接敌方目标及另一名随机敌方，当其中一名敌方受到除霜冻与放逐以外的[tips_3]、受到伤害时，另一名敌方有60%概率被附加同样效果、受到等量70%[tips_12]，且均不触发被动及御魂。\n针线继承目标[z_生命继承比_per]生命（不超过小袖之手生命上限300%）、[z_防御继承比_per]防御。",
         "zh": "召唤针线连接敌方目标及另一名随机敌方，当其中一名敌方受到除霜冻与放逐以外的[tips_3]、受到伤害时，另一名敌方有60%概率被附加同样效果、受到等量70%[tips_12]，且均不触发被动及御魂。\n针线继承目标[z_生命继承比_per]生命（不超过小袖之手生命上限300%）、[z_防御继承比_per]防御。"
       },
@@ -134,38 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
-            "en": "Increases inherited HP to [z_生命继承比_per].",
-            "zh": "继承生命值增至[z_生命继承比_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
-            "en": "Increases inherited HP to [z_生命继承比_per].",
-            "zh": "继承生命值增至[z_生命继承比_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất tăng lên 50%",
-            "en": "Increases chance to 50%.",
-            "zh": "概率增至50%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất tăng lên 50%",
-            "en": "Increases chance to 50%.",
-            "zh": "概率增至50%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Xác suất tăng lên 50%",
@@ -179,38 +151,6 @@
             "vi": "Thừa hưởng Phòng thủ tăng lên [z_防御继承比_per]",
             "en": "Increases inherited DEF to [z_防御继承比_per].",
             "zh": "继承防御值增至[z_防御继承比_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Thừa hưởng Phòng thủ tăng lên [z_防御继承比_per]",
-            "en": "Increases inherited DEF to [z_防御继承比_per].",
-            "zh": "继承防御值增至[z_防御继承比_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Thừa hưởng Phòng thủ tăng lên [z_防御继承比_per]",
-            "en": "Increases inherited DEF to [z_防御继承比_per].",
-            "zh": "继承防御值增至[z_防御继承比_per]"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Xác suất tăng lên 60%",
-            "en": "Increases chance to 60%.",
-            "zh": "概率增至60%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Xác suất tăng lên 60%",
-            "en": "Increases chance to 60%.",
-            "zh": "概率增至60%"
           }
         },
         {
@@ -228,6 +168,8 @@
     {
       "id": 3023,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Xuyên Châm Dẫn Tuyến",
@@ -248,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -256,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -264,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -283,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "302.png",
+    "headIconFile": "302a.png"
   }
 }

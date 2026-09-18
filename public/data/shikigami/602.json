@@ -10,18 +10,18 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3510,
+      "value": 3511,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11505,
+      "value": 11507,
       "grade": "A"
     },
     {
@@ -34,7 +34,7 @@
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 114,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 6021,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Linh Đao",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 6022,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phần Tâm Chiếu Dạ",
@@ -120,9 +124,9 @@
         "zh": "焚心为光，悬照此夜。"
       },
       "description": {
-        "vi": "[tips_11], khi trận đấu bắt đầu, thắp sáng thất tình, nhận [buff_6024_1] bằng 280% Tấn công cho đến lần hành động tiếp theo, đồng thời khiến toàn bộ phe ta nhận 1 tầng [buff_6022_1]. Khi lượt kết thúc, chuyển [buff_6022_1] của mục tiêu phe ta ngẫu nhiên (（ưu tiên kẻ không bị khống chế)) sang bản thân. Lúc này nếu có [tips_3] biến mất, liền nhận [buff_6024_1] bằng 220% Tấn công và tăng 30% Thanh Hành Động.\n【Thi triển】 [tips_1] toàn bộ [tips_3] của mục tiêu.",
-        "en": "[tips_11], at the start of combat, ignites the seven emotions, gaining [buff_6024_1] equal to 280% of ATK until the next turn, while granting all allies 1 stack of [buff_6022_1]. At the end of the turn, transfers a random ally's [buff_6022_1] (（未受控制者优先）) to self. If any [tips_3] disappears at this time, gains [buff_6024_1] equal to 220% of ATK and increases the Move Bar by 30%. \n[Cast] [tips_1] the target's all [tips_3].",
-        "zh": "[tips_11]，战斗开始时，引燃七情， 获得等量于攻击280%的[buff_6024_1]至下次行动，同时令所有友方获得1层[buff_6022_1]。回合结束时，将随机友方目标的[buff_6022_1](（未受控制者优先）)转移至自身。若此时有[tips_3]消失，则获得等量于攻击220%的[buff_6024_1]并提升30%行动条。\n【施放】[tips_1]目标的所有[tips_3]。"
+        "vi": "[tips_11], khi trận đấu bắt đầu, thắp sáng thất tình, nhận [buff_6024_1] bằng 280% Tấn công cho đến lần hành động tiếp theo, đồng thời khiến toàn bộ phe ta nhận 1 tầng [buff_6022_1]. Khi lượt kết thúc, chuyển [buff_6022_1] của mục tiêu phe ta ngẫu nhiên (ưu tiên kẻ không bị khống chế) sang bản thân. Lúc này nếu có [tips_3] biến mất, liền nhận [buff_6024_1] bằng 220% Tấn công và tăng 30% Thanh Hành Động.\n[Thi triển] [tips_1] toàn bộ [tips_3] của mục tiêu.",
+        "en": "[tips_11], at the start of combat, ignites the seven emotions, gaining [buff_6024_1] equal to 280% of ATK until the next turn, while granting all allies 1 stack of [buff_6022_1]. At the end of the turn, transfers a random ally's [buff_6022_1] (未受控制者优先）) to self. If any [tips_3] disappears at this time, gains [buff_6024_1] equal to 220% of ATK and increases the Move Bar by 30%. \n[Cast] [tips_1] the target's all [tips_3].",
+        "zh": "[tips_11]，战斗开始时，引燃七情， 获得等量于攻击280%的[buff_6024_1]至下次行动，同时令所有友方获得1层[buff_6022_1]。回合结束时，将随机友方目标的[buff_6022_1](未受控制者优先）)转移至自身。若此时有[tips_3]消失，则获得等量于攻击220%的[buff_6024_1]并提升30%行动条。\n【施放】[tips_1]目标的所有[tips_3]。"
       },
       "upgrades": [
         {
@@ -164,6 +168,8 @@
     {
       "id": 6023,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cùng Ta Bùng Cháy",
@@ -176,15 +182,15 @@
         "zh": "循此铃音，与我燎原。"
       },
       "description": {
-        "vi": "[tips_11], lắc chuông ra lệnh, chuyển [buff_6022_1] của mục tiêu phe ta chỉ định sang bản thân, và tăng 20% Thanh Hành Động cho kẻ đó. Sau đó gây cho nhóm kẻ địch 3 lần sát thương bằng 50% Tấn công bỏ qua Ngự Hồn, nếu đồng minh khác đều không mang [buff_6022_1], kỹ năng sẽ thay thế vĩnh viễn thành 『[skill_6024_1]』, cấp độ tăng theo cường hóa kỹ năng 『[skill_6023_1]』.",
+        "vi": "[tips_11], lắc chuông ra lệnh, chuyển [buff_6022_1] của mục tiêu phe ta chỉ định sang bản thân, và tăng 20% Thanh Hành Động cho kẻ đó. Sau đó gây cho nhóm kẻ địch 3 lần sát thương bằng 50% Tấn công bỏ qua Ngự Hồn, nếu đồng minh khác đều không mang [buff_6022_1], kỹ năng sẽ thay thế vĩnh viễn thành [skill_6024_1], cấp độ tăng theo cường hóa kỹ năng [skill_6023_1].",
         "en": "[tips_11], ring the bell as a command to transfer the chosen ally's [buff_6022_1] to self and raise their Move Bar by 20%. Then deal 3 hits of damage at 50% ATK to all enemies that ignores Soul effects. If no other allies carry [buff_6022_1], this skill is permanently replaced with [skill_6024_1], and its level scales with [skill_6023_1].",
-        "zh": "[tips_11]，振铃为令，将指定友方的[buff_6022_1]转移至自身，并提升其20%行动条。之后对敌方群体造成3次攻击50%的无视御魂的伤害，若其他友方均未携带[buff_6022_1]，则技能永久替换为『[skill_6024_1]』，等级随『[skill_6023_1]』技能强化。"
+        "zh": "[tips_11]，振铃为令，将指定友方的[buff_6022_1]转移至自身，并提升其20%行动条。之后对敌方群体造成3次攻击50%的无视御魂的伤害，若其他友方均未携带[buff_6022_1]，则技能永久替换为『[skill_6024_1]，等级随『[skill_6023_1]技能强化。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至40%",
+            "vi": "Sát thương tăng lên 40%",
             "en": "伤害增加至40%",
             "zh": "伤害增加至40%"
           }
@@ -216,10 +222,68 @@
       ],
       "orbCost": 2,
       "iconFile": "6023.png"
+    },
+    {
+      "id": 6024,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 6023,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Hỏa Phá Vọng",
+        "en": "Blazing Truth",
+        "zh": "天火破妄"
+      },
+      "intro": {
+        "vi": "Hóa thành tro bụi đi.",
+        "en": "Turn to ash.",
+        "zh": "化为尘烟吧。"
+      },
+      "description": {
+        "vi": "Khi mở khóa tăng 100% Thanh Hành Động cho bản thân và [tips_1] toàn bộ [tips_3].\n[Thi triển] Gây cho nhóm kẻ địch 3 lần sát thương bằng 50% Tấn công, sau đó đánh thêm 1 lần sát thương bằng 240% Tấn công, toàn bộ sát thương bỏ qua hiệu ứng Ngự Hồn của kẻ địch. Bản thân nhận [tips_14], duy trì 1 lượt.",
+        "en": "When unlocked, raises own Move Bar by 100% and [tips_1] all [tips_3].\n[Cast] Deals 3 hits of 50% damage to all enemies, then follows up with 1 extra hit for 240% damage. All damage ignores enemy Soul effects. Gains [tips_14] for 1 turn.",
+        "zh": "解锁时提升自身100%行动条并[tips_1]所有[tips_3]。\n【施放】对敌方群体造成3次攻击50%伤害，之后追加1次攻击240%伤害，所有伤害无视敌方御魂效果。自身获得[tips_14]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "3 lần sát thương đầu tăng lên 45%",
+            "en": "Increases the first 3 hits damage to 45%.",
+            "zh": "前3次伤害增加至45%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương bỏ qua hiệu ứng Ngự Hồn của kẻ địch",
+            "en": "Damage ignores enemy Soul effects.",
+            "zh": "伤害无视敌方御魂效果"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "3 lần sát thương đầu tăng lên 50%",
+            "en": "Increases the first 3 hits damage to 50%.",
+            "zh": "前3次伤害增加至50%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương lần cuối tăng lên 240%",
+            "en": "Increases the damage of the final attack to 240%.",
+            "zh": "末次伤害增加至240%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "6024.png"
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "602.png",
+    "headIconFile": "602a.png"
   }
 }

@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2144,
+      "value": 2385,
       "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
-      "grade": "B"
+      "value": 12532,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 441,
-      "grade": "A"
+      "value": 490,
+      "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 90,
-      "grade": "D"
+      "value": 100,
+      "grade": "B"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2001,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hoa Vũ",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2002,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hoa Chi Hinh Tức",
@@ -120,7 +124,7 @@
         "zh": "芬芳的香气，赐予我治愈之力吧。"
       },
       "description": {
-        "vi": "Khi trị liệu, trị liệu thêm cho các đồng minh khác lượng HP bằng 30% lượng trị liệu lần này, mục tiêu nhận trị liệu từ Đào Hoa Yêu nhận [buff_2002_1], duy trì 1 lượt.\n【Thi triển】 Trị liệu cho mục tiêu đồng minh lượng HP bằng 25% giới hạn HP.",
+        "vi": "Khi trị liệu, trị liệu thêm cho các đồng minh khác lượng HP bằng 30% lượng trị liệu lần này, mục tiêu nhận trị liệu từ Đào Hoa Yêu nhận [buff_2002_1], duy trì 1 lượt.\n[Thi triển] Trị liệu cho mục tiêu đồng minh lượng HP bằng 25% giới hạn HP.",
         "en": "While healing, additionally heals the HP of other allies by 30% of the healing amount. Allies healed by Momo gain [buff_2002_1] for 1 turn.\nActive skill: Heals the HP of 1 ally by 25% of her max HP.",
         "zh": "治疗时，额外治疗其他友方等同于本次治疗量30%的生命，受到桃花妖治疗的目标获得[buff_2002_1]，持续1回合。\n【施放】为友方目标治疗生命上限25%的生命。"
       },
@@ -136,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "治疗增至22%",
+            "vi": "Hồi phục tăng lên 22%",
             "en": "治疗增至22%",
             "zh": "治疗增至22%"
           }
@@ -144,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "治疗增至23%",
+            "vi": "Hồi phục tăng lên 23%",
             "en": "治疗增至23%",
             "zh": "治疗增至23%"
           }
@@ -152,7 +156,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "治疗增至25%",
+            "vi": "Hồi phục tăng lên 25%",
             "en": "治疗增至25%",
             "zh": "治疗增至25%"
           }
@@ -164,6 +168,8 @@
     {
       "id": 2003,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đào Hoa Chước Chước",
@@ -184,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "治疗增至21%",
+            "vi": "Hồi phục tăng lên 21%",
             "en": "治疗增至21%",
             "zh": "治疗增至21%"
           }
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "治疗增至22%",
+            "vi": "Hồi phục tăng lên 22%",
             "en": "治疗增至22%",
             "zh": "治疗增至22%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "治疗增至23%",
+            "vi": "Hồi phục tăng lên 23%",
             "en": "治疗增至23%",
             "zh": "治疗增至23%"
           }
@@ -208,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "治疗增至25%",
+            "vi": "Hồi phục tăng lên 25%",
             "en": "治疗增至25%",
             "zh": "治疗增至25%"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "200.png",
+    "headIconFile": "200a.png"
   }
 }

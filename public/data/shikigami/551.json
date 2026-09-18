@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,20 +21,20 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10594,
+      "value": 10595,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 383,
+      "value": 384,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 110,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5511,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lâm Gian Tức",
@@ -108,6 +110,8 @@
     {
       "id": 5512,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tầm Lộc Tích",
@@ -164,6 +168,8 @@
     {
       "id": 5513,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Sâm Chi Khế",
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_spxiaolunan.png"
+    "portraitFile": "551.png",
+    "headIconFile": "551a.png"
   }
 }

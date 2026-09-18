@@ -10,36 +10,36 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3618,
+      "value": 3886,
       "grade": "SS"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10822,
-      "grade": "B"
+      "value": 11963,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 551,
-      "grade": "S"
+      "value": 595,
+      "grade": "SS"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 109,
-      "grade": "A"
+      "value": 119,
+      "grade": "S"
     },
     {
       "key": "crit",
       "label": "CHÍ MẠNG",
-      "value": "10%",
+      "value": "12%",
       "grade": "S"
     }
   ],
@@ -52,6 +52,8 @@
     {
       "id": 5561,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Quang",
@@ -108,9 +110,11 @@
     {
       "id": 5562,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "无灭",
+        "vi": "Vô Diệt",
         "en": "无灭",
         "zh": "无灭"
       },
@@ -120,7 +124,7 @@
         "zh": "纵宿命使然，仍不可屈服，光的眷顾从不迟来。"
       },
       "description": {
-        "vi": "[tips_11]. Nếu bản thân trong trạng thái [tips_27], Thức Thần phe ta mang [buff_5561_1] trong lượt của bản thân khi gây sát thương kỹ năng, Thái Dương Thần dùng hình thức tương đồng gây cho mục tiêu kẻ địch tương đồng lượng sát thương bằng 70% hệ số sát thương kỹ năng này. Khi chịu tấn công từ kẻ địch, đính kèm [buff_5562_1] cho nguồn gây sát thương, duy trì 1 lượt.",
+        "vi": "[tips_11]. Nếu bản thân trong [tips_27], Thức Thần phe ta mang [buff_5561_1] trong lượt của bản thân khi gây sát thương kỹ năng, Thái Dương Thần dùng hình thức tương đồng gây cho mục tiêu kẻ địch tương đồng lượng sát thương bằng 70% hệ số sát thương kỹ năng này. Khi chịu tấn công từ kẻ địch, đính kèm [buff_5562_1] cho nguồn gây sát thương, duy trì 1 lượt.",
         "en": "[tips_11]. If she's under [tips_27], when the ally with [buff_5561_1] deals Skill damage on their turn, Amaterasu deals damage to the same enemies. The damage is dealt in the same way and has the same types as the Skill damage, except its multipliers are 70% of the Skill damage's multipliers. When she's attacked, inflicts [buff_5562_1] lasting 1 turn on the source of the damage.",
         "zh": "[tips_11]。若自身处于[tips_27]，携带[buff_5561_1]的友方式神在自身回合内造成技能伤害时，天照以相同形式对相同敌方目标造成此技能伤害系数70%的伤害。受到敌方攻击时，为伤害来源附加[buff_5562_1]，持续1个回合。"
       },
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Hệ số sát thương tăng lên 60%",
-            "en": "Increases damage multiplier to 60%.",
-            "zh": "伤害系数提升至60%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Hệ số sát thương tăng lên 65%",
-            "en": "Increases damage multiplier to 65%.",
-            "zh": "伤害系数提升至65%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Hệ số sát thương tăng lên 65%",
@@ -163,22 +151,6 @@
             "vi": "Hệ số sát thương tăng lên 70%",
             "en": "Increases damage multiplier to 70%.",
             "zh": "伤害系数提升至70%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Hệ số sát thương tăng lên 70%",
-            "en": "Increases damage multiplier to 70%.",
-            "zh": "伤害系数提升至70%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Bản thân khi kết liễu, tăng 50% Thanh Hành Động",
-            "en": "When Amaterasu performs a KO, immediately raises her Move Bar by 50%.",
-            "zh": "自身造成击杀时，提升50%行动条"
           }
         },
         {
@@ -196,6 +168,8 @@
     {
       "id": 5563,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Thánh Phán Quyết",
@@ -208,7 +182,7 @@
         "zh": "为着我爱的生灵，为着我爱的世界！"
       },
       "description": {
-        "vi": "Rõ hình rõ nghĩa, cai quản đúng trách nhiệm! Ngưng tụ sức mạnh ánh sáng nhật diệu, gây cho tất cả kẻ địch 3 lần sát thương bằng 100% Tấn công, sau đó truy kích thêm 3 lần sát thương bằng 100% Tấn công vào mục tiêu kẻ địch chỉ định. Phân phát cho Thức Thần có Tấn công ban đầu cao nhất phe ta ngoại trừ bản thân nhận [buff_5561_1], [tips_15] 2 lượt.",
+        "vi": "Hiểu rõ hình dung thấu suốt ý nghĩa, giữ vững chức phận tỏ tường trách nhiệm! Ngưng tụ sức mạnh ánh sáng nhật diệu, gây cho tất cả kẻ địch 3 lần sát thương bằng 100% Tấn công, sau đó truy kích thêm 3 lần sát thương bằng 100% Tấn công vào mục tiêu kẻ địch chỉ định. Phân phát cho Thức Thần có Tấn công ban đầu cao nhất phe ta ngoại trừ bản thân nhận [buff_5561_1], duy trì 2 lượt.",
         "en": "Understand its shape, fulfill its sake! Focuses the radiance force of the Sun to launch a 3-strike attack on all enemies, dealing damage equal to 100% of her ATK on each strike. Then launches 3 follow-up strikes on 1 enemy, dealing damage equal to 100% of her ATK on each strike. Grants [buff_5561_1] that's [tips_15] for 2 turns to another shikigami with the highest starting ATK.",
         "zh": "知其形知其义，司其职明其责！凝结日耀光辉之力，对所有敌方造成3次攻击100%伤害，再对指定敌方目标追加3次攻击100%伤害。使除自身外的友方初始攻击最高的式神获得[buff_5561_1]，[tips_15]2个回合。"
       },
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "tianzhao.png",
-    "headIconFile": ""
+    "portraitFile": "556.png",
+    "headIconFile": "556a.png"
   }
 }

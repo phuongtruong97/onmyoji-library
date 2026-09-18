@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2599,
-      "grade": "B"
+      "value": 2894,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10024,
-      "grade": "C"
+      "value": 11165,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 374,
-      "grade": "C"
+      "value": 415,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 107,
+      "value": 117,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2281,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Chú Chùy",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2282,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Chú Hỏa",
@@ -120,17 +124,17 @@
         "zh": "嘻嘻嘻～就快结束了~"
       },
       "description": {
-        "vi": "Khi kết thúc lượt, có xác suất 40% (+[*|a_debuff-acc_per|s_buff概率_per]) đính kèm [buff_2282_1] cho kẻ địch ngẫu nhiên, khiến chúng nhận [b_属性1数值_per] dễ bị tổn thương, duy trì 2 lượt.",
-        "en": "At the end of her action, has a 40% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [buff_2282_1] lasting 2 turn(s) on 1 random enemy, granting them a [b_属性1数值_per] Vulnerability effect.",
-        "zh": "行动结束时，有40%（+[*|a_debuff-acc_per|s_buff概率_per]）概率对随机敌人附加[buff_2282_1]，使其受到[b_属性1数值_per]易伤，持续2回合。"
+        "vi": "Khi kết thúc lượt, có xác suất 40% [tips_2] đính kèm [buff_2282_1] cho kẻ địch ngẫu nhiên, khiến chúng nhận 15% dễ bị tổn thương, duy trì 2 lượt.",
+        "en": "At the end of her action, has a 40% (+Effect HIT) chance of inflicting [buff_2282_1] lasting 2 turn(s) on 1 random enemy, granting them a 15% Vulnerability effect.",
+        "zh": "行动结束时，有40%（+效果命中）概率对随机敌人附加[buff_2282_1]，使其受到15%易伤，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Hiệu ứng dễ bị tổn thương của [buff_2282_1] tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2282_1]'s Vulnerability effect up to [b_属性1数值_per].",
-            "zh": "[buff_2282_1]易伤效果增至[b_属性1数值_per]"
+            "vi": "Hiệu ứng dễ bị tổn thương của [buff_2282_1] tăng đến 10%.",
+            "en": "Increases [buff_2282_1]'s Vulnerability effect up to 10%.",
+            "zh": "[buff_2282_1]易伤效果增至10%"
           }
         },
         {
@@ -144,9 +148,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Hiệu ứng dễ bị tổn thương của [buff_2282_1] tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2282_1]'s Vulnerability effect up to [b_属性1数值_per].",
-            "zh": "[buff_2282_1]易伤效果增至[b_属性1数值_per]"
+            "vi": "Hiệu ứng dễ bị tổn thương của [buff_2282_1] tăng đến 15%.",
+            "en": "Increases [buff_2282_1]'s Vulnerability effect up to 15%.",
+            "zh": "[buff_2282_1]易伤效果增至15%"
           }
         },
         {
@@ -164,6 +168,8 @@
     {
       "id": 2283,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hình Nộm Thay Thế",
@@ -176,7 +182,7 @@
         "zh": "草人的伤，全都会到你身上哦~啊哈哈哈！"
       },
       "description": {
-        "vi": "召唤诅咒草人连接敌方目标，当草人受到伤害时，对被连接目标造成等量[tips_12]，草人存在3回合。\n草人继承目标[z_生命继承比_per]生命、[z_防御继承比_per]防御。",
+        "vi": "Triệu hồi Người Rơm Nguyền Rủa kết nối mục tiêu phe địch, khi người rơm nhận sát thương, gây [tips_12] tương đương lên mục tiêu bị kết nối, người rơm tồn tại 3 lượt.\nNgười rơm kế thừa [z_生命继承比_per] HP, [z_防御继承比_per] Phòng thủ của mục tiêu.",
         "en": "召唤诅咒草人连接敌方目标，当草人受到伤害时，对被连接目标造成等量[tips_12]，草人存在3回合。\n草人继承目标[z_生命继承比_per]生命、[z_防御继承比_per]防御。",
         "zh": "召唤诅咒草人连接敌方目标，当草人受到伤害时，对被连接目标造成等量[tips_12]，草人存在3回合。\n草人继承目标[z_生命继承比_per]生命、[z_防御继承比_per]防御。"
       },
@@ -184,39 +190,15 @@
         {
           "level": 2,
           "text": {
-            "vi": "继承生命值增至[z_生命继承比_per]",
-            "en": "继承生命值增至[z_生命继承比_per]",
-            "zh": "继承生命值增至[z_生命继承比_per]"
+            "vi": "Giá trị HP của hình nộm bằng [z_生命继承比_per] giới hạn HP của mục tiêu.",
+            "en": "The straw doll's HP is [z_生命继承比_per] of the target's max HP.",
+            "zh": "草人生命值为目标生命上限的[z_生命继承比_per]"
           }
         },
         {
           "level": 2,
           "text": {
-            "vi": "继承生命值增至[z_生命继承比_per]",
-            "en": "继承生命值增至[z_生命继承比_per]",
-            "zh": "继承生命值增至[z_生命继承比_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Giá trị HP của hình nộm bằng [z_生命继承比_per] giới hạn HP của mục tiêu.",
-            "en": "The straw doll's HP is [z_生命继承比_per] of the target's max HP.",
-            "zh": "草人生命值为目标生命上限的[z_生命继承比_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "继承生命值增至[z_生命继承比_per]",
-            "en": "继承生命值增至[z_生命继承比_per]",
-            "zh": "继承生命值增至[z_生命继承比_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "继承生命值增至[z_生命继承比_per]",
+            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
             "en": "继承生命值增至[z_生命继承比_per]",
             "zh": "继承生命值增至[z_生命继承比_per]"
           }
@@ -230,17 +212,9 @@
           }
         },
         {
-          "level": 4,
+          "level": 3,
           "text": {
-            "vi": "继承生命值增至[z_生命继承比_per]",
-            "en": "继承生命值增至[z_生命继承比_per]",
-            "zh": "继承生命值增至[z_生命继承比_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "继承生命值增至[z_生命继承比_per]",
+            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
             "en": "继承生命值增至[z_生命继承比_per]",
             "zh": "继承生命值增至[z_生命继承比_per]"
           }
@@ -254,9 +228,9 @@
           }
         },
         {
-          "level": 5,
+          "level": 4,
           "text": {
-            "vi": "继承生命值增至[z_生命继承比_per]",
+            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
             "en": "继承生命值增至[z_生命继承比_per]",
             "zh": "继承生命值增至[z_生命继承比_per]"
           }
@@ -264,7 +238,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "继承生命值增至[z_生命继承比_per]",
+            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
             "en": "继承生命值增至[z_生命继承比_per]",
             "zh": "继承生命值增至[z_生命继承比_per]"
           }
@@ -275,7 +249,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "228.png",
+    "headIconFile": "228a.png"
   }
 }

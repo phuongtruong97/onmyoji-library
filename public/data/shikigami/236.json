@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2706,
-      "grade": "A"
+      "value": 3002,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9569,
-      "grade": "C"
+      "value": 10595,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 374,
-      "grade": "C"
+      "value": 419,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 98,
-      "grade": "C"
+      "value": 108,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2361,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Trúc Quản Đầu Trịch",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,60 @@
       "iconFile": "2361.png"
     },
     {
-      "id": 2363,
+      "id": 2362,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 4,
+      "name": {
+        "vi": "Trúc Chi Hộ",
+        "en": "Bamboo Shelter",
+        "zh": "竹之护"
+      },
+      "intro": {
+        "vi": "Tên bọn ngươi, đừng có chọc ta!",
+        "en": "Don't mess with me!",
+        "zh": "你们这些家伙，可别惹我！"
+      },
+      "description": {
+        "vi": "Chui vào trong ống trúc, tăng 30% Thanh Hành Động và nhận 1 tầng [buff_2366_1], giới hạn 4 tầng. Khi chui vào nhận [tips_6] không thể xua tan, có thể hấp thụ sát thương bằng 30% giới hạn HP và tăng 100% Phòng thủ, 100% Kháng Hiệu Ứng; nếu [tips_6] này bị phá hủy, Quản Hồ mất toàn bộ số tầng [buff_2366_1] và bị [tips_108] 1 lượt.",
+        "en": "Hides in his bamboo pipe, increasing his Move Bar by 30% and gaining a layer of [buff_2366_1] (stacks up to 4 layers). Also, gains a [tips_6] (cannot be dispelled) as he hides, absorbing damage equal to 30% of his max HP and increasing his DEF by 100% and Effect RES by 100%. If the [tips_6] is destroyed, Kanko loses all layers of [buff_2366_1] and is inflicted with [tips_108] lasting 1 turn.",
+        "zh": "钻入竹管中，增加30%行动条并获得1层[buff_2366_1]，上限4层。钻入时获得不可驱散的[tips_6]，能吸收30%生命上限的伤害并提升100%防御、100%效果抵抗；若此[tips_6]被摧毁，则管狐失去所有[buff_2366_1]层数并[tips_108]1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_6]吸收量增至25%",
+            "en": "[tips_6]吸收量增至25%",
+            "zh": "[tips_6]吸收量增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[tips_6]吸收量增至30%",
+            "en": "[tips_6]吸收量增至30%",
+            "zh": "[tips_6]吸收量增至30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_6] đồng thời tăng 100% Kháng Hiệu Ứng",
+            "en": "[tips_6] also increases Effect RES by 100%.",
+            "zh": "[tips_6]同时提升100%效果抵抗"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2362.png"
+    },
+    {
+      "id": 2363,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bộc Oanh Pháo",
@@ -128,7 +182,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至233%",
+            "vi": "Sát thương tăng lên 233%",
             "en": "伤害增加至233%",
             "zh": "伤害增加至233%"
           }
@@ -136,7 +190,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至244%",
+            "vi": "Sát thương tăng lên 244%",
             "en": "伤害增加至244%",
             "zh": "伤害增加至244%"
           }
@@ -144,7 +198,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至255%",
+            "vi": "Sát thương tăng lên 255%",
             "en": "伤害增加至255%",
             "zh": "伤害增加至255%"
           }
@@ -152,7 +206,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至266%",
+            "vi": "Sát thương tăng lên 266%",
             "en": "伤害增加至266%",
             "zh": "伤害增加至266%"
           }
@@ -163,7 +217,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "guanhu.png",
-    "headIconFile": "h_guanhu.png"
+    "portraitFile": "236.png",
+    "headIconFile": "236a.png"
   }
 }

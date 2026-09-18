@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3132,
+      "value": 3401,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 14251,
-      "grade": "S"
+      "value": 15392,
+      "grade": "SS"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 348,
-      "grade": "D"
+      "value": 388,
+      "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3941,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Không Vong",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3942,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hư Đản Nguyệt Lạc",
@@ -120,7 +124,7 @@
         "zh": "群星已然归位，虚假的月亮将再度坠落。"
       },
       "description": {
-        "vi": "Hư thực khó phân, địch ta không kẽ hở. Triệu hồi [tips_3942], khi [tips_3942] tồn tại, nếu kẻ địch sử dụng đòn đánh thường và kỹ năng tấn công phe ta, có xác suất 70% chuyển hướng đòn tấn công đơn thể cùng trạng thái giảm ích và [tips_3] đi kèm sang Nguyệt Giả; nếu kẻ địch thi triển đòn đánh thường và kỹ năng đơn thể lên phe ta mà không gây ra hiệu quả tấn công, thì cũng có xác suất 70% chuyển hướng trạng thái giảm ích và [tips_3] đó, cứ mỗi 30% HP tối đa của Nguyệt Giả, xác suất trên được tăng thêm 10%. [tips_11], sau khi kết thúc lượt của kẻ địch không phải vật triệu hồi, Nguyệt Độc tăng 10% thanh hành động cho bản thân cho đến lần triệu hồi [tips_3942] đầu tiên.",
+        "vi": "Hư thực khó phân, địch ta không kẽ hở. Triệu hồi [tips_3942], khi [tips_3942] tồn tại, nếu kẻ địch sử dụng đòn đánh thường và kỹ năng tấn công phe ta, có xác suất 70% chuyển hướng đòn tấn công đơn thể cùng trạng thái giảm ích và [tips_3] đi kèm sang [tips_3942]; nếu kẻ địch thi triển đòn đánh thường và kỹ năng đơn thể lên phe ta mà không gây ra hiệu quả tấn công, thì cũng có xác suất 70% chuyển hướng trạng thái giảm ích và [tips_3] đó, cứ mỗi 30% HP tối đa của [tips_3942], xác suất trên được tăng thêm 10%. \n[tips_11], sau khi kết thúc lượt của kẻ địch không phải vật triệu hồi, Nguyệt Độc tăng 10% thanh hành động cho bản thân cho đến lần triệu hồi [tips_3942] đầu tiên.",
         "en": "There's a fine line between illusion and reality, friend and foe. Conjures the [tips_3942]. While the [tips_3942] exists, when an enemy uses a normal attack or a skill to attack one or more allies, there's a 70% chance of redirecting the single-target attack and the debuffs and [tips_3]s it inflicts to the Illusory Moon; when an enemy uses a normal attack or a single-target skill on one or more allies and fails to land an attacking effect, there's also a 70% chance of redirecting its debuffs and [tips_3]s. For every 30% of the Illusory Moon's max HP, the above chance increases by an additional 10%. When summoning [tips_3942], immediately applies 2 stacks of [buff_3941_1] to all enemies. [tips_11]. At the end of a non-summoned enemy entity's turn, Tsukuyomi raises his own Move Bar by 10% until he conjures the [tips_3942] for the first time.",
         "zh": "虚实难分，敌我无间。召唤[tips_3942]，[tips_3942]存在时，若敌方使用普攻和技能攻击友方，有70%的概率将其中的单体攻击及其附带的减益和[tips_3]转移至虚假之月；若敌方对友方施放普攻和单体技能未造成攻击效果，则同样有70%的概率转移其减益和[tips_3]，虚假之月每有30%最大血量，以上概率额外提升10%。召唤[tips_3942]时，立即为全体敌方附加2层[buff_3941_1]。[tips_11]，非召唤物的敌方回合结束后，月读增加自身10%行动条直至首次召唤[tips_3942]。"
       },
@@ -134,14 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Xác suất chuyển hướng tăng đến 50%.",
-            "en": "Increases the redirection chance to 50%.",
-            "zh": "转移概率提升至50%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Xác suất tăng đến 60%.",
@@ -150,35 +146,11 @@
           }
         },
         {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất chuyển hướng tăng đến 60%.",
-            "en": "Increases the redirection chance to 60%.",
-            "zh": "转移概率提升至60%"
-          }
-        },
-        {
           "level": 4,
           "text": {
-            "vi": "Xác suất tăng đến 70%, cứ mỗi 30% HP tối đa của Nguyệt Giả, xác suất tăng thêm 10%.",
+            "vi": "Xác suất tăng đến 70%, cứ mỗi 30% HP tối đa của [tips_3942], xác suất tăng thêm 10%.",
             "en": "Chance increases to 70%. For every 30% of Illusory Moon's max HP, the chance increases by an additional 10%",
             "zh": "概率提升至70%，虚假之月每有30%最大血量，概率额外提升10%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Xác suất chuyển hướng tăng đến 70%, cứ mỗi 30% HP tối đa của Nguyệt Giả, xác suất tăng thêm 10%.",
-            "en": "Transfer chance increases to 70%. For every 30% of Illusory Moon's max HP, the chance increases by an additional 10%",
-            "zh": "转移概率提升至70%，虚假之月每有30%最大血量，概率额外提升10%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "[tips_11], sau khi kết thúc lượt của kẻ địch không phải vật triệu hồi, Nguyệt Độc tăng 10% thanh hành động cho bản thân cho đến lần triệu hồi [tips_3942] đầu tiên.",
-            "en": "[tips_11]. At the end of a non-summoned enemy entity's turn, raise Tsukuyomi's Move Bar by 10% until Tsukuyomi summons the [tips_3942] for the first time.",
-            "zh": "[tips_11]，非召唤物的敌方回合结束后，月读增加自身10%行动条直至首次召唤[tips_3942]"
           }
         },
         {
@@ -196,6 +168,8 @@
     {
       "id": 3943,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nguyệt Tẫn Thiên Cực",
@@ -216,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至47%",
+            "vi": "Sát thương tăng lên 47%",
             "en": "伤害增加至47%",
             "zh": "伤害增加至47%"
           }
@@ -224,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至50%",
+            "vi": "Sát thương tăng lên 50%",
             "en": "伤害增加至50%",
             "zh": "伤害增加至50%"
           }
@@ -232,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至53%",
+            "vi": "Sát thương tăng lên 53%",
             "en": "伤害增加至53%",
             "zh": "伤害增加至53%"
           }
@@ -240,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sát thương tăng đến 56%, số tầng tinh diệu đính kèm tăng đến 2 tầng.",
+            "vi": "Sát thương tăng lên 56%, số tầng [buff_3941_1] đính kèm tăng đến 2 tầng.",
             "en": "Increases the damage to 56% and increases the Lost Star stacks inflicted to 2.",
             "zh": "伤害增加至56%，附加惑星增加至2层"
           }
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_yueduming.png"
+    "portraitFile": "394.png",
+    "headIconFile": "394a.png"
   }
 }

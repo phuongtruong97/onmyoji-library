@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2706,
-      "grade": "A"
+      "value": 3002,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
-      "grade": "B"
+      "value": 11393,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 348,
-      "grade": "D"
+      "value": 388,
+      "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 109,
-      "grade": "A"
+      "value": 119,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2851,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Trẫm Vũ",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害增加至85%",
             "zh": "伤害增加至85%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害增加至90%",
             "zh": "伤害增加至90%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至95%",
+            "vi": "Sát thương tăng lên 95%",
             "en": "伤害增加至95%",
             "zh": "伤害增加至95%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2852,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 8,
       "name": {
         "vi": "Độc Chi Hoa",
@@ -120,7 +124,7 @@
         "zh": "逃也没用的，放弃吧。"
       },
       "description": {
-        "vi": "Khi chịu tấn công, đính kèm 1 tầng [buff_2852_1] cho kẻ tấn công.\n【Thi triển】 Đính kèm 2 tầng [buff_2852_1] cho toàn bộ phe địch, căn cứ vào số tầng [buff_2852_1] từ 1 ~ 5 tầng, gây [tips_5] bằng 1.5%, 4.5%, 9%, 15%, 22.5% giới hạn HP của mục tiêu (không vượt quá 280% Tấn công của Trẫm). Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ.",
+        "vi": "Khi chịu tấn công, đính kèm 1 tầng [buff_2852_1] cho kẻ tấn công.\n[Thi triển] Đính kèm 2 tầng [buff_2852_1] cho toàn bộ phe địch, căn cứ vào số tầng [buff_2852_1] từ 1 ~ 5 tầng, gây [tips_5] bằng 1.5%, 4.5%, 9%, 15%, 22.5% giới hạn HP của mục tiêu (không vượt quá 280% Tấn công của Trẫm). Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ.",
         "en": "When attacked, inflicts a layer of [buff_2852_1] to the attacker.\nActive skill: Inflicts 2 layers of [buff_2852_1] on all enemies, dealing [tips_5] equal to 1.5%, 4.5%, 9%, 15%, or 22.5% of the targets' max HP based on the layers (1-5) of [buff_2852_1] they have to a maximum of 280% of Chin's ATK. When Chin deals indirect damage, each layer of [buff_2852_1] reduces their DEF by 50.",
         "zh": "受到攻击时，为攻击者附加1层[buff_2852_1]。\n【施放】为敌方全体附加2层[buff_2852_1]，根据[buff_2852_1]层数1～5层，造成目标生命上限1.5%、4.5%、9%、15%、22.5%[tips_5]（不超过鸩攻击280%）。鸩造成间接伤害时，目标带有的每层[buff_2852_1]视同降低50防御。"
       },
@@ -142,30 +146,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Tăng thêm 500% Sát Thương Gián Tiếp do [buff_2852_1] gây ra",
-            "en": "Increases [buff_2852_1]'s indirect damage to 500%.",
-            "zh": "[buff_2852_1]造成的间接伤害加成500%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ",
-            "en": "When Chin deals indirect damage, each layer of [buff_2852_1] reduces their DEF by 50.",
-            "zh": "鸩造成间接伤害时，目标带有的每层[buff_2852_1]视同降低50防御"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ",
-            "en": "When Chin deals indirect damage, each layer of [buff_2852_1] reduces their DEF by 50.",
-            "zh": "鸩造成间接伤害时，目标带有的每层[buff_2852_1]视同降低50防御"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Khi Trẫm gây Sát Thương Gián Tiếp, mỗi tầng [buff_2852_1] mục tiêu mang được coi như giảm 50 Phòng thủ",
@@ -184,33 +164,25 @@
         {
           "level": 4,
           "text": {
-            "vi": "Thành phần Sát Thương Gián Tiếp do [buff_2852_1] gây ra đổi thành 500%",
-            "en": "[buff_2852_1]'s indirect damage is now 500%.",
-            "zh": "[buff_2852_1]造成的间接伤害加成改为500%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
             "vi": "Tăng thêm 500% Sát Thương Gián Tiếp do [buff_2852_1] gây ra",
             "en": "Increases [buff_2852_1]'s indirect damage to 500%.",
             "zh": "[buff_2852_1]造成的间接伤害加成500%"
           }
         },
         {
-          "level": 5,
+          "level": 4,
           "text": {
-            "vi": "Khi đính kèm lại [buff_2852_1] lên mục tiêu đã đạt số tầng tối đa, gây [tips_5] bằng 30% giới hạn HP cho mục tiêu đó (（không vượt quá 280% Tấn công của Trẫm))",
-            "en": "When inflicting [buff_2852_1] to an enemy with maxed out stacks, inflicts [tips_5] equal to 30% of their max HP((max 280% of Chin's ATK)).",
-            "zh": "对层数已达上限的目标再次附加[buff_2852_1]时，对该目标造成其生命上限30%的[tips_5](（不超过鸩攻击280%）)"
+            "vi": "Thành phần Sát Thương Gián Tiếp do [buff_2852_1] gây ra đổi thành 500%",
+            "en": "[buff_2852_1]'s indirect damage is now 500%.",
+            "zh": "[buff_2852_1]造成的间接伤害加成改为500%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Khi đính kèm lại [buff_2852_1] lên mục tiêu đã đạt số tầng tối đa, gây [tips_5] bằng 30% giới hạn HP cho mục tiêu đó (（không vượt quá 280% Tấn công của Trẫm))",
-            "en": "When inflicting [buff_2852_1] to an enemy with maxed out stacks, inflicts [tips_5] equal to 30% of their max HP((max 280% of Chin's ATK)).",
-            "zh": "对层数已达上限的目标再次附加[buff_2852_1]时，对该目标造成其生命上限30%的[tips_5](（不超过鸩攻击280%）)"
+            "vi": "Khi đính kèm lại [buff_2852_1] lên mục tiêu đã đạt số tầng tối đa, gây [tips_5] bằng 30% giới hạn HP cho mục tiêu đó (không vượt quá 280% Tấn công của Trẫm)",
+            "en": "When inflicting [buff_2852_1] to an enemy with maxed out stacks, inflicts [tips_5] equal to 30% of their max HP((max 280% of Chin's ATK).",
+            "zh": "对层数已达上限的目标再次附加[buff_2852_1]时，对该目标造成其生命上限30%的[tips_5](不超过鸩攻击280%）)"
           }
         },
         {
@@ -252,6 +224,8 @@
     {
       "id": 2853,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Độc Thất",
@@ -307,7 +281,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "zhen.png",
-    "headIconFile": ""
+    "portraitFile": "285.png",
+    "headIconFile": "285a.png"
   }
 }

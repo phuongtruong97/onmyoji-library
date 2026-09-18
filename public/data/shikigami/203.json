@@ -9,8 +9,8 @@
   "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "statState": "LV40_NO_EVO",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,13 +21,13 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
+      "value": 10254,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 396,
+      "value": 397,
       "grade": "B"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2031,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Liếm",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至130%",
+            "vi": "Sát thương tăng lên 130%",
             "en": "伤害增加至130%",
             "zh": "伤害增加至130%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2032,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 3,
       "name": {
         "vi": "Lung Trung Hỏa",
@@ -148,6 +152,8 @@
     {
       "id": 2033,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 4,
       "name": {
         "vi": "Đại Quỷ Lung",
@@ -168,7 +174,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Tăng hiệu ứng Bạo Kích nâng lên 10%",
+            "vi": "Tăng hiệu ứng Bạo Kích tăng lên 10%",
             "en": "Increases Crit boost effect to 10%.",
             "zh": "提升暴击效果增至10%"
           }
@@ -176,7 +182,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Tăng hiệu ứng Bạo Kích nâng lên 15%",
+            "vi": "Tăng hiệu ứng Bạo Kích tăng lên 15%",
             "en": "Increases Crit boost effect to 15%.",
             "zh": "提升暴击效果增至15%"
           }
@@ -184,7 +190,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Tăng hiệu ứng Bạo Kích nâng lên 20%",
+            "vi": "Tăng hiệu ứng Bạo Kích tăng lên 20%",
             "en": "Increases Crit boost effect to 20%.",
             "zh": "提升暴击效果增至20%"
           }
@@ -195,7 +201,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "203.png",
+    "headIconFile": "203a.png"
   }
 }

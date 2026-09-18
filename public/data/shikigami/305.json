@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3055,
+      "value": 3350,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
-      "grade": "C"
+      "value": 10254,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 392,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 102,
-      "grade": "B"
+      "value": 112,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3051,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thích Vật Chi Hình",
@@ -64,15 +66,15 @@
         "zh": "妖怪得其形，将化为不该存于世间之物。"
       },
       "description": {
-        "vi": "Sử dụng bùa chú tấn công mục tiêu kẻ địch, hé lộ 『Hình』 của mục tiêu, gây sát thương bằng 125% Tấn công.",
+        "vi": "Sử dụng bùa chú tấn công mục tiêu kẻ địch, hé lộ [Hình] của mục tiêu, gây sát thương bằng 125% Tấn công.",
         "en": "Uses an amulet to attack and reveal the Shape of a target, dealing damage equal to 125% of his ATK.",
-        "zh": "使用符咒攻击敌方目标，揭示目标之『形』，造成攻击125%伤害。"
+        "zh": "使用符咒攻击敌方目标，揭示目标之『形]，造成攻击125%伤害。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3052,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Đạo Vật Chi Chân Lý",
@@ -117,7 +121,7 @@
       "intro": {
         "vi": "Chân và \"Lý\" của chư vị, xin hãy dốc lòng bày tỏ đi!",
         "en": "Reveal your Truth and Reason to me!",
-        "zh": "诸位的「真」与「理」，请仔细道来吧！"
+        "zh": "诸位的「真]与「理]，请仔细道来吧！"
       },
       "description": {
         "vi": "[tips_11]\nSau khi lượt kẻ địch kết thúc, có 50% xác suất dùng Thiên Bình đánh dấu kẻ đó, giới hạn 3 Thiên Bình. Khi tấn công kẻ địch mang Thiên Bình, mỗi Thiên Bình tăng 33% sát thương.\nKẻ địch mang 1, 2, 3 Thiên Bình, khi HP thấp hơn 30%, 40%, 60%, sẽ chuyển hóa tất cả Thiên Bình thành [buff_3052_1], duy trì 2 lượt.",
@@ -131,6 +135,8 @@
     {
       "id": 3053,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thoái Ma",
@@ -138,9 +144,9 @@
         "zh": "退魔"
       },
       "intro": {
-        "vi": "Thích vật chi hình, đạo vật chi chân lý. Y phúng 「Hình」 「Chân」 「Lý」, Thoái Ma Kiếm, giải phóng!",
+        "vi": "Thích vật chi hình, đạo vật chi chân lý. Y phúng [Hình] [Chân] [Lý], Thoái Ma Kiếm, giải phóng!",
         "en": "Form, truth, reason, assembled thus! My sword shall be released!",
-        "zh": "释物之形，道物之真理。依凭「形」 「真」 「理」，退魔剑，释放！"
+        "zh": "释物之形，道物之真理。依凭「形] [真] [理]，退魔剑，释放！"
       },
       "description": {
         "vi": "Rút Thoái Ma Kiếm, biến thành thần linh dát vàng, gây cho mục tiêu kẻ địch sát thương bằng 328.75% Tấn công và dùng Thiên Bình đánh dấu kẻ đó.\nNếu kẻ địch mang [buff_3052_1], đổi thành gây sát thương bằng 300% HP hiện tại của kẻ đó (không vượt quá 600% Tấn công), sát thương lần này bỏ qua [tips_6], không thể san sẻ, không kích hoạt Ngự Hồn và Nội Tại của kẻ đó.",
@@ -151,7 +157,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至276.15%",
+            "vi": "Sát thương tăng lên 276.15%",
             "en": "伤害增加至276.15%",
             "zh": "伤害增加至276.15%"
           }
@@ -159,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至289.3%",
+            "vi": "Sát thương tăng lên 289.3%",
             "en": "伤害增加至289.3%",
             "zh": "伤害增加至289.3%"
           }
@@ -167,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至302.45%",
+            "vi": "Sát thương tăng lên 302.45%",
             "en": "伤害增加至302.45%",
             "zh": "伤害增加至302.45%"
           }
@@ -175,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至328.75%",
+            "vi": "Sát thương tăng lên 328.75%",
             "en": "伤害增加至328.75%",
             "zh": "伤害增加至328.75%"
           }
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "305.png",
+    "headIconFile": "305a.png"
   }
 }

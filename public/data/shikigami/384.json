@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2261,
-      "grade": "C"
+      "value": 2503,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11392,
+      "value": 12418,
       "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 388,
-      "grade": "C"
+      "value": 432,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 111,
+      "value": 121,
       "grade": "S"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3841,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Giáp Chi Sắc • Tuyết",
@@ -108,6 +110,8 @@
     {
       "id": 3842,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Mâu Chi Sắc • Yểm",
@@ -131,6 +135,8 @@
     {
       "id": 3843,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Chi Sắc • Xích",
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "fenpopo.png",
-    "headIconFile": "h_fenpopo.png"
+    "portraitFile": "384.png",
+    "headIconFile": "384a.png"
   }
 }

@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2546,
-      "grade": "B"
+      "value": 2814,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10024,
-      "grade": "C"
+      "value": 11165,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 383,
-      "grade": "C"
+      "value": 428,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 110,
+      "value": 120,
       "grade": "S"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2591,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Sâm Chi Lực",
@@ -64,9 +66,9 @@
         "zh": "接受来自森林的惩罚吧！"
       },
       "description": {
-        "vi": "Tiểu Lộc Nam dùng sức mạnh rừng sâu gọi ra dây leo tấn công mục tiêu kẻ địch, gây sát thương 120% và có xác suất 100% (+[*|a_debuff-acc_per|s_buff概率_per]) giảm [b_属性1数值_per] điểm kháng hiệu ứng, duy trì 2 lượt.",
-        "en": "Summons vines to attack 1 enemy, dealing damage equal to 120% of his ATK with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of reducing their Effect RES by [b_属性1数值_per] for 2 turn(s).",
-        "zh": "以森林之力唤出藤蔓攻击敌方目标，造成攻击120%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率降低[b_属性1数值_per]点效果抵抗，持续2回合。"
+        "vi": "Tiểu Lộc Nam dùng sức mạnh rừng sâu gọi ra dây leo tấn công mục tiêu kẻ địch, gây sát thương 120% và có xác suất 100% [tips_2] giảm 20% điểm kháng hiệu ứng, duy trì 2 lượt.",
+        "en": "Summons vines to attack 1 enemy, dealing damage equal to 120% of his ATK with a 100% (+Effect HIT) chance of reducing their Effect RES by 20% for 2 turn(s).",
+        "zh": "以森林之力唤出藤蔓攻击敌方目标，造成攻击120%伤害并有100%（+效果命中）概率降低20%点效果抵抗，持续2回合。"
       },
       "upgrades": [
         {
@@ -106,8 +108,68 @@
       "iconFile": "2591.png"
     },
     {
-      "id": 2593,
+      "id": 2592,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Sinh Sinh Bất Tức",
+        "en": "Circle of Life",
+        "zh": "生生不息"
+      },
+      "intro": {
+        "vi": "Sinh sinh bất tức, rừng sâu che chở.",
+        "en": "The forest provides shelter for all life.",
+        "zh": "生生不息，森林庇护。"
+      },
+      "description": {
+        "vi": "Khi kết thúc lượt, nếu lượt đó không tiêu hao [buff_2592_1] thì nhận 1 tầng trạng thái này, tối đa 3 tầng.\nKhi chịu [tips_3], có xác suất 20% phản đòn hiệu ứng đó cho kẻ địch ngẫu nhiên.\nKhi kẻ địch thi triển kỹ năng Quỷ Hỏa, tăng 20% thanh hành động.",
+        "en": "At the end of his turn, gains a layer of [buff_2592_1] (stacks up to 3 layers) if the status is not consumed.\nWhen inflicted with a [tips_3], has a 20% chance of reflecting the effect back to a random enemy.\nHis Move Bar is raised by 20% when an enemy uses an orb skill.",
+        "zh": "回合结束时，若当回合没消耗[buff_2592_1]则获得1层该状态，上限3层。\n受到[tips_3]时，有20%概率将该效果反弹给随机敌方。\n敌方施放鬼火技能时，增加20%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất phản đòn hiệu ứng tăng đến 12%",
+            "en": "Increases chance of reflecting effects by 12%.",
+            "zh": "效果反弹概率增至12%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất phản đòn hiệu ứng tăng đến 14%",
+            "en": "Increases chance of reflecting effects by 14%.",
+            "zh": "效果反弹概率增至14%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất phản đòn hiệu ứng tăng đến 16%",
+            "en": "Increases chance of reflecting effects by 16%.",
+            "zh": "效果反弹概率增至16%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất phản đòn hiệu ứng tăng đến 20%",
+            "en": "Increases chance of reflecting effects by 20%.",
+            "zh": "效果反弹概率增至20%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2592.png"
+    },
+    {
+      "id": 2593,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lộc Giác Trùng Khúc",
@@ -120,15 +182,15 @@
         "zh": "我的角无往不利！"
       },
       "description": {
-        "vi": "Truyền toàn thân yêu lực vào sừng hươu để tấn công mục tiêu kẻ địch, gây 158% sát thương.\nKhi sở hữu [buff_2592_1] sẽ đẩy lùi 40% thanh hành động của kẻ địch, nếu bị đẩy lùi đến tận cùng thì có xác suất 100% (+[*|a_debuff-acc_per|s_buff概率_per]) khiến mục tiêu bị [tips_108] trong 1 lượt.\nKích hoạt [tips_108] sẽ tiêu hao 1 tầng [buff_2592_1].\nKhi có nhiều hơn 1 tầng [buff_2592_1], cứ nhiều hơn 1 tầng có thể tấn công bổ sung thêm 1 mục tiêu kẻ địch ngẫu nhiên, sát thương lặp lại lên cùng một mục tiêu bị giảm 40%.",
-        "en": "Channels his energy into his antlers and charges into 1 enemy, dealing damage equal to 158% of his ATK.\nWhen he has [buff_2592_1], also lowers their Move Bar by 40%. Has a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_108] lasting 1 turn(s) on them if their Move Bar is already at the bottom.\nInflicting [tips_108] costs 1 layer of [buff_2592_1].\nIf he has 2 or more layers of [buff_2592_1], he can attack an extra random enemy for each additional layer. His damage is reduced by 40% for each attack on the same target.",
-        "zh": "将全身妖力注入鹿角攻击敌方目标，造成攻击158%伤害。\n当拥有[buff_2592_1]时将击退敌方40%行动条，若被击退至末端则有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_108]1回合。\n触发[tips_108]会消耗1层[buff_2592_1]。\n[buff_2592_1]多于1层时，每多1层可额外攻击1个随机敌方目标，对同目标的重复伤害降低40％。"
+        "vi": "Truyền toàn thân yêu lực vào sừng hươu để tấn công mục tiêu kẻ địch, gây 158% sát thương.\nKhi sở hữu [buff_2592_1] sẽ đẩy lùi 40% thanh hành động của kẻ địch, nếu bị đẩy lùi đến tận cùng thì có xác suất 100% [tips_2] khiến mục tiêu bị [tips_108] trong 1 lượt.\nKích hoạt [tips_108] sẽ tiêu hao 1 tầng [buff_2592_1].\nKhi có nhiều hơn 1 tầng [buff_2592_1], cứ nhiều hơn 1 tầng có thể tấn công bổ sung thêm 1 mục tiêu kẻ địch ngẫu nhiên, sát thương lặp lại lên cùng một mục tiêu bị giảm 40%.",
+        "en": "Channels his energy into his antlers and charges into 1 enemy, dealing damage equal to 158% of his ATK.\nWhen he has [buff_2592_1], also lowers their Move Bar by 40%. Has a 100% (+Effect HIT) chance of inflicting [tips_108] lasting 1 turn(s) on them if their Move Bar is already at the bottom.\nInflicting [tips_108] costs 1 layer of [buff_2592_1].\nIf he has 2 or more layers of [buff_2592_1], he can attack an extra random enemy for each additional layer. His damage is reduced by 40% for each attack on the same target.",
+        "zh": "将全身妖力注入鹿角攻击敌方目标，造成攻击158%伤害。\n当拥有[buff_2592_1]时将击退敌方40%行动条，若被击退至末端则有100%（+效果命中）概率使其[tips_108]1回合。\n触发[tips_108]会消耗1层[buff_2592_1]。\n[buff_2592_1]多于1层时，每多1层可额外攻击1个随机敌方目标，对同目标的重复伤害降低40％。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至166%",
+            "vi": "Sát thương tăng lên 166%",
             "en": "伤害增加至166%",
             "zh": "伤害增加至166%"
           }
@@ -144,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至182%",
+            "vi": "Sát thương tăng lên 182%",
             "en": "伤害增加至182%",
             "zh": "伤害增加至182%"
           }
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_xiaolunan.png"
+    "portraitFile": "259.png",
+    "headIconFile": "259a.png"
   }
 }

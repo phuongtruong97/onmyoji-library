@@ -9,8 +9,8 @@
   "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "statState": "LV40_NO_EVO",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10366,
+      "value": 10368,
       "grade": "B"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 4231,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Oa · Phong Phù · Phá",
@@ -64,7 +66,7 @@
         "zh": "什么都不用怕，有我在。"
       },
       "description": {
-        "vi": "打出蕴含风之力的符咒攻击敌方目标，造成攻击125%伤害。",
+        "vi": "Đánh ra bùa chú mang sức mạnh của gió tấn công mục tiêu phe địch, gây sát thương bằng 125% Tấn công.",
         "en": "打出蕴含风之力的符咒攻击敌方目标，造成攻击125%伤害。",
         "zh": "打出蕴含风之力的符咒攻击敌方目标，造成攻击125%伤害。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 4232,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Oa · Phong Thần Chi Hựu",
@@ -120,41 +124,41 @@
         "zh": "龙啊，把你的力量借给我。"
       },
       "description": {
-        "vi": "Giúp toàn bộ phe ta không phải vật triệu hồi nhận [tips_6] không thể xua tan, có thể hấp thụ sát thương bằng [b_伤害吸收_per] giới hạn HP, duy trì 1 lượt.",
-        "en": "Creates [tips_6]s (cannot be dispelled) to protect all non-summoned ally entities, absorbing damage equal to [b_伤害吸收_per] of his max HP. Lasts 1 turn.",
-        "zh": "使非召唤物的友方全体获得无法驱散的[tips_6]，能吸收[b_伤害吸收_per]生命上限的伤害，持续1回合。"
+        "vi": "Giúp toàn bộ phe ta không phải vật triệu hồi nhận [tips_6] không thể xua tan, có thể hấp thụ sát thương bằng 3% giới hạn HP, duy trì 1 lượt.",
+        "en": "Creates [tips_6]s (cannot be dispelled) to protect all non-summoned ally entities, absorbing damage equal to 3% of his max HP. Lasts 1 turn.",
+        "zh": "使非召唤物的友方全体获得无法驱散的[tips_6]，能吸收3%生命上限的伤害，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên [b_伤害吸收_per]",
-            "en": "Increases damage absorbed by [tips_6] to [b_伤害吸收_per].",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ [tips_6] tăng lên 1.5%",
+            "en": "Increases damage absorbed by [tips_6] to 1.5%.",
+            "zh": "[tips_6]吸收量增至1.5%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên [b_伤害吸收_per]",
-            "en": "Increases damage absorbed by [tips_6] to [b_伤害吸收_per].",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ [tips_6] tăng lên 2%",
+            "en": "Increases damage absorbed by [tips_6] to 2%.",
+            "zh": "[tips_6]吸收量增至2%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "[tips_6]吸收量增至2.5%",
+            "en": "[tips_6]吸收量增至2.5%",
+            "zh": "[tips_6]吸收量增至2.5%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "[tips_6]吸收量增至3%",
+            "en": "[tips_6]吸收量增至3%",
+            "zh": "[tips_6]吸收量增至3%"
           }
         }
       ],
@@ -163,7 +167,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "423.png",
+    "headIconFile": "423a.png"
   }
 }

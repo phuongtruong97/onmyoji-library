@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2278,
-      "grade": "C"
+      "value": 2519,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10594,
-      "grade": "B"
+      "value": 11735,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 405,
-      "grade": "B"
+      "value": 454,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2301,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đầu Thạch",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "2301.png"
     },
     {
-      "id": 2303,
+      "id": 2302,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kim Cang Kinh",
+        "en": "Diamond Sutra",
+        "zh": "金刚经"
+      },
+      "intro": {
+        "vi": "Hãy để con bảo vệ sư phụ và mọi người!",
+        "en": "I'll protect my master and everyone else!",
+        "zh": "就让我来保护师父和大家！"
+      },
+      "description": {
+        "vi": "Khi chịu sát thương, giúp toàn bộ phe ta nhận [buff_2302_1], tăng 20% Kháng Hiệu Ứng, Phản Sát Thương 20%, duy trì 1 lượt.",
+        "en": "When taking damage, grants [buff_2302_1] lasting 1 turn(s) on all allies, increasing their Effect RES by 20% and granting 20% damage reflection.",
+        "zh": "受到伤害时，使友方全体获得[buff_2302_1]，提升20%效果抵抗、反伤20%，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_2302_1] hiệu ứng tăng Kháng Hiệu Ứng tăng lên 15%",
+            "en": "Increases [buff_2302_1]'s Effect RES boost effect to 15%.",
+            "zh": "[buff_2302_1]提升效果抵抗效果增至15%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_2302_1] hiệu ứng Phản Sát Thương tăng lên 15%",
+            "en": "Increases [buff_2302_1]'s damage-reflecting effect to 15%.",
+            "zh": "[buff_2302_1]反伤效果增至15%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_2302_1] hiệu ứng tăng Kháng Hiệu Ứng tăng lên 20%",
+            "en": "Increases [buff_2302_1]'s Effect RES boost effect to 20%.",
+            "zh": "[buff_2302_1]提升效果抵抗效果增至20%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[buff_2302_1] hiệu ứng Phản Sát Thương tăng lên 20%",
+            "en": "Increases [buff_2302_1]'s damage-reflecting effect to 20%.",
+            "zh": "[buff_2302_1]反伤效果增至20%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2302.png"
+    },
+    {
+      "id": 2303,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thạch Tượng Xung Kích",
@@ -120,15 +182,15 @@
         "zh": "师父，和我一起……泰山流重压拳！"
       },
       "description": {
-        "vi": "Lao về phía trước, dùng Tượng Đá Bồ Tát đập mạnh vào mục tiêu kẻ địch, gây sát thương bằng 195% Tấn công, và có 25% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất khiến kẻ đó [tips_108], duy trì 1 lượt.",
-        "en": "Charges forward and hits 1 enemy with his stone statue, dealing damage equal to 195% of his ATK with a 25% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_108] lasting 1 turn(s) on them.",
-        "zh": "往前冲锋，以石菩萨猛击敌方目标，造成攻击195%伤害，并有25%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_108]，持续1回合。"
+        "vi": "Lao về phía trước, dùng Tượng Đá Bồ Tát đập mạnh vào mục tiêu kẻ địch, gây sát thương bằng 195% Tấn công, và có 25% [tips_2] xác suất khiến kẻ đó [tips_108], duy trì 1 lượt.",
+        "en": "Charges forward and hits 1 enemy with his stone statue, dealing damage equal to 195% of his ATK with a 25% (+Effect HIT) chance of inflicting [tips_108] lasting 1 turn(s) on them.",
+        "zh": "往前冲锋，以石菩萨猛击敌方目标，造成攻击195%伤害，并有25%（+效果命中）概率使其[tips_108]，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至171%",
+            "vi": "Sát thương tăng lên 171%",
             "en": "伤害增加至171%",
             "zh": "伤害增加至171%"
           }
@@ -136,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至179%",
+            "vi": "Sát thương tăng lên 179%",
             "en": "伤害增加至179%",
             "zh": "伤害增加至179%"
           }
@@ -144,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至187%",
+            "vi": "Sát thương tăng lên 187%",
             "en": "伤害增加至187%",
             "zh": "伤害增加至187%"
           }
@@ -152,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至195%",
+            "vi": "Sát thương tăng lên 195%",
             "en": "伤害增加至195%",
             "zh": "伤害增加至195%"
           }
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "duyanxiaoseng.png",
-    "headIconFile": "h_duyanxiaoseng.png"
+    "portraitFile": "230.png",
+    "headIconFile": "230a.png"
   }
 }

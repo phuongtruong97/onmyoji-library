@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2010,
-      "grade": "D"
+      "value": 2198,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12189,
-      "grade": "A"
+      "value": 13444,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 401,
-      "grade": "B"
+      "value": 441,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 100,
-      "grade": "B"
+      "value": 110,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3471,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nguyệt Hạ Hoa",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3472,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Phi Sắc Hoa Nguyệt",
@@ -131,6 +135,8 @@
     {
       "id": 3473,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Ban Lương Duyên",
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "347.png",
+    "headIconFile": "347a.png"
   }
 }

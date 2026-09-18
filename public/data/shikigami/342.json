@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2036,
-      "grade": "D"
+      "value": 2358,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12531,
+      "value": 13558,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 441,
+      "value": 481,
       "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 105,
+      "value": 115,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3421,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thính Tán Nhất Ngôn",
@@ -108,6 +110,8 @@
     {
       "id": 3422,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đao Hạ Lưu Nhân",
@@ -164,6 +168,8 @@
     {
       "id": 3423,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Địch Ở Bát Rượu!",
@@ -176,9 +182,9 @@
         "zh": "都听咱的就对了~"
       },
       "description": {
-        "vi": "Ném bát rượu về phía mục tiêu kẻ địch, đính kèm [b2_参数p2_abs] tầng [buff_3423_2] cho kẻ đó, cho đến khi trận đấu kết thúc. Sau đó khiến toàn bộ phe địch có 40% [tips_2] [tips_103], duy trì 1 lượt.\nĐính kèm hiệu ứng phụ cho lần 『[skill_3421_1]』 tiếp theo: Có 40% [tips_2] khiến mục tiêu [tips_103], duy trì 1 lượt.\nHiệu ứng phụ của [buff_3423_2]: Sau khi bị đơn vị phe ta Đánh Thường, nếu tỷ lệ HP thấp hơn nguồn tấn công, sẽ phản kích nguồn tấn công.",
-        "en": "Throws his wine bowl at 1 enemy, inflicting [b2_参数p2_abs] [buff_3423_2] stacks lasting until the battle ends. Then, has a 40% [tips_2] of inflicting [tips_103] lasting 1 turn on all enemies.\nGrants the next [skill_3421_1] he uses an additional effect: Has a 40% [tips_2] of inflicting [tips_103] lasting 1 turn on the enemy.\n[buff_3423_2]'s additional effect: When taking a normal attack from an ally, launches a counter attack at the attacker if they have a higher proportion of HP.",
-        "zh": "将酒碗抛向敌方目标，为其附加[b2_参数p2_abs]层[buff_3423_2]，直到战斗结束。然后使敌方全体有40%[tips_2][tips_103]，持续1回合。\n为下一次『[skill_3421_1]』附加额外效果：有40%[tips_2]使目标[tips_103]，持续1回合。\n[buff_3423_2]额外效果：被友方单位普攻后，若生命比例低于攻击来源，则反击攻击来源。"
+        "vi": "Ném bát rượu về phía mục tiêu kẻ địch, đính kèm 5 tầng [buff_3423_2] cho kẻ đó, cho đến khi trận đấu kết thúc. Sau đó khiến toàn bộ phe địch có 40% [tips_2] [tips_103], duy trì 1 lượt.\nĐính kèm hiệu ứng phụ cho lần [skill_3421_1] tiếp theo: Có 40% [tips_2] khiến mục tiêu [tips_103], duy trì 1 lượt.\nHiệu ứng phụ của [buff_3423_2]: Sau khi bị đơn vị phe ta Đánh Thường, nếu tỷ lệ HP thấp hơn nguồn tấn công, sẽ phản kích nguồn tấn công.",
+        "en": "Throws his wine bowl at 1 enemy, inflicting 5 [buff_3423_2] stacks lasting until the battle ends. Then, has a 40% [tips_2] of inflicting [tips_103] lasting 1 turn on all enemies.\nGrants the next [skill_3421_1] he uses an additional effect: Has a 40% [tips_2] of inflicting [tips_103] lasting 1 turn on the enemy.\n[buff_3423_2]'s additional effect: When taking a normal attack from an ally, launches a counter attack at the attacker if they have a higher proportion of HP.",
+        "zh": "将酒碗抛向敌方目标，为其附加5层[buff_3423_2]，直到战斗结束。然后使敌方全体有40%[tips_2][tips_103]，持续1回合。\n为下一次『[skill_3421_1]附加额外效果：有40%[tips_2]使目标[tips_103]，持续1回合。\n[buff_3423_2]额外效果：被友方单位普攻后，若生命比例低于攻击来源，则反击攻击来源。"
       },
       "upgrades": [
         {
@@ -190,22 +196,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "[tips_103] [tips_2] tăng lên 28%",
-            "en": "Increases his [tips_2] of inflicting [tips_103] to 28%.",
-            "zh": "[tips_103][tips_2]增至28%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "[tips_103] [tips_2] tăng lên 32%",
-            "en": "Increases his [tips_2] of inflicting [tips_103] to 32%.",
-            "zh": "[tips_103][tips_2]增至32%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "[tips_103] [tips_2] tăng lên 32%",
@@ -219,22 +209,6 @@
             "vi": "[tips_103] [tips_2] tăng lên 36%",
             "en": "Increases his [tips_2] of inflicting [tips_103] to 36%.",
             "zh": "[tips_103][tips_2]增至36%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[tips_103] [tips_2] tăng lên 36%",
-            "en": "Increases his [tips_2] of inflicting [tips_103] to 36%.",
-            "zh": "[tips_103][tips_2]增至36%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "[tips_103] [tips_2] tăng lên 40%",
-            "en": "Increases his [tips_2] of inflicting [tips_103] to 40%.",
-            "zh": "[tips_103][tips_2]增至40%"
           }
         },
         {
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "xingxiongtongzi.png",
-    "headIconFile": "h_xingxiongtongzi.png"
+    "portraitFile": "342.png",
+    "headIconFile": "342a.png"
   }
 }

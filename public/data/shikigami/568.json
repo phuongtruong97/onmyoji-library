@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3269,
+      "value": 3270,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 13556,
+      "value": 13558,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 480,
+      "value": 481,
       "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 117,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5681,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lộc Hồn · Phá Nhẫn",
@@ -64,9 +66,9 @@
         "zh": "龙铸麓海，刃破沙场。"
       },
       "description": {
-        "vi": "Lộc hồn trú ngụ trong thân thể này, vung ra bạch nhẫn 『Trục Ảnh』 trảm kích mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công; khi mục tiêu kẻ địch sở hữu Lá chắn, sát thương bản thân gánh chịu giảm 50%.",
+        "vi": "Lộc hồn trú ngụ trong thân thể này, vung ra bạch nhẫn [Trục Ảnh] trảm kích mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công; khi mục tiêu kẻ địch sở hữu Lá chắn, sát thương bản thân gánh chịu giảm 50%.",
         "en": "Wields her white hot Shadowchaser, home of the mountain's soul, to attack 1 enemy, dealing damage equal to 120% of her ATK. As long as an enemy has a shield, reduces her damage taken by 50%.",
-        "zh": "麓魂宿于此身，挥出白刃『逐影』斩击敌方目标，造成攻击120%伤害；敌方目标拥有护盾时，自身受到的伤害降低50%。"
+        "zh": "麓魂宿于此身，挥出白刃『逐影]斩击敌方目标，造成攻击120%伤害；敌方目标拥有护盾时，自身受到的伤害降低50%。"
       },
       "upgrades": [
         {
@@ -108,6 +110,8 @@
     {
       "id": 5682,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lộc Hồn · Cộng Phó",
@@ -164,6 +168,8 @@
     {
       "id": 5683,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lộc Hồn · Viễn Chinh",
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "消耗鬼火减少1点",
+            "vi": "Tiêu hao quỷ hỏa giảm 1 điểm",
             "en": "消耗鬼火减少1点",
             "zh": "消耗鬼火减少1点"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "sp_lingluyuqian.png",
-    "headIconFile": "h_sp_lingluyuqian.png"
+    "portraitFile": "568.png",
+    "headIconFile": "568a.png"
   }
 }

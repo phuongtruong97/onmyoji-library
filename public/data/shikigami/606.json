@@ -1,0 +1,281 @@
+{
+  "id": 606,
+  "name": {
+    "vi": "Ngôn Hòa",
+    "en": "Yan He",
+    "zh": "言和"
+  },
+  "rarity": "SSR",
+  "tier": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "EVOLVED",
+  "reviewStatus": "MOI_TU_GAME",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2010,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 16292,
+      "grade": "SS"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 419,
+      "grade": "B"
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 110,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "8%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6061,
+      "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hòa Âm",
+        "en": "和音",
+        "zh": "和音"
+      },
+      "intro": {
+        "vi": "Mở cuốn đàn lòng, một lời định âm.",
+        "en": "卷展琴心，一言定音。",
+        "zh": "卷展琴心，一言定音。"
+      },
+      "description": {
+        "vi": "Gây sát thương bằng 125% Tấn công.",
+        "en": "造成攻击125%的伤害。",
+        "zh": "造成攻击125%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6061.png"
+    },
+    {
+      "id": 6062,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Dữ Phong Ngôn",
+        "en": "与风言",
+        "zh": "与风言"
+      },
+      "intro": {
+        "vi": "Lòng ta tiêu dao, cùng gió tỏ bày.",
+        "en": "我心逍遥，与风言说。",
+        "zh": "我心逍遥，与风言说。"
+      },
+      "description": {
+        "vi": "Ngôn Hòa nhận 40% giảm sát thương, khi hiệp của toàn thể mục tiêu kết thúc, Ngôn Hòa nhận 1 tầng [buff_6062_1]. Khi [buff_6062_1] đầy tầng, tiêu hao các tầng để tấu nhạc không tiêu hao. Khi hiệp của kẻ địch kết thúc, Ngôn Hòa nhận thêm [buff_6062_1]. Khi [buff_6062_1] đầy tầng, nếu đang chịu hiệu ứng khống chế thì tăng 30% Thanh Hành Động.",
+        "en": "言和获得40%减伤，全体目标回合结束时，言和获得1层[buff_6062_1]。[buff_6062_1]满层时，消耗层数进行无消耗奏乐。敌方回合结束时言和额外获得[buff_6062_1]。[buff_6062_1]满层时若处于控制效果则提升30%行动条。",
+        "zh": "言和获得40%减伤，全体目标回合结束时，言和获得1层[buff_6062_1]。[buff_6062_1]满层时，消耗层数进行无消耗奏乐。敌方回合结束时言和额外获得[buff_6062_1]。[buff_6062_1]满层时若处于控制效果则提升30%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi hiệp của kẻ địch kết thúc, Ngôn Hòa nhận thêm 1 tầng Tiết Luật",
+            "en": "敌方回合结束时，言和额外获得1层节律",
+            "zh": "敌方回合结束时，言和额外获得1层节律"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Giảm sát thương tăng lên 40%",
+            "en": "减伤提升至40%",
+            "zh": "减伤提升至40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giới hạn Tiết Luật giảm xuống 8 tầng",
+            "en": "节律上限降至8层",
+            "zh": "节律上限降至8层"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi Tiết Luật đạt giới hạn, nếu đang chịu hiệu ứng khống chế thì tăng 30% Thanh Hành Động",
+            "en": "节律到达上限时，若处于控制效果，则提升30%行动条",
+            "zh": "节律到达上限时，若处于控制效果，则提升30%行动条"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6062.png"
+    },
+    {
+      "id": 6063,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thính Ngã Nhất Luật",
+        "en": "听我一律",
+        "zh": "听我一律"
+      },
+      "intro": {
+        "vi": "Lời cất một người hát, khúc vang vạn người hòa.",
+        "en": "言出一人歌，歌起万人和。",
+        "zh": "言出一人歌，歌起万人和。"
+      },
+      "description": {
+        "vi": "Khi trận đấu bắt đầu ở trạng thái Mộc Chi Luật.\n[Thi triển] Chọn một trong Mộc Chi Luật và Thanh Chi Luật để tấu nhạc. Khiến trị liệu của [skill_6064_1] tăng lên 12%; hiệu ứng đẩy lùi Thanh Hành Động của [skill_6065_1] tăng lên 15%; tiêu hao Quỷ Hỏa khi tấu nhạc giảm 1 điểm. Tiên Cơ: Tấu nhạc không tiêu hao.",
+        "en": "战斗开始时处于沐之律。\n【施放】选择沐之律和清之律之一进行奏乐。使「浴此沐音]治疗提升至12%；「聆此清音]行动条击退效果提升至15%；奏乐鬼火消耗减少1点。先机：无消耗进行奏乐。",
+        "zh": "战斗开始时处于沐之律。\n【施放】选择沐之律和清之律之一进行奏乐。使「浴此沐音]治疗提升至12%；「聆此清音]行动条击退效果提升至15%；奏乐鬼火消耗减少1点。先机：无消耗进行奏乐。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu của [skill_6064_1] tăng lên 12%",
+            "en": "『[skill_6064_1]治疗提升至12%",
+            "zh": "『[skill_6064_1]治疗提升至12%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng đẩy lùi Thanh Hành Động của [skill_6065_1] tăng lên 15%",
+            "en": "『[skill_6065_1]行动条击退效果提升至15%",
+            "zh": "『[skill_6065_1]行动条击退效果提升至15%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tiêu hao Quỷ Hỏa của [skill_6064_1] và [skill_6065_1] giảm 1 điểm",
+            "en": "『[skill_6064_1]和『[skill_6065_1]的鬼火消耗减少1点",
+            "zh": "『[skill_6064_1]和『[skill_6065_1]的鬼火消耗减少1点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Tấu nhạc không tiêu hao",
+            "en": "先机：无消耗进行奏乐",
+            "zh": "先机：无消耗进行奏乐"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6063.png"
+    },
+    {
+      "id": 6064,
+      "number": 3,
+      "variantOrder": 2,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Dục Thử Mộc Âm",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Lấy \"Mộc\" làm nhịp điệu tấu nhạc, hồi phục cho toàn thể đồng minh lượng máu bằng 6% giới hạn máu của Ngôn Hòa, hiệu quả tăng dần theo số lần tấu nhạc.\nTấu nhạc 2 lần: Hóa giải ngẫu nhiên thêm 2 trạng thái giảm ích hoặc hiệu ứng khống chế của đồng minh.\nTấu nhạc 3 lần: Khiến các đồng minh khác nhận thêm 20% giảm sát thương, duy trì trong 2 hiệp.\nTấu nhạc 4 lần: Hiệu quả hóa giải tăng lên thành 4 hiệu ứng.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "6064.png"
+    },
+    {
+      "id": 6065,
+      "number": 3,
+      "variantOrder": 2,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Linh Thử Thanh Âm",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Lấy \"Thanh\" làm nhịp điệu tấu nhạc, gây cho toàn thể kẻ địch lượng sát thương gián tiếp bằng 10% giới hạn máu của Ngôn Hòa (sát thương tự thân gây ra không vượt quá 1200% tấn công ban đầu), hiệu quả tăng dần theo số lần tấu nhạc.\nTấu nhạc 2 lần: Đẩy lùi 10% thanh hành động của toàn thể kẻ địch.\nTấu nhạc 3 lần: Hóa giải ngẫu nhiên thêm 2 trạng thái giảm ích hoặc hiệu ứng khống chế của đồng minh.\nTấu nhạc 4 lần: Sát thương gián tiếp tăng lên thành 15% giới hạn máu.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "6065.png"
+    }
+  ],
+  "assets": {
+    "portraitFile": "606.png",
+    "headIconFile": "606a.png"
+  }
+}

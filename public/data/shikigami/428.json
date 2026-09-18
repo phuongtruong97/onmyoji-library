@@ -9,19 +9,19 @@
   "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "statState": "LV40_NO_EVO",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2438,
+      "value": 2439,
       "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
+      "value": 10254,
       "grade": "B"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 4281,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quác · Yuki-zane",
@@ -66,13 +68,13 @@
       "description": {
         "vi": "Rút «Quác Bôn», gây sát thương 120% cho kẻ địch.",
         "en": "Unsheathes Frog Hopper to attack 1 enemy, dealing damage equal to 120% of his ATK.",
-        "zh": "拔出「呱跑」，对敌方造成攻击120%伤害。"
+        "zh": "拔出「呱跑]，对敌方造成攻击120%伤害。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 4282,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quác · Lung Nguyệt Tuyết Hoa Trảm",
@@ -163,7 +167,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_xuetongzigua.png"
+    "portraitFile": "428.png",
+    "headIconFile": "428a.png"
   }
 }

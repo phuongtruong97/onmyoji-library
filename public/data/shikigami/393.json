@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,20 +21,20 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12838,
+      "value": 12840,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 480,
+      "value": 481,
       "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 113,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3931,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thủy Vô Ngân",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3932,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tâm Tịnh Minh",
@@ -120,17 +124,17 @@
         "zh": "尘埃已褪，本心得现。"
       },
       "description": {
-        "vi": "[tips_11]. Gột rửa bụi trần trong lòng, khi bắt đầu chiến đấu, tăng 25% kháng hiệu ứng cho toàn bộ mục tiêu đồng minh không phải vật triệu hồi. Cứ mỗi 30% tỷ lệ HP của bản thân giảm đi, Quỷ Hỏa tiêu hao khi thi triển kỹ năng giảm 1 điểm; khi hành động, phân phối lại tổng HP của đồng minh không phải vật triệu hồi, khiến tỷ lệ HP của đồng minh giống nhau.\n【Thi triển】 Gột rửa bụi trần trong lòng, khiến thời gian duy trì của tất cả trạng thái tiêu cực, hiệu ứng và dấu ấn mà mục tiêu đồng minh chỉ định mang theo giảm 1 lượt, đồng thời tăng kháng hiệu ứng ban đầu [b_参数p1_per] của bản thân, duy trì 2 lượt. Đồng thời tăng 30% Thanh Hành Động. Nếu không thể làm giảm số lượt hiệu ứng, trạng thái tiêu cực và dấu ấn mà đồng minh đó mang theo, tăng 100% Thanh Hành Động.",
-        "en": "[tips_11]. Clears the dust from his mind. At the start of battle, increases the Effect RES of all non-summoned ally entities by 25%. For each 30% of HP he has lost, reduces the cost of his skills by 1 orb. On his action, redistributes the HP of all non-summoned ally entities, causing all theses allies to have the same proportion of HP.\nActive skill: Clears the dust from his mind. Reduces the duration of all negative statuses, effects, and marks on 1 ally by 1 turn. Increases the ally's Effect RES by [b_参数p1_per] of his own starting Effect RES for 2 turns and raises the ally's Move Bar by 30%. If he fails to reduce the duration of negative effects, statues, or marks on the ally, raises their Move Bar by 100% instead.",
-        "zh": "[tips_11]。荡涤心中尘埃，战斗开始时，为全体非召唤物的友方目标增加25%效果抵抗。自身生命比例每降低30%，施放技能消耗鬼火减少1点；行动时，重新分配非召唤物的友方总生命，使得友方生命百分比相同。\n【施放】荡涤心中尘埃，使指定友方目标携带的所有减益状态、效果和印记的持续时间减少1个回合，并提升自身[b_参数p1_per]初始效果抵抗，持续2回合。同时提升30%行动条。若未能使该友方携带的减益效果、状态和印记回合减少，则提升100%行动条。"
+        "vi": "[tips_11]. Gột rửa bụi trần trong lòng, khi bắt đầu chiến đấu, tăng 25% kháng hiệu ứng cho toàn bộ mục tiêu đồng minh không phải vật triệu hồi. Cứ mỗi 30% tỷ lệ HP của bản thân giảm đi, Quỷ Hỏa tiêu hao khi thi triển kỹ năng giảm 1 điểm; khi hành động, phân phối lại tổng HP của đồng minh không phải vật triệu hồi, khiến tỷ lệ HP của đồng minh giống nhau.\n[Thi triển] Gột rửa bụi trần trong lòng, khiến thời gian duy trì của tất cả trạng thái tiêu cực, hiệu ứng và dấu ấn mà mục tiêu đồng minh chỉ định mang theo giảm 1 lượt, đồng thời tăng kháng hiệu ứng ban đầu 30% của bản thân, duy trì 2 lượt. Đồng thời tăng 30% Thanh Hành Động. Nếu không thể làm giảm số lượt hiệu ứng, trạng thái tiêu cực và dấu ấn mà đồng minh đó mang theo, tăng 100% Thanh Hành Động.",
+        "en": "[tips_11]. Clears the dust from his mind. At the start of battle, increases the Effect RES of all non-summoned ally entities by 25%. For each 30% of HP he has lost, reduces the cost of his skills by 1 orb. On his action, redistributes the HP of all non-summoned ally entities, causing all theses allies to have the same proportion of HP.\nActive skill: Clears the dust from his mind. Reduces the duration of all negative statuses, effects, and marks on 1 ally by 1 turn. Increases the ally's Effect RES by 30% of his own starting Effect RES for 2 turns and raises the ally's Move Bar by 30%. If he fails to reduce the duration of negative effects, statues, or marks on the ally, raises their Move Bar by 100% instead.",
+        "zh": "[tips_11]。荡涤心中尘埃，战斗开始时，为全体非召唤物的友方目标增加25%效果抵抗。自身生命比例每降低30%，施放技能消耗鬼火减少1点；行动时，重新分配非召唤物的友方总生命，使得友方生命百分比相同。\n【施放】荡涤心中尘埃，使指定友方目标携带的所有减益状态、效果和印记的持续时间减少1个回合，并提升自身30%初始效果抵抗，持续2回合。同时提升30%行动条。若未能使该友方携带的减益效果、状态和印记回合减少，则提升100%行动条。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Tăng kháng hiệu ứng ban đầu [b_参数p1_per] của bản thân cho mục tiêu đồng minh chỉ định, duy trì 2 lượt.",
-            "en": "Increases the ally's Effect RES by [b_参数p1_per] of his own starting Effect RES for 2 turns.",
-            "zh": "为指定友方目标提升自身[b_参数p1_per]初始效果抵抗，持续2回合"
+            "vi": "Tăng kháng hiệu ứng ban đầu 20% của bản thân cho mục tiêu đồng minh chỉ định, duy trì 2 lượt.",
+            "en": "Increases the ally's Effect RES by 20% of his own starting Effect RES for 2 turns.",
+            "zh": "为指定友方目标提升自身20%初始效果抵抗，持续2回合"
           }
         },
         {
@@ -144,9 +148,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Hệ số tăng kháng hiệu ứng ban đầu của bản thân cho mục tiêu đồng minh chỉ định tăng đến [b_参数p1_per]",
-            "en": "Increases the Effect RES granted to the ally to [b_参数p1_per] of his own starting Effect RES.",
-            "zh": "为指定友方目标提升自身初始效果抵抗系数增加至[b_参数p1_per]"
+            "vi": "Hệ số tăng kháng hiệu ứng ban đầu của bản thân cho mục tiêu đồng minh chỉ định tăng đến 30%",
+            "en": "Increases the Effect RES granted to the ally to 30% of his own starting Effect RES.",
+            "zh": "为指定友方目标提升自身初始效果抵抗系数增加至30%"
           }
         },
         {
@@ -164,6 +168,8 @@
     {
       "id": 3933,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Vạn Pháp Giai Không",
@@ -184,9 +190,9 @@
         {
           "level": 2,
           "text": {
-            "vi": "Kháng hiệu ứng của [buff_3931_1] tăng đến [b_属性1数值_per]",
-            "en": "Increases the Effect RES granted by [buff_3931_1] to [b_属性1数值_per].",
-            "zh": "[buff_3931_1]的效果抵抗增加至[b_属性1数值_per]"
+            "vi": "Kháng hiệu ứng của [buff_3931_1] tăng đến 60%",
+            "en": "Increases the Effect RES granted by [buff_3931_1] to 60%.",
+            "zh": "[buff_3931_1]的效果抵抗增加至60%"
           }
         },
         {
@@ -200,17 +206,17 @@
         {
           "level": 4,
           "text": {
-            "vi": "Tỷ lệ chuyển hóa lượng giáp của [buff_3931_1] thành HP tăng đến [b_参数p1_per]",
-            "en": "Increases the proportion of HP [buff_3931_1] can restore to [b_参数p1_per] of the shield's remaining amount.",
-            "zh": "[buff_3931_1]的护盾量转化为生命的比例增加至[b_参数p1_per]"
+            "vi": "Tỷ lệ chuyển hóa lượng giáp của [buff_3931_1] thành HP tăng đến 50%",
+            "en": "Increases the proportion of HP [buff_3931_1] can restore to 50% of the shield's remaining amount.",
+            "zh": "[buff_3931_1]的护盾量转化为生命的比例增加至50%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Tỷ lệ chuyển hóa lượng giáp của [buff_3931_1] thành HP tăng đến [b_参数p1_per]",
-            "en": "Increases the proportion of HP [buff_3931_1] can restore to [b_参数p1_per] of the shield's remaining amount.",
-            "zh": "[buff_3931_1]的护盾量转化为生命的比例增加至[b_参数p1_per]"
+            "vi": "Tỷ lệ chuyển hóa lượng giáp của [buff_3931_1] thành HP tăng đến 75%",
+            "en": "Increases the proportion of HP [buff_3931_1] can restore to 75% of the shield's remaining amount.",
+            "zh": "[buff_3931_1]的护盾量转化为生命的比例增加至75%"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "sp_yunwaijing.png",
-    "headIconFile": ""
+    "portraitFile": "393.png",
+    "headIconFile": "393a.png"
   }
 }

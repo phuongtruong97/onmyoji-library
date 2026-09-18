@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2117,
-      "grade": "D"
+      "value": 2305,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12986,
+      "value": 14127,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 361,
+      "value": 397,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 102,
-      "grade": "B"
+      "value": 112,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,9 +52,11 @@
     {
       "id": 2791,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "归鸟",
+        "vi": "Quy Điểu",
         "en": "归鸟",
         "zh": "归鸟"
       },
@@ -106,11 +108,71 @@
       "iconFile": "2791.png"
     },
     {
-      "id": 2793,
+      "id": 2792,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "花鸟相闻",
+        "vi": "Họa Cảnh",
+        "en": "Painting Realm",
+        "zh": "画境"
+      },
+      "intro": {
+        "vi": "Cảnh trong tranh, cảnh trong lòng",
+        "en": "The world in my paintings is the world inside my heart!",
+        "zh": "画中之境，心中之景"
+      },
+      "description": {
+        "vi": "Khi hành động kết thúc, có 30% xác suất tăng 30% Thanh Hành Động.\n[tips_11], bản thân và phe ta khi bị khống chế, có 30% xác suất tiêu hao 1 con chim bay để chống đỡ [tips_3] đó.",
+        "en": "At the end of her action, has a 30% chance of raising her Move Bar by 30%.\n[tips_11]: When she or an ally is under a controlling effect, has a 30% chance of consuming 1 bird to negate the [tips_3].",
+        "zh": "行动结束时，有30%概率增加30%行动条。\n[tips_11]，自身及友方受到控制时，有30%概率消耗1只飞鸟来抵挡该[tips_3]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất kích hoạt khi hành động kết thúc tăng lên 25%",
+            "en": "Increases chance of triggering to 25% when they end their action.",
+            "zh": "行动结束触发概率增至25%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng tăng Thanh Hành Động tăng lên 25%",
+            "en": "Increases Move Bar-raising effect to 25%.",
+            "zh": "增加行动条效果增至25%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất kích hoạt khi hành động kết thúc tăng lên 30%",
+            "en": "Increases chance of triggering to 30% when they end their action.",
+            "zh": "行动结束触发概率增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng tăng Thanh Hành Động tăng lên 30%",
+            "en": "Increases Move Bar-raising effect to 30%.",
+            "zh": "增加行动条效果增至30%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2792.png"
+    },
+    {
+      "id": 2793,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hoa Điểu Tương Văn",
         "en": "花鸟相闻",
         "zh": "花鸟相闻"
       },
@@ -120,9 +182,9 @@
         "zh": "莺燕相闻，花草相生。"
       },
       "description": {
-        "vi": "为友方全体治疗生命上限12%的生命，并使之获得[buff_2793_1]，持续2回合，依序治疗生命上限[b_参数p1_per]、[b_参数p2_per]的生命。",
-        "en": "为友方全体治疗生命上限12%的生命，并使之获得[buff_2793_1]，持续2回合，依序治疗生命上限[b_参数p1_per]、[b_参数p2_per]的生命。",
-        "zh": "为友方全体治疗生命上限12%的生命，并使之获得[buff_2793_1]，持续2回合，依序治疗生命上限[b_参数p1_per]、[b_参数p2_per]的生命。"
+        "vi": "Trị liệu cho toàn thể đồng minh 12% giới hạn HP, đồng thời khiến nhận [buff_2793_1] duy trì 2 lượt, lần lượt trị liệu 11%, 10% giới hạn HP.",
+        "en": "为友方全体治疗生命上限12%的生命，并使之获得[buff_2793_1]，持续2回合，依序治疗生命上限11%、10%的生命。",
+        "zh": "为友方全体治疗生命上限12%的生命，并使之获得[buff_2793_1]，持续2回合，依序治疗生命上限11%、10%的生命。"
       },
       "upgrades": [
         {
@@ -136,9 +198,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "[buff_2793_1] lần lượt trị liệu tăng lên [b_参数p1_per], [b_参数p2_per]",
-            "en": "Increases HP restored by [buff_2793_1] in the next 2 turns to [b_参数p1_per] and [b_参数p2_per], respectively.",
-            "zh": "[buff_2793_1]依序治疗增至[b_参数p1_per]、[b_参数p2_per]"
+            "vi": "[buff_2793_1] lần lượt trị liệu tăng lên 9%, 8%",
+            "en": "Increases HP restored by [buff_2793_1] in the next 2 turns to 9% and 8%, respectively.",
+            "zh": "[buff_2793_1]依序治疗增至9%、8%"
           }
         },
         {
@@ -152,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "[buff_2793_1] lần lượt trị liệu tăng lên [b_参数p1_per], [b_参数p2_per]",
-            "en": "Increases HP restored by [buff_2793_1] in the next 2 turns to [b_参数p1_per] and [b_参数p2_per], respectively.",
-            "zh": "[buff_2793_1]依序治疗增至[b_参数p1_per]、[b_参数p2_per]"
+            "vi": "[buff_2793_1] lần lượt trị liệu tăng lên 11%, 10%",
+            "en": "Increases HP restored by [buff_2793_1] in the next 2 turns to 11% and 10%, respectively.",
+            "zh": "[buff_2793_1]依序治疗增至11%、10%"
           }
         }
       ],
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_huaniaojuan.png"
+    "portraitFile": "279.png",
+    "headIconFile": "279a.png"
   }
 }

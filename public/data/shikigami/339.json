@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,13 +21,13 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11392,
+      "value": 11393,
       "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 353,
       "grade": "C"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3391,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Linh Xung",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3392,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thấu Hồn",
@@ -120,9 +124,9 @@
         "zh": "你还配不上这力量。"
       },
       "description": {
-        "vi": "Trước khi thi triển 『Tẫn Thiên Cửu Vĩ』, đánh cắp trước 6% Tấn công của tất cả đơn vị trên sân (mỗi mục tiêu đánh cắp tối đa 10 lần), tổng giá trị đánh cắp không vượt quá 100% Tấn công ban đầu của bản thân (bao gồm tổng Tấn công cơ bản và Tấn công từ Ngự Hồn cung cấp).\nKhi tử vong, hoàn trả toàn bộ Tấn công đã đánh cắp.",
+        "vi": "Trước khi thi triển [Tẫn Thiên Cửu Vĩ], đánh cắp trước 6% Tấn công của tất cả đơn vị trên sân (mỗi mục tiêu đánh cắp tối đa 10 lần), tổng giá trị đánh cắp không vượt quá 100% Tấn công ban đầu của bản thân (bao gồm tổng Tấn công cơ bản và Tấn công từ Ngự Hồn cung cấp).\nKhi tử vong, hoàn trả toàn bộ Tấn công đã đánh cắp.",
         "en": "Before using Blazing Tails, drains the ATK of each unit on the battlefield by 6% (each target can be drained up to 10 times). Total ATK drained cannot exceed 100% of his initial ATK (this includes his base ATK plus the ATK bonus he received from Souls).\nWhen he's KO'd, returns all the ATK he drained.",
-        "zh": "施放『焚天九尾』前，先偷取场上全体6%攻击力（每个目标最多偷取10次），偷取总值不超过自身初始（包含基础攻击和御魂提供的攻击总和）攻击100%。\n阵亡时，将偷取的攻击全部归还。"
+        "zh": "施放『焚天九尾]前，先偷取场上全体6%攻击力（每个目标最多偷取10次），偷取总值不超过自身初始（包含基础攻击和御魂提供的攻击总和）攻击100%。\n阵亡时，将偷取的攻击全部归还。"
       },
       "upgrades": [
         {
@@ -164,6 +168,8 @@
     {
       "id": 3393,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tẫn Thiên Cửu Vĩ",
@@ -184,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至88%",
+            "vi": "Sát thương tăng lên 88%",
             "en": "伤害增加至88%",
             "zh": "伤害增加至88%"
           }
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至96%",
+            "vi": "Sát thương tăng lên 96%",
             "en": "伤害增加至96%",
             "zh": "伤害增加至96%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至104%",
+            "vi": "Sát thương tăng lên 104%",
             "en": "伤害增加至104%",
             "zh": "伤害增加至104%"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "j_spyuzaoqian.png"
+    "portraitFile": "339.png",
+    "headIconFile": "339a.png"
   }
 }

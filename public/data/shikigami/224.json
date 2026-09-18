@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2036,
-      "grade": "D"
+      "value": 2251,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11050,
-      "grade": "B"
+      "value": 12304,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 427,
-      "grade": "B"
+      "value": 476,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 104,
-      "grade": "B"
+      "value": 114,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2241,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lệ Châu",
@@ -64,7 +66,7 @@
         "zh": "呜呜呜……"
       },
       "description": {
-        "vi": "将蕴涵妖力的泪珠存在伞中，并在必要时射出泪弹攻击敌方目标，造成攻击125%伤害。",
+        "vi": "Tích trữ giọt lệ chứa đựng yêu lực vào trong ô, khi cần thiết sẽ bắn ra đạn nước mắt tấn công mục tiêu phe địch, gây sát thương bằng 125% Tấn công.",
         "en": "将蕴涵妖力的泪珠存在伞中，并在必要时射出泪弹攻击敌方目标，造成攻击125%伤害。",
         "zh": "将蕴涵妖力的泪珠存在伞中，并在必要时射出泪弹攻击敌方目标，造成攻击125%伤害。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,35 @@
       "iconFile": "2241.png"
     },
     {
-      "id": 2243,
+      "id": 2242,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Mưa Băng Thanh",
+        "en": "Purifying Rain",
+        "zh": "净化之雨"
+      },
+      "intro": {
+        "vi": "Đến khi nào... mưa lệ trong lòng này mới chịu ngừng đây?",
+        "en": "How long will it take before these tears stop pouring from my heart?",
+        "zh": "要到什么时候…这心中的泪雨才能停呢？"
+      },
+      "description": {
+        "vi": "Khi lượt bắt đầu, [tips_1] tất cả [tips_3] và giải trừ mọi trạng thái tiêu cực của bản thân. Khi chịu trạng thái tiêu cực hoặc [tips_3], tăng 40 điểm Tốc độ, duy trì 1 lượt (trước khi lượt của bản thân bắt đầu, kích hoạt tối đa 1 lần).",
+        "en": "At the start of the turn, [tips_1] all [tips_3] and dispels all debuffs. Gains 40 SPD for 1 turn when affected by debuffs or [tips_3] (triggers at most once before own turn starts).",
+        "zh": "回合开始时，[tips_1]自身所有[tips_3]，并驱散所有减益状态。受到减益状态或[tips_3]时，提升40点速度，持续1回合（自身回合开始前，最多触发一次）。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "2242.png"
+    },
+    {
+      "id": 2243,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 4,
       "name": {
         "vi": "Thiên Chi Lệ",
@@ -155,7 +184,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "yunv.png",
-    "headIconFile": ""
+    "portraitFile": "224.png",
+    "headIconFile": "224a.png"
   }
 }

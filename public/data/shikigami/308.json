@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2894,
-      "grade": "A"
+      "value": 3189,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 8430,
-      "grade": "D"
+      "value": 9228,
+      "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 396,
-      "grade": "B"
+      "value": 441,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 100,
-      "grade": "B"
+      "value": 110,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3081,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Chùy Kích",
@@ -108,6 +110,8 @@
     {
       "id": 3082,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Chưởng Khống",
@@ -120,9 +124,9 @@
         "zh": "真烦啊……"
       },
       "description": {
-        "vi": "Khi tấn công, có 22% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất khiến kẻ đó [tips_108] 1 lượt, chắc chắn Bạo kích đối với kẻ địch bị [tips_108].\nSau khi kết thúc lượt, nếu bản thân đang ở trạng thái [tips_27], liền tấn công mục tiêu phe ta ngẫu nhiên mang [tips_3] 2 lần, mỗi lần gây sát thương bằng 10% Tấn công, sau đó xua tan hoặc [tips_1] toàn bộ [tips_3] mang trên kẻ đó, và tăng 30% Thanh Hành Động cho kẻ đó.",
-        "en": "When attacking, has a 22% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_108] lasting 1 turn. The attack is guaranteed to land a critical hit on enemies with [tips_108].\nAt the end of the turn, if he's under [tips_27], launches a 2-strike attack on a random ally with [tips_3], dealing damage equal to 10% of his ATK with each strike. The attack dispels or [tips_1]s all the [tips_3]s they have and raises their Move Bar by 30%.",
-        "zh": "攻击时，有22%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_108]1回合，对[tips_108]的敌方必定暴击。\n回合结束后，若自身处于[tips_27]，则攻击带有[tips_3]的随机友方目标2次，每次造成攻击10%伤害，然后驱散或[tips_1]其带有的所有[tips_3]，并增加其30%行动条。"
+        "vi": "Khi tấn công, có 22% [tips_2] xác suất khiến kẻ đó [tips_108] 1 lượt, chắc chắn Bạo kích đối với kẻ địch bị [tips_108].\nSau khi kết thúc lượt, nếu bản thân đang ở trạng thái [tips_27], liền tấn công mục tiêu phe ta ngẫu nhiên mang [tips_3] 2 lần, mỗi lần gây sát thương bằng 10% Tấn công, sau đó xua tan hoặc [tips_1] toàn bộ [tips_3] mang trên kẻ đó, và tăng 30% Thanh Hành Động cho kẻ đó.",
+        "en": "When attacking, has a 22% (+Effect HIT) chance of inflicting [tips_108] lasting 1 turn. The attack is guaranteed to land a critical hit on enemies with [tips_108].\nAt the end of the turn, if he's under [tips_27], launches a 2-strike attack on a random ally with [tips_3], dealing damage equal to 10% of his ATK with each strike. The attack dispels or [tips_1]s all the [tips_3]s they have and raises their Move Bar by 30%.",
+        "zh": "攻击时，有22%（+效果命中）概率使其[tips_108]1回合，对[tips_108]的敌方必定暴击。\n回合结束后，若自身处于[tips_27]，则攻击带有[tips_3]的随机友方目标2次，每次造成攻击10%伤害，然后驱散或[tips_1]其带有的所有[tips_3]，并增加其30%行动条。"
       },
       "upgrades": [],
       "orbCost": 0,
@@ -131,6 +135,8 @@
     {
       "id": 3083,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Địa Ngục Chi Quỷ",
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_guideng.png"
+    "portraitFile": "308.png",
+    "headIconFile": "308a.png"
   }
 }

@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2760,
-      "grade": "A"
+      "value": 3055,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
-      "grade": "C"
+      "value": 10709,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 361,
-      "grade": "C"
+      "value": 406,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 109,
-      "grade": "A"
+      "value": 119,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2331,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quan Kích",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "2331.png"
     },
     {
-      "id": 2333,
+      "id": 2332,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bất Khí",
+        "en": "Will to Live",
+        "zh": "不弃"
+      },
+      "intro": {
+        "vi": "Ta còn phải bảo vệ đệ đệ và muội muội, không thể ngã xuống!",
+        "en": "I've got to protect my brother and sister! I can't die yet!",
+        "zh": "我还要保护弟弟和妹妹，不能倒下！"
+      },
+      "description": {
+        "vi": "Tăng 40% Kháng Hiệu Ứng.\n[Thi triển] Gây cho mục tiêu sát thương bằng 100% Tấn công, và có 30% [tips_2] xác suất khiến kẻ đó [tips_108], duy trì 1 lượt.\nKhi đồng minh bị đánh bại, tự động sử dụng kỹ năng này lên kẻ đánh bại, và tăng xác suất lên 100% [tips_2].",
+        "en": "Increases Effect RES by 40%.\nActive skill: Deals damage to 1 enemy equal to 100% of his ATK with a 30% (+Effect HIT) chance of inflicting [tips_108] lasting 1 turn.\nWhen an ally is KO'd, automatically uses the skill on the attacker with the chance increased to 100% (+Effect HIT).",
+        "zh": "提升40%效果抵抗。\n【施放】对目标造成攻击100%伤害，并有30%（+效果命中）概率使其[tips_108]，持续1回合。\n友方被击败时，自动对击败者使用此技能，并提升至100%（+效果命中）概率。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tăng Kháng Hiệu Ứng tăng lên 25%, sát thương tăng lên 105%",
+            "en": "Increases his Effect RES boost to 25% and his damage dealt to 105%.",
+            "zh": "提升效果抵抗增至25%，伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tăng Kháng Hiệu Ứng tăng lên 30%, sát thương tăng lên 110%",
+            "en": "Increases his Effect RES boost to 30% and his damage dealt to 110%.",
+            "zh": "提升效果抵抗增至30%，伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tăng Kháng Hiệu Ứng tăng lên 35%, sát thương tăng lên 115%",
+            "en": "Increases his Effect RES boost to 35% and his damage dealt to 115%.",
+            "zh": "提升效果抵抗增至35%，伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tăng Kháng Hiệu Ứng tăng lên 40%, sát thương tăng lên 125%",
+            "en": "Increases his Effect RES boost to 40% and his damage dealt to 125%.",
+            "zh": "提升效果抵抗增至40%，伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconFile": "2332.png"
+    },
+    {
+      "id": 2333,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tử Nhi Phục Sinh",
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "tiaotiaogege.png",
-    "headIconFile": "h_tiaotiaogege.png"
+    "portraitFile": "233.png",
+    "headIconFile": "233a.png"
   }
 }

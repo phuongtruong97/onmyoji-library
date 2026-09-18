@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,20 +21,20 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
+      "value": 9684,
       "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 396,
+      "value": 397,
       "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 115,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5591,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nhiếp Tâm",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害提升至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害提升至105%",
             "zh": "伤害提升至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害提升至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害提升至110%",
             "zh": "伤害提升至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害提升至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害提升至115%",
             "zh": "伤害提升至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害提升至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害提升至125%",
             "zh": "伤害提升至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5592,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Linh Hợp",
@@ -164,6 +168,8 @@
     {
       "id": 5593,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồ Hoặc Mị Ảnh",
@@ -176,7 +182,7 @@
         "zh": "不必过多考虑，一起在绮境中沉沦吧。"
       },
       "description": {
-        "vi": "Khi sử dụng đòn đánh thường hoặc kỹ năng đơn thể, kèm theo 20% hút máu và đính kèm thêm [buff_5594_1] cho mục tiêu.\n【[Thi triển]】 Gây 145% sát thương cho mục tiêu kẻ địch, khi tấn công cứ mỗi 25% tỷ lệ HP của mục tiêu kẻ địch giảm đi sẽ truy kích thêm 1 lần sát thương, đồng thời trực tiếp kích hoạt ấn ký hồ ly của mục tiêu được chọn. Sau đó gây 1 đoạn sát thương bằng 145% tấn công cho các nhân vật kẻ địch khác.",
+        "vi": "Khi sử dụng đòn đánh thường hoặc kỹ năng đơn thể, kèm theo 20% hút máu và đính kèm thêm [buff_5594_1] cho mục tiêu.\n[Thi triển] Gây 145% sát thương cho mục tiêu kẻ địch, khi tấn công cứ mỗi 25% tỷ lệ HP của mục tiêu kẻ địch giảm đi sẽ truy kích thêm 1 lần sát thương, đồng thời trực tiếp kích hoạt ấn ký hồ ly của mục tiêu được chọn. Sau đó gây 1 đoạn sát thương bằng 145% tấn công cho các nhân vật kẻ địch khác.",
         "en": "When she uses a normal attack or a single-target skill, grants her 20% HP Steal and inflicts [buff_5594_1] on the enemy.\nActive Skill: Attacks 1 enemy, dealing damage equal to 145% of her ATK. When attacking, inflicts 1 follow-up strike for each 25% HP the enemy has lost, and immediately triggers the Fox Mark on them. Then inflicts 1 strike on another enemy, dealing damage equal to 145% of her ATK.",
         "zh": "使用普攻或单体技能时，附带20%吸血并额外对目标附加[buff_5594_1]。\n【施放】对敌方目标造成攻击145%伤害，攻击时敌方目标生命比例每降低25%，额外追加1次伤害，并直接触发选中目标的狐印。之后对其他敌方角色造成1段攻击145%伤害。"
       },
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_sp_sanweihu.png"
+    "portraitFile": "559.png",
+    "headIconFile": "559a.png"
   }
 }

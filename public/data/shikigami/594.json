@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 1875,
+      "value": 1876,
       "grade": "D"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 13784,
+      "value": 13786,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 480,
+      "value": 481,
       "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 113,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5941,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Yêu Linh",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5942,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Linh Mộng",
@@ -120,7 +124,7 @@
         "zh": "我看见了，梦中的未来。"
       },
       "description": {
-        "vi": "Khi chịu hiệu ứng [tips_102] hoặc ở bất kỳ lượt nào Hồ Điệp Tinh chịu sát thương lớn hơn 20% HP ban đầu của bản thân, thi triển [skill_5942_1].\n【Thi triển】 Nhận [buff_5942_1] bằng 15% giới hạn HP, duy trì 2 lượt.",
+        "vi": "Khi chịu hiệu ứng [tips_102] hoặc ở bất kỳ lượt nào Hồ Điệp Tinh chịu sát thương lớn hơn 20% HP ban đầu của bản thân, thi triển [skill_5942_1].\n[Thi triển] Nhận [buff_5942_1] bằng 15% giới hạn HP, duy trì 2 lượt.",
         "en": "Triggered by [tips_102] effect or when Dreambound Chocho takes damage exceeding 20% of her max HP in any turn, casts [skill_5942_1].\nActive skill: Gains a [buff_5942_1] equal to 15% of her max HP for 2 turns.",
         "zh": "受到[tips_102]效果或任意回合蝴蝶精受到大于自身初始生命20%的伤害时，施放[skill_5942_1]。\n【施放】获得生命上限15%的[buff_5942_1]，持续2回合。"
       },
@@ -144,9 +148,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Bất kỳ lượt nào, khi bản thân chịu sát thương cộng dồn lớn hơn 20% HP ban đầu, thi triển [skill_5942_1]. (（Trước khi lượt của bản thân bắt đầu giới hạn 1 lần))",
-            "en": "In any turn, when cumulative damage taken exceeds 20% of max HP, casts [skill_5942_1]. ((Up to once before their next turn)).",
-            "zh": "任意回合，自身累计受到大于初始生命20%的伤害时，施放[skill_5942_1]。(（自身回合开始前限1次）)"
+            "vi": "Bất kỳ lượt nào, khi bản thân chịu sát thương cộng dồn lớn hơn 20% HP ban đầu, thi triển [skill_5942_1]. (Trước khi lượt của bản thân bắt đầu giới hạn 1 lần)",
+            "en": "In any turn, when cumulative damage taken exceeds 20% of max HP, casts [skill_5942_1]. ((Up to once before their next turn).",
+            "zh": "任意回合，自身累计受到大于初始生命20%的伤害时，施放[skill_5942_1]。(自身回合开始前限1次）)"
           }
         },
         {
@@ -164,6 +168,8 @@
     {
       "id": 5943,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mộng Dẫn Chi Thanh",
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "594.png",
+    "headIconFile": "594a.png"
   }
 }

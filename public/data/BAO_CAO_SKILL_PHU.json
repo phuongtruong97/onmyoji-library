@@ -1,0 +1,398 @@
+{
+  "rule": "Mã [skill_X_Y] nằm trong mô tả kỹ năng chính; X là ứng viên kỹ năng phụ của cùng slot.",
+  "relations": [
+    {
+      "heroId": 207,
+      "slot": 2,
+      "parentSkillId": 2072,
+      "referencedSkillId": 2073,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 211,
+      "slot": 1,
+      "parentSkillId": 2111,
+      "referencedSkillId": 2112,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 211,
+      "slot": 1,
+      "parentSkillId": 2111,
+      "referencedSkillId": 2114,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 211,
+      "slot": 1,
+      "parentSkillId": 2114,
+      "referencedSkillId": 2111,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 217,
+      "slot": 2,
+      "parentSkillId": 2172,
+      "referencedSkillId": 2173,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 220,
+      "slot": 2,
+      "parentSkillId": 2202,
+      "referencedSkillId": 2203,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 220,
+      "slot": 2,
+      "parentSkillId": 2202,
+      "referencedSkillId": 2204,
+      "existsInWorkbook": false
+    },
+    {
+      "heroId": 226,
+      "slot": 3,
+      "parentSkillId": 2263,
+      "referencedSkillId": 2267,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 250,
+      "slot": 2,
+      "parentSkillId": 2502,
+      "referencedSkillId": 2503,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 269,
+      "slot": 3,
+      "parentSkillId": 2693,
+      "referencedSkillId": 2695,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 271,
+      "slot": 3,
+      "parentSkillId": 2713,
+      "referencedSkillId": 2714,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 277,
+      "slot": 2,
+      "parentSkillId": 2772,
+      "referencedSkillId": 2773,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 282,
+      "slot": 2,
+      "parentSkillId": 2823,
+      "referencedSkillId": 2824,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 283,
+      "slot": 2,
+      "parentSkillId": 2832,
+      "referencedSkillId": 2835,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 293,
+      "slot": 2,
+      "parentSkillId": 2932,
+      "referencedSkillId": 2933,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 298,
+      "slot": 2,
+      "parentSkillId": 2982,
+      "referencedSkillId": 2983,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 301,
+      "slot": 2,
+      "parentSkillId": 3012,
+      "referencedSkillId": 3013,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 307,
+      "slot": 3,
+      "parentSkillId": 3073,
+      "referencedSkillId": 3071,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 313,
+      "slot": 2,
+      "parentSkillId": 3132,
+      "referencedSkillId": 3136,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 325,
+      "slot": 1,
+      "parentSkillId": 3251,
+      "referencedSkillId": 3257,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 325,
+      "slot": 2,
+      "parentSkillId": 3252,
+      "referencedSkillId": 3255,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 325,
+      "slot": 2,
+      "parentSkillId": 3252,
+      "referencedSkillId": 3256,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 325,
+      "slot": 3,
+      "parentSkillId": 3253,
+      "referencedSkillId": 3256,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 333,
+      "slot": 1,
+      "parentSkillId": 3331,
+      "referencedSkillId": 3334,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 335,
+      "slot": 1,
+      "parentSkillId": 3351,
+      "referencedSkillId": 3353,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 342,
+      "slot": 3,
+      "parentSkillId": 3423,
+      "referencedSkillId": 3421,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 344,
+      "slot": 1,
+      "parentSkillId": 3444,
+      "referencedSkillId": 3441,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 344,
+      "slot": 2,
+      "parentSkillId": 3445,
+      "referencedSkillId": 3442,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 344,
+      "slot": 3,
+      "parentSkillId": 3446,
+      "referencedSkillId": 3443,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 345,
+      "slot": 2,
+      "parentSkillId": 3452,
+      "referencedSkillId": 3454,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 348,
+      "slot": 2,
+      "parentSkillId": 3482,
+      "referencedSkillId": 3484,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 352,
+      "slot": 3,
+      "parentSkillId": 3523,
+      "referencedSkillId": 3526,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 352,
+      "slot": 3,
+      "parentSkillId": 3526,
+      "referencedSkillId": 3523,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 355,
+      "slot": 2,
+      "parentSkillId": 3552,
+      "referencedSkillId": 3554,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 356,
+      "slot": 3,
+      "parentSkillId": 3563,
+      "referencedSkillId": 3564,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 363,
+      "slot": 2,
+      "parentSkillId": 3632,
+      "referencedSkillId": 3634,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 375,
+      "slot": 2,
+      "parentSkillId": 3752,
+      "referencedSkillId": 3751,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 375,
+      "slot": 2,
+      "parentSkillId": 3752,
+      "referencedSkillId": 3753,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 389,
+      "slot": 2,
+      "parentSkillId": 3892,
+      "referencedSkillId": 3894,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 392,
+      "slot": 3,
+      "parentSkillId": 3923,
+      "referencedSkillId": 39231,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 398,
+      "slot": 3,
+      "parentSkillId": 3983,
+      "referencedSkillId": 3984,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 398,
+      "slot": 3,
+      "parentSkillId": 3984,
+      "referencedSkillId": 3983,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 550,
+      "slot": 1,
+      "parentSkillId": 5501,
+      "referencedSkillId": 5504,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 550,
+      "slot": 3,
+      "parentSkillId": 5503,
+      "referencedSkillId": 5505,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 563,
+      "slot": 2,
+      "parentSkillId": 5632,
+      "referencedSkillId": 5634,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 575,
+      "slot": 2,
+      "parentSkillId": 5752,
+      "referencedSkillId": 5751,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 575,
+      "slot": 2,
+      "parentSkillId": 5752,
+      "referencedSkillId": 5753,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 590,
+      "slot": 2,
+      "parentSkillId": 5902,
+      "referencedSkillId": 5904,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 595,
+      "slot": 3,
+      "parentSkillId": 5953,
+      "referencedSkillId": 5954,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 597,
+      "slot": 2,
+      "parentSkillId": 5972,
+      "referencedSkillId": 5974,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 597,
+      "slot": 2,
+      "parentSkillId": 5972,
+      "referencedSkillId": 5976,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 601,
+      "slot": 2,
+      "parentSkillId": 6012,
+      "referencedSkillId": 6014,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 602,
+      "slot": 3,
+      "parentSkillId": 6023,
+      "referencedSkillId": 6024,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 606,
+      "slot": 3,
+      "parentSkillId": 6063,
+      "referencedSkillId": 6064,
+      "existsInWorkbook": true
+    },
+    {
+      "heroId": 606,
+      "slot": 3,
+      "parentSkillId": 6063,
+      "referencedSkillId": 6065,
+      "existsInWorkbook": true
+    }
+  ],
+  "missingCandidates": [
+    {
+      "heroId": 220,
+      "slot": 2,
+      "parentSkillId": 2202,
+      "candidateSkillId": 2204
+    }
+  ]
+}

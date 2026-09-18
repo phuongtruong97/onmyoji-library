@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,26 +21,26 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 13100,
+      "value": 13899,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
-      "grade": "C"
+      "value": 454,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 100,
-      "grade": "B"
+      "value": 110,
+      "grade": "A"
     },
     {
       "key": "crit",
       "label": "CHÍ MẠNG",
-      "value": "6%",
-      "grade": "B"
+      "value": "8%",
+      "grade": "A"
     }
   ],
   "secondaryStats": {
@@ -52,6 +52,8 @@
     {
       "id": 5961,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bắt Mộng",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,11 +108,71 @@
       "iconFile": "5961.png"
     },
     {
-      "id": 5963,
+      "id": 5962,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Ban Cho Giấc Mơ Đẹp",
+        "vi": "Dệt Mộng Khúc",
+        "en": "Dreamweaver Tune",
+        "zh": "织梦曲"
+      },
+      "intro": {
+        "vi": "Tâm đỗ đom đóm, mộng đỗ vịnh trăng.",
+        "en": "Fireflies nestle in the heart, dreams dock in the moonlit bay.",
+        "zh": "心栖萤火，梦泊月湾。"
+      },
+      "description": {
+        "vi": "[tips_11]. Trăng mọc từ giấc mộng dài, Thần Vô Nguyệt và người mang [buff_5965_1] nhận 40% giảm sát thương, đồng minh khác nhận 20% giảm sát thương. Khi trận đấu bắt đầu, nhận [tips_5964]. Mỗi lần Thần Vô Nguyệt tạo Huyễn Cảnh, bản thân nhận 1 tầng [buff_5962_1]. Tiên Cơ: Nhận 1 tầng [buff_5962_1].",
+        "en": "[tips_11]. The moon rises from an eternal dream. Kannazuki and [buff_5965_1] bearer gain 40% damage reduction, while other allies gain 20% damage reduction. At the start of battle, gains [tips_5964]. Each time Kannazuki creates a field, she gains 1 stack of [buff_5962_1]. Upper Hand: Gains 1 stack of [buff_5962_1].",
+        "zh": "[tips_11]。月自长梦升，神无月和[buff_5965_1]携带者获得40%减伤，其他友方获得20%减伤。战斗开始时，获得[tips_5964]。神无月每次创造幻境，自身获得1层[buff_5962_1]。先机：获得1层[buff_5962_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[buff_5962_1] tăng sát thương tăng lên 14%",
+            "en": "[buff_5962_1] damage boost increases to 14%.",
+            "zh": "[buff_5962_1]伤害提升增至14%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_5962_1] tăng sát thương tăng lên 16%",
+            "en": "[buff_5962_1] damage boost increases to 16%.",
+            "zh": "[buff_5962_1]伤害提升增至16%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_5962_1] tăng sát thương tăng lên 18%",
+            "en": "[buff_5962_1] damage boost increases to 18%.",
+            "zh": "[buff_5962_1]伤害提升增至18%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên Cơ: Nhận 1 tầng [buff_5962_1]",
+            "en": "Upper Hand: Gains 1 stack of [buff_5962_1].",
+            "zh": "先机：获得1层[buff_5962_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "5962.png"
+    },
+    {
+      "id": 5963,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ban Cho Mộng Đẹp",
         "en": "Reverie Granted",
         "zh": "美梦赐予"
       },
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "596.png",
+    "headIconFile": "596a.png"
   }
 }

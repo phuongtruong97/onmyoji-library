@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2278,
-      "grade": "C"
+      "value": 2546,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10480,
-      "grade": "B"
+      "value": 11621,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 410,
-      "grade": "B"
+      "value": 454,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3401,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Chỉ Yến",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害增加至85%",
             "zh": "伤害增加至85%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害增加至90%",
             "zh": "伤害增加至90%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3402,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lạc Chỉ",
@@ -120,9 +124,9 @@
         "zh": "明月依旧，落纸不归。"
       },
       "description": {
-        "vi": "Bất kỳ kẻ địch nào thi triển kỹ năng, bản thân nhận 1 tầng [buff_3402_1], giới hạn 3 tầng, duy trì 1 lượt.\nKhi lượt bắt đầu, xua tan trạng thái giảm ích cùng [tips_3] mang trên bản thân, và tiêu hao số tầng [buff_3402_1] tương ứng.\nKhi thi triển 『Chỉ Nhẫn Phiên Xiên』, mỗi tầng [buff_3402_1] có thể làm Quỷ Hỏa tiêu hao giảm 1 điểm",
+        "vi": "Bất kỳ kẻ địch nào thi triển kỹ năng, bản thân nhận 1 tầng [buff_3402_1], giới hạn 3 tầng, duy trì 1 lượt.\nKhi lượt bắt đầu, xua tan trạng thái giảm ích cùng [tips_3] mang trên bản thân, và tiêu hao số tầng [buff_3402_1] tương ứng.\nKhi thi triển [Chỉ Nhẫn Phiên Xiên], mỗi tầng [buff_3402_1] có thể làm Quỷ Hỏa tiêu hao giảm 1 điểm",
         "en": "When a enemy uses a skill, Kamimai gains a layer of [buff_3402_1] (max 3 layers) for 1 turn.\nDispels all debuffs and [tips_3]s on her at the start of her turn and consumes a corresponding number of [buff_3402_1] layers.\nWhen using Dancing Papers, each layer of [buff_3402_1] reduces the orb cost by 1.",
-        "zh": "任一敌方施放技能时，自身获得1层[buff_3402_1]，上限3层，持续1回合。\n回合开始时，驱散自身带有的减益状态和[tips_3]，并消耗等量层数的[buff_3402_1]。\n施放『纸刃翩跹』时，每层[buff_3402_1]可使鬼火消耗减少1点"
+        "zh": "任一敌方施放技能时，自身获得1层[buff_3402_1]，上限3层，持续1回合。\n回合开始时，驱散自身带有的减益状态和[tips_3]，并消耗等量层数的[buff_3402_1]。\n施放『纸刃翩跹]时，每层[buff_3402_1]可使鬼火消耗减少1点"
       },
       "upgrades": [
         {
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi thi triển 『Chỉ Nhẫn Phiên Xiên』, mỗi tầng [buff_3402_1] có thể làm Quỷ Hỏa tiêu hao giảm 1 điểm",
+            "vi": "Khi thi triển [Chỉ Nhẫn Phiên Xiên], mỗi tầng [buff_3402_1] có thể làm Quỷ Hỏa tiêu hao giảm 1 điểm",
             "en": "When using Dancing Papers, each layer of [buff_3402_1] reduces the orb cost by 1.",
-            "zh": "施放『纸刃翩跹』时，每层[buff_3402_1]可使鬼火消耗减少1点"
+            "zh": "施放『纸刃翩跹]时，每层[buff_3402_1]可使鬼火消耗减少1点"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 3403,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Chỉ Nhẫn Phiên Xiên",
@@ -176,65 +182,33 @@
         "zh": "画中伊人，纸刃随风。"
       },
       "description": {
-        "vi": "Xoay nhanh, cuộn lên lượng lớn mảnh giấy bay xoay trong bầy địch, đính kèm [buff_3403_1] cho toàn bộ phe địch, gây [tips_5] bằng [b_参数p1_per] Tấn công, duy trì 2 lượt. Khi thi triển, đối với kẻ địch mang [buff_3403_1], làm mới thời gian duy trì [buff_3403_1] của kẻ đó và gây thêm [tips_5] bằng 154% Tấn công.\nKhi [buff_3403_1] bị kích nổ, 100% [tips_2] khiến mục tiêu [tips_104] 1 lượt.",
-        "en": "Performs a spinning dance to conjure up a whirlwind of flying papers among enemies, inflicting [buff_3403_1] on them for 2 turns and dealing [tips_5] equal to [b_参数p1_per] of her ATK. Using this skill on enemies with [buff_3403_1] increases the [buff_3403_1] duration to max and inflicts additional [tips_5] equal to 154% of her ATK.\nWhen a [buff_3403_1] is detonated, has a 100% [tips_2] of inflicting [tips_104] on the target for 1 turn.",
-        "zh": "快速旋转，在敌群中卷起大量飞旋纸片，为敌方全体附加[buff_3403_1]，造成攻击[b_参数p1_per][tips_5]，持续2回合。施放时，对带有[buff_3403_1]的敌方，重置其[buff_3403_1]持续时间并额外造成攻击154%[tips_5]。\n[buff_3403_1]被引爆时，100%[tips_2]使目标[tips_104]1回合。"
+        "vi": "Xoay nhanh, cuộn lên lượng lớn mảnh giấy bay xoay trong bầy địch, đính kèm [buff_3403_1] cho toàn bộ phe địch, gây [tips_5] bằng 114% Tấn công, duy trì 2 lượt. Khi thi triển, đối với kẻ địch mang [buff_3403_1], làm mới thời gian duy trì [buff_3403_1] của kẻ đó và gây thêm [tips_5] bằng 154% Tấn công.\nKhi [buff_3403_1] bị kích nổ, 100% [tips_2] khiến mục tiêu [tips_104] 1 lượt.",
+        "en": "Performs a spinning dance to conjure up a whirlwind of flying papers among enemies, inflicting [buff_3403_1] on them for 2 turns and dealing [tips_5] equal to 114% of her ATK. Using this skill on enemies with [buff_3403_1] increases the [buff_3403_1] duration to max and inflicts additional [tips_5] equal to 154% of her ATK.\nWhen a [buff_3403_1] is detonated, has a 100% [tips_2] of inflicting [tips_104] on the target for 1 turn.",
+        "zh": "快速旋转，在敌群中卷起大量飞旋纸片，为敌方全体附加[buff_3403_1]，造成攻击114%[tips_5]，持续2回合。施放时，对带有[buff_3403_1]的敌方，重置其[buff_3403_1]持续时间并额外造成攻击154%[tips_5]。\n[buff_3403_1]被引爆时，100%[tips_2]使目标[tips_104]1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "[tips_5] tăng lên [b_参数p1_per], [tips_5] gây ra khi trảm giấy bị kích nổ sẽ bỏ qua [b_参数p2_abs] điểm Phòng thủ",
-            "en": "Increases the [tips_5] she deals to [b_参数p1_per]. The [tips_5] dealt by Paper Blade when it's detonated ignores DEF by [b_参数p2_abs].",
-            "zh": "[tips_5]增至[b_参数p1_per]，纸刃被引爆时造成的[tips_5]将无视[b_参数p2_abs]点防御"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "[tips_5] tăng lên [b_参数p1_per], [tips_5] gây ra khi trảm giấy bị kích nổ sẽ bỏ qua [b_参数p2_abs] điểm Phòng thủ",
-            "en": "Increases the [tips_5] she deals to [b_参数p1_per]. The [tips_5] dealt by Paper Blade when it's detonated ignores DEF by [b_参数p2_abs].",
-            "zh": "[tips_5]增至[b_参数p1_per]，纸刃被引爆时造成的[tips_5]将无视[b_参数p2_abs]点防御"
+            "vi": "[tips_5] tăng lên 110%, [tips_5] gây ra khi trảm giấy bị kích nổ sẽ bỏ qua 100 điểm Phòng thủ",
+            "en": "Increases the [tips_5] she deals to 110%. The [tips_5] dealt by Paper Blade when it's detonated ignores DEF by 100.",
+            "zh": "[tips_5]增至110%，纸刃被引爆时造成的[tips_5]将无视100点防御"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "[tips_5] tăng lên [b_参数p1_per], [tips_5] gây ra khi trảm giấy bị kích nổ sẽ bỏ qua [b_参数p2_abs] điểm Phòng thủ",
-            "en": "Increases the [tips_5] she deals to [b_参数p1_per]. The [tips_5] dealt by Paper Blade when it's detonated ignores DEF by [b_参数p2_abs].",
-            "zh": "[tips_5]增至[b_参数p1_per]，纸刃被引爆时造成的[tips_5]将无视[b_参数p2_abs]点防御"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "[tips_5] tăng lên [b_参数p1_per], [tips_5] gây ra khi trảm giấy bị kích nổ sẽ bỏ qua [b_参数p2_abs] điểm Phòng thủ",
-            "en": "Increases the [tips_5] she deals to [b_参数p1_per]. The [tips_5] dealt by Paper Blade when it's detonated ignores DEF by [b_参数p2_abs].",
-            "zh": "[tips_5]增至[b_参数p1_per]，纸刃被引爆时造成的[tips_5]将无视[b_参数p2_abs]点防御"
+            "vi": "[tips_5] tăng lên 112%, [tips_5] gây ra khi trảm giấy bị kích nổ sẽ bỏ qua 150 điểm Phòng thủ",
+            "en": "Increases the [tips_5] she deals to 112%. The [tips_5] dealt by Paper Blade when it's detonated ignores DEF by 150.",
+            "zh": "[tips_5]增至112%，纸刃被引爆时造成的[tips_5]将无视150点防御"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "[tips_5] tăng lên [b_参数p1_per], [tips_5] gây ra khi trảm giấy bị kích nổ sẽ bỏ qua [b_参数p2_abs] điểm Phòng thủ",
-            "en": "Increases the [tips_5] she deals to [b_参数p1_per]. The [tips_5] dealt by Paper Blade when it's detonated ignores DEF by [b_参数p2_abs].",
-            "zh": "[tips_5]增至[b_参数p1_per]，纸刃被引爆时造成的[tips_5]将无视[b_参数p2_abs]点防御"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[tips_5] tăng lên [b_参数p1_per], [tips_5] gây ra khi trảm giấy bị kích nổ sẽ bỏ qua [b_参数p2_abs] điểm Phòng thủ",
-            "en": "Increases the [tips_5] she deals to [b_参数p1_per]. The [tips_5] dealt by Paper Blade when it's detonated ignores DEF by [b_参数p2_abs].",
-            "zh": "[tips_5]增至[b_参数p1_per]，纸刃被引爆时造成的[tips_5]将无视[b_参数p2_abs]点防御"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi thi triển, đối với kẻ địch mang [buff_3403_1], làm mới thời gian duy trì [buff_3403_1] của kẻ đó và gây thêm [tips_5] bằng 154% Tấn công",
-            "en": "Using this skill on enemies with [buff_3403_1] increases the [buff_3403_1] duration to max and inflicts additional [tips_5] equal to 154% of her ATK.",
-            "zh": "施放时，对带有[buff_3403_1]的敌方，重置其[buff_3403_1]持续时间并额外造成攻击154%[tips_5]"
+            "vi": "[tips_5] tăng lên 114%, [tips_5] gây ra khi trảm giấy bị kích nổ sẽ bỏ qua 200 điểm Phòng thủ",
+            "en": "Increases the [tips_5] she deals to 114%. The [tips_5] dealt by Paper Blade when it's detonated ignores DEF by 200.",
+            "zh": "[tips_5]增至114%，纸刃被引爆时造成的[tips_5]将无视200点防御"
           }
         },
         {
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "zhiwu.png",
-    "headIconFile": ""
+    "portraitFile": "340.png",
+    "headIconFile": "340a.png"
   }
 }

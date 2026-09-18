@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12986,
+      "value": 12988,
       "grade": "S"
     },
     {
@@ -34,7 +34,7 @@
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 115,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5661,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lễ Giáo",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5662,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồng Phúc Giáng Lâm",
@@ -120,9 +124,9 @@
         "zh": "足履实地，积水成渊。"
       },
       "description": {
-        "vi": "Phúc vận càng thích chiếu cố người cần cù. Khi kết thúc lượt của bản thân, đẩy lùi 15% Thanh Hành Động của toàn bộ mục tiêu kẻ địch và nhận 2 điểm Quỷ Hỏa; nếu trong lượt từng thi triển 『Ủy Dĩ Trọng Trách』 liền bắt đầu [tips_5663], [tips_15] 1 lượt; sau khi trận đấu bắt đầu, bản thân khi lần đầu chịu sát thương sẽ bắt đầu [tips_5663].",
+        "vi": "Phúc vận càng thích chiếu cố người cần cù. Khi kết thúc lượt của bản thân, đẩy lùi 15% Thanh Hành Động của toàn bộ mục tiêu kẻ địch và nhận 2 điểm Quỷ Hỏa; nếu trong lượt từng thi triển [Ủy Dĩ Trọng Trách] liền bắt đầu [tips_5663], [tips_15] 1 lượt; sau khi trận đấu bắt đầu, bản thân khi lần đầu chịu sát thương sẽ bắt đầu [tips_5663].",
         "en": "Fortune favors the diligent. At the end of his turn, lowers the Move Bar of all enemies by 15% and grants you 2 orbs (if Great Responsibility was used in the turn, he begins to [tips_5663].) [tips_15] for 1 turn. After the battle starts, when he takes damage for the first time, he begins to [tips_5663].",
-        "zh": "福运，更喜欢眷顾勤奋的人。自身回合结束时，击退全体敌方目标15%行动条并获得2点鬼火；若回合中施放过『委以重任』则开始[tips_5663]，[tips_15]1回合；战斗开始后，自身首次受到伤害时开始[tips_5663]。"
+        "zh": "福运，更喜欢眷顾勤奋的人。自身回合结束时，击退全体敌方目标15%行动条并获得2点鬼火；若回合中施放过『委以重任]则开始[tips_5663]，[tips_15]1回合；战斗开始后，自身首次受到伤害时开始[tips_5663]。"
       },
       "upgrades": [
         {
@@ -164,6 +168,8 @@
     {
       "id": 5663,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ủy Dĩ Trọng Trách",
@@ -176,9 +182,9 @@
         "zh": "天降神福，任重道远。我……先睡一会。"
       },
       "description": {
-        "vi": "[tips_20]) 20% giới hạn HP của mục tiêu đồng minh không phải vật triệu hồi đồng thời chuyển dịch hiệu ứng bộ 4 món Ngự Hồn của bản thân cho mục tiêu (（chuyển dịch tối đa 1 loại hiệu ứng, đồng thời tổng sát thương do Ngự Hồn gây ra tăng tối đa đến 140%)), [tips_15] 1 lượt. Khi thi triển lần nữa lên mục tiêu đang ở trong hiệu ứng chuyển dịch Ngự Hồn, xua tan hoặc giải trừ tất cả [tips_3] của họ; nếu mục tiêu không ở trong [tips_3], liền khiến kẻ đó nhận lượt hành động mới đồng thời xóa bỏ hiệu ứng chuyển dịch Ngự Hồn sau khi lượt đó kết thúc.",
-        "en": "[tips_20]s the HP of 1 non-summoned ally entity by 20% of max HP while transferring the 4-piece set effect of his Souls to the ally (（至多转移1种效果，且总御魂造成伤害提升至多为140%）) for [tips_15] 1 turn. When cast again on a target under the Soul-transferring effect, dispels or removes all their [tips_3]; if the target is not under [tips_3], grants them a new turn and removes the Soul-transferring effect at the end of that turn.",
-        "zh": "[tips_20]非召唤物友方目标生命上限20%的生命并将自身的御魂4件套效果转移给目标(（至多转移1种效果，且总御魂造成伤害提升至多为140%）)，[tips_15]1回合。对处于御魂转移效果的目标再次施放时，驱散或解除其所有[tips_3]；若目标未处于[tips_3]，则使其获得新的回合并在该回合结束后移除御魂转移效果。"
+        "vi": "[tips_20]) 20% giới hạn HP của mục tiêu đồng minh không phải vật triệu hồi đồng thời chuyển dịch hiệu ứng bộ 4 món Ngự Hồn của bản thân cho mục tiêu (chuyển dịch tối đa 1 loại hiệu ứng, đồng thời tổng sát thương do Ngự Hồn gây ra tăng tối đa đến 140%), [tips_15] 1 lượt. Khi thi triển lần nữa lên mục tiêu đang ở trong hiệu ứng chuyển dịch Ngự Hồn, xua tan hoặc giải trừ tất cả [tips_3] của họ; nếu mục tiêu không ở trong [tips_3], liền khiến kẻ đó nhận lượt hành động mới đồng thời xóa bỏ hiệu ứng chuyển dịch Ngự Hồn sau khi lượt đó kết thúc.",
+        "en": "[tips_20]s the HP of 1 non-summoned ally entity by 20% of max HP while transferring the 4-piece set effect of his Souls to the ally (至多转移1种效果，且总御魂造成伤害提升至多为140%）) for [tips_15] 1 turn. When cast again on a target under the Soul-transferring effect, dispels or removes all their [tips_3]; if the target is not under [tips_3], grants them a new turn and removes the Soul-transferring effect at the end of that turn.",
+        "zh": "[tips_20]非召唤物友方目标生命上限20%的生命并将自身的御魂4件套效果转移给目标(至多转移1种效果，且总御魂造成伤害提升至多为140%）)，[tips_15]1回合。对处于御魂转移效果的目标再次施放时，驱散或解除其所有[tips_3]；若目标未处于[tips_3]，则使其获得新的回合并在该回合结束后移除御魂转移效果。"
       },
       "upgrades": [
         {
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "566.png",
+    "headIconFile": "566a.png"
   }
 }

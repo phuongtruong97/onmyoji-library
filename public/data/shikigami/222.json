@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2733,
-      "grade": "A"
+      "value": 3028,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9455,
-      "grade": "C"
+      "value": 10482,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 374,
-      "grade": "C"
+      "value": 419,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 100,
-      "grade": "B"
+      "value": 110,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2221,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Samurai Chi Tâm",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "2221.png"
     },
     {
-      "id": 2223,
+      "id": 2222,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Diệt Hồn",
+        "en": "Soul Slash",
+        "zh": "灭魂"
+      },
+      "intro": {
+        "vi": "Thỏa sức giải phóng oán hận đi!",
+        "en": "Souls, unleash your hatred!",
+        "zh": "尽情释放怨恨吧！"
+      },
+      "description": {
+        "vi": "Mục tiêu mang [buff_2226_1] bị giảm 40% hiệu quả chính xác. Khi [buff_2226_1] bị giải trừ, mục tiêu bị trừ 1 điểm Quỷ Hỏa.",
+        "en": "Reduces the Effect HIT of targets with [buff_2226_1] by 40%. When [buff_2226_1] is dispelled, 1 orb is removed from target.",
+        "zh": "带有[buff_2226_1]的目标，降低40%效果命中。[buff_2226_1]被驱散时，目标削减1点鬼火。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu quả giảm hiệu quả chính xác tăng đến 20%.",
+            "en": "Increases Effect HIT reduction effect to 20%.",
+            "zh": "降低效果命中效果，增至20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu quả giảm hiệu quả chính xác tăng đến 30%.",
+            "en": "Increases Effect HIT reduction effect to 30%.",
+            "zh": "降低效果命中效果，增至30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu quả giảm hiệu quả chính xác tăng đến 40%.",
+            "en": "Increases Effect HIT reduction effect to 40%.",
+            "zh": "降低效果命中效果，增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi [buff_2226_1] bị giải trừ, mục tiêu bị trừ 1 điểm Quỷ Hỏa.",
+            "en": "When [buff_2226_1] is dispelled, 1 orb is removed from target.",
+            "zh": "[buff_2226_1]被驱散时，目标削减1点鬼火"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2222.png"
+    },
+    {
+      "id": 2223,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bất Cam Chi Nộ",
@@ -120,41 +182,41 @@
         "zh": "亡魂啊，让他们也尝尝不甘的滋味！"
       },
       "description": {
-        "vi": "释放不甘的怨念，攻击敌方全体，造成攻击130%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2226_1]，持续3回合。",
-        "en": "释放不甘的怨念，攻击敌方全体，造成攻击130%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2226_1]，持续3回合。",
-        "zh": "释放不甘的怨念，攻击敌方全体，造成攻击130%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2226_1]，持续3回合。"
+        "vi": "Giải phóng oán niệm không cam lòng, tấn công toàn thể phe địch, gây sát thương bằng 130% Tấn công và có 100% [tips_2] xác suất gắn [buff_2226_1], duy trì 3 lượt.",
+        "en": "释放不甘的怨念，攻击敌方全体，造成攻击130%伤害并有100%（+Effect HIT）概率附加[buff_2226_1]，持续3回合。",
+        "zh": "释放不甘的怨念，攻击敌方全体，造成攻击130%伤害并有100%（+效果命中）概率附加[buff_2226_1]，持续3回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương tăng đến 114%, [tips_5] của [buff_2226_1] tăng đến [b_参数p1_per].",
-            "en": "Increases damage to 114% and [buff_2226_1]'s [tips_5] to [b_参数p1_per].",
-            "zh": "伤害增至114%，[buff_2226_1][tips_5]增至[b_参数p1_per]"
+            "vi": "Sát thương tăng đến 114%, [tips_5] của [buff_2226_1] tăng đến 57%.",
+            "en": "Increases damage to 114% and [buff_2226_1]'s [tips_5] to 57%.",
+            "zh": "伤害增至114%，[buff_2226_1][tips_5]增至57%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Sát thương tăng đến 119%, [tips_5] của [buff_2226_1] tăng đến [b_参数p1_per].",
-            "en": "Increases damage to 119% and [buff_2226_1]'s [tips_5] to [b_参数p1_per].",
-            "zh": "伤害增至119%，[buff_2226_1][tips_5]增至[b_参数p1_per]"
+            "vi": "Sát thương tăng đến 119%, [tips_5] của [buff_2226_1] tăng đến 60%.",
+            "en": "Increases damage to 119% and [buff_2226_1]'s [tips_5] to 60%.",
+            "zh": "伤害增至119%，[buff_2226_1][tips_5]增至60%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Sát thương tăng đến 125%, [tips_5] của [buff_2226_1] tăng đến [b_参数p1_per].",
-            "en": "Increases damage to 125% and [buff_2226_1]'s [tips_5] to [b_参数p1_per].",
-            "zh": "伤害增至125%，[buff_2226_1][tips_5]增至[b_参数p1_per]"
+            "vi": "Sát thương tăng đến 125%, [tips_5] của [buff_2226_1] tăng đến 63%.",
+            "en": "Increases damage to 125% and [buff_2226_1]'s [tips_5] to 63%.",
+            "zh": "伤害增至125%，[buff_2226_1][tips_5]增至63%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Sát thương tăng đến 130%, [tips_5] của [buff_2226_1] tăng đến [b_参数p1_per].",
-            "en": "Increases damage to 130% and [buff_2226_1]'s [tips_5] to [b_参数p1_per].",
-            "zh": "伤害增至130%，[buff_2226_1][tips_5]增至[b_参数p1_per]"
+            "vi": "Sát thương tăng đến 130%, [tips_5] của [buff_2226_1] tăng đến 65%.",
+            "en": "Increases damage to 130% and [buff_2226_1]'s [tips_5] to 65%.",
+            "zh": "伤害增至130%，[buff_2226_1][tips_5]增至65%"
           }
         }
       ],
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "222.png",
+    "headIconFile": "222a.png"
   }
 }

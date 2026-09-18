@@ -9,8 +9,8 @@
   "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "statState": "LV40_NO_EVO",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,13 +21,13 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
+      "value": 10254,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 396,
+      "value": 397,
       "grade": "B"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2461,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hải Biển",
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2462,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cổ Vũ",
@@ -120,41 +124,41 @@
         "zh": "加油！我敲！"
       },
       "description": {
-        "vi": "Gõ chiếc trống trong tay, làm sục sôi sĩ khí trận hình, giúp toàn bộ phe ta tăng [b_属性1数值_abs] điểm Tốc độ và [b_属性2数值_per] Bạo kích, duy trì 2 lượt.",
-        "en": "Beats his drum and rouses his allies' fighting spirit, increasing the SPD of all allies by [b_属性1数值_abs] and their Crit by [b_属性2数值_per] for 2 turn(s).",
-        "zh": "敲起手中的鼓，激昂战阵士气，使友方全体提升[b_属性1数值_abs]点速度和[b_属性2数值_per]暴击，持续2回合。"
+        "vi": "Gõ chiếc trống trong tay, làm sục sôi sĩ khí trận hình, giúp toàn bộ phe ta tăng 15 điểm Tốc độ và 11% Bạo kích, duy trì 2 lượt.",
+        "en": "Beats his drum and rouses his allies' fighting spirit, increasing the SPD of all allies by 15 and their Crit by 11% for 2 turn(s).",
+        "zh": "敲起手中的鼓，激昂战阵士气，使友方全体提升15点速度和11%暴击，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Hiệu ứng tăng Bạo kích tăng lên [b_属性2数值_per]",
-            "en": "Increases Crit boost effect to [b_属性2数值_per].",
-            "zh": "提升暴击效果增至[b_属性2数值_per]"
+            "vi": "Hiệu ứng tăng Bạo kích tăng lên 8%",
+            "en": "Increases Crit boost effect to 8%.",
+            "zh": "提升暴击效果增至8%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Hiệu ứng tăng Tốc độ tăng lên [b_属性1数值_abs] điểm",
-            "en": "The SPD boost effect increases to [b_属性1数值_abs].",
-            "zh": "提升速度效果增至[b_属性1数值_abs]点"
+            "vi": "Hiệu ứng tăng Tốc độ tăng lên 10 điểm",
+            "en": "The SPD boost effect increases to 10.",
+            "zh": "提升速度效果增至10点"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Hiệu ứng tăng Bạo kích tăng lên [b_属性2数值_per]",
-            "en": "Increases Crit boost effect to [b_属性2数值_per].",
-            "zh": "提升暴击效果增至[b_属性2数值_per]"
+            "vi": "Hiệu ứng tăng Bạo kích tăng lên 11%",
+            "en": "Increases Crit boost effect to 11%.",
+            "zh": "提升暴击效果增至11%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Hiệu ứng tăng Tốc độ tăng lên [b_属性1数值_abs] điểm",
-            "en": "The SPD boost effect increases to [b_属性1数值_abs].",
-            "zh": "提升速度效果增至[b_属性1数值_abs]点"
+            "vi": "Hiệu ứng tăng Tốc độ tăng lên 15 điểm",
+            "en": "The SPD boost effect increases to 15.",
+            "zh": "提升速度效果增至15点"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 2463,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Cổ Lôi",
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "chishe.png",
-    "headIconFile": ""
+    "portraitFile": "246.png",
+    "headIconFile": "246a.png"
   }
 }

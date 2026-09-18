@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2036,
-      "grade": "D"
+      "value": 2251,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12759,
+      "value": 13899,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 361,
+      "value": 397,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 101,
-      "grade": "B"
+      "value": 111,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2981,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Can Nhiễu Đầu Trịch",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "2981.png"
     },
     {
-      "id": 2983,
+      "id": 2982,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cú Chi Cảnh Giác",
+        "en": "Vigilant Owl",
+        "zh": "鸮之警惕"
+      },
+      "intro": {
+        "vi": "Cú hỡi, cảnh giác lên! Bây giờ đang là thời khắc quan trọng đó!~",
+        "en": "Get ready! This is the moment!",
+        "zh": "鸮，警惕起来！现在可是关键时刻！~"
+      },
+      "description": {
+        "vi": "[tips_11].\nKhi mỗi lượt (bất kể địch ta) bắt đầu, chuyển đổi giữa hai trạng thái [tips_2982] / [tips_2983].\nHuân bình thường ở trạng thái [tips_2982], nếu đồng minh chịu [tips_3] đạt từ 2 người trở lên, Huân sẽ tiến vào trạng thái [tips_2983].\nNếu ở trạng thái [tips_2982], khi lượt bản thân kết thúc, giúp toàn bộ phe ta tăng 15% sát thương, cho đến khi chuyển đổi trạng thái. Khi hiệu ứng khống chế của bản thân biến mất, thi triển miễn phí [skill_2983_5] lên đồng minh có HP ít nhất (giới hạn 1 lần trước khi lượt bản thân bắt đầu)",
+        "en": "[tips_11].\nAt the start of every turn, ally or enemy, switches between [tips_2982] and [tips_2983].\nKaoru normally stays in [tips_2982]. If 2 or more allies are affected by [tips_3], Kaoru enters [tips_2983].\nWhile in [tips_2982], increases all allies' damage by 15% at the end of her turn until she switches states. When her control effect ends, casts [skill_2983_5] on the ally with the lowest HP at no cost, up to 1 times before her next turn starts.",
+        "zh": "[tips_11]。\n每个回合（不论敌我）开始时，在「[tips_2982]／[tips_2983]两种状态之间切换。\n薰平常为[tips_2982]状态，若承受[tips_3]的友方达2个或更多，薰会进入[tips_2983]状态。\n若处于[tips_2982]状态，在自身回合结束时，使友方全体提升15%伤害，直到切换状态为止。自身控制效果消失时，对生命最少的友方无消耗施放「[skill_2983_5]（自身回合开始前限1次）"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trạng thái [tips_2983], hiệu ứng tăng Kháng tăng lên 50%",
+            "en": "When she's in [tips_2983] status, increases the Effect RES boost effect to 50%.",
+            "zh": "[tips_2983]状态，提升抵抗效果增至50%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trạng thái [tips_2983], hiệu ứng tăng Kháng tăng lên 60%",
+            "en": "When she's in [tips_2983] status, increases the Effect RES boost effect to 60%.",
+            "zh": "[tips_2983]状态，提升抵抗效果增至60%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trạng thái [tips_2983], hiệu ứng tăng Tốc độ tăng lên 15 điểm",
+            "en": "When she's in [tips_2983] status, increases the SPD boost effect to 15.",
+            "zh": "[tips_2983]状态，提升速度效果增至15点"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu ở trạng thái [tips_2982], khi lượt bản thân kết thúc, giúp toàn bộ phe ta tăng 15% sát thương, cho đến khi chuyển đổi trạng thái. Khi hiệu ứng khống chế của bản thân biến mất, thi triển miễn phí [[skill_2983_5]] lên đồng minh có HP ít nhất (giới hạn 1 lần trước khi lượt bản thân bắt đầu)",
+            "en": "While in [tips_2982], at the end of her turn, increases damage dealt by all allies by 15% until the state changes. When her control effect ends, casts [skill_2983_5] on the ally with the lowest HP at no cost (up to 1 times before her turn begins)",
+            "zh": "若处于[tips_2982]状态，在自身回合结束时，使友方全体提升15%伤害，直到切换状态为止。自身控制效果消失时，对生命最少的友方无消耗施放「[skill_2983_5]]（自身回合开始前限1次）"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2982.png"
+    },
+    {
+      "id": 2983,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thủ Hộ Dịu Dàng",
@@ -128,15 +190,15 @@
         {
           "level": 2,
           "text": {
-            "vi": "Khi [buff_2984_1] biến mất, HP bị [tips_21] của đồng minh giảm còn [b_参数p1_per] giá trị ghi nhận",
-            "en": "When [buff_2984_1] fails, causes your ally [tips_21]'s HP to reduce to [b_参数p1_per] of the recorded amount.",
-            "zh": "[buff_2984_1]消失时，友方[tips_21]的生命减少至记录值[b_参数p1_per]"
+            "vi": "Khi [buff_2984_1] biến mất, HP bị [tips_21] của đồng minh giảm còn 70% giá trị ghi nhận",
+            "en": "When [buff_2984_1] fails, causes your ally [tips_21]'s HP to reduce to 70% of the recorded amount.",
+            "zh": "[buff_2984_1]消失时，友方[tips_21]的生命减少至记录值70%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "消耗鬼火减少1点",
+            "vi": "Tiêu hao quỷ hỏa giảm 1 điểm",
             "en": "消耗鬼火减少1点",
             "zh": "消耗鬼火减少1点"
           }
@@ -144,9 +206,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi [buff_2984_1] biến mất, HP bị [tips_21] của đồng minh giảm còn [b_参数p1_per] giá trị ghi nhận",
-            "en": "When [buff_2984_1] fails, causes your ally [tips_21]'s HP to reduce to [b_参数p1_per] of the recorded amount.",
-            "zh": "[buff_2984_1]消失时，友方[tips_21]的生命减少至记录值[b_参数p1_per]"
+            "vi": "Khi [buff_2984_1] biến mất, HP bị [tips_21] của đồng minh giảm còn 60% giá trị ghi nhận",
+            "en": "When [buff_2984_1] fails, causes your ally [tips_21]'s HP to reduce to 60% of the recorded amount.",
+            "zh": "[buff_2984_1]消失时，友方[tips_21]的生命减少至记录值60%"
           }
         },
         {
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "xun.png",
-    "headIconFile": "h_xun.png"
+    "portraitFile": "298.png",
+    "headIconFile": "298a.png"
   }
 }

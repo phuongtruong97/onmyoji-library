@@ -1,0 +1,231 @@
+{
+  "id": 605,
+  "name": {
+    "vi": "Lạc Thiên Y",
+    "en": "Luo Tianyi",
+    "zh": "洛天依"
+  },
+  "rarity": "SSR",
+  "tier": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "EVOLVED",
+  "reviewStatus": "MOI_TU_GAME",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2144,
+      "grade": "D"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 14469,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 410,
+      "grade": "B"
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 116,
+      "grade": "A"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "9%",
+      "grade": "A"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6051,
+      "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Dương Âm",
+        "en": "扬音",
+        "zh": "扬音"
+      },
+      "intro": {
+        "vi": "Cất tiếng giương buồm! Hát xong chúng ta cùng đi ăn món gì ngon nhé~",
+        "en": "扬音启航！唱完就一起去吃好吃的吧~",
+        "zh": "扬音启航！唱完就一起去吃好吃的吧~"
+      },
+      "description": {
+        "vi": "Lạc Thiên Y cất cao tiếng hát, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "洛天依一展歌喉，对敌方目标造成攻击125%伤害。",
+        "zh": "洛天依一展歌喉，对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6051.png"
+    },
+    {
+      "id": 6052,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ngã Tâm Cộng Hưởng",
+        "en": "我心共鸣",
+        "zh": "我心共鸣"
+      },
+      "intro": {
+        "vi": "Phong cốt Hoa Hạ, Lạc Thủy Thiên Y.",
+        "en": "华风夏韵，洛水天依",
+        "zh": "华风夏韵，洛水天依"
+      },
+      "description": {
+        "vi": "Mau cùng Lạc Thiên Y cất tiếng hát nào~\n[tips_11]。Khi trận đấu bắt đầu, nhận 1 Quỷ Hỏa. Tiếng hát cất lên, khi trận đấu và hiệp bắt đầu, nhận 5 tầng [buff_6051_1]. Toàn thể đồng minh tăng 30% sát thương chí mạng",
+        "en": "快和洛天依一起歌唱~\n[tips_11]。战斗开始时，获得1点鬼火。歌声起，战斗和回合开始时，获得5层[buff_6051_1]。全体友方提升30%暴击伤害",
+        "zh": "快和洛天依一起歌唱~\n[tips_11]。战斗开始时，获得1点鬼火。歌声起，战斗和回合开始时，获得5层[buff_6051_1]。全体友方提升30%暴击伤害"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Cộng hưởng khôi phục HP tăng lên 10%",
+            "en": "共鸣恢复生命值提升至10%",
+            "zh": "共鸣恢复生命值提升至10%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Cộng hưởng khôi phục HP tăng lên 12%",
+            "en": "共鸣恢复生命值提升至12%",
+            "zh": "共鸣恢复生命值提升至12%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Cộng hưởng khôi phục HP tăng lên 15%",
+            "en": "共鸣恢复生命值提升至15%",
+            "zh": "共鸣恢复生命值提升至15%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Toàn thể đồng minh tăng 30% sát thương chí mạng",
+            "en": "全体友方提升30%暴击伤害",
+            "zh": "全体友方提升30%暴击伤害"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6052.png"
+    },
+    {
+      "id": 6053,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Y Vạn Tượng",
+        "en": "天依万象",
+        "zh": "天依万象"
+      },
+      "intro": {
+        "vi": "Tiêu điểm của sân khấu, là tôi, và cũng là các bạn.",
+        "en": "舞台的焦点，是我，也是你们。",
+        "zh": "舞台的焦点，是我，也是你们。"
+      },
+      "description": {
+        "vi": "Chân trời góc bể dễ tìm tri âm.\n[tips_11]。Lạc Thiên Y cất giọng hát vang, tiếng ca không ngừng lan tỏa. Bản thân nhận [buff_6055_1], đồng thời khiến toàn thể đồng minh tăng 30% sát thương chí mạng, duy trì 1 hiệp. Tiêu hao Quỷ Hỏa giảm 1 điểm.",
+        "en": "天涯知音寻常见。\n[tips_11]。洛天依放声歌唱，歌声不断传递。自身获得[buff_6055_1]，并使全体友方暴击伤害提升30%，维持1回合。消耗鬼火减少1点。",
+        "zh": "天涯知音寻常见。\n[tips_11]。洛天依放声歌唱，歌声不断传递。自身获得[buff_6055_1]，并使全体友方暴击伤害提升30%，维持1回合。消耗鬼火减少1点。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi thi triển tăng thêm cho toàn thể đồng minh 20% sát thương chí mạng, duy trì 1 hiệp",
+            "en": "施放时额外提升全体友方20%暴击伤害，维持1回合",
+            "zh": "施放时额外提升全体友方20%暴击伤害，维持1回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi thi triển tăng thêm cho toàn thể đồng minh 25% sát thương chí mạng, duy trì 1 hiệp",
+            "en": "施放时额外提升全体友方25%暴击伤害，维持1回合",
+            "zh": "施放时额外提升全体友方25%暴击伤害，维持1回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi thi triển tăng thêm cho toàn thể đồng minh 30% sát thương chí mạng, duy trì 1 hiệp",
+            "en": "施放时额外提升全体友方30%暴击伤害，维持1回合",
+            "zh": "施放时额外提升全体友方30%暴击伤害，维持1回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiêu hao Quỷ Hỏa giảm 1 điểm",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconFile": "6053.png"
+    }
+  ],
+  "assets": {
+    "portraitFile": "605.png",
+    "headIconFile": "605a.png"
+  }
+}

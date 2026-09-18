@@ -10,24 +10,24 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2840,
+      "value": 2841,
       "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11278,
+      "value": 11279,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 353,
       "grade": "C"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 5621,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tịch Niệm",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5622,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Giao Nhân Ca",
@@ -120,7 +124,7 @@
         "zh": "潮汐，倾听我的约定吧！"
       },
       "description": {
-        "vi": "[tips_11]. Khi trận đấu bắt đầu, nhận Chúc Phúc Triều Lưu: Chuyển hóa [tips_3] khác của bản thân thành [buff_5621_1]; khi tử trận, gọi tới 1 con [tips_5622], tồn tại 2 lượt.\n【Thi triển】 Chúc phúc 1 mục tiêu đồng minh ngoài bản thân không phải vật triệu hồi, chia sẻ Chúc Phúc Triều Lưu với kẻ đó, duy trì 2 lượt.",
+        "vi": "[tips_11]. Khi trận đấu bắt đầu, nhận Chúc Phúc Triều Lưu: Chuyển hóa [tips_3] khác của bản thân thành [buff_5621_1]; khi tử trận, gọi tới 1 con [tips_5622], tồn tại 2 lượt.\n[Thi triển] Chúc phúc 1 mục tiêu đồng minh ngoài bản thân không phải vật triệu hồi, chia sẻ Chúc Phúc Triều Lưu với kẻ đó, duy trì 2 lượt.",
         "en": "[tips_11]. At the start of battle, gains her Tidal Blessing: Converts all other [tips_3]s inflicted to [buff_5621_1]. Summons 1 [tips_5622] that lasts 2 turns upon being KO'd.\nActive skill: Shares Tidal Blessing (lasts 2 turns) with another non-summoned ally entity.",
         "zh": "[tips_11]。战斗开始时，获得汐流祝福：将自身携带的其他[tips_3]转化成[buff_5621_1]；阵亡时，唤来1只[tips_5622]，存在2个回合。\n【施放】祝福1个自身外非召唤物的友方目标，与其共享汐流祝福，持续2个回合。"
       },
@@ -164,6 +168,8 @@
     {
       "id": 5623,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Kình Tức Hồi Mộng",
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_sp_qianji.png"
+    "portraitFile": "562.png",
+    "headIconFile": "562a.png"
   }
 }

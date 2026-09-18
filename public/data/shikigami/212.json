@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2197,
-      "grade": "C"
+      "value": 2439,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11505,
-      "grade": "A"
+      "value": 12760,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 383,
-      "grade": "C"
+      "value": 428,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 93,
-      "grade": "D"
+      "value": 103,
+      "grade": "B"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2121,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Vũ Nhận",
@@ -64,15 +66,15 @@
         "zh": "就用我的羽毛，保护大家吧。"
       },
       "description": {
-        "vi": "Dùng yêu lực làm cứng lông vũ của bản thân bắn về phía mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất giảm [b_属性1数值_per] Chính Xác Hiệu Ứng, duy trì 2 lượt.",
-        "en": "Hardens his feathers and shoots them at 1 enemy, dealing damage equal to 125% of his ATK with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of reducing their Effect HIT by [b_属性1数值_per] for 2 turns.",
-        "zh": "以妖力硬化自身的羽毛射向敌方目标，造成攻击125%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率降低[b_属性1数值_per]效果命中，持续2回合。"
+        "vi": "Dùng yêu lực làm cứng lông vũ của bản thân bắn về phía mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 100% [tips_2] xác suất giảm 10% Chính Xác Hiệu Ứng, duy trì 2 lượt.",
+        "en": "Hardens his feathers and shoots them at 1 enemy, dealing damage equal to 125% of his ATK with a 100% (+Effect HIT) chance of reducing their Effect HIT by 10% for 2 turns.",
+        "zh": "以妖力硬化自身的羽毛射向敌方目标，造成攻击125%伤害并有100%（+效果命中）概率降低10%效果命中，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2122,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Vũ Y",
@@ -164,6 +168,8 @@
     {
       "id": 2123,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Hồn Chi Tế Hiến",
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_tongnan.png"
+    "portraitFile": "212.png",
+    "headIconFile": "212a.png"
   }
 }

@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2144,
+      "value": 2358,
       "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12759,
+      "value": 14013,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
+      "value": 392,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 102,
-      "grade": "B"
+      "value": 112,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2971,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Dương Viêm",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2972,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 3,
       "name": {
         "vi": "Tình Vũ",
@@ -140,6 +144,8 @@
     {
       "id": 2973,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tư Dưỡng",
@@ -152,7 +158,7 @@
         "zh": "绝对，绝对不可以放弃！"
       },
       "description": {
-        "vi": "Khi đồng minh tử trận, nếu kỹ năng nội tại của bản thân chưa bị mất hiệu lực, hy sinh Búp Bê Nắng để hồi sinh ngẫu nhiên 1 Thức Thần phe ta đã tử trận, trị liệu lượng HP bằng 100% HP tối đa cho kẻ đó, và chia đều 100% Năng Lượng Ánh Nắng để trị liệu cho toàn bộ phe ta không phải vật triệu hồi. Búp Bê Nắng sẽ hồi sinh sau 3 lượt, khi có nhiều Nhật Hòa Phường trên sân, sẽ hy sinh toàn bộ Búp Bê Nắng.\n【Thi triển】 Khi Búp Bê Nắng tồn tại, tích trữ Năng Lượng Ánh Nắng bằng 40% HP tối đa của bản thân; khi Búp Bê Nắng hy sinh, khiến số lượt hồi sinh của nó giảm 1.",
+        "vi": "Khi đồng minh tử trận, nếu kỹ năng nội tại của bản thân chưa bị mất hiệu lực, hy sinh Búp Bê Nắng để hồi sinh ngẫu nhiên 1 Thức Thần phe ta đã tử trận, trị liệu lượng HP bằng 100% HP tối đa cho kẻ đó, và chia đều 100% Năng Lượng Ánh Nắng để trị liệu cho toàn bộ phe ta không phải vật triệu hồi. Búp Bê Nắng sẽ hồi sinh sau 3 lượt, khi có nhiều Nhật Hòa Phường trên sân, sẽ hy sinh toàn bộ Búp Bê Nắng.\n[Thi triển] Khi Búp Bê Nắng tồn tại, tích trữ Năng Lượng Ánh Nắng bằng 40% HP tối đa của bản thân; khi Búp Bê Nắng hy sinh, khiến số lượt hồi sinh của nó giảm 1.",
         "en": "When an ally is KO'd, if Hiyoribou's passive skill is not disabled, she sacrifices her Sunshine Doll to randomly revive a KO'd allied shikigami, restoring their HP by 100% of their max HP. Also spends 100% of the sunshine energy stored to heal all non-summoned entity allies by a shared amount. Sunshine Doll revives in 3 turns. If multiple Hiyoribou are present, all of their Sunshine Dolls will be sacrificed.\nUsing the skill when her Sunshine Doll is present stores sunshine energy equal to 40% of her max HP. When her Sunshine Doll is sacrificed, its revival cool-down is reduced by 1 turn.",
         "zh": "友方阵亡时，若自身被动技能未失效，牺牲晴天娃娃来复活随机1名阵亡的友方式神，为其治疗生命上限100%的生命，并将100%日光能量均分治疗非召唤物的友方全体。晴天娃娃在3回合后重生，多个日和坊在场时，将牺牲所有晴天娃娃。\n【施放】晴天娃娃存在时，存储等同自身生命上限40%的日光能量；晴天娃娃牺牲时，使其重生回合数减1。"
       },
@@ -195,7 +201,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "297.png",
+    "headIconFile": "297a.png"
   }
 }

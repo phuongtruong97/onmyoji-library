@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12531,
+      "value": 12532,
       "grade": "S"
     },
     {
@@ -34,7 +34,7 @@
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 110,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5981,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồi Xuân Vũ",
@@ -108,6 +110,8 @@
     {
       "id": 5982,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Huề Phương Ý",
@@ -164,6 +168,8 @@
     {
       "id": 5983,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tỉnh Thời Hoa",
@@ -176,7 +182,7 @@
         "zh": "在春天之中醒来吧……"
       },
       "description": {
-        "vi": "[tips_11]. Khi Bạo kích ban đầu của bản thân đạt 100%, sát thương gánh chịu giảm 35%; khi đồng minh được hồi sinh, trị liệu cho kẻ đó lượng HP bằng 10% HP tối đa của Chước Hoa Đào Yêu và giúp kẻ đó nhận [buff_5982_1], duy trì 3 lượt.\n【Thi triển】 Hồi sinh mục tiêu phe ta và đính kèm [buff_5981_1] đồng thời tăng 50% Thanh Hành Động cho kẻ đó. Sau khi lượt của kẻ địch kết thúc, nếu mục tiêu phe ta bị hạ gục, thi triển miễn phí (trong 1 trận chiến kích hoạt tối đa 3 lần)",
+        "vi": "[tips_11]. Khi Bạo kích ban đầu của bản thân đạt 100%, sát thương gánh chịu giảm 35%; khi đồng minh được hồi sinh, trị liệu cho kẻ đó lượng HP bằng 10% HP tối đa của Chước Hoa Đào Yêu và giúp kẻ đó nhận [buff_5982_1], duy trì 3 lượt.\n[Thi triển] Hồi sinh mục tiêu phe ta và đính kèm [buff_5981_1] đồng thời tăng 50% Thanh Hành Động cho kẻ đó. Sau khi lượt của kẻ địch kết thúc, nếu mục tiêu phe ta bị hạ gục, thi triển miễn phí (trong 1 trận chiến kích hoạt tối đa 3 lần)",
         "en": "[tips_11]. When self's initial Crit reaches 100%, damage taken is reduced by 35%; when an ally is revived, heals them by 10% of Everadiant Momo's max HP and grants them [buff_5982_1] for 3 turns.\nActive skill: Revives an ally and grants [buff_5981_1] to them, and raises their Move Bar by 50%. After an enemy action ends, if an ally is KO'd, casts the skill without cost (triggers up to 3 times per battle).",
         "zh": "[tips_11]。自身初始暴击达到100%时，受到的伤害降低35%；友方被复活时，为其治疗灼华桃花妖生命上限10%的生命并使其获得[buff_5982_1]，持续3回合。\n【施放】复活友方目标并为其施加[buff_5981_1]且提升其50%行动条。敌方行动结束后，若友方目标被击败，无消耗施放（单次战斗至多触发3次 ）"
       },
@@ -192,9 +198,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "Đồng minh được hồi sinh bởi 『Tỉnh Thời Hoa』 được tăng 50% Thanh Hành Động",
+            "vi": "Đồng minh được hồi sinh bởi [Tỉnh Thời Hoa] được tăng 50% Thanh Hành Động",
             "en": "Allied target revived by Wakebloom gains 50% Move Bar raise.",
-            "zh": "被『醒时花』复活的友方提升50%行动条"
+            "zh": "被『醒时花]复活的友方提升50%行动条"
           }
         },
         {
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "598.png",
+    "headIconFile": "598a.png"
   }
 }

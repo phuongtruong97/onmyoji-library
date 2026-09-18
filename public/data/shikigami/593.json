@@ -1,7 +1,7 @@
 {
   "id": 593,
   "name": {
-    "vi": "Yêu Đao Cơ · Phi Dạ Lạp Nhận",
+    "vi": "Yêu Đao Cơ · Phi Dạ Liệp Nhận",
     "en": "Yoto Hime, Scarlet Nightedge",
     "zh": "妖刀姬·绯夜猎刃"
   },
@@ -9,32 +9,32 @@
   "tier": "UR",
   "level": 40,
   "maxLevel": 40,
-  "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "statState": "LV40_NO_EVO",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3269,
+      "value": 3270,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10594,
+      "value": 10595,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 374,
+      "value": 375,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 116,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5931,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mở Đầu Sắc Sảo",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 5932,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Khúc Tiểu Điệu Ánh Rạng Đông",
+        "vi": "Giai Điệu Rạng Động",
         "en": "Twilight Melody",
         "zh": "霞光小调"
       },
@@ -120,9 +124,9 @@
         "zh": "任务目标已锁定。"
       },
       "description": {
-        "vi": "[tips_11]. Áp đặt [buff_5931_1] lên mục tiêu kẻ địch chỉ định; khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 90%, bản thân tăng 60 điểm tốc độ. Khi [buff_5931_1] tồn tại, sát thương do bản thân gây ra được xem như [tips_19]. Khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 60%, hiệu quả 『Truy Liệp Tân Chương』 của bản thân tăng gấp đôi. [tips_7]: Thi triển lên mục tiêu kẻ địch không phải vật triệu hồi có tốc độ cao nhất.",
+        "vi": "[tips_11]. Áp đặt [buff_5931_1] lên mục tiêu kẻ địch chỉ định; khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 90%, bản thân tăng 60 điểm tốc độ. Khi [buff_5931_1] tồn tại, sát thương do bản thân gây ra được xem như [tips_19]. Khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 60%, hiệu quả [Truy Liệp Tân Chương] của bản thân tăng gấp đôi. [tips_7]: Thi triển lên mục tiêu kẻ địch không phải vật triệu hồi có tốc độ cao nhất.",
         "en": "[tips_11]. Inflicts [buff_5931_1] on the selected enemy target; when the target with [buff_5931_1] has HP below 90%, she gains 60 SPD. While [buff_5931_1] is active, damage dealt is treated as [tips_19]. When the target with [buff_5931_1] has HP below 60%, doubles the effect of Edge Rebirth. [tips_7]: Targets the enemy with the highest SPD that is non-summoned entity.",
-        "zh": "[tips_11]。为指定敌方目标施加[buff_5931_1]；处于[buff_5931_1]的目标生命低于90%时，自身提升60点速度。[buff_5931_1]存在时，自身造成伤害视同[tips_19]。处于[buff_5931_1]目标的生命低于60%时，自身『追猎新章』效果加倍。[tips_7]：对敌方速度最快的非召唤物目标施放。"
+        "zh": "[tips_11]。为指定敌方目标施加[buff_5931_1]；处于[buff_5931_1]的目标生命低于90%时，自身提升60点速度。[buff_5931_1]存在时，自身造成伤害视同[tips_19]。处于[buff_5931_1]目标的生命低于60%时，自身『追猎新章]效果加倍。[tips_7]：对敌方速度最快的非召唤物目标施放。"
       },
       "upgrades": [
         {
@@ -144,9 +148,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 60%, hiệu quả giảm sát thương và xác suất miễn dịch khống chế của 『Truy Liệp Tân Chương』 tăng gấp đôi.",
+            "vi": "Khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 60%, hiệu quả giảm sát thương và xác suất miễn dịch khống chế của [Truy Liệp Tân Chương] tăng gấp đôi.",
             "en": "When the target with [buff_5931_1] has HP below 60%, the damage reduction effect and the immunity to control chance of Edge Rebirth are doubled.",
-            "zh": "处于[buff_5931_1]的目标生命低于60%时，『追猎新章』受到伤害降低效果与免疫控制概率加倍"
+            "zh": "处于[buff_5931_1]的目标生命低于60%时，『追猎新章]受到伤害降低效果与免疫控制概率加倍"
           }
         },
         {
@@ -164,6 +168,8 @@
     {
       "id": 5933,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Khúc Ca Nửa Đêm",
@@ -176,7 +182,7 @@
         "zh": "我的狩猎，你的终结。"
       },
       "description": {
-        "vi": "Yoto Hime · Phi Dạ Lạp Nhận tấu lên khúc ca săn lùng lúc nửa đêm. Tấn công mục tiêu kẻ địch 6 lần, mỗi lần gây sát thương 60%. Nếu [buff_5931_1] tồn tại, sẽ tấn công bổ sung mục tiêu đang ở trạng thái [buff_5931_1], hệ số sát thương giảm một nửa. Mỗi khi mục tiêu kẻ địch không phải vật triệu hồi bị đánh bại, hệ số sát thương tăng 10%, tối đa tăng 50%. Mỗi khi mục tiêu kẻ địch không phải vật triệu hồi bị đánh bại, [Thi triển] miễn phí lên kẻ địch khác có HP thấp nhất (giới hạn 1 lần trước khi bắt đầu mỗi lượt của bản thân).",
+        "vi": "Yoto Hime · Phi Dạ Lạp Nhận tấu lên khúc ca săn lùng lúc nửa đêm. Tấn công mục tiêu kẻ địch 6 lần, mỗi lần gây sát thương 60%. Nếu [buff_5931_1] tồn tại, sẽ tấn công bổ sung mục tiêu đang ở trạng thái [buff_5931_1], hệ số sát thương giảm một nửa. Mỗi khi mục tiêu kẻ địch không phải vật triệu hồi bị đánh bại, hệ số sát thương tăng 10%, tối đa tăng 50%. Mỗi khi mục tiêu kẻ địch không phải vật triệu hồi bị đánh bại, [Thi Triển] miễn phí lên kẻ địch khác có HP thấp nhất (giới hạn 1 lần trước khi bắt đầu mỗi lượt của bản thân).",
         "en": "Yoto Hime, Scarlet Nightedge plays the midnight hunt song. Attacks the enemy target 6 times, each dealing damage equal to 60% of ATK. If [buff_5931_1] is active, additionally attacks the target with [buff_5931_1], with the damage multiplier reduced by fifty percent. Whenever an enemy non-summoned entity is Ko'd, increases the damage multiplier by 10%, up to 50%. Whenever an enemy non-summoned entity is Ko'd, inflicts on the enemy with lowest HP at no cost (once per turn before self's turn starts).",
         "zh": "妖刀姬·绯夜猎刃奏响午夜的猎歌。攻击敌方目标6次，每次造成攻击60%伤害。若[buff_5931_1]存在，则额外攻击处于[buff_5931_1]的目标，伤害系数减半。每当敌方非召唤物目标被击败时，伤害系数提升10%，至多提升50%。每当敌方非召唤物目标被击败时，对生命最低的其他敌方无消耗施放（自身每个回合开始前限1次）。"
       },
@@ -216,10 +222,35 @@
       ],
       "orbCost": 3,
       "iconFile": "5933.png"
+    },
+    {
+      "id": 5934,
+      "number": 4,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Truy Liệp Tân Chương",
+        "en": "Edge Rebirth",
+        "zh": "追猎新章"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Sát thương gánh chịu giảm 40%; nếu không ở [tips_17], khi chịu hiệu quả khống chế có 50% xác suất miễn nhiễm. Khi kích hoạt hiệu quả này sẽ phản công (giới hạn 1 lần mỗi hiệp)\n【Chuyển Đổi Liên Kết】Chỉ có hiệu lực đối với các Thức thần phẩm giai khác được liên kết. Có thể thi triển sau khi bất kỳ mục tiêu không phải vật triệu hồi nào tử trận. Chuyển đổi thành Yêu Đao Cơ · Phi Dạ Liệp Nhận được liên kết, khi ra trận nhận 1 hiệp, tăng 100% sát thương bạo kích và lập tức gắn [buff_5931_1] cho mục tiêu địch có HP thấp nhất.",
+        "en": "Damage taken reduces by 40%. If not under [tips_17], has a 50% chance of immunity to control effects. When this effect triggers, Counters attack (once per turn).\n[Link Switch] Only effective for the linked shikigami of other tiers. Can be cast when any non-summoned entity target is KO'd. Switches to the linked Yoto Hime, Scarlet Nightedge, gaining 1 turn upon entering the field, increasing Crit DMG by 100%, and immediately inflicts [buff_5931_1] on the enemy with the lowest HP.",
+        "zh": "受到的伤害降低40%；若未处于[tips_17]，受到控制效果时50%概率免疫。触发此效果时反击（每个回合限1次)。\n【联结切换】仅对被联结的其他品阶式神生效。任意非召唤物目标阵亡后可施放。切换为联结的妖刀姬·绯夜猎刃，登场时获得1个回合、提升100%暴击伤害并立即对生命最低的敌方施加[buff_5931_1]。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5934.png"
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "593.png",
+    "headIconFile": "593a.png"
   }
 }

@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2197,
+      "value": 2412,
       "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12189,
-      "grade": "A"
+      "value": 13216,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 379,
-      "grade": "C"
+      "value": 415,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 106,
+      "value": 116,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2891,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mê Động",
@@ -64,7 +66,7 @@
         "zh": "别看我这么可爱，我生气起来也是很可怕的~！"
       },
       "description": {
-        "vi": "攻击敌方目标，造成攻击125%伤害。",
+        "vi": "Tấn công mục tiêu phe địch, gây sát thương bằng 125% Tấn công.",
         "en": "攻击敌方目标，造成攻击125%伤害。",
         "zh": "攻击敌方目标，造成攻击125%伤害。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2892,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Trị Yêu",
@@ -128,25 +132,9 @@
         {
           "level": 2,
           "text": {
-            "vi": "[buff_2892_1] tăng kháng hiệu ứng, tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2892_1]'s Effect RES boost to [b_属性1数值_per].",
-            "zh": "[buff_2892_1]提升效果抵抗，增至[b_属性1数值_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "[buff_2892_1] tăng kháng hiệu ứng, tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2892_1]'s Effect RES boost to [b_属性1数值_per].",
-            "zh": "[buff_2892_1]提升效果抵抗，增至[b_属性1数值_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng đến 50%.",
-            "en": "Increases chance of triggering to 50%.",
-            "zh": "触发概率增至50%"
+            "vi": "[buff_2892_1] tăng kháng hiệu ứng, tăng đến 30%.",
+            "en": "Increases [buff_2892_1]'s Effect RES boost to 30%.",
+            "zh": "[buff_2892_1]提升效果抵抗，增至30%"
           }
         },
         {
@@ -160,25 +148,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "[buff_2892_1] tăng kháng hiệu ứng, tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2892_1]'s Effect RES boost to [b_属性1数值_per].",
-            "zh": "[buff_2892_1]提升效果抵抗，增至[b_属性1数值_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[buff_2892_1] tăng kháng hiệu ứng, tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2892_1]'s Effect RES boost to [b_属性1数值_per].",
-            "zh": "[buff_2892_1]提升效果抵抗，增至[b_属性1数值_per]"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng đến 60%.",
-            "en": "Increases chance of triggering to 60%.",
-            "zh": "触发概率增至60%"
+            "vi": "[buff_2892_1] tăng kháng hiệu ứng, tăng đến 40%.",
+            "en": "Increases [buff_2892_1]'s Effect RES boost to 40%.",
+            "zh": "[buff_2892_1]提升效果抵抗，增至40%"
           }
         },
         {
@@ -196,6 +168,8 @@
     {
       "id": 2893,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thủ Hộ Chi Tâm",
@@ -208,7 +182,7 @@
         "zh": "快走开~不准欺负我的朋友！"
       },
       "description": {
-        "vi": "Đối với mục tiêu đồng minh không phải vật triệu hồi ngẫu nhiên, giải trừ [tips_101], [tips_102] hoặc [tips_1] các trạng thái [tips_107], [tips_108] và [tips_112] mà mục tiêu đó mang, đồng thời tăng 30% thanh hành động. Sau đó tiêu hao tất cả [buff_2892_1], cứ tiêu hao 1 tầng sẽ khiến thêm 1 mục tiêu đồng minh không phải vật triệu hồi ngẫu nhiên khác cũng được tăng thanh hành động, nếu không có [buff_2892_1] thì không thể [Thi triển] kỹ năng.\nĐồng minh mang [tips_3] sẽ được đổi thành tăng gấp đôi thanh hành động.",
+        "vi": "Đối với mục tiêu đồng minh không phải vật triệu hồi ngẫu nhiên, giải trừ [tips_101], [tips_102] hoặc [tips_1] các trạng thái [tips_107], [tips_108] và [tips_112] mà mục tiêu đó mang, đồng thời tăng 30% thanh hành động. Sau đó tiêu hao tất cả [buff_2892_1], cứ tiêu hao 1 tầng sẽ khiến thêm 1 mục tiêu đồng minh không phải vật triệu hồi ngẫu nhiên khác cũng được tăng thanh hành động, nếu không có [buff_2892_1] thì không thể [Thi Triển] kỹ năng.\nĐồng minh mang [tips_3] sẽ được đổi thành tăng gấp đôi thanh hành động.",
         "en": "Dispels [tips_101] or [tips_102], or [tips_1]s [tips_107], [tips_108], or [tips_112] on 1 random non-summoned ally entity, and raises their Move Bar by 30%. Consumes all [buff_2892_1]s. Each stack consumed also raises the Move Bar of another random non-summoned ally entity. The skill cannot be used if he doesn't have a [buff_2892_1].\nThe Move Bar-raising effect is doubled if the affected ally is under a [tips_3].",
         "zh": "对随机非召唤物的友方目标，驱散其带有的[tips_101]、[tips_102]或[tips_1]其带有的[tips_107]、[tips_108]和[tips_112]，并增加30%行动条。之后消耗所有[buff_2892_1]，每消耗1层可额外使另一个随机非召唤物的友方目标也增加行动条，若没有[buff_2892_1]则技能无法施放。\n对带有[tips_3]的友方将改为增加双倍行动条。"
       },
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "289.png",
+    "headIconFile": "289a.png"
   }
 }

@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10480,
+      "value": 10482,
       "grade": "B"
     },
     {
@@ -34,7 +34,7 @@
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 116,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3771,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nhẫn Thỏ Phi Cước!",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至53%",
+            "vi": "Sát thương tăng lên 53%",
             "en": "伤害增加至53%",
             "zh": "伤害增加至53%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至56%",
+            "vi": "Sát thương tăng lên 56%",
             "en": "伤害增加至56%",
             "zh": "伤害增加至56%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至59%",
+            "vi": "Sát thương tăng lên 59%",
             "en": "伤害增加至59%",
             "zh": "伤害增加至59%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至65%",
+            "vi": "Sát thương tăng lên 65%",
             "en": "伤害增加至65%",
             "zh": "伤害增加至65%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3772,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mộng Tâm Mê Thố Trận!",
@@ -120,9 +124,9 @@
         "zh": "真英雄从不回头看爆炸！！"
       },
       "description": {
-        "vi": "[tips_11].\n【Thi triển】 Đặt 3 quả [tips_3772] dưới chân phe địch. Nếu khi [tips_3772] phát nổ bản thân đang ở trạng thái [tips_27], liền thi triển 『Thỏ Nhẫn Vũ!!』 và nhận 1 chương [buff_3773_1].\nMục tiêu kẻ địch không phải vật triệu hồi sau khi tích lũy hành động 5 lượt xua tan 1 [tips_3] của bản thân, nếu bản thân không có [tips_3] để xua tan và chưa ở trạng thái [tips_17], liền thi triển miễn phí 1 lần 『Mộng Tâm Mê Thố Trận!』 đặt 2 quả [tips_3772].",
+        "vi": "[tips_11].\n[Thi triển] Đặt 3 quả [tips_3772] dưới chân phe địch. Nếu khi [tips_3772] phát nổ bản thân đang ở trạng thái [tips_27], liền thi triển [Thỏ Nhẫn Vũ!!] và nhận 1 chương [buff_3773_1].\nMục tiêu kẻ địch không phải vật triệu hồi sau khi tích lũy hành động 5 lượt xua tan 1 [tips_3] của bản thân, nếu bản thân không có [tips_3] để xua tan và chưa ở trạng thái [tips_17], liền thi triển miễn phí 1 lần [Mộng Tâm Mê Thố Trận!] đặt 2 quả [tips_3772].",
         "en": "[tips_11].\nActive skill: Places 3 [tips_3772]s by the enemies' feet. If [tips_3772] detonated while she is under [tips_27], she uses Ninja Dance!! and gains 1 [buff_3773_1] chapter.\nWhenever non-summoned enemy entities take 5 turns, dispels 1 [tips_3] from her; if there's no [tips_3] to dispel and she's not [tips_17], she uses Ninja Formation! that places 2 [tips_3772]s once free of orb cost.",
-        "zh": "[tips_11]。\n【施放】在敌方脚下布置3颗[tips_3772]。若[tips_3772]引爆时自身处于[tips_27]，则施放『兔忍舞！！』并获得1篇[buff_3773_1]。\n非召唤物的敌方目标累计行动5回合后驱散自身1个[tips_3]，若自身没有[tips_3]可以驱散且未处于[tips_17]，则无消耗施放1次布置2颗[tips_3772]的『梦心迷兔阵！』。"
+        "zh": "[tips_11]。\n【施放】在敌方脚下布置3颗[tips_3772]。若[tips_3772]引爆时自身处于[tips_27]，则施放『兔忍舞！！]并获得1篇[buff_3773_1]。\n非召唤物的敌方目标累计行动5回合后驱散自身1个[tips_3]，若自身没有[tips_3]可以驱散且未处于[tips_17]，则无消耗施放1次布置2颗[tips_3772]的『梦心迷兔阵！]。"
       },
       "upgrades": [
         {
@@ -136,9 +140,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "Tấn công do 『[skill_3774_1]』 nâng lên tăng đến 20%",
+            "vi": "Tấn công do [skill_3774_1] tăng lên tăng đến 20%",
             "en": "Increases [skill_3774_1]'s damage boost to 20%.",
-            "zh": "『[skill_3774_1]』提升的攻击增至20%"
+            "zh": "『[skill_3774_1]提升的攻击增至20%"
           }
         },
         {
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Số lượt hành động tích lũy cần thiết của kẻ địch để thi triển miễn phí 『Mộng Tâm Mê Thố Trận!』 giảm xuống 5 lượt",
+            "vi": "Số lượt hành động tích lũy cần thiết của kẻ địch để thi triển miễn phí [Mộng Tâm Mê Thố Trận!] giảm xuống 5 lượt",
             "en": "Reduces the enemy turns required to use Ninja Formation! free of orb cost to 5 turns.",
-            "zh": "无消耗施放『梦心迷兔阵！』需要的敌方累计行动回合减少至5回合"
+            "zh": "无消耗施放『梦心迷兔阵！]需要的敌方累计行动回合减少至5回合"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 3773,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thụ Mộng Chi Loạn Vũ!",
@@ -176,9 +182,9 @@
         "zh": "此乃兔舞忍法的终极奥义！——大概吧？"
       },
       "description": {
-        "vi": "Đặt 1 quả [tips_3772] và tăng 30% Chính Xác Hiệu Ứng cho bản thân, duy trì 2 lượt; chọn mục tiêu kẻ địch, có 30% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất biến kẻ đó thành [tips_107] trong 1 lượt, sau đó triệu hồi bom tấn công toàn bộ phe địch, gây sát thương bằng 160% Tấn công.",
-        "en": "Places a [tips_3772] and increases her Effect HIT by 30% for 2 turns. Has a 30% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_107] lasting 1 turn on the enemy. Then summons mines to attack all enemies, dealing damage equal to 160% of her ATK.",
-        "zh": "布置1颗[tips_3772]并提升自身30%效果命中，持续2回合；选择敌方目标，有30%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将其[tips_107]1回合，之后召唤炸弹攻击敌方全体，造成攻击160%的伤害。"
+        "vi": "Đặt 1 quả [tips_3772] và tăng 30% Chính Xác Hiệu Ứng cho bản thân, duy trì 2 lượt; chọn mục tiêu kẻ địch, có 30% [tips_2] xác suất biến kẻ đó thành [tips_107] trong 1 lượt, sau đó triệu hồi bom tấn công toàn bộ phe địch, gây sát thương bằng 160% Tấn công.",
+        "en": "Places a [tips_3772] and increases her Effect HIT by 30% for 2 turns. Has a 30% (+Effect HIT) chance of inflicting [tips_107] lasting 1 turn on the enemy. Then summons mines to attack all enemies, dealing damage equal to 160% of her ATK.",
+        "zh": "布置1颗[tips_3772]并提升自身30%效果命中，持续2回合；选择敌方目标，有30%（+效果命中）概率将其[tips_107]1回合，之后召唤炸弹攻击敌方全体，造成攻击160%的伤害。"
       },
       "upgrades": [
         {
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Xác suất cơ bản Biến Hình nâng lên 20%",
+            "vi": "Xác suất cơ bản Biến Hình tăng lên 20%",
             "en": "Increases the base chance of inflicting Morph to 20%.",
             "zh": "变形的基础概率提升至20%"
           }
@@ -208,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Xác suất cơ bản Biến Hình nâng lên 30%",
+            "vi": "Xác suất cơ bản Biến Hình tăng lên 30%",
             "en": "Increases the base chance of inflicting Morph to 30%",
             "zh": "变形的基础概率提升至30%"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_sp_shantu.png"
+    "portraitFile": "377.png",
+    "headIconFile": "377a.png"
   }
 }

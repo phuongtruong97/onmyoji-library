@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2412,
-      "grade": "B"
+      "value": 2680,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
-      "grade": "B"
+      "value": 11393,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 396,
-      "grade": "B"
+      "value": 441,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 93,
-      "grade": "D"
+      "value": 103,
+      "grade": "B"
     },
     {
       "key": "crit",
@@ -52,9 +52,11 @@
     {
       "id": 2381,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "吸取",
+        "vi": "Hấp Thu",
         "en": "吸取",
         "zh": "吸取"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 2382,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "生花",
+        "vi": "Sinh Hoa",
         "en": "生花",
         "zh": "生花"
       },
@@ -128,7 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "治疗增至16%",
+            "vi": "Hồi phục tăng lên 16%",
             "en": "治疗增至16%",
             "zh": "治疗增至16%"
           }
@@ -136,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "治疗增至17%",
+            "vi": "Hồi phục tăng lên 17%",
             "en": "治疗增至17%",
             "zh": "治疗增至17%"
           }
@@ -144,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "治疗增至18%",
+            "vi": "Hồi phục tăng lên 18%",
             "en": "治疗增至18%",
             "zh": "治疗增至18%"
           }
@@ -152,7 +156,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "治疗增至19%",
+            "vi": "Hồi phục tăng lên 19%",
             "en": "治疗增至19%",
             "zh": "治疗增至19%"
           }
@@ -164,9 +168,11 @@
     {
       "id": 2383,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "治愈之光",
+        "vi": "Trị Hũu Chi Quang",
         "en": "治愈之光",
         "zh": "治愈之光"
       },
@@ -176,27 +182,11 @@
         "zh": "神啊，请您施以治愈的恩泽~"
       },
       "description": {
-        "vi": "Trị liệu lượng HP bằng 104% Tấn công cho toàn bộ phe ta, và khiến họ nhận [buff_2383_1], duy trì 2 lượt, mỗi lượt trị liệu lượng HP bằng [b_参数p1_per] Tấn công.\nTrong thời gian [buff_2383_1], [tips_5] chịu phải lần đầu mỗi lượt sẽ được chuyển hóa thành lượng trị liệu tương đương.",
-        "en": "Restores HP of all allies by 104% of her ATK and grants them [buff_2383_1] lasting 2 turn(s), restoring their HP by [b_参数p1_per] of her ATK on each turn.\nWhile [buff_2383_1] is active, the first [tips_5] they take becomes an equal amount of HP healed.",
-        "zh": "为友方全体治疗攻击104%的生命，并使之获得[buff_2383_1]，持续2回合，每回合治疗攻击[b_参数p1_per]的生命。\n[buff_2383_1]期间，每回合首次受到的[tips_5]将被转化为等量的治疗。"
+        "vi": "Trị liệu lượng HP bằng 104% Tấn công cho toàn bộ phe ta, và khiến họ nhận [buff_2383_1], duy trì 2 lượt, mỗi lượt trị liệu lượng HP bằng 26% Tấn công.\nTrong thời gian [buff_2383_1], [tips_5] chịu phải lần đầu mỗi lượt sẽ được chuyển hóa thành lượng trị liệu tương đương.",
+        "en": "Restores HP of all allies by 104% of her ATK and grants them [buff_2383_1] lasting 2 turn(s), restoring their HP by 26% of her ATK on each turn.\nWhile [buff_2383_1] is active, the first [tips_5] they take becomes an equal amount of HP healed.",
+        "zh": "为友方全体治疗攻击104%的生命，并使之获得[buff_2383_1]，持续2回合，每回合治疗攻击26%的生命。\n[buff_2383_1]期间，每回合首次受到的[tips_5]将被转化为等量的治疗。"
       },
       "upgrades": [
-        {
-          "level": 2,
-          "text": {
-            "vi": "Trị liệu tăng lên 91%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 23% Tấn công",
-            "en": "Increases healing to 91% and the healing of Photosynthesis after her evolution to 23% of her ATK.",
-            "zh": "治疗增至91%，觉醒后光合作用治疗增至23%攻击"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Trị liệu tăng lên 91%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 23% Tấn công",
-            "en": "Increases healing to 91% and the healing of Photosynthesis after her evolution to 23% of her ATK.",
-            "zh": "治疗增至91%，觉醒后光合作用治疗增至23%攻击"
-          }
-        },
         {
           "level": 2,
           "text": {
@@ -206,6 +196,22 @@
           }
         },
         {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu tăng lên 91%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 23% Tấn công",
+            "en": "Increases healing to 91% and the healing of Photosynthesis after her evolution to 23% of her ATK.",
+            "zh": "治疗增至91%，觉醒后光合作用治疗增至23%攻击"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trị liệu tăng lên 104%, trị liệu [buff_2383_1] tăng lên 24%",
+            "en": "Increases healing to 104% and [buff_2383_1]'s healing to 24%.",
+            "zh": "治疗增至104%，[buff_2383_1]治疗增至24%"
+          }
+        },
+        {
           "level": 3,
           "text": {
             "vi": "Trị liệu tăng lên 95%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 24% Tấn công",
@@ -214,19 +220,11 @@
           }
         },
         {
-          "level": 3,
+          "level": 4,
           "text": {
-            "vi": "Trị liệu tăng lên 95%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 24% Tấn công",
-            "en": "Increases healing to 95% and the healing of Photosynthesis after her evolution to 24% of her ATK.",
-            "zh": "治疗增至95%，觉醒后光合作用治疗增至24%攻击"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Trị liệu tăng lên 104%, trị liệu [buff_2383_1] tăng lên [b_参数p1_per]",
-            "en": "Increases healing to 104% and [buff_2383_1]'s healing to [b_参数p1_per].",
-            "zh": "治疗增至104%，[buff_2383_1]治疗增至[b_参数p1_per]"
+            "vi": "Trị liệu tăng lên 104%, trị liệu [buff_2383_1] tăng lên 25%",
+            "en": "Increases healing to 104% and [buff_2383_1]'s healing to 25%.",
+            "zh": "治疗增至104%，[buff_2383_1]治疗增至25%"
           }
         },
         {
@@ -235,22 +233,6 @@
             "vi": "Trị liệu tăng lên 99%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 25% Tấn công",
             "en": "Increases healing to 99% and the healing of Photosynthesis after her evolution to 25% of her ATK.",
             "zh": "治疗增至99%，觉醒后光合作用治疗增至25%攻击"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Trị liệu tăng lên 99%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 25% Tấn công",
-            "en": "Increases healing to 99% and the healing of Photosynthesis after her evolution to 25% of her ATK.",
-            "zh": "治疗增至99%，觉醒后光合作用治疗增至25%攻击"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Trị liệu tăng lên 104%, trị liệu [buff_2383_1] tăng lên [b_参数p1_per]",
-            "en": "Increases healing to 104% and [buff_2383_1]'s healing to [b_参数p1_per].",
-            "zh": "治疗增至104%，[buff_2383_1]治疗增至[b_参数p1_per]"
           }
         },
         {
@@ -264,17 +246,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Trị liệu tăng lên 104%, sau khi Thức Tỉnh trị liệu Quang Hợp Tác Dụng tăng lên 26% Tấn công",
-            "en": "Increases healing to 104% and the healing of Photosynthesis after her evolution to 26% of her ATK.",
-            "zh": "治疗增至104%，觉醒后光合作用治疗增至26%攻击"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Trị liệu tăng lên 104%, trị liệu [buff_2383_1] tăng lên [b_参数p1_per]",
-            "en": "Increases healing to 104% and [buff_2383_1]'s healing to [b_参数p1_per].",
-            "zh": "治疗增至104%，[buff_2383_1]治疗增至[b_参数p1_per]"
+            "vi": "Trị liệu tăng lên 104%, trị liệu [buff_2383_1] tăng lên 26%",
+            "en": "Increases healing to 104% and [buff_2383_1]'s healing to 26%.",
+            "zh": "治疗增至104%，[buff_2383_1]治疗增至26%"
           }
         }
       ],
@@ -283,7 +257,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "yingcao.png",
-    "headIconFile": "h_yingcao.png"
+    "portraitFile": "238.png",
+    "headIconFile": "238a.png"
   }
 }

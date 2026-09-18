@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 1929,
-      "grade": "D"
+      "value": 2171,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12986,
+      "value": 14013,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 388,
-      "grade": "C"
+      "value": 423,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 106,
+      "value": 116,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 5631,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Âm Huyền Động",
@@ -72,15 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
-            "en": "伤害增加至105%",
-            "zh": "伤害增加至105%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -88,15 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
-            "en": "伤害增加至110%",
-            "zh": "伤害增加至110%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -104,25 +90,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至115%",
-            "en": "伤害增加至115%",
-            "zh": "伤害增加至115%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Sát thương tăng lên 120%, và nhận 1 tầng [buff_5631_1]",
-            "en": "Increases the damage to 120% and grants her 1 [buff_5631_1] stack.",
-            "zh": "伤害增加至120%，并获得1层[buff_5631_1]"
           }
         },
         {
@@ -140,6 +110,8 @@
     {
       "id": 5632,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Âm Luật Khởi",
@@ -152,9 +124,9 @@
         "zh": "多么幸运，可以为你唱出动人心弦的旋律。"
       },
       "description": {
-        "vi": "[tips_11]. Nếu không ở trạng thái [tips_3], khi Thức Thần phe ta ngoại trừ bản thân thi triển kỹ năng, đồng thời tiến hành 「[skill_5634_1]」. Mỗi tầng [buff_5631_1] cung cấp cho bản thân 10 điểm Tốc độ.",
+        "vi": "[tips_11]. Nếu không ở trạng thái [tips_3], khi Thức Thần phe ta ngoại trừ bản thân thi triển kỹ năng, đồng thời tiến hành [skill_5634_1]. Mỗi tầng [buff_5631_1] cung cấp cho bản thân 10 điểm Tốc độ.",
         "en": "[tips_11]. If she's not under any [tips_3]s, when another shikigami ally uses a skill, she [skill_5634_1]s along. Each [buff_5631_1] stack increases her own SPD by 10.",
-        "zh": "[tips_11]。若未处于[tips_3]，除自身外的友方式神施放技能时，同时进行「[skill_5634_1]」。每层[buff_5631_1]为自身提供10点速度。"
+        "zh": "[tips_11]。若未处于[tips_3]，除自身外的友方式神施放技能时，同时进行「[skill_5634_1]。每层[buff_5631_1]为自身提供10点速度。"
       },
       "upgrades": [
         {
@@ -166,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Hiệu ứng tăng sát thương của biểu diễn tăng lên 7%",
-            "en": "Increases Perform's damage boost to 7%.",
-            "zh": "演奏提升伤害效果增加至7%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Hiệu ứng tăng sát thương của biểu diễn tăng lên 8%",
-            "en": "Increases Perform's damage boost to 8%.",
-            "zh": "演奏提升伤害效果增加至8%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Hiệu ứng tăng sát thương của biểu diễn tăng lên 8%",
@@ -195,22 +151,6 @@
             "vi": "Hiệu ứng tăng sát thương của biểu diễn tăng lên 9%",
             "en": "Increases Perform's damage boost to 9%.",
             "zh": "演奏提升伤害效果增加至9%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Hiệu ứng tăng sát thương của biểu diễn tăng lên 9%",
-            "en": "Increases Perform's damage boost to 9%.",
-            "zh": "演奏提升伤害效果增加至9%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Hiệu ứng tăng sát thương của biểu diễn tăng lên 10%",
-            "en": "Increases Perform's damage boost to 10%.",
-            "zh": "演奏提升伤害效果增加至10%"
           }
         },
         {
@@ -226,8 +166,35 @@
       "iconFile": "5632.png"
     },
     {
+      "id": 5634,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 5632,
+      "maxLevel": 2,
+      "name": {
+        "vi": "Biểu Diễn",
+        "en": "Perform",
+        "zh": "演奏"
+      },
+      "intro": {
+        "vi": "May mắn làm sao, có thể vì bạn mà hát lên giai điệu rung động lòng người.",
+        "en": "I feel blessed to sing this heart-stirring song for you.",
+        "zh": "多么幸运，可以为你唱出动人心弦的旋律。"
+      },
+      "description": {
+        "vi": "Khi mục tiêu phe ta ngoại trừ bản thân thi triển kỹ năng, nếu bản thân không ở trạng thái [tips_3], tiêu hao 1 điểm Quỷ Hỏa để biểu diễn, khiến sát thương mục tiêu đó gây ra tăng 6%. Mỗi tầng [buff_5631_1] cung cấp cho bản thân 10 điểm Tốc độ.",
+        "en": "When another shikigami ally uses a skill, if she's not under any [tips_3]s, she uses Perform at the cost of 1 orb, increasing the skill damage by 6%. Each [buff_5631_1] stack increases her own SPD by 10.",
+        "zh": "除自身外的友方目标施放技能时，若自身未处于[tips_3]，消耗1点鬼火演奏，使该目标造成的伤害提升6%。每层[buff_5631_1]为自身提供10点速度。"
+      },
+      "upgrades": [],
+      "orbCost": 1,
+      "iconFile": "5632.png"
+    },
+    {
       "id": 5633,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Âm Chi Vũ Khúc",
@@ -248,25 +215,25 @@
         {
           "level": 2,
           "text": {
-            "vi": "Hệ số tăng Tấn công của 「Âm Chi Vũ Khúc · Tự Mạc」 tăng lên 39%",
+            "vi": "Hệ số tăng Tấn công của [Âm Chi Vũ Khúc · Tự Mạc] tăng lên 39%",
             "en": "Increases Iconic Dance Song: Overture's ATK boost to 39%.",
-            "zh": "「音之舞曲·序幕」提升攻击系数增加至39%"
+            "zh": "「音之舞曲·序幕]提升攻击系数增加至39%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "「Âm Chi Vũ Khúc · Trung Mạc」 tăng thêm 39 điểm Tốc độ cho toàn bộ phe ta, duy trì 1 lượt",
+            "vi": "「Âm Chi Vũ Khúc · Trung Mạc] tăng thêm 39 điểm Tốc độ cho toàn bộ phe ta, duy trì 1 lượt",
             "en": "Iconic Dance Song: Chorus additionally increases all allies' SPD by 39. Sustainable for 1 turn.",
-            "zh": "「音之舞曲·中幕」额外提升友方全体39点速度，维持1回合"
+            "zh": "「音之舞曲·中幕]额外提升友方全体39点速度，维持1回合"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Số Quỷ Hỏa nhận được của 「Âm Chi Vũ Khúc · Thịnh Mạc」 tăng lên 8 điểm",
+            "vi": "Số Quỷ Hỏa nhận được của [Âm Chi Vũ Khúc · Thịnh Mạc] tăng lên 8 điểm",
             "en": "Increases the orbs Iconic Dance Song: Finale grants to 8.",
-            "zh": "「音之舞曲·盛幕」获得鬼火数提升至8点"
+            "zh": "「音之舞曲·盛幕]获得鬼火数提升至8点"
           }
         },
         {
@@ -278,12 +245,87 @@
           }
         }
       ],
-      "orbCost": 1,
+      "orbCost": 0,
       "iconFile": "5633.png"
+    },
+    {
+      "id": 56331,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 5633,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Âm Chi Vũ Khúc · Tự Mạc",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Miku tăng chỉ số Tấn công của tất cả đồng minh thêm 25% so với chỉ số Tấn công ban đầu, duy trì trong 2 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 3,
+      "iconFile": "56331.png"
+    },
+    {
+      "id": 56332,
+      "number": 3,
+      "variantOrder": 2,
+      "parentSkillId": 5633,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Âm Chi Vũ Khúc · Trung Mạc",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Miku tăng 25% thanh hành động của đồng minh.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 3,
+      "iconFile": "56332.png"
+    },
+    {
+      "id": 56333,
+      "number": 3,
+      "variantOrder": 3,
+      "parentSkillId": 5633,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Âm Chi Vũ Khúc · Thịnh Mạc",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Miku cung cấp 5 Quỷ Hỏa",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 4,
+      "iconFile": "56333.png"
     }
   ],
   "assets": {
-    "portraitFile": "chuyinweilai.png",
-    "headIconFile": ""
+    "portraitFile": "563.png",
+    "headIconFile": "563a.png"
   }
 }

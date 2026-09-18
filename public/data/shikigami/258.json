@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2867,
-      "grade": "A"
+      "value": 3136,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9341,
-      "grade": "C"
+      "value": 10482,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
-      "grade": "C"
+      "value": 401,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2581,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Lôi Lưỡng Sinh",
@@ -64,41 +66,41 @@
         "zh": "看风！不对，看雷！"
       },
       "description": {
-        "vi": "Ngẫu nhiên dùng một mặt tấn công mục tiêu kẻ địch. Lôi Thần gây sát thương bằng 125%; Phong Thần gây sát thương bằng 32% và đính kèm [buff_2584_1], gây sát thương [b2_参数p1_per] [tips_5], duy trì 1 lượt.",
-        "en": "Uses one of their faces to strike 1 enemy, dealing damage equal to 125% of their ATK if Raijin strikes or dealing damage equal to 32% of their ATK and inflicting [buff_2584_1] (deals [tips_5] equal to [b2_参数p1_per] of their ATK) lasting 1 turn on the enemy if Fujin strikes.",
-        "zh": "随机用一面攻击敌方目标。雷神造成攻击125%伤害；风神造成攻击32%伤害并附加[buff_2584_1]，造成攻击[b2_参数p1_per][tips_5]，持续1回合。"
+        "vi": "Ngẫu nhiên dùng một mặt tấn công mục tiêu kẻ địch. Lôi Thần gây sát thương bằng 125%; Phong Thần gây sát thương bằng 32% và đính kèm [buff_2584_1], gây sát thương 157% [tips_5], duy trì 1 lượt.",
+        "en": "Uses one of their faces to strike 1 enemy, dealing damage equal to 125% of their ATK if Raijin strikes or dealing damage equal to 32% of their ATK and inflicting [buff_2584_1] (deals [tips_5] equal to 157% of their ATK) lasting 1 turn on the enemy if Fujin strikes.",
+        "zh": "随机用一面攻击敌方目标。雷神造成攻击125%伤害；风神造成攻击32%伤害并附加[buff_2584_1]，造成攻击157%[tips_5]，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "雷神伤害增至105%；风神伤害增至27%，间接伤害增至[b2_参数p1_per]",
-            "en": "雷神伤害增至105%；风神伤害增至27%，间接伤害增至[b2_参数p1_per]",
-            "zh": "雷神伤害增至105%；风神伤害增至27%，间接伤害增至[b2_参数p1_per]"
+            "vi": "Sát thương Lôi Thần tăng lên 105%; Sát thương Phong Thần tăng lên 27%, sát thương gián tiếp tăng lên 132%",
+            "en": "雷神伤害增至105%；风神伤害增至27%，间接伤害增至132%",
+            "zh": "雷神伤害增至105%；风神伤害增至27%，间接伤害增至132%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "雷神伤害增至110%；风神伤害增至28%，间接伤害增至[b2_参数p1_per]",
-            "en": "雷神伤害增至110%；风神伤害增至28%，间接伤害增至[b2_参数p1_per]",
-            "zh": "雷神伤害增至110%；风神伤害增至28%，间接伤害增至[b2_参数p1_per]"
+            "vi": "Sát thương Lôi Thần tăng lên 110%; Sát thương Phong Thần tăng lên 28%, sát thương gián tiếp tăng lên 138%",
+            "en": "雷神伤害增至110%；风神伤害增至28%，间接伤害增至138%",
+            "zh": "雷神伤害增至110%；风神伤害增至28%，间接伤害增至138%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "雷神伤害增至115%；风神伤害增至29%，间接伤害增至[b2_参数p1_per]",
-            "en": "雷神伤害增至115%；风神伤害增至29%，间接伤害增至[b2_参数p1_per]",
-            "zh": "雷神伤害增至115%；风神伤害增至29%，间接伤害增至[b2_参数p1_per]"
+            "vi": "Sát thương Lôi Thần tăng lên 115%; Sát thương Phong Thần tăng lên 29%, sát thương gián tiếp tăng lên 144%",
+            "en": "雷神伤害增至115%；风神伤害增至29%，间接伤害增至144%",
+            "zh": "雷神伤害增至115%；风神伤害增至29%，间接伤害增至144%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "雷神伤害增至125%；风神伤害增至32%，间接伤害增至[b2_参数p1_per]",
-            "en": "雷神伤害增至125%；风神伤害增至32%，间接伤害增至[b2_参数p1_per]",
-            "zh": "雷神伤害增至125%；风神伤害增至32%，间接伤害增至[b2_参数p1_per]"
+            "vi": "Sát thương Lôi Thần tăng lên 125%; Sát thương Phong Thần tăng lên 32%, sát thương gián tiếp tăng lên 157%",
+            "en": "雷神伤害增至125%；风神伤害增至32%，间接伤害增至157%",
+            "zh": "雷神伤害增至125%；风神伤害增至32%，间接伤害增至157%"
           }
         }
       ],
@@ -108,6 +110,8 @@
     {
       "id": 2582,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nộ Mục",
@@ -120,33 +124,33 @@
         "zh": "无论面向哪儿，都躲不开吾之愤怒！"
       },
       "description": {
-        "vi": "Khi tấn công, Lôi Thần có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) khiến mục tiêu giảm [b_属性1数值_per] Phòng thủ; Phong Thần có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) giảm [b_属性1数值_per] Tấn công, duy trì 2 lượt. Lôi Thần khi gây sát thương cho kẻ địch có Tấn công thấp hơn bản thân, đẩy lùi 8% Thanh Hành Động; Phong Thần khi gây sát thương gián tiếp cho kẻ địch có Phòng thủ thấp hơn bản thân, tăng 8% Thanh Hành Động cho bản thân.",
-        "en": "When they attack, Raijin has a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of reducing the target's DEF by [b_属性1数值_per] and Fujin has a 100% ([*|a_debuff-acc_per|s_buff概率_per]) chance of reducing the target's ATK by [b_属性1数值_per]. Lasts for 2 turns. Raijin lowers the Move Bar of all enemies with lower ATK by 8% when he deals damage. Fujin raises Ryomen's Move Bar by 8% when he deals indirect damage to enemies with lower DEF.",
-        "zh": "攻击时，雷神有100%（+[*|a_debuff-acc_per|s_buff概率_per]）使目标降低[b_属性1数值_per]防御；风神有100%（+[*|a_debuff-acc_per|s_buff概率_per]）降低[b_属性1数值_per]攻击，持续2回合。雷神对攻击低于自身的敌方造成伤害时，击退8%行动条；风神对防御低于自身的敌方造成间接伤害时，增加自身8%行动条。"
+        "vi": "Khi tấn công, Lôi Thần có 100% [tips_2] khiến mục tiêu giảm 16% Phòng thủ; Phong Thần có 100% [tips_2] giảm 16% Tấn công, duy trì 2 lượt. Lôi Thần khi gây sát thương cho kẻ địch có Tấn công thấp hơn bản thân, đẩy lùi 8% Thanh Hành Động; Phong Thần khi gây sát thương gián tiếp cho kẻ địch có Phòng thủ thấp hơn bản thân, tăng 8% Thanh Hành Động cho bản thân.",
+        "en": "When they attack, Raijin has a 100% (+Effect HIT) chance of reducing the target's DEF by 16% and Fujin has a 100% (Effect HIT) chance of reducing the target's ATK by 16%. Lasts for 2 turns. Raijin lowers the Move Bar of all enemies with lower ATK by 8% when he deals damage. Fujin raises Ryomen's Move Bar by 8% when he deals indirect damage to enemies with lower DEF.",
+        "zh": "攻击时，雷神有100%（+效果命中）使目标降低16%防御；风神有100%（+效果命中）降低16%攻击，持续2回合。雷神对攻击低于自身的敌方造成伤害时，击退8%行动条；风神对防御低于自身的敌方造成间接伤害时，增加自身8%行动条。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Giảm Phòng thủ, giảm Tấn công đều tăng lên [b_属性1数值_per]",
-            "en": "Increases DEF and ATK reduction to [b_属性1数值_per].",
-            "zh": "降低防御、降低攻击，均增至[b_属性1数值_per]"
+            "vi": "Giảm Phòng thủ, giảm Tấn công đều tăng lên 12%",
+            "en": "Increases DEF and ATK reduction to 12%.",
+            "zh": "降低防御、降低攻击，均增至12%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Giảm Phòng thủ, giảm Tấn công đều tăng lên [b_属性1数值_per]",
-            "en": "Increases DEF and ATK reduction to [b_属性1数值_per].",
-            "zh": "降低防御、降低攻击，均增至[b_属性1数值_per]"
+            "vi": "Giảm Phòng thủ, giảm Tấn công đều tăng lên 14%",
+            "en": "Increases DEF and ATK reduction to 14%.",
+            "zh": "降低防御、降低攻击，均增至14%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Giảm Phòng thủ, giảm Tấn công đều tăng lên [b_属性1数值_per]",
-            "en": "Increases DEF and ATK reduction to [b_属性1数值_per].",
-            "zh": "降低防御、降低攻击，均增至[b_属性1数值_per]"
+            "vi": "Giảm Phòng thủ, giảm Tấn công đều tăng lên 16%",
+            "en": "Increases DEF and ATK reduction to 16%.",
+            "zh": "降低防御、降低攻击，均增至16%"
           }
         },
         {
@@ -164,6 +168,8 @@
     {
       "id": 2583,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Tội Liên Kích",
@@ -176,41 +182,41 @@
         "zh": "神罪连击！闪电、飓风，听吾召唤！"
       },
       "description": {
-        "vi": "跳入敌阵，每次随机一面攻击敌方全体3次，雷神造成攻击55%伤害；风神造成攻击15%伤害并附加[buff_2585_1]，造成攻击[b2_参数p1_per][tips_5]，持续1回合。",
-        "en": "跳入敌阵，每次随机一面攻击敌方全体3次，雷神造成攻击55%伤害；风神造成攻击15%伤害并附加[buff_2585_1]，造成攻击[b2_参数p1_per][tips_5]，持续1回合。",
-        "zh": "跳入敌阵，每次随机一面攻击敌方全体3次，雷神造成攻击55%伤害；风神造成攻击15%伤害并附加[buff_2585_1]，造成攻击[b2_参数p1_per][tips_5]，持续1回合。"
+        "vi": "Nhảy vào trận địch, mỗi lần ngẫu nhiên một mặt tấn công toàn thể phe địch 3 lần, Lôi Thần gây sát thương bằng 55% Tấn công; Phong Thần gây sát thương bằng 15% Tấn công và gắn [buff_2585_1], gây [tips_5] bằng 69% Tấn công, duy trì 1 lượt.",
+        "en": "跳入敌阵，每次随机一面攻击敌方全体3次，雷神造成攻击55%伤害；风神造成攻击15%伤害并附加[buff_2585_1]，造成攻击69%[tips_5]，持续1回合。",
+        "zh": "跳入敌阵，每次随机一面攻击敌方全体3次，雷神造成攻击55%伤害；风神造成攻击15%伤害并附加[buff_2585_1]，造成攻击69%[tips_5]，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương Lôi Thần tăng lên 47%; sát thương Phong Thần tăng lên 12%, sát thương gián tiếp tăng lên [b2_参数p1_per]",
-            "en": "Increases Raijin's damage to 47%, Fujin's damage to 12%, and indirect damage to [b2_参数p1_per].",
-            "zh": "雷神伤害增至47%；风神伤害增至12%，间接伤害增至[b2_参数p1_per]"
+            "vi": "Sát thương Lôi Thần tăng lên 47%; sát thương Phong Thần tăng lên 12%, sát thương gián tiếp tăng lên 59%",
+            "en": "Increases Raijin's damage to 47%, Fujin's damage to 12%, and indirect damage to 59%.",
+            "zh": "雷神伤害增至47%；风神伤害增至12%，间接伤害增至59%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Sát thương Lôi Thần tăng lên 49%; sát thương Phong Thần tăng lên 13%, sát thương gián tiếp tăng lên [b2_参数p1_per]",
-            "en": "Increases Raijin's damage to 49%, Fujin's damage to 13%, and indirect damage to [b2_参数p1_per].",
-            "zh": "雷神伤害增至49%；风神伤害增至13%，间接伤害增至[b2_参数p1_per]"
+            "vi": "Sát thương Lôi Thần tăng lên 49%; sát thương Phong Thần tăng lên 13%, sát thương gián tiếp tăng lên 61%",
+            "en": "Increases Raijin's damage to 49%, Fujin's damage to 13%, and indirect damage to 61%.",
+            "zh": "雷神伤害增至49%；风神伤害增至13%，间接伤害增至61%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Sát thương Lôi Thần tăng lên 51%; sát thương Phong Thần tăng lên 14%, sát thương gián tiếp tăng lên [b2_参数p1_per]",
-            "en": "Increases Raijin's damage to 51%, Fujin's damage to 14%, and indirect damage to [b2_参数p1_per].",
-            "zh": "雷神伤害增至51%；风神伤害增至14%，间接伤害增至[b2_参数p1_per]"
+            "vi": "Sát thương Lôi Thần tăng lên 51%; sát thương Phong Thần tăng lên 14%, sát thương gián tiếp tăng lên 64%",
+            "en": "Increases Raijin's damage to 51%, Fujin's damage to 14%, and indirect damage to 64%.",
+            "zh": "雷神伤害增至51%；风神伤害增至14%，间接伤害增至64%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "雷神伤害增至55%；风神伤害增至15%，间接伤害增至[b2_参数p1_per]",
-            "en": "雷神伤害增至55%；风神伤害增至15%，间接伤害增至[b2_参数p1_per]",
-            "zh": "雷神伤害增至55%；风神伤害增至15%，间接伤害增至[b2_参数p1_per]"
+            "vi": "Sát thương Lôi Thần tăng lên 55%; Sát thương Phong Thần tăng lên 15%, sát thương gián tiếp tăng lên 69%",
+            "en": "雷神伤害增至55%；风神伤害增至15%，间接伤害增至69%",
+            "zh": "雷神伤害增至55%；风神伤害增至15%，间接伤害增至69%"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "liangmianfo.png",
-    "headIconFile": "h_liangmianfo.png"
+    "portraitFile": "258.png",
+    "headIconFile": "258a.png"
   }
 }

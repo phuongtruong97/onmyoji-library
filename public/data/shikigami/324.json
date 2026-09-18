@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2572,
-      "grade": "B"
+      "value": 2841,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11847,
-      "grade": "A"
+      "value": 12874,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 321,
-      "grade": "D"
+      "value": 357,
+      "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 101,
-      "grade": "B"
+      "value": 111,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3241,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thủy Kích",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害增加至85%",
             "zh": "伤害增加至85%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害增加至90%",
             "zh": "伤害增加至90%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至95%",
+            "vi": "Sát thương tăng lên 95%",
             "en": "伤害增加至95%",
             "zh": "伤害增加至95%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3242,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Xỉ Giáp",
@@ -120,65 +124,33 @@
         "zh": "妈妈的力量会一直陪在我身边…"
       },
       "description": {
-        "vi": "Ban cho hoặc giúp mục tiêu phe ta nhận [tips_3242].\n[tips_3242] kích hoạt sau khi người mang hành động, Hóa Kình sẽ gọi ra cá voi khổng lồ tấn công toàn bộ phe địch, gây [tips_18] bằng [b_参数p1_per] giới hạn HP của kẻ địch (không vượt quá [b_参数p2_per] Tấn công của người mang), sát thương này không kích hoạt Ngự Hồn, Nội tại của người mang và kẻ địch.\n[tips_7]: Nhận [tips_3242] và [tips_3243].",
-        "en": "Creates a [tips_3242] to protect an ally.\n[tips_3242] triggers when the protected ally takes an action, allowing Bake-kujira to call forth a giant whale that attacks all enemies, dealing [tips_18] equal to [b_参数p1_per] of their max HP (to a max of [b_参数p2_per] of the protected ally's ATK). The damage dealt does not trigger enemies' soul effects or passive skills.\n[tips_7]: Gains [tips_3242] and [tips_3243].",
-        "zh": "给予或是使友方目标获得[tips_3242]。\n[tips_3242]在携带者行动后触发，化鲸将唤出巨大的鲸鱼攻击敌方全体，造成敌方生命上限[b_参数p1_per][tips_18]（不超过携带者攻击[b_参数p2_per]），此伤害不触发携带者以及敌方的御魂、被动。\n[tips_7]：获得[tips_3242]与[tips_3243]。"
+        "vi": "Ban cho hoặc giúp mục tiêu phe ta nhận [tips_3242].\n[tips_3242] kích hoạt sau khi người mang hành động, Hóa Kình sẽ gọi ra cá voi khổng lồ tấn công toàn bộ phe địch, gây [tips_18] bằng 15% giới hạn HP của kẻ địch (không vượt quá 100% Tấn công của người mang), sát thương này không kích hoạt Ngự Hồn, Nội tại của người mang và kẻ địch.\n[tips_7]: Nhận [tips_3242] và [tips_3243].",
+        "en": "Creates a [tips_3242] to protect an ally.\n[tips_3242] triggers when the protected ally takes an action, allowing Bake-kujira to call forth a giant whale that attacks all enemies, dealing [tips_18] equal to 15% of their max HP (to a max of 100% of the protected ally's ATK). The damage dealt does not trigger enemies' soul effects or passive skills.\n[tips_7]: Gains [tips_3242] and [tips_3243].",
+        "zh": "给予或是使友方目标获得[tips_3242]。\n[tips_3242]在携带者行动后触发，化鲸将唤出巨大的鲸鱼攻击敌方全体，造成敌方生命上限15%[tips_18]（不超过携带者攻击100%），此伤害不触发携带者以及敌方的御魂、被动。\n[tips_7]：获得[tips_3242]与[tips_3243]。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương gây ra tăng lên [b_参数p1_per] giới hạn HP của kẻ địch",
-            "en": "Increases damage dealt to [b_参数p1_per] of the enemy's max HP.",
-            "zh": "造成伤害增至敌方生命上限[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Sát thương gây ra tăng lên [b_参数p1_per] giới hạn HP của kẻ địch",
-            "en": "Increases damage dealt to [b_参数p1_per] of the enemy's max HP.",
-            "zh": "造成伤害增至敌方生命上限[b_参数p1_per]"
+            "vi": "Sát thương gây ra tăng lên 13% giới hạn HP của kẻ địch",
+            "en": "Increases damage dealt to 13% of the enemy's max HP.",
+            "zh": "造成伤害增至敌方生命上限13%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Sát thương gây ra tăng lên [b_参数p1_per] giới hạn HP của kẻ địch",
-            "en": "Increases damage dealt to [b_参数p1_per] of the enemy's max HP.",
-            "zh": "造成伤害增至敌方生命上限[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Sát thương gây ra tăng lên [b_参数p1_per] giới hạn HP của kẻ địch",
-            "en": "Increases damage dealt to [b_参数p1_per] of the enemy's max HP.",
-            "zh": "造成伤害增至敌方生命上限[b_参数p1_per]"
+            "vi": "Sát thương gây ra tăng lên 14% giới hạn HP của kẻ địch",
+            "en": "Increases damage dealt to 14% of the enemy's max HP.",
+            "zh": "造成伤害增至敌方生命上限14%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Sát thương gây ra tăng lên [b_参数p1_per] giới hạn HP của kẻ địch",
-            "en": "Increases damage dealt to [b_参数p1_per] of the enemy's max HP.",
-            "zh": "造成伤害增至敌方生命上限[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Sát thương gây ra tăng lên [b_参数p1_per] giới hạn HP của kẻ địch",
-            "en": "Increases damage dealt to [b_参数p1_per] of the enemy's max HP.",
-            "zh": "造成伤害增至敌方生命上限[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Tiêu hao Quỷ Hỏa giảm 1 điểm",
-            "en": "Reduces orbs required by 1.",
-            "zh": "消耗鬼火减少1点"
+            "vi": "Sát thương gây ra tăng lên 15% giới hạn HP của kẻ địch",
+            "en": "Increases damage dealt to 15% of the enemy's max HP.",
+            "zh": "造成伤害增至敌方生命上限15%"
           }
         },
         {
@@ -196,6 +168,8 @@
     {
       "id": 3243,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thể Giáp",
@@ -208,9 +182,9 @@
         "zh": "妈妈会保护我的…"
       },
       "description": {
-        "vi": "给予或是使友方目标获得[tips_3243]，并为友方全体治疗生命上限10%的生命。\n[tips_3243]在携带者受到暴击伤害时触发，使暴击伤害降低[b_参数p2_per]。\n[tips_3243]的携带者在行动前，治疗等同化鲸生命上限[b_参数p1_per]的生命。",
-        "en": "给予或是使友方目标获得[tips_3243]，并为友方全体治疗生命上限10%的生命。\n[tips_3243]在携带者受到暴击伤害时触发，使暴击伤害降低[b_参数p2_per]。\n[tips_3243]的携带者在行动前，治疗等同化鲸生命上限[b_参数p1_per]的生命。",
-        "zh": "给予或是使友方目标获得[tips_3243]，并为友方全体治疗生命上限10%的生命。\n[tips_3243]在携带者受到暴击伤害时触发，使暴击伤害降低[b_参数p2_per]。\n[tips_3243]的携带者在行动前，治疗等同化鲸生命上限[b_参数p1_per]的生命。"
+        "vi": "Trao hoặc khiến mục tiêu đồng minh nhận [tips_3243], đồng thời trị liệu cho toàn thể đồng minh 10% giới hạn HP.\n[tips_3243] kích hoạt khi mục tiêu mang nó nhận sát thương chí mạng, làm giảm 50% sát thương chí mạng phải chịu.\nMục tiêu mang [tips_3243] trước khi hành động, được trị liệu lượng HP tương đương 10% giới hạn HP của Hóa Kình.",
+        "en": "给予或是使友方目标获得[tips_3243]，并为友方全体治疗生命上限10%的生命。\n[tips_3243]在携带者受到暴击伤害时触发，使暴击伤害降低50%。\n[tips_3243]的携带者在行动前，治疗等同化鲸生命上限10%的生命。",
+        "zh": "给予或是使友方目标获得[tips_3243]，并为友方全体治疗生命上限10%的生命。\n[tips_3243]在携带者受到暴击伤害时触发，使暴击伤害降低50%。\n[tips_3243]的携带者在行动前，治疗等同化鲸生命上限10%的生命。"
       },
       "upgrades": [
         {
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_huajing.png"
+    "portraitFile": "324.png",
+    "headIconFile": "324a.png"
   }
 }

@@ -10,18 +10,18 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3269,
+      "value": 3270,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10480,
+      "value": 10482,
       "grade": "B"
     },
     {
@@ -34,7 +34,7 @@
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 115,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3541,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mặc Phong",
@@ -64,15 +66,15 @@
         "zh": "我的伞剑是为了保护他们而存在。"
       },
       "description": {
-        "vi": "Uyển chuyển thanh thoát rút dù kiếm chém mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công. Mỗi 3 lần Đánh Thường, lần Đánh Thường tiếp theo sẽ thay bằng 『Mặc Ảnh Kiếm Quang』. Khi tiến vào trận đấu, coi như đã Đánh Thường 2 lần.",
+        "vi": "Uyển chuyển thanh thoát rút dù kiếm chém mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công. Mỗi 3 lần Đánh Thường, lần Đánh Thường tiếp theo sẽ thay bằng [Mặc Ảnh Kiếm Quang]. Khi tiến vào trận đấu, coi như đã Đánh Thường 2 lần.",
         "en": "Moves like a feather and unsheathes her sword to attack 1 enemy, dealing damage equal to 125% of her ATK. After 3 normal attacks, the next normal attack will be replaced with Ink-shadow Slash. At the start of battle, she's regarded as having used 2 normal attacks.",
-        "zh": "灵动飘逸地拔出伞剑挥砍敌方目标，造成攻击125%伤害。每3次普攻后，下1次普攻会替换为『墨影剑光』。进入战斗的时候，视为已经普攻2次。"
+        "zh": "灵动飘逸地拔出伞剑挥砍敌方目标，造成攻击125%伤害。每3次普攻后，下1次普攻会替换为『墨影剑光]。进入战斗的时候，视为已经普攻2次。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3542,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Mặc Ảnh",
@@ -131,6 +135,8 @@
     {
       "id": 3543,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mặc Ảnh Kiếm Quang",
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "354.png",
+    "headIconFile": "354a.png"
   }
 }

@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3135,
+      "value": 3377,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 8999,
-      "grade": "D"
+      "value": 9912,
+      "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 348,
-      "grade": "D"
+      "value": 384,
+      "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2771,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tội Phạt · Hắc",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 2772,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "魂之怒火",
+        "vi": "Hồn Chi Nộ Hỏa",
         "en": "魂之怒火",
         "zh": "魂之怒火"
       },
@@ -120,15 +124,15 @@
         "zh": "唔……白童子在哪里？"
       },
       "description": {
-        "vi": "Tiên Cơ: Thi triển 「Hồn Chi Nộ Hỏa」. Khi chịu đòn tấn công không phải [tips_12], có 20% xác suất thi triển miễn phí một lần 『[skill_2773_1]』.\n【Thi triển】 Nhận [buff_2772_1], duy trì 2 lượt. Tỷ lệ HP cứ giảm 30%, xác suất kích hoạt tăng thêm 3%.",
+        "vi": "Tiên Cơ: Thi triển [Hồn Chi Nộ Hỏa]. Khi chịu đòn tấn công không phải [tips_12], có 20% xác suất thi triển miễn phí một lần [skill_2773_1].\n[Thi triển] Nhận [buff_2772_1], duy trì 2 lượt. Tỷ lệ HP cứ giảm 30%, xác suất kích hoạt tăng thêm 3%.",
         "en": "Upper Hand: Casts Soul Rage. When attacked by non-[tips_12], there is a 20% chance to cast [skill_2773_1] without consuming any resources.\nUpon casting, gains [buff_2772_1], lasting for 2 turns. For every 30% decrease in HP, the trigger chance increases by an additional 3%.",
-        "zh": "先机：施放「魂之怒火」。受到非[tips_12]的攻击时，有20%概率免消耗施放一次『[skill_2773_1]』。\n【施放】获得[buff_2772_1]，持续2回合。生命比例每降低30%，触发概率额外提升3%。"
+        "zh": "先机：施放「魂之怒火]。受到非[tips_12]的攻击时，有20%概率免消耗施放一次『[skill_2773_1]。\n【施放】获得[buff_2772_1]，持续2回合。生命比例每降低30%，触发概率额外提升3%。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "触发概率增至16%",
+            "vi": "Tỷ lệ kích hoạt tăng lên 16%",
             "en": "触发概率增至16%",
             "zh": "触发概率增至16%"
           }
@@ -136,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "触发概率增至20%",
+            "vi": "Tỷ lệ kích hoạt tăng lên 20%",
             "en": "触发概率增至20%",
             "zh": "触发概率增至20%"
           }
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Tiên Cơ: Thi triển 「Hồn Chi Nộ Hỏa」",
+            "vi": "Tiên Cơ: Thi triển [Hồn Chi Nộ Hỏa]",
             "en": "Upper Hand: Casts Soul Rage",
-            "zh": "先机：施放「魂之怒火」"
+            "zh": "先机：施放「魂之怒火]"
           }
         }
       ],
@@ -164,9 +168,11 @@
     {
       "id": 2773,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 7,
       "name": {
-        "vi": "连斩",
+        "vi": "Liên Trảm",
         "en": "连斩",
         "zh": "连斩"
       },
@@ -184,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至87%",
+            "vi": "Sát thương tăng lên 87%",
             "en": "伤害增加至87%",
             "zh": "伤害增加至87%"
           }
@@ -192,15 +198,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至87%",
-            "en": "伤害增加至87%",
-            "zh": "伤害增加至87%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "技能伤害额外+5%",
+            "vi": "Sát thương kỹ năng cộng thêm +5%",
             "en": "技能伤害额外+5%",
             "zh": "技能伤害额外+5%"
           }
@@ -208,7 +206,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至91%",
+            "vi": "Sát thương tăng lên 91%",
             "en": "伤害增加至91%",
             "zh": "伤害增加至91%"
           }
@@ -216,15 +214,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至91%",
-            "en": "伤害增加至91%",
-            "zh": "伤害增加至91%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "技能伤害额外+5%",
+            "vi": "Sát thương kỹ năng cộng thêm +5%",
             "en": "技能伤害额外+5%",
             "zh": "技能伤害额外+5%"
           }
@@ -232,7 +222,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至95%",
+            "vi": "Sát thương tăng lên 95%",
             "en": "伤害增加至95%",
             "zh": "伤害增加至95%"
           }
@@ -240,15 +230,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至95%",
-            "en": "伤害增加至95%",
-            "zh": "伤害增加至95%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "技能伤害额外+5%",
+            "vi": "Sát thương kỹ năng cộng thêm +5%",
             "en": "技能伤害额外+5%",
             "zh": "技能伤害额外+5%"
           }
@@ -256,7 +238,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至99%",
+            "vi": "Sát thương tăng lên 99%",
             "en": "伤害增加至99%",
             "zh": "伤害增加至99%"
           }
@@ -264,15 +246,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至99%",
-            "en": "伤害增加至99%",
-            "zh": "伤害增加至99%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "技能伤害额外+5%",
+            "vi": "Sát thương kỹ năng cộng thêm +5%",
             "en": "技能伤害额外+5%",
             "zh": "技能伤害额外+5%"
           }
@@ -280,7 +254,7 @@
         {
           "level": 6,
           "text": {
-            "vi": "技能伤害额外+5%",
+            "vi": "Sát thương kỹ năng cộng thêm +5%",
             "en": "技能伤害额外+5%",
             "zh": "技能伤害额外+5%"
           }
@@ -288,7 +262,7 @@
         {
           "level": 7,
           "text": {
-            "vi": "技能伤害额外+5%",
+            "vi": "Sát thương kỹ năng cộng thêm +5%",
             "en": "技能伤害额外+5%",
             "zh": "技能伤害额外+5%"
           }
@@ -299,7 +273,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "277.png",
+    "headIconFile": "277a.png"
   }
 }

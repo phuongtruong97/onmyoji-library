@@ -9,19 +9,19 @@
   "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "statState": "LV40_NO_EVO",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2438,
+      "value": 2439,
       "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10138,
+      "value": 10140,
       "grade": "C"
     },
     {
@@ -52,9 +52,11 @@
     {
       "id": 4151,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Quác·Quỷ Hồ Lô",
+        "vi": "Oa • Quỷ Hồ Lô",
         "en": "Croak: Calabash",
         "zh": "呱·鬼葫芦"
       },
@@ -64,15 +66,15 @@
         "zh": "这就是本大爷的实力，看好了！"
       },
       "description": {
-        "vi": "Dùng yêu lực điều khiển quỷ hồ lô phun trướng khí tấn công mục tiêu kẻ địch, gây sát thương 62.5%, đồng thời có xác suất 20% nhận 1 tầng [buff_4151_1], tối đa [b_堆叠上限] tầng.",
-        "en": "Sprays 1 enemy with noxious vapors from his calabash, dealing damage equal to 62.5% of his ATK with a 20% chance of gaining a [buff_4151_1] stack (max [b_堆叠上限] stack.)",
-        "zh": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击62.5%伤害，并有20%概率获得1层[buff_4151_1]，上限[b_堆叠上限]层。"
+        "vi": "Dùng yêu lực điều khiển quỷ hồ lô phun trướng khí tấn công mục tiêu kẻ địch, gây sát thương 62.5%, đồng thời có xác suất 20% nhận 1 tầng [buff_4151_1], tối đa 0 tầng.",
+        "en": "Sprays 1 enemy with noxious vapors from his calabash, dealing damage equal to 62.5% of his ATK with a 20% chance of gaining a [buff_4151_1] stack (max 0 stack.)",
+        "zh": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击62.5%伤害，并有20%概率获得1层[buff_4151_1]，上限0层。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至52.5%",
+            "vi": "Sát thương tăng lên 52.5%",
             "en": "伤害增加至52.5%",
             "zh": "伤害增加至52.5%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至55%",
+            "vi": "Sát thương tăng lên 55%",
             "en": "伤害增加至55%",
             "zh": "伤害增加至55%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至57.5%",
+            "vi": "Sát thương tăng lên 57.5%",
             "en": "伤害增加至57.5%",
             "zh": "伤害增加至57.5%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至62.5%",
+            "vi": "Sát thương tăng lên 62.5%",
             "en": "伤害增加至62.5%",
             "zh": "伤害增加至62.5%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 4152,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Quác·Cuồng Khiếu",
+        "vi": "Oa • Cuồng Khiếu",
         "en": "Croak: Healing Rage",
         "zh": "呱·狂啸"
       },
@@ -128,7 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至52.5%",
+            "vi": "Sát thương tăng lên 52.5%",
             "en": "伤害增加至52.5%",
             "zh": "伤害增加至52.5%"
           }
@@ -136,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至55%",
+            "vi": "Sát thương tăng lên 55%",
             "en": "伤害增加至55%",
             "zh": "伤害增加至55%"
           }
@@ -144,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至57.5%",
+            "vi": "Sát thương tăng lên 57.5%",
             "en": "伤害增加至57.5%",
             "zh": "伤害增加至57.5%"
           }
@@ -152,7 +156,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至62.5%",
+            "vi": "Sát thương tăng lên 62.5%",
             "en": "伤害增加至62.5%",
             "zh": "伤害增加至62.5%"
           }
@@ -163,7 +167,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "415.png",
+    "headIconFile": "415a.png"
   }
 }

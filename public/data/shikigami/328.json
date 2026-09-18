@@ -10,24 +10,24 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3081,
+      "value": 3082,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
+      "value": 9114,
       "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 353,
       "grade": "C"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3281,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Viêm Nhẫn",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3282,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cùng Truy Bất Xả",
@@ -164,6 +168,8 @@
     {
       "id": 3283,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Xích Ảnh Nhất Thuấn",
@@ -176,17 +182,17 @@
         "zh": "源氏的怒火与裁决。"
       },
       "description": {
-        "vi": "Kéo Đại Thái Đao ra từ kẽ hở xé rách thời không, dốc toàn lực chém xuống mục tiêu kẻ địch gây sát thương bằng 295% Tấn công. Khi hạ gục kẻ địch không phải vật triệu hồi nhận thêm lượt mới, nhưng không kích hoạt khóa, trong lượt mới Trảm Không Viêm có thể thi triển miễn phí, đồng thời nhận trạng thái Hơi Thở Xích Ảnh, tăng [b_属性1数值_per] sát thương, giới hạn [*|b_属性1数值_per|b_堆叠上限].",
-        "en": "Draws her blade from the rift where the space is torn open and channels all of her power to slash one enemy, dealing damage equal to 295% of her ATK. When the attack KO's a non-summoned enemy entity, she gains a new turn that does not trigger Locked; using Slashing Flame costs no orbs in the new turn; also gains Crimson Breath status, increasing her damage by [b_属性1数值_per] to a max of [*|b_属性1数值_per|b_堆叠上限] increased.",
-        "zh": "从撕裂时空的裂隙之间拔出大太刀，全力砍击对敌方目标造成攻击295%伤害。击败非召唤物的敌人时获得新的回合，但不触发锁定，新回合中斩空炎将可免消耗施放，且获得赤影之息状态，提升[b_属性1数值_per]伤害，上限[*|b_属性1数值_per|b_堆叠上限]。"
+        "vi": "Kéo Đại Thái Đao ra từ kẽ hở xé rách thời không, dốc toàn lực chém xuống mục tiêu kẻ địch gây sát thương bằng 295% Tấn công. Khi hạ gục kẻ địch không phải vật triệu hồi nhận thêm lượt mới, nhưng không kích hoạt khóa, trong lượt mới Trảm Không Viêm có thể thi triển miễn phí, đồng thời nhận trạng thái Hơi Thở Xích Ảnh, tăng 15% sát thương, giới hạn 0%.",
+        "en": "Draws her blade from the rift where the space is torn open and channels all of her power to slash one enemy, dealing damage equal to 295% of her ATK. When the attack KO's a non-summoned enemy entity, she gains a new turn that does not trigger Locked; using Slashing Flame costs no orbs in the new turn; also gains Crimson Breath status, increasing her damage by 15% to a max of 0% increased.",
+        "zh": "从撕裂时空的裂隙之间拔出大太刀，全力砍击对敌方目标造成攻击295%伤害。击败非召唤物的敌人时获得新的回合，但不触发锁定，新回合中斩空炎将可免消耗施放，且获得赤影之息状态，提升15%伤害，上限0%。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Khi hạ gục kẻ địch không phải vật triệu hồi, nhận Hơi Thở Xích Ảnh (Tăng Ích, Trạng Thái), tăng [b_属性1数值_per] sát thương, giới hạn [*|b_属性1数值_per|b_堆叠上限]",
-            "en": "When the attack KO's a non-summoned enemy entity, she gains Crimson Breath (buff, status), increasing her damage by [b_属性1数值_per] to a max of [*|b_属性1数值_per|b_堆叠上限] increased.",
-            "zh": "击败非召唤物的敌人时，获得赤影之息（增益，状态），提升[b_属性1数值_per]伤害，上限[*|b_属性1数值_per|b_堆叠上限]"
+            "vi": "Khi hạ gục kẻ địch không phải vật triệu hồi, nhận Hơi Thở Xích Ảnh (Tăng Ích, Trạng Thái), tăng 15% sát thương, giới hạn 0%",
+            "en": "When the attack KO's a non-summoned enemy entity, she gains Crimson Breath (buff, status), increasing her damage by 15% to a max of 0% increased.",
+            "zh": "击败非召唤物的敌人时，获得赤影之息（增益，状态），提升15%伤害，上限0%"
           }
         },
         {
@@ -200,17 +206,17 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi hạ gục kẻ địch nhận thêm lượt mới, trong lượt mới 「Xích Ảnh Nhất Thuấn」 sẽ có thể thi triển miễn phí",
+            "vi": "Khi hạ gục kẻ địch nhận thêm lượt mới, trong lượt mới [Xích Ảnh Nhất Thuấn] sẽ có thể thi triển miễn phí",
             "en": "When the attack KO's an enemy, she gains a new turn. Using Crimson Slash in the new turn costs no orbs.",
-            "zh": "击败敌人获得新的回合时，新回合中「赤影一瞬」将可免消耗施放"
+            "zh": "击败敌人获得新的回合时，新回合中「赤影一瞬]将可免消耗施放"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Sát thương do 「Xích Ảnh Nhất Thuấn」 gây ra trong lượt mới tăng 30%, không thể chia sẻ, không kích hoạt Ngự Hồn và Nội Tại của mục tiêu",
+            "vi": "Sát thương do [Xích Ảnh Nhất Thuấn] gây ra trong lượt mới tăng 30%, không thể chia sẻ, không kích hoạt Ngự Hồn và Nội Tại của mục tiêu",
             "en": "In the new turn granted, Crimson Slash deals an additional 30% damage. This damage cannot be shared and doesn't trigger the Soul effects or passive skills of the target.",
-            "zh": "新回合「赤影一瞬」造成的伤害提升30%、无法分担、不触发目标的御魂及被动"
+            "zh": "新回合「赤影一瞬]造成的伤害提升30%、无法分担、不触发目标的御魂及被动"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "328.png",
+    "headIconFile": "328a.png"
   }
 }

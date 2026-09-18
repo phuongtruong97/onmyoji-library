@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,13 +21,13 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10480,
+      "value": 10482,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 405,
+      "value": 406,
       "grade": "B"
     },
     {
@@ -52,9 +52,11 @@
     {
       "id": 5841,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Tuế Ngấn Chi Đoạn",
+        "vi": "Tuế Ngân Chi Đoạn",
         "en": "Severed Time",
         "zh": "岁痕之断"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5842,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Diệu Thời Chi Lữ",
@@ -120,7 +124,7 @@
         "zh": "我会带着属于曾存在的日月的光明，继续前行。"
       },
       "description": {
-        "vi": "[tips_11]. Mỗi khi mất cộng dồn 25% HP, tiêu hao 1 tầng [buff_5842_1]. Mỗi khi tiêu hao 1 tầng Hồi Tố, sát thương gánh chịu giảm 25%, Tốc độ tăng 25 điểm, cộng dồn tối đa 3 tầng, [tips_15] 1 lượt.\n【Thi triển】 Băng qua dòng sông thời gian, tiến vào [tips_5832] và nhận 3 tầng Hồi Tố.",
+        "vi": "[tips_11]. Mỗi khi mất cộng dồn 25% HP, tiêu hao 1 tầng [buff_5842_1]. Mỗi khi tiêu hao 1 tầng Hồi Tố, sát thương gánh chịu giảm 25%, Tốc độ tăng 25 điểm, cộng dồn tối đa 3 tầng, [tips_15] 1 lượt.\n[Thi triển] Băng qua dòng sông thời gian, tiến vào [tips_5832] và nhận 3 tầng Hồi Tố.",
         "en": "[tips_11]. For every cumulative 25% HP lost, consumes 1 stack of [buff_5842_1]. For each stack of Retrace consumed, damage taken is reduced by 25% and SPD increases by 25, up to 3 stacks, [tips_15] for 1 turn.\nTravels through the river of time to enter [tips_5832] and gain 3 stacks of Retrace.",
         "zh": "[tips_11]。每累计减少25%生命，消耗1层[buff_5842_1]。每消耗1层回溯，受到伤害减少25%，速度提升25点，至多叠加3层，[tips_15]1个回合。\n【施放】穿梭在时间长河中，进入[tips_5832]并获得3层回溯。"
       },
@@ -164,9 +168,11 @@
     {
       "id": 5843,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Tấn Thời Chi Trảm",
+        "vi": "Tẫn Thời Chi Trảm",
         "en": "Ember Slash",
         "zh": "烬时之斩"
       },
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "584.png",
+    "headIconFile": "584a.png"
   }
 }

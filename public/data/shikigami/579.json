@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,20 +21,20 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11164,
+      "value": 11165,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 414,
+      "value": 415,
       "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 115,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5791,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Dục Âm Nhĩ Sinh",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5792,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Dạ Âm Đồng Tấu",
@@ -120,9 +124,9 @@
         "zh": "这是一曲，特别的合奏。"
       },
       "description": {
-        "vi": "[tips_11]. Khi trận đấu bắt đầu và sau mỗi lần kết thúc lượt, đánh thức tỳ bà [tips_5792]. Khi [tips_5792] được đánh thức, tăng 100% Kháng Bạo Kích, 100% Kháng Hiệu Ứng cho bản thân và 160 điểm Phòng thủ cho toàn bộ đồng minh, duy trì 2 lượt. Sau mỗi lần [tips_5792] tấn công, tăng 12% hệ số sát thương của 『Thế Gian Chi Khúc』 (tối đa 24%, không mất đi khi chuyển hồi mục).",
+        "vi": "[tips_11]. Khi trận đấu bắt đầu và sau mỗi lần kết thúc lượt, đánh thức tỳ bà [tips_5792]. Khi [tips_5792] được đánh thức, tăng 100% Kháng Bạo Kích, 100% Kháng Hiệu Ứng cho bản thân và 160 điểm Phòng thủ cho toàn bộ đồng minh, duy trì 2 lượt. Sau mỗi lần [tips_5792] tấn công, tăng 12% hệ số sát thương của [Thế Gian Chi Khúc] (tối đa 24%, không mất đi khi chuyển hồi mục).",
         "en": "[tips_11]. At the start of the battle and the end of her turns, awakens her lute [tips_5792]. When [tips_5792] is awakened, increases her Crit RES and Effect RES by 100% and all allies' DEF by 160 for 2 turns. After [tips_5792] attacks, increases Secular Song's damage multiplier by 12% (max 24%, won't be removed as rounds end).",
-        "zh": "[tips_11]。战斗开始时与每次回合结束后，唤醒琵琶[tips_5792]。[tips_5792]被唤醒时，提升自身100%暴击抵抗、100%效果抵抗与友方全体160点防御，持续2回合。[tips_5792]每次攻击后，提升『世间之曲』12%伤害系数（至多24%，跨回目不消失）。"
+        "zh": "[tips_11]。战斗开始时与每次回合结束后，唤醒琵琶[tips_5792]。[tips_5792]被唤醒时，提升自身100%暴击抵抗、100%效果抵抗与友方全体160点防御，持续2回合。[tips_5792]每次攻击后，提升『世间之曲]12%伤害系数（至多24%，跨回目不消失）。"
       },
       "upgrades": [
         {
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sau mỗi lần [tips_5792] tấn công, tăng 12% hệ số sát thương của 『Thế Gian Chi Khúc』 (tối đa 24%, không mất đi khi chuyển hồi mục)",
+            "vi": "Sau mỗi lần [tips_5792] tấn công, tăng 12% hệ số sát thương của [Thế Gian Chi Khúc] (tối đa 24%, không mất đi khi chuyển hồi mục)",
             "en": "After [tips_5792] attacks, increases Secular Song's damage multiplier by 12% (max 24%, won't be removed as rounds end).",
-            "zh": "[tips_5792]每次攻击后，提升『世间之曲』12%伤害系数（至多24%，跨回目不消失）"
+            "zh": "[tips_5792]每次攻击后，提升『世间之曲]12%伤害系数（至多24%，跨回目不消失）"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 5793,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thế Gian Chi Khúc",
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "sp_jinnaluo.png",
-    "headIconFile": ""
+    "portraitFile": "579.png",
+    "headIconFile": "579a.png"
   }
 }

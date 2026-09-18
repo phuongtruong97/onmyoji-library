@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,13 +21,13 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
+      "value": 10254,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 436,
+      "value": 437,
       "grade": "B"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3261,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồ Linh",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害增加至85%",
             "zh": "伤害增加至85%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害增加至90%",
             "zh": "伤害增加至90%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至95%",
+            "vi": "Sát thương tăng lên 95%",
             "en": "伤害增加至95%",
             "zh": "伤害增加至95%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3262,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồ Thụ · Nhật Diệu Giới",
@@ -164,6 +168,8 @@
     {
       "id": 3263,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồ Thụ · Nguyệt Ảnh Giới",
@@ -176,9 +182,9 @@
         "zh": "黑夜来临之际，希望依旧永存。"
       },
       "description": {
-        "vi": "Tạo ra Kết giới Nguyệt Ảnh tồn tại trong 1 lượt, trong thời gian này, toàn bộ phe ta tăng 30% Tấn công, 30% Phòng thủ; bản thân tăng thêm 30 điểm Tốc độ và 30% Kháng Hiệu Ứng.\nSau khi lượt của kẻ địch kết thúc, dùng 『Hồ Linh』 tấn công kẻ địch đó, không kích hoạt Ngự Hồn và Nội tại của kẻ đó, đồng thời thời gian duy trì trạng thái tiêu cực kèm theo tăng lên 2 lượt.\n[tips_7]: Thi triển 『Hồ Thụ · Nguyệt Ảnh Giới』.",
+        "vi": "Tạo ra Kết giới Nguyệt Ảnh tồn tại trong 1 lượt, trong thời gian này, toàn bộ phe ta tăng 30% Tấn công, 30% Phòng thủ; bản thân tăng thêm 30 điểm Tốc độ và 30% Kháng Hiệu Ứng.\nSau khi lượt của kẻ địch kết thúc, dùng [Hồ Linh] tấn công kẻ địch đó, không kích hoạt Ngự Hồn và Nội tại của kẻ đó, đồng thời thời gian duy trì trạng thái tiêu cực kèm theo tăng lên 2 lượt.\n[tips_7]: Thi triển [Hồ Thụ · Nguyệt Ảnh Giới].",
         "en": "Creates a moonlit realm that lasts 1 turn. While the realm is active, increases the ATK and DEF of all allies by 30% and her own SPD and Effect RES by 30%.\nAt the end of an enemy's turn, attacks the enemy with her Fox Bell. The attack doesn't trigger their Soul effects or passive skills, and increases the duration of the debuffs affecting them to 2 turns.\n[tips_7]: Uses Moonlit Fox Realm.",
-        "zh": "创造存在1回合的月影结界，此期间，友方全体提升30%攻击、30%防御；自身额外增加30速度和30%效果抵抗。\n敌方回合结束后，使用『狐铃』攻击该敌方，不触发其御魂及被动，并且附带的减益效果持续时间增至2回合。\n[tips_7]：施放『狐狩·月影界』。"
+        "zh": "创造存在1回合的月影结界，此期间，友方全体提升30%攻击、30%防御；自身额外增加30速度和30%效果抵抗。\n敌方回合结束后，使用『狐铃]攻击该敌方，不触发其御魂及被动，并且附带的减益效果持续时间增至2回合。\n[tips_7]：施放『狐狩·月影界]。"
       },
       "upgrades": [
         {
@@ -208,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "[tips_7]: Thi triển 『Hồ Thụ · Nguyệt Ảnh Giới』",
+            "vi": "[tips_7]: Thi triển [Hồ Thụ · Nguyệt Ảnh Giới]",
             "en": "[tips_7]: Uses Moonlit Fox Realm.",
-            "zh": "[tips_7]：施放『狐狩·月影界』"
+            "zh": "[tips_7]：施放『狐狩·月影界]"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "326.png",
+    "headIconFile": "326a.png"
   }
 }

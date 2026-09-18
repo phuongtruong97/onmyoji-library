@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2492,
-      "grade": "B"
+      "value": 2734,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 8544,
-      "grade": "D"
+      "value": 9456,
+      "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 454,
-      "grade": "A"
+      "value": 507,
+      "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2931,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đồng Viêm",
@@ -64,7 +66,7 @@
         "zh": "真是一双美丽的眼睛啊……"
       },
       "description": {
-        "vi": "释放瞳炎攻击敌方目标，造成攻击120%伤害；若目标处于[buff_2933_1]，则使状态延长1回合。",
+        "vi": "Phóng thích đồng viêm tấn công mục tiêu phe địch, gây sát thương bằng 120% Tấn công; nếu mục tiêu đang trong trạng thái [buff_2933_1], kéo dài trạng thái thêm 1 lượt.",
         "en": "释放瞳炎攻击敌方目标，造成攻击120%伤害；若目标处于[buff_2933_1]，则使状态延长1回合。",
         "zh": "释放瞳炎攻击敌方目标，造成攻击120%伤害；若目标处于[buff_2933_1]，则使状态延长1回合。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2932,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quỷ Mâu",
@@ -120,9 +124,9 @@
         "zh": "让我看看，你在想什么，呵呵。"
       },
       "description": {
-        "vi": "当敌方造成伤害暴击时，百目鬼有80%概率睁开一只鬼眸；当睁开5只鬼眸时，将免消耗施放『[skill_2933_1]』，之后闭上所有鬼眸。",
-        "en": "当敌方造成伤害暴击时，百目鬼有80%概率睁开一只鬼眸；当睁开5只鬼眸时，将免消耗施放『[skill_2933_1]』，之后闭上所有鬼眸。",
-        "zh": "当敌方造成伤害暴击时，百目鬼有80%概率睁开一只鬼眸；当睁开5只鬼眸时，将免消耗施放『[skill_2933_1]』，之后闭上所有鬼眸。"
+        "vi": "Khi kẻ địch gây sát thương chí mạng, Bách Mục Quỷ có 80% xác suất mở một mắt quỷ; khi mở đủ 5 mắt quỷ, sẽ miễn tiêu hao [Thi Triển] [skill_2933_1], sau đó nhắm lại tất cả mắt quỷ.",
+        "en": "当敌方造成伤害暴击时，百目鬼有80%概率睁开一只鬼眸；当睁开5只鬼眸时，将免消耗施放『[skill_2933_1]，之后闭上所有鬼眸。",
+        "zh": "当敌方造成伤害暴击时，百目鬼有80%概率睁开一只鬼眸；当睁开5只鬼眸时，将免消耗施放『[skill_2933_1]，之后闭上所有鬼眸。"
       },
       "upgrades": [
         {
@@ -152,7 +156,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "触发概率增至80%",
+            "vi": "Tỷ lệ kích hoạt tăng lên 80%",
             "en": "触发概率增至80%",
             "zh": "触发概率增至80%"
           }
@@ -164,6 +168,8 @@
     {
       "id": 2933,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 8,
       "name": {
         "vi": "Nguyền Rủa Chi Nhãn",
@@ -176,9 +182,9 @@
         "zh": "你的眼睛，也会成为我的眼睛哦~"
       },
       "description": {
-        "vi": "Bách Mục Quỷ dùng quỷ nhãn nhiếp hồn cướp phách nhìn chằm chằm kẻ địch, có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất khiến toàn bộ phe địch rơi vào trạng thái nhìn chằm chằm, duy trì 1 lượt; ở trạng thái nhìn chằm chằm, tất cả kỹ năng tiêu hao Quỷ Hỏa sẽ bị thay bằng [Tà Quang]; thi triển [Tà Quang] khiến bản thân chịu Sát Thương Gián Tiếp bằng 211% Tấn công của Bách Mục Quỷ, đồng thời giải trừ trạng thái nhìn chằm chằm của toàn bộ đơn vị phe ta.",
-        "en": "Dodomeki uses her ominous Ghost Eyes to gaze upon her enemies with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting Gaze lasting 1 turn on them. When inflicted with Gaze, all skills that consume orbs will be changed to Evil Light. Using Evil Light takes indirect damage equal to 211% of Dodomeki's ATK and frees all allies from Gaze.",
-        "zh": "百目鬼用摄人心魄的鬼眼凝视敌人，有100%（+[*|a_debuff-acc_per|s_buff概率_per]）的概率使敌方全体陷入凝视状态，持续1回合；凝视状态下，所有消耗鬼火的技能会被替换成[邪光]；释放[邪光]使自身受到百目鬼攻击211%的间接伤害，同时解除全体友方单位的凝视状态。"
+        "vi": "Bách Mục Quỷ dùng quỷ nhãn nhiếp hồn cướp phách nhìn chằm chằm kẻ địch, có 100% [tips_2] xác suất khiến toàn bộ phe địch rơi vào trạng thái nhìn chằm chằm, duy trì 1 lượt; ở trạng thái nhìn chằm chằm, tất cả kỹ năng tiêu hao Quỷ Hỏa sẽ bị thay bằng [Tà Quang]; thi triển [Tà Quang] khiến bản thân chịu Sát Thương Gián Tiếp bằng 211% Tấn công của Bách Mục Quỷ, đồng thời giải trừ trạng thái nhìn chằm chằm của toàn bộ đơn vị phe ta.",
+        "en": "Dodomeki uses her ominous Ghost Eyes to gaze upon her enemies with a 100% (+Effect HIT) chance of inflicting Gaze lasting 1 turn on them. When inflicted with Gaze, all skills that consume orbs will be changed to Evil Light. Using Evil Light takes indirect damage equal to 211% of Dodomeki's ATK and frees all allies from Gaze.",
+        "zh": "百目鬼用摄人心魄的鬼眼凝视敌人，有100%（+效果命中）的概率使敌方全体陷入凝视状态，持续1回合；凝视状态下，所有消耗鬼火的技能会被替换成[邪光]；释放[邪光]使自身受到百目鬼攻击211%的间接伤害，同时解除全体友方单位的凝视状态。"
       },
       "upgrades": [
         {
@@ -256,31 +262,23 @@
         {
           "level": 5,
           "text": {
-            "vi": "消耗鬼火减少1点",
-            "en": "消耗鬼火减少1点",
-            "zh": "消耗鬼火减少1点"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "消耗鬼火减少1点",
-            "en": "消耗鬼火减少1点",
-            "zh": "消耗鬼火减少1点"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
             "vi": "Tiêu hao Quỷ Hỏa của kỹ năng -1",
             "en": "Decreases orbs required by 1.",
             "zh": "技能消耗鬼火-1"
           }
         },
         {
+          "level": 5,
+          "text": {
+            "vi": "Tiêu hao quỷ hỏa giảm 1 điểm",
+            "en": "消耗鬼火减少1点",
+            "zh": "消耗鬼火减少1点"
+          }
+        },
+        {
           "level": 7,
           "text": {
-            "vi": "消耗鬼火减少1点",
+            "vi": "Tiêu hao quỷ hỏa giảm 1 điểm",
             "en": "消耗鬼火减少1点",
             "zh": "消耗鬼火减少1点"
           }
@@ -291,7 +289,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "baimugui.png",
-    "headIconFile": ""
+    "portraitFile": "293.png",
+    "headIconFile": "293a.png"
   }
 }

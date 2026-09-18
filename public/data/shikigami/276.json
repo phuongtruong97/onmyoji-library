@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3001,
+      "value": 3270,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9341,
+      "value": 10140,
       "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
+      "value": 392,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 100,
-      "grade": "B"
+      "value": 110,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2761,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đồ Sát",
@@ -64,7 +66,7 @@
         "zh": "本大爷要把这里变成废墟！"
       },
       "description": {
-        "vi": "攻击敌方目标，造成攻击125%伤害。",
+        "vi": "Tấn công mục tiêu phe địch, gây sát thương bằng 125% Tấn công.",
         "en": "攻击敌方目标，造成攻击125%伤害。",
         "zh": "攻击敌方目标，造成攻击125%伤害。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "2761.png"
     },
     {
-      "id": 2763,
+      "id": 2762,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quỷ Mị",
+        "en": "Fiend",
+        "zh": "鬼魅"
+      },
+      "intro": {
+        "vi": "Thế này mới thú vị chứ, phải không?",
+        "en": "Things are about to get interesting...",
+        "zh": "这样才有意思，对吧？"
+      },
+      "description": {
+        "vi": "Khi gây sát thương, có xác suất 50% tăng 20 điểm tốc độ, duy trì 2 lượt.",
+        "en": "When dealing damage, has a 50% chance of increasing SPD by 20 for 2 turn(s).",
+        "zh": "造成伤害时，50%概率提升20点速度，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng đến 35%.",
+            "en": "Increases chance of triggering to 35%.",
+            "zh": "触发概率增至35%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng đến 40%.",
+            "en": "Increases chance of triggering to 40%.",
+            "zh": "触发概率增至40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng đến 45%.",
+            "en": "Increases chance of triggering to 45%.",
+            "zh": "触发概率增至45%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng đến 50%.",
+            "en": "Increases chance of triggering to 50%.",
+            "zh": "触发概率增至50%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2762.png"
+    },
+    {
+      "id": 2763,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hoàng Tuyền Chi Hải",
@@ -120,7 +182,7 @@
         "zh": "真弱啊，你们这群家伙。"
       },
       "description": {
-        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương 238%.\nCó xác suất 50% [Thi triển] lại kỹ năng này lên mục tiêu kẻ địch ngẫu nhiên.",
+        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương 238%.\nCó xác suất 50% [Thi Triển] lại kỹ năng này lên mục tiêu kẻ địch ngẫu nhiên.",
         "en": "Attacks 1 enemy, dealing damage equal to 238% of his ATK.\nHas a 50% chance of using this skill on a random enemy repeatedly.",
         "zh": "攻击敌方目标，造成攻击238%伤害。\n有50%的概率对随机敌方目标重复施放此技能。"
       },
@@ -128,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至208%",
+            "vi": "Sát thương tăng lên 208%",
             "en": "伤害增加至208%",
             "zh": "伤害增加至208%"
           }
@@ -136,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至218%",
+            "vi": "Sát thương tăng lên 218%",
             "en": "伤害增加至218%",
             "zh": "伤害增加至218%"
           }
@@ -144,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至228%",
+            "vi": "Sát thương tăng lên 228%",
             "en": "伤害增加至228%",
             "zh": "伤害增加至228%"
           }
@@ -152,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至238%",
+            "vi": "Sát thương tăng lên 238%",
             "en": "伤害增加至238%",
             "zh": "伤害增加至238%"
           }
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "276.png",
+    "headIconFile": "276a.png"
   }
 }

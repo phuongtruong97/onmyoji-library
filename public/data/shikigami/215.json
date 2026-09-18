@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2626,
-      "grade": "B"
+      "value": 2921,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
-      "grade": "C"
+      "value": 10709,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 383,
-      "grade": "C"
+      "value": 428,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2151,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Dược Thang",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -106,23 +108,25 @@
       "iconFile": "2151.png"
     },
     {
-      "id": 2153,
+      "id": 2152,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "天降之物",
-        "en": "天降之物",
-        "zh": "天降之物"
+        "vi": "Tông Chậu Súp",
+        "en": "汤盆冲撞",
+        "zh": "汤盆冲撞"
       },
       "intro": {
-        "vi": "嘻嘻~看我把他们砸个底朝天~",
-        "en": "嘻嘻~看我把他们砸个底朝天~",
-        "zh": "嘻嘻~看我把他们砸个底朝天~"
+        "vi": "Đúng rồi, chính là hướng đó đó~ Xông lên mau, a ha ha~",
+        "en": "没错，就是那边~快冲，啊哈哈~",
+        "zh": "没错，就是那边~快冲，啊哈哈~"
       },
       "description": {
-        "vi": "跳入半空，乘着汤碗从天而降，对敌方全体造成攻击158%伤害并有60%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_104]1回合，对未受到沉默效果的单位击退其-20%行动条。",
-        "en": "跳入半空，乘着汤碗从天而降，对敌方全体造成攻击158%伤害并有60%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_104]1回合，对未受到沉默效果的单位击退其-20%行动条。",
-        "zh": "跳入半空，乘着汤碗从天而降，对敌方全体造成攻击158%伤害并有60%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_104]1回合，对未受到沉默效果的单位击退其-20%行动条。"
+        "vi": "Khi kẻ địch đánh thường, tăng 5% Thanh Hành Động.\n[Thi triển] Dùng yêu lực dẫn dắt chậu súp lao về phía mục tiêu phe địch, gây sát thương bằng 158% Tấn công, có 50% [tips_2] xác suất khiến mục tiêu bị [tips_104] 1 lượt, đồng thời đẩy lùi 40% Thanh Hành Động.",
+        "en": "敌方普攻时，增加5%行动条。\n【施放】以妖力引导汤盆冲向敌方目标，造成攻击158%伤害，有50%（+Effect HIT）概率使其[tips_104]1回合，并击退40%行动条。",
+        "zh": "敌方普攻时，增加5%行动条。\n【施放】以妖力引导汤盆冲向敌方目标，造成攻击158%伤害，有50%（+效果命中）概率使其[tips_104]1回合，并击退40%行动条。"
       },
       "upgrades": [
         {
@@ -158,12 +162,70 @@
           }
         }
       ],
+      "orbCost": 1,
+      "iconFile": "2152.png"
+    },
+    {
+      "id": 2153,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Giáng Chi Vật",
+        "en": "天降之物",
+        "zh": "天降之物"
+      },
+      "intro": {
+        "vi": "嘻嘻~看我把他们砸个底朝天~",
+        "en": "嘻嘻~看我把他们砸个底朝天~",
+        "zh": "嘻嘻~看我把他们砸个底朝天~"
+      },
+      "description": {
+        "vi": "Nhảy lên không trung, cưỡi bát súp từ trên trời giáng xuống, gây cho toàn thể phe địch sát thương bằng 158% Tấn công và có 60% [tips_2] xác suất khiến mục tiêu bị [tips_104] 1 lượt, đối với đơn vị không bị hiệu ứng câm lặng sẽ đẩy lùi -20% Thanh Hành Động của họ.",
+        "en": "跳入半空，乘着汤碗从天而降，对敌方全体造成攻击158%伤害并有60%（+Effect HIT）概率使其[tips_104]1回合，对未受到沉默效果的单位击退其-20%行动条。",
+        "zh": "跳入半空，乘着汤碗从天而降，对敌方全体造成攻击158%伤害并有60%（+效果命中）概率使其[tips_104]1回合，对未受到沉默效果的单位击退其-20%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 137%",
+            "en": "伤害增加至137%",
+            "zh": "伤害增加至137%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 144%",
+            "en": "伤害增加至144%",
+            "zh": "伤害增加至144%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 151%",
+            "en": "伤害增加至151%",
+            "zh": "伤害增加至151%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 158%",
+            "en": "伤害增加至158%",
+            "zh": "伤害增加至158%"
+          }
+        }
+      ],
       "orbCost": 3,
       "iconFile": "2153.png"
     }
   ],
   "assets": {
-    "portraitFile": "mengpo.png",
-    "headIconFile": ""
+    "portraitFile": "215.png",
+    "headIconFile": "215a.png"
   }
 }

@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12189,
+      "value": 12191,
       "grade": "A"
     },
     {
@@ -34,7 +34,7 @@
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 114,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5721,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Yên Hoa",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5722,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Như Ảnh",
@@ -120,7 +124,7 @@
         "zh": "庆典人手不足，你被招募了！不能拒绝哦~"
       },
       "description": {
-        "vi": "[tips_11]. Khi chịu sát thương từ kẻ địch, nếu bản thân đang ở trạng thái [tips_27], liền tiến vào [buff_5722_1] (giới hạn tối đa 2 lần trước khi lượt bản thân bắt đầu). Toàn bộ đồng minh không phải vật triệu hồi dưới trạng thái [buff_5722_1] khi chịu sát thương, nhận Lá chắn bằng 15% sát thương gánh chịu, duy trì 2 lượt.\n【Tiên cơ】 Tiến vào Yên Vụ Vô Hình\n【Thi triển】 Lập tức tiến vào [buff_5722_1]. Giúp toàn bộ đồng minh không phải vật triệu hồi nhận Lá chắn bằng 25% HP tối đa, duy trì 2 lượt.",
+        "vi": "[tips_11]. Khi chịu sát thương từ kẻ địch, nếu bản thân đang ở trạng thái [tips_27], liền tiến vào [buff_5722_1] (giới hạn tối đa 2 lần trước khi lượt bản thân bắt đầu). Toàn bộ đồng minh không phải vật triệu hồi dưới trạng thái [buff_5722_1] khi chịu sát thương, nhận Lá chắn bằng 15% sát thương gánh chịu, duy trì 2 lượt.\n【Tiên cơ】 Tiến vào Yên Vụ Vô Hình\n[Thi triển] Lập tức tiến vào [buff_5722_1]. Giúp toàn bộ đồng minh không phải vật triệu hồi nhận Lá chắn bằng 25% HP tối đa, duy trì 2 lượt.",
         "en": "[tips_11]. When she takes damage from enemies, if she's [tips_27], she becomes an [buff_5722_1] (triggers up to 2 times before her next turn.) While she's an [buff_5722_1], for all non-summoned ally entities, when they take damage, creates a shield to protect them, absorbing damage equal to 15% of the damage taken for 2 turns.\n Upper Hand: She becomes an Incorporeal Smoke.\nActive skill: She becomes an [buff_5722_1] and creates a shield to protect all non-summoned ally entities, absorbing damage equal to 25% of her max HP for 2 turns.",
         "zh": "[tips_11]。受到敌方伤害时，若自身处于[tips_27]，则进入[buff_5722_1]（自身回合开始前限2次）。[buff_5722_1]下非召唤物的友方全体在受到伤害时，获得等量于受到伤害15%的护盾，持续2回合。\n【先机】进入烟雾无形\n【施放】立刻进入[buff_5722_1]。使非召唤物的友方全体获得等量于最大生命25%的护盾，持续2回合。"
       },
@@ -128,7 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Lá chắn nhận được khi thi triển nâng lên 22% HP tối đa",
+            "vi": "Lá chắn nhận được khi thi triển tăng lên 22% HP tối đa",
             "en": "Increases the shield she creates when using the skill to 22% of her max HP.",
             "zh": "施放时获得的护盾提升至最大生命的22%"
           }
@@ -144,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Lá chắn nhận được khi thi triển nâng lên 25% HP tối đa",
+            "vi": "Lá chắn nhận được khi thi triển tăng lên 25% HP tối đa",
             "en": "Increases the shield she creates when using the skill to 25% of her max HP.",
             "zh": "施放时获得的护盾提升至最大生命的25%"
           }
@@ -164,6 +168,8 @@
     {
       "id": 5723,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Dạ Mạc Hoa Thái",
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Trong trạng thái Yên Vụ Vô Hình, nếu phe địch không có Yên Chi Quỷ, xác suất cơ bản nâng lên 72%",
+            "vi": "Trong trạng thái Yên Vụ Vô Hình, nếu phe địch không có Yên Chi Quỷ, xác suất cơ bản tăng lên 72%",
             "en": "While she's an Incorporeal Smoke, if no enemy is a Smoke Phantom, increases the base chance to 72%.",
             "zh": "烟雾无形下，若敌方无烟之鬼，则基础概率提升至72%"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "sp_yanyanluo.png",
-    "headIconFile": ""
+    "portraitFile": "572.png",
+    "headIconFile": "572a.png"
   }
 }

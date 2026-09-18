@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2144,
-      "grade": "C"
+      "value": 2412,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10822,
-      "grade": "B"
+      "value": 11963,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 418,
-      "grade": "B"
+      "value": 463,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 109,
-      "grade": "A"
+      "value": 119,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2571,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nhập Miên",
@@ -64,15 +66,15 @@
         "zh": "噗噗~快进入梦乡吧～"
       },
       "description": {
-        "vi": "尝试让敌方目标陷入噩梦，造成攻击100%伤害，20%概率驱散所有增益状态，20%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_102]，持续1回合。",
-        "en": "尝试让敌方目标陷入噩梦，造成攻击100%伤害，20%概率驱散所有增益状态，20%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_102]，持续1回合。",
-        "zh": "尝试让敌方目标陷入噩梦，造成攻击100%伤害，20%概率驱散所有增益状态，20%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_102]，持续1回合。"
+        "vi": "Thử khiến mục tiêu phe địch rơi vào ác mộng, gây sát thương bằng 100% Tấn công, 20% xác suất giải trừ toàn bộ trạng thái tăng ích, 20% [tips_2] xác suất khiến mục tiêu bị [tips_102], duy trì 1 lượt.",
+        "en": "尝试让敌方目标陷入噩梦，造成攻击100%伤害，20%概率驱散所有增益状态，20%（+Effect HIT）概率使其[tips_102]，持续1回合。",
+        "zh": "尝试让敌方目标陷入噩梦，造成攻击100%伤害，20%概率驱散所有增益状态，20%（+效果命中）概率使其[tips_102]，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害增加至85%",
             "zh": "伤害增加至85%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害增加至90%",
             "zh": "伤害增加至90%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至95%",
+            "vi": "Sát thương tăng lên 95%",
             "en": "伤害增加至95%",
             "zh": "伤害增加至95%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2572,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Ngủ say",
@@ -131,6 +135,8 @@
     {
       "id": 2573,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Kẻ Ăn Mơ",
@@ -143,9 +149,9 @@
         "zh": "噗噗～你的梦，就让我吃掉吧！"
       },
       "description": {
-        "vi": "Tiềm nhập vào giấc mơ của kẻ địch, khiến toàn bộ kẻ địch có 50%（+[*|a_debuff-acc_per|s_buff概率_per]） xác suất [tips_102], duy trì 1~2 lượt.",
-        "en": "Enters the dreams of each enemy. Has a 50% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_102] lasting 1-2 turns on all enemies.",
-        "zh": "潜入敌人梦中，使敌方全体有50%（+[*|a_debuff-acc_per|s_buff概率_per]）概率[tips_102]，持续1~2回合。"
+        "vi": "Tiềm nhập vào giấc mơ của kẻ địch, khiến toàn bộ kẻ địch có 50%（+Chính Xác Hiệu Ứng） xác suất [tips_102], duy trì 1~2 lượt.",
+        "en": "Enters the dreams of each enemy. Has a 50% (+Effect HIT) chance of inflicting [tips_102] lasting 1-2 turns on all enemies.",
+        "zh": "潜入敌人梦中，使敌方全体有50%（+效果命中）概率[tips_102]，持续1~2回合。"
       },
       "upgrades": [
         {
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "shimengmo.png",
-    "headIconFile": ""
+    "portraitFile": "257.png",
+    "headIconFile": "257a.png"
   }
 }

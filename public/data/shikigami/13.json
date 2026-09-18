@@ -52,9 +52,11 @@
     {
       "id": 1301,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "破魔矢",
+        "vi": "Phá Ma Tiễn",
         "en": "破魔矢",
         "zh": "破魔矢"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 1302,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đa Trọng Tiễn",
@@ -128,7 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -164,9 +168,11 @@
     {
       "id": 1303,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "诛邪箭",
+        "vi": "Tru Tà Tiễn",
         "en": "诛邪箭",
         "zh": "诛邪箭"
       },
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_zhujue04.png"
+    "portraitFile": "13.png",
+    "headIconFile": "13a.png"
   }
 }

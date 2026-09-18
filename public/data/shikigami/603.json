@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3323,
+      "value": 3591,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
-      "grade": "B"
+      "value": 11393,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 379,
-      "grade": "C"
+      "value": 423,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 105,
+      "value": 115,
       "grade": "A"
     },
     {
@@ -46,12 +46,14 @@
   "secondaryStats": {
     "critDamage": "150%",
     "effectHit": "0%",
-    "effectRes": "0%"
+    "effectRes": "30%"
   },
   "skills": [
     {
       "id": 6031,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Chấn Quyền",
@@ -108,6 +110,8 @@
     {
       "id": 6032,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Giới · Định · Tuệ",
@@ -120,9 +124,9 @@
         "zh": "你们几个，都过来一起修行。"
       },
       "description": {
-        "vi": "[tips_11]. Tâm niệm gióng trống, voi lành trợ uy. Thức tỉnh [tips_6032] trên sân, [tips_15] 3 lượt. Khi [tips_6032] có mặt trên sân, liền gióng vang [tips_6032], nhận 1 điểm Quỷ Hỏa, 2 tầng [buff_6031_1] và tăng 10% Thanh Hành Động cho toàn bộ phe ta; khi gióng vang [tips_6032], khiến 2 kẻ địch có tỷ lệ HP thấp nhất mất 10% HP tối đa (không vượt quá 100% Tấn công ban đầu của Bì Sa Môn Thiên); khi kẻ địch mất HP, Bì Sa Môn Thiên nhận 1 tầng [buff_6033_1] (mỗi lần hành động tối đa 6 tầng). Khi Trống Voi có mặt trên sân, bản thân gánh chịu 30% sát thương đơn thể đồng minh chịu phải; Tiên Cơ: Thi triển 『Giới · Định · Tuệ』.",
+        "vi": "[tips_11]. Tâm niệm gióng trống, voi lành trợ uy. Thức tỉnh [tips_6032] trên sân, [tips_15] 3 lượt. Khi [tips_6032] có mặt trên sân, liền gióng vang [tips_6032], nhận 1 điểm Quỷ Hỏa, 2 tầng [buff_6031_1] và tăng 10% Thanh Hành Động cho toàn bộ phe ta; khi gióng vang [tips_6032], khiến 2 kẻ địch có tỷ lệ HP thấp nhất mất 10% HP tối đa (không vượt quá 100% Tấn công ban đầu của Bì Sa Môn Thiên); khi kẻ địch mất HP, Bì Sa Môn Thiên nhận 1 tầng [buff_6033_1] (mỗi lần hành động tối đa 6 tầng). Khi Trống Voi có mặt trên sân, bản thân gánh chịu 30% sát thương đơn thể đồng minh chịu phải; Tiên Cơ: Thi triển [Giới · Định · Tuệ].",
         "en": "[tips_11]. With a rallying drumbeat and elephant's cheer, awaken [tips_6032] on the field, [tips_15] for 3 turns. If [tips_6032] is already on the field, sound [tips_6032] instead, gaining 1 orb, 2 stacks of [buff_6031_1], and raising all allies' Move Bar by 10%. When [tips_6032] sounds, the 2 enemies with the lowest HP ratio lose 10% of their Max HP, up to 100% of Bishamonten's starting ATK. Whenever an enemy loses HP, Bishamonten gains 1 stack of [buff_6033_1], up to 6 stacks per action. While Elephant Drum is on the field, this unit shares 30% of the single-target damage allies take. Upper Hand: casts Discipline.",
-        "zh": "[tips_11]。心念鸣鼓，福象助威。在场上唤醒[tips_6032]，[tips_15]3回合。[tips_6032]在场时，则鸣响[tips_6032]，获得1点鬼火、2层[buff_6031_1]并提升友方全体10%行动条；鸣响[tips_6032]时，使生命比例最低的2个敌方失去最大生命的10%（不超过毗沙门天初始攻击100%）；敌方失去生命时，毗沙门天获得1层[buff_6033_1]（每次行动至多6层）。象鼓在场时，自身分担友方受到单体伤害的30%；先机：施放『戒·定·慧』。"
+        "zh": "[tips_11]。心念鸣鼓，福象助威。在场上唤醒[tips_6032]，[tips_15]3回合。[tips_6032]在场时，则鸣响[tips_6032]，获得1点鬼火、2层[buff_6031_1]并提升友方全体10%行动条；鸣响[tips_6032]时，使生命比例最低的2个敌方失去最大生命的10%（不超过毗沙门天初始攻击100%）；敌方失去生命时，毗沙门天获得1层[buff_6033_1]（每次行动至多6层）。象鼓在场时，自身分担友方受到单体伤害的30%；先机：施放『戒·定·慧]。"
       },
       "upgrades": [
         {
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Tiên Cơ: Thi triển 『Giới · Định · Tuệ』",
+            "vi": "Tiên Cơ: Thi triển [Giới · Định · Tuệ]",
             "en": "Upper Hand: Cast Discipline",
-            "zh": "先机：施放『戒·定·慧』"
+            "zh": "先机：施放『戒·定·慧]"
           }
         }
       ],
@@ -164,9 +168,11 @@
     {
       "id": 6033,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Hát Thiên Phục Ma Côn",
+        "vi": "Hám Thiên Phục Ma Côn",
         "en": "Heavenbreaker Staff",
         "zh": "撼天伏魔棍"
       },
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "603.png",
+    "headIconFile": "603a.png"
   }
 }

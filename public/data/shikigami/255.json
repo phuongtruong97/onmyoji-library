@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2197,
-      "grade": "C"
+      "value": 2466,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10822,
-      "grade": "B"
+      "value": 11963,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 410,
-      "grade": "B"
+      "value": 454,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 107,
-      "grade": "A"
+      "value": 127,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2551,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quỷ Diện",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2552,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đoạt Hồn",
@@ -120,9 +124,9 @@
         "zh": "你的灵魂属于我了。"
       },
       "description": {
-        "vi": "Diêm Ma nhận [buff_2554_1].\nKhi kẻ địch Tử Trận triệu hồi 1 bạch tiểu quỷ tại vị trí đó, bạch tiểu quỷ trong lần hành động tiếp theo hi sinh và gây cho toàn bộ phe địch sát thương bằng 100% Tấn công, sát thương này không kích hoạt Ngự Hồn và hiệu ứng Nội tại của kẻ địch.\nBạch tiểu quỷ kế thừa [z_生命继承比_per] HP, [z_攻击继承比_per] Tấn công của Diêm Ma; kẻ địch bị bạch tiểu quỷ chiếm vị trí không thể hồi sinh.\n『Oán Hồn Trùng Áp』 có 70% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất [tips_107] mục tiêu kẻ địch thành hắc tiểu quỷ, duy trì 1 lượt.",
-        "en": "Enma gains [buff_2554_1].\nSummons 1 White Ghost when an enemy is KO'd. The White Ghost sacrifices itself to attack all enemies on its next action, dealing damage equal to 100% of her ATK. The damage dealt won't trigger the Soul-set effects and passive skills of all enemies.\nThe White Ghost inherits [z_生命继承比_per] of Enma's HP and [z_攻击继承比_per] of her ATK. The enemy whose spot is occupied by the White Ghost cannot be revived.\nSpirit Crush has a 70% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of turning a [tips_107]ed enemy into a Black Ghost for 1 turn.",
-        "zh": "阎魔获得[buff_2554_1]。\n敌方阵亡时在其位置召唤1个白色小鬼，小鬼在下次行动时牺牲并对敌方全体造成攻击100%伤害，该伤害不触发敌方的御魂和被动效果。\n小鬼继承阎魔[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击；被小鬼占位的敌方无法被复活。\n『怨魂重压』有70%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将敌方目标[tips_107]为黑色小鬼，持续1回合。"
+        "vi": "Diêm Ma nhận [buff_2554_1].\nKhi kẻ địch Tử Trận triệu hồi 1 bạch tiểu quỷ tại vị trí đó, bạch tiểu quỷ trong lần hành động tiếp theo hi sinh và gây cho toàn bộ phe địch sát thương bằng 100% Tấn công, sát thương này không kích hoạt Ngự Hồn và hiệu ứng Nội tại của kẻ địch.\nBạch tiểu quỷ kế thừa [z_生命继承比_per] HP, [z_攻击继承比_per] Tấn công của Diêm Ma; kẻ địch bị bạch tiểu quỷ chiếm vị trí không thể hồi sinh.\n『Oán Hồn Trùng Áp] có 70% [tips_2] xác suất [tips_107] mục tiêu kẻ địch thành hắc tiểu quỷ, duy trì 1 lượt.",
+        "en": "Enma gains [buff_2554_1].\nSummons 1 White Ghost when an enemy is KO'd. The White Ghost sacrifices itself to attack all enemies on its next action, dealing damage equal to 100% of her ATK. The damage dealt won't trigger the Soul-set effects and passive skills of all enemies.\nThe White Ghost inherits [z_生命继承比_per] of Enma's HP and [z_攻击继承比_per] of her ATK. The enemy whose spot is occupied by the White Ghost cannot be revived.\nSpirit Crush has a 70% (+Effect HIT) chance of turning a [tips_107]ed enemy into a Black Ghost for 1 turn.",
+        "zh": "阎魔获得[buff_2554_1]。\n敌方阵亡时在其位置召唤1个白色小鬼，小鬼在下次行动时牺牲并对敌方全体造成攻击100%伤害，该伤害不触发敌方的御魂和被动效果。\n小鬼继承阎魔[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击；被小鬼占位的敌方无法被复活。\n『怨魂重压]有70%（+效果命中）概率将敌方目标[tips_107]为黑色小鬼，持续1回合。"
       },
       "upgrades": [
         {
@@ -164,6 +168,8 @@
     {
       "id": 2553,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Oán Hồn Trùng Áp",
@@ -176,15 +182,15 @@
         "zh": "屈服于我！"
       },
       "description": {
-        "vi": "唤出亡灵攻击敌方目标，造成攻击255%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_104]2回合。",
-        "en": "唤出亡灵攻击敌方目标，造成攻击255%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_104]2回合。",
-        "zh": "唤出亡灵攻击敌方目标，造成攻击255%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_104]2回合。"
+        "vi": "Gọi vong linh tấn công mục tiêu phe địch, gây sát thương bằng 255% Tấn công và có 100% [tips_2] xác suất khiến mục tiêu bị [tips_104] 2 lượt.",
+        "en": "唤出亡灵攻击敌方目标，造成攻击255%伤害并有100%（+Effect HIT）概率使其[tips_104]2回合。",
+        "zh": "唤出亡灵攻击敌方目标，造成攻击255%伤害并有100%（+效果命中）概率使其[tips_104]2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至222%",
+            "vi": "Sát thương tăng lên 222%",
             "en": "伤害增加至222%",
             "zh": "伤害增加至222%"
           }
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至233%",
+            "vi": "Sát thương tăng lên 233%",
             "en": "伤害增加至233%",
             "zh": "伤害增加至233%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至244%",
+            "vi": "Sát thương tăng lên 244%",
             "en": "伤害增加至244%",
             "zh": "伤害增加至244%"
           }
@@ -208,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至255%",
+            "vi": "Sát thương tăng lên 255%",
             "en": "伤害增加至255%",
             "zh": "伤害增加至255%"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_yanmo.png"
+    "portraitFile": "255.png",
+    "headIconFile": "255a.png"
   }
 }

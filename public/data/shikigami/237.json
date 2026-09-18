@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2599,
-      "grade": "B"
+      "value": 2894,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
-      "grade": "C"
+      "value": 10709,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 388,
-      "grade": "C"
+      "value": 432,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 105,
+      "value": 115,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2371,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ai Còn Không Nghe Lời",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,11 +108,63 @@
       "iconFile": "2371.png"
     },
     {
-      "id": 2373,
+      "id": 2372,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 4,
+      "name": {
+        "vi": "Thố Tử Vũ",
+        "en": "兔子舞",
+        "zh": "兔子舞"
+      },
+      "intro": {
+        "vi": "Hây~ a~ Bé con nhảy múa cổ vũ mọi người đây nè~",
+        "en": "嘿~哈~宝宝给大家跳舞加油了哦~",
+        "zh": "嘿~哈~宝宝给大家跳舞加油了哦~"
+      },
+      "description": {
+        "vi": "Nhảy múa cổ vũ đồng đội, tăng 30% Thanh Hành Động cho toàn thể đồng minh, đồng thời tăng 20% Tấn công, duy trì 2 lượt.",
+        "en": "跳起舞为队友鼓劲，使友方全体增加30%行动条，并提升20%攻击，持续2回合。",
+        "zh": "跳起舞为队友鼓劲，使友方全体增加30%行动条，并提升20%攻击，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công của [buff_2372_1] tăng đến 15%.",
+            "en": "Increases [buff_2372_1]'s ATK boost effect to 15%.",
+            "zh": "[buff_2372_1]提升攻击效果增至15%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu quả tăng tấn công của [buff_2372_1] tăng đến 20%.",
+            "en": "Increases [buff_2372_1]'s ATK boost effect to 20%.",
+            "zh": "[buff_2372_1]提升攻击效果增至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sau khi [Thi triển] Thỏ Tử Vũ, khiến hiệu quả tăng tấn công của đồng minh ở vị trí cuối cùng của thanh hành động tăng đến 40%.",
+            "en": "After she takes an action, the ally at the bottom of the turn order gains a 40% ATK increase from Bunny Dance.",
+            "zh": "施放兔子舞后，使行动条最底端的友方提升攻击效果增至40%"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconFile": "2372.png"
+    },
+    {
+      "id": 2373,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "幸运套环",
+        "vi": "Hạnh Phúc Sáo Hoàn",
         "en": "幸运套环",
         "zh": "幸运套环"
       },
@@ -120,15 +174,15 @@
         "zh": "呱呱~你说宝宝套哪个奖品好呢~"
       },
       "description": {
-        "vi": "Lấy kẻ địch làm phần thưởng của vòng may mắn, ném vòng tấn công mục tiêu kẻ địch, gây sát thương 285% đồng thời có xác suất 10% (+[*|a_debuff-acc_per|s_参数p1_per]) [tips_107] mục tiêu trong 2 lượt.",
-        "en": "Throws a ring at 1 enemy as if they're a prize in a ring toss game, dealing damage equal to 285% of her ATK with a 10% (+[*|a_debuff-acc_per|s_参数p1_per]) chance of inflicting [tips_107] on them for 2 turn(s).",
-        "zh": "把敌人当做幸运套环的奖品，丢出套环攻击敌方目标，造成攻击285%伤害并有10%（+[*|a_debuff-acc_per|s_参数p1_per]）概率将其[tips_107]，持续2回合。"
+        "vi": "Lấy kẻ địch làm phần thưởng của vòng may mắn, ném vòng tấn công mục tiêu kẻ địch, gây sát thương 285% đồng thời có xác suất 10% (+Chính Xác Hiệu Ứng × 10%) [tips_107] mục tiêu trong 2 lượt.",
+        "en": "Throws a ring at 1 enemy as if they're a prize in a ring toss game, dealing damage equal to 285% of her ATK with a 10% (+Effect HIT × 10%) chance of inflicting [tips_107] on them for 2 turn(s).",
+        "zh": "把敌人当做幸运套环的奖品，丢出套环攻击敌方目标，造成攻击285%伤害并有10%（+效果命中 × 10%）概率将其[tips_107]，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至249%",
+            "vi": "Sát thương tăng lên 249%",
             "en": "伤害增加至249%",
             "zh": "伤害增加至249%"
           }
@@ -136,7 +190,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至261%",
+            "vi": "Sát thương tăng lên 261%",
             "en": "伤害增加至261%",
             "zh": "伤害增加至261%"
           }
@@ -144,7 +198,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至273%",
+            "vi": "Sát thương tăng lên 273%",
             "en": "伤害增加至273%",
             "zh": "伤害增加至273%"
           }
@@ -152,9 +206,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sát thương tăng đến 285%, nếu kích hoạt biến hình thành công, lập tức [Thi triển] 1 lần «Thỏ Tử Vũ» không tốn tiêu hao.",
+            "vi": "Sát thương tăng đến 285%, nếu kích hoạt biến hình thành công, lập tức [Thi triển] 1 lần [Thỏ Tử Vũ] không tốn tiêu hao.",
             "en": "Increases the damage to 285%. If she manages to inflict Morph on the target, she immediately uses Bunny Dance again without spending any orbs.",
-            "zh": "伤害增加至285%，若有成功触发变形，则立即施放一次无消耗的『兔子舞』"
+            "zh": "伤害增加至285%，若有成功触发变形，则立即施放一次无消耗的『兔子舞]"
           }
         }
       ],
@@ -163,7 +217,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "shantu.png",
-    "headIconFile": "h_shantu.png"
+    "portraitFile": "237.png",
+    "headIconFile": "237a.png"
   }
 }

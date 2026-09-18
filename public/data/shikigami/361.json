@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2251,
-      "grade": "C"
+      "value": 2492,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10822,
-      "grade": "B"
+      "value": 11963,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 410,
-      "grade": "B"
+      "value": 450,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -46,12 +46,14 @@
   "secondaryStats": {
     "critDamage": "150%",
     "effectHit": "0%",
-    "effectRes": "0%"
+    "effectRes": "60%"
   },
   "skills": [
     {
       "id": 3611,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bẩn Bựa",
@@ -108,6 +110,8 @@
     {
       "id": 3612,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Kỳ Cọ",
@@ -131,6 +135,8 @@
     {
       "id": 3613,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hốt Trọn Một Lứa",
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_gouchang.png"
+    "portraitFile": "361.png",
+    "headIconFile": "361a.png"
   }
 }

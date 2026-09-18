@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2760,
-      "grade": "A"
+      "value": 3055,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9227,
-      "grade": "C"
+      "value": 10254,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 379,
-      "grade": "C"
+      "value": 423,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 106,
+      "value": 116,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2101,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hoạt Tử Nhân",
@@ -64,15 +66,15 @@
         "zh": "冥界的亡魂们，听我召唤！"
       },
       "description": {
-        "vi": "Hội tụ sức mạnh minh giới tấn công mục tiêu kẻ địch, gây sát thương 120% và có 100% [tips_2] giảm trị liệu [b_属性1数值_per], duy trì 2 lượt.",
-        "en": "Focuses the power of Underworld to attack 1 enemy, dealing damage equal to 120% of his ATK with a 100% [tips_2] of inflicting a [b_属性1数值_per] Heal Down lasting 2 turn(s) on them.",
-        "zh": "汇聚冥界力量攻击敌方目标，造成攻击120%伤害并有100%[tips_2]减疗[b_属性1数值_per]。持续2回合。"
+        "vi": "Hội tụ sức mạnh minh giới tấn công mục tiêu kẻ địch, gây sát thương 120% và có 100% [tips_2] giảm trị liệu 40%, duy trì 2 lượt.",
+        "en": "Focuses the power of Underworld to attack 1 enemy, dealing damage equal to 120% of his ATK with a 100% [tips_2] of inflicting a 40% Heal Down lasting 2 turn(s) on them.",
+        "zh": "汇聚冥界力量攻击敌方目标，造成攻击120%伤害并有100%[tips_2]减疗40%。持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2102,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồn Thú",
@@ -120,7 +124,7 @@
         "zh": "时间到了，让我送你去冥界吧。"
       },
       "description": {
-        "vi": "Khi kẻ địch không phải vật triệu hồi hy sinh, tăng 50% thanh hành động.\n【Thi triển】 Triệu hồi 1 tiểu quỷ màu trắng tại vị trí của tất cả kẻ địch đã hy sinh, tiểu quỷ sẽ hy sinh và tấn công toàn thể kẻ địch trong lần hành động tiếp theo, gây 100% [tips_5] tấn công.\nTiểu quỷ kế thừa [z_生命继承比_per] giá trị HP, [z_攻击继承比_per] tấn công của Quỷ Sứ Bạch; kẻ địch bị tiểu quỷ chiếm vị trí không thể hồi sinh.",
+        "vi": "Khi kẻ địch không phải vật triệu hồi hy sinh, tăng 50% thanh hành động.\n[Thi triển] Triệu hồi 1 tiểu quỷ màu trắng tại vị trí của tất cả kẻ địch đã hy sinh, tiểu quỷ sẽ hy sinh và tấn công toàn thể kẻ địch trong lần hành động tiếp theo, gây 100% [tips_5] tấn công.\nTiểu quỷ kế thừa [z_生命继承比_per] giá trị HP, [z_攻击继承比_per] tấn công của Quỷ Sứ Bạch; kẻ địch bị tiểu quỷ chiếm vị trí không thể hồi sinh.",
         "en": "When a non-summoned enemy entity is KO'd, raises his Move Bar by 50%.\nUsing the skill summons 1 White Ghost from where each enemy was KO'd. Each of the White Ghosts sacrifices itself to attack all enemies on its next action turn, dealing [tips_5] equal to 100% of his ATK.\nEach of the White Ghosts inherits [z_生命继承比_per] of Shiro Mujou's HP and [z_攻击继承比_per] of his ATK. The enemy whose spot is occupied by a White Ghost cannot be revived.",
         "zh": "非召唤物的敌方阵亡时，增加50%行动条。\n【施放】在所有阵亡的敌方位置召唤1个白色小鬼，小鬼在下次行动时牺牲并攻击敌方全体，造成攻击100%[tips_5]。\n小鬼继承鬼使白[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击；被小鬼占位的敌方无法被复活。"
       },
@@ -164,6 +168,8 @@
     {
       "id": 2103,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 7,
       "name": {
         "vi": "Vô Thường Đoạt Mệnh",
@@ -184,89 +190,33 @@
         {
           "level": 2,
           "text": {
-            "vi": "[tips_5] tăng lên [b2_参数p1_per]",
-            "en": "Increases [tips_5] to [b2_参数p1_per].",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "[tips_5] tăng lên [b2_参数p1_per]",
-            "en": "Increases [tips_5] to [b2_参数p1_per].",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "[tips_5] tăng lên [b2_参数p1_per]",
-            "en": "Increases [tips_5] to [b2_参数p1_per].",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
+            "vi": "[tips_5] tăng lên 167%",
+            "en": "Increases [tips_5] to 167%.",
+            "zh": "[tips_5]增至167%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "[tips_5]增至[b2_参数p1_per]",
-            "en": "[tips_5]增至[b2_参数p1_per]",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
+            "vi": "[tips_5] tăng lên 174%",
+            "en": "Increases [tips_5] to 174%.",
+            "zh": "[tips_5]增至174%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "[tips_5] tăng lên [b2_参数p1_per]",
-            "en": "Increases [tips_5] to [b2_参数p1_per].",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "[tips_5] tăng lên [b2_参数p1_per]",
-            "en": "Increases [tips_5] to [b2_参数p1_per].",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
+            "vi": "[tips_5]增至174%",
+            "en": "[tips_5]增至174%",
+            "zh": "[tips_5]增至174%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "[tips_5]增至[b2_参数p1_per]",
-            "en": "[tips_5]增至[b2_参数p1_per]",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[tips_5]增至[b2_参数p1_per]",
-            "en": "[tips_5]增至[b2_参数p1_per]",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[tips_5]增至[b2_参数p1_per]",
-            "en": "[tips_5]增至[b2_参数p1_per]",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Số lượt duy trì tăng đến 2 lượt.",
-            "en": "Increases duration to 2 turns.",
-            "zh": "持续回合增至2回合"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Số lượt duy trì tăng đến 2 lượt.",
-            "en": "Increases duration to 2 turns.",
-            "zh": "持续回合增至2回合"
+            "vi": "[tips_5]增至182%",
+            "en": "[tips_5]增至182%",
+            "zh": "[tips_5]增至182%"
           }
         },
         {
@@ -299,7 +249,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "baiwuchang.png",
-    "headIconFile": "h_baiwuchang.png"
+    "portraitFile": "210.png",
+    "headIconFile": "210a.png"
   }
 }

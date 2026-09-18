@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2170,
+      "value": 2385,
       "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12303,
-      "grade": "A"
+      "value": 13330,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 379,
-      "grade": "C"
+      "value": 415,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2731,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ma Kha",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2732,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Vô Lượng",
@@ -131,6 +135,8 @@
     {
       "id": 2733,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 6,
       "name": {
         "vi": "Thiền Tâm",
@@ -143,7 +149,7 @@
         "zh": "佛门清净，不可造次。"
       },
       "description": {
-        "vi": "使用灵咒攻击敌方全体，造成攻击222%伤害，对召唤物造成双倍伤害。青坊主杀心受[buff_2732_1]抑制，每层降低10%伤害。",
+        "vi": "Dùng linh chú tấn công toàn thể phe địch, gây sát thương bằng 222% Tấn công, gây gấp đôi sát thương lên vật triệu hồi. Sát tâm của Thanh Phường Chủ bị [buff_2732_1] ức chế, mỗi tầng giảm 10% sát thương.",
         "en": "使用灵咒攻击敌方全体，造成攻击222%伤害，对召唤物造成双倍伤害。青坊主杀心受[buff_2732_1]抑制，每层降低10%伤害。",
         "zh": "使用灵咒攻击敌方全体，造成攻击222%伤害，对召唤物造成双倍伤害。青坊主杀心受[buff_2732_1]抑制，每层降低10%伤害。"
       },
@@ -151,23 +157,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至195%",
-            "en": "伤害增加至195%",
-            "zh": "伤害增加至195%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至195%",
-            "en": "伤害增加至195%",
-            "zh": "伤害增加至195%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至195%",
+            "vi": "Sát thương tăng lên 195%",
             "en": "伤害增加至195%",
             "zh": "伤害增加至195%"
           }
@@ -175,23 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至204%",
-            "en": "伤害增加至204%",
-            "zh": "伤害增加至204%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至204%",
-            "en": "伤害增加至204%",
-            "zh": "伤害增加至204%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至204%",
+            "vi": "Sát thương tăng lên 204%",
             "en": "伤害增加至204%",
             "zh": "伤害增加至204%"
           }
@@ -199,23 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至213%",
-            "en": "伤害增加至213%",
-            "zh": "伤害增加至213%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至213%",
-            "en": "伤害增加至213%",
-            "zh": "伤害增加至213%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至213%",
+            "vi": "Sát thương tăng lên 213%",
             "en": "伤害增加至213%",
             "zh": "伤害增加至213%"
           }
@@ -223,23 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至222%",
-            "en": "伤害增加至222%",
-            "zh": "伤害增加至222%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "伤害增加至222%",
-            "en": "伤害增加至222%",
-            "zh": "伤害增加至222%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "伤害增加至222%",
+            "vi": "Sát thương tăng lên 222%",
             "en": "伤害增加至222%",
             "zh": "伤害增加至222%"
           }
@@ -247,7 +189,7 @@
         {
           "level": 6,
           "text": {
-            "vi": "伤害增加至222%",
+            "vi": "Sát thương tăng lên 222%",
             "en": "伤害增加至222%",
             "zh": "伤害增加至222%"
           }
@@ -258,7 +200,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "273.png",
+    "headIconFile": "273a.png"
   }
 }

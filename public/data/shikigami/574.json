@@ -10,18 +10,18 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3108,
+      "value": 3109,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11505,
+      "value": 11507,
       "grade": "A"
     },
     {
@@ -34,7 +34,7 @@
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 110,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5741,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Tâm Trảm",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5742,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tàn Tâm · Tước Thủ",
@@ -164,6 +168,8 @@
     {
       "id": 5743,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lãng Khách Quy Đao",
@@ -176,9 +182,9 @@
         "zh": "以心作刃，为君拔刀！"
       },
       "description": {
-        "vi": "[tips_11]. Giúp bản thân, Âm Dương Sư và Thức Thần phe ta có tỷ lệ HP thấp nhất nhận [tips_6] có thể hấp thụ sát thương bằng 120% Tấn công của Tâm Hữu Khuyển Thần, bản thân tiến vào [buff_5744_1], duy trì 2 lượt. Nếu Âm Dương Sư trong lượt không gây sát thương, khi kết thúc lượt Tâm Hữu Khuyển Thần thi triển 『Nhất Thệ Quy Tâm』. Tiên Cơ: Thi triển 『Lãng Khách Quy Đao』.",
+        "vi": "[tips_11]. Giúp bản thân, Âm Dương Sư và Thức Thần phe ta có tỷ lệ HP thấp nhất nhận [tips_6] có thể hấp thụ sát thương bằng 120% Tấn công của Tâm Hữu Khuyển Thần, bản thân tiến vào [buff_5744_1], duy trì 2 lượt. Nếu Âm Dương Sư trong lượt không gây sát thương, khi kết thúc lượt Tâm Hữu Khuyển Thần thi triển [Nhất Thệ Quy Tâm]. Tiên Cơ: Thi triển [Lãng Khách Quy Đao].",
         "en": "[tips_11]. Creates a [tips_6] to protect himself, the onmyoji, and the shikigami ally with the lowest proportion of HP, absorbing damage equal to 120% of Bosombuddy Inugami's ATK. Grants himself [buff_5744_1] lasting for 2 turns. If the onmyoji deals no damage on their turn, at the end of their turn, Bosombuddy Inugami uses Promised Return. Upper Hand: Uses Wanderer's Return.",
-        "zh": "[tips_11]。使自身、阴阳师与生命比例最低的友方式神获得可吸收心友犬神攻击120%伤害的[tips_6]，自身进入[buff_5744_1]，维持2回合。若阴阳师在回合内未造成伤害，回合结束时心友犬神施放『一誓归心』。先机：施放『浪客归刀』。"
+        "zh": "[tips_11]。使自身、阴阳师与生命比例最低的友方式神获得可吸收心友犬神攻击120%伤害的[tips_6]，自身进入[buff_5744_1]，维持2回合。若阴阳师在回合内未造成伤害，回合结束时心友犬神施放『一誓归心]。先机：施放『浪客归刀]。"
       },
       "upgrades": [
         {
@@ -192,25 +198,25 @@
         {
           "level": 3,
           "text": {
-            "vi": "Nếu Âm Dương Sư trong lượt không gây sát thương, khi kết thúc lượt Tâm Hữu Khuyển Thần thi triển 『Nhất Thệ Quy Tâm』",
+            "vi": "Nếu Âm Dương Sư trong lượt không gây sát thương, khi kết thúc lượt Tâm Hữu Khuyển Thần thi triển [Nhất Thệ Quy Tâm]",
             "en": "If the onmyoji deals no damage on their turn, at the end of their turn, Bosombuddy Inugami uses Promised Return.",
-            "zh": "若阴阳师在回合内未造成伤害，回合结束时心友犬神施放『一誓归心』"
+            "zh": "若阴阳师在回合内未造成伤害，回合结束时心友犬神施放『一誓归心]"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "『Nhất Thệ Quy Tâm』 sau khi tấn công mục tiêu trong trạng thái [buff_5742_1], bản thân lập tức Đánh Thường vào mục tiêu đó 1 lần",
+            "vi": "『Nhất Thệ Quy Tâm] sau khi tấn công mục tiêu trong trạng thái [buff_5742_1], bản thân lập tức Đánh Thường vào mục tiêu đó 1 lần",
             "en": "When Promised Return attacks an enemy with [buff_5742_1], he follows up with a normal attack on the enemy.",
-            "zh": "『一誓归心』攻击处于[buff_5742_1]的目标后，自身立即普攻该目标1次"
+            "zh": "『一誓归心]攻击处于[buff_5742_1]的目标后，自身立即普攻该目标1次"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Tiên Cơ: Thi triển 『Lãng Khách Quy Đao』",
+            "vi": "Tiên Cơ: Thi triển [Lãng Khách Quy Đao]",
             "en": "Upper Hand: Uses Wanderer's Return.",
-            "zh": "先机：施放『浪客归刀』"
+            "zh": "先机：施放『浪客归刀]"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "sp_quanshen.png",
-    "headIconFile": ""
+    "portraitFile": "574.png",
+    "headIconFile": "574a.png"
   }
 }

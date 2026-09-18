@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 13556,
+      "value": 13558,
       "grade": "S"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 5781,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tíu Tít Vui Vẻ",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5782,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Chủ Khách Cùng Vui",
@@ -164,6 +168,8 @@
     {
       "id": 5783,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Uống Qua Ba Tuần",
@@ -176,9 +182,9 @@
         "zh": "当心醉后吐真言哟。"
       },
       "description": {
-        "vi": "[tips_11]. Tạo ra Kết giới Tiệc Rượu Thần Ẩm tồn tại trong 2 lượt, trong thời gian này bản thân miễn nhiễm [tips_103]. Trong Kết giới, tất cả mục tiêu không phải vật triệu hồi của cả hai bên khi kết thúc lượt có 40% [tips_2] bị đính kèm [tips_103] (trước khi Thần Nhưỡng Tinh Hùng Đồng Tử bắt đầu lượt, mỗi mục tiêu tối đa 3 lần), khi mục tiêu phe ta bị đính kèm [tips_103], tăng 30% giảm sát thương, duy trì 2 lượt, khi [tips_103] của mục tiêu phe ta bị xóa bỏ, tăng 25% Thanh Hành Động (trước khi Thần Nhưỡng Tinh Hùng Đồng Tử bắt đầu lượt, mỗi đồng minh giới hạn 1 lần), khi mục tiêu phe địch bị đính kèm [tips_103], giảm 40% Sát Thương Bạo Kích, duy trì 2 lượt; Tiên Cơ: Thi triển 『Uống Qua Ba Tuần』.",
+        "vi": "[tips_11]. Tạo ra Kết giới Tiệc Rượu Thần Ẩm tồn tại trong 2 lượt, trong thời gian này bản thân miễn nhiễm [tips_103]. Trong Kết giới, tất cả mục tiêu không phải vật triệu hồi của cả hai bên khi kết thúc lượt có 40% [tips_2] bị đính kèm [tips_103] (trước khi Thần Nhưỡng Tinh Hùng Đồng Tử bắt đầu lượt, mỗi mục tiêu tối đa 3 lần), khi mục tiêu phe ta bị đính kèm [tips_103], tăng 30% giảm sát thương, duy trì 2 lượt, khi [tips_103] của mục tiêu phe ta bị xóa bỏ, tăng 25% Thanh Hành Động (trước khi Thần Nhưỡng Tinh Hùng Đồng Tử bắt đầu lượt, mỗi đồng minh giới hạn 1 lần), khi mục tiêu phe địch bị đính kèm [tips_103], giảm 40% Sát Thương Bạo Kích, duy trì 2 lượt; Tiên Cơ: Thi triển [Uống Qua Ba Tuần].",
         "en": "[tips_11]. Creates an Ambrosia Feast field that lasts 2 turns, during which he himself has immunity to [tips_103]. While the field is active, at the end of a non-summoned entity's turn (either ally's or enemy's), there's a 40% [tips_2] of inflicting [tips_103] on them. (Triggers up to 3 times for each entity before Ambrosial Hoshiguma Doji's next turn.) When an ally is inflicted with [tips_103], reduces their damage taken by 30% for 2 turns. When a [tips_103] on an ally is removed, raises their Move Bar by 25% (up to once for each ally before Ambrosial Hoshiguma Doji's next turn). When an enemy is inflicted with [tips_103], reduces their Crit DMG by 40% for 2 turns. Upper Hand: Uses Bottoms Up.",
-        "zh": "[tips_11]。创造存在2回合的神饮之宴结界，期间自身免疫[tips_103]。结界中，敌我双方所有非召唤物目标在回合结束时有40%[tips_2]被施加[tips_103]（神酿星熊童子回合开始前每个目标至多3次），友方目标被施加[tips_103]时，提升30%减伤，持续2回合，友方目标的[tips_103]被移除时，提升25%行动条（神酿星熊童子回合开始前每个友方限1次），敌方目标被施加[tips_103]时，降低40%暴击伤害，持续2回合；先机：施放『饮过三巡』。"
+        "zh": "[tips_11]。创造存在2回合的神饮之宴结界，期间自身免疫[tips_103]。结界中，敌我双方所有非召唤物目标在回合结束时有40%[tips_2]被施加[tips_103]（神酿星熊童子回合开始前每个目标至多3次），友方目标被施加[tips_103]时，提升30%减伤，持续2回合，友方目标的[tips_103]被移除时，提升25%行动条（神酿星熊童子回合开始前每个友方限1次），敌方目标被施加[tips_103]时，降低40%暴击伤害，持续2回合；先机：施放『饮过三巡]。"
       },
       "upgrades": [
         {
@@ -208,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Tiên Cơ: Thi triển 『Uống Qua Ba Tuần』",
+            "vi": "Tiên Cơ: Thi triển [Uống Qua Ba Tuần]",
             "en": "Upper Hand: Uses Bottoms Up.",
-            "zh": "先机：施放『饮过三巡』"
+            "zh": "先机：施放『饮过三巡]"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_sp_xingxiongtongzi.png"
+    "portraitFile": "578.png",
+    "headIconFile": "578a.png"
   }
 }

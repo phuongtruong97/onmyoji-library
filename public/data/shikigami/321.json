@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2680,
-      "grade": "A"
+      "value": 3028,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 8430,
-      "grade": "D"
+      "value": 9342,
+      "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 418,
-      "grade": "B"
+      "value": 463,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 94,
-      "grade": "D"
+      "value": 104,
+      "grade": "B"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3211,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Táng Nghi",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3212,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ly Hồn",
@@ -120,7 +124,7 @@
         "zh": "感受魂魄被一分为二的感觉吧。"
       },
       "description": {
-        "vi": "对敌方目标造成攻击244%伤害，并附加1层[buff_3214_1]，根据[buff_3214_1]层数1~5层，造成生命上限15%、30%、60%、120%、240%[tips_5]（不超过入殓师攻击500%）。\n带有[buff_3214_1]的目标，普攻入殓师可以驱散全部[buff_3214_1]。",
+        "vi": "Gây cho mục tiêu phe địch sát thương bằng 244% Tấn công, đồng thời gắn 1 tầng [buff_3214_1], căn cứ theo số tầng [buff_3214_1] từ 1~5 tầng, gây [tips_5] bằng 15%, 30%, 60%, 120%, 240% giới hạn HP (không vượt quá 500% Tấn công của Nhập Liễm Sư).\nMục tiêu mang [buff_3214_1] khi đánh thường Nhập Liễm Sư có thể giải trừ toàn bộ [buff_3214_1].",
         "en": "对敌方目标造成攻击244%伤害，并附加1层[buff_3214_1]，根据[buff_3214_1]层数1~5层，造成生命上限15%、30%、60%、120%、240%[tips_5]（不超过入殓师攻击500%）。\n带有[buff_3214_1]的目标，普攻入殓师可以驱散全部[buff_3214_1]。",
         "zh": "对敌方目标造成攻击244%伤害，并附加1层[buff_3214_1]，根据[buff_3214_1]层数1~5层，造成生命上限15%、30%、60%、120%、240%[tips_5]（不超过入殓师攻击500%）。\n带有[buff_3214_1]的目标，普攻入殓师可以驱散全部[buff_3214_1]。"
       },
@@ -128,23 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至221%",
-            "en": "伤害增加至221%",
-            "zh": "伤害增加至221%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至221%",
-            "en": "伤害增加至221%",
-            "zh": "伤害增加至221%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至221%",
+            "vi": "Sát thương tăng lên 221%",
             "en": "伤害增加至221%",
             "zh": "伤害增加至221%"
           }
@@ -152,23 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至232%",
-            "en": "伤害增加至232%",
-            "zh": "伤害增加至232%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至232%",
-            "en": "伤害增加至232%",
-            "zh": "伤害增加至232%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至232%",
+            "vi": "Sát thương tăng lên 232%",
             "en": "伤害增加至232%",
             "zh": "伤害增加至232%"
           }
@@ -176,23 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至244%",
-            "en": "伤害增加至244%",
-            "zh": "伤害增加至244%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至244%",
-            "en": "伤害增加至244%",
-            "zh": "伤害增加至244%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至244%",
+            "vi": "Sát thương tăng lên 244%",
             "en": "伤害增加至244%",
             "zh": "伤害增加至244%"
           }
@@ -200,23 +156,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "消耗鬼火减少1点",
-            "en": "消耗鬼火减少1点",
-            "zh": "消耗鬼火减少1点"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "消耗鬼火减少1点",
-            "en": "消耗鬼火减少1点",
-            "zh": "消耗鬼火减少1点"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "消耗鬼火减少1点",
+            "vi": "Tiêu hao quỷ hỏa giảm 1 điểm",
             "en": "消耗鬼火减少1点",
             "zh": "消耗鬼火减少1点"
           }
@@ -228,6 +168,8 @@
     {
       "id": 3213,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đồ Mê Thịnh Phóng Chi Quan",
@@ -240,9 +182,9 @@
         "zh": "织雪，连死亡也无法将我们分离。"
       },
       "description": {
-        "vi": "Triệu hồi thiếu nữ trong quan tài Chức Tuyết, duy trì 1 lượt. Trong thời gian này giảm [b2_属性1数值_per] Tốc độ của bản thân, tăng [b_属性1数值_per] Phòng thủ cơ bản, [b_属性2数值_per] Kháng Hiệu Ứng.\nSau khi lượt của bất kỳ kẻ địch nào kết thúc, nếu bản thân chưa ở trạng thái [tips_17], liền gây cho kẻ đó và một kẻ địch khác có tỷ lệ HP thấp nhất sát thương bằng 30% Tấn công (kẻ địch đó trong lượt mỗi tiêu hao 1 điểm Quỷ Hỏa, cộng thêm sát thương bằng 20% Tấn công).\nTỷ lệ HP của bản thân mỗi giảm 1%, tăng 2.5% sát thương của kỹ năng này.",
-        "en": "Summons Oriyuki, the girl in his coffin, who exists for 1 turn. As long as Oriyuki is present, reduces his SPD by [b2_属性1数值_per] and increases his base DEF and Effect RES by [b_属性1数值_per] and [b_属性2数值_per] respectively.\nIf he is not [tips_17] at the end of an enemy's turn, attacks the enemy and another enemy with the lowest proportion of HP, dealing damage equal to 30% of his ATK (also inflicts extra damage equal to 20% of his ATK for each orb spent by the enemy during the last turn).\nSkill damage increases by 2.5% for each 1% of his HP lost.",
-        "zh": "召唤出棺中少女织雪，持续1回合。此期间降低自身[b2_属性1数值_per]速度，提升[b_属性1数值_per]基础防御、[b_属性2数值_per]效果抵抗。\n任一敌方回合结束后，若自身未处于[tips_17]，则对其以及另一生命比例最低的敌方，造成攻击30%伤害（该敌方回合内每消耗1点鬼火，再额外加上攻击20%伤害）。\n自身生命比例每降低1%，提升2.5%此技能伤害。"
+        "vi": "Triệu hồi thiếu nữ trong quan tài Chức Tuyết, duy trì 1 lượt. Trong thời gian này giảm 50% Tốc độ của bản thân, tăng 250% Phòng thủ cơ bản, 70% Kháng Hiệu Ứng.\nSau khi lượt của bất kỳ kẻ địch nào kết thúc, nếu bản thân chưa ở trạng thái [tips_17], liền gây cho kẻ đó và một kẻ địch khác có tỷ lệ HP thấp nhất sát thương bằng 30% Tấn công (kẻ địch đó trong lượt mỗi tiêu hao 1 điểm Quỷ Hỏa, cộng thêm sát thương bằng 20% Tấn công).\nTỷ lệ HP của bản thân mỗi giảm 1%, tăng 2.5% sát thương của kỹ năng này.",
+        "en": "Summons Oriyuki, the girl in his coffin, who exists for 1 turn. As long as Oriyuki is present, reduces his SPD by 50% and increases his base DEF and Effect RES by 250% and 70% respectively.\nIf he is not [tips_17] at the end of an enemy's turn, attacks the enemy and another enemy with the lowest proportion of HP, dealing damage equal to 30% of his ATK (also inflicts extra damage equal to 20% of his ATK for each orb spent by the enemy during the last turn).\nSkill damage increases by 2.5% for each 1% of his HP lost.",
+        "zh": "召唤出棺中少女织雪，持续1回合。此期间降低自身50%速度，提升250%基础防御、70%效果抵抗。\n任一敌方回合结束后，若自身未处于[tips_17]，则对其以及另一生命比例最低的敌方，造成攻击30%伤害（该敌方回合内每消耗1点鬼火，再额外加上攻击20%伤害）。\n自身生命比例每降低1%，提升2.5%此技能伤害。"
       },
       "upgrades": [
         {
@@ -283,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "rulianshi.png",
-    "headIconFile": ""
+    "portraitFile": "321.png",
+    "headIconFile": "321a.png"
   }
 }

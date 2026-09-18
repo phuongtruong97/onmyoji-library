@@ -9,8 +9,8 @@
   "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "statState": "LV40_NO_EVO",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10138,
+      "value": 10140,
       "grade": "C"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 4271,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Oa · Tử Vong Chi Hoa",
@@ -64,7 +66,7 @@
         "zh": "你想成为我的花泥吗？"
       },
       "description": {
-        "vi": "用殷红的花瓣攻击敌方目标，造成攻击125%伤害。",
+        "vi": "Dùng cánh hoa đỏ thắm tấn công mục tiêu phe địch, gây sát thương bằng 125% Tấn công.",
         "en": "用殷红的花瓣攻击敌方目标，造成攻击125%伤害。",
         "zh": "用殷红的花瓣攻击敌方目标，造成攻击125%伤害。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 4272,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Oa · Huyết Chi Hoa Hải",
@@ -120,41 +124,41 @@
         "zh": "我要让这片战场也变成彼岸花呱的花海。"
       },
       "description": {
-        "vi": "Giúp bản thân nhận [tips_6] không thể xua tan, có thể hấp thụ sát thương bằng [b2_伤害吸收_per] HP đã mất, duy trì 1 lượt.",
-        "en": "Grants herself a [tips_6] that cannot be dispelled and lasts 1 turn, absorbing damage equal to [b2_伤害吸收_per] of her lost HP.",
-        "zh": "使自己获得无法驱散的[tips_6]，能吸收[b2_伤害吸收_per]已损失生命的伤害，持续1回合。"
+        "vi": "Giúp bản thân nhận [tips_6] không thể xua tan, có thể hấp thụ sát thương bằng 10% HP đã mất, duy trì 1 lượt.",
+        "en": "Grants herself a [tips_6] that cannot be dispelled and lasts 1 turn, absorbing damage equal to 10% of her lost HP.",
+        "zh": "使自己获得无法驱散的[tips_6]，能吸收10%已损失生命的伤害，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+            "vi": "[tips_6]吸收量增至已损失生命的4%",
+            "en": "[tips_6]吸收量增至已损失生命的4%",
+            "zh": "[tips_6]吸收量增至已损失生命的4%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+            "vi": "[tips_6]吸收量增至已损失生命的6%",
+            "en": "[tips_6]吸收量增至已损失生命的6%",
+            "zh": "[tips_6]吸收量增至已损失生命的6%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+            "vi": "[tips_6]吸收量增至已损失生命的8%",
+            "en": "[tips_6]吸收量增至已损失生命的8%",
+            "zh": "[tips_6]吸收量增至已损失生命的8%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至已损失生命的[b2_伤害吸收_per]"
+            "vi": "[tips_6]吸收量增至已损失生命的10%",
+            "en": "[tips_6]吸收量增至已损失生命的10%",
+            "zh": "[tips_6]吸收量增至已损失生命的10%"
           }
         }
       ],
@@ -163,7 +167,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "427.png",
+    "headIconFile": "427a.png"
   }
 }

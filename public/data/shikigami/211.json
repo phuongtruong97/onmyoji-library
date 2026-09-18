@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2787,
-      "grade": "A"
+      "value": 3420,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9341,
-      "grade": "C"
+      "value": 10368,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 370,
-      "grade": "C"
+      "value": 410,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 91,
-      "grade": "D"
+      "value": 101,
+      "grade": "B"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2111,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Trừng Phạt",
@@ -64,9 +66,67 @@
         "zh": "我才没耐心听你解释，下冥界去吧！"
       },
       "description": {
-        "vi": "Cầm Hắc Liềm khổng lồ trừng phạt mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.\nKhi ở trong lượt mới nhận được từ 『[skill_2112_1]』, 『Trừng Phạt』 sẽ thay thế thành 『[skill_2114_5]』.",
+        "vi": "Cầm Hắc Liềm khổng lồ trừng phạt mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.\nKhi ở trong lượt mới nhận được từ [skill_2112_1], [Trừng Phạt] sẽ thay thế thành [skill_2114_5].",
         "en": "Wields his deadly scythe to punish 1 enemy, dealing damage equal to 125% of his ATK.\nIn the new turn granted by [skill_2112_1], his Punishment will be changed to [skill_2114_5].",
-        "zh": "持巨大的黑镰惩戒敌方目标，造成攻击125%伤害。\n处于『[skill_2112_1]』获得的新回合里时，『惩戒』将替换为『[skill_2114_5]』。"
+        "zh": "持巨大的黑镰惩戒敌方目标，造成攻击125%伤害。\n处于『[skill_2112_1]获得的新回合里时，『惩戒]将替换为『[skill_2114_5]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2111.png"
+    },
+    {
+      "id": 2114,
+      "number": 1,
+      "variantOrder": 1,
+      "parentSkillId": 2111,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Truy Hồn",
+        "en": "Soul Chaser",
+        "zh": "追魂"
+      },
+      "intro": {
+        "vi": "Hừ, ngươi không trốn thoát được đâu.",
+        "en": "Hum hum, gotcha.",
+        "zh": "哼，你逃不掉的。"
+      },
+      "description": {
+        "vi": "Hướng về mục tiêu kẻ địch vung Hắc Liềm truy kích 2 lần, tăng thêm 50% Bạo Kích, mỗi lần gây sát thương bằng 125% Tấn công, cấp độ tăng theo sự cường hóa kỹ năng [skill_2111_1].",
+        "en": "Wields his dark scythe to launch a 2-strike follow-up attack on 1 enemy, dealing damage equal to 125% of his ATK on each strike. Increases his Crit by 50%. The skill's level is equal to the skill level of [skill_2111_1].",
+        "zh": "对敌方目标挥舞黑镰进行2次追击，额外提升50%暴击，每次造成攻击125%伤害，等级随「[skill_2111_1]技能强化。"
       },
       "upgrades": [
         {
@@ -103,11 +163,13 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "2111.png"
+      "iconFile": "2114.png"
     },
     {
       "id": 2112,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Tạc Mạng",
@@ -131,9 +193,11 @@
     {
       "id": 2113,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "死亡宣判",
+        "vi": "Tử Vong Tuyên Phán",
         "en": "死亡宣判",
         "zh": "死亡宣判"
       },
@@ -151,7 +215,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至111%",
+            "vi": "Sát thương tăng lên 111%",
             "en": "伤害增加至111%",
             "zh": "伤害增加至111%"
           }
@@ -159,7 +223,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至117%",
+            "vi": "Sát thương tăng lên 117%",
             "en": "伤害增加至117%",
             "zh": "伤害增加至117%"
           }
@@ -167,7 +231,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至122%",
+            "vi": "Sát thương tăng lên 122%",
             "en": "伤害增加至122%",
             "zh": "伤害增加至122%"
           }
@@ -175,7 +239,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至128%",
+            "vi": "Sát thương tăng lên 128%",
             "en": "伤害增加至128%",
             "zh": "伤害增加至128%"
           }
@@ -186,7 +250,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_heiwuchang.png"
+    "portraitFile": "211.png",
+    "headIconFile": "211a.png"
   }
 }

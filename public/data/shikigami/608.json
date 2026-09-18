@@ -1,0 +1,231 @@
+{
+  "id": 608,
+  "name": {
+    "vi": "Thạch Trường Cơ",
+    "en": "",
+    "zh": "石长姬"
+  },
+  "rarity": "SSR",
+  "tier": "SSR",
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "EVOLVED",
+  "reviewStatus": "MOI_TU_GAME",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3899,
+      "grade": "SS"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12840,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 551,
+      "grade": "S"
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 120,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6081,
+      "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Khấu Nham",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Mượn sức mạnh của đá và nham thạch, gây sát thương bằng 41% công kích chia làm 3 đoạn.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 35%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 37%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 39%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 41%",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6081.png"
+    },
+    {
+      "id": 6082,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bàn Trường Kỷ",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "Đóa hoa đâm rễ sâu thẳm, lúc nở rộ cũng rất đẹp phải không?",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "[tips_11]. Không thể hồi sinh.\nKhi bắt đầu chiến đấu, ngưng luyện sinh mệnh ban đầu của bản thân thành 4 [buff_6082_1] và ghi lại các thuộc tính ban đầu của tất cả thức thần.\nKhi chịu sát thương chí mạng, tiêu hao 1 [buff_6082_1], nhận lại lượng sinh mệnh chứa trong đó.\nKhi phe ta bắt đầu chiến đấu và bắt đầu hiệp đấu, nhận được [buff_6082_2]có giá trị bằng 24% công kích ban đầu của Thạch Trường Cơ.\n[Thi triển]: [tips_608] thức thần chỉ định ngoài bản thân.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi hành động, đồng bộ chỉ số bạo kích của bản thân thành giá trị lớn nhất mà Hoa Bàn Trường ghi lại.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi hành động, đồng bộ sát thương bạo kích của bản thân thành giá trị lớn nhất mà Hoa Bàn Trường ghi lại.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi hành động, đồng bộ tấn công của bản thân thành giá trị lớn nhất mà Hoa Bàn Trường ghi lại.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi hành động, đồng bộ hệ số kỹ năng của bản thân thành giá trị lớn nhất mà Hoa Bàn Trường ghi lại.",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6082.png"
+    },
+    {
+      "id": 6083,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vĩnh Hằng Hồi Hưởng",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "Sự bất kính của ngươi sẽ được loan truyền đến mọi ngóc ngách của đại địa.",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Cộng hưởng cùng đại địa, gây sát thương bằng 598% tấn công lên mục tiêu địch chỉ định, và gây sát thương bằng 268% tấn công lên các mục tiêu địch khác.\nVới mỗi 1 [buff_6082_2] tồn tại ở phe ta, đồng thời khiến sát thương của các đồng đội khác tăng 2%, duy trì 1 hiệp.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương gây lên kẻ địch chỉ định tăng lên 568%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương gây lên kẻ địch khác tăng lên 238%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương gây lên kẻ địch chỉ định tăng lên 598%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương gây lên kẻ địch khác tăng lên 268%",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "6083.png"
+    }
+  ],
+  "assets": {
+    "portraitFile": "608.png",
+    "headIconFile": "608a.png"
+  }
+}

@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2733,
-      "grade": "A"
+      "value": 3028,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9455,
-      "grade": "C"
+      "value": 10482,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 374,
-      "grade": "C"
+      "value": 419,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2511,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mực Bút Đoạt Hồn",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "2511.png"
     },
     {
-      "id": 2513,
+      "id": 2512,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vô Tình",
+        "en": "No Mercy",
+        "zh": "无情"
+      },
+      "intro": {
+        "vi": "Sống chết vốn tự nhiên, làm gì có tình lý để nói.",
+        "en": "Death is simply an inevitable part of life.",
+        "zh": "生死本自然，何来情理可言。"
+      },
+      "description": {
+        "vi": "Khi gây sát thương, tỷ lệ HP của mục tiêu cứ giảm 1%, tăng 1% Bạo kích; đối với mục tiêu được hồi sinh, sát thương tăng 40%. Nếu Bạo kích của Phán Quan vượt quá 100%, mỗi vượt quá 1%, chuyển hóa thành 1% Sát Thương Bạo Kích.",
+        "en": "When dealing damage, increases his Crit by 1% for each 1% of target's HP reduced. Damage is increased by 40% to revived targets. If Hangan's Crit is above 100%, for each excessive 1% of Crit, increases his Crit DMG by 1%.",
+        "zh": "造成伤害时，目标生命比例每降低1%，提升1%暴击；对被复活的目标，伤害提升40%。若判官暴击超过100%，每超出1%，转化为1%暴击伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Đối với mục tiêu được hồi sinh, sát thương tăng lên 20%",
+            "en": "Increases damage to revived targets to 20%.",
+            "zh": "对被复活的目标，伤害提升增至20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đối với mục tiêu được hồi sinh, sát thương tăng lên 30%",
+            "en": "Increases damage to revived targets to 30%.",
+            "zh": "对被复活的目标，伤害提升增至30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Đối với mục tiêu được hồi sinh, sát thương tăng lên 40%",
+            "en": "Increases damage to revived targets to 40%.",
+            "zh": "对被复活的目标，伤害提升增至40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi gây sát thương, nếu Bạo kích của Phán Quan vượt quá 100%, mỗi vượt quá 1%, tăng 1% Sát Thương Bạo Kích",
+            "en": "If Hangan's Crit is above 100%, for each excessive 1% of Crit, increases his Crit DMG by 1%.",
+            "zh": "造成伤害时，若判官暴击超过100%，每超出1%，提升暴击伤害的1%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2512.png"
+    },
+    {
+      "id": 2513,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tuyên Cáo Tử Vong",
@@ -120,41 +182,41 @@
         "zh": "就让在下来宣告你的生死。"
       },
       "description": {
-        "vi": "Bắn ra phán quyết sinh tử tấn công toàn bộ phe địch, gây sát thương bằng 125% Tấn công và đính kèm [buff_2514_1], duy trì 1 lượt, khi chưa bị xóa bỏ, trước khi lượt của mục tiêu bắt đầu gây [tips_5] bằng [b_参数p1_per] Tấn công.",
-        "en": "Sentences all enemies to death, dealing damage equal to 125% of his ATK and inflicting a [buff_2514_1] lasting 1 turn on them. Deals [tips_5] equal to [b_参数p1_per] of his ATK to the targets at the start of their turns if not lifted.",
-        "zh": "发出生死判决攻击敌方全体，造成攻击125%伤害并附加[buff_2514_1]，持续1回合，未被移除时，在目标回合开始前造成攻击[b_参数p1_per][tips_5]。"
+        "vi": "Bắn ra phán quyết sinh tử tấn công toàn bộ phe địch, gây sát thương bằng 125% Tấn công và đính kèm [buff_2514_1], duy trì 1 lượt, khi chưa bị xóa bỏ, trước khi lượt của mục tiêu bắt đầu gây [tips_5] bằng 125% Tấn công.",
+        "en": "Sentences all enemies to death, dealing damage equal to 125% of his ATK and inflicting a [buff_2514_1] lasting 1 turn on them. Deals [tips_5] equal to 125% of his ATK to the targets at the start of their turns if not lifted.",
+        "zh": "发出生死判决攻击敌方全体，造成攻击125%伤害并附加[buff_2514_1]，持续1回合，未被移除时，在目标回合开始前造成攻击125%[tips_5]。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương tăng lên 105%, [tips_5] tăng lên [b_参数p1_per]",
-            "en": "Increases damage to 105% and [tips_5] to [b_参数p1_per].",
-            "zh": "伤害增至105%，[tips_5]增至[b_参数p1_per]"
+            "vi": "Sát thương tăng lên 105%, [tips_5] tăng lên 105%",
+            "en": "Increases damage to 105% and [tips_5] to 105%.",
+            "zh": "伤害增至105%，[tips_5]增至105%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Sát thương tăng lên 110%, [tips_5] tăng lên [b_参数p1_per]",
-            "en": "Increases damage to 110% and [tips_5] to [b_参数p1_per].",
-            "zh": "伤害增至110%，[tips_5]增至[b_参数p1_per]"
+            "vi": "Sát thương tăng lên 110%, [tips_5] tăng lên 110%",
+            "en": "Increases damage to 110% and [tips_5] to 110%.",
+            "zh": "伤害增至110%，[tips_5]增至110%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Sát thương tăng lên 115%, [tips_5] tăng lên [b_参数p1_per]",
-            "en": "Increases damage to 115% and [tips_5] to [b_参数p1_per].",
-            "zh": "伤害增至115%，[tips_5]增至[b_参数p1_per]"
+            "vi": "Sát thương tăng lên 115%, [tips_5] tăng lên 115%",
+            "en": "Increases damage to 115% and [tips_5] to 115%.",
+            "zh": "伤害增至115%，[tips_5]增至115%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Sát thương tăng lên 125%, [tips_5] tăng lên [b_参数p1_per]",
-            "en": "Increases damage to 125% and [tips_5] to [b_参数p1_per].",
-            "zh": "伤害增至125%，[tips_5]增至[b_参数p1_per]"
+            "vi": "Sát thương tăng lên 125%, [tips_5] tăng lên 125%",
+            "en": "Increases damage to 125% and [tips_5] to 125%.",
+            "zh": "伤害增至125%，[tips_5]增至125%"
           }
         }
       ],
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "251.png",
+    "headIconFile": "251a.png"
   }
 }

@@ -9,8 +9,8 @@
   "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "statState": "LV40_NO_EVO",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,13 +21,13 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
+      "value": 10254,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 396,
+      "value": 397,
       "grade": "B"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 4061,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Đông Đông",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 4062,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Leng Keng Keng",
@@ -120,9 +124,9 @@
         "zh": "锵锵锵～我来给你们助威啦～"
       },
       "description": {
-        "vi": "Đánh trống cổ vũ toàn thể đồng minh, tăng [b_属性1数值_per] bạo kích, duy trì 1 lượt.",
-        "en": "Beats his drum to boost his allies' morale, increasing the Crit of all allies by [b_属性1数值_per]. [tips_15] for 1 turn(s).",
-        "zh": "打起鼓来鼓舞友方全体，提升[b_属性1数值_per]暴击，[tips_15]1回合。"
+        "vi": "Đánh trống cổ vũ toàn thể đồng minh, tăng 15% bạo kích, duy trì 1 lượt.",
+        "en": "Beats his drum to boost his allies' morale, increasing the Crit of all allies by 15%. [tips_15] for 1 turn(s).",
+        "zh": "打起鼓来鼓舞友方全体，提升15%暴击，[tips_15]1回合。"
       },
       "upgrades": [],
       "orbCost": 2,
@@ -130,7 +134,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_huangtianxiegui.png"
+    "portraitFile": "406.png",
+    "headIconFile": "406a.png"
   }
 }

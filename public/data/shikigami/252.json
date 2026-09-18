@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2412,
-      "grade": "B"
+      "value": 2680,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
-      "grade": "B"
+      "value": 11393,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 396,
-      "grade": "B"
+      "value": 441,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 96,
-      "grade": "C"
+      "value": 106,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2521,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phượng Hỏa",
@@ -64,15 +66,15 @@
         "zh": "燃烧的凤火啊，祛除一切不净吧。"
       },
       "description": {
-        "vi": "Ngưng tụ yêu lực thành đạn phượng hỏa bắn về phía mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, có 50% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất trộm [b_属性1数值_per] Bạo kích, duy trì 2 lượt.",
-        "en": "Focuses her flame and launches it at 1 enemy, dealing damage equal to 120% of her ATK with a 50% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of stealing [b_属性1数值_per] Crit for 2 turn(s).",
-        "zh": "以妖力凝成凤火弹射向敌方目标，造成攻击120%伤害，有50%（+[*|a_debuff-acc_per|s_buff概率_per]）概率偷取[b_属性1数值_per]暴击，持续2回合。"
+        "vi": "Ngưng tụ yêu lực thành đạn phượng hỏa bắn về phía mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, có 50% [tips_2] xác suất trộm 10% Bạo kích, duy trì 2 lượt.",
+        "en": "Focuses her flame and launches it at 1 enemy, dealing damage equal to 120% of her ATK with a 50% (+Effect HIT) chance of stealing 10% Crit for 2 turn(s).",
+        "zh": "以妖力凝成凤火弹射向敌方目标，造成攻击120%伤害，有50%（+效果命中）概率偷取10%暴击，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -106,11 +108,38 @@
       "iconFile": "2521.png"
     },
     {
-      "id": 2523,
+      "id": 2522,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Liệt Diễm",
+        "en": "Blaze",
+        "zh": "烈焰"
+      },
+      "intro": {
+        "vi": "Kẻ yếu, chỉ xứng biến thành tro bụi trong ngọn lửa.",
+        "en": "The weak will turn to ashes amidst the flames!",
+        "zh": "弱者，就只配在火焰中化为灰烬。"
+      },
+      "description": {
+        "vi": "Khi tấn công, đối với kẻ địch mang trạng thái giảm ích và [tips_3], có 50% [tips_2] xác suất khiến kẻ đó [tips_108], duy trì 1 lượt.",
+        "en": "When attacking, she has a 50% (+Effect HIT) chance of inflicting [tips_108] lasting 1 turn on enemies with a debuff of [tips_3].",
+        "zh": "攻击时，对带有减益效果和[tips_3]的敌方，有50%（+效果命中）概率使其[tips_108]，持续1回合。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "2522.png"
+    },
+    {
+      "id": 2523,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "凤凰业火",
+        "vi": "Phượng Hoàng Nghiệp Hỏa",
         "en": "凤凰业火",
         "zh": "凤凰业火"
       },
@@ -120,7 +149,7 @@
         "zh": "尽情在这华丽的火海中沉沦吧，呵呵。"
       },
       "description": {
-        "vi": "释放凤凰业火攻击敌方全体，造成攻击119%伤害，若暴击，有25%概率获得新的回合。",
+        "vi": "Phóng thích nghiệp hỏa phượng hoàng tấn công toàn thể phe địch, gây sát thương bằng 119% Tấn công, nếu chí mạng, có 25% xác suất nhận thêm lượt mới.",
         "en": "释放凤凰业火攻击敌方全体，造成攻击119%伤害，若暴击，有25%概率获得新的回合。",
         "zh": "释放凤凰业火攻击敌方全体，造成攻击119%伤害，若暴击，有25%概率获得新的回合。"
       },
@@ -128,7 +157,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至104%",
+            "vi": "Sát thương tăng lên 104%",
             "en": "伤害增加至104%",
             "zh": "伤害增加至104%"
           }
@@ -136,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至109%",
+            "vi": "Sát thương tăng lên 109%",
             "en": "伤害增加至109%",
             "zh": "伤害增加至109%"
           }
@@ -144,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至114%",
+            "vi": "Sát thương tăng lên 114%",
             "en": "伤害增加至114%",
             "zh": "伤害增加至114%"
           }
@@ -152,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至119%",
+            "vi": "Sát thương tăng lên 119%",
             "en": "伤害增加至119%",
             "zh": "伤害增加至119%"
           }
@@ -163,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "252.png",
+    "headIconFile": "252a.png"
   }
 }

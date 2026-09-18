@@ -1,7 +1,8 @@
 {
-  "heroes": 266,
-  "skills": 720,
-  "upgrades": 3152,
-  "glossary": 447,
+  "heroes": 269,
+  "skills": 813,
+  "upgrades": 2946,
+  "glossary": 467,
+  "unresolvedParameters": 0,
   "source": "DU_LIEU_WEB_THU_CONG.xlsx"
 }

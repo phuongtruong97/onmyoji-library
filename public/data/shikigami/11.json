@@ -52,9 +52,11 @@
     {
       "id": 1101,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "伞击",
+        "vi": "Ô Kích",
         "en": "伞击",
         "zh": "伞击"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "技能伤害额外+10%",
+            "vi": "Sát thương kỹ năng cộng thêm +10%",
             "en": "技能伤害额外+10%",
             "zh": "技能伤害额外+10%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "技能伤害额外+10%",
+            "vi": "Sát thương kỹ năng cộng thêm +10%",
             "en": "技能伤害额外+10%",
             "zh": "技能伤害额外+10%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "技能伤害额外+10%",
+            "vi": "Sát thương kỹ năng cộng thêm +10%",
             "en": "技能伤害额外+10%",
             "zh": "技能伤害额外+10%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "技能伤害额外+10%",
+            "vi": "Sát thương kỹ năng cộng thêm +10%",
             "en": "技能伤害额外+10%",
             "zh": "技能伤害额外+10%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 1102,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Triệu Hồi · Ngư",
@@ -164,6 +168,8 @@
     {
       "id": 1111,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thông Linh · Tật Phong",
@@ -176,41 +182,41 @@
         "zh": ""
       },
       "description": {
-        "vi": "Sử dụng thông linh thuật, ban sức mạnh tật phong cho 1 đồng đội, tăng [b_属性1数值_per] Tấn công cho kẻ đó. Khi chiến đấu với Âm Dương Sư, đổi vị trí thanh hành động của Thần Lạc và mục tiêu; khi chiến đấu với quái vật, giúp mục tiêu nhận 1 lượt và không vào hồi chiêu.",
-        "en": "Uses spirit channeling to grant Force of Wind to one ally, increasing their ATK by [b_属性1数值_per]. In battles against Onmyoji, swaps Kagura's and the target's Move Bar positions. In battles against monsters, grants the target an extra turn without triggering cooldown.",
-        "zh": "使用通灵术，将疾风之力赋予1名队友，增加其[b_属性1数值_per]攻击。与阴阳师战斗时，交换神乐与目标的行动条位置；与怪物战斗时，使目标获得1个回合且不进入冷却。"
+        "vi": "Sử dụng thông linh thuật, ban sức mạnh tật phong cho 1 đồng đội, tăng 30% Tấn công cho kẻ đó. Khi chiến đấu với Âm Dương Sư, đổi vị trí thanh hành động của Thần Lạc và mục tiêu; khi chiến đấu với quái vật, giúp mục tiêu nhận 1 lượt và không vào hồi chiêu.",
+        "en": "Uses spirit channeling to grant Force of Wind to one ally, increasing their ATK by 30%. In battles against Onmyoji, swaps Kagura's and the target's Move Bar positions. In battles against monsters, grants the target an extra turn without triggering cooldown.",
+        "zh": "使用通灵术，将疾风之力赋予1名队友，增加其30%攻击。与阴阳师战斗时，交换神乐与目标的行动条位置；与怪物战斗时，使目标获得1个回合且不进入冷却。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Cường hóa hiệu ứng [Tật Phong]: Tăng [b_属性1数值_per] Tấn công",
-            "en": "Storm effect enhancement: ATK increases by [b_属性1数值_per].",
-            "zh": "[疾风]效果强化：增加[b_属性1数值_per]的攻击"
+            "vi": "Cường hóa hiệu ứng [Tật Phong]: Tăng 15% Tấn công",
+            "en": "Storm effect enhancement: ATK increases by 15%.",
+            "zh": "[疾风]效果强化：增加15%的攻击"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Cường hóa hiệu ứng [Tật Phong]: Tăng [b_属性1数值_per] Tấn công",
-            "en": "Storm effect enhancement: ATK increases by [b_属性1数值_per].",
-            "zh": "[疾风]效果强化：增加[b_属性1数值_per]的攻击"
+            "vi": "Cường hóa hiệu ứng [Tật Phong]: Tăng 20% Tấn công",
+            "en": "Storm effect enhancement: ATK increases by 20%.",
+            "zh": "[疾风]效果强化：增加20%的攻击"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Cường hóa hiệu ứng [Tật Phong]: Tăng [b_属性1数值_per] Tấn công",
-            "en": "Storm effect enhancement: ATK increases by [b_属性1数值_per].",
-            "zh": "[疾风]效果强化：增加[b_属性1数值_per]的攻击"
+            "vi": "Cường hóa hiệu ứng [Tật Phong]: Tăng 25% Tấn công",
+            "en": "Storm effect enhancement: ATK increases by 25%.",
+            "zh": "[疾风]效果强化：增加25%的攻击"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Cường hóa hiệu ứng [Tật Phong]: Tăng [b_属性1数值_per] Tấn công",
-            "en": "Storm effect enhancement: ATK increases by [b_属性1数值_per].",
-            "zh": "[疾风]效果强化：增加[b_属性1数值_per]的攻击"
+            "vi": "Cường hóa hiệu ứng [Tật Phong]: Tăng 30% Tấn công",
+            "en": "Storm effect enhancement: ATK increases by 30%.",
+            "zh": "[疾风]效果强化：增加30%的攻击"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "zhujue02.png",
-    "headIconFile": ""
+    "portraitFile": "11.png",
+    "headIconFile": "11a.png"
   }
 }

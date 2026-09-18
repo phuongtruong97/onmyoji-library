@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3698,
+      "value": 4074,
       "grade": "SS"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11278,
-      "grade": "B"
+      "value": 12418,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 436,
-      "grade": "B"
+      "value": 481,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3251,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồn Phách Toái Liệt",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -106,8 +108,35 @@
       "iconFile": "3251.png"
     },
     {
+      "id": 3257,
+      "number": 1,
+      "variantOrder": 1,
+      "parentSkillId": 3251,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Ngưng Thị",
+        "en": "Gaze",
+        "zh": "凝视"
+      },
+      "intro": {
+        "vi": "Không nơi để trốn!",
+        "en": "Nowhere to hide!",
+        "zh": "无处可逃！"
+      },
+      "description": {
+        "vi": "Chỉ thi triển kỹ năng này khi Bát Kỳ Đại Xà sử dụng [Hồn Phách Toái Liệt].\nNhìn chằm chằm mục tiêu của Bát Kỳ Đại Xà, khiến đòn tấn công đó bỏ qua 20% Phòng thủ của mục tiêu.",
+        "en": "The skill is only used when Orochi uses Soul Crusher.\nGazes at Orochi's target, allowing the attack to ignore DEF by 20%.",
+        "zh": "仅在八岐大蛇使用『魂魄碎裂]时施放此技能。\n凝视八岐大蛇的目标，使该次攻击无视其20%防御。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3258.png"
+    },
+    {
       "id": 3252,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bất Khiết Chi Lực",
@@ -120,9 +149,9 @@
         "zh": "这是神之力，当然，会有代价。"
       },
       "description": {
-        "vi": "Khiến mục tiêu đồng minh nhận lượt hành động mới, đồng thời giúp kẻ đó nhận [buff_3255_1], [tips_15] 2 lượt, sau đó [tips_3252] kẻ đó thành [buff_3253] [tips_3253] có thể sử dụng [skill_3256_1]).\nYamata no Orochi cùng [tips_3253], khi tấn công sẽ đính kèm 1 tầng [buff_3251_1] cho mục tiêu.\nKhi không có đơn vị đồng minh nào khác sống sót, thay thế kỹ năng này thành 『[skill_3255_1]』.\nMỗi [tips_3253] khiến Yamata no Orochi và Xà Ma kiểm soát tăng 30% Phòng thủ, 20% Kháng Hiệu Ứng, 10 Tốc độ.",
+        "vi": "Khiến mục tiêu đồng minh nhận lượt hành động mới, đồng thời giúp kẻ đó nhận [buff_3255_1], [tips_15] 2 lượt, sau đó [tips_3252] kẻ đó thành [buff_3253] [tips_3253] có thể sử dụng [skill_3256_1]).\nYamata no Orochi cùng [tips_3253], khi tấn công sẽ đính kèm 1 tầng [buff_3251_1] cho mục tiêu.\nKhi không có đơn vị đồng minh nào khác sống sót, thay thế kỹ năng này thành [skill_3255_1].\nMỗi [tips_3253] khiến Yamata no Orochi và Xà Ma kiểm soát tăng 30% Phòng thủ, 20% Kháng Hiệu Ứng, 10 Tốc độ.",
         "en": "Grants a new turn and [buff_3255_1] to an ally. [tips_15] for 2 turns before [tips_3252]ing them into a [tips_3253]. [tips_3253] can use [skill_3256_1].\nOrochi and [tips_3253]'s attack inflicts a layer of [buff_3251_1] on their target.\nWhen there are no allied shikigami alive, the skill is changed to [skill_3255_1].\nEach [tips_3253] increases the DEF, Effect RES, and SPD of Orochi and the nagas under his control by 30%, 20%, and 10, respectively.",
-        "zh": "使友方目标获得获得新的回合，并使其获得[buff_3255_1]，[tips_15]2回合，之后将其[tips_3252]为[tips_3253]，[tips_3253]可使用[skill_3256_1]。\n八岐大蛇与[tips_3253]，攻击时将对目标附加1层[buff_3251_1]。\n当无其他友方式神存活时，将此技能替换为『[skill_3255_1]』。\n每个[tips_3253]使八岐大蛇和控制的蛇魔提升30%防御、20%效果抵抗、10速度。"
+        "zh": "使友方目标获得获得新的回合，并使其获得[buff_3255_1]，[tips_15]2回合，之后将其[tips_3252]为[tips_3253]，[tips_3253]可使用[skill_3256_1]。\n八岐大蛇与[tips_3253]，攻击时将对目标附加1层[buff_3251_1]。\n当无其他友方式神存活时，将此技能替换为『[skill_3255_1]。\n每个[tips_3253]使八岐大蛇和控制的蛇魔提升30%防御、20%效果抵抗、10速度。"
       },
       "upgrades": [
         {
@@ -134,22 +163,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Mỗi [tips_3253] khiến Yamata no Orochi và Xà Ma kiểm soát tăng 30% Phòng thủ",
-            "en": "Each [tips_3253] increases the DEF of Orochi and the nagas under his control by 30%.",
-            "zh": "每个[tips_3253]使八岐大蛇和控制的蛇魔提升30%防御"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Mỗi [tips_3253] khiến Yamata no Orochi và Xà Ma kiểm soát tăng 20% Kháng Hiệu Ứng",
-            "en": "Each [tips_3253] increases the Effect RES of Orochi and the nagas under his control by 20%.",
-            "zh": "每个[tips_3253]使八岐大蛇和控制的蛇魔提升20%效果抵抗"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Mỗi [tips_3253] khiến Yamata no Orochi và Xà Ma kiểm soát tăng 20% Kháng Hiệu Ứng",
@@ -163,22 +176,6 @@
             "vi": "Mỗi [tips_3253] khiến Yamata no Orochi và Xà Ma kiểm soát tăng 10 Tốc độ",
             "en": "Each [tips_3253] increases the SPD of Orochi and the nagas under his control by 10.",
             "zh": "每个[tips_3253]使八岐大蛇和控制的蛇魔提升10速度"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Mỗi [tips_3253] khiến Yamata no Orochi và Xà Ma kiểm soát tăng 10 Tốc độ",
-            "en": "Each [tips_3253] increases the SPD of Orochi and the nagas under his control by 10.",
-            "zh": "每个[tips_3253]使八岐大蛇和控制的蛇魔提升10速度"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi thi triển sẽ khiến mục tiêu đồng minh nhận lượt hành động mới",
-            "en": "Grants a turn to 1 ally when used.",
-            "zh": "施放时将使友方目标获得新的回合"
           }
         },
         {
@@ -194,8 +191,35 @@
       "iconFile": "3252.png"
     },
     {
+      "id": 3255,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 3252,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Bát Kỳ Chi Ảnh",
+        "en": "Shadow of Orochi",
+        "zh": "八岐之影"
+      },
+      "intro": {
+        "vi": "Đây là sức mạnh của thần, đương nhiên phải có cái giá phải trả.",
+        "en": "The power of a god comes with a price.",
+        "zh": "这是神之力，当然会有代价。"
+      },
+      "description": {
+        "vi": "Thay thế Âm Dương Sư tiến hành chiến đấu tiếp theo đồng thời triệu hồi 1 Xà Ma ở vị trí cũ, kế thừa 120% tất cả thuộc tính của bản thân.\nGiúp bản thân nhận lượt hành động mới, cũng như tăng 30% sát thương, 30 điểm Tốc độ, cho đến khi kết thúc trận đấu.",
+        "en": "Takes the place of your onmyoji for the remainder of the battle and summons a naga at their position. The naga inherits 120% of all their stats.\nGains a new turn and increases damage and SPD by 30% and 30 respectively until the battle ends.",
+        "zh": "替代阴阳师进行接下来的战斗并在原位召唤1个蛇魔，继承自身120%所有属性。\n使自身获得新的回合，以及提升30%伤害、30点速度，直到战斗结束。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3252.png"
+    },
+    {
       "id": 3253,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Niệm Chi Ảnh",
@@ -216,7 +240,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至166%",
+            "vi": "Sát thương tăng lên 166%",
             "en": "伤害增加至166%",
             "zh": "伤害增加至166%"
           }
@@ -224,7 +248,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至175%",
+            "vi": "Sát thương tăng lên 175%",
             "en": "伤害增加至175%",
             "zh": "伤害增加至175%"
           }
@@ -232,7 +256,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至183%",
+            "vi": "Sát thương tăng lên 183%",
             "en": "伤害增加至183%",
             "zh": "伤害增加至183%"
           }
@@ -240,18 +264,43 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi không còn đơn vị đồng minh và Âm Dương Sư nào sống sót, nhận kỹ năng bổ sung 『[skill_3254_5]』",
+            "vi": "Khi không còn đơn vị đồng minh và Âm Dương Sư nào sống sót, nhận kỹ năng bổ sung [skill_3254_5]",
             "en": "When no other shikigami or onmyoji is alive, gains the extra skill [skill_3254_5].",
-            "zh": "当无友方式神及阴阳师存活时，获得额外技能『[skill_3254_5]』"
+            "zh": "当无友方式神及阴阳师存活时，获得额外技能『[skill_3254_5]"
           }
         }
       ],
       "orbCost": 3,
       "iconFile": "3253.png"
+    },
+    {
+      "id": 3256,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 3253,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Độc Dịch",
+        "en": "Venom Spit",
+        "zh": "毒液"
+      },
+      "intro": {
+        "vi": "Yêm Diệt!",
+        "en": "Annihilation!",
+        "zh": "湮灭！"
+      },
+      "description": {
+        "vi": "Gây cho mục tiêu kẻ địch sát thương bằng 100% Tấn công; sau khi kết thúc lượt, tăng 10% Thanh Hành Động cho Bát Kỳ Đại Xà.",
+        "en": "Deals damage to 1 enemy equal to 100% of its ATK. Raises the Move Bar of Orochi by 10% at the end of the turn.",
+        "zh": "对敌方目标造成攻击100%伤害；回合结束后，增加八岐大蛇10%行动条。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3257.png"
     }
   ],
   "assets": {
-    "portraitFile": "dasheshen.png",
-    "headIconFile": "h_dasheshen.png"
+    "portraitFile": "325.png",
+    "headIconFile": "325a.png"
   }
 }

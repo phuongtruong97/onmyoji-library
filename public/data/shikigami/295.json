@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2063,
-      "grade": "D"
+      "value": 2305,
+      "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11505,
-      "grade": "A"
+      "value": 12760,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 405,
-      "grade": "B"
+      "value": 450,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2951,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Yêu Nguyệt",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "2951.png"
     },
     {
-      "id": 2953,
+      "id": 2952,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Minh Nguyệt Triều Sinh",
+        "en": "Moon's Boon",
+        "zh": "明月潮生"
+      },
+      "intro": {
+        "vi": "Nguyện vọng của ngươi, ta đều có thể đáp ứng.",
+        "en": "I will fulfill all your desires.",
+        "zh": "你的愿望，我都能满足。"
+      },
+      "description": {
+        "vi": "[tips_7]: Khiến thanh hành động Quỷ Hỏa đẩy thêm 4 ô. Bản thân cùng đồng minh đang ở trong Lời Chúc Của Trăng không bị quái vật khấu trừ Quỷ Hỏa. Khi thi triển Thanh Huy Nguyệt Hoa không đủ Quỷ Hỏa, vẫn có thể tiêu hao tất cả Quỷ Hỏa còn lại để thi triển; khi kích hoạt hiệu ứng này sẽ tiêu hao ô trên thanh hành động Quỷ Hỏa bằng số chênh lệch Quỷ Hỏa; khi thanh hành động Quỷ Hỏa không đủ, không thể kích hoạt hiệu ứng này.",
+        "en": "[tips_7]: Orb Bar fills up by 4 extra slot. Monsters cannot remove orbs from her and allies affected by Moon's Blessings. When using Clear Moon while you don't have enough orbs, you can still spend all the remaining orbs to use the skill. When this effect is triggered, an amount of filled slots will be emptied from your Orb Bar equal to the difference. If you don't have enough filled slots on your Orb Bar, the effect won't trigger.",
+        "zh": "[tips_7]：使鬼火行动条额外推进4格。自身与处于月之祝福的友方不会被怪物扣除鬼火。施放清辉月华鬼火不足时，仍可消耗剩余全部鬼火施放；触发该效果时会消耗鬼火数差值格鬼火行动条；当鬼火行动条不足时，无法触发此效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Đẩy thêm tăng lên 2 ô",
+            "en": "Increases extra slots filled to 2.",
+            "zh": "额外推进增至2格"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Đẩy thêm tăng lên 3 ô",
+            "en": "Increases extra slots filled to 3.",
+            "zh": "额外推进增至3格"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Đẩy thêm tăng lên 4 ô",
+            "en": "Increases extra slots filled to 4.",
+            "zh": "额外推进增至4格"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Bản thân cùng đồng minh đang ở trong Lời Chúc Của Trăng không bị quái vật khấu trừ Quỷ Hỏa. Khi thi triển Thanh Huy Nguyệt Hoa không đủ Quỷ Hỏa, vẫn có thể tiêu hao tất cả Quỷ Hỏa còn lại để thi triển; khi kích hoạt hiệu ứng này sẽ tiêu hao ô trên thanh hành động Quỷ Hỏa bằng số chênh lệch Quỷ Hỏa. Khi thanh hành động Quỷ Hỏa không đủ, không thể kích hoạt hiệu ứng này",
+            "en": "Monsters cannot remove orbs from her and allies affected by Moon's Blessings. When using Clear Moon while you don't have enough orbs, you can still spend all the remaining orbs to use the skill. When this effect is triggered, an amount of filled slots will be emptied from your Orb Bar equal to the difference. If you don't have enough filled slots on your Orb Bar, the effect won't trigger.",
+            "zh": "自身与处于月之祝福的友方不会被怪物扣除鬼火。施放清辉月华鬼火不足时，仍可消耗剩余全部鬼火施放；触发该效果时会消耗鬼火数差值格鬼火行动条。当鬼火行动条不足时，无法触发此效果"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2952.png"
+    },
+    {
+      "id": 2953,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thanh Huy Nguyệt Hoa",
@@ -128,25 +190,25 @@
         {
           "level": 2,
           "text": {
-            "vi": "Trong thời gian Lời Chúc Của Trăng duy trì tăng thêm [b2_属性2数值_per] Tấn công",
-            "en": "Moon's Blessings additionally increase ATK by [b2_属性2数值_per] in the duration.",
-            "zh": "月之祝福持续期间额外提升[b2_属性2数值_per]攻击"
+            "vi": "Trong thời gian Lời Chúc Của Trăng duy trì tăng thêm 10% Tấn công",
+            "en": "Moon's Blessings additionally increase ATK by 10% in the duration.",
+            "zh": "月之祝福持续期间额外提升10%攻击"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Trong thời gian Lời Chúc Của Trăng duy trì hiệu ứng tăng Tốc độ nâng lên [b2_属性1数值_abs] điểm",
-            "en": "Increases the SPD boost effect from Moon's Blessings to [b2_属性1数值_abs].",
-            "zh": "月之祝福持续期间提升速度效果增至[b2_属性1数值_abs]点"
+            "vi": "Trong thời gian Lời Chúc Của Trăng duy trì hiệu ứng tăng Tốc độ tăng lên 20 điểm",
+            "en": "Increases the SPD boost effect from Moon's Blessings to 20.",
+            "zh": "月之祝福持续期间提升速度效果增至20点"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Trong thời gian Lời Chúc Của Trăng duy trì hiệu ứng tăng Tấn công nâng lên [b2_属性2数值_per]",
-            "en": "Increases the ATK boost effect from Moon's Blessings to [b2_属性2数值_per].",
-            "zh": "月之祝福持续期间提升攻击效果增至[b2_属性2数值_per]"
+            "vi": "Trong thời gian Lời Chúc Của Trăng duy trì hiệu ứng tăng Tấn công tăng lên 20%",
+            "en": "Increases the ATK boost effect from Moon's Blessings to 20%.",
+            "zh": "月之祝福持续期间提升攻击效果增至20%"
           }
         },
         {
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_zhuiyueshen.png"
+    "portraitFile": "295.png",
+    "headIconFile": "295a.png"
   }
 }

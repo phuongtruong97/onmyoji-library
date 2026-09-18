@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3698,
+      "value": 3966,
       "grade": "SS"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11619,
-      "grade": "A"
+      "value": 12532,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 441,
-      "grade": "A"
+      "value": 494,
+      "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 107,
+      "value": 117,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 5971,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồ Ngôn",
@@ -59,7 +61,7 @@
         "zh": "狐言"
       },
       "intro": {
-        "vi": "如果你想感受绝望，我很乐意帮忙~",
+        "vi": "Nếu ngươi muốn nếm trải cảm giác tuyệt vọng, ta rất sẵn lòng giúp một tay đấy~",
         "en": "如果你想感受绝望，我很乐意帮忙~",
         "zh": "如果你想感受绝望，我很乐意帮忙~"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5972,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Độ Linh",
@@ -120,9 +124,9 @@
         "zh": "授予你狐族之印，以后便是我的人了。"
       },
       "description": {
-        "vi": "[tips_11] Cát Diệp khi thi triển yêu thuật ngoài 「[skill_5974_1]」 nhận 1 tầng [buff_5971_1]. Đồng minh khác không phải vật triệu hồi nhận kỹ năng 「[skill_5976_1]」. Khi đồng minh nhận [buff_5972_1], tăng 75 điểm Tốc độ cho Cát Diệp, tối đa 3 lần, duy trì 1 lượt. Khi trận đấu bắt đầu, nhận 1 tầng [buff_5972_1], duy trì 1 lượt.\n【Thi triển】 Giúp bản thân nhận 1 tầng [buff_5972_1], duy trì 1 lượt; giúp mục tiêu đồng minh chỉ định tăng 40% Thanh Hành Động, và nhận 3 tầng [buff_5972_1], duy trì 1 lượt.",
+        "vi": "[tips_11] Cát Diệp khi thi triển yêu thuật ngoài [skill_5974_1] nhận 1 tầng [buff_5971_1]. Đồng minh khác không phải vật triệu hồi nhận kỹ năng [skill_5976_1]. Khi đồng minh nhận [buff_5972_1], tăng 75 điểm Tốc độ cho Cát Diệp, tối đa 3 lần, duy trì 1 lượt. Khi trận đấu bắt đầu, nhận 1 tầng [buff_5972_1], duy trì 1 lượt.\n[Thi triển] Giúp bản thân nhận 1 tầng [buff_5972_1], duy trì 1 lượt; giúp mục tiêu đồng minh chỉ định tăng 40% Thanh Hành Động, và nhận 3 tầng [buff_5972_1], duy trì 1 lượt.",
         "en": "[tips_11]. When Kuzunoha casts a skill other than [skill_5974_1], gains 1 stack of [buff_5971_1]. Other non-summoned entity allies gain the [skill_5976_1] skill. When an ally gains [buff_5972_1], increases Kuzunoha's SPD by 75 (up to 3 times), lasting for 1 turn. At the start of battle, gains 1 stack of [buff_5972_1], lasting for 1 turn.\nActive skill: Grants self 1 stack of [buff_5972_1], lasting for 1 turn; raises a designated ally's Move Bar by 40% and grants them 3 stacks of [buff_5972_1], lasting for 1 turn.",
-        "zh": "[tips_11]。葛叶施放「[skill_5974_1]」外的妖术获得1层[buff_5971_1]。其他非召唤物友方获得技能「[skill_5976_1]」。友方获得[buff_5972_1]时，提升葛叶75点速度，至多3次，持续1回合。战斗开始时，获得1层[buff_5972_1]，持续1回合。\n【施放】使自身获得1层[buff_5972_1]，持续1回合；使指定友方目标提升40%行动条，并获得3层[buff_5972_1]，持续1回合。"
+        "zh": "[tips_11]。葛叶施放「[skill_5974_1]外的妖术获得1层[buff_5971_1]。其他非召唤物友方获得技能「[skill_5976_1]。友方获得[buff_5972_1]时，提升葛叶75点速度，至多3次，持续1回合。战斗开始时，获得1层[buff_5972_1]，持续1回合。\n【施放】使自身获得1层[buff_5972_1]，持续1回合；使指定友方目标提升40%行动条，并获得3层[buff_5972_1]，持续1回合。"
       },
       "upgrades": [
         {
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Giúp đồng minh nhận 3 tầng [buff_5972_1]",
-            "en": "Grants an ally 3 stacks of [buff_5972_1].",
-            "zh": "使友方获得3层[buff_5972_1]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Đồng minh khi nhận [buff_5972_1], tăng 75 điểm Tốc độ cho Cát Diệp, tối đa 3 lần, duy trì 1 lượt",
-            "en": "When an ally gains [buff_5972_1], increases Kuzunoha's SPD by 75 (up to 3 times), lasting for 1 turn.",
-            "zh": "友方获得[buff_5972_1]时，提升葛叶75点速度，至多3次，持续1回合"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Đồng minh khi nhận [buff_5972_1], tăng 75 điểm Tốc độ cho Cát Diệp, tối đa 3 lần, duy trì 1 lượt",
@@ -163,22 +151,6 @@
             "vi": "Thi triển giúp bản thân nhận 1 tầng [buff_5972_1], duy trì 1 lượt",
             "en": "When cast, grants herself 1 stack of [buff_5972_1] for 1 turn.",
             "zh": "施放使自身获得1层[buff_5972_1]，持续1回合"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Thi triển giúp bản thân nhận 1 tầng [buff_5972_1], duy trì 1 lượt",
-            "en": "When cast, grants herself 1 stack of [buff_5972_1] for 1 turn.",
-            "zh": "施放使自身获得1层[buff_5972_1]，持续1回合"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi trận đấu bắt đầu, nhận 1 tầng [buff_5972_1], duy trì 1 lượt",
-            "en": "At the start of battle, gains 1 stack of [buff_5972_1], lasting 1 turn.",
-            "zh": "战斗开始时，获得1层[buff_5972_1]，持续1回合"
           }
         },
         {
@@ -194,8 +166,118 @@
       "iconFile": "5972.png"
     },
     {
+      "id": 5974,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 5972,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quy Nguyên Thuật",
+        "en": "Origin Art",
+        "zh": "归源术"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Chọn thức thần phe ta, loại bỏ toàn bộ trạng thái giảm ích của kẻ đó, khiến kẻ đó tiến vào hiệu ứng [tips_5976], hợp thể với kẻ đó thành [tips_5975] và nhận lượt mới; hoặc chọn thức thần phe ta giải trừ hiệu ứng [tips_5976].",
+        "en": "Selects an allied shikigami to remove all their debuffs, and grant them the [tips_5976] effect, merging with them into [tips_5975] and gaining a new turn; or select an allied shikigami to remove the [tips_5976] effect.",
+        "zh": "选择友方式神，移除其所有减益，使其进入[tips_5976]效果，与之合体为[tips_5975]并获得新回合；或选择友方式神解除[tips_5976]效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi khi huyễn hóa 1 thức thần, tăng 20% HP trạng thái Đại Yêu",
+            "en": "For each shikigami transfigured, increases the Great Spirit Form's HP by 20%.",
+            "zh": "每幻化1名式神，提升大妖姿态20%生命"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi khi huyễn hóa 1 thức thần, tăng 20% Tấn công trạng thái Đại Yêu",
+            "en": "For each shikigami transfigured, increases the Great Spirit Form's ATK by 20%.",
+            "zh": "每幻化1名式神，提升大妖姿态20%攻击"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Mỗi khi huyễn hóa 1 thức thần, tăng 20% Phòng thủ trạng thái Đại Yêu",
+            "en": "For each shikigami transfigured, increases the Great Spirit Form's DEF by 20%.",
+            "zh": "每幻化1名式神，提升大妖姿态20%防御"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi huyễn hóa 1 thức thần, tăng 10% Sát Thương Bạo Kích trạng thái Đại Yêu",
+            "en": "For each shikigami transfigured, increases the Great Spirit Form's Crit DMG by 10%.",
+            "zh": "每幻化1名式神，提升大妖姿态10%暴击伤害"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "5973.png"
+    },
+    {
+      "id": 5976,
+      "number": 2,
+      "variantOrder": 2,
+      "parentSkillId": 5972,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Hợp Thủ",
+        "en": "Shared Defense",
+        "zh": "合守"
+      },
+      "intro": {
+        "vi": "Người mà ngươi thương nhớ, sẽ luôn dừng lại trong đôi mắt ngươi.",
+        "en": "The one you cherish will forever remain in your eyes.",
+        "zh": "思念的人，会一直停留在你的眼中。"
+      },
+      "description": {
+        "vi": "Nhận 3 tầng [buff_5972_1], duy trì 1 lượt.",
+        "en": "Gains 3 stacks of [buff_5972_1], lasting 1 turn.",
+        "zh": "获得3层[buff_5972_1]，持续1回合。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5976.png"
+    },
+    {
+      "id": 5975,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 5973,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chung Thức · Phá Không",
+        "en": "Finale: Sky Blast",
+        "zh": "终式·破空"
+      },
+      "intro": {
+        "vi": "Chuyện gì cũng bắt đứa trẻ phải đối mặt, vậy cần gì đến cha mẹ nữa?",
+        "en": "If a child has to face everything on their own, then what's the point of having parents?",
+        "zh": "什么事情都要孩子面对，那还要父母干嘛？"
+      },
+      "description": {
+        "vi": "Cùng đồng đội hợp lực thi pháp, hồi phục lượng HP bằng 100% Tấn công ban đầu của bản thân, và tấn công toàn bộ phe địch 3 lần, mỗi lần gây sát thương bằng 300% Tấn công, sát thương chia đều cho toàn bộ phe địch; mỗi khi huyễn hóa 1 thức thần, sát thương lần cuối tương ứng tăng lên 100%, 200%, 360%. Số người phe địch mỗi khi giảm 1 người so với số người ban đầu của phe ta, sát thương suy giảm 12%.",
+        "en": "Combines forces with allies to cast the spell, recovering HP equal to 100% of self's starting ATK, and attacks all enemies 3 times, each dealing damage equal to 300% of ATK, distributed evenly among all enemies. For each shikigami transfigured, the final instance of damage increases by 100%, 200%, and 360% respectively. Damage decreases by 12% for each enemy unit fewer than the initial number of allies.",
+        "zh": "与同伴合力施法，恢复自身初始攻击100%的生命，并攻击敌方全体3次，每次造成攻击300% 伤害，伤害平均分配给敌方全体；每幻化1名式神，末次伤害分别提升100%、200%、360%。敌方人数每比友方初始人数减少1人，伤害衰减12%。"
+      },
+      "upgrades": [],
+      "orbCost": 3,
+      "iconFile": "5975.png"
+    },
+    {
       "id": 5973,
       "number": 3,
+      "variantOrder": 2,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồ Ảnh Trận",
@@ -247,11 +329,11 @@
         }
       ],
       "orbCost": 3,
-      "iconFile": "5973.png"
+      "iconFile": "5974.png"
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "597.png",
+    "headIconFile": "597a.png"
   }
 }

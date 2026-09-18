@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2948,
+      "value": 3216,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
-      "grade": "C"
+      "value": 10254,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
-      "grade": "C"
+      "value": 397,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 102,
-      "grade": "B"
+      "value": 112,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2651,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hắc Diễm",
@@ -64,7 +66,7 @@
         "zh": "呵，这样就足够解决你了。"
       },
       "description": {
-        "vi": "以鬼气凝成黑色火焰攻击敌方目标，造成攻击125%伤害。",
+        "vi": "Dùng quỷ khí ngưng tụ thành ngọn lửa đen tấn công mục tiêu phe địch, gây sát thương bằng 125% Tấn công.",
         "en": "以鬼气凝成黑色火焰攻击敌方目标，造成攻击125%伤害。",
         "zh": "以鬼气凝成黑色火焰攻击敌方目标，造成攻击125%伤害。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2652,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Chuyển Nộ",
@@ -131,9 +135,11 @@
     {
       "id": 2653,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "地狱之手",
+        "vi": "Địa Ngục Chi Thủ",
         "en": "地狱之手",
         "zh": "地狱之手"
       },
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_cimutongzi.png"
+    "portraitFile": "265.png",
+    "headIconFile": "265a.png"
   }
 }

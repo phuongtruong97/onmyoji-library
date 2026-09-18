@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3055,
+      "value": 3350,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11392,
-      "grade": "A"
+      "value": 12532,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 317,
+      "value": 353,
       "grade": "D"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 100,
-      "grade": "B"
+      "value": 110,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,9 +52,11 @@
     {
       "id": 3001,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "灵击",
+        "vi": "Linh Kích",
         "en": "灵击",
         "zh": "灵击"
       },
@@ -64,15 +66,15 @@
         "zh": "这个世界上，所有人都有自己的秘密。"
       },
       "description": {
-        "vi": "Sử dụng linh khí tấn công mục tiêu kẻ địch, gây sát thương 125% và có xác suất 10% (+[*|a_debuff-acc_per|s_buff概率_per]) khiến mục tiêu [tips_103] trong 1 lượt.",
-        "en": "Uses spirit energy to attack 1 enemy, dealing damage equal to 125% of his ATK with a 10% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_103] lasting 1 turn(s) on them.",
-        "zh": "使用灵气攻击敌方目标，造成攻击125%伤害并有10%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_103]1回合。"
+        "vi": "Sử dụng linh khí tấn công mục tiêu kẻ địch, gây sát thương 125% và có xác suất 10% [tips_2] khiến mục tiêu [tips_103] trong 1 lượt.",
+        "en": "Uses spirit energy to attack 1 enemy, dealing damage equal to 125% of his ATK with a 10% (+Effect HIT) chance of inflicting [tips_103] lasting 1 turn(s) on them.",
+        "zh": "使用灵气攻击敌方目标，造成攻击125%伤害并有10%（+效果命中）概率使其[tips_103]1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 3002,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "狐火",
+        "vi": "Hồ Hỏa",
         "en": "狐火",
         "zh": "狐火"
       },
@@ -128,7 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至362%",
+            "vi": "Sát thương tăng lên 362%",
             "en": "伤害增加至362%",
             "zh": "伤害增加至362%"
           }
@@ -136,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至371%",
+            "vi": "Sát thương tăng lên 371%",
             "en": "伤害增加至371%",
             "zh": "伤害增加至371%"
           }
@@ -144,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至380%",
+            "vi": "Sát thương tăng lên 380%",
             "en": "伤害增加至380%",
             "zh": "伤害增加至380%"
           }
@@ -152,7 +156,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至389%",
+            "vi": "Sát thương tăng lên 389%",
             "en": "伤害增加至389%",
             "zh": "伤害增加至389%"
           }
@@ -164,9 +168,11 @@
     {
       "id": 3003,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "堕天",
+        "vi": "Đọa Thiên",
         "en": "堕天",
         "zh": "堕天"
       },
@@ -176,15 +182,15 @@
         "zh": "表面的美丽，往往让人忘记了危险。"
       },
       "description": {
-        "vi": "Bộc phát sức mạnh của bản thân tấn công toàn thể kẻ địch, gây sát thương 195%. Nếu «Hồ Hỏa» hoặc «Đọa Thiên» đánh bại kẻ địch, lập tức [Thi triển] kỹ năng yêu thuật còn lại không tốn tiêu hao, sát thương giảm dần theo thứ tự 20%.",
+        "vi": "Bộc phát sức mạnh của bản thân tấn công toàn thể kẻ địch, gây sát thương 195%. Nếu «Hồ Hỏa» hoặc «Đọa Thiên» đánh bại kẻ địch, lập tức [Thi Triển] kỹ năng yêu thuật còn lại không tốn tiêu hao, sát thương giảm dần theo thứ tự 20%.",
         "en": "Channels all of his power, dealing damage to all enemies equal to 195% of his ATK. If Fox Fire or The Falling KO's an enemy, immediately casts another skill without cost, with damage decreasing by 20% each time.",
-        "zh": "爆发自身力量攻击敌方全体，造成攻击195%伤害。若『狐火』或『堕天』击败敌方，立即免消耗施放另一妖术技能，伤害依次递减20%。"
+        "zh": "爆发自身力量攻击敌方全体，造成攻击195%伤害。若『狐火]或『堕天]击败敌方，立即免消耗施放另一妖术技能，伤害依次递减20%。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至182%",
+            "vi": "Sát thương tăng lên 182%",
             "en": "伤害增加至182%",
             "zh": "伤害增加至182%"
           }
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至188%",
+            "vi": "Sát thương tăng lên 188%",
             "en": "伤害增加至188%",
             "zh": "伤害增加至188%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至195%",
+            "vi": "Sát thương tăng lên 195%",
             "en": "伤害增加至195%",
             "zh": "伤害增加至195%"
           }
@@ -208,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Nếu «Hồ Hỏa» hoặc «Đọa Thiên» đánh bại kẻ địch, lập tức [Thi triển] kỹ năng yêu thuật còn lại không tốn tiêu hao, sát thương giảm dần theo thứ tự 20%.",
+            "vi": "Nếu [Hồ Hỏa] hoặc [Đọa Thiên] đánh bại kẻ địch, lập tức [Thi triển] kỹ năng yêu thuật còn lại không tốn tiêu hao, sát thương giảm dần theo thứ tự 20%.",
             "en": "If Fox Fire or The Falling KO's an enemy, immediately casts another skill without cost, with damage decreasing by 20% each time.",
-            "zh": "若『狐火』或『堕天』击败敌方，立即免消耗施放另一妖术技能，伤害依次递减20%"
+            "zh": "若『狐火]或『堕天]击败敌方，立即免消耗施放另一妖术技能，伤害依次递减20%"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "yuzaoqian.png",
-    "headIconFile": ""
+    "portraitFile": "300.png",
+    "headIconFile": "300a.png"
   }
 }

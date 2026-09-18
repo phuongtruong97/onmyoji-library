@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2948,
+      "value": 3162,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
-      "grade": "C"
+      "value": 10595,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
+      "value": 392,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 102,
-      "grade": "B"
+      "value": 112,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2811,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Giày Vò",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2812,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bộc Sóc Mê Ly",
@@ -120,23 +124,15 @@
         "zh": "我可不想变得脏兮兮的～"
       },
       "description": {
-        "vi": "Khi chịu sát thương, có 40% xác suất khiến lần sát thương đó giảm 30%.\nKhi tấn công, có 10% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất [tips_107] kẻ địch thành khói tiểu quỷ, duy trì 1 lượt.",
-        "en": "When taking damage, has a 40% chance of reducing damage by 30%.\nWhen attacked, has a 10% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of [tips_107]ing the enemy into a smoke ghost for 1 turn(s).",
-        "zh": "受到伤害时，有40%概率使该次伤害降低30%。\n攻击时，有10%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将敌方[tips_107]为烟雾小鬼，持续1回合。"
+        "vi": "Khi chịu sát thương, có 40% xác suất khiến lần sát thương đó giảm 30%.\nKhi tấn công, có 10% [tips_2] xác suất [tips_107] kẻ địch thành khói tiểu quỷ, duy trì 1 lượt.",
+        "en": "When taking damage, has a 40% chance of reducing damage by 30%.\nWhen attacked, has a 10% (+Effect HIT) chance of [tips_107]ing the enemy into a smoke ghost for 1 turn(s).",
+        "zh": "受到伤害时，有40%概率使该次伤害降低30%。\n攻击时，有10%（+效果命中）概率将敌方[tips_107]为烟雾小鬼，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "触发概率增至35%",
-            "en": "触发概率增至35%",
-            "zh": "触发概率增至35%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "触发概率增至35%",
+            "vi": "Tỷ lệ kích hoạt tăng lên 35%",
             "en": "触发概率增至35%",
             "zh": "触发概率增至35%"
           }
@@ -150,35 +146,11 @@
           }
         },
         {
-          "level": 3,
-          "text": {
-            "vi": "Hiệu ứng giảm sát thương, tăng lên 25%",
-            "en": "Increases damage reduction effect to 25%.",
-            "zh": "降低伤害效果，增至25%"
-          }
-        },
-        {
           "level": 4,
           "text": {
-            "vi": "触发概率增至40%",
+            "vi": "Tỷ lệ kích hoạt tăng lên 40%",
             "en": "触发概率增至40%",
             "zh": "触发概率增至40%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "触发概率增至40%",
-            "en": "触发概率增至40%",
-            "zh": "触发概率增至40%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Hiệu ứng giảm sát thương, tăng lên 30%",
-            "en": "Increases damage reduction effect to 30%.",
-            "zh": "降低伤害效果，增至30%"
           }
         },
         {
@@ -196,6 +168,8 @@
     {
       "id": 2813,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Yên Chi Quỷ",
@@ -208,7 +182,7 @@
         "zh": "哎呀，你还没被欺负够吗？"
       },
       "description": {
-        "vi": "酣畅攻击敌方目标5次，每次造成攻击23%伤害，最后对敌方全体造成攻击53%伤害；前5次攻击的每次暴击，都会使最后的伤害提升30%。",
+        "vi": "Tấn công sảng khoái mục tiêu phe địch 5 lần, mỗi lần gây sát thương bằng 23% Tấn công, cuối cùng gây sát thương bằng 53% Tấn công lên toàn thể phe địch; mỗi lần bạo kích trong 5 đòn tấn công đầu đều khiến sát thương cuối cùng tăng thêm 30%.",
         "en": "酣畅攻击敌方目标5次，每次造成攻击23%伤害，最后对敌方全体造成攻击53%伤害；前5次攻击的每次暴击，都会使最后的伤害提升30%。",
         "zh": "酣畅攻击敌方目标5次，每次造成攻击23%伤害，最后对敌方全体造成攻击53%伤害；前5次攻击的每次暴击，都会使最后的伤害提升30%。"
       },
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_yanyanluo.png"
+    "portraitFile": "281.png",
+    "headIconFile": "281a.png"
   }
 }

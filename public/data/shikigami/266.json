@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2170,
-      "grade": "C"
+      "value": 2439,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10480,
-      "grade": "B"
+      "value": 11621,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 427,
-      "grade": "B"
+      "value": 472,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 109,
-      "grade": "A"
+      "value": 119,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,9 +52,11 @@
     {
       "id": 2661,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "幽光",
+        "vi": "U Quang",
         "en": "幽光",
         "zh": "幽光"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2662,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 9,
       "name": {
         "vi": "Minh Đăng",
@@ -134,38 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 12%",
-            "en": "Trigger chance increases to 12%.",
-            "zh": "触发概率增加至12%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 12%",
-            "en": "Trigger chance increases to 12%.",
-            "zh": "触发概率增加至12%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 14%",
-            "en": "Trigger chance increases to 14%.",
-            "zh": "触发概率增加至14%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 14%",
-            "en": "Trigger chance increases to 14%.",
-            "zh": "触发概率增加至14%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Xác suất kích hoạt tăng lên 14%",
@@ -179,38 +151,6 @@
             "vi": "Xác suất kích hoạt tăng lên 16%",
             "en": "Trigger chance increases to 16%.",
             "zh": "触发概率增加至16%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 16%",
-            "en": "Trigger chance increases to 16%.",
-            "zh": "触发概率增加至16%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 16%",
-            "en": "Trigger chance increases to 16%.",
-            "zh": "触发概率增加至16%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 40%, nhưng mỗi khi sở hữu 1 điểm Quỷ Hỏa làm xác suất giảm 3%",
-            "en": "Increases chance of triggering to 40% (reduced by 3% for each orb you have).",
-            "zh": "触发概率增至40%，但每拥有1点鬼火使概率降低3%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 40%, nhưng mỗi khi sở hữu 1 điểm Quỷ Hỏa làm xác suất giảm 3%",
-            "en": "Increases chance of triggering to 40% (reduced by 3% for each orb you have).",
-            "zh": "触发概率增至40%，但每拥有1点鬼火使概率降低3%"
           }
         },
         {
@@ -219,6 +159,14 @@
             "vi": "Xác suất kích hoạt tăng lên 40%, mỗi khi có 1 điểm Quỷ Hỏa làm xác suất kích hoạt giảm 3%",
             "en": "Trigger chance increases to 40%, but reduces by 3% for each 1 orb you have.",
             "zh": "触发概率增加至40%，每有一点鬼火触发概率降低3%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 40%, nhưng mỗi khi sở hữu 1 điểm Quỷ Hỏa làm xác suất giảm 3%",
+            "en": "Increases chance of triggering to 40% (reduced by 3% for each orb you have).",
+            "zh": "触发概率增至40%，但每拥有1点鬼火使概率降低3%"
           }
         },
         {
@@ -260,9 +208,11 @@
     {
       "id": 2663,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "吸魂灯",
+        "vi": "Hấp Hồn Đăng",
         "en": "吸魂灯",
         "zh": "吸魂灯"
       },
@@ -280,7 +230,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至165%",
+            "vi": "Sát thương tăng lên 165%",
             "en": "伤害增加至165%",
             "zh": "伤害增加至165%"
           }
@@ -288,7 +238,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至172%",
+            "vi": "Sát thương tăng lên 172%",
             "en": "伤害增加至172%",
             "zh": "伤害增加至172%"
           }
@@ -296,7 +246,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至180%",
+            "vi": "Sát thương tăng lên 180%",
             "en": "伤害增加至180%",
             "zh": "伤害增加至180%"
           }
@@ -315,7 +265,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "qingxingdeng.png",
-    "headIconFile": "h_qingxingdeng.png"
+    "portraitFile": "266.png",
+    "headIconFile": "266a.png"
   }
 }

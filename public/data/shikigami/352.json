@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12041,
+      "value": 12042,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3521,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Triền Tâm",
@@ -96,9 +98,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Phược Cốt Thanh Cơ mỗi khi tấn công, đổi thành đính kèm [buff_99_1] cấp 5 duy trì 5 lượt cho mục tiêu, và giảm 50 điểm Phòng thủ duy trì cho đến khi trận đấu kết thúc (（giới hạn 500 điểm))",
-            "en": "Whenever Lovebound Kiyohime attacks, she inflicts a [buff_99_1] V lasting 5 turns on the enemy and a 50 DEF Down((max 500 DEF reduced)) lasting until the battle ends instead.",
-            "zh": "缚骨清姬每次攻击时，改为对目标附加持续5回合的5级[buff_99_1]，和持续至战斗结束的50点减防(（上限500点）)"
+            "vi": "Phược Cốt Thanh Cơ mỗi khi tấn công, đổi thành đính kèm [buff_99_1] cấp 5 duy trì 5 lượt cho mục tiêu, và giảm 50 điểm Phòng thủ duy trì cho đến khi trận đấu kết thúc (giới hạn 500 điểm)",
+            "en": "Whenever Lovebound Kiyohime attacks, she inflicts a [buff_99_1] V lasting 5 turns on the enemy and a 50 DEF Down((max 500 DEF reduced) lasting until the battle ends instead.",
+            "zh": "缚骨清姬每次攻击时，改为对目标附加持续5回合的5级[buff_99_1]，和持续至战斗结束的50点减防(上限500点）)"
           }
         }
       ],
@@ -108,6 +110,8 @@
     {
       "id": 3522,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thực Cốt",
@@ -164,6 +168,8 @@
     {
       "id": 3523,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hàng Cổ Chi Đồng",
@@ -176,9 +182,9 @@
         "zh": "以你之身，将我铭记。"
       },
       "description": {
-        "vi": "Tấn công mục tiêu 3 lần, mỗi lần gây sát thương bằng 100% Tấn công và đính kèm 1 tầng [buff_3523_1], duy trì 2 lượt.\nSau khi Xà Linh trở về, kỹ năng thay thế thành 『[skill_3526_1]』.",
+        "vi": "Tấn công mục tiêu 3 lần, mỗi lần gây sát thương bằng 100% Tấn công và đính kèm 1 tầng [buff_3523_1], duy trì 2 lượt.\nSau khi Xà Linh trở về, kỹ năng thay thế thành [skill_3526_1].",
         "en": "Launches a 3-strike attack on 1 enemy. Each strike deals damage equal to 100% of her ATK and inflicts a stack of [buff_3523_1] for 2 turns on them.\n When the Serpent returns, the skill is changed to [skill_3526_1].",
-        "zh": "攻击目标3次，每次造成攻击100%伤害并附加1层[buff_3523_1]，持续2回合。\n蛇灵返回后，技能替换为『[skill_3526_1]』。"
+        "zh": "攻击目标3次，每次造成攻击100%伤害并附加1层[buff_3523_1]，持续2回合。\n蛇灵返回后，技能替换为『[skill_3526_1]。"
       },
       "upgrades": [
         {
@@ -192,9 +198,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "「[buff_3523_1]」 có thể kích hoạt khi mục tiêu chịu hiệu ứng tăng thanh hành động, tiêu hao 1 tầng làm hiệu ứng đó vô hiệu",
+            "vi": "「[buff_3523_1]] có thể kích hoạt khi mục tiêu chịu hiệu ứng tăng thanh hành động, tiêu hao 1 tầng làm hiệu ứng đó vô hiệu",
             "en": "[buff_3523_1] can be triggered when the target's Move Bar is raised. One layer is consumed, nullifying the effect.",
-            "zh": "「[buff_3523_1]」可在目标受到行动条增加效果时触发，消耗1层使其无效"
+            "zh": "「[buff_3523_1]]可在目标受到行动条增加效果时触发，消耗1层使其无效"
           }
         },
         {
@@ -208,18 +214,76 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi 「[buff_3523_1]」 kích hoạt, giảm 8% giới hạn HP tối đa của mục tiêu (（giảm tối đa xuống 20%; nếu mục tiêu là quái vật, mỗi lần không vượt quá 1200% Tấn công của Phược Cốt Thanh Cơ))",
-            "en": "When [buff_3523_1] is triggered, reduces the enemy's max HP by 8% ((limited to 1,200% of Lovebound Kiyohime's ATK each time; total max 20% reduced)).",
-            "zh": "「[buff_3523_1]」触发时，降低目标8%最大生命上限(（最多降低至20%；若目标为怪物，每次不超过缚骨清姬攻击的1200%）)"
+            "vi": "Khi [[buff_3523_1]] kích hoạt, giảm 8% giới hạn HP tối đa của mục tiêu (giảm tối đa xuống 20%; nếu mục tiêu là quái vật, mỗi lần không vượt quá 1200% Tấn công của Phược Cốt Thanh Cơ)",
+            "en": "When [buff_3523_1] is triggered, reduces the enemy's max HP by 8% ((limited to 1,200% of Lovebound Kiyohime's ATK each time; total max 20% reduced).",
+            "zh": "「[buff_3523_1]]触发时，降低目标8%最大生命上限(最多降低至20%；若目标为怪物，每次不超过缚骨清姬攻击的1200%）)"
           }
         }
       ],
       "orbCost": 3,
       "iconFile": "3523.png"
+    },
+    {
+      "id": 3526,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 3523,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ái Oán Chích Thân",
+        "en": "Burning Love",
+        "zh": "爱怨灼身"
+      },
+      "intro": {
+        "vi": "Ngươi cũng lựa chọn đi yêu sao?",
+        "en": "Did you also choose to love someone?",
+        "zh": "你也选择了去爱吗？"
+      },
+      "description": {
+        "vi": "Tấn công mục tiêu 3 lần, mỗi lần tấn công giảm 7% giới hạn HP tối đa của mục tiêu kẻ địch, đồng thời mỗi lần gây sát thương bằng 100% Tấn công và đính kèm 1 tầng [buff_3523_3], duy trì 2 lượt, sau đó đính kèm [buff_3526_1] cho toàn bộ phe địch, duy trì 3 lượt.\nThừa hưởng hiệu ứng nâng cấp kỹ năng của [skill_3523_1].",
+        "en": "Launches a 3-strike attack on 1 enemy. Each strick reduces the target's max HP by 7%, deals damage equal to 100% of her ATK and inflicts a stack of [buff_3523_3] on them for 2 turns. Then, inflicts [buff_3526_1] on all enemies for 3 turns.\nInherits the level-up effects of [skill_3523_1].",
+        "zh": "攻击目标3次，每次攻击时降低敌方目标7%的最大生命上限，同时每次造成攻击100%伤害并附加1层[buff_3523_3]，持续2回合，之后对敌方全体附加[buff_3526_1]，持续3回合。\n继承『[skill_3523_1]的技能升级效果。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi lần gây sát thương bằng 85% Tấn công",
+            "en": "Each strike inflicts damage equal to 85% of her ATK.",
+            "zh": "每次造成攻击85%伤害"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "「[buff_3523_2]] khi mục tiêu chịu hiệu ứng đẩy nhanh hành động cũng sẽ kích hoạt và làm hiệu ứng đó vô hiệu",
+            "en": "[buff_3523_2] is triggered when the target's Move Bar is raised, nullifying the effect.",
+            "zh": "「[buff_3523_2]]在目标受到行动提前效果时也会触发并使其无效"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Mỗi lần gây sát thương bằng 100% Tấn công",
+            "en": "Each strike inflicts damage equal to 100% of her ATK.",
+            "zh": "每次造成攻击100%伤害"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi lần tấn công giảm 7% giới hạn HP tối đa của mục tiêu kẻ địch （nếu mục tiêu là quái vật, mỗi lần không vượt quá 1200% Tấn công của Phược Cốt Thanh Cơ)",
+            "en": "Each attack reduces the enemy target's max HP by 7% (if the target is a monster, each reduction is capped at 1200% of Lovebound Kiyohime's ATK)",
+            "zh": "每次攻击时降低敌方目标7%的最大生命上限（若目标为怪物，每次不超过缚骨清姬攻击的1200%）"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "3526.png"
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "352.png",
+    "headIconFile": "352a.png"
   }
 }

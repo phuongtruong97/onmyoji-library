@@ -10,48 +10,50 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3350,
-      "grade": "S"
+      "value": 3618,
+      "grade": "SS"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10936,
-      "grade": "B"
+      "value": 12077,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 405,
-      "grade": "B"
+      "value": 450,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 106,
+      "value": 116,
       "grade": "A"
     },
     {
       "key": "crit",
       "label": "CHÍ MẠNG",
-      "value": "15%",
-      "grade": "S"
+      "value": "20%",
+      "grade": "SS"
     }
   ],
   "secondaryStats": {
     "critDamage": "150%",
-    "effectHit": "20%",
+    "effectHit": "0%",
     "effectRes": "0%"
   },
   "skills": [
     {
       "id": 5571,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Yên Diệt",
@@ -64,7 +66,7 @@
         "zh": "采撷之刻已到，回到我的怀抱吧。"
       },
       "description": {
-        "vi": "Triệu hồi đàn xà tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 25% [tips_2] đính kèm [buff_5571_1], duy trì 1 lượt.",
+        "vi": "Triệu hồi đàn rắn tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 25% [tips_2] đính kèm [buff_5571_1], duy trì 1 lượt.",
         "en": "Commands a naga swarm to strike 1 enemy, dealing damage equal to 125% of her ATK, with a 25% [tips_2] of inflicting [buff_5571_1] lasting 1 turn.",
         "zh": "召唤蛇群攻击敌方目标，造成攻击125%伤害并有25%[tips_2]施加[buff_5571_1]，持续1回合。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 5572,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Thần Tứ Chi Nụ Hôn",
+        "vi": "Thần Tứ Chi Hôn",
         "en": "Divine Kiss",
         "zh": "神赐之吻"
       },
@@ -120,49 +124,25 @@
         "zh": "敬畏死亡，赞美死亡。"
       },
       "description": {
-        "vi": "[tips_11]. Đính kèm [buff_5572_1] cho mục tiêu phe ta chỉ định ngoài bản thân, nếu mục tiêu đó đã ở trạng thái [buff_5572_1], khiến kẻ đó tổn thất thêm lượng HP bằng 50% HP tối đa (hiệu ứng này không gây tử vong). Phe ta mỗi khi giảm 100 điểm Phòng thủ do [buff_5572_1], bỏ qua thêm 40 điểm Phòng thủ, bỏ qua thêm tối đa 200 điểm Phòng thủ; khi bản thân có mặt trên sân, mục tiêu phe ta ở trạng thái [buff_5572_1] chịu sát thương chí mạng sẽ còn lại 1 điểm HP (mục tiêu trước khi bắt đầu lượt tiếp theo kích hoạt tối đa 1 lần, trước khi bị đính kèm lại [buff_5572_1] tích lũy kích hoạt tối đa 3 lần); khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Tốc độ và Sát Thương Bạo Kích tăng 50%, duy trì 2 lượt (mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần). [tips_7]: Thi triển miễn phí 『Thần Tứ Chi Nụ Hôn』 lên Thức Thần phe ta có Tấn công cao nhất. Khi Y Tà Na Mỹ tấn công, cũng có thể kích hoạt hiệu ứng bỏ qua Phòng thủ hiện tại từ [buff_5572_1] của mục tiêu phe ta.",
+        "vi": "[tips_11]. Đính kèm [buff_5572_1] cho mục tiêu phe ta chỉ định ngoài bản thân, nếu mục tiêu đó đã ở trạng thái [buff_5572_1], khiến kẻ đó tổn thất thêm lượng HP bằng 50% HP tối đa (hiệu ứng này không gây tử vong). Phe ta mỗi khi giảm 100 điểm Phòng thủ do [buff_5572_1], bỏ qua thêm 40 điểm Phòng thủ, bỏ qua thêm tối đa 200 điểm Phòng thủ; khi bản thân có mặt trên sân, mục tiêu phe ta ở trạng thái [buff_5572_1] chịu sát thương chí mạng sẽ còn lại 1 điểm HP (mục tiêu trước khi bắt đầu lượt tiếp theo kích hoạt tối đa 1 lần, trước khi bị đính kèm lại [buff_5572_1] tích lũy kích hoạt tối đa 3 lần); khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Tốc độ và Sát Thương Bạo Kích tăng 50%, duy trì 2 lượt (mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần). \n[tips_7]: Thi triển miễn phí『Thần Tứ Chi Hôn]lên Thức Thần phe ta có Tấn công cao nhất. Khi Y Tà Na Mỹ tấn công, cũng có thể kích hoạt hiệu ứng bỏ qua Phòng thủ hiện tại từ [buff_5572_1] của mục tiêu phe ta.",
         "en": "[tips_11]. Grants [buff_5572_1] to another ally. If the ally is already [buff_5572_1], they additionally lose HP equal to 50% of their max HP (the effect won't be lethal.) For each 100 DEF reduced due to [buff_5572_1], the ally ignores another 40 DEF, up to 200 DEF ignored. While she's on the battlefield, if the ally with [buff_5572_1] takes lethal damage, their HP won't reduce below 1 (triggers up to once before the ally's next turn, and up to 3 times before they're granted [buff_5572_1] again.) When the HP of a non-summoned ally entity drops to 1 for the first time, increases their SPD and Crit DMG by 50% for 2 turns (triggers up to once for each of the allies and up to a total of 3 times in a single battle.) [tips_7]: Uses Divine Kiss on the ally shikigami with the highest ATK, with no orb cost. Izanami's attacks also trigger the DEF-ignoring effect of the ally with [buff_5572_1].",
-        "zh": "[tips_11]。为自身以外的指定友方目标施加[buff_5572_1]，若该目标已处于[buff_5572_1]，则使其额外失去最大生命50%的生命（该效果不致命）。友方每因[buff_5572_1]降低100点防御，额外无视40点防御，至多额外无视200点防御；自身在场时，处于[buff_5572_1]的友方目标受到致命伤害将剩余1点生命（目标下回合开始前至多触发1次，被再次施加[buff_5572_1]前至多累计触发3次）；当场上非召唤物友方目标首次剩余1点生命时，速度和暴击伤害提升50%，持续2回合（每个目标至多生效1次，单次战斗累计至多生效3次）。[tips_7]：对攻击最高的友方式神无消耗施放『神赐之吻』。伊邪那美攻击时，也可触发友方目标当前[buff_5572_1]的防御无视效果。"
+        "zh": "[tips_11]。为自身以外的指定友方目标施加[buff_5572_1]，若该目标已处于[buff_5572_1]，则使其额外失去最大生命50%的生命（该效果不致命）。友方每因[buff_5572_1]降低100点防御，额外无视40点防御，至多额外无视200点防御；自身在场时，处于[buff_5572_1]的友方目标受到致命伤害将剩余1点生命（目标下回合开始前至多触发1次，被再次施加[buff_5572_1]前至多累计触发3次）；当场上非召唤物友方目标首次剩余1点生命时，速度和暴击伤害提升50%，持续2回合（每个目标至多生效1次，单次战斗累计至多生效3次）。[tips_7]：对攻击最高的友方式神无消耗施放『神赐之吻]。伊邪那美攻击时，也可触发友方目标当前[buff_5572_1]的防御无视效果。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Tốc độ tăng 50%, duy trì 2 lượt (（mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần))",
-            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their SPD by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle)).",
-            "zh": "当场上非召唤物友方目标首次剩余1点生命时，速度提升50%，持续2回合(（每个目标至多生效1次，单次战斗累计至多生效3次）)"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Tốc độ tăng 50%, duy trì 2 lượt (（mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần))",
-            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their SPD by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle)).",
-            "zh": "当场上非召唤物友方目标首次剩余1点生命时，速度提升50%，持续2回合(（每个目标至多生效1次，单次战斗累计至多生效3次）)"
+            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Tốc độ tăng 50%, duy trì 2 lượt (mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần)",
+            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their SPD by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle).",
+            "zh": "当场上非召唤物友方目标首次剩余1点生命时，速度提升50%，持续2回合(每个目标至多生效1次，单次战斗累计至多生效3次）)"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Sát Thương Bạo Kích tăng 50%, duy trì 2 lượt (（mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần))",
-            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their Crit DMG by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle)).",
-            "zh": "当场上非召唤物友方目标首次剩余1点生命时，暴击伤害提升50%，持续2回合(（每个目标至多生效1次，单次战斗累计至多生效3次）)"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Sát Thương Bạo Kích tăng 50%, duy trì 2 lượt (（mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần))",
-            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their Crit DMG by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle)).",
-            "zh": "当场上非召唤物友方目标首次剩余1点生命时，暴击伤害提升50%，持续2回合(（每个目标至多生效1次，单次战斗累计至多生效3次）)"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Phe ta mỗi khi giảm 100 điểm Phòng thủ do [buff_5572_1], bỏ qua thêm 40 điểm Phòng thủ, bỏ qua thêm tối đa 200 điểm Phòng thủ",
-            "en": "For each 100 DEF reduced due to [buff_5572_1], the ally additionally ignores 40 DEF, up to a maximum of 200 DEF ignored.",
-            "zh": "友方每因[buff_5572_1]降低100点防御，额外无视40点防御，至多额外无视200点防御"
+            "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Sát Thương Bạo Kích tăng 50%, duy trì 2 lượt (mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần)",
+            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their Crit DMG by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle).",
+            "zh": "当场上非召唤物友方目标首次剩余1点生命时，暴击伤害提升50%，持续2回合(每个目标至多生效1次，单次战斗累计至多生效3次）)"
           }
         },
         {
@@ -176,17 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "[tips_7]: Thi triển miễn phí 『Thần Tứ Chi Nụ Hôn』 lên Thức Thần phe ta có Tấn công cao nhất",
+            "vi": "[tips_7]: Thi triển miễn phí [Thần Tứ Chi Nụ Hôn] lên Thức Thần phe ta có Tấn công cao nhất",
             "en": "[tips_7]: Uses Divine Kiss on the ally shikigami with the highest ATK, with no orb cost.",
-            "zh": "[tips_7]：对攻击最高的友方式神无消耗施放『神赐之吻』"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "[tips_7]: Thi triển miễn phí 『Thần Tứ Chi Nụ Hôn』 lên Thức Thần phe ta có Tấn công cao nhất",
-            "en": "[tips_7]: Uses Divine Kiss on the ally shikigami with the highest ATK, with no orb cost.",
-            "zh": "[tips_7]：对攻击最高的友方式神无消耗施放『神赐之吻』"
+            "zh": "[tips_7]：对攻击最高的友方式神无消耗施放『神赐之吻]"
           }
         }
       ],
@@ -196,6 +168,8 @@
     {
       "id": 5573,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Diệt Thế Chi Vũ",
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "yixienamei.png",
-    "headIconFile": ""
+    "portraitFile": "557.png",
+    "headIconFile": "557a.png"
   }
 }

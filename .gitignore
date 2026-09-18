@@ -39,3 +39,5 @@ next-env.d.ts
 
 .site-package/
 onmyoji-site.tar.gz
+site-upload.tar.gz
+public/head-icons/*.py

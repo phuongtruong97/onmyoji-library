@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2680,
-      "grade": "A"
+      "value": 2975,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9227,
-      "grade": "C"
+      "value": 10254,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 392,
-      "grade": "C"
+      "value": 437,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 104,
-      "grade": "B"
+      "value": 114,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2311,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồng Phong",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2312,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bạo Tạc Chi Chú",
@@ -128,89 +132,25 @@
         {
           "level": 2,
           "text": {
-            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
-            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
-            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
-            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
-            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
-            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
-            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+            "vi": "[tips_5] của [buff_2312_1] tăng lên 22%, xác suất kích hoạt tăng lên 60%",
+            "en": "Increases [buff_2312_1]'s [tips_5] to 22% and its chance of triggering to 60%.",
+            "zh": "[buff_2312_1]的[tips_5]增至22%，触发概率增至60%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
-            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
-            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
-            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
-            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
-            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
-            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
+            "vi": "[tips_5] của [buff_2312_1] tăng lên 26%, xác suất kích hoạt tăng lên 70%",
+            "en": "Increases [buff_2312_1]'s [tips_5] to 26% and its chance of triggering to 70%.",
+            "zh": "[buff_2312_1]的[tips_5]增至26%，触发概率增至70%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
-            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
-            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
-            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
-            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[tips_5] của [buff_2312_1] tăng lên [b_参数p1_per], xác suất kích hoạt tăng lên [b_参数p5_per]",
-            "en": "Increases [buff_2312_1]'s [tips_5] to [b_参数p1_per] and its chance of triggering to [b_参数p5_per].",
-            "zh": "[buff_2312_1]的[tips_5]增至[b_参数p1_per]，触发概率增至[b_参数p5_per]"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Mục tiêu mang [buff_2312_1], sau khi thi triển kỹ năng tiêu hao Quỷ Hỏa, có 50% xác suất bị giảm 1 điểm Quỷ Hỏa",
-            "en": "Targets with [buff_2312_1]s have a 50% chance of 1 orb being removed after using a skill that costs orbs.",
-            "zh": "带有[buff_2312_1]的目标，施放消耗鬼火的技能后，50%概率削减1点鬼火"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Mục tiêu mang [buff_2312_1], sau khi thi triển kỹ năng tiêu hao Quỷ Hỏa, có 50% xác suất bị giảm 1 điểm Quỷ Hỏa",
-            "en": "Targets with [buff_2312_1]s have a 50% chance of 1 orb being removed after using a skill that costs orbs.",
-            "zh": "带有[buff_2312_1]的目标，施放消耗鬼火的技能后，50%概率削减1点鬼火"
+            "vi": "[tips_5] của [buff_2312_1] tăng lên 30%, xác suất kích hoạt tăng lên 80%",
+            "en": "Increases [buff_2312_1]'s [tips_5] to 30% and its chance of triggering to 80%.",
+            "zh": "[buff_2312_1]的[tips_5]增至30%，触发概率增至80%"
           }
         },
         {
@@ -228,6 +168,8 @@
     {
       "id": 2313,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tử Vong Chi Vũ",
@@ -240,7 +182,7 @@
         "zh": "来和我跳舞吧，在这红色的枫叶上——！"
       },
       "description": {
-        "vi": "以妖力舞动红枫化作利刃飞速割伤敌方全体，造成攻击159%伤害。",
+        "vi": "Dùng yêu lực múa phong đỏ hóa thành lưỡi đao bay lượn nhanh chóng chém trúng toàn thể phe địch, gây sát thương bằng 159% Tấn công.",
         "en": "以妖力舞动红枫化作利刃飞速割伤敌方全体，造成攻击159%伤害。",
         "zh": "以妖力舞动红枫化作利刃飞速割伤敌方全体，造成攻击159%伤害。"
       },
@@ -248,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至139%",
+            "vi": "Sát thương tăng lên 139%",
             "en": "伤害增加至139%",
             "zh": "伤害增加至139%"
           }
@@ -256,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至146%",
+            "vi": "Sát thương tăng lên 146%",
             "en": "伤害增加至146%",
             "zh": "伤害增加至146%"
           }
@@ -264,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至152%",
+            "vi": "Sát thương tăng lên 152%",
             "en": "伤害增加至152%",
             "zh": "伤害增加至152%"
           }
@@ -272,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至159%",
+            "vi": "Sát thương tăng lên 159%",
             "en": "伤害增加至159%",
             "zh": "伤害增加至159%"
           }
@@ -283,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_guinvhongye.png"
+    "portraitFile": "231.png",
+    "headIconFile": "231a.png"
   }
 }

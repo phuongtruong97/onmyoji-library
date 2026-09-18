@@ -10,18 +10,18 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3001,
+      "value": 3002,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11050,
+      "value": 11051,
       "grade": "B"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 5901,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mao Hô Mao Hô",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5902,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quốc Vương Giá Đáo",
@@ -120,9 +124,9 @@
         "zh": "谁敢在本王的地盘撒野喵？"
       },
       "description": {
-        "vi": "[tips_11]\nTa xem ai dám cản trở bản vương meo! Trong trạng thái [buff_5901_1], khi kẻ địch thi triển [tips_3] lên mục tiêu đồng minh không phải vật triệu hồi, Diệu Chủ Cửu Mệnh Miêu thức tỉnh 1 [tips_5901] hộ giá, duy trì 1 lượt. Đồng thời thi triển [skill_5904_1] lên nguồn gây giảm ích. (（hiệu ứng này giới hạn 1 lần mỗi lượt, ưu tiên thi triển lên kẻ địch có HP thấp nhất)) nếu bản thân chịu hiệu ứng khống chế, đổi thành mất 2 [tips_5901] hộ giá và hóa giải tất cả khống chế.\n【Thi triển】 Tiến vào [buff_5901_1], [tips_15] 4 lượt, và kéo dài thời gian hộ giá của [tips_5901] đã thức tỉnh thêm 1 lượt.",
-        "en": "[tips_11]\n\"Let's see who dares to mess with the Meowlord!\" When [buff_5901_1] is active, if an enemy inflicts [tips_3] on a non-summoned ally, Meowlord Kyuumei Neko awakens 1 [tips_5901] to guard for 1 turn and casts [skill_5904_1](（triggers up to once each turn, prioritizing on the enemy with the lowest HP.）) on the debuff source. If affected by control effects, loses 2 [tips_5901] instead and removes all control.\n[Cast] to enter [buff_5901_1] and gain [tips_15] for 4 turns, extending the duration of any awakened [tips_5901] by 1 turn.",
-        "zh": "[tips_11]\n我看谁敢妨碍本王喵！[buff_5901_1]下，当敌方对友方非召唤物目标施加[tips_3]后，妙主九命猫唤醒1只[tips_5901]护驾，持续1回合。并对减益来源施放[skill_5904_1]。(（此效果每回合限1次，优先对血量最低敌方施放）)若自身受到控制效果，则改为失去2只[tips_5901]护驾并解除所有控制。\n【施放】进入[buff_5901_1]，[tips_15]4回合，并使已唤醒的[tips_5901]护驾时间延长1回合。"
+        "vi": "[tips_11]\nTa xem ai dám cản trở bản vương meo! Trong trạng thái [buff_5901_1], khi kẻ địch thi triển [tips_3] lên mục tiêu đồng minh không phải vật triệu hồi, Diệu Chủ Cửu Mệnh Miêu thức tỉnh 1 [tips_5901] hộ giá, duy trì 1 lượt. Đồng thời thi triển [skill_5904_1] lên nguồn gây giảm ích. (hiệu ứng này giới hạn 1 lần mỗi lượt, ưu tiên thi triển lên kẻ địch có HP thấp nhất) nếu bản thân chịu hiệu ứng khống chế, đổi thành mất 2 [tips_5901] hộ giá và hóa giải tất cả khống chế.\n[Thi triển] Tiến vào [buff_5901_1], [tips_15] 4 lượt, và kéo dài thời gian hộ giá của [tips_5901] đã thức tỉnh thêm 1 lượt.",
+        "en": "[tips_11]\n\"Let's see who dares to mess with the Meowlord!\" When [buff_5901_1] is active, if an enemy inflicts [tips_3] on a non-summoned ally, Meowlord Kyuumei Neko awakens 1 [tips_5901] to guard for 1 turn and casts [skill_5904_1](triggers up to once each turn, prioritizing on the enemy with the lowest HP.）) on the debuff source. If affected by control effects, loses 2 [tips_5901] instead and removes all control.\n[Cast] to enter [buff_5901_1] and gain [tips_15] for 4 turns, extending the duration of any awakened [tips_5901] by 1 turn.",
+        "zh": "[tips_11]\n我看谁敢妨碍本王喵！[buff_5901_1]下，当敌方对友方非召唤物目标施加[tips_3]后，妙主九命猫唤醒1只[tips_5901]护驾，持续1回合。并对减益来源施放[skill_5904_1]。(此效果每回合限1次，优先对血量最低敌方施放）)若自身受到控制效果，则改为失去2只[tips_5901]护驾并解除所有控制。\n【施放】进入[buff_5901_1]，[tips_15]4回合，并使已唤醒的[tips_5901]护驾时间延长1回合。"
       },
       "upgrades": [
         {
@@ -136,25 +140,25 @@
         {
           "level": 3,
           "text": {
-            "vi": "Mỗi khi kẻ địch thi triển 4 lần giảm ích, Diệu Chủ Cửu Mệnh Miêu thức tỉnh 1 [tips_5901] và thi triển 「Tốc Tốc Hộ Giá」 lên kẻ đó",
+            "vi": "Mỗi khi kẻ địch thi triển 4 lần giảm ích, Diệu Chủ Cửu Mệnh Miêu thức tỉnh 1 [tips_5901] và thi triển [Tốc Tốc Hộ Giá] lên kẻ đó",
             "en": "For every 4 debuffs cast by enemies, Meowlord Kyuumei Neko awakens 1 [tips_5901] and casts Guard Me! on it.",
-            "zh": "敌方每施放4次减益，妙主九命猫唤醒1只[tips_5901]并对其施放「速速护驾」"
+            "zh": "敌方每施放4次减益，妙主九命猫唤醒1只[tips_5901]并对其施放「速速护驾]"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Mỗi khi có 1 Âm Dương Sư Miêu hộ giá, hệ số sát thương của 「Tốc Tốc Hộ Giá」 tăng 8%",
+            "vi": "Mỗi khi có 1 Âm Dương Sư Miêu hộ giá, hệ số sát thương của [Tốc Tốc Hộ Giá] tăng 8%",
             "en": "For each Onmyoji Cat, the damage multiplier of Guard Me! increases by 8%.",
-            "zh": "每有1只阴阳师喵护驾，「速速护驾」伤害系数提升8%"
+            "zh": "每有1只阴阳师喵护驾，「速速护驾]伤害系数提升8%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Tiên cơ: Thi triển 「Quốc Vương Giá Đáo」",
+            "vi": "Tiên cơ: Thi triển [Quốc Vương Giá Đáo]",
             "en": "Upper Hand: Casts King's Arrival",
-            "zh": "先机:施放「国王驾到」"
+            "zh": "先机:施放「国王驾到]"
           }
         }
       ],
@@ -162,8 +166,35 @@
       "iconFile": "5902.png"
     },
     {
+      "id": 5904,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 5902,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Tốc Tốc Hộ Giá",
+        "en": "Guard Me!",
+        "zh": "速速护驾"
+      },
+      "intro": {
+        "vi": "Mẹo dị tâm giả, mèo mèo thấy là tiêu diệt ngay.",
+        "en": "Those with wicked hearts will be hunted down by the cats.",
+        "zh": "萌异心者，猫猫得而诛之。"
+      },
+      "description": {
+        "vi": "Bản thân cùng tất cả Âm Dương Sư Miêu hộ giá mỗi bên tấn công mục tiêu kẻ địch 1 lần, đều gây sát thương bằng 25% Tấn công (khi gây sát thương, không kích hoạt hiệu ứng Ngự Hồn của bản thân và mục tiêu), đồng thời dựa trên [tips_5901] được thức tỉnh đính kèm hiệu ứng khác nhau.",
+        "en": "The caster and all guarding Onmyoji Cats each attack once, dealing 25% ATK damage（When dealing damage, it doesn't trigger Soul effect of her and enemies） and applying different effects based on the awakened [tips_5901].",
+        "zh": "自身与所有护驾的阴阳师喵各攻击敌方目标1次，均造成攻击25%伤害（造成伤害时，不触发自身与目标的御魂效果），并根据唤醒的[tips_5901]附加不同效果。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5904.png"
+    },
+    {
       "id": 5903,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mèo Báo Thù",
@@ -176,9 +207,9 @@
         "zh": "本喵向来爱憎分明，有恩报恩，有仇报仇喵——看爪！"
       },
       "description": {
-        "vi": "Lao về phía mục tiêu, cào nhanh. Tấn công mục tiêu kẻ địch 2 lần, gây sát thương bằng 70% Tấn công, sau đó bản thân cùng tất cả [tips_5901] được thức tỉnh mỗi bên đánh truy kích 1 đoạn, gây sát thương bằng 135% Tấn công. Lần đầu chịu sát thương chí mạng, hóa giải tất cả hiệu ứng khống chế của bản thân, thi triển 「Mèo Báo Thù」 lên nguồn gây sát thương và hồi phục 50% HP tối đa. Nếu có 3 Âm Dương Sư Miêu được thức tỉnh, hiệu ứng này có thể kích hoạt lần nữa.",
+        "vi": "Lao về phía mục tiêu, cào nhanh. Tấn công mục tiêu kẻ địch 2 lần, gây sát thương bằng 70% Tấn công, sau đó bản thân cùng tất cả [tips_5901] được thức tỉnh mỗi bên đánh truy kích 1 đoạn, gây sát thương bằng 135% Tấn công. Lần đầu chịu sát thương chí mạng, hóa giải tất cả hiệu ứng khống chế của bản thân, thi triển [Mèo Báo Thù] lên nguồn gây sát thương và hồi phục 50% HP tối đa. Nếu có 3 Âm Dương Sư Miêu được thức tỉnh, hiệu ứng này có thể kích hoạt lần nữa.",
         "en": "Charges at the target with rapid claw strikes. Attacks the enemy twice, dealing 70% of ATK as damage. Then, the caster and all awakened [tips_5901] follow up with 1 attack each, dealing 135% of ATK as damage. Upon taking fatal damage for the first time, removes all control effects, casts Cat's Revenge on the damage source, and restores 50% max HP. If 3 Onmyoji Cats are awakened, this effect can be triggered again.",
-        "zh": "冲向目标，快速爪击。攻击敌方目标2次，造成攻击70%的伤害，之后自身与所有被唤醒的[tips_5901]各追加1段攻击，造成攻击135%的伤害。首次受到致命伤害时，解除自身所有控制效果，对伤害来源施放「猫的报仇」并恢复50%最大生命。若有3只阴阳师喵被唤醒，此效果可再次触发。"
+        "zh": "冲向目标，快速爪击。攻击敌方目标2次，造成攻击70%的伤害，之后自身与所有被唤醒的[tips_5901]各追加1段攻击，造成攻击135%的伤害。首次受到致命伤害时，解除自身所有控制效果，对伤害来源施放「猫的报仇]并恢复50%最大生命。若有3只阴阳师喵被唤醒，此效果可再次触发。"
       },
       "upgrades": [
         {
@@ -219,7 +250,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "590.png",
+    "headIconFile": "590a.png"
   }
 }

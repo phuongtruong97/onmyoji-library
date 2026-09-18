@@ -10,36 +10,36 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3886,
+      "value": 4154,
       "grade": "SS"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10594,
-      "grade": "B"
+      "value": 11735,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 449,
-      "grade": "A"
+      "value": 494,
+      "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 102,
-      "grade": "B"
+      "value": 112,
+      "grade": "A"
     },
     {
       "key": "crit",
       "label": "CHÍ MẠNG",
-      "value": "10%",
+      "value": "12%",
       "grade": "S"
     }
   ],
@@ -52,6 +52,8 @@
     {
       "id": 3891,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lôi Đình Thức",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3892,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Chi Lĩnh Vực",
@@ -120,73 +124,41 @@
         "zh": "雷云为躯，风暴为息，闪电为骨。"
       },
       "description": {
-        "vi": "[tips_11].\nKhi chiến đấu và bắt đầu lượt, nhận 6 thanh thần kiếm Thiên Vũ Vũ Trảm.\nKhi Thiên Vũ Vũ Trảm tồn tại, mục tiêu đồng minh không phải vật triệu hồi ngoài bản thân nhận kỹ năng «Thiên Uy». Mỗi khi [Thi triển] «Thiên Uy», Susanoo nhận khiên lôi, duy trì 2 lượt. Khi thức thần địch chịu sát thương chí mạng từ Susanoo, sẽ được ưu tiên trấn áp thành [tips_3896].",
-        "en": "[tips_11].\nAt the start of battle and of his turn, gains him 6 Divine Swords: Ame-no-Habakiri.\nAs long as there's an Ame-no-Habakiri, other non-summoned ally entities gain the Heavenly Might skill. Using Heavenly Might creates a Thunder Aegis to protect Susanoo for 2 turns. When an enemy shikigami takes lethal damage from Susanoo, it will first be suppressed and turned into a [tips_3896].",
-        "zh": "[tips_11]。\n战斗和回合开始时，获得6把神剑·天羽羽斩。\n天羽羽斩存在时，除自身外非召唤物的友方目标获得技能「天威」。每次施放「天威」须佐之男获得雷盾，持续2个回合。敌方式神受到来自须佐之男的致命伤害时，将会优先被镇压成[tips_3896]。"
+        "vi": "[tips_11].\nKhi chiến đấu và bắt đầu lượt, nhận 6 thanh thần kiếm Thiên Vũ Vũ Trảm.\nKhi Thiên Vũ Vũ Trảm tồn tại, mục tiêu đồng minh không phải vật triệu hồi ngoài bản thân nhận kỹ năng [skill_3894_1]. Mỗi khi [Thi Triển] [skill_3894_1], Tu Tá Chi Nam nhận [buff_3892_1], duy trì 2 lượt. Khi thức thần địch chịu sát thương chí mạng từ Tu Tá Chi Nam, sẽ được ưu tiên trấn áp thành [tips_3896].",
+        "en": "[tips_11].\nAt the start of battle and of his turn, gains him 6 Divine Swords: Ame-no-Habakiri.\nAs long as there's an Ame-no-Habakiri, other non-summoned ally entities gain the Heavenly Might skill. Using Heavenly Might creates a Thunder Aegis to protect Tu Tá Chi Nam for 2 turns. When an enemy shikigami takes lethal damage from Tu Tá Chi Nam, it will first be suppressed and turned into a [tips_3896].",
+        "zh": "[tips_11]。\n战斗和回合开始时，获得6把神剑·天羽羽斩。\n天羽羽斩存在时，除自身外非召唤物的友方目标获得技能「天威]。每次施放「天威]须佐之男获得雷盾，持续2个回合。敌方式神受到来自须佐之男的致命伤害时，将会优先被镇压成[tips_3896]。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương gây ra bởi «Thiên Uy» tăng đến 231% tấn công.",
+            "vi": "Sát thương gây ra bởi [skill_3894_1] tăng đến 231% tấn công.",
             "en": "Increases Heavenly Might's damage dealt to 231% of his ATK.",
-            "zh": "「天威」造成伤害增加至攻击231%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Sát thương gây ra bởi «Thiên Uy» tăng đến 231% tấn công.",
-            "en": "Increases Heavenly Might's damage dealt to 231% of his ATK.",
-            "zh": "「天威」造成伤害增加至攻击231%"
+            "zh": "「天威]造成伤害增加至攻击231%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "«Thiên Uy» vô hiệu hóa hiệu ứng Ngự Hồn của mục tiêu.",
+            "vi": "[skill_3894_1] vô hiệu hóa hiệu ứng Ngự Hồn của mục tiêu.",
             "en": "Heavenly Might ignores target's Soul effects.",
-            "zh": "「天威」无视目标御魂效果"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "«Thiên Uy» vô hiệu hóa hiệu ứng Ngự Hồn của mục tiêu.",
-            "en": "Heavenly Might ignores target's Soul effects.",
-            "zh": "「天威」无视目标御魂效果"
+            "zh": "「天威]无视目标御魂效果"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Khi [Thi triển] «Thiên Uy», Susanoo nhận khiên lôi bằng 49% tấn công, duy trì 2 lượt, tối đa cộng dồn 2 tầng.",
+            "vi": "Khi [Thi triển] [skill_3894_1], Susanoo nhận khiên lôi bằng 49% tấn công, duy trì 2 lượt, tối đa cộng dồn 2 tầng.",
             "en": "When using Heavenly Might, Susanoo gains a Thunder Aegis, absorbing damage equal to 49% of his ATK and lasting 2 turns. Stacks up to 2 times.",
-            "zh": "施放「天威」时，须佐之男获得攻击49%的雷盾，持续2个回合，最多可叠加2层"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Khi [Thi triển] «Thiên Uy», Susanoo nhận khiên lôi bằng 49% tấn công, duy trì 2 lượt, tối đa cộng dồn 2 tầng.",
-            "en": "When using Heavenly Might, Susanoo gains a Thunder Aegis, absorbing damage equal to 49% of his ATK and lasting 2 turns. Stacks up to 2 times.",
-            "zh": "施放「天威」时，须佐之男获得攻击49%的雷盾，持续2个回合，最多可叠加2层"
+            "zh": "施放「天威]时，须佐之男获得攻击49%的雷盾，持续2个回合，最多可叠加2层"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Nếu bản thân không được khiên lôi bảo vệ, kích thích ý chí chiến đấu, khiến sát thương mỗi lần gây ra của «Thiên Lôi Vạn Tượng» và giới hạn tăng sát thương được tăng thêm 20%.",
+            "vi": "Nếu bản thân không được khiên lôi bảo vệ, kích thích ý chí chiến đấu, khiến sát thương mỗi lần gây ra của [Thiên Lôi Vạn Tượng] và giới hạn tăng sát thương được tăng thêm 20%.",
             "en": "If he's not protected by Thunder Aegis, he's in high spirits, causing Thunder Armageddon's damage dealt and the damage boost to increase by an additional 20%.",
-            "zh": "若自身未受雷盾保护，激发斗志，使「天雷万象」每次造成的伤害和伤害提升上限额外提升20%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Nếu bản thân không được khiên lôi bảo vệ, kích thích ý chí chiến đấu, khiến sát thương mỗi lần gây ra của «Thiên Lôi Vạn Tượng» và giới hạn tăng sát thương được tăng thêm 20%.",
-            "en": "If he's not protected by Thunder Aegis, he's in high spirits, causing Thunder Armageddon's damage dealt and the damage boost to increase by an additional 20%.",
-            "zh": "若自身未受雷盾保护，激发斗志，使「天雷万象」每次造成的伤害和伤害提升上限额外提升20%"
+            "zh": "若自身未受雷盾保护，激发斗志，使「天雷万象]每次造成的伤害和伤害提升上限额外提升20%"
           }
         }
       ],
@@ -194,8 +166,35 @@
       "iconFile": "3892.png"
     },
     {
+      "id": 3894,
+      "number": 2,
+      "variantOrder": 2,
+      "parentSkillId": 3892,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Thiên Uy",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "Đừng hòng đụng vào thần dân của ta!",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Đồng minh không phải vật triệu hồi có thể sử dụng kỹ năng này vào đầu lượt của họ trước khi dùng kỹ năng của chính mình.\nTu Tá Chi Nam tiêu hao 1 Thiên Vũ Vũ Trảm để tấn công 1 kẻ địch, gây sát thương bằng 211% Tấn Công của bản thân (không vượt quá 400% Tấn Công ban đầu của đồng minh trong lượt đó).",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3894.png"
+    },
+    {
       "id": 3893,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Lôi Vạn Tượng",
@@ -208,8 +207,8 @@
         "zh": "神高居于天上，罪人关入地狱。"
       },
       "description": {
-        "vi": "Lôi đình vạn quân, đều tuân ý thần. Ngưng tụ sức mạnh thiên lôi vạn tượng, hóa thành thương phá khung, gây 6 lần sát thương cho mục tiêu kẻ địch, mỗi lần gây 80% sát thương tấn công cho mục tiêu kẻ địch. Cứ mỗi 10% HP tối đa của mục tiêu kẻ địch cao hơn Susanoo, sát thương lần này tăng 3%, tối đa không vượt quá 80%.",
-        "en": "Even the crushing force of the thunder follows the god's will. Focuses the power of thunder and lightning to forge a sky-piercing spear, and launches a 6-strike attack on 1 enemy, dealing damage equal to 80% of his ATK on each strike. If the enemy has higher max HP than Susanoo, for each 10% difference, increases the damage by 3% (max 80% increase.)",
+        "vi": "Lôi đình vạn quân, đều tuân ý thần. Ngưng tụ sức mạnh thiên lôi vạn tượng, hóa thành thương phá khung, gây 6 lần sát thương cho mục tiêu kẻ địch, mỗi lần gây 80% sát thương tấn công cho mục tiêu kẻ địch. Cứ mỗi 10% HP tối đa của mục tiêu kẻ địch cao hơn Tu Tá Chi Nam, sát thương lần này tăng 3%, tối đa không vượt quá 80%.",
+        "en": "Even the crushing force of the thunder follows the god's will. Focuses the power of thunder and lightning to forge a sky-piercing spear, and launches a 6-strike attack on 1 enemy, dealing damage equal to 80% of his ATK on each strike. If the enemy has higher max HP than Tu Tá Chi Nam, for each 10% difference, increases the damage by 3% (max 80% increase.)",
         "zh": "雷霆万钧，皆遵神意。凝聚天雷万象之力，化为破穹之枪，对敌方目标造成6次伤害，每次对敌方目标造成攻击80%伤害。敌方目标的最大生命每比须佐之男高10%，本次伤害提升3%，最多不超过80%。"
       },
       "upgrades": [
@@ -251,7 +250,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_xuzuozhinan.png"
+    "portraitFile": "389.png",
+    "headIconFile": "389a.png"
   }
 }

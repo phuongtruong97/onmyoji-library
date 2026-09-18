@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2974,
+      "value": 3216,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9227,
-      "grade": "C"
+      "value": 10368,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 396,
+      "value": 432,
       "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 101,
-      "grade": "B"
+      "value": 111,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3291,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ảnh Xuất",
@@ -64,7 +66,7 @@
         "zh": "影子都能击败你"
       },
       "description": {
-        "vi": "对敌方目标造成攻击100%伤害并无视40%防御。\n（[tips_11]）每次攻击时，为目标附加1层[buff_3291_1]，上限3层。若目标带有3层[buff_3291_1]，则消耗所有层数并改为对敌方全体造成攻击120%伤害，此次攻击不触发敌方御魂及被动。",
+        "vi": "Gây cho mục tiêu phe địch sát thương bằng 100% Tấn công và bỏ qua 40% Phòng thủ.\n([tips_11]) Mỗi lần tấn công, gắn cho mục tiêu 1 tầng [buff_3291_1], tối đa 3 tầng. Nếu mục tiêu mang 3 tầng [buff_3291_1], tiêu hao toàn bộ số tầng và đổi thành gây sát thương bằng 120% Tấn công lên toàn thể phe địch, đòn tấn công này không kích hoạt ngự hồn và bị động của kẻ địch.",
         "en": "对敌方目标造成攻击100%伤害并无视40%防御。\n（[tips_11]）每次攻击时，为目标附加1层[buff_3291_1]，上限3层。若目标带有3层[buff_3291_1]，则消耗所有层数并改为对敌方全体造成攻击120%伤害，此次攻击不触发敌方御魂及被动。",
         "zh": "对敌方目标造成攻击100%伤害并无视40%防御。\n（[tips_11]）每次攻击时，为目标附加1层[buff_3291_1]，上限3层。若目标带有3层[buff_3291_1]，则消耗所有层数并改为对敌方全体造成攻击120%伤害，此次攻击不触发敌方御魂及被动。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害增加至85%",
             "zh": "伤害增加至85%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害增加至90%",
             "zh": "伤害增加至90%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至95%",
+            "vi": "Sát thương tăng lên 95%",
             "en": "伤害增加至95%",
             "zh": "伤害增加至95%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3292,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ảnh Hồi",
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Xác suất Đánh Thường lần nữa tăng lên 30%",
-            "en": "Increases her chance of using a normal attack an extra time to 30%.",
-            "zh": "再次普攻概率增至30%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Giới hạn tăng lên 2 lần",
-            "en": "Increases the extra normal attack inflicted to 2 times.",
-            "zh": "上限增至2次"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Giới hạn tăng lên 2 lần",
@@ -163,22 +151,6 @@
             "vi": "Giới hạn tăng lên 3 lần",
             "en": "Increases the extra normal attack inflicted to 3 times.",
             "zh": "上限增至3次"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Giới hạn tăng lên 3 lần",
-            "en": "Increases the extra normal attack inflicted to 3 times.",
-            "zh": "上限增至3次"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "[tips_11] Khi bất kỳ lượt kẻ địch nào kết thúc, có 30% xác suất đính kèm 1 tầng [buff_3291_1] cho kẻ đó, giới hạn 3 tầng",
-            "en": "[tips_11] At the end of an enemy's turn, has a 30% chance of inflicting a layer of [buff_3291_1] lasting 1 turn on them stacking up to 3 layers.",
-            "zh": "（[tips_11]）任一敌方回合结束时，30%概率为其附加1层[buff_3291_1]，上限3层"
           }
         },
         {
@@ -196,6 +168,8 @@
     {
       "id": 3293,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tiềm Ảnh",
@@ -216,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "[buff_3294_1] tăng Kháng Hiệu Ứng nâng lên 20%, tăng Tốc độ nâng lên 20 điểm",
+            "vi": "[buff_3294_1] tăng Kháng Hiệu Ứng tăng lên 20%, tăng Tốc độ tăng lên 20 điểm",
             "en": "Increases the Effect RES boost and SPD boost of [buff_3294_1] to 20% and 20, respectively.",
             "zh": "[buff_3294_1]提升效果抵抗增至20%、提升速度增至20点"
           }
@@ -232,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "[buff_3294_1] tăng Kháng Hiệu Ứng nâng lên 30%, tăng Tốc độ nâng lên 30 điểm",
+            "vi": "[buff_3294_1] tăng Kháng Hiệu Ứng tăng lên 30%, tăng Tốc độ tăng lên 30 điểm",
             "en": "Increases the Effect RES boost and SPD boost of [buff_3294_1] to 30% and 30, respectively.",
             "zh": "[buff_3294_1]提升效果抵抗增至30%、提升速度增至30点"
           }
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "329.png",
+    "headIconFile": "329a.png"
   }
 }

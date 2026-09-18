@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10936,
+      "value": 10937,
       "grade": "B"
     },
     {
@@ -34,7 +34,7 @@
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 115,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5991,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bức Kích",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害提升至80%",
+            "vi": "Sát thương tăng lên 80%",
             "en": "伤害提升至80%",
             "zh": "伤害提升至80%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害提升至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害提升至85%",
             "zh": "伤害提升至85%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害提升至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害提升至90%",
             "zh": "伤害提升至90%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害提升至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害提升至100%",
             "zh": "伤害提升至100%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5992,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tẩm Tức",
@@ -120,9 +124,9 @@
         "zh": "一个迷人而猩红的夜晚，正待启幕。"
       },
       "description": {
-        "vi": "[tips_11].\nMỗi khi nhận tăng giới hạn HP, Tốc độ tăng 20 điểm, sát thương gánh chịu giảm 8%, [tips_15] 1 lượt. (（tối đa 5 tầng))\n【Thi triển】 [tips_20] lượng HP bằng 200% Tấn công ban đầu và triệu hồi 2 con [tips_5991].",
-        "en": "[tips_11].\nEach time max HP increases, SPD increases by 20 and damage taken decreases by 8%, [tips_15] for 1 turn ((up to 5 stacks)).\n[Cast]: [tips_20] HP equal to 200% of starting ATK and summons 2 [tips_5991].",
-        "zh": "[tips_11]。\n每次获得生命上限提升时，速度提升20点、受到伤害降低8%，[tips_15]1回合。(（至多5层）)\n【施放】[tips_20]初始攻击200%的生命并召唤2只[tips_5991]。"
+        "vi": "[tips_11].\nMỗi khi nhận tăng giới hạn HP, Tốc độ tăng 20 điểm, sát thương gánh chịu giảm 8%, [tips_15] 1 lượt. (tối đa 5 tầng)\n[Thi triển] [tips_20] lượng HP bằng 200% Tấn công ban đầu và triệu hồi 2 con [tips_5991].",
+        "en": "[tips_11].\nEach time max HP increases, SPD increases by 20 and damage taken decreases by 8%, [tips_15] for 1 turn (up to 5 stacks).\n[Cast]: [tips_20] HP equal to 200% of starting ATK and summons 2 [tips_5991].",
+        "zh": "[tips_11]。\n每次获得生命上限提升时，速度提升20点、受到伤害降低8%，[tips_15]1回合。(至多5层）)\n【施放】[tips_20]初始攻击200%的生命并召唤2只[tips_5991]。"
       },
       "upgrades": [
         {
@@ -164,6 +168,8 @@
     {
       "id": 5993,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nguyệt Nhiễm U Hồng",
@@ -184,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害提升至80%",
+            "vi": "Sát thương tăng lên 80%",
             "en": "伤害提升至80%",
             "zh": "伤害提升至80%"
           }
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害提升至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害提升至90%",
             "zh": "伤害提升至90%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害提升至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害提升至100%",
             "zh": "伤害提升至100%"
           }
@@ -208,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi thức thần phe địch tử trận, triệu hồi [tips_5994] chiếm vị trí phe địch (（hiệu ứng duy nhất))",
-            "en": "When an enemy shikigami is KO'd, summons a [tips_5994] to occupy the enemy spot. ((Exclusive effect)).",
-            "zh": "敌方式神阵亡时，召唤[tips_5994]占据敌方位置(（唯一效果）)"
+            "vi": "Khi thức thần phe địch tử trận, triệu hồi [tips_5994] chiếm vị trí phe địch (hiệu ứng duy nhất)",
+            "en": "When an enemy shikigami is KO'd, summons a [tips_5994] to occupy the enemy spot. ((Exclusive effect).",
+            "zh": "敌方式神阵亡时，召唤[tips_5994]占据敌方位置(唯一效果）)"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "599.png",
+    "headIconFile": "599a.png"
   }
 }

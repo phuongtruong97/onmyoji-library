@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2953,
+      "value": 3195,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 8225,
-      "grade": "D"
+      "value": 9251,
+      "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 401,
-      "grade": "B"
+      "value": 441,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 104,
-      "grade": "B"
+      "value": 114,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3761,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Chấn Linh",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害提升至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害提升至105%",
             "zh": "伤害提升至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害提升至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害提升至110%",
             "zh": "伤害提升至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害提升至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害提升至115%",
             "zh": "伤害提升至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害提升至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害提升至125%",
             "zh": "伤害提升至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3762,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Linh Diễm Chước Tâm",
@@ -120,19 +124,11 @@
         "zh": "心有枷锁，舞步自难轻盈。"
       },
       "description": {
-        "vi": "恢复自身生命上限40%的生命，恢复队友生命上限12%的生命，使[buff_3761_1]冷却重置。",
+        "vi": "Khôi phục 40% giới hạn HP của bản thân, khôi phục 12% giới hạn HP của đồng đội, làm mới thời gian hồi của [buff_3761_1].",
         "en": "恢复自身生命上限40%的生命，恢复队友生命上限12%的生命，使[buff_3761_1]冷却重置。",
         "zh": "恢复自身生命上限40%的生命，恢复队友生命上限12%的生命，使[buff_3761_1]冷却重置。"
       },
       "upgrades": [
-        {
-          "level": 2,
-          "text": {
-            "vi": "Tỷ lệ HP bước vào trạng thái [buff_3761_1] tăng đến 75%.",
-            "en": "Increases the HP required to gain [buff_3761_1] to 75%",
-            "zh": "进入[buff_3761_1]状态的生命提升至75%"
-          }
-        },
         {
           "level": 2,
           "text": {
@@ -160,25 +156,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi chịu sát thương chí mạng, thay thế kỹ năng thành «Tâm Hỏa Vĩnh Minh».",
+            "vi": "Khi chịu sát thương chí mạng, thay thế kỹ năng thành [Tâm Hỏa Vĩnh Minh].",
             "en": "When taking lethal damage, changes the skill to Undying Flame.",
-            "zh": "受到致命伤害时，将技能替换为「心火永明」"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Khi chịu sát thương chí mạng, thay thế kỹ năng thành «Tâm Hỏa Vĩnh Minh».",
-            "en": "When taking lethal damage, changes the skill to Undying Flame.",
-            "zh": "受到致命伤害时，将技能替换为「心火永明」"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi bước vào Tâm Hỏa Vĩnh Minh, nhận khiên bằng 120% tấn công, không thể giải trừ, duy trì 2 lượt.",
-            "en": "When she becomes an Undying Flame, creates a shield that cannot be dispelled and lasts 2 turns, absorbing damage equal to 120% of her ATK.",
-            "zh": "进入心火永明时，获得攻击120%的护盾，无法驱散，持续2回合"
+            "zh": "受到致命伤害时，将技能替换为「心火永明]"
           }
         },
         {
@@ -196,6 +176,8 @@
     {
       "id": 3763,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ngũ Sơn Hỏa Tế",
@@ -251,7 +233,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "lingyanji.png",
-    "headIconFile": ""
+    "portraitFile": "376.png",
+    "headIconFile": "376a.png"
   }
 }

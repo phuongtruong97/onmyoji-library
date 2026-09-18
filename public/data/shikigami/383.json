@@ -10,24 +10,24 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 4152,
+      "value": 4153,
       "grade": "SS"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 13214,
+      "value": 13216,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 436,
+      "value": 437,
       "grade": "B"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3831,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Linh Hồn Trừng Phạt",
@@ -108,6 +110,8 @@
     {
       "id": 3832,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Đọa Chi Lực",
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Tiên Cơ: Thi triển 「Thần Đọa Chi Lực」",
+            "vi": "Tiên Cơ: Thi triển [Thần Đọa Chi Lực]",
             "en": "Upper Hand: Uses Corrupted Force.",
-            "zh": "先机：施放「神堕之力」"
+            "zh": "先机：施放「神堕之力]"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 3833,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thẩm Phán Nghi Thức",
@@ -176,9 +182,9 @@
         "zh": "神剑已去，再无桎梏！"
       },
       "description": {
-        "vi": "Có thể thi triển dưới tư thế [tips_3831].\n【Thi triển】 Phá giải sự trấn áp của 1 thanh Ame no Habakiri, gây cho toàn bộ phe địch sát thương bằng 188% Tấn công, và chỉ định đính kèm [buff_3833_1] cho 1 Thức Thần phe ta ngoại trừ bản thân.\nNếu tích lũy phá giải 5 thanh Ame no Habakiri, giải phóng tà lực mạnh mẽ, thay thế 「Thần Đọa Chi Lực」 thành 「Xà Thần Chi Phệ」. Khi thi triển, mỗi khi Xà Thần còn 20% HP sẽ hồi phục cho bản thân 12% HP, tăng 8% Thanh Hành Động, hệ số lần này tăng 25%, rút Tấn công đã phong ấn của Thức Thần phe ta, tổng giá trị không vượt quá 100% Tấn công ban đầu của bản thân.",
+        "vi": "Có thể thi triển dưới tư thế [tips_3831].\n[Thi triển] Phá giải sự trấn áp của 1 thanh Ame no Habakiri, gây cho toàn bộ phe địch sát thương bằng 188% Tấn công, và chỉ định đính kèm [buff_3833_1] cho 1 Thức Thần phe ta ngoại trừ bản thân.\nNếu tích lũy phá giải 5 thanh Ame no Habakiri, giải phóng tà lực mạnh mẽ, thay thế [Thần Đọa Chi Lực] thành [Xà Thần Chi Phệ]. Khi thi triển, mỗi khi Xà Thần còn 20% HP sẽ hồi phục cho bản thân 12% HP, tăng 8% Thanh Hành Động, hệ số lần này tăng 25%, rút Tấn công đã phong ấn của Thức Thần phe ta, tổng giá trị không vượt quá 100% Tấn công ban đầu của bản thân.",
         "en": "Only [tips_3831] can use the skill.\nActive skill: Removes the suppression of 1 Ame-no-Habakiri to attack all enemies, dealing damage equal to 188% of his ATK and inflicting [buff_3833_1] to another shikigami ally.\nIf a total of 5 Ame-no-Habakiri have been removed, sets the powerful evil force free and changes Corrupted Force to Serpent's Devouring. When using the skill, for each 20% HP The Serpent Lord has, recovers his HP by 12%, raises his Move Bar by 8%, increases this attack's damage multiplier by 25%, and withdraws the shikigami allies' stored ATK (max 100% of his own starting ATK).",
-        "zh": "[tips_3831]姿态下可施放。\n【施放】破除1把天羽羽斩的镇压，对敌方全体造成攻击188%伤害，并指定1位除自身外友方式神附加[buff_3833_1]。\n若累计破除5把天羽羽斩，解放强大的邪力，将「神堕之力」替换为「蛇神之噬」。施放时，蛇神每剩余20%生命为自身恢复12%生命，提升8%行动条，本次系数增加25%，抽取封存的友方式神攻击，总值不超过自身初始攻击100%。"
+        "zh": "[tips_3831]姿态下可施放。\n【施放】破除1把天羽羽斩的镇压，对敌方全体造成攻击188%伤害，并指定1位除自身外友方式神附加[buff_3833_1]。\n若累计破除5把天羽羽斩，解放强大的邪力，将「神堕之力]替换为「蛇神之噬]。施放时，蛇神每剩余20%生命为自身恢复12%生命，提升8%行动条，本次系数增加25%，抽取封存的友方式神攻击，总值不超过自身初始攻击100%。"
       },
       "upgrades": [
         {
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "sp_baqidashe.png",
-    "headIconFile": "h_sp_baqidashe.png"
+    "portraitFile": "383.png",
+    "headIconFile": "383a.png"
   }
 }

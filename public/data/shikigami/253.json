@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2706,
-      "grade": "A"
+      "value": 3002,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9797,
-      "grade": "C"
+      "value": 10937,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 366,
-      "grade": "C"
+      "value": 406,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 105,
+      "value": 115,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2531,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Huyết Tập",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至126%",
+            "vi": "Sát thương tăng lên 126%",
             "en": "伤害增加至126%",
             "zh": "伤害增加至126%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至132%",
+            "vi": "Sát thương tăng lên 132%",
             "en": "伤害增加至132%",
             "zh": "伤害增加至132%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至138%",
+            "vi": "Sát thương tăng lên 138%",
             "en": "伤害增加至138%",
             "zh": "伤害增加至138%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至150%",
+            "vi": "Sát thương tăng lên 150%",
             "en": "伤害增加至150%",
             "zh": "伤害增加至150%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2532,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Huyết Nộ",
@@ -131,6 +135,8 @@
     {
       "id": 2533,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Huyết Chi Ôm Ấp",
@@ -143,23 +149,15 @@
         "zh": "啊……多么地香醇！让我喝吧！"
       },
       "description": {
-        "vi": "Hóa thành dơi máu ôm lấy mục tiêu kẻ địch, gây sát thương 159%, đồng thời nhận [tips_6] tương đương [b2_参数p1_per] lượng sát thương đó, duy trì 1 lượt. Sau đó đính kèm [buff_25331_1] cho kẻ địch đó, gây lượng [tips_5] bằng 10% giới hạn HP của mục tiêu ((không vượt quá 400% tấn công của Kyuuketsuki)), duy trì 2 lượt.",
-        "en": "Transforms herself into a bat and seizes 1 enemy, dealing damage equal to 159% of her ATK. Also creates a [tips_6] lasting 1 turn(s), absorbing damage equal to [b2_参数p1_per] of damage dealt, then inflicts [buff_25331_1] lasting 2 turn(s) on the enemy, dealing [tips_5] equal to [b_参数p1_per] of their max HP (to a maximum of 400% of Vampira's ATK).",
-        "zh": "化为血蝠拥抱敌方目标，造成攻击159%伤害，并获得等同该次伤害[b2_参数p1_per]的[tips_6]，持续1回合。再对该敌方附加[buff_25331_1]，造成其生命上限[b_参数p1_per][tips_5]（不超过吸血姬攻击400%），持续2回合。"
+        "vi": "Hóa thành dơi máu ôm lấy mục tiêu kẻ địch, gây sát thương 159%, đồng thời nhận [tips_6] tương đương 20% lượng sát thương đó, duy trì 1 lượt. Sau đó đính kèm [buff_25331_1] cho kẻ địch đó, gây lượng [tips_5] bằng 10% giới hạn HP của mục tiêu (không vượt quá 400% tấn công của Kyuuketsuki), duy trì 2 lượt.",
+        "en": "Transforms herself into a bat and seizes 1 enemy, dealing damage equal to 159% of her ATK. Also creates a [tips_6] lasting 1 turn(s), absorbing damage equal to 20% of damage dealt, then inflicts [buff_25331_1] lasting 2 turn(s) on the enemy, dealing [tips_5] equal to 10% of their max HP (to a maximum of 400% of Vampira's ATK).",
+        "zh": "化为血蝠拥抱敌方目标，造成攻击159%伤害，并获得等同该次伤害20%的[tips_6]，持续1回合。再对该敌方附加[buff_25331_1]，造成其生命上限10%[tips_5]（不超过吸血姬攻击400%），持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至138%",
-            "en": "伤害增加至138%",
-            "zh": "伤害增加至138%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至138%",
+            "vi": "Sát thương tăng lên 138%",
             "en": "伤害增加至138%",
             "zh": "伤害增加至138%"
           }
@@ -167,15 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至145%",
-            "en": "伤害增加至145%",
-            "zh": "伤害增加至145%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至145%",
+            "vi": "Sát thương tăng lên 145%",
             "en": "伤害增加至145%",
             "zh": "伤害增加至145%"
           }
@@ -183,15 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至152%",
-            "en": "伤害增加至152%",
-            "zh": "伤害增加至152%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至152%",
+            "vi": "Sát thương tăng lên 152%",
             "en": "伤害增加至152%",
             "zh": "伤害增加至152%"
           }
@@ -199,15 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至159%",
-            "en": "伤害增加至159%",
-            "zh": "伤害增加至159%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "伤害增加至159%",
+            "vi": "Sát thương tăng lên 159%",
             "en": "伤害增加至159%",
             "zh": "伤害增加至159%"
           }
@@ -218,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "xixueji.png",
-    "headIconFile": "h_xixueji.png"
+    "portraitFile": "253.png",
+    "headIconFile": "253a.png"
   }
 }

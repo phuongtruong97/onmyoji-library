@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2304,
-      "grade": "C"
+      "value": 2573,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11505,
-      "grade": "A"
+      "value": 12646,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 366,
-      "grade": "C"
+      "value": 410,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 110,
+      "value": 120,
       "grade": "S"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2561,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Kinh Huyền",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2562,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Dư Âm",
@@ -120,41 +124,41 @@
         "zh": "这首曲就要结束了。"
       },
       "description": {
-        "vi": "Giúp mục tiêu đồng minh nhận lượt mới.\nGiúp toàn bộ phe ta tăng [b_属性1数值_abs] điểm Tốc độ, duy trì 1 lượt.",
-        "en": "Grants 1 ally an action.\nIncreases the SPD of all allies by [b_属性1数值_abs] for 1 turn(s).",
-        "zh": "使友方目标获得新的回合。\n使友方全体提升[b_属性1数值_abs]点速度，持续1回合。"
+        "vi": "Giúp mục tiêu đồng minh nhận lượt mới.\nGiúp toàn bộ phe ta tăng 20 điểm Tốc độ, duy trì 1 lượt.",
+        "en": "Grants 1 ally an action.\nIncreases the SPD of all allies by 20 for 1 turn(s).",
+        "zh": "使友方目标获得新的回合。\n使友方全体提升20点速度，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "[buff_2562_1] hiệu ứng tăng Tốc độ nâng lên [b_属性1数值_abs] điểm",
-            "en": "Increases [buff_2562_1]'s SPD boost effect to [b_属性1数值_abs].",
-            "zh": "[buff_2562_1]提升速度效果增至[b_属性1数值_abs]点"
+            "vi": "[buff_2562_1] hiệu ứng tăng Tốc độ tăng lên 11 điểm",
+            "en": "Increases [buff_2562_1]'s SPD boost effect to 11.",
+            "zh": "[buff_2562_1]提升速度效果增至11点"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "[buff_2562_1] hiệu ứng tăng Tốc độ nâng lên [b_属性1数值_abs] điểm",
-            "en": "Increases [buff_2562_1]'s SPD boost effect to [b_属性1数值_abs].",
-            "zh": "[buff_2562_1]提升速度效果增至[b_属性1数值_abs]点"
+            "vi": "[buff_2562_1] hiệu ứng tăng Tốc độ tăng lên 14 điểm",
+            "en": "Increases [buff_2562_1]'s SPD boost effect to 14.",
+            "zh": "[buff_2562_1]提升速度效果增至14点"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "[buff_2562_1] hiệu ứng tăng Tốc độ nâng lên [b_属性1数值_abs] điểm",
-            "en": "Increases [buff_2562_1]'s SPD boost effect to [b_属性1数值_abs].",
-            "zh": "[buff_2562_1]提升速度效果增至[b_属性1数值_abs]点"
+            "vi": "[buff_2562_1] hiệu ứng tăng Tốc độ tăng lên 17 điểm",
+            "en": "Increases [buff_2562_1]'s SPD boost effect to 17.",
+            "zh": "[buff_2562_1]提升速度效果增至17点"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "[buff_2562_1] hiệu ứng tăng Tốc độ nâng lên [b_属性1数值_abs] điểm",
-            "en": "Increases [buff_2562_1]'s SPD boost effect to [b_属性1数值_abs].",
-            "zh": "[buff_2562_1]提升速度效果增至[b_属性1数值_abs]点"
+            "vi": "[buff_2562_1] hiệu ứng tăng Tốc độ tăng lên 20 điểm",
+            "en": "Increases [buff_2562_1]'s SPD boost effect to 20.",
+            "zh": "[buff_2562_1]提升速度效果增至20点"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 2563,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 6,
       "name": {
         "vi": "Phong Ma Cầm Tâm",
@@ -176,31 +182,15 @@
         "zh": "闭嘴，好好听我的演奏吧。"
       },
       "description": {
-        "vi": "将心中所想全部灌注在演奏之中，奏出让人癫狂的音色，对敌方全体造成攻击101%伤害，并有20%概率击退100%行动条以及20%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_103]，持续1回合。",
-        "en": "将心中所想全部灌注在演奏之中，奏出让人癫狂的音色，对敌方全体造成攻击101%伤害，并有20%概率击退100%行动条以及20%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_103]，持续1回合。",
-        "zh": "将心中所想全部灌注在演奏之中，奏出让人癫狂的音色，对敌方全体造成攻击101%伤害，并有20%概率击退100%行动条以及20%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_103]，持续1回合。"
+        "vi": "Rót hết tâm tư vào tiếng đàn, tấu lên âm điệu khiến người ta điên loạn, gây cho toàn thể phe địch sát thương bằng 101% Tấn công, đồng thời có 20% xác suất đẩy lùi 100% Thanh Hành Động cùng 20% [tips_2] xác suất khiến mục tiêu bị [tips_103], duy trì 1 lượt.",
+        "en": "将心中所想全部灌注在演奏之中，奏出让人癫狂的音色，对敌方全体造成攻击101%伤害，并有20%概率击退100%行动条以及20%（+Effect HIT）概率使其[tips_103]，持续1回合。",
+        "zh": "将心中所想全部灌注在演奏之中，奏出让人癫狂的音色，对敌方全体造成攻击101%伤害，并有20%概率击退100%行动条以及20%（+效果命中）概率使其[tips_103]，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至89%",
-            "en": "伤害增加至89%",
-            "zh": "伤害增加至89%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至89%",
-            "en": "伤害增加至89%",
-            "zh": "伤害增加至89%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至89%",
+            "vi": "Sát thương tăng lên 89%",
             "en": "伤害增加至89%",
             "zh": "伤害增加至89%"
           }
@@ -208,23 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至93%",
-            "en": "伤害增加至93%",
-            "zh": "伤害增加至93%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至93%",
-            "en": "伤害增加至93%",
-            "zh": "伤害增加至93%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至93%",
+            "vi": "Sát thương tăng lên 93%",
             "en": "伤害增加至93%",
             "zh": "伤害增加至93%"
           }
@@ -232,23 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至97%",
-            "en": "伤害增加至97%",
-            "zh": "伤害增加至97%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至97%",
-            "en": "伤害增加至97%",
-            "zh": "伤害增加至97%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至97%",
+            "vi": "Sát thương tăng lên 97%",
             "en": "伤害增加至97%",
             "zh": "伤害增加至97%"
           }
@@ -256,23 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至101%",
-            "en": "伤害增加至101%",
-            "zh": "伤害增加至101%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "伤害增加至101%",
-            "en": "伤害增加至101%",
-            "zh": "伤害增加至101%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "伤害增加至101%",
+            "vi": "Sát thương tăng lên 101%",
             "en": "伤害增加至101%",
             "zh": "伤害增加至101%"
           }
@@ -280,7 +222,7 @@
         {
           "level": 6,
           "text": {
-            "vi": "伤害增加至101%",
+            "vi": "Sát thương tăng lên 101%",
             "en": "伤害增加至101%",
             "zh": "伤害增加至101%"
           }
@@ -291,7 +233,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "qinmo.png",
-    "headIconFile": ""
+    "portraitFile": "256.png",
+    "headIconFile": "256a.png"
   }
 }

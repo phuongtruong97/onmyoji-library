@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2144,
-      "grade": "C"
+      "value": 2412,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10708,
-      "grade": "B"
+      "value": 11849,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 423,
-      "grade": "B"
+      "value": 467,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 95,
-      "grade": "C"
+      "value": 105,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2601,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 6,
       "name": {
         "vi": "Xà Hành Kích",
@@ -64,15 +66,15 @@
         "zh": "你，休想从我这儿逃掉~"
       },
       "description": {
-        "vi": "Quật roi vào mục tiêu kẻ địch, gây sát thương bằng 102% Tấn công, và có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm [buff_99_1] cấp 3, duy trì 5 lượt; sau đó đính kèm [buff_2603_1] cho kẻ đó, gây [tips_5] bằng [b2_参数p1_per] Tấn công, duy trì 1 lượt.",
-        "en": "Whips 1 enemy, dealing damage equal to 102% of her ATK with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [buff_99_1] III lasting 5 turn(s) on the target. Also inflicts [buff_2603_1] on the target lasting 1 turn(s), dealing [tips_5] equal to [b2_参数p1_per] of her ATK.",
-        "zh": "鞭打敌方目标，造成攻击102%伤害，并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加3级[buff_99_1]，持续5回合；然后对其附加[buff_2603_1]，造成攻击[b2_参数p1_per][tips_5]，持续1回合。"
+        "vi": "Quật roi vào mục tiêu kẻ địch, gây sát thương bằng 102% Tấn công, và có 100% [tips_2] xác suất đính kèm [buff_99_1] cấp 3, duy trì 5 lượt; sau đó đính kèm [buff_2603_1] cho kẻ đó, gây [tips_5] bằng 33% Tấn công, duy trì 1 lượt.",
+        "en": "Whips 1 enemy, dealing damage equal to 102% of her ATK with a 100% (+Effect HIT) chance of inflicting [buff_99_1] III lasting 5 turn(s) on the target. Also inflicts [buff_2603_1] on the target lasting 1 turn(s), dealing [tips_5] equal to 33% of her ATK.",
+        "zh": "鞭打敌方目标，造成攻击102%伤害，并有100%（+效果命中）概率附加3级[buff_99_1]，持续5回合；然后对其附加[buff_2603_1]，造成攻击33%[tips_5]，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害增加至90%",
             "zh": "伤害增加至90%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至94%",
+            "vi": "Sát thương tăng lên 94%",
             "en": "伤害增加至94%",
             "zh": "伤害增加至94%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至98%",
+            "vi": "Sát thương tăng lên 98%",
             "en": "伤害增加至98%",
             "zh": "伤害增加至98%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至102%",
+            "vi": "Sát thương tăng lên 102%",
             "en": "伤害增加至102%",
             "zh": "伤害增加至102%"
           }
@@ -104,9 +106,9 @@
         {
           "level": 6,
           "text": {
-            "vi": "[tips_5] tăng lên [b2_参数p1_per]",
-            "en": "Increases [tips_5] to [b2_参数p1_per].",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
+            "vi": "[tips_5] tăng lên 33%",
+            "en": "Increases [tips_5] to 33%.",
+            "zh": "[tips_5]增至33%"
           }
         }
       ],
@@ -116,6 +118,8 @@
     {
       "id": 2602,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Thôi Độc",
@@ -139,9 +143,11 @@
     {
       "id": 2603,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "焚身之火",
+        "vi": "Phần Thân Chi Hỏa",
         "en": "焚身之火",
         "zh": "焚身之火"
       },
@@ -151,15 +157,15 @@
         "zh": "爱就像焚身之火，你也一起为爱献身吧。"
       },
       "description": {
-        "vi": "喷吐火焰攻击敌方全体3次，每次造成攻击42%伤害，并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加3级[buff_99_1]，持续5回合；然后对敌方全体附加[buff_2603_1]，造成攻击[b2_参数p1_per][tips_5]，持续1回合。",
-        "en": "喷吐火焰攻击敌方全体3次，每次造成攻击42%伤害，并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加3级[buff_99_1]，持续5回合；然后对敌方全体附加[buff_2603_1]，造成攻击[b2_参数p1_per][tips_5]，持续1回合。",
-        "zh": "喷吐火焰攻击敌方全体3次，每次造成攻击42%伤害，并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加3级[buff_99_1]，持续5回合；然后对敌方全体附加[buff_2603_1]，造成攻击[b2_参数p1_per][tips_5]，持续1回合。"
+        "vi": "Phun lửa tấn công toàn thể phe địch 3 lần, mỗi lần gây sát thương bằng 42% Tấn công, đồng thời có 100% [tips_2] xác suất gắn [buff_99_1] cấp 3, duy trì 5 lượt; sau đó gắn [buff_2603_1] cho toàn thể phe địch, gây [tips_5] bằng 99% Tấn công, duy trì 1 lượt.",
+        "en": "喷吐火焰攻击敌方全体3次，每次造成攻击42%伤害，并有100%（+Effect HIT）概率附加3级[buff_99_1]，持续5回合；然后对敌方全体附加[buff_2603_1]，造成攻击99%[tips_5]，持续1回合。",
+        "zh": "喷吐火焰攻击敌方全体3次，每次造成攻击42%伤害，并有100%（+效果命中）概率附加3级[buff_99_1]，持续5回合；然后对敌方全体附加[buff_2603_1]，造成攻击99%[tips_5]，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至38%",
+            "vi": "Sát thương tăng lên 38%",
             "en": "伤害增加至38%",
             "zh": "伤害增加至38%"
           }
@@ -167,7 +173,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至40%",
+            "vi": "Sát thương tăng lên 40%",
             "en": "伤害增加至40%",
             "zh": "伤害增加至40%"
           }
@@ -175,7 +181,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至42%",
+            "vi": "Sát thương tăng lên 42%",
             "en": "伤害增加至42%",
             "zh": "伤害增加至42%"
           }
@@ -183,9 +189,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "[tips_5] tăng lên [b2_参数p1_per]",
-            "en": "Increases [tips_5] to [b2_参数p1_per].",
-            "zh": "[tips_5]增至[b2_参数p1_per]"
+            "vi": "[tips_5] tăng lên 99%",
+            "en": "Increases [tips_5] to 99%.",
+            "zh": "[tips_5]增至99%"
           }
         }
       ],
@@ -194,7 +200,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_qingji.png"
+    "portraitFile": "260.png",
+    "headIconFile": "260a.png"
   }
 }

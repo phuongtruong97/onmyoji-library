@@ -52,9 +52,11 @@
     {
       "id": 1003,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "基础术式",
+        "vi": "Cơ Sở Thuật Thức",
         "en": "基础术式",
         "zh": "基础术式"
       },
@@ -64,33 +66,33 @@
         "zh": ""
       },
       "description": {
-        "vi": "Sử dụng bùa chú tấn công mục tiêu, gây sát thương bằng 120%, khi gây sát thương đính kèm hiệu ứng [Bùa Chú • Loạn] cho mục tiêu, khiến sát thương gây ra giảm [b_属性1数值_per], duy trì 2 lượt.",
-        "en": "Uses an amulet to attack the target. Deals damage equal to 120% of his ATK. When damage is dealt, the target is inflicted with the Amulet: Chaos effect. This decreases the damage it deals by [b_属性1数值_per]. Lasts 2 turns.",
-        "zh": "使用符咒攻击目标，造成攻击120%的伤害，造成伤害时为目标附加[符咒·乱]效果，使其造成的伤害减少[b_属性1数值_per]，持续2回合。"
+        "vi": "Sử dụng bùa chú tấn công mục tiêu, gây sát thương bằng 120%, khi gây sát thương đính kèm hiệu ứng [Bùa Chú • Loạn] cho mục tiêu, khiến sát thương gây ra giảm 40%, duy trì 2 lượt.",
+        "en": "Uses an amulet to attack the target. Deals damage equal to 120% of his ATK. When damage is dealt, the target is inflicted with the Amulet: Chaos effect. This decreases the damage it deals by 40%. Lasts 2 turns.",
+        "zh": "使用符咒攻击目标，造成攻击120%的伤害，造成伤害时为目标附加[符咒·乱]效果，使其造成的伤害减少40%，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Có 50% (+ Chính Xác Hiệu Ứng: [*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm hiệu ứng [Bùa Chú • Loạn] cho mục tiêu, khiến sát thương gây ra giảm [b_属性1数值_per], duy trì 2 lượt",
-            "en": "Has a 50% (+ Effect HIT: [*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting the Amulet: Chaos effect on the target. This decreases the damage it deals by [b_属性1数值_per]. Lasts 2 turns.",
-            "zh": "有50%（+效果命中：[*|a_debuff-acc_per|s_buff概率_per]）的概率为目标附加[符咒·乱]效果，使其造成的伤害减少[b_属性1数值_per]，持续2回合"
+            "vi": "Có 50% (+ Chính Xác Hiệu Ứng: Chính Xác Hiệu Ứng) xác suất đính kèm hiệu ứng [Bùa Chú • Loạn] cho mục tiêu, khiến sát thương gây ra giảm 20%, duy trì 2 lượt",
+            "en": "Has a 50% (+ Effect HIT: Effect HIT) chance of inflicting the Amulet: Chaos effect on the target. This decreases the damage it deals by 20%. Lasts 2 turns.",
+            "zh": "有50%（+效果命中：效果命中）的概率为目标附加[符咒·乱]效果，使其造成的伤害减少20%，持续2回合"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Xác suất đính kèm hiệu ứng [Bùa Chú • Loạn] tăng lên 100% (+ Chính Xác Hiệu Ứng: [*|a_debuff-acc_per|s_buff概率_per])",
-            "en": "The chance of inflicting the Amulet: Chaos effect increases to 100% (+ Effect HIT: [*|a_debuff-acc_per|s_buff概率_per])",
-            "zh": "[符咒·乱]效果的附加概率增至100%（+效果命中：[*|a_debuff-acc_per|s_buff概率_per]）"
+            "vi": "Xác suất đính kèm hiệu ứng [Bùa Chú • Loạn] tăng lên 100% (+ Chính Xác Hiệu Ứng: Chính Xác Hiệu Ứng)",
+            "en": "The chance of inflicting the Amulet: Chaos effect increases to 100% (+ Effect HIT: Effect HIT)",
+            "zh": "[符咒·乱]效果的附加概率增至100%（+效果命中：效果命中）"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Cường hóa hiệu ứng [Bùa Chú • Loạn]: sát thương gây ra giảm [b_属性1数值_per]",
-            "en": "Amulet: Chaos effect enhancement: Damage dealt decreases by [b_属性1数值_per].",
-            "zh": "[符咒·乱]效果强化：造成的伤害降低[b_属性1数值_per]"
+            "vi": "Cường hóa hiệu ứng [Bùa Chú • Loạn]: sát thương gây ra giảm 40%",
+            "en": "Amulet: Chaos effect enhancement: Damage dealt decreases by 40%.",
+            "zh": "[符咒·乱]效果强化：造成的伤害降低40%"
           }
         },
         {
@@ -108,6 +110,8 @@
     {
       "id": 1009,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ngôn Linh • Phược",
@@ -120,33 +124,33 @@
         "zh": ""
       },
       "description": {
-        "vi": "以结界束缚目标，使目标受到的伤害增加[b_属性1数值_per]，并有50%（+[*|a_debuff-acc_per|s_buff2概率_per]）的概率束缚敌人，被束缚的单位可以通过使用普通攻击打破束缚解除控制。结界继承阴阳师[b2_伤害吸收_per]的生命值，技能冷却2回合。",
-        "en": "以结界束缚目标，使目标受到的伤害增加[b_属性1数值_per]，并有50%（+[*|a_debuff-acc_per|s_buff2概率_per]）的概率束缚敌人，被束缚的单位可以通过使用普通攻击打破束缚解除控制。结界继承阴阳师[b2_伤害吸收_per]的生命值，技能冷却2回合。",
-        "zh": "以结界束缚目标，使目标受到的伤害增加[b_属性1数值_per]，并有50%（+[*|a_debuff-acc_per|s_buff2概率_per]）的概率束缚敌人，被束缚的单位可以通过使用普通攻击打破束缚解除控制。结界继承阴阳师[b2_伤害吸收_per]的生命值，技能冷却2回合。"
+        "vi": "Dùng kết giới trói buộc mục tiêu, khiến sát thương mục tiêu phải chịu tăng 40%, đồng thời có 50% [tips_2] xác suất trói buộc kẻ địch, đơn vị bị trói buộc có thể phá vỡ trói buộc giải trừ khống chế bằng cách sử dụng đòn đánh thường. Kết giới kế thừa 10% HP của Âm Dương Sư, thời gian làm mới kỹ năng 2 lượt.",
+        "en": "以结界束缚目标，使目标受到的伤害增加40%，并有50%（+Effect HIT）的概率束缚敌人，被束缚的单位可以通过使用普通攻击打破束缚解除控制。结界继承阴阳师10%的生命值，技能冷却2回合。",
+        "zh": "以结界束缚目标，使目标受到的伤害增加40%，并有50%（+效果命中）的概率束缚敌人，被束缚的单位可以通过使用普通攻击打破束缚解除控制。结界继承阴阳师10%的生命值，技能冷却2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Phược]: sát thương gánh chịu tăng [b_属性1数值_per]",
-            "en": "Spell: Bind effect enhancement: Increases the damage taken by [b_属性1数值_per].",
-            "zh": "[言灵·缚]效果强化：受到的伤害增加[b_属性1数值_per]"
+            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Phược]: sát thương gánh chịu tăng 20%",
+            "en": "Spell: Bind effect enhancement: Increases the damage taken by 20%.",
+            "zh": "[言灵·缚]效果强化：受到的伤害增加20%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Phược]: sát thương gánh chịu tăng [b_属性1数值_per]",
-            "en": "Spell: Bind effect enhancement: Increases the damage taken by [b_属性1数值_per].",
-            "zh": "[言灵·缚]效果强化：受到的伤害增加[b_属性1数值_per]"
+            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Phược]: sát thương gánh chịu tăng 30%",
+            "en": "Spell: Bind effect enhancement: Increases the damage taken by 30%.",
+            "zh": "[言灵·缚]效果强化：受到的伤害增加30%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Phược]: sát thương gánh chịu tăng [b_属性1数值_per]",
-            "en": "Spell: Bind effect enhancement: Increases the damage taken by [b_属性1数值_per].",
-            "zh": "[言灵·缚]效果强化：受到的伤害增加[b_属性1数值_per]"
+            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Phược]: sát thương gánh chịu tăng 40%",
+            "en": "Spell: Bind effect enhancement: Increases the damage taken by 40%.",
+            "zh": "[言灵·缚]效果强化：受到的伤害增加40%"
           }
         },
         {
@@ -164,9 +168,11 @@
     {
       "id": 1011,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "言灵·守",
+        "vi": "Ngôn Linh · Thủ",
         "en": "言灵·守",
         "zh": "言灵·守"
       },
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "zhujue01.png",
-    "headIconFile": "h_zhujue01.png"
+    "portraitFile": "10.png",
+    "headIconFile": "10a.png"
   }
 }

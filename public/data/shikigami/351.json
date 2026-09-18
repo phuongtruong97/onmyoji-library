@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2974,
+      "value": 3270,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12075,
-      "grade": "A"
+      "value": 13216,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 384,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 100,
-      "grade": "B"
+      "value": 110,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,9 +52,11 @@
     {
       "id": 3511,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "逐影",
+        "vi": "Trục Ảnh",
         "en": "逐影",
         "zh": "逐影"
       },
@@ -64,15 +66,15 @@
         "zh": "我们的归宿，是铃鹿山。"
       },
       "description": {
-        "vi": "以白刃『逐影』攻击，对敌方目标造成攻击125%伤害。",
-        "en": "以白刃『逐影』攻击，对敌方目标造成攻击125%伤害。",
-        "zh": "以白刃『逐影』攻击，对敌方目标造成攻击125%伤害。"
+        "vi": "Tấn công bằng bạch nhận [Trục Ảnh], gây cho mục tiêu phe địch sát thương bằng 125% Tấn công.",
+        "en": "以白刃『逐影]攻击，对敌方目标造成攻击125%伤害。",
+        "zh": "以白刃『逐影]攻击，对敌方目标造成攻击125%伤害。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 3512,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "麓魂·极",
+        "vi": "Lộc Hồn · Cực",
         "en": "麓魂·极",
         "zh": "麓魂·极"
       },
@@ -120,9 +124,9 @@
         "zh": "再也不会……丢下你们任何一个。"
       },
       "description": {
-        "vi": "Vung «Minh Cung» tấn công, gây sát thương 211% cho mục tiêu kẻ địch, sau đó bước vào [buff_3512_1], trong thời gian đó bản thân tăng 50% kháng hiệu ứng và 100% kháng bạo kích, duy trì đến khi bắt đầu lượt kế tiếp; khiến mục tiêu tấn công lập tức nhận lượt mới, nếu mục tiêu không ở trạng thái không thể hành động, cưỡng chế sử dụng đòn đánh thường tấn công Linh Lộc Ngự Tiền; đính kèm [buff_3511_1] cho toàn thể đồng minh, duy trì 1 lượt. Sau khi [Thi triển], toàn thể đồng minh tăng 10% thanh hành động.",
+        "vi": "Vung «Minh Cung» tấn công, gây sát thương 211% cho mục tiêu kẻ địch, sau đó bước vào [buff_3512_1], trong thời gian đó bản thân tăng 50% kháng hiệu ứng và 100% kháng bạo kích, duy trì đến khi bắt đầu lượt kế tiếp; khiến mục tiêu tấn công lập tức nhận lượt mới, nếu mục tiêu không ở trạng thái không thể hành động, cưỡng chế sử dụng đòn đánh thường tấn công Linh Lộc Ngự Tiền; đính kèm [buff_3511_1] cho toàn thể đồng minh, duy trì 1 lượt. Sau khi [Thi Triển], toàn thể đồng minh tăng 10% thanh hành động.",
         "en": "Wields her Nether Bow to attack 1 enemy, dealing damage equal to 211% of her ATK and gaining [buff_3512_1] until her next turn. Her Effect RES and Crit RES are increased until her next turn by 50% and 100% respectively. Also grants the attacked enemy a new turn. If they are able to take action, they will be forced to launch a normal attack at Suzuka Gozen. Then, grants [buff_3511_1]s to all allies for 1 turn. After using the skill, the Move Bar of all allies will be raised by 10%.",
-        "zh": "挥动『冥弓』攻击，对敌方目标造成攻击211%伤害，之后进入[buff_3512_1]，期间自身提升50%效果抵抗和100%暴击抵抗，持续至下个回合开始；使攻击目标立刻获得新的回合，若其未处于无法动作，则强制使用普攻攻击铃鹿御前；为友方全体附加[buff_3511_1]，持续1回合。施放后友方全体增加10%行动条。"
+        "zh": "挥动『冥弓]攻击，对敌方目标造成攻击211%伤害，之后进入[buff_3512_1]，期间自身提升50%效果抵抗和100%暴击抵抗，持续至下个回合开始；使攻击目标立刻获得新的回合，若其未处于无法动作，则强制使用普攻攻击铃鹿御前；为友方全体附加[buff_3511_1]，持续1回合。施放后友方全体增加10%行动条。"
       },
       "upgrades": [
         {
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Sau khi [Thi triển], toàn thể đồng minh tăng 10% thanh hành động.",
-            "en": "After using the skill, the Move Bar of all allies is raised by 10%.",
-            "zh": "施放后友方全体增加10%行动条"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Trong thời gian [buff_3512_1] duy trì, bản thân tăng 50% kháng hiệu ứng.",
-            "en": "As long as she has [buff_3512_1], her Effect RES is increased by 50%.",
-            "zh": "[buff_3512_1]持续期间，自身提升50%效果抵抗"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Trong thời gian [buff_3512_1] duy trì, bản thân tăng 50% kháng hiệu ứng.",
@@ -166,27 +154,11 @@
           }
         },
         {
-          "level": 4,
-          "text": {
-            "vi": "Trong thời gian [buff_3512_1] duy trì, bản thân tăng 100% kháng bạo kích.",
-            "en": "As long as she has [buff_3512_1], her Crit RES is increased by 100%.",
-            "zh": "[buff_3512_1]持续期间，自身提升100%暴击抵抗"
-          }
-        },
-        {
           "level": 5,
           "text": {
-            "vi": "Khi bước vào [buff_3512_1], khiến mục tiêu tấn công lập tức nhận lượt mới, nếu mục tiêu không ở trạng thái không thể hành động, cưỡng chế sử dụng đòn đánh thường tấn công Linh Lộc Ngự Tiền ((hiệu ứng này không có hiệu lực với vật triệu hồi và quái vật)).",
-            "en": "When she gains [buff_3512_1], grants a new turn to the attacked enemy. If they are not unable to take actions, they are forced to launch a normal attack at Suzuka Gozen((summoned entities and monsters won't be affected)).",
-            "zh": "进入[buff_3512_1]时，使攻击目标立刻获得新的回合，若其未处于无法动作，则强制使用普攻攻击铃鹿御前(（该效果对召唤物和怪物无效）)"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi bước vào [buff_3512_1], khiến mục tiêu tấn công lập tức nhận lượt mới, nếu mục tiêu không ở trạng thái không thể hành động, cưỡng chế sử dụng đòn đánh thường tấn công Linh Lộc Ngự Tiền ((hiệu ứng này không có hiệu lực với vật triệu hồi và quái vật)).",
-            "en": "When she gains [buff_3512_1], grants a new turn to the attacked enemy. If they are not unable to take actions, they are forced to launch a normal attack at Suzuka Gozen((summoned entities and monsters won't be affected)).",
-            "zh": "进入[buff_3512_1]时，使攻击目标立刻获得新的回合，若其未处于无法动作，则强制使用普攻攻击铃鹿御前(（该效果对召唤物和怪物无效）)"
+            "vi": "Khi bước vào [buff_3512_1], khiến mục tiêu tấn công lập tức nhận lượt mới, nếu mục tiêu không ở trạng thái không thể hành động, cưỡng chế sử dụng đòn đánh thường tấn công Linh Lộc Ngự Tiền ((hiệu ứng này không có hiệu lực với vật triệu hồi và quái vật).",
+            "en": "When she gains [buff_3512_1], grants a new turn to the attacked enemy. If they are not unable to take actions, they are forced to launch a normal attack at Suzuka Gozen((summoned entities and monsters won't be affected).",
+            "zh": "进入[buff_3512_1]时，使攻击目标立刻获得新的回合，若其未处于无法动作，则强制使用普攻攻击铃鹿御前(该效果对召唤物和怪物无效）)"
           }
         }
       ],
@@ -196,9 +168,11 @@
     {
       "id": 3513,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "万羽浪行",
+        "vi": "Vạn Vũ Lãng Hành",
         "en": "万羽浪行",
         "zh": "万羽浪行"
       },
@@ -210,13 +184,13 @@
       "description": {
         "vi": "Ngưng tụ sức mạnh của hai loại vũ khí, bắn «Trục Ảnh» thông qua «Minh Cung», tấn công toàn thể kẻ địch 5 lần, mỗi lần gây sát thương 53%, đòn tấn công kèm theo 10% hút máu. Toàn thể đồng minh cứ tiêu hao 1 điểm Quỷ Hỏa, bản thân tăng 2% tấn công và phòng thủ, tối đa 50 tầng.",
         "en": "Combines the power of her two weapons and shoots Shadowchaser with her Nether Bow to launch a 5-strike attack on all enemies, dealing damage equal to 53% of her ATK with each strike. Her attack also inflicts a 10% HP Steal. Each Orb spent by any ally increases her ATK and DEF by 2%. Max 50 stacks.",
-        "zh": "汇聚两把武器之力，将『逐影』借由『冥弓』射出，攻击敌方全体5次，每次造成攻击53%伤害，攻击附带10%吸血。友方全体每消耗1点鬼火，自身增加2%攻击和防御，上限50层。"
+        "zh": "汇聚两把武器之力，将『逐影]借由『冥弓]射出，攻击敌方全体5次，每次造成攻击53%伤害，攻击附带10%吸血。友方全体每消耗1点鬼火，自身增加2%攻击和防御，上限50层。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至47%",
+            "vi": "Sát thương tăng lên 47%",
             "en": "伤害增加至47%",
             "zh": "伤害增加至47%"
           }
@@ -224,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至50%",
+            "vi": "Sát thương tăng lên 50%",
             "en": "伤害增加至50%",
             "zh": "伤害增加至50%"
           }
@@ -232,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至53%",
+            "vi": "Sát thương tăng lên 53%",
             "en": "伤害增加至53%",
             "zh": "伤害增加至53%"
           }
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "lingluyuqian.png",
-    "headIconFile": ""
+    "portraitFile": "351.png",
+    "headIconFile": "351a.png"
   }
 }

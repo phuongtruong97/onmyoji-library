@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2680,
-      "grade": "A"
+      "value": 2975,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
-      "grade": "B"
+      "value": 11393,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 392,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 104,
-      "grade": "B"
+      "value": 114,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3131,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Chi Thương",
@@ -64,15 +66,15 @@
         "zh": "风之伤！"
       },
       "description": {
-        "vi": "Vung Thiết Toái Nha tung ra đòn đánh mạnh mẽ chứa đựng sức mạnh của gió tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công, và giúp bản thân có 10% xác suất nhận 1 tầng [buff_3131_1], giới hạn [b2_堆叠上限] tầng.\nKhi lượt kết thúc, nhận 1 tầng [buff_3131_1].",
-        "en": "Wields his Tessaiga to launch a heavy strike at the target with a gust of wind, dealing damage equal to 125% of his ATK, with a 10% chance of gaining a layer of [buff_3131_1] (stacks up to [b2_堆叠上限] layers) after the attack.\nGains a layer of [buff_3131_1] at the end of his turn.",
-        "zh": "挥动铁碎牙打出蕴含风之力的强力一击攻击敌方目标，造成攻击125%伤害，并使自身有10%概率获得1层[buff_3131_1]，上限[b2_堆叠上限]层。\n回合结束后，获得1层[buff_3131_1]。"
+        "vi": "Vung Thiết Toái Nha tung ra đòn đánh mạnh mẽ chứa đựng sức mạnh của gió tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công, và giúp bản thân có 10% xác suất nhận 1 tầng [buff_3131_1], giới hạn 0 tầng.\nKhi lượt kết thúc, nhận 1 tầng [buff_3131_1].",
+        "en": "Wields his Tessaiga to launch a heavy strike at the target with a gust of wind, dealing damage equal to 125% of his ATK, with a 10% chance of gaining a layer of [buff_3131_1] (stacks up to 0 layers) after the attack.\nGains a layer of [buff_3131_1] at the end of his turn.",
+        "zh": "挥动铁碎牙打出蕴含风之力的强力一击攻击敌方目标，造成攻击125%伤害，并使自身有10%概率获得1层[buff_3131_1]，上限0层。\n回合结束后，获得1层[buff_3131_1]。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3132,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Bộc Lưu Phá",
@@ -120,17 +124,44 @@
         "zh": "爆流破！"
       },
       "description": {
-        "vi": "Khi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân ở trạng thái [tips_27], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1], mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho 『Thiết Toái Nha』 tiến hóa, lần lượt là 『[skill_3136_1]』, 『[skill_3136_2]』, 『[skill_3136_3]』, 『[skill_3136_4]』.",
+        "vi": "Khi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân ở trạng thái [tips_27], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1], mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho [Thiết Toái Nha] tiến hóa, lần lượt là [skill_3136_1], [skill_3136_2], [skill_3136_3], [skill_3136_4].",
         "en": "Whenever an enemy spends orbs, if he's under [tips_27], there is a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each stack consumed increases the damage by 10%.\nWhenever this is triggered, Tessaiga evolves in sequence into [skill_3136_1], [skill_3136_2], [skill_3136_3], and [skill_3136_4].",
-        "zh": "当敌方消耗鬼火后，若自身处于[tips_27]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使『铁碎牙』得到进化，依序为『[skill_3136_1]』、『[skill_3136_2]』、『[skill_3136_3]』、『[skill_3136_4]』。"
+        "zh": "当敌方消耗鬼火后，若自身处于[tips_27]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使『铁碎牙]得到进化，依序为『[skill_3136_1]、『[skill_3136_2]、『[skill_3136_3]、『[skill_3136_4]。"
       },
       "upgrades": [],
       "orbCost": 1,
       "iconFile": "3132.png"
     },
     {
+      "id": 3136,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 3132,
+      "maxLevel": 4,
+      "name": {
+        "vi": "Tất Hắc Thiết Toái Nha",
+        "en": "Black Tessaiga",
+        "zh": "漆黑铁碎牙"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Kế thừa tất cả hiệu ứng của [Long Lân Thiết Toái Nha].\nKhi gây sát thương, 50% sát thương sẽ giảm giới hạn HP của mục tiêu, giảm tối đa giới hạn HP của mục tiêu xuống còn 20% ban đầu.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công, không còn tiêu hao [buff_3131_1], mỗi tầng [buff_3131_1] tăng thêm 10% sát thương lần đó.",
+        "en": "Inherits all the effects of Dragon-Scaled Tessaiga.\nWhen dealing damage, 50% of the damage reduces the target's max HP, up to a maximum reduction of 20% of max HP.\nIf he's not under any [tips_3], whenever an enemy consumes orbs, he has a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each [buff_3131_1] stack consumed increases the damage by 10%.",
+        "zh": "继承『龙鳞铁碎牙]所有效果。\n造成伤害时，伤害的50%将降低目标生命上限，最多将目标生命上限降至原来的20%。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害，不再消耗[buff_3131_1]，每层[buff_3131_1]额外提升该次伤害10%。"
+      },
+      "upgrades": [],
+      "orbCost": 1,
+      "iconFile": "31324.png"
+    },
+    {
       "id": 3133,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thiết Toái Nha",
@@ -151,7 +182,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至42%",
+            "vi": "Sát thương tăng lên 42%",
             "en": "伤害增加至42%",
             "zh": "伤害增加至42%"
           }
@@ -159,7 +190,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至44%",
+            "vi": "Sát thương tăng lên 44%",
             "en": "伤害增加至44%",
             "zh": "伤害增加至44%"
           }
@@ -167,7 +198,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至46%",
+            "vi": "Sát thương tăng lên 46%",
             "en": "伤害增加至46%",
             "zh": "伤害增加至46%"
           }
@@ -175,7 +206,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至50%",
+            "vi": "Sát thương tăng lên 50%",
             "en": "伤害增加至50%",
             "zh": "伤害增加至50%"
           }
@@ -186,7 +217,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "quanyecha.png",
-    "headIconFile": "h_quanyecha.png"
+    "portraitFile": "313.png",
+    "headIconFile": "313a.png"
   }
 }

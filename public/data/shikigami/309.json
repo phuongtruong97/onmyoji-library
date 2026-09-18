@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2867,
-      "grade": "A"
+      "value": 3162,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
-      "grade": "C"
+      "value": 10595,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 361,
-      "grade": "C"
+      "value": 401,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 104,
-      "grade": "B"
+      "value": 114,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3091,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Xà Tốt • Độc Nha",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3092,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Xà Chi Ảnh",
@@ -120,9 +124,9 @@
         "zh": "抱歉，吓到你了吗？"
       },
       "description": {
-        "vi": "Khi tấn công, có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm 1 tầng [buff_3092_1] cho kẻ địch, giới hạn 3 tầng, duy trì 3 lượt.\nKhi bản thân và đồng minh chịu đòn không phải [tips_12], có 25% xác suất phản kích kẻ địch, trong 1 lần tấn công kích hoạt tối đa 1 lần.",
-        "en": "When she attacks, has a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting a layer of [buff_3092_1], lasting 3 turn(s) and stacking up to 3 layers.\nWhen she or an ally takes non-[tips_12], has a 25% chance of launching a counter-attack at the enemy. Triggers only once for a single attack.",
-        "zh": "攻击时，有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率为敌方附加1层[buff_3092_1]，上限3层，持续3回合。\n自身及友方受到非[tips_12]时，有25%概率反击敌方，单次攻击内最多触发1次。"
+        "vi": "Khi tấn công, có 100% [tips_2] xác suất đính kèm 1 tầng [buff_3092_1] cho kẻ địch, giới hạn 3 tầng, duy trì 3 lượt.\nKhi bản thân và đồng minh chịu đòn không phải [tips_12], có 25% xác suất phản kích kẻ địch, trong 1 lần tấn công kích hoạt tối đa 1 lần.",
+        "en": "When she attacks, has a 100% (+Effect HIT) chance of inflicting a layer of [buff_3092_1], lasting 3 turn(s) and stacking up to 3 layers.\nWhen she or an ally takes non-[tips_12], has a 25% chance of launching a counter-attack at the enemy. Triggers only once for a single attack.",
+        "zh": "攻击时，有100%（+效果命中）概率为敌方附加1层[buff_3092_1]，上限3层，持续3回合。\n自身及友方受到非[tips_12]时，有25%概率反击敌方，单次攻击内最多触发1次。"
       },
       "upgrades": [],
       "orbCost": 0,
@@ -131,6 +135,8 @@
     {
       "id": 3093,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Xà Tốt • Cuồng Bạo",
@@ -143,15 +149,15 @@
         "zh": "这里必须用淑女之力阻止你！"
       },
       "description": {
-        "vi": "Triệu hồi xà lực tấn công mục tiêu kẻ địch, gây sát thương bằng 216% Tấn công (mỗi tầng [buff_3092_1] tăng thêm 40%), đối với kẻ địch có 3 tầng [buff_3092_1] có 100% (+[*|a_debuff-acc_per|s_buff2概率_per]) xác suất khiến kẻ đó [tips_108] 1 lượt.",
-        "en": "Summons Snake Force to attack 1 enemy, dealing damage equal to 216% of her ATK. Each layer of [buff_3092_1] inflicts extra damage equal to 40% of her ATK. Has a 100% (+[*|a_debuff-acc_per|s_buff2概率_per]) chance of inflicting [tips_108] lasting 1 turn(s) on enemies with 3 layers of [buff_3092_1].",
-        "zh": "召唤蛇之力攻击敌方目标，造成攻击216%伤害（每层[buff_3092_1]额外提升40%），对有3层[buff_3092_1]的敌方有100%（+[*|a_debuff-acc_per|s_buff2概率_per]）概率使其[tips_108]1回合。"
+        "vi": "Triệu hồi xà lực tấn công mục tiêu kẻ địch, gây sát thương bằng 216% Tấn công (mỗi tầng [buff_3092_1] tăng thêm 40%), đối với kẻ địch có 3 tầng [buff_3092_1] có 100% [tips_2] xác suất khiến kẻ đó [tips_108] 1 lượt.",
+        "en": "Summons Snake Force to attack 1 enemy, dealing damage equal to 216% of her ATK. Each layer of [buff_3092_1] inflicts extra damage equal to 40% of her ATK. Has a 100% (+Effect HIT) chance of inflicting [tips_108] lasting 1 turn(s) on enemies with 3 layers of [buff_3092_1].",
+        "zh": "召唤蛇之力攻击敌方目标，造成攻击216%伤害（每层[buff_3092_1]额外提升40%），对有3层[buff_3092_1]的敌方有100%（+效果命中）概率使其[tips_108]1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至189%",
+            "vi": "Sát thương tăng lên 189%",
             "en": "伤害增加至189%",
             "zh": "伤害增加至189%"
           }
@@ -159,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至198%",
+            "vi": "Sát thương tăng lên 198%",
             "en": "伤害增加至198%",
             "zh": "伤害增加至198%"
           }
@@ -167,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至207%",
+            "vi": "Sát thương tăng lên 207%",
             "en": "伤害增加至207%",
             "zh": "伤害增加至207%"
           }
@@ -175,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至216%",
+            "vi": "Sát thương tăng lên 216%",
             "en": "伤害增加至216%",
             "zh": "伤害增加至216%"
           }
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_axiang.png"
+    "portraitFile": "309.png",
+    "headIconFile": "309a.png"
   }
 }

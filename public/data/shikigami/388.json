@@ -10,18 +10,18 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3135,
+      "value": 3136,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11278,
+      "value": 11279,
       "grade": "B"
     },
     {
@@ -34,7 +34,7 @@
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 114,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3881,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ô Lăng",
@@ -64,15 +66,15 @@
         "zh": "这只是一点温柔的惩罚~"
       },
       "description": {
-        "vi": "Lấy phong hỏa ngưng tụ phản chiếu kẻ địch, bóp nát phong hỏa gây cho mục tiêu sát thương bằng 125% Tấn công. Khi ở trạng thái [buff_3885_1] thay thế thành 『Diệp Nhẫn』, cấp độ tăng theo cường hóa kỹ năng 『Ô Lăng』.",
+        "vi": "Lấy phong hỏa ngưng tụ phản chiếu kẻ địch, bóp nát phong hỏa gây cho mục tiêu sát thương bằng 125% Tấn công. Khi ở trạng thái [buff_3885_1] thay thế thành [Diệp Nhẫn], cấp độ tăng theo cường hóa kỹ năng [Ô Lăng].",
         "en": "Illuminates 1 enemy with focused maple fire before extinguishing the fire, dealing damage equal to 125% of her ATK. This is changed to Leaf Blade while she's [buff_3885_1], with its skill level equal to the skill level of Crow Feather.",
-        "zh": "以凝结的枫火映照敌方，捏碎枫火对目标造成攻击125%伤害。处于[buff_3885_1]替换为『叶刃』，等级随『乌翎』技能强化。"
+        "zh": "以凝结的枫火映照敌方，捏碎枫火对目标造成攻击125%伤害。处于[buff_3885_1]替换为『叶刃]，等级随『乌翎]技能强化。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3882,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Kinh Sương",
@@ -164,6 +168,8 @@
     {
       "id": 3883,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Khởi Chi Vũ",
@@ -176,9 +182,9 @@
         "zh": "这支舞，只为你一人。"
       },
       "description": {
-        "vi": "[tips_11]. Múa theo ý lòng, gọi dậy lá phong, nhận 2 tầng [buff_3885_1], trong thời gian duy trì toàn bộ phe ta nhận [buff_3884_1]. Tiên Cơ thi triển 『Phong Khởi Chi Vũ』.",
+        "vi": "[tips_11]. Múa theo ý lòng, gọi dậy lá phong, nhận 2 tầng [buff_3885_1], trong thời gian duy trì toàn bộ phe ta nhận [buff_3884_1]. Tiên Cơ thi triển [Phong Khởi Chi Vũ].",
         "en": "[tips_11]. Dances freely, summoning maple leaves to gain 2 stacks of [buff_3885_1]. During its duration, all allies gain [buff_3884_1]. Upper Hand: Casts Maple Dance.",
-        "zh": "[tips_11]。随心而舞，唤起枫叶，获得2层[buff_3885_1]，持续期间全体友方获得[buff_3884_1]。先机施放『枫起之舞』。"
+        "zh": "[tips_11]。随心而舞，唤起枫叶，获得2层[buff_3885_1]，持续期间全体友方获得[buff_3884_1]。先机施放『枫起之舞]。"
       },
       "upgrades": [
         {
@@ -208,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "[tips_7]: Thi triển 『Phong Khởi Chi Vũ』",
+            "vi": "[tips_7]: Thi triển [Phong Khởi Chi Vũ]",
             "en": "[tips_7]: Uses Maple Dance.",
-            "zh": "[tips_7]：施放『枫起之舞』"
+            "zh": "[tips_7]：施放『枫起之舞]"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "388.png",
+    "headIconFile": "388a.png"
   }
 }

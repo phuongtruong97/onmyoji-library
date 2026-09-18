@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3028,
+      "value": 3323,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
+      "value": 10026,
       "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 388,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 111,
+      "value": 121,
       "grade": "S"
     },
     {
@@ -52,9 +52,11 @@
     {
       "id": 2921,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Yuki-zane",
+        "vi": "Tuyết Tẩu",
         "en": "Snow Chaser",
         "zh": "雪走"
       },
@@ -64,15 +66,15 @@
         "zh": "记忆中好像从来没有活人...见到过这把刀。"
       },
       "description": {
-        "vi": "Rút danh đao 『Yuki-zane』 từ chắn đao trước ngực, vung một đợt chém uy lực tấn công mục tiêu kẻ địch, gây sát thương 100%.",
+        "vi": "Rút danh đao [Yuki-zane] từ chắn đao trước ngực, vung một đợt chém uy lực tấn công mục tiêu kẻ địch, gây sát thương 100%.",
         "en": "Draws Snow Chaser from its sheath and slashes 1 enemy, dealing damage equal to 100% of his ATK.",
-        "zh": "从胸前刀镡处拔出名刀『雪走』，挥出强力砍击攻击敌方目标，造成攻击100%伤害。"
+        "zh": "从胸前刀镡处拔出名刀『雪走]，挥出强力砍击攻击敌方目标，造成攻击100%伤害。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至84%",
+            "vi": "Sát thương tăng lên 84%",
             "en": "伤害增加至84%",
             "zh": "伤害增加至84%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至88%",
+            "vi": "Sát thương tăng lên 88%",
             "en": "伤害增加至88%",
             "zh": "伤害增加至88%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至92%",
+            "vi": "Sát thương tăng lên 92%",
             "en": "伤害增加至92%",
             "zh": "伤害增加至92%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2922,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 2,
       "name": {
         "vi": "Sương Thiên Chi Chức",
@@ -120,15 +124,15 @@
         "zh": "天…是要下雪了吗？是的...只要我想…"
       },
       "description": {
-        "vi": "Mỗi đợt tấn công của Setouto có xác suất 15% (+[*|a_debuff-acc_per|s_buff概率_per]) khiến kẻ địch rơi vào trạng thái đóng băng trong 1-2 lượt (hiệu quả này có thể truyền dẫn qua liên kết). Nếu mục tiêu vốn đã bị đóng băng, đóng băng sâu, sương giá, đợt tấn công đó sẽ đổi thành phá băng và khiến sát thương tăng đến 300% sát thương gốc. Ngoài lượt của Setouto, bản thân được bao quanh bởi một lớp tuyết bay, có thể đỡ đòn 1 lần hiệu quả đóng băng, đóng băng sâu, sương giá, phong ấn bị động, phong ấn Ngự Hồn.",
-        "en": "When Yuki attacks, he has a 15% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting Freeze on the enemy for 1 – 2 turns (transmissible via link effects). If the target is inflicted with Freeze, Deep Freeze, or Frostbound, his attack will break the ice on the target, dealing damage equal to 300% of the original damage instead. He gains a snow buffer, negating 1 Freeze, Deep Freeze, Frostbound, Banish, Seal Passive, or Seal Soul effect before his next turn.",
-        "zh": "雪童子的每次攻击有15%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使敌方陷入冰冻状态1-2回合（该效果可经由链接传导）。若目标原本已被冰冻、深度冰冻、霜冻，则该次攻击改为碎冰并使得伤害提升至原伤害的300%。在雪童子的回合之外，其自身环绕一层飞雪，可抵消1次冻结、深度冰冻、霜冻、被动封印、御魂封印效果。"
+        "vi": "Mỗi đợt tấn công của Setouto có xác suất 15% [tips_2] khiến kẻ địch rơi vào trạng thái đóng băng trong 1-2 lượt (hiệu quả này có thể truyền dẫn qua liên kết). Nếu mục tiêu vốn đã bị đóng băng, đóng băng sâu, sương giá, đợt tấn công đó sẽ đổi thành phá băng và khiến sát thương tăng đến 300% sát thương gốc. Ngoài lượt của Setouto, bản thân được bao quanh bởi một lớp tuyết bay, có thể đỡ đòn 1 lần hiệu quả đóng băng, đóng băng sâu, sương giá, phong ấn bị động, phong ấn Ngự Hồn.",
+        "en": "When Yuki attacks, he has a 15% (+Effect HIT) chance of inflicting Freeze on the enemy for 1 – 2 turns (transmissible via link effects). If the target is inflicted with Freeze, Deep Freeze, or Frostbound, his attack will break the ice on the target, dealing damage equal to 300% of the original damage instead. He gains a snow buffer, negating 1 Freeze, Deep Freeze, Frostbound, Banish, Seal Passive, or Seal Soul effect before his next turn.",
+        "zh": "雪童子的每次攻击有15%（+效果命中）概率使敌方陷入冰冻状态1-2回合（该效果可经由链接传导）。若目标原本已被冰冻、深度冰冻、霜冻，则该次攻击改为碎冰并使得伤害提升至原伤害的300%。在雪童子的回合之外，其自身环绕一层飞雪，可抵消1次冻结、深度冰冻、霜冻、被动封印、御魂封印效果。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "该技能无法升级",
+            "vi": "Kỹ năng này không thể nâng cấp",
             "en": "该技能无法升级",
             "zh": "该技能无法升级"
           }
@@ -140,6 +144,8 @@
     {
       "id": 2923,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lung Nguyệt Tuyết Hoa Trảm",
@@ -152,15 +158,15 @@
         "zh": "今晚月色好美，从前我总分外珍惜..."
       },
       "description": {
-        "vi": "使用名刀『雪走』攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。",
-        "en": "使用名刀『雪走』攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。",
-        "zh": "使用名刀『雪走』攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。"
+        "vi": "Dùng danh đao [Tuyết Tẩu] tấn công mục tiêu phe địch 3 lần, mỗi lần gây sát thương bằng 140% Tấn công, đồng thời tăng 200% Hiệu Ứng Chính Xác cho đến khi kết thúc lượt. Sau khi gây hiệu ứng [tips_5671], trả lại 1 điểm quỷ hỏa.",
+        "en": "使用名刀『雪走]攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。",
+        "zh": "使用名刀『雪走]攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至145%",
+            "vi": "Sát thương tăng lên 145%",
             "en": "伤害增加至145%",
             "zh": "伤害增加至145%"
           }
@@ -168,7 +174,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至150%",
+            "vi": "Sát thương tăng lên 150%",
             "en": "伤害增加至150%",
             "zh": "伤害增加至150%"
           }
@@ -176,7 +182,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至155%",
+            "vi": "Sát thương tăng lên 155%",
             "en": "伤害增加至155%",
             "zh": "伤害增加至155%"
           }
@@ -184,7 +190,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至160%",
+            "vi": "Sát thương tăng lên 160%",
             "en": "伤害增加至160%",
             "zh": "伤害增加至160%"
           }
@@ -195,7 +201,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "xuetongzi.png",
-    "headIconFile": "h_xuetongzi.png"
+    "portraitFile": "292.png",
+    "headIconFile": "292a.png"
   }
 }

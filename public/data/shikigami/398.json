@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "DA_KIEM_TRA_ANH",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 13671,
+      "value": 13672,
       "grade": "S"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3981,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cụ Trung Nhân",
@@ -108,6 +110,8 @@
     {
       "id": 3982,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Cụ Ảnh Tùy",
@@ -131,6 +135,8 @@
     {
       "id": 3983,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cụ Bát Chi Phong",
@@ -143,9 +149,9 @@
         "zh": "就让惧刃之风，肆意蔓延……"
       },
       "description": {
-        "vi": "Nỗi sợ hãi dấy lên trận cuồng phong, có 15% (+0%) (+0%) xác suất khiến toàn bộ phe địch [tips_104], duy trì 1 lượt.\nKhi mục tiêu phe địch đạt đủ 6 tầng [buff_3981_1], thay thế kỹ năng thành 「[skill_3984_1]」.",
+        "vi": "Nỗi sợ hãi dấy lên trận cuồng phong, có 15% (+0%) (+0%) xác suất khiến toàn bộ phe địch [tips_104], duy trì 1 lượt.\nKhi mục tiêu phe địch đạt đủ 6 tầng [buff_3981_1], thay thế kỹ năng thành [skill_3984_1].",
         "en": "The Dread Storm has a 15% (+0%) (+0%) chance of inflicting [tips_104] lasting 1 turn on all enemies.\nIf the enemy has at least 6 [buff_3981_1] stacks, changes the skill to [skill_3984_1].",
-        "zh": "恐惧掀起暴风，有15%（+0%）（+0%）概率使敌方全体[tips_104]，持续1回合。\n当敌方目标[buff_3981_1]满6层时，将技能替换为「[skill_3984_1]」。"
+        "zh": "恐惧掀起暴风，有15%（+0%）（+0%）概率使敌方全体[tips_104]，持续1回合。\n当敌方目标[buff_3981_1]满6层时，将技能替换为「[skill_3984_1]。"
       },
       "upgrades": [
         {
@@ -157,22 +163,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Xác suất Câm lặng cơ bản tăng lên 11%",
-            "en": "Increases her base chance of inflicting Silence to 11%.",
-            "zh": "沉默基础概率提升至11%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất Câm lặng cơ bản tăng lên 12%",
-            "en": "Increases her base chance of inflicting Silence to 12%.",
-            "zh": "沉默基础概率提升至12%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Xác suất Câm lặng cơ bản tăng lên 12%",
@@ -186,22 +176,6 @@
             "vi": "Xác suất Câm lặng cơ bản tăng lên 13%",
             "en": "Increases her base chance of inflicting Silence to 13%.",
             "zh": "沉默基础概率提升至13%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Xác suất Câm lặng cơ bản tăng lên 13%",
-            "en": "Increases her base chance of inflicting Silence to 13%.",
-            "zh": "沉默基础概率提升至13%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Xác suất Câm lặng cơ bản tăng lên 15%, mỗi khi mục tiêu phe địch có 1 tầng sợ hãi, xác suất cơ bản tăng 5%",
-            "en": "Increases her base chance of inflicting Silence to 15%. Each Fear stack on the enemy increases the base chance by 5%.",
-            "zh": "沉默基础概率提升至15%，敌方目标每有1层恐惧，基础概率提升5%"
           }
         },
         {
@@ -215,10 +189,35 @@
       ],
       "orbCost": 3,
       "iconFile": "3983.png"
+    },
+    {
+      "id": 3984,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 3983,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cụ Ý Mạn Diên",
+        "en": "Spreading Fear",
+        "zh": "惧意蔓延"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Mất trật tự trong nỗi sợ. Tiêu hao 3 tầng [buff_3981_1], có 60% [tips_2] xác suất khiến toàn bộ phe địch [tips_103], duy trì 1 lượt, và [tips_10] tất cả Thức Thần phe ta tấn công mục tiêu sợ hãi.\nKhi số tầng [buff_3981_1] của mục tiêu kẻ địch không đủ 6 tầng, thay thế kỹ năng thành [skill_3983_1].",
+        "en": "Surrender to chaos in fear. Consumes 3 [buff_3981_1] stacks to have a 60% (+Effect HIT) chance of inflicting [tips_103] lasting 1 turn on all enemies, and issues [tips_10] to all shikigami allies to attack the enemy with Fear.\nIf the enemy has less than 6 [buff_3981_1] stacks, changes the skill to [skill_3983_1].",
+        "zh": "在惧意中失序。消耗3层[buff_3981_1]，有60%（+效果命中）概率使敌方全体[tips_103]，持续1回合，并[tips_10]所有友方式神攻击恐惧目标。\n当敌方目标[buff_3981_1]层数不足6层，将技能替换为「[skill_3983_1]。"
+      },
+      "upgrades": [],
+      "orbCost": 2,
+      "iconFile": "3984.png"
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_tiannimei.png"
+    "portraitFile": "398.png",
+    "headIconFile": "398a.png"
   }
 }

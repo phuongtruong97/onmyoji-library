@@ -9,8 +9,8 @@
   "tier": "N",
   "level": 40,
   "maxLevel": 40,
-  "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "statState": "LV40_NO_EVO",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,7 +21,7 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
+      "value": 10254,
       "grade": "B"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 4161,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Oa · Du Ngư",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 4162,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Oa · Thâu Tóm",
@@ -128,7 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至70%",
+            "vi": "Sát thương tăng lên 70%",
             "en": "伤害增加至70%",
             "zh": "伤害增加至70%"
           }
@@ -136,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至72%",
+            "vi": "Sát thương tăng lên 72%",
             "en": "伤害增加至72%",
             "zh": "伤害增加至72%"
           }
@@ -144,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至76%",
+            "vi": "Sát thương tăng lên 76%",
             "en": "伤害增加至76%",
             "zh": "伤害增加至76%"
           }
@@ -152,7 +156,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至80%",
+            "vi": "Sát thương tăng lên 80%",
             "en": "伤害增加至80%",
             "zh": "伤害增加至80%"
           }
@@ -163,7 +167,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_huangchuangua.png"
+    "portraitFile": "416.png",
+    "headIconFile": "416a.png"
   }
 }

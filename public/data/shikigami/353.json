@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2840,
-      "grade": "A"
+      "value": 3109,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9797,
-      "grade": "C"
+      "value": 10709,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 361,
+      "value": 397,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 105,
+      "value": 115,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3531,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tự",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,9 +98,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Đòn tấn công sẽ đính kèm hiệu ứng 『Luật Âm』 của lần gẩy trước đó",
+            "vi": "Đòn tấn công sẽ đính kèm hiệu ứng [Luật Âm] của lần gẩy trước đó",
             "en": "Attack inflicts the effects of the last Tune she played.",
-            "zh": "攻击会附加前一次弹奏的『律音』效果"
+            "zh": "攻击会附加前一次弹奏的『律音]效果"
           }
         }
       ],
@@ -108,6 +110,8 @@
     {
       "id": 3532,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 6,
       "name": {
         "vi": "Phá",
@@ -131,38 +135,6 @@
             "vi": "Sau khi gẩy luật âm tăng 35% Thanh Hành Động cho bản thân",
             "en": "After playing a tune, raises her Move Bar by 35%.",
             "zh": "弹奏律音后提升自身35%行动条"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Sau khi gẩy luật âm tăng 35% Thanh Hành Động cho bản thân",
-            "en": "After playing a tune, raises her Move Bar by 35%.",
-            "zh": "弹奏律音后提升自身35%行动条"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Sau khi gẩy luật âm tăng 35% Thanh Hành Động cho bản thân",
-            "en": "After playing a tune, raises her Move Bar by 35%.",
-            "zh": "弹奏律音后提升自身35%行动条"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Mỗi khi đợt chiến đấu bắt đầu nhận hiệu ứng giảm 50% sát thương bạo kích gánh chịu, mỗi lần gẩy luật âm liền chuyển hóa 10% trong đó thành tăng 20% Sát Thương Bạo Kích cho bản thân",
-            "en": "At the start of a round, gains an effect that reduces her Crit DMG taken by 50%. Each time after playing a tune, converts 10% Crit DMG reduction to increase her Crit DMG by 20%.",
-            "zh": "每回目开始时获得受到暴击伤害时降低50%效果，每次弹奏律音后将其中10%转化为提升自身20%暴击伤害"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Mỗi khi đợt chiến đấu bắt đầu nhận hiệu ứng giảm 50% sát thương bạo kích gánh chịu, mỗi lần gẩy luật âm liền chuyển hóa 10% trong đó thành tăng 20% Sát Thương Bạo Kích cho bản thân",
-            "en": "At the start of a round, gains an effect that reduces her Crit DMG taken by 50%. Each time after playing a tune, converts 10% Crit DMG reduction to increase her Crit DMG by 20%.",
-            "zh": "每回目开始时获得受到暴击伤害时降低50%效果，每次弹奏律音后将其中10%转化为提升自身20%暴击伤害"
           }
         },
         {
@@ -190,30 +162,6 @@
           }
         },
         {
-          "level": 4,
-          "text": {
-            "vi": "Sau khi gẩy luật âm bản thân nhận Che Chắn 1 lượt, có thể kháng 1 lần hiệu ứng khống chế",
-            "en": "After playing a tune, gains her Shelter that lasts 1 turn and negates controlling effects once.",
-            "zh": "弹奏律音后自身获得庇护1回合，可抵抗1次控制效果"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Gẩy luật âm tiêu hao Quỷ Hỏa giảm 1 điểm",
-            "en": "Reduces the orb cost of playing a tune by 1 orb.",
-            "zh": "弹奏律音消耗鬼火减少1点"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Gẩy luật âm tiêu hao Quỷ Hỏa giảm 1 điểm",
-            "en": "Reduces the orb cost of playing a tune by 1 orb.",
-            "zh": "弹奏律音消耗鬼火减少1点"
-          }
-        },
-        {
           "level": 5,
           "text": {
             "vi": "Gẩy luật âm tiêu hao Quỷ Hỏa giảm 1 điểm",
@@ -236,6 +184,8 @@
     {
       "id": 3533,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cấp",
@@ -248,7 +198,7 @@
         "zh": "谢谢你们，陪伴我演奏。"
       },
       "description": {
-        "vi": "连续攻击敌方目标5次，每次造成攻击60%伤害。",
+        "vi": "Liên tục tấn công mục tiêu phe địch 5 lần, mỗi lần gây sát thương bằng 60% Tấn công.",
         "en": "连续攻击敌方目标5次，每次造成攻击60%伤害。",
         "zh": "连续攻击敌方目标5次，每次造成攻击60%伤害。"
       },
@@ -256,7 +206,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至53%",
+            "vi": "Sát thương tăng lên 53%",
             "en": "伤害增加至53%",
             "zh": "伤害增加至53%"
           }
@@ -264,7 +214,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至56%",
+            "vi": "Sát thương tăng lên 56%",
             "en": "伤害增加至56%",
             "zh": "伤害增加至56%"
           }
@@ -272,7 +222,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至60%",
+            "vi": "Sát thương tăng lên 60%",
             "en": "伤害增加至60%",
             "zh": "伤害增加至60%"
           }
@@ -280,9 +230,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Đòn tấn công sẽ đính kèm toàn bộ hiệu ứng 『Luật Âm』 đã từng gẩy",
+            "vi": "Đòn tấn công sẽ đính kèm toàn bộ hiệu ứng [Luật Âm] đã từng gẩy",
             "en": "Attack inflicts the effects of all the Tunes she played.",
-            "zh": "攻击会附加弹奏过的全部『律音』效果"
+            "zh": "攻击会附加弹奏过的全部『律音]效果"
           }
         }
       ],
@@ -291,7 +241,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_jinnaluo.png"
+    "portraitFile": "353.png",
+    "headIconFile": "353a.png"
   }
 }

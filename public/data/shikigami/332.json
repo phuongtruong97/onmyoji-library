@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2680,
-      "grade": "A"
+      "value": 2948,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 8316,
-      "grade": "D"
+      "value": 9114,
+      "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 441,
-      "grade": "A"
+      "value": 485,
+      "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3321,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Kinh Cốt · Trú",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害增加至85%",
             "zh": "伤害增加至85%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害增加至90%",
             "zh": "伤害增加至90%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至95%",
+            "vi": "Sát thương tăng lên 95%",
             "en": "伤害增加至95%",
             "zh": "伤害增加至95%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -106,11 +108,38 @@
       "iconFile": "3321.png"
     },
     {
-      "id": 3323,
+      "id": 3322,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Dĩ Thủ Vi Công",
+        "en": "Defend for Attack",
+        "zh": "以守为攻"
+      },
+      "intro": {
+        "vi": "谁敢伤害我的朋友？",
+        "en": "谁敢伤害我的朋友？",
+        "zh": "谁敢伤害我的朋友？"
+      },
+      "description": {
+        "vi": "[tips_11] Đồng minh không có [tips_3320] khi chịu sát thương không truyền dẫn, gắn [tips_3320] cho đồng minh chịu sát thương và phản kích nguồn gây sát thương.\nTrong một lượt đơn lẻ, nếu nhiều đồng minh không có [tips_3320] chịu sát thương, chỉ gắn [tips_3320] và phản kích cho một người trong số đó.",
+        "en": "[tips_11].\nWhen an ally is not protected by [tips_3320] takes non-transferred damage, creates a [tips_3320] to protect the ally who takes the damage and launches a counter-attack against the source of the damage.\nIn a single turn, if multiple allies who are not protected by [tips_3320] take damage, creates a [tips_3320] to protect one of those allies and launches a counter-attack.",
+        "zh": "[tips_11]。\n没有[tips_3320]的友方受到非传导伤害时，为受到伤害的友方施加[tips_3320]并反击伤害来源。\n单个回合内，若多个没有[tips_3320]的友方受到伤害，仅为其中一个施加[tips_3320]并反击。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3322.png"
+    },
+    {
+      "id": 3323,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "鱼鳞之备",
+        "vi": "Ngư Lân Chi Bị",
         "en": "鱼鳞之备",
         "zh": "鱼鳞之备"
       },
@@ -120,7 +149,7 @@
         "zh": "时机已到，冲锋。"
       },
       "description": {
-        "vi": "[tips_11] Ở tư thế phòng thủ, toàn bộ phe ta tăng 20% Kháng Hiệu Ứng, 20% Phòng thủ, và sau khi lượt kết thúc có 80% xác suất nhận [tips_3320], nếu đã sở hữu [tips_3320], đồng minh đó sẽ tự trị liệu lượng HP đã mất bằng 15% (không vượt quá 120% Tấn công của Cửu Thứ Lương).\n【Thi triển】 Cửu Thứ Lương chuyển sang tư thế tiến công, bản thân tăng 60% Thanh Hành Động, và tăng 30% Thanh Hành Động cho các đồng minh còn lại.",
+        "vi": "[tips_11] Ở tư thế phòng thủ, toàn bộ phe ta tăng 20% Kháng Hiệu Ứng, 20% Phòng thủ, và sau khi lượt kết thúc có 80% xác suất nhận [tips_3320], nếu đã sở hữu [tips_3320], đồng minh đó sẽ tự trị liệu lượng HP đã mất bằng 15% (không vượt quá 120% Tấn công của Cửu Thứ Lương).\n[Thi triển] Cửu Thứ Lương chuyển sang tư thế tiến công, bản thân tăng 60% Thanh Hành Động, và tăng 30% Thanh Hành Động cho các đồng minh còn lại.",
         "en": "[tips_11].\nWhen in Defensive stance, increases the Effect RES and DEF of all allies by 20% and they have an 80% chance of gaining a [tips_3320] at the end of their turn. If an ally already has a [tips_3320], heals the HP of the ally by 15% of their HP lost instead (to a max of 120% of Kujira's ATK).\nUsing the skill changes Kujira's stance to Attacking, raising his Move Bar by 60% and raises the Move Bar of all other allies by 30%.",
         "zh": "[tips_11]。\n守备姿态下，友方全体提升20%效果抵抗，20%防御，并在回合结束后有80%概率获得[tips_3320]，若已拥有[tips_3320]，则该友方会治疗自身已损生命值15%（不超过久次良攻击120%）。\n【施放】久次良切换为进攻姿态，自身增加60%行动条，并为其余友方增加30%行动条。"
       },
@@ -163,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "jiuciliang.png",
-    "headIconFile": ""
+    "portraitFile": "332.png",
+    "headIconFile": "332a.png"
   }
 }

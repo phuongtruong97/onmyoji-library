@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,20 +21,20 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 8544,
+      "value": 8545,
       "grade": "D"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 330,
+      "value": 331,
       "grade": "D"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 112,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3151,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Triền",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3152,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Ấu Vũ",
@@ -131,6 +135,8 @@
     {
       "id": 3153,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Vũ Nhẫn Chi Phong",
@@ -151,7 +157,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至42%",
+            "vi": "Sát thương tăng lên 42%",
             "en": "伤害增加至42%",
             "zh": "伤害增加至42%"
           }
@@ -159,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至44%",
+            "vi": "Sát thương tăng lên 44%",
             "en": "伤害增加至44%",
             "zh": "伤害增加至44%"
           }
@@ -167,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至50%",
+            "vi": "Sát thương tăng lên 50%",
             "en": "伤害增加至50%",
             "zh": "伤害增加至50%"
           }
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "315.png",
+    "headIconFile": "315a.png"
   }
 }

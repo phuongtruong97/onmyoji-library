@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,20 +21,20 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11392,
+      "value": 11393,
       "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 396,
+      "value": 397,
       "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 113,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3721,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lưu Ly Quang",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3722,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nguyện Mãn Dạ",
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Tiên Cơ: Thi triển 「Nguyện Mãn Dạ」",
+            "vi": "Tiên Cơ: Thi triển [Nguyện Mãn Dạ]",
             "en": "Upper Hand: Uses Wishful Night.",
-            "zh": "先机：施放「愿满夜」"
+            "zh": "先机：施放「愿满夜]"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 3723,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tịch Quang Ánh Nguyệt",
@@ -176,9 +182,9 @@
         "zh": "步入寂灭之幻月。"
       },
       "description": {
-        "vi": "Ánh sáng huyễn diệu của Nguyệt Chi Kén chiếu rọi thành Kính Vạn Hoa Lưu Ly, gây cho toàn bộ phe địch sát thương bằng 138% Tấn công, [tips_10] mục tiêu phe ta mang [buff_3723_1], và khiến lần thi triển 「Nguyện Mãn Dạ」 tiếp theo giảm 1 điểm Quỷ Hỏa tiêu hao. Mỗi khi cung cấp 1 điểm Nguyện Lực cho phe ta, Sát Thương Bạo Kích bản thân tăng 5%, tăng tối đa 120%, và nhận Lá chắn bằng 12% HP tối đa. Nếu khi thi triển tích lũy cung cấp 12 điểm Nguyện Lực, bỏ qua hiệu ứng Ngự Hồn và Nội Tại của kẻ địch. Nếu khi thi triển tích lũy cung cấp 24 điểm Nguyện Lực, triệu hồi Nhân Phiên Thố gây cho toàn bộ phe địch thêm một lần sát thương bằng 138% Tấn công.",
+        "vi": "Ánh sáng huyễn diệu của Nguyệt Chi Kén chiếu rọi thành Kính Vạn Hoa Lưu Ly, gây cho toàn bộ phe địch sát thương bằng 138% Tấn công, [tips_10] mục tiêu phe ta mang [buff_3723_1], và khiến lần thi triển [Nguyện Mãn Dạ] tiếp theo giảm 1 điểm Quỷ Hỏa tiêu hao. Mỗi khi cung cấp 1 điểm Nguyện Lực cho phe ta, Sát Thương Bạo Kích bản thân tăng 5%, tăng tối đa 120%, và nhận Lá chắn bằng 12% HP tối đa. Nếu khi thi triển tích lũy cung cấp 12 điểm Nguyện Lực, bỏ qua hiệu ứng Ngự Hồn và Nội Tại của kẻ địch. Nếu khi thi triển tích lũy cung cấp 24 điểm Nguyện Lực, triệu hồi Nhân Phiên Thố gây cho toàn bộ phe địch thêm một lần sát thương bằng 138% Tấn công.",
         "en": "Turns the glowing moon cocoon into a crystal kaleidoscope and attacks all enemies, dealing damage equal to 138% of her ATK and issuing a [tips_10] to allies under [buff_3723_1]. Also reduces the orb cost of Wishful Night the next time she uses it by 1. Each time she provides Wish Power, her own Crit DMG increases by 5% (Max 120% Crit DMG boost) for each point of Wish Power provided, and creates a shield that absorbs damage equal to 12% of her max HP for each point of Wish Power provided. Ignores the enemy's Souls and passive skills if 12 points of Wish Power have been provided. Summons Inaba Rabbit to launch another attack on all enemies, dealing damage equal to 138% of Inaba Kaguya's ATK if 24 points of Wish Power have been provided.",
-        "zh": "月之茧的幻光辉映作琉璃万华镜，对敌方全体造成攻击138%伤害，[tips_10]带有[buff_3723_1]的友方目标，并使下次「愿满夜」鬼火消耗减少1点。每为友方提供1点愿力，自身暴击伤害增加5%，最多增加120%，并获得等量于最大生命值12%的护盾。若施放时累计提供12点愿力，无视敌方御魂和被动效果。若施放时累计提供24点愿力，召唤因幡兔再次对敌方全体造成攻击138%伤害。"
+        "zh": "月之茧的幻光辉映作琉璃万华镜，对敌方全体造成攻击138%伤害，[tips_10]带有[buff_3723_1]的友方目标，并使下次「愿满夜]鬼火消耗减少1点。每为友方提供1点愿力，自身暴击伤害增加5%，最多增加120%，并获得等量于最大生命值12%的护盾。若施放时累计提供12点愿力，无视敌方御魂和被动效果。若施放时累计提供24点愿力，召唤因幡兔再次对敌方全体造成攻击138%伤害。"
       },
       "upgrades": [
         {
@@ -208,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Nếu khi thi triển tích lũy cung cấp 24 điểm Nguyện Lực, triệu hồi Nhân Phiên Thố thi triển 「[skill_3724_1]」",
+            "vi": "Nếu khi thi triển tích lũy cung cấp 24 điểm Nguyện Lực, triệu hồi Nhân Phiên Thố thi triển [[skill_3724_1]]",
             "en": "Summons Inaba Rabbit to use [skill_3724_1] if 24 points of Wish Power have been provided.",
-            "zh": "若施放时累计提供24点愿力，召唤因幡兔施放「[skill_3724_1]」"
+            "zh": "若施放时累计提供24点愿力，召唤因幡兔施放「[skill_3724_1]]"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "sp_huiyeji.png",
-    "headIconFile": ""
+    "portraitFile": "372.png",
+    "headIconFile": "372a.png"
   }
 }

@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2680,
-      "grade": "A"
+      "value": 2948,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11392,
-      "grade": "A"
+      "value": 12532,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 374,
-      "grade": "C"
+      "value": 410,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 111,
+      "value": 121,
       "grade": "S"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3561,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Tịch",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3562,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tịch Mộng",
@@ -128,7 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至185%",
+            "vi": "Sát thương tăng lên 185%",
             "en": "伤害增加至185%",
             "zh": "伤害增加至185%"
           }
@@ -136,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至198%",
+            "vi": "Sát thương tăng lên 198%",
             "en": "伤害增加至198%",
             "zh": "伤害增加至198%"
           }
@@ -144,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至211%",
+            "vi": "Sát thương tăng lên 211%",
             "en": "伤害增加至211%",
             "zh": "伤害增加至211%"
           }
@@ -164,6 +168,8 @@
     {
       "id": 3563,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hải Triều Nhập Mộng",
@@ -176,9 +182,9 @@
         "zh": "仅有海潮与人鱼的歌声会成为海上的明灯。"
       },
       "description": {
-        "vi": "Triệu hồi [tips_3565], nhận chúc phúc của thủy triều. Khi Senhime cầm Hải Nguyên Bối Kích sẽ vĩnh viễn miễn nhiễm hiệu ứng khống chế. Sau khi thi triển lập tức nhận 3 tầng [buff_3563_1], kỹ năng thay thế thành «[skill_3564_1]». Khi Hải Nguyên Bối Kích ở trên sân, đơn vị đồng minh cứ sử dụng 1 điểm Quỷ Hỏa, tích lũy 1 tầng [buff_3563_1] cho Hải Nguyên Bối Kích.",
+        "vi": "Triệu hồi [tips_3565], nhận chúc phúc của thủy triều. Khi Senhime cầm Hải Nguyên Bối Kích sẽ vĩnh viễn miễn nhiễm hiệu ứng khống chế. Sau khi thi triển lập tức nhận 3 tầng [buff_3563_1], kỹ năng thay thế thành [skill_3564_1]. Khi Hải Nguyên Bối Kích ở trên sân, đơn vị đồng minh cứ sử dụng 1 điểm Quỷ Hỏa, tích lũy 1 tầng [buff_3563_1] cho Hải Nguyên Bối Kích.",
         "en": "Summons [tips_3565] to receive blessings from the tides. Senhime gains immunity to controlling effects as long as she's wielding Murex Halberd in her hands. The weapon immediately gains 3 [buff_3563_1] stacks after using the skill. Then the skill is changed to [skill_3564_1]. When Murex Halberd is on the battlefield, it gains a [buff_3563_1] stack for each orb allies spent.",
-        "zh": "召唤[tips_3565]，接受潮汐的祝福。千姬手持海原贝戟时永久免疫控制效果。施放后立刻获得3层[buff_3563_1]，技能替换为『[skill_3564_1]』。海原贝戟在场时，友方单位每使用1点鬼火，为海原贝戟叠加1层[buff_3563_1]。"
+        "zh": "召唤[tips_3565]，接受潮汐的祝福。千姬手持海原贝戟时永久免疫控制效果。施放后立刻获得3层[buff_3563_1]，技能替换为『[skill_3564_1]。海原贝戟在场时，友方单位每使用1点鬼火，为海原贝戟叠加1层[buff_3563_1]。"
       },
       "upgrades": [
         {
@@ -190,22 +196,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Khi Hải Nguyên Bối Kích ở trên sân, sát thương Senhime và Hải Nguyên Bối Kích gánh chịu giảm 30%",
-            "en": "When Murex Halberd is on the battlefield, Senhime and Murex Halberd take 30% less damage.",
-            "zh": "海原贝戟在场时，千姬和海原贝戟受到的伤害降低30%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Khi Hải Nguyên Bối Kích ở trên sân, đơn vị đồng minh cứ sử dụng 1 điểm Quỷ Hỏa, xác suất tích lũy 1 tầng [buff_3563_1] cho Hải Nguyên Bối Kích tăng lên 100%",
-            "en": "When Murex Halberd is on the battlefield, increases Murex Halberd's chance of gaining a [buff_3563_1] stack each time an ally spends an orb to 100%.",
-            "zh": "海原贝戟在场时，友方单位每使用1点鬼火，为海原贝戟叠加1层[buff_3563_1]的概率增至100%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Khi Hải Nguyên Bối Kích ở trên sân, đơn vị đồng minh cứ sử dụng 1 điểm Quỷ Hỏa, xác suất tích lũy 1 tầng [buff_3563_1] cho Hải Nguyên Bối Kích tăng lên 100%",
@@ -219,22 +209,6 @@
             "vi": "Khi Senhime cầm Hải Nguyên Bối Kích sẽ vĩnh viễn miễn nhiễm hiệu ứng khống chế và phóng thích",
             "en": "Senhime gains immunity to controlling effects and Banish as long as she's wielding Murex Halberd in her hands.",
             "zh": "千姬手持海原贝戟时永久免疫控制效果和放逐"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Khi Senhime cầm Hải Nguyên Bối Kích sẽ vĩnh viễn miễn nhiễm hiệu ứng khống chế và phóng thích",
-            "en": "Senhime gains immunity to controlling effects and Banish as long as she's wielding Murex Halberd in her hands.",
-            "zh": "千姬手持海原贝戟时永久免疫控制效果和放逐"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi Hải Nguyên Bối Kích được triệu hồi, lập tức nhận 3 tầng [buff_3563_1]",
-            "en": "When Murex Halberd is summoned, it immediately gains 3 [buff_3563_1] stacks.",
-            "zh": "海原贝戟被召唤时，立刻获得3层[buff_3563_1]"
           }
         },
         {
@@ -248,10 +222,35 @@
       ],
       "orbCost": 0,
       "iconFile": "3563.png"
+    },
+    {
+      "id": 3564,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 3563,
+      "maxLevel": 4,
+      "name": {
+        "vi": "Vĩnh Sinh Chi Tịch",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "Không ai có thể từ chối tiếng hát của nhân ngư.",
+        "en": "No one will reject the song of the merfolk.",
+        "zh": "没有人会拒绝人鱼的歌声。"
+      },
+      "description": {
+        "vi": "Rút Hải Nguyên Bối Kích, thủy triều dâng trào, gây cho toàn bộ kẻ địch sát thương bằng 120% Tấn công. Khi Thiên Cơ bắt đầu lượt nhận 1 tầng Bi Ca, căn cứ theo số tầng Bi Ca từ 1~5 tầng, sát thương gây ra lần lượt tăng thành 220%, 320%, 420%, 520%, 620% Tấn công. Sau khi thi triển hoặc Hải Nguyên Bối Kích bị đánh bại, xóa bỏ Bi Ca, Hải Nguyên Bối Kích quay lại tay Thiên Cơ, đồng thời thay thế kỹ năng thành «Hải Triều Nhập Mộng».",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3564.png"
     }
   ],
   "assets": {
-    "portraitFile": "qianji.png",
-    "headIconFile": ""
+    "portraitFile": "356.png",
+    "headIconFile": "356a.png"
   }
 }

@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2465,
-      "grade": "B"
+      "value": 2734,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10480,
-      "grade": "B"
+      "value": 11621,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 379,
-      "grade": "C"
+      "value": 423,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 107,
+      "value": 117,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2061,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Vĩ Tiên",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 2062,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 13,
       "name": {
-        "vi": "泡泡之盾",
+        "vi": "Bong Bóng Chi Thuẫn",
         "en": "泡泡之盾",
         "zh": "泡泡之盾"
       },
@@ -120,25 +124,17 @@
         "zh": "泡泡，泡泡！快变成防护罩~"
       },
       "description": {
-        "vi": "Biến bong bóng thành năng lượng bảo vệ, giúp toàn bộ mục tiêu phe ta không phải vật triệu hồi nhận [tips_6], có thể hấp thụ lượng sát thương bằng [b_伤害吸收_per] Tấn công, duy trì 2 lượt.",
-        "en": "Forms bubbles into energy [tips_6]s to protect all non-summoned ally entities, absorbing damage equal to [b_伤害吸收_per] of Koi's ATK. Lasts 2 turns.",
-        "zh": "将泡泡化为能量守护，使非召唤物的友方全体获得[tips_6]，能吸收[b_伤害吸收_per]攻击的伤害，持续2回合。"
+        "vi": "Biến bong bóng thành năng lượng bảo vệ, giúp toàn bộ mục tiêu phe ta không phải vật triệu hồi nhận [tips_6], có thể hấp thụ lượng sát thương bằng 10% Tấn công, duy trì 2 lượt.",
+        "en": "Forms bubbles into energy [tips_6]s to protect all non-summoned ally entities, absorbing damage equal to 10% of Koi's ATK. Lasts 2 turns.",
+        "zh": "将泡泡化为能量守护，使非召唤物的友方全体获得[tips_6]，能吸收10%攻击的伤害，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "[tips_6]吸收量增至14%",
+            "en": "[tips_6]吸收量增至14%",
+            "zh": "[tips_6]吸收量增至14%"
           }
         },
         {
@@ -152,17 +148,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "[tips_6]吸收量增至16%",
+            "en": "[tips_6]吸收量增至16%",
+            "zh": "[tips_6]吸收量增至16%"
           }
         },
         {
@@ -176,17 +164,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "en": "[tips_6]吸收量增至[b_伤害吸收_per]",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "[tips_6]吸收量增至18%",
+            "en": "[tips_6]吸收量增至18%",
+            "zh": "[tips_6]吸收量增至18%"
           }
         },
         {
@@ -195,14 +175,6 @@
             "vi": "Lượng hấp thụ của kỹ năng tăng 8%",
             "en": "The damage absorbed by the skill increases by 8%.",
             "zh": "技能吸收量增加8%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi [tips_6] tồn tại nhận 50% miễn giảm sát thương gián tiếp",
-            "en": "Gains 50% indirect damage reduction when [tips_6] is active.",
-            "zh": "[tips_6]存在时获得50%间接伤害减免"
           }
         },
         {
@@ -268,9 +240,11 @@
     {
       "id": 2063,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "泡泡之牢",
+        "vi": "Bong Bóng Chi Lao",
         "en": "泡泡之牢",
         "zh": "泡泡之牢"
       },
@@ -280,41 +254,41 @@
         "zh": "都说了，不可以乱动哦。"
       },
       "description": {
-        "vi": "将泡泡化作牢笼，有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将敌方目标[tips_110]，[tips_110]能吸收攻击[b_伤害吸收_per]伤害，并降低[b_属性1数值_per]暴击，且在回合后造成攻击[b_攻击力相关持续伤害_per]伤害，持续2回合。",
-        "en": "将泡泡化作牢笼，有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将敌方目标[tips_110]，[tips_110]能吸收攻击[b_伤害吸收_per]伤害，并降低[b_属性1数值_per]暴击，且在回合后造成攻击[b_攻击力相关持续伤害_per]伤害，持续2回合。",
-        "zh": "将泡泡化作牢笼，有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将敌方目标[tips_110]，[tips_110]能吸收攻击[b_伤害吸收_per]伤害，并降低[b_属性1数值_per]暴击，且在回合后造成攻击[b_攻击力相关持续伤害_per]伤害，持续2回合。"
+        "vi": "Hóa bong bóng thành lồng giam, có 100% [tips_2] xác suất khiến mục tiêu phe địch bị [tips_110], [tips_110] có thể hấp thụ sát thương bằng 180% Tấn công, đồng thời giảm 20% Chí mạng, ngoài ra sau lượt gây sát thương bằng 0% Tấn công, duy trì 2 lượt.",
+        "en": "将泡泡化作牢笼，有100%（+Effect HIT）概率将敌方目标[tips_110]，[tips_110]能吸收攻击180%伤害，并降低20%暴击，且在回合后造成攻击0%伤害，持续2回合。",
+        "zh": "将泡泡化作牢笼，有100%（+效果命中）概率将敌方目标[tips_110]，[tips_110]能吸收攻击180%伤害，并降低20%暴击，且在回合后造成攻击0%伤害，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Đối với kẻ địch bị [tips_110], sau khi kết thúc lượt gây sát thương bằng [b_攻击力相关持续伤害_per] Tấn công",
-            "en": "Deals damage equal to [b_攻击力相关持续伤害_per] of their ATK at the end of their turn to enemies inflicted with [tips_110].",
-            "zh": "对被[tips_110]的敌方，在回合后造成攻击[b_攻击力相关持续伤害_per]伤害"
+            "vi": "Đối với kẻ địch bị [tips_110], sau khi kết thúc lượt gây sát thương bằng 0% Tấn công",
+            "en": "Deals damage equal to 0% of their ATK at the end of their turn to enemies inflicted with [tips_110].",
+            "zh": "对被[tips_110]的敌方，在回合后造成攻击0%伤害"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Lượng hấp thụ [tips_110] tăng lên [b_伤害吸收_per]",
-            "en": "Increases damage absorbed by [tips_110] to [b_伤害吸收_per].",
-            "zh": "[tips_110]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ [tips_110] tăng lên 165%",
+            "en": "Increases damage absorbed by [tips_110] to 165%.",
+            "zh": "[tips_110]吸收量增至165%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Sát thương gây ra tăng lên [b_攻击力相关持续伤害_per]",
-            "en": "Increases damage dealt to [b_攻击力相关持续伤害_per].",
-            "zh": "造成伤害增加至[b_攻击力相关持续伤害_per]"
+            "vi": "Sát thương gây ra tăng lên 0%",
+            "en": "Increases damage dealt to 0%.",
+            "zh": "造成伤害增加至0%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Lượng hấp thụ [tips_110] tăng lên [b_伤害吸收_per]",
-            "en": "Increases damage absorbed by [tips_110] to [b_伤害吸收_per].",
-            "zh": "[tips_110]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ [tips_110] tăng lên 180%",
+            "en": "Increases damage absorbed by [tips_110] to 180%.",
+            "zh": "[tips_110]吸收量增至180%"
           }
         }
       ],
@@ -323,7 +297,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "liyujing.png",
-    "headIconFile": "h_liyujing.png"
+    "portraitFile": "206.png",
+    "headIconFile": "206a.png"
   }
 }

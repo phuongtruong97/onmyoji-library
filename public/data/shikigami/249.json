@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2331,
-      "grade": "C"
+      "value": 2600,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10480,
-      "grade": "B"
+      "value": 11621,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 401,
-      "grade": "B"
+      "value": 445,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 98,
-      "grade": "C"
+      "value": 108,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2491,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bổng Đả",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,35 @@
       "iconFile": "2491.png"
     },
     {
-      "id": 2493,
+      "id": 2492,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Ký Cừu",
+        "en": "Grudge",
+        "zh": "记仇"
+      },
+      "intro": {
+        "vi": "Dám đánh bị thương ta, ta tuyệt đối sẽ không tha cho ngươi!",
+        "en": "You strike me, I'll strike back twice as hard!",
+        "zh": "敢打伤我，我可不会饶了你！"
+      },
+      "description": {
+        "vi": "Khi chịu tấn công, có 40% [tips_2] xác suất đính kèm [buff_2492_1] cho kẻ tấn công.\nTấn công kẻ địch mang [buff_2492_1], sát thương tăng 15%.",
+        "en": "When attacked, has a 40% (+Effect HIT) chance of inflicting [buff_2492_1] on the attacker.\nAttacking enemies with [buff_2492_1] inflicts 15% extra damage.",
+        "zh": "受到攻击时，有40%（+效果命中）概率为攻击者附加[buff_2492_1]。\n攻击带有[buff_2492_1]的敌方，伤害提升15%。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "2492.png"
+    },
+    {
+      "id": 2493,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bổng Cầu Bom",
@@ -128,7 +157,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至139%",
+            "vi": "Sát thương tăng lên 139%",
             "en": "伤害增加至139%",
             "zh": "伤害增加至139%"
           }
@@ -136,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至146%",
+            "vi": "Sát thương tăng lên 146%",
             "en": "伤害增加至146%",
             "zh": "伤害增加至146%"
           }
@@ -144,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至153%",
+            "vi": "Sát thương tăng lên 153%",
             "en": "伤害增加至153%",
             "zh": "伤害增加至153%"
           }
@@ -152,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至160%",
+            "vi": "Sát thương tăng lên 160%",
             "en": "伤害增加至160%",
             "zh": "伤害增加至160%"
           }
@@ -163,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "249.png",
+    "headIconFile": "249a.png"
   }
 }

@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,13 +21,13 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10822,
+      "value": 10823,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 353,
       "grade": "C"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3581,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lạc Mịch",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3582,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Xích Sắc Điêu Linh",
@@ -136,9 +140,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "『Hoa Tẫn』 tiêu hao Quỷ Hỏa tăng 1 điểm",
+            "vi": "『Hoa Tẫn] tiêu hao Quỷ Hỏa tăng 1 điểm",
             "en": "Increases Root Out's orb cost by 1.",
-            "zh": "『花烬』消耗鬼火增加1点"
+            "zh": "『花烬]消耗鬼火增加1点"
           }
         },
         {
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Tiên cơ: Thi triển 『Xích Sắc Điêu Linh』",
+            "vi": "Tiên cơ: Thi triển [Xích Sắc Điêu Linh]",
             "en": "Upper Hand: Uses Withering Blooms.",
-            "zh": "先机：施放『赤色凋零』"
+            "zh": "先机：施放『赤色凋零]"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 3583,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cực Tận Hoàng Tuyền",
@@ -184,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương tăng lên 110%, giảm tổng Tấn công nâng lên 20%",
+            "vi": "Sát thương tăng lên 110%, giảm tổng Tấn công tăng lên 20%",
             "en": "Increases damage to 110% and reduces the overall ATK of enemies by 20%.",
             "zh": "伤害增加至110%，降低总攻击增至20%"
           }
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Sát thương tăng lên 125%, giảm tổng Tấn công nâng lên 25%",
+            "vi": "Sát thương tăng lên 125%, giảm tổng Tấn công tăng lên 25%",
             "en": "Increases damage to 125% and reduces the overall ATK of enemies by 25%.",
             "zh": "伤害增加至125%，降低总攻击增至25%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Sát thương tăng lên 140%, giảm tổng Tấn công nâng lên 30%",
+            "vi": "Sát thương tăng lên 140%, giảm tổng Tấn công tăng lên 30%",
             "en": "Increases damage to 140% and reduces the overall ATK of enemies by 30%.",
             "zh": "伤害增加至140%，降低总攻击增至30%"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "358.png",
+    "headIconFile": "358a.png"
   }
 }

@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3269,
+      "value": 3538,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10024,
-      "grade": "C"
+      "value": 11165,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 401,
-      "grade": "B"
+      "value": 441,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 109,
-      "grade": "A"
+      "value": 119,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -45,13 +45,15 @@
   ],
   "secondaryStats": {
     "critDamage": "150%",
-    "effectHit": "0%",
+    "effectHit": "30%",
     "effectRes": "0%"
   },
   "skills": [
     {
       "id": 5501,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lưu Vũ Phong",
@@ -64,15 +66,15 @@
         "zh": "如风之羽，撩拨心弦。"
       },
       "description": {
-        "vi": "Gọi ra lông vũ như gió, gây sát thương bằng 125% Tấn công, và có 30% [tips_2] đính kèm [tips_114]. Khi ở tư thế [buff_5504_1] đổi thành 『[skill_5504_1]』, cấp độ tăng theo sự cường hóa kỹ năng 『Lưu Vũ Phong』.",
+        "vi": "Gọi ra lông vũ như gió, gây sát thương bằng 125% Tấn công, và có 30% [tips_2] đính kèm [tips_114]. Khi ở tư thế [buff_5504_1] đổi thành [skill_5504_1], cấp độ tăng theo sự cường hóa kỹ năng [Lưu Vũ Phong].",
         "en": "Conjures darts of plumes to strike 1 enemy, dealing damage equal to 125% of her ATK with a 30% [tips_2] of inflicting [tips_114]. While she's performing a [buff_5504_1], changes the skill to [skill_5504_1] with its skill level equal to the skill level of Plume Dart.",
-        "zh": "唤出如风之羽，造成攻击125%伤害，并有30%[tips_2]施加[tips_114]。处于[buff_5504_1]姿态时替换为『[skill_5504_1]』，等级随『流羽风』技能强化。"
+        "zh": "唤出如风之羽，造成攻击125%伤害，并有30%[tips_2]施加[tips_114]。处于[buff_5504_1]姿态时替换为『[skill_5504_1]，等级随『流羽风]技能强化。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害提升至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害提升至105%",
             "zh": "伤害提升至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害提升至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害提升至110%",
             "zh": "伤害提升至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害提升至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害提升至115%",
             "zh": "伤害提升至115%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "5501.png"
     },
     {
+      "id": 5504,
+      "number": 1,
+      "variantOrder": 1,
+      "parentSkillId": 5501,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lưu Vũ Trảm",
+        "en": "流羽斩",
+        "zh": "流羽斩"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hóa quạt lông thành kiếm, gây sát thương bằng 200% Tấn công, and có 100% [tips_2] đính kèm [tips_114], duy trì 1 lượt.",
+        "en": "Turns her feather fan into a sword to attack 1 enemy, dealing damage equal to 200% of her ATK with a 100% [tips_2] of inflicting [tips_114] lasting 1 turn.",
+        "zh": "将羽扇化剑，造成攻击200%伤害，并有100%[tips_2]施加[tips_114]，持续1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 160%",
+            "en": "Increases the damage to 160%.",
+            "zh": "伤害提升至160%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 170%",
+            "en": "Increases the damage to 170%.",
+            "zh": "伤害提升至170%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 180%",
+            "en": "Increases the damage to 180%.",
+            "zh": "伤害提升至180%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 200%",
+            "en": "Increases the damage to 200%.",
+            "zh": "伤害提升至200%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "5504.png"
+    },
+    {
       "id": 5502,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Vũ Hóa",
@@ -120,7 +182,7 @@
         "zh": "不能摧毁我的，都将令我更加强大。"
       },
       "description": {
-        "vi": "[tips_11] Khi trận đấu bắt đầu và sau khi lượt bản thân kết thúc, nhận 1 tầng [buff_5503_1]; khi nhận [buff_5503_1], xua tan 1 trạng thái tiêu cực cho toàn bộ phe ta. Khi lượt bản thân bắt đầu, nếu số tầng [buff_5503_1] đạt 5 tầng, tiêu hao toàn bộ số tầng tiến vào tư thế [buff_5504_1], duy trì 3 lượt, khi thời gian duy trì kết thúc nhận 1 tầng [buff_5503_1]. Khi tiến vào tư thế [buff_5504_1], loại bỏ toàn bộ trạng thái giảm ích của bản thân; nếu loại bỏ [tips_3], thời gian duy trì [buff_5504_1] giảm xuống 1 lượt.",
+        "vi": "[tips_11] Khi trận đấu bắt đầu và sau khi lượt bản thân kết thúc, nhận 1 tầng [buff_5503_1]; khi nhận [buff_5503_1], xua tan 1 trạng thái tiêu cực cho toàn bộ phe ta. Khi lượt bản thân bắt đầu, nếu số tầng [buff_5503_1] đạt 5 tầng, tiêu hao toàn bộ số tầng tiến vào tư thế [buff_5504_1], duy trì 3 lượt, khi thời gian duy trì kết thúc nhận 1 tầng [buff_5503_1]. \nKhi tiến vào tư thế [buff_5504_1], loại bỏ toàn bộ trạng thái giảm ích của bản thân; nếu loại bỏ [tips_3], thời gian duy trì [buff_5504_1] giảm xuống 1 lượt.",
         "en": "[tips_11]. At the start of battle and after this unit's turn ends, gain 1 stack of [buff_5503_1]; whenever [buff_5503_1] is gained, dispel 1 debuff from all allies. At the start of this unit's turn, if [buff_5503_1] reaches 5 stacks, consume all stacks to enter [buff_5504_1] stance for 3 turns, and gain 1 stack of [buff_5503_1] when the duration ends. Upon entering [buff_5504_1] stance, remove all debuffs from this unit; if [tips_3] is removed, the duration of [buff_5504_1] is reduced to 1 turn.",
         "zh": "[tips_11]。战斗开始时与自身回合结束后，获得1层[buff_5503_1]；获得[buff_5503_1]时，驱散友方全体1个负面状态。自身回合开始时，若[buff_5503_1]层数到达5层，消耗全部层数进入[buff_5504_1]姿态，持续3回合，持续时间结束时获得1层[buff_5503_1]。进入[buff_5504_1]姿态时，移除自身所有减益；若移除了[tips_3]，则[buff_5504_1]持续时间降至1回合。"
       },
@@ -164,6 +226,8 @@
     {
       "id": 5503,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Mê Ly Chi Cảnh",
@@ -176,9 +240,9 @@
         "zh": "赐你沉沦于虚妄，予你蜜糖之甘美。"
       },
       "description": {
-        "vi": "[tips_11] Tạo ra Tước Vũ Kết Giới 2 lượt và nhận 1 tầng [buff_5503_1], trong kết giới Kháng Hiệu Ứng của phe địch giảm 30%, sát thương đơn thể gây ra giảm 30%, sát thương đơn thể bản thân gánh chịu giảm 20%. Khi thi triển có 40% xác suất cơ bản đính kèm [tips_114] cho toàn bộ phe địch, duy trì 1 lượt. Khi mục tiêu phe ta không phải vật triệu hồi có HP thấp nhất trong kết giới chịu sát thương, có 40% [tips_2] đính kèm [tips_114] cho nguồn gây sát thương, duy trì 1 lượt. [tips_7]: Tạo ra Tước Vũ Kết Giới 2 lượt. Khi ở tư thế [buff_5504_1] đổi thành 『[skill_5505_1]』, cấp độ tăng theo sự cường hóa kỹ năng 『Mê Ly Chi Cảnh』.",
+        "vi": "[tips_11] Tạo ra Tước Vũ Kết Giới 2 lượt và nhận 1 tầng [buff_5503_1], trong kết giới Kháng Hiệu Ứng của phe địch giảm 30%, sát thương đơn thể gây ra giảm 30%, sát thương đơn thể bản thân gánh chịu giảm 20%. Khi thi triển có 40% xác suất cơ bản đính kèm [tips_114] cho toàn bộ phe địch, duy trì 1 lượt. Khi mục tiêu phe ta không phải vật triệu hồi có HP thấp nhất trong kết giới chịu sát thương, có 40% [tips_2] đính kèm [tips_114] cho nguồn gây sát thương, duy trì 1 lượt. \n[tips_7]: Tạo ra Tước Vũ Kết Giới 2 lượt. Khi ở tư thế [buff_5504_1] đổi thành [skill_5505_1], cấp độ tăng theo sự cường hóa kỹ năng [Mê Ly Chi Cảnh].",
         "en": "[tips_11]. Creates Plume Field for 2 turns and gains 1 stack of [buff_5503_1]. Enemies inside the field lose 30% Effect RES and deal 30% less single-target damage, and self takes 20% less single-target damage. On cast, has a 40% base chance to inflict [tips_114] on all enemies for 1 turn. While the field is active, when the non-summoned entity ally with the lowest HP takes damage, has a 40% [tips_2] to inflict [tips_114] on the damage source for 1 turn. [tips_7]: Creates Plume Field for 2 turns. While in [buff_5504_1] stance, this skill is replaced with [skill_5505_1], and its level scales with Alluring Realm.",
-        "zh": "[tips_11]。创造2回合的雀羽结界并获得1层[buff_5503_1]，结界中敌方效果抵抗降低30%，造成单体伤害降低30%，自身受到的单体伤害降低20%。施放时有40%基础概率为敌方全体施加[tips_114]，持续1回合。结界中生命最低的非召唤物友方受到伤害时，有40%[tips_2]为伤害来源施加[tips_114]，持续1回合。[tips_7]：创造2回合的雀羽结界。处于[buff_5504_1]姿态时替换为『[skill_5505_1]』，等级随『迷离之境』技能强化。"
+        "zh": "[tips_11]。创造2回合的雀羽结界并获得1层[buff_5503_1]，结界中敌方效果抵抗降低30%，造成单体伤害降低30%，自身受到的单体伤害降低20%。施放时有40%基础概率为敌方全体施加[tips_114]，持续1回合。结界中生命最低的非召唤物友方受到伤害时，有40%[tips_2]为伤害来源施加[tips_114]，持续1回合。[tips_7]：创造2回合的雀羽结界。处于[buff_5504_1]姿态时替换为『[skill_5505_1]，等级随『迷离之境]技能强化。"
       },
       "upgrades": [
         {
@@ -216,10 +280,68 @@
       ],
       "orbCost": 2,
       "iconFile": "5503.png"
+    },
+    {
+      "id": 5505,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 5503,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tước Vũ Phá Gai",
+        "en": "雀舞斩棘",
+        "zh": "雀舞斩棘"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Tấn công toàn bộ mục tiêu phe địch 4 lần, mỗi lần gây sát thương bằng 45% Tấn công; truy kích 2 lần chém, gây sát thương bằng 60% Tấn công và bỏ qua 240 điểm Phòng thủ. Khi tấn công có 100% [tips_2] đính kèm [tips_114], duy trì 2 lượt. Sau khi tiến vào tư thế xòe cánh, lần thi triển đầu tiên số đòn tấn công nhân đôi.",
+        "en": "Attack all enemies 4 times, each hit deals damage equal to 45% of ATK; then follow up with 2 extra slashes, each dealing 60% of ATK and ignoring 240 DEF. On attack, has a 100% [tips_2] to inflict [tips_114] for 2 turns. After entering Display Stance, this skill hits twice as many times on its first cast.",
+        "zh": "攻击敌方全体目标4次，每次造成攻击45%的伤害；追加2次斩击，造成攻击60%的伤害并无视240点防御。攻击时有100%[tips_2]施加[tips_114]，持续2回合。进入开屏姿态后，首次施放攻击次数加倍。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương của đòn chém truy kích tăng lên 50%",
+            "en": "Increases the follow-up damage to 50%.",
+            "zh": "追加的斩击伤害提升至50%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương của đòn chém truy kích tăng lên 55%",
+            "en": "Increases the follow-up damage to 55%.",
+            "zh": "追加的斩击伤害提升至55%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương của đòn chém truy kích tăng lên 60%",
+            "en": "Increases the follow-up damage to 60%.",
+            "zh": "追加的斩击伤害提升至60%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Đòn chém truy kích bỏ qua 240 điểm Phòng thủ",
+            "en": "The follow-up damage ignores DEF by 240.",
+            "zh": "追加的斩击无视240点防御"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "5505.png"
     }
   ],
   "assets": {
-    "portraitFile": "kongquemingwang.png",
-    "headIconFile": ""
+    "portraitFile": "550.png",
+    "headIconFile": "550a.png"
   }
 }

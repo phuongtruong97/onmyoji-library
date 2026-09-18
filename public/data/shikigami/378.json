@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2733,
-      "grade": "A"
+      "value": 3055,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9569,
-      "grade": "C"
+      "value": 10595,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 370,
-      "grade": "C"
+      "value": 410,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 102,
-      "grade": "B"
+      "value": 112,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3781,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hóa Sinh Kích",
@@ -108,6 +110,8 @@
     {
       "id": 3782,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Y Diệu Cánh",
@@ -120,9 +124,9 @@
         "zh": "如你所见，这双翼锋利如刀刃。"
       },
       "description": {
-        "vi": "Khi sử dụng kỹ năng hoặc Đánh Thường, gây thêm 20% sát thương cho [tips_6].\n[tips_11] Sau khi lượt của kẻ địch kết thúc, có 10% xác suất đính kèm [buff_3782_1] cho toàn bộ phe địch và chắc chắn trúng. Nếu không chịu hiệu ứng khống chế và liên tiếp 5 lần không kích hoạt, liền thi triển miễn phí 「Long Tức Sí Vũ」.\nMỗi khi tiêu hao [buff_3782_1], hồi phục cho mục tiêu phe ta có HP thấp nhất lượng HP bằng 10% HP tối đa của Ca Lâu La.",
+        "vi": "Khi sử dụng kỹ năng hoặc Đánh Thường, gây thêm 20% sát thương cho [tips_6].\n[tips_11] Sau khi lượt của kẻ địch kết thúc, có 10% xác suất đính kèm [buff_3782_1] cho toàn bộ phe địch và chắc chắn trúng. Nếu không chịu hiệu ứng khống chế và liên tiếp 5 lần không kích hoạt, liền thi triển miễn phí [Long Tức Sí Vũ].\nMỗi khi tiêu hao [buff_3782_1], hồi phục cho mục tiêu phe ta có HP thấp nhất lượng HP bằng 10% HP tối đa của Ca Lâu La.",
         "en": "Skills and normal attacks deal an additional 20% damage to [tips_6]s.\n[tips_11] At the end of an enemy's turn, has a 10% chance of inflicting [buff_3782_1] that's guaranteed to land on all enemies. If he's not under controlling effects and the skill is not triggered 5 times in a row, uses Burning Feathers free of orb cost.\nEach time a [buff_3782_1] is consumed, heals the ally with the lowest HP by 10% of Garuda's max HP.",
-        "zh": "使用技能或普攻时，额外对[tips_6]造成20%伤害。\n（[tips_11]）敌方回合结束后，有10%的概率为敌方全体施加[buff_3782_1]且必定命中。若未受到控制效果且连续5次不触发，则无消耗施放「龙息炽羽」。\n每次消耗[buff_3782_1]时，为生命最低的友方目标恢复迦楼罗生命上限10%的生命。"
+        "zh": "使用技能或普攻时，额外对[tips_6]造成20%伤害。\n（[tips_11]）敌方回合结束后，有10%的概率为敌方全体施加[buff_3782_1]且必定命中。若未受到控制效果且连续5次不触发，则无消耗施放「龙息炽羽]。\n每次消耗[buff_3782_1]时，为生命最低的友方目标恢复迦楼罗生命上限10%的生命。"
       },
       "upgrades": [
         {
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 8%",
-            "en": "Increases the trigger chance to 8%.",
-            "zh": "触发概率提升至8%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 9%",
-            "en": "Increases the trigger chance to 9%.",
-            "zh": "触发概率提升至9%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Xác suất kích hoạt tăng lên 9%",
@@ -166,27 +154,11 @@
           }
         },
         {
-          "level": 4,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 10%",
-            "en": "Increases the trigger chance to 10%.",
-            "zh": "触发概率提升至10%"
-          }
-        },
-        {
           "level": 5,
           "text": {
-            "vi": "Nếu không chịu hiệu ứng khống chế và liên tiếp 5 lần không kích hoạt, liền thi triển miễn phí 「Long Tức Sí Vũ」",
+            "vi": "Nếu không chịu hiệu ứng khống chế và liên tiếp 5 lần không kích hoạt, liền thi triển miễn phí [Long Tức Sí Vũ]",
             "en": "If he's not under controlling effects and the skill is not triggered 5 times in a row, uses Burning Feathers free of orb cost.",
-            "zh": "若未受到控制效果且连续5次不触发，则无消耗施放「龙息炽羽」"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Nếu không chịu hiệu ứng khống chế và liên tiếp 5 lần không kích hoạt, liền thi triển miễn phí 「Long Tức Sí Vũ」",
-            "en": "If he's not under controlling effects and the skill is not triggered 5 times in a row, uses Burning Feathers free of orb cost.",
-            "zh": "若未受到控制效果且连续5次不触发，则无消耗施放「龙息炽羽」"
+            "zh": "若未受到控制效果且连续5次不触发，则无消耗施放「龙息炽羽]"
           }
         }
       ],
@@ -196,6 +168,8 @@
     {
       "id": 3783,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Long Tức Sí Vũ",
@@ -203,9 +177,9 @@
         "zh": "龙息炽羽"
       },
       "intro": {
-        "vi": "Nguyên tắc ta tuân thủ chính là 「Thấy Tốt Thì Dừng」.",
+        "vi": "Nguyên tắc ta tuân thủ chính là [Thấy Tốt Thì Dừng].",
         "en": "I believe in \"quit while you're ahead.\"",
-        "zh": "我奉行的准则就是「见好就收」。"
+        "zh": "我奉行的准则就是「见好就收]。"
       },
       "description": {
         "vi": "Gây cho toàn bộ phe địch sát thương bằng 134% Tấn công",
@@ -222,22 +196,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Xác suất cơ bản đính kèm [buff_3782_1] tăng lên 60%",
-            "en": "Increases his base chance of inflicting [buff_3782_1] to 60%.",
-            "zh": "附加[buff_3782_1]的基础概率提升至60%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất cơ bản đính kèm [buff_3782_1] tăng lên 80%",
-            "en": "Increases his base chance of inflicting [buff_3782_1] to 80%.",
-            "zh": "附加[buff_3782_1]的基础概率提升至80%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Xác suất cơ bản đính kèm [buff_3782_1] tăng lên 80%",
@@ -251,22 +209,6 @@
             "vi": "Xác suất cơ bản đính kèm [buff_3782_1] tăng lên 100%",
             "en": "Increases his base chance of inflicting [buff_3782_1] to 100%.",
             "zh": "附加[buff_3782_1]的基础概率提升至100%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Xác suất cơ bản đính kèm [buff_3782_1] tăng lên 100%",
-            "en": "Increases his base chance of inflicting [buff_3782_1] to 100%.",
-            "zh": "附加[buff_3782_1]的基础概率提升至100%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi thi triển chắc chắn đính kèm [buff_3782_1] cho mục tiêu kẻ địch",
-            "en": "He's guaranteed to inflict [buff_3782_1] on enemies with this skill.",
-            "zh": "施放时必定对敌方目标附加[buff_3782_1]"
           }
         },
         {
@@ -283,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "jialouluo.png",
-    "headIconFile": ""
+    "portraitFile": "378.png",
+    "headIconFile": "378a.png"
   }
 }

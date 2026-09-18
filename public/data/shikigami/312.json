@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3081,
+      "value": 3350,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
-      "grade": "C"
+      "value": 10823,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 308,
+      "value": 353,
       "grade": "D"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 107,
+      "value": 117,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3121,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quỷ Trảm",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至84%",
+            "vi": "Sát thương tăng lên 84%",
             "en": "伤害增加至84%",
             "zh": "伤害增加至84%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至88%",
+            "vi": "Sát thương tăng lên 88%",
             "en": "伤害增加至88%",
             "zh": "伤害增加至88%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至92%",
+            "vi": "Sát thương tăng lên 92%",
             "en": "伤害增加至92%",
             "zh": "伤害增加至92%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 3122,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "鬼刃·罗城门",
+        "vi": "Quỷ Nhận · La Thành Môn",
         "en": "鬼刃·罗城门",
         "zh": "鬼刃·罗城门"
       },
@@ -120,9 +124,9 @@
         "zh": "吾名为鬼切，斩尽天下恶鬼之刃。"
       },
       "description": {
-        "vi": "Sau khi tấn công, nếu HP của mục tiêu thấp hơn 85%, đánh truy kích thêm 1 đòn chém lên kẻ đó, gây sát thương bằng 125% Tấn công. Sau đó nếu HP của mục tiêu đó vẫn thấp hơn 65%, lại đánh truy kích thêm 1 đòn chém lên toàn bộ phe địch, gây sát thương bằng 125% Tấn công.\nĐòn chém truy kích bỏ qua [tips_6], không thể gánh chịu thay, không kích hoạt Ngự Hồn và Nội Tại của mục tiêu, đồng thời giúp bản thân tăng [b_属性1数值_per] Kháng Hiệu Ứng, duy trì 1 lượt. Khi trận đấu bắt đầu nhận hiệu ứng của cả 3 thanh đao, mỗi khi kích hoạt hiệu ứng của 1 thanh đao, tăng 15% Tấn công.",
-        "en": "After attacking, inflicts a follow-up attack on the target if their HP is below 85%, dealing damage equal to 125% of his ATK. Then inflicts another follow-up attack on all enemies if the target's HP is now below 65%, dealing damage equal to 125% of his ATK. \nFollow-up attacks ignore [tips_6], cannot be shared, do not trigger the Soul effects and passive skills of the targets, and increase his Effect RES by [b_属性1数值_per] for 1 turns. At the start of battle, gains the effects of 3 blades. Each blade effect activated increases ATK by 15%.",
-        "zh": "攻击后，若目标生命低于85%，对其追加1次斩击，造成攻击125%伤害。然后该目标生命若还低于65%，再追加1次对敌方全体的斩击，造成攻击125%伤害。\n追加的斩击无视[tips_6]、无法分担、不触发目标的御魂及被动，并使自身提升[b_属性1数值_per]效果抵抗，持续1回合。战斗开始时获得3把佩刀的效果，每激活一把佩刀的效果，提升15%攻击。"
+        "vi": "Sau khi tấn công, nếu HP của mục tiêu thấp hơn 85%, đánh truy kích thêm 1 đòn chém lên kẻ đó, gây sát thương bằng 125% Tấn công. Sau đó nếu HP của mục tiêu đó vẫn thấp hơn 65%, lại đánh truy kích thêm 1 đòn chém lên toàn bộ phe địch, gây sát thương bằng 125% Tấn công.\nĐòn chém truy kích bỏ qua [tips_6], không thể gánh chịu thay, không kích hoạt Ngự Hồn và Nội Tại của mục tiêu, đồng thời giúp bản thân tăng 50% Kháng Hiệu Ứng, duy trì 1 lượt. Khi trận đấu bắt đầu nhận hiệu ứng của cả 3 thanh đao, mỗi khi kích hoạt hiệu ứng của 1 thanh đao, tăng 15% Tấn công.",
+        "en": "After attacking, inflicts a follow-up attack on the target if their HP is below 85%, dealing damage equal to 125% of his ATK. Then inflicts another follow-up attack on all enemies if the target's HP is now below 65%, dealing damage equal to 125% of his ATK. \nFollow-up attacks ignore [tips_6], cannot be shared, do not trigger the Soul effects and passive skills of the targets, and increase his Effect RES by 50% for 1 turns. At the start of battle, gains the effects of 3 blades. Each blade effect activated increases ATK by 15%.",
+        "zh": "攻击后，若目标生命低于85%，对其追加1次斩击，造成攻击125%伤害。然后该目标生命若还低于65%，再追加1次对敌方全体的斩击，造成攻击125%伤害。\n追加的斩击无视[tips_6]、无法分担、不触发目标的御魂及被动，并使自身提升50%效果抵抗，持续1回合。战斗开始时获得3把佩刀的效果，每激活一把佩刀的效果，提升15%攻击。"
       },
       "upgrades": [
         {
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Khi trận đấu bắt đầu nhận ngẫu nhiên hiệu ứng của 1 thanh đao",
-            "en": "At the start of battle, gain the effect of 1 random blade.",
-            "zh": "战斗开始时获得随机1把佩刀的效果"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Khi trận đấu bắt đầu nhận ngẫu nhiên hiệu ứng của 2 thanh đao",
-            "en": "At the start of battle, gain the effects of 2 random blades.",
-            "zh": "战斗开始时获得随机2把佩刀的效果"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Khi trận đấu bắt đầu nhận ngẫu nhiên hiệu ứng của 2 thanh đao",
@@ -163,22 +151,6 @@
             "vi": "Khi trận đấu bắt đầu nhận hiệu ứng của cả 3 thanh đao",
             "en": "At the start of battle, gain the effects of 3 blades.",
             "zh": "战斗开始时获得3把佩刀的效果"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Khi trận đấu bắt đầu nhận hiệu ứng của cả 3 thanh đao",
-            "en": "At the start of battle, gain the effects of 3 blades.",
-            "zh": "战斗开始时获得3把佩刀的效果"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Mỗi khi kích hoạt hiệu ứng của 1 thanh đao, tăng 15% Tấn công",
-            "en": "Each activated blade effect increases ATK by 15%",
-            "zh": "每激活一把佩刀的效果，提升15%攻击"
           }
         },
         {
@@ -196,9 +168,11 @@
     {
       "id": 3123,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "鬼影闪",
+        "vi": "Quỷ Ảnhểm",
         "en": "鬼影闪",
         "zh": "鬼影闪"
       },
@@ -216,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至84%",
+            "vi": "Sát thương tăng lên 84%",
             "en": "伤害增加至84%",
             "zh": "伤害增加至84%"
           }
@@ -224,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至88%",
+            "vi": "Sát thương tăng lên 88%",
             "en": "伤害增加至88%",
             "zh": "伤害增加至88%"
           }
@@ -232,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至92%",
+            "vi": "Sát thương tăng lên 92%",
             "en": "伤害增加至92%",
             "zh": "伤害增加至92%"
           }
@@ -240,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "guiqie.png",
-    "headIconFile": ""
+    "portraitFile": "312.png",
+    "headIconFile": "312a.png"
   }
 }

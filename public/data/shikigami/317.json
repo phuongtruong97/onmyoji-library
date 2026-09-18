@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 1634,
+      "value": 1796,
       "grade": "D"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11961,
-      "grade": "A"
+      "value": 12988,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 458,
-      "grade": "A"
+      "value": 512,
+      "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 88,
-      "grade": "D"
+      "value": 98,
+      "grade": "C"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3171,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thần Mộc",
@@ -108,6 +110,8 @@
     {
       "id": 3172,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tai Ách Hoa",
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "[tips_5] tăng lên 95%",
-            "en": "Increases [tips_5] to 95%.",
-            "zh": "[tips_5]增加至95%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "[tips_5] tăng lên 100%",
-            "en": "Increases [tips_5] to 100%.",
-            "zh": "[tips_5]增加至100%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "[tips_5] tăng lên 100%",
@@ -163,22 +151,6 @@
             "vi": "[tips_5] tăng lên 105%",
             "en": "Increases [tips_5] to 105%.",
             "zh": "[tips_5]增加至105%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[tips_5] tăng lên 105%",
-            "en": "Increases [tips_5] to 105%.",
-            "zh": "[tips_5]增加至105%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi [buff_3172_1] bị xua tan, bản thân tăng 5% Phòng thủ, trạng thái tăng ích này có thể bị xua tan",
-            "en": "When [buff_3172_1] is dispelled, increases his DEF by 5%. The buff can be dispelled.",
-            "zh": "当[buff_3172_1]被驱散时，自身提升5%防御，此增益状态可被驱散"
           }
         },
         {
@@ -188,6 +160,14 @@
             "en": "When [buff_3172_1] is dispelled, increases his DEF by 5% for 2 turns. The buff can be dispelled.",
             "zh": "当[buff_3172_1]被驱散时，自身提升5%防御，持续2回合，此增益状态可被驱散"
           }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi [buff_3172_1] bị xua tan, bản thân tăng 5% Phòng thủ, trạng thái tăng ích này có thể bị xua tan",
+            "en": "When [buff_3172_1] is dispelled, increases his DEF by 5%. The buff can be dispelled.",
+            "zh": "当[buff_3172_1]被驱散时，自身提升5%防御，此增益状态可被驱散"
+          }
         }
       ],
       "orbCost": 0,
@@ -196,6 +176,8 @@
     {
       "id": 3173,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Họa Căn",
@@ -251,7 +233,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_renmianshu.png"
+    "portraitFile": "317.png",
+    "headIconFile": "317a.png"
   }
 }

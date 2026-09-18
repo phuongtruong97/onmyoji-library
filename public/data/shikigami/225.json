@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2733,
-      "grade": "A"
+      "value": 3028,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
-      "grade": "C"
+      "value": 10709,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 366,
-      "grade": "C"
+      "value": 410,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 94,
-      "grade": "D"
+      "value": 104,
+      "grade": "B"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2251,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Trực Quyền",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "2251.png"
     },
     {
-      "id": 2253,
+      "id": 2252,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Khu Trục",
+        "en": "Inversion",
+        "zh": "驱逐"
+      },
+      "intro": {
+        "vi": "Không được qua đây!",
+        "en": "Stay away from me!",
+        "zh": "不准过来！"
+      },
+      "description": {
+        "vi": "Khi chịu sát thương tăng Tấn công, tương đương 9% sát thương gánh chịu.",
+        "en": "When taking damage, increases ATK by 9% of the damage.",
+        "zh": "受到伤害时提升攻击，等同所受伤害的9%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Hiệu ứng tăng Tấn công tăng lên 6%",
+            "en": "Increases ATK boost effect to 6%.",
+            "zh": "提升攻击效果增至6%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu ứng tăng Tấn công tăng lên 7%",
+            "en": "Increases ATK boost effect to 7%.",
+            "zh": "提升攻击效果增至7%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tăng Tấn công tăng lên 8%",
+            "en": "Increases ATK boost effect to 8%.",
+            "zh": "提升攻击效果增至8%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng tăng Tấn công tăng lên 9%",
+            "en": "Increases ATK boost effect to 9%.",
+            "zh": "提升攻击效果增至9%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2252.png"
+    },
+    {
+      "id": 2253,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Độc Khí Phún Tuyền",
@@ -120,41 +182,41 @@
         "zh": "唔唔——尝尝这毒气吧！"
       },
       "description": {
-        "vi": "Phun khí độc tấn công toàn bộ phe địch, gây sát thương bằng 92% Tấn công và đính kèm [buff_2253_1], gây 22% [tips_5], duy trì 2 lượt.\nKhi [buff_2253_1] của phe địch bị xua tan, đính kèm [buff_2255_1] cho kẻ đó, duy trì [b_参数p4_abs] lượt.",
-        "en": "Sprays noxious mist at all enemies, dealing damage equal to 92% of his ATK and inflicts [buff_2253_1] lasting 2 turn(s) on them, dealing 22% [tips_5].\nWhen [buff_2253_1] is dispelled from an enemy, it inflicts [buff_2255_1] lasting [b_参数p4_abs] turn(s) on them.",
-        "zh": "喷吐毒气攻击敌方全体，造成攻击92%伤害并附加[buff_2253_1]，造成22%[tips_5]，持续2回合。\n敌方带有的[buff_2253_1]被驱散时，为其附加[buff_2255_1]，持续[b_参数p4_abs]回合。"
+        "vi": "Phun khí độc tấn công toàn bộ phe địch, gây sát thương bằng 92% Tấn công và đính kèm [buff_2253_1], gây 22% [tips_5], duy trì 2 lượt.\nKhi [buff_2253_1] của phe địch bị xua tan, đính kèm [buff_2255_1] cho kẻ đó, duy trì 2 lượt.",
+        "en": "Sprays noxious mist at all enemies, dealing damage equal to 92% of his ATK and inflicts [buff_2253_1] lasting 2 turn(s) on them, dealing 22% [tips_5].\nWhen [buff_2253_1] is dispelled from an enemy, it inflicts [buff_2255_1] lasting 2 turn(s) on them.",
+        "zh": "喷吐毒气攻击敌方全体，造成攻击92%伤害并附加[buff_2253_1]，造成22%[tips_5]，持续2回合。\n敌方带有的[buff_2253_1]被驱散时，为其附加[buff_2255_1]，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương tăng lên 80%, Sát Thương Gián Tiếp tăng lên [b_参数p5_per]",
-            "en": "Increases damage to 80% and indirect damage to [b_参数p5_per].",
-            "zh": "伤害增至80%，间接伤害增至[b_参数p5_per]"
+            "vi": "Sát thương tăng lên 80%, Sát Thương Gián Tiếp tăng lên 23%",
+            "en": "Increases damage to 80% and indirect damage to 23%.",
+            "zh": "伤害增至80%，间接伤害增至23%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Sát thương tăng lên 84%, Sát Thương Gián Tiếp tăng lên [b_参数p5_per]",
-            "en": "Increases damage to 84% and indirect damage to [b_参数p5_per].",
-            "zh": "伤害增至84%，间接伤害增至[b_参数p5_per]"
+            "vi": "Sát thương tăng lên 84%, Sát Thương Gián Tiếp tăng lên 24%",
+            "en": "Increases damage to 84% and indirect damage to 24%.",
+            "zh": "伤害增至84%，间接伤害增至24%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Sát thương tăng lên 88%, Sát Thương Gián Tiếp tăng lên [b_参数p5_per]",
-            "en": "Increases damage to 88% and indirect damage to [b_参数p5_per].",
-            "zh": "伤害增至88%，间接伤害增至[b_参数p5_per]"
+            "vi": "Sát thương tăng lên 88%, Sát Thương Gián Tiếp tăng lên 25%",
+            "en": "Increases damage to 88% and indirect damage to 25%.",
+            "zh": "伤害增至88%，间接伤害增至25%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Sát thương tăng lên 92%, Sát Thương Gián Tiếp tăng lên [b_参数p5_per]",
-            "en": "Increases damage to 92% and indirect damage to [b_参数p5_per].",
-            "zh": "伤害增至92%，间接伤害增至[b_参数p5_per]"
+            "vi": "Sát thương tăng lên 92%, Sát Thương Gián Tiếp tăng lên 26%",
+            "en": "Increases damage to 92% and indirect damage to 26%.",
+            "zh": "伤害增至92%，间接伤害增至26%"
           }
         }
       ],
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_tiaotiaodidi.png"
+    "portraitFile": "225.png",
+    "headIconFile": "225a.png"
   }
 }

@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3216,
+      "value": 3511,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
+      "value": 10026,
       "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 326,
-      "grade": "D"
+      "value": 357,
+      "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 110,
+      "value": 120,
       "grade": "S"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3381,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nguyệt Đoạn",
@@ -72,15 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
-            "en": "伤害增加至105%",
-            "zh": "伤害增加至105%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -88,15 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
-            "en": "伤害增加至110%",
-            "zh": "伤害增加至110%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -104,15 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
-            "en": "伤害增加至115%",
-            "zh": "伤害增加至115%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -120,15 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
-            "en": "伤害增加至125%",
-            "zh": "伤害增加至125%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -140,6 +110,8 @@
     {
       "id": 3382,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nguyệt Chi Áo Nghĩa",
@@ -154,37 +126,37 @@
       "description": {
         "vi": "Chuyển đổi chiêu thức của Nguyệt Chi Áo Nghĩa, đồng thời có thể đính kèm hiệu ứng «Xâm Lược», «Phi Lưu», «Phong Tật» hoặc «Bất Động» cho chiêu thức đó, thời gian hồi chiêu 1 lượt.",
         "en": "Toggles through different modes of Moon's Secrets. Adds the effect of Ignis, Aqua, Aer, or Terra to it with a 1 turn cooldown.",
-        "zh": "切换月之奥义的招式，并可为其附加『侵掠』、『飞流』、『风疾』或『不动』效果，冷却1回合。"
+        "zh": "切换月之奥义的招式，并可为其附加『侵掠]、『飞流]、『风疾]或『不动]效果，冷却1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Mở khóa hiệu ứng «[skill_33822_1]», khiến Nguyệt Chi Áo Nghĩa giải trừ 1 hiệu ứng có lợi của mục tiêu trong mỗi lần tấn công, nếu không có hiệu ứng có lợi để giải trừ thì đẩy lùi 5% thanh hành động của mục tiêu.",
+            "vi": "Mở khóa hiệu ứng [skill_33822_1], khiến Nguyệt Chi Áo Nghĩa giải trừ 1 hiệu ứng có lợi của mục tiêu trong mỗi lần tấn công, nếu không có hiệu ứng có lợi để giải trừ thì đẩy lùi 5% thanh hành động của mục tiêu.",
             "en": "Unlocks the [skill_33822_1] effect. Allows each attack of Moon's Secrets to dispel 1 buff from the target. If no buff was dispelled, lowers the target's Move Bar by 5% instead.",
-            "zh": "解锁『[skill_33822_1]』效果，使月之奥义每次攻击时驱散目标1个增益效果，若无可驱散增益则击退目标行动条5%"
+            "zh": "解锁『[skill_33822_1]效果，使月之奥义每次攻击时驱散目标1个增益效果，若无可驱散增益则击退目标行动条5%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Mở khóa hiệu ứng «[skill_33823_1]», khiến sát thương mà Nguyệt Chi Áo Nghĩa gây ra cho mục tiêu có tỷ lệ HP thấp hơn 50% tăng 30%.",
+            "vi": "Mở khóa hiệu ứng [skill_33823_1], khiến sát thương mà Nguyệt Chi Áo Nghĩa gây ra cho mục tiêu có tỷ lệ HP thấp hơn 50% tăng 30%.",
             "en": "Unlocks the [skill_33823_1] effect. Allows damage dealt by Moon's Secrets to increase by 30% against targets with HP below 50%.",
-            "zh": "解锁『[skill_33823_1]』效果，使月之奥义对生命比例低于50%的目标造成的伤害提升30%"
+            "zh": "解锁『[skill_33823_1]效果，使月之奥义对生命比例低于50%的目标造成的伤害提升30%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Mở khóa hiệu ứng «[skill_33824_1]», khiến sát thương của Nguyệt Chi Áo Nghĩa không kích hoạt hiệu ứng Ngự Hồn của mục tiêu, đồng thời giúp bản thân nhận Nguyệt Chi Tí Hộ trong 1 lượt, có thể đỡ đòn 1 lần hiệu ứng khống chế.",
+            "vi": "Mở khóa hiệu ứng [skill_33824_1], khiến sát thương của Nguyệt Chi Áo Nghĩa không kích hoạt hiệu ứng Ngự Hồn của mục tiêu, đồng thời giúp bản thân nhận Nguyệt Chi Tí Hộ trong 1 lượt, có thể đỡ đòn 1 lần hiệu ứng khống chế.",
             "en": "Unlocks the [skill_33824_1] effect. Prevents damage dealt by Moon's Secrets from triggering the target's Soul effects. She gains Moon Shelter for 1 turn, negating controlling effects once.",
-            "zh": "解锁『[skill_33824_1]』效果，使月之奥义伤害不会触发目标御魂效果，并使自身获得月之庇护1回合，可抵挡1次控制效果"
+            "zh": "解锁『[skill_33824_1]效果，使月之奥义伤害不会触发目标御魂效果，并使自身获得月之庇护1回合，可抵挡1次控制效果"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "冷却回合数减1",
+            "vi": "Giảm 1 số hiệp hồi chiêu",
             "en": "冷却回合数减1",
             "zh": "冷却回合数减1"
           }
@@ -196,6 +168,8 @@
     {
       "id": 3383,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tàn Dương Vô Ảnh",
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_longyechaji.png"
+    "portraitFile": "338.png",
+    "headIconFile": "338a.png"
   }
 }

@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2278,
-      "grade": "C"
+      "value": 2492,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11392,
-      "grade": "A"
+      "value": 12532,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 485,
+      "value": 538,
       "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 105,
+      "value": 115,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3791,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Trùng Lăng",
@@ -106,8 +108,68 @@
       "iconFile": "3791.png"
     },
     {
-      "id": 3793,
+      "id": 3792,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cổ Sơn Chi Thần",
+        "en": "God of Mountain",
+        "zh": "古山之神"
+      },
+      "intro": {
+        "vi": "Ký ức bị phủ bụi, vang vọng nơi sơn cốc.",
+        "en": "Sealed memories echo in the valley.",
+        "zh": "尘封的记忆，于山谷回荡。"
+      },
+      "description": {
+        "vi": "[tips_11].\n[tips_7] nhận 1 tầng [buff_3792_1] và 1 tầng [buff_3793_1]; trong Kết giới Sơn Hành, mỗi khi phe ta nhận [buff_3798_1], nhận 1 tầng [buff_3792_1]; mỗi khi phe ta nhận [buff_3796_1], nhận 1 tầng [buff_3793_1].",
+        "en": "[tips_11].\n[tips_7]: Gains a [buff_3792_1] stack and a [buff_3793_1] stack. While the Hiking Field is active, whenever an ally gains a [buff_3798_1] stack, he gains a [buff_3792_1] stack; and whenever an ally gains a [buff_3796_1] stack, he gains a [buff_3793_1] stack.",
+        "zh": "[tips_11]。\n[tips_7]获得1层[buff_3792_1]和1层[buff_3793_1]；在山行结界中，每当友方获得[buff_3798_1]，获得1层[buff_3792_1]；每当友方获得[buff_3796_1]，获得1层[buff_3793_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi lượt của bản thân bắt đầu nhận ngẫu nhiên 1 tầng [buff_3792_1] hoặc [buff_3793_1]",
+            "en": "At the start of his turn, randomly gains a [buff_3792_1] stack or a [buff_3793_1] stack.",
+            "zh": "自身回合开始时随机获得1层[buff_3792_1]或[buff_3793_1]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi tiêu hao 1 tầng [buff_3793_1] liền giải trừ 1 trạng thái tiêu cực hoặc [tips_3] cho mục tiêu phe ta ngẫu nhiên, ưu tiên giải trừ [tips_3]",
+            "en": "Each 1 [buff_3793_1] stack consumed dispels 1 debuff or 1 [tips_3] from a random ally, prioritizing on [tips_3]s.",
+            "zh": "每消耗1层[buff_3793_1]则驱散随机友方目标的1个减益或[tips_3]，优先驱散[tips_3]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[tips_7] nhận 1 tầng [buff_3792_1] và 1 tầng [buff_3793_1]",
+            "en": "[tips_7]: Gains a [buff_3792_1] stack and a [buff_3793_1] stack.",
+            "zh": "[tips_7]获得1层[buff_3792_1]和1层[buff_3793_1]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Số lượt duy trì tăng sát thương không Bạo kích tăng lên 2 lượt",
+            "en": "Extend the duration of non-critical damage increased to 2 turns.",
+            "zh": "非暴击伤害提升持续回合增至2回合"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "3792.png"
+    },
+    {
+      "id": 3793,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thủy Túc Sơn Hành",
@@ -120,9 +182,9 @@
         "zh": "天晴日朗，要与我一同徒步吗？"
       },
       "description": {
-        "vi": "[tips_11].\nMở ra Kết giới Sơn Hành tồn tại 3 lượt. Trong thời gian Kết giới duy trì, phe ta khi hành động ở lượt đầu tiên nhận [buff_3798_1]; sau đó nếu phe ta thi triển kỹ năng giống với lượt trước, nhận [buff_3798_1]; nếu không sau khi kết thúc lượt nhận [buff_3796_1]. Trong Kết giới Sơn Hành, Sát Thương Bạo Kích phe ta chịu phải giảm 25%, sát thương không Bạo kích gây ra tăng 25%, Tấn công tăng bằng 50% Phòng thủ ban đầu của Bất Kiến Nhạc (（không vượt quá 20% Tấn công ban đầu của mục tiêu phe ta)). [tips_7]: Thi triển 『Thủy Túc Sơn Hành』.",
-        "en": "[tips_11].\nUnfurls Mountain Realm for 3 turns. While the Realm lasts, allies gain [buff_3798_1] at the start of their first action turn. After that, if an ally uses the same skill as in the previous turn, they gain [buff_3798_1]. Otherwise, they gain [buff_3796_1] after the turn ends. Within Mountain Realm, allies take 25% less Crit DMG, deal 25% more non-crit damage, and gain ATK equal to 50% of Fukengaku's starting DEF (（不超过友方目标初始攻击的20%）). [tips_7]: Cast Mountain Hiking.",
-        "zh": "[tips_11]。\n开启存在3回合的山行结界。结界持续期间，友方首个回合行动时获得[buff_3798_1]；此后若友方施放与上一回合相同的技能，获得[buff_3798_1]；否则在回合结束后获得[buff_3796_1]。山行结界中，友方受到的暴击伤害降低25%、造成的非暴击伤害提升25%、攻击提升不见岳初始防御的50%(（不超过友方目标初始攻击的20%）)。[tips_7]：施放『水宿山行』。"
+        "vi": "[tips_11].\nMở ra Kết giới Sơn Hành tồn tại 3 lượt. Trong thời gian Kết giới duy trì, phe ta khi hành động ở lượt đầu tiên nhận [buff_3798_1]; sau đó nếu phe ta thi triển kỹ năng giống với lượt trước, nhận [buff_3798_1]; nếu không sau khi kết thúc lượt nhận [buff_3796_1]. Trong Kết giới Sơn Hành, Sát Thương Bạo Kích phe ta chịu phải giảm 25%, sát thương không Bạo kích gây ra tăng 25%, Tấn công tăng bằng 50% Phòng thủ ban đầu của Bất Kiến Nhạc (không vượt quá 20% Tấn công ban đầu của mục tiêu phe ta). [tips_7]: Thi triển [Thủy Túc Sơn Hành].",
+        "en": "[tips_11].\nUnfurls Mountain Realm for 3 turns. While the Realm lasts, allies gain [buff_3798_1] at the start of their first action turn. After that, if an ally uses the same skill as in the previous turn, they gain [buff_3798_1]. Otherwise, they gain [buff_3796_1] after the turn ends. Within Mountain Realm, allies take 25% less Crit DMG, deal 25% more non-crit damage, and gain ATK equal to 50% of Fukengaku's starting DEF (不超过友方目标初始攻击的20%）). [tips_7]: Cast Mountain Hiking.",
+        "zh": "[tips_11]。\n开启存在3回合的山行结界。结界持续期间，友方首个回合行动时获得[buff_3798_1]；此后若友方施放与上一回合相同的技能，获得[buff_3798_1]；否则在回合结束后获得[buff_3796_1]。山行结界中，友方受到的暴击伤害降低25%、造成的非暴击伤害提升25%、攻击提升不见岳初始防御的50%(不超过友方目标初始攻击的20%）)。[tips_7]：施放『水宿山行]。"
       },
       "upgrades": [
         {
@@ -144,17 +206,17 @@
         {
           "level": 4,
           "text": {
-            "vi": "Trong Kết giới Sơn Hành, Tấn công phe ta tăng bằng 50% Phòng thủ ban đầu của Bất Kiến Nhạc (（không vượt quá 20% Tấn công ban đầu của mục tiêu phe ta))",
-            "en": "Within Mountain Realm, allies gain ATK equal to 50% of Fukengaku's starting DEF (（不超过友方目标初始攻击的20%）).",
-            "zh": "山行结界中，友方攻击提升不见岳初始防御的50%(（不超过友方目标初始攻击的20%）)"
+            "vi": "Trong Kết giới Sơn Hành, Tấn công phe ta tăng bằng 50% Phòng thủ ban đầu của Bất Kiến Nhạc (không vượt quá 20% Tấn công ban đầu của mục tiêu phe ta)",
+            "en": "Within Mountain Realm, allies gain ATK equal to 50% of Fukengaku's starting DEF (不超过友方目标初始攻击的20%）).",
+            "zh": "山行结界中，友方攻击提升不见岳初始防御的50%(不超过友方目标初始攻击的20%）)"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "[tips_7]: Thi triển 『Thủy Túc Sơn Hành』",
+            "vi": "[tips_7]: Thi triển [Thủy Túc Sơn Hành]",
             "en": "[tips_7]: Uses Mountain Hiking.",
-            "zh": "[tips_7]：施放『水宿山行』"
+            "zh": "[tips_7]：施放『水宿山行]"
           }
         }
       ],
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_bujianyue.png"
+    "portraitFile": "379.png",
+    "headIconFile": "379a.png"
   }
 }

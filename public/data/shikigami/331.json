@@ -10,24 +10,24 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2840,
+      "value": 2841,
       "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10480,
+      "value": 10482,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 343,
+      "value": 344,
       "grade": "D"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3311,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hận Phản",
@@ -108,6 +110,8 @@
     {
       "id": 3312,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tích Trọng Nan Phản",
@@ -120,7 +124,7 @@
         "zh": "以怨报怨，永无止尽。"
       },
       "description": {
-        "vi": "[tips_11].\nKhi kẻ địch gây sát thương bạo kích, có xác suất 100% nhận 1 tầng [buff_3312_1], tối đa kích hoạt 1 lần trong một lần hành động.\n【[Thi triển]】 Cần tiêu hao 9 tầng [buff_3312_1] để [Thi triển]. Mở [tips_3312] đính kèm 9 mặt quỷ bao trùm kẻ địch; khi tất cả mặt quỷ vỡ vụn sẽ tự động đóng kết giới, đồng thời có 100% [tips_2] đính kèm [buff_3318_1] cho toàn thể kẻ địch, duy trì 1 lượt. Mỗi khi tấn công 1 mục tiêu kẻ địch mang [buff_3318_1], lập tức nhận 1 tầng [buff_3312_1].",
+        "vi": "[tips_11].\nKhi kẻ địch gây sát thương bạo kích, có xác suất 100% nhận 1 tầng [buff_3312_1], tối đa kích hoạt 1 lần trong một lần hành động.\n[Thi triển] Cần tiêu hao 9 tầng [buff_3312_1] để [Thi Triển]. Mở [tips_3312] đính kèm 9 mặt quỷ bao trùm kẻ địch; khi tất cả mặt quỷ vỡ vụn sẽ tự động đóng kết giới, đồng thời có 100% [tips_2] đính kèm [buff_3318_1] cho toàn thể kẻ địch, duy trì 1 lượt. Mỗi khi tấn công 1 mục tiêu kẻ địch mang [buff_3318_1], lập tức nhận 1 tầng [buff_3312_1].",
         "en": "[tips_11].\nWhenever an enemy deals critical damage, he has a 100% chance of gaining 1 [buff_3312_1]. Triggers only once per action taken.\nActive skill: Using the skill costs 9 [buff_3312_1]s. Creates a [tips_3312] with 9 Demon Masks to shadow all enemies. The field closes when all Demon Masks are shattered, with a 100% [tips_2] of inflicting [buff_3318_1] lasting 1 turn on all enemies. For each enemy with [buff_3318_1] he attacks, immediately gains him 1 [buff_3312_1].",
         "zh": "[tips_11]。\n当敌方造成伤害暴击时，100%概率获得1层[buff_3312_1]，每个行动内最多触发一次。\n【施放】需消耗9层[buff_3312_1]来施放。开启附有9个鬼面的[tips_3312]笼罩敌方；所有鬼面破碎时自动关闭结界，并有100%[tips_2]为敌方全体附加[buff_3318_1]，持续1回合。每攻击1个带有[buff_3318_1]的敌方目标时，立即获得1层[buff_3312_1]。"
       },
@@ -164,6 +168,8 @@
     {
       "id": 3313,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Dự Nguyện Bất Phản",
@@ -184,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增至74%",
+            "vi": "Sát thương tăng lên 74%",
             "en": "伤害增至74%",
             "zh": "伤害增至74%"
           }
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增至77%",
+            "vi": "Sát thương tăng lên 77%",
             "en": "伤害增至77%",
             "zh": "伤害增至77%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增至80%",
+            "vi": "Sát thương tăng lên 80%",
             "en": "伤害增至80%",
             "zh": "伤害增至80%"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "331.png",
+    "headIconFile": "331a.png"
   }
 }

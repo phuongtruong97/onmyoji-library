@@ -10,7 +10,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
@@ -21,20 +21,20 @@
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12872,
+      "value": 12874,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 458,
+      "value": 459,
       "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 111,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3951,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lưu Minh",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,9 +98,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sát thương tăng lên 125% và có 50% xác suất đẩy lùi 1 ô trên thanh hành động Quỷ Hỏa của mục tiêu kẻ địch (（không hiệu lực với quái vật))",
-            "en": "Increases the damage to 125% and grants a 50% chance of reducing the enemy's Orb Bar progress by 1 slot((ineffective against monsters)).",
-            "zh": "伤害增加至125%并有50%概率击退敌方目标1格鬼火行动条(（对怪物不生效）)"
+            "vi": "Sát thương tăng lên 125% và có 50% xác suất đẩy lùi 1 ô trên thanh hành động Quỷ Hỏa của mục tiêu kẻ địch (không hiệu lực với quái vật)",
+            "en": "Increases the damage to 125% and grants a 50% chance of reducing the enemy's Orb Bar progress by 1 slot((ineffective against monsters).",
+            "zh": "伤害增加至125%并有50%概率击退敌方目标1格鬼火行动条(对怪物不生效）)"
           }
         }
       ],
@@ -108,6 +110,8 @@
     {
       "id": 3952,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Khỉ La Vũ",
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi lượt đồng minh bắt đầu nếu số Quỷ Hỏa không đủ 3 điểm, liền lập tức tiêu hao 1 tầng [buff_3956_1] đẩy 1 ô trên thanh hành động Quỷ Hỏa (（không thể kích hoạt khi Lưu Quang không đủ))",
-            "en": "At the start of an ally's turn, if you have less than 3 orbs, immediately fills up the Orb Bar progress by 1 slot at the cost of 1 [buff_3956_1] stack((won't trigger when she doesn't have enough Glittering Light)).",
-            "zh": "友方回合开始时若鬼火数不足3点，则立刻消耗1层[buff_3956_1]推进1格鬼火行动条(（流光不足时无法触发）)"
+            "vi": "Khi lượt đồng minh bắt đầu nếu số Quỷ Hỏa không đủ 3 điểm, liền lập tức tiêu hao 1 tầng [buff_3956_1] đẩy 1 ô trên thanh hành động Quỷ Hỏa (không thể kích hoạt khi Lưu Quang không đủ)",
+            "en": "At the start of an ally's turn, if you have less than 3 orbs, immediately fills up the Orb Bar progress by 1 slot at the cost of 1 [buff_3956_1] stack((won't trigger when she doesn't have enough Glittering Light).",
+            "zh": "友方回合开始时若鬼火数不足3点，则立刻消耗1层[buff_3956_1]推进1格鬼火行动条(流光不足时无法触发）)"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 3953,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phi Thải Ngưng Huy",
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "sp_zhuiyueshen.png",
-    "headIconFile": ""
+    "portraitFile": "395.png",
+    "headIconFile": "395a.png"
   }
 }

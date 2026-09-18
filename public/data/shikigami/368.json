@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2278,
-      "grade": "C"
+      "value": 2492,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 13100,
+      "value": 14355,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 441,
+      "value": 481,
       "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 103,
-      "grade": "B"
+      "value": 113,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3681,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Dung Tâm Hóa Hỏa",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3682,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Khổ Trung Tác Điềm",
@@ -164,6 +168,8 @@
     {
       "id": 3683,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nhất Vật Nhất Tâm",
@@ -190,22 +196,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Trị liệu tăng lên 12%",
-            "en": "Increases healing to 12%.",
-            "zh": "治疗增至12%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Thời gian duy trì tăng lên 3 lượt",
-            "en": "Increases duration to 3 turns.",
-            "zh": "持续时间增至3回合"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Thời gian duy trì tăng lên 3 lượt",
@@ -219,22 +209,6 @@
             "vi": "Trị liệu tăng lên 15%",
             "en": "Increases healing to 15%.",
             "zh": "治疗增至15%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Trị liệu tăng lên 15%",
-            "en": "Increases healing to 15%.",
-            "zh": "治疗增至15%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi hồi phục cho mục tiêu phe ta, hồi phục cho bản thân lượng HP bằng 5% giới hạn HP",
-            "en": "When healing an ally, also heals himself by 5% of his max HP.",
-            "zh": "治疗友方目标时，治疗自身5%生命上限的血量"
           }
         },
         {
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "yixigong.png",
-    "headIconFile": ""
+    "portraitFile": "368.png",
+    "headIconFile": "368a.png"
   }
 }

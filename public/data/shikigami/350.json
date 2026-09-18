@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2706,
-      "grade": "A"
+      "value": 2975,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
+      "value": 11279,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
-      "grade": "C"
+      "value": 397,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 97,
-      "grade": "C"
+      "value": 107,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3501,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hạt Thích",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至52%",
+            "vi": "Sát thương tăng lên 52%",
             "en": "伤害增加至52%",
             "zh": "伤害增加至52%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至54%",
+            "vi": "Sát thương tăng lên 54%",
             "en": "伤害增加至54%",
             "zh": "伤害增加至54%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至56%",
+            "vi": "Sát thương tăng lên 56%",
             "en": "伤害增加至56%",
             "zh": "伤害增加至56%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至60%",
+            "vi": "Sát thương tăng lên 60%",
             "en": "伤害增加至60%",
             "zh": "伤害增加至60%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3502,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Dĩ Độc Công Độc",
@@ -120,9 +124,9 @@
         "zh": "救活了。"
       },
       "description": {
-        "vi": "Khi kích nổ [buff_3503_1] gây sát thương, bản thân [tips_20] 30% HP gây ra sát thương.\nKẻ địch cứ có 1 tầng «[buff_3503_1]», tăng 20% Tấn công cho bản thân.\nKhi kích nổ [buff_3503_1] [tips_20] HP bị tràn ra, đem 100% lượng hồi phục tràn ra phân chia đều cho các đồng minh khác. [buff_3503_1] khiến mục tiêu giảm trị liệu 40%, khi [buff_3503_1] vượt quá 1 tầng, mỗi tầng bổ sung khiến mục tiêu giảm trị liệu 10%. Mục tiêu kẻ địch mắc 5 tầng [buff_3503_1] sau khi chịu lượt sát thương gián tiếp, bắn lan 60% sát thương gián tiếp đó sang các kẻ địch khác. (Mục tiêu kẻ địch gánh chịu giới hạn sát thương không vượt quá 800% Tấn công của Hạt Nữ)",
+        "vi": "Khi kích nổ [buff_3503_1] gây sát thương, bản thân [tips_20] 30% HP gây ra sát thương.\nKẻ địch cứ có 1 tầng [buff_3503_1], tăng 20% Tấn công cho bản thân.\nKhi kích nổ [buff_3503_1] [tips_20] HP bị tràn ra, đem 100% lượng hồi phục tràn ra phân chia đều cho các đồng minh khác. [buff_3503_1] khiến mục tiêu giảm trị liệu 40%, khi [buff_3503_1] vượt quá 1 tầng, mỗi tầng bổ sung khiến mục tiêu giảm trị liệu 10%. Mục tiêu kẻ địch mắc 5 tầng [buff_3503_1] sau khi chịu lượt sát thương gián tiếp, bắn lan 60% sát thương gián tiếp đó sang các kẻ địch khác. (Mục tiêu kẻ địch gánh chịu giới hạn sát thương không vượt quá 800% Tấn công của Hạt Nữ)",
         "en": "When a [buff_3503_1] is detonated and deals damage, [tips_20]s her HP by an amount equal to 30% of the damage (the damage is limited to 800% of Sasori's ATK).\nEach [buff_3503_1] stack on the enemy increases her ATK by 20%.\nWhen her HP is [tips_20]d from a [buff_3503_1] detonation, 100% of the excess HP recovered is shared equally among all other allies. [buff_3503_1] inflicts a 40% Heal Down on the target. If the target has more than 1 [buff_3503_1] stack, each stack inflicts a 10% Heal Down on the target. After an enemy with 5 [buff_3503_1] stacks takes indirect damage, she inflicts indirect damage to other enemies equal to 60% of the damage they took as splash damage.",
-        "zh": "引爆[buff_3503_1]造成伤害时，自身[tips_20]30%伤害生命。\n敌方每有1层「[buff_3503_1]」，提升自身20%攻击。\n引爆[buff_3503_1][tips_20]生命溢出时，将溢出恢复量的100%平均分配给其他友方。[buff_3503_1]使目标减疗40%，[buff_3503_1]超过1层时，每层额外使目标减疗10%。陷入5层[buff_3503_1]的敌方目标受到间接伤害回合后，向其他敌方溅射该伤害60%的间接伤害。（敌方目标承受伤害上限不超过蝎女攻击800%）"
+        "zh": "引爆[buff_3503_1]造成伤害时，自身[tips_20]30%伤害生命。\n敌方每有1层「[buff_3503_1]，提升自身20%攻击。\n引爆[buff_3503_1][tips_20]生命溢出时，将溢出恢复量的100%平均分配给其他友方。[buff_3503_1]使目标减疗40%，[buff_3503_1]超过1层时，每层额外使目标减疗10%。陷入5层[buff_3503_1]的敌方目标受到间接伤害回合后，向其他敌方溅射该伤害60%的间接伤害。（敌方目标承受伤害上限不超过蝎女攻击800%）"
       },
       "upgrades": [
         {
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "[buff_3503_1] khiến mục tiêu giảm trị liệu 40%",
-            "en": "[buff_3503_1] inflicts a 40% Heal Down on the target.",
-            "zh": "[buff_3503_1]使目标减疗40%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Tỷ lệ [tips_20] khi kích nổ [buff_3503_1] tăng lên 30%",
-            "en": "When a [buff_3503_1] is detonated, [tips_20]y rate is increased to 30%.",
-            "zh": "引爆[buff_3503_1][tips_20]比例提升至30%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Tỷ lệ [tips_20] khi kích nổ [buff_3503_1] tăng lên 30%",
@@ -163,22 +151,6 @@
             "vi": "Khi [buff_3503_1] vượt quá 1 tầng, mỗi tầng bổ sung khiến mục tiêu giảm trị liệu 10%",
             "en": "When [buff_3503_1] is stacked over 1 layer, each layer inflicts a 10% Heal Down on the target.",
             "zh": "[buff_3503_1]超过1层时，每层额外使目标减疗10%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Khi [buff_3503_1] vượt quá 1 tầng, mỗi tầng bổ sung khiến mục tiêu giảm trị liệu 10%",
-            "en": "When [buff_3503_1] is stacked over 1 layer, each layer inflicts a 10% Heal Down on the target.",
-            "zh": "[buff_3503_1]超过1层时，每层额外使目标减疗10%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Mục tiêu kẻ địch mắc 5 tầng [buff_3503_1] sau khi chịu lượt sát thương gián tiếp, bắn lan 60% sát thương gián tiếp đó sang các kẻ địch khác (sát thương này không vượt quá giới hạn 800% Tấn công của Hạt Nữ)",
-            "en": "After an enemy with 5 layers of [buff_3503_1] takes indirect damage, she inflicts indirect damage to other enemies equal to 60% of the damage they took as splash damage (the damage is limited to 800% of Sasori's ATK).",
-            "zh": "陷入5层[buff_3503_1]的敌方目标受到间接伤害回合后，向其他敌方溅射该伤害60%的间接伤害（此伤害不超过蝎女攻击上限800%）"
           }
         },
         {
@@ -196,6 +168,8 @@
     {
       "id": 3503,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Bách Hạt Chi Độc",
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "xienv.png",
-    "headIconFile": "h_xienv.png"
+    "portraitFile": "350.png",
+    "headIconFile": "350a.png"
   }
 }

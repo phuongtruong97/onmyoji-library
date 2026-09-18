@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2492,
-      "grade": "B"
+      "value": 2734,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10708,
-      "grade": "B"
+      "value": 11735,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 370,
-      "grade": "C"
+      "value": 419,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3201,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Triền Kích",
@@ -64,15 +66,15 @@
         "zh": "你无处可逃了。"
       },
       "description": {
-        "vi": "Lao nhanh về phía trước và dùng dải vải tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công và có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm [buff_3201_1], duy trì 2 lượt.",
-        "en": "Rushes forward to attack 1 enemy, dealing damage equal to 120% of her ATK and has a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [buff_3201_1] lasting 2 turns on them.",
-        "zh": "迅速前冲并使用布幔攻击敌方目标，造成攻击120%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_3201_1]，持续2回合。"
+        "vi": "Lao nhanh về phía trước và dùng dải vải tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công và có 100% [tips_2] xác suất đính kèm [buff_3201_1], duy trì 2 lượt.",
+        "en": "Rushes forward to attack 1 enemy, dealing damage equal to 120% of her ATK and has a 100% (+Effect HIT) chance of inflicting [buff_3201_1] lasting 2 turns on them.",
+        "zh": "迅速前冲并使用布幔攻击敌方目标，造成攻击120%伤害并有100%（+效果命中）概率附加[buff_3201_1]，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3202,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tuyết Chức",
@@ -128,23 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Tăng thêm sát thương mỗi tầng nâng lên 26%",
-            "en": "Increases each layer's damage to 26%.",
-            "zh": "每层提升伤害增至26%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Tăng thêm sát thương mỗi tầng nâng lên 26%",
-            "en": "Increases each layer's damage to 26%.",
-            "zh": "每层提升伤害增至26%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Tăng thêm sát thương mỗi tầng nâng lên 26%",
+            "vi": "Tăng thêm sát thương mỗi tầng tăng lên 26%",
             "en": "Increases each layer's damage to 26%.",
             "zh": "每层提升伤害增至26%"
           }
@@ -152,23 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Tăng thêm sát thương mỗi tầng nâng lên 31%",
-            "en": "Increases each layer's damage to 31%.",
-            "zh": "每层提升伤害增至31%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Tăng thêm sát thương mỗi tầng nâng lên 31%",
-            "en": "Increases each layer's damage to 31%.",
-            "zh": "每层提升伤害增至31%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Tăng thêm sát thương mỗi tầng nâng lên 31%",
+            "vi": "Tăng thêm sát thương mỗi tầng tăng lên 31%",
             "en": "Increases each layer's damage to 31%.",
             "zh": "每层提升伤害增至31%"
           }
@@ -176,41 +148,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Tăng thêm sát thương mỗi tầng nâng lên 36%",
+            "vi": "Tăng thêm sát thương mỗi tầng tăng lên 36%",
             "en": "Increases each layer's damage to 36%.",
             "zh": "每层提升伤害增至36%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Tăng thêm sát thương mỗi tầng nâng lên 36%",
-            "en": "Increases each layer's damage to 36%.",
-            "zh": "每层提升伤害增至36%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Tăng thêm sát thương mỗi tầng nâng lên 36%",
-            "en": "Increases each layer's damage to 36%.",
-            "zh": "每层提升伤害增至36%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Trong thời gian trói buộc, trộm thêm 40% Kháng Hiệu Ứng, 40% Bạo Kích",
-            "en": "Additionally steals 40% Effect RES and 40% Crit from the enemy as long as they are under Bind.",
-            "zh": "束缚期间，额外偷取40%效果抵抗、40%暴击"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Trong thời gian trói buộc, trộm thêm 40% Kháng Hiệu Ứng, 40% Bạo Kích",
-            "en": "Additionally steals 40% Effect RES and 40% Crit from the enemy as long as they are under Bind.",
-            "zh": "束缚期间，额外偷取40%效果抵抗、40%暴击"
           }
         },
         {
@@ -228,6 +168,8 @@
     {
       "id": 3203,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phi Dạ Tản Hoa",
@@ -283,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "yifanmumian.png",
-    "headIconFile": ""
+    "portraitFile": "320.png",
+    "headIconFile": "320a.png"
   }
 }

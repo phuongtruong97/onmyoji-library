@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2760,
-      "grade": "A"
+      "value": 3055,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9797,
-      "grade": "C"
+      "value": 10937,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
-      "grade": "C"
+      "value": 397,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 98,
-      "grade": "C"
+      "value": 108,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2261,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Kẻ Xấu Đi Ra",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至53%",
+            "vi": "Sát thương tăng lên 53%",
             "en": "伤害增加至53%",
             "zh": "伤害增加至53%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至55%",
+            "vi": "Sát thương tăng lên 55%",
             "en": "伤害增加至55%",
             "zh": "伤害增加至55%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至58%",
+            "vi": "Sát thương tăng lên 58%",
             "en": "伤害增加至58%",
             "zh": "伤害增加至58%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至63%",
+            "vi": "Sát thương tăng lên 63%",
             "en": "伤害增加至63%",
             "zh": "伤害增加至63%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2262,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Không Chơi Nữa Đâu",
@@ -131,6 +135,8 @@
     {
       "id": 2263,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Gâu Gâu Xuất Kích",
@@ -143,9 +149,9 @@
         "zh": "番茄，快去咬那帮坏人！出击！"
       },
       "description": {
-        "vi": "Triệu hồi Cà Chua, Cà Chua có thể sử dụng 『[skill_4024_1]』; khi triệu hồi lập tức sử dụng 『[skill_4024_1]』 tấn công kẻ địch có tỷ lệ HP thấp nhất. Cà Chua khi gây sát thương cho kẻ địch, xua tan ngẫu nhiên 1 trạng thái tăng ích của kẻ đó\nKhi kẻ địch tử trận, Cà Chua sẽ sử dụng 『[skill_4026_1]』.\nCà Chua thừa hưởng [z_生命继承比_per] HP, [z_攻击继承比_per] Tấn công và [z_速度继承比_per] Tốc độ của Khiêu Khiêu Muội Muội.\nKhi Cà Chua có mặt trên sân, kỹ năng này thay thế thành 『[skill_2267_1]』.",
+        "vi": "Triệu hồi Cà Chua, Cà Chua có thể sử dụng [skill_4024_1]; khi triệu hồi lập tức sử dụng [skill_4024_1] tấn công kẻ địch có tỷ lệ HP thấp nhất. Cà Chua khi gây sát thương cho kẻ địch, xua tan ngẫu nhiên 1 trạng thái tăng ích của kẻ đó\nKhi kẻ địch tử trận, Cà Chua sẽ sử dụng [skill_4026_1].\nCà Chua thừa hưởng [z_生命继承比_per] HP, [z_攻击继承比_per] Tấn công và [z_速度继承比_per] Tốc độ của Khiêu Khiêu Muội Muội.\nKhi Cà Chua có mặt trên sân, kỹ năng này thay thế thành [skill_2267_1].",
         "en": "Summons Tomato with the ability to use [skill_4024_1]; Tomato uses [skill_4024_1] immediately when summoned to attack the enemy with the lowest proportion of HP. When Tomato deals damage to an enemy, dispels a random buff from them.\nTomato uses [skill_4026_1] when an enemy is KO'd.\nTomato inherits [z_生命继承比_per] of Kyonshi Imoto's HP, [z_攻击继承比_per] of her ATK, and [z_速度继承比_per] of her SPD.\nIf Tomato is on the battlefield, the skill is changed to [skill_2267_1].",
-        "zh": "召唤番茄，番茄可使用『[skill_4024_1]』；召唤时立即使用『[skill_4024_1]』攻击生命比例最低的敌方。番茄对敌方造成伤害时，驱散其随机1个增益状态\n敌方阵亡时，番茄将使用『[skill_4026_1]』。\n番茄继承跳跳妹妹[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击和[z_速度继承比_per]速度。\n当番茄在场时，该技能替换成『[skill_2267_1]』。"
+        "zh": "召唤番茄，番茄可使用『[skill_4024_1]；召唤时立即使用『[skill_4024_1]攻击生命比例最低的敌方。番茄对敌方造成伤害时，驱散其随机1个增益状态\n敌方阵亡时，番茄将使用『[skill_4026_1]。\n番茄继承跳跳妹妹[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击和[z_速度继承比_per]速度。\n当番茄在场时，该技能替换成『[skill_2267_1]。"
       },
       "upgrades": [
         {
@@ -157,35 +163,11 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Thừa hưởng Tấn công tăng lên [z_攻击继承比_per]",
-            "en": "Increases inherited ATK to [z_攻击继承比_per].",
-            "zh": "继承攻击增至[z_攻击继承比_per]"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Cà Chua khi gây sát thương cho kẻ địch, xua tan ngẫu nhiên 1 trạng thái tăng ích của kẻ đó",
             "en": "When Tomato deals damage to an enemy, it dispels a random buff from them.",
             "zh": "番茄对敌方造成伤害时，驱散其随机1个增益状态"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Cà Chua khi gây sát thương cho kẻ địch, xua tan ngẫu nhiên 1 trạng thái tăng ích của kẻ đó",
-            "en": "When Tomato deals damage to an enemy, it dispels a random buff from them.",
-            "zh": "番茄对敌方造成伤害时，驱散其随机1个增益状态"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "继承生命值增至[z_生命继承比_per]",
-            "en": "继承生命值增至[z_生命继承比_per]",
-            "zh": "继承生命值增至[z_生命继承比_per]"
           }
         },
         {
@@ -197,11 +179,11 @@
           }
         },
         {
-          "level": 5,
+          "level": 4,
           "text": {
-            "vi": "Khi Khiêu Khiêu Muội Muội tấn công, sẽ [tips_10] Cà Chua",
-            "en": "When Kyonshi Imoto attacks, she issues a [tips_10] to Tomato.",
-            "zh": "跳跳妹妹攻击时，将[tips_10]番茄"
+            "vi": "HP kế thừa tăng lên [z_生命继承比_per]",
+            "en": "继承生命值增至[z_生命继承比_per]",
+            "zh": "继承生命值增至[z_生命继承比_per]"
           }
         },
         {
@@ -215,10 +197,35 @@
       ],
       "orbCost": 2,
       "iconFile": "2263.png"
+    },
+    {
+      "id": 2267,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 2263,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cùng Ta Học",
+        "en": "Watch This",
+        "zh": "跟我学"
+      },
+      "intro": {
+        "vi": "Cà Chua! Xem ta đối phó kẻ xấu thế nào đây!",
+        "en": "Tomato! Watch how I deal with bad guys!",
+        "zh": "番茄！看看我怎么对付坏人的！"
+      },
+      "description": {
+        "vi": "Tăng 1 tầng [buff_2266_1] cho Cà Chua, sau đó lần lượt tấn công mục tiêu kẻ địch chỉ định và mục tiêu kẻ địch có tỷ lệ HP thấp nhất 1 lần, mỗi lần gây sát thương bằng 125% Tấn công.",
+        "en": "Grants Tomato a layer of [buff_2266_1]. Tomato then attacks first the targeted enemy and then the enemy with the lowest proportion of HP, dealing damage equal to 125% of its ATK on each attack.",
+        "zh": "给番茄增加1层[buff_2266_1]，之后依次攻击指定敌方目标和生命比例最低的敌方目标1次，每次造成攻击125%的伤害。"
+      },
+      "upgrades": [],
+      "orbCost": 2,
+      "iconFile": "2267.png"
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "226.png",
+    "headIconFile": "226a.png"
   }
 }

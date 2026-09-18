@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2412,
-      "grade": "B"
+      "value": 2680,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10480,
-      "grade": "B"
+      "value": 11621,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 388,
-      "grade": "C"
+      "value": 432,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 107,
+      "value": 117,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2611,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Béo Nện",
@@ -64,15 +66,15 @@
         "zh": "锤？钉耙？剑？总有一款合你口味哈哈~"
       },
       "description": {
-        "vi": "Sử dụng nhiều loại vũ khí tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, có 20% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm ngẫu nhiên 1 trong các hiệu ứng sau: Giảm 30% Phòng thủ duy trì 2 lượt, [tips_108] 1 lượt, hoặc mỗi lượt chịu sát thương bằng 5% HP tối đa, duy trì 2 lượt.",
-        "en": "Uses multiple weapons to attack 1 enemy, dealing damage equal to 120% of their ATK with a 20% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting one of the following effects: Reduces DEF by 30% for 2 turns; [tips_108] lasting 1 turn(s); Takes damage equal to 5% of max HP on each turn for 2 turn(s).",
-        "zh": "使用多种武器攻击敌方目标，造成攻击120%伤害，有20%（+[*|a_debuff-acc_per|s_buff概率_per]）概率随机附加以下一种效果，降低30%防御2回合、[tips_108]1回合、或每回合受到生命上限5%的伤害，持续2回合。"
+        "vi": "Sử dụng nhiều loại vũ khí tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, có 20% [tips_2] xác suất đính kèm ngẫu nhiên 1 trong các hiệu ứng sau: Giảm 30% Phòng thủ duy trì 2 lượt, [tips_108] 1 lượt, hoặc mỗi lượt chịu sát thương bằng 5% HP tối đa, duy trì 2 lượt.",
+        "en": "Uses multiple weapons to attack 1 enemy, dealing damage equal to 120% of their ATK with a 20% (+Effect HIT) chance of inflicting one of the following effects: Reduces DEF by 30% for 2 turns; [tips_108] lasting 1 turn(s); Takes damage equal to 5% of max HP on each turn for 2 turn(s).",
+        "zh": "使用多种武器攻击敌方目标，造成攻击120%伤害，有20%（+效果命中）概率随机附加以下一种效果，降低30%防御2回合、[tips_108]1回合、或每回合受到生命上限5%的伤害，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "2611.png"
     },
     {
-      "id": 2613,
+      "id": 2612,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Nhân Đa Thế Chúng",
+        "en": "United",
+        "zh": "人多势众"
+      },
+      "intro": {
+        "vi": "Hahaha~ Chúng ta chính là ba anh em mạnh nhất!",
+        "en": "Hahaha! We three brothers are unstoppable!",
+        "zh": "哈哈哈~我们可是最强的三兄弟！"
+      },
+      "description": {
+        "vi": "Khi lượt kết thúc, có 30% xác suất nhận lượt mới.",
+        "en": "Grants a 30% chance of gaining an extra turn (triggers at end of turn).",
+        "zh": "回合结束时，有30%概率获得新的回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 15%",
+            "en": "Increases chance of triggering to 15%.",
+            "zh": "触发概率增至15%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 20%",
+            "en": "Increases chance of triggering to 20%.",
+            "zh": "触发概率增至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 25%",
+            "en": "Increases chance of triggering to 25%.",
+            "zh": "触发概率增至25%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xác suất kích hoạt tăng lên 30%",
+            "en": "Increases chance of triggering to 30%.",
+            "zh": "触发概率增至30%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2612.png"
+    },
+    {
+      "id": 2613,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Huynh Đệ Chi Bàn",
@@ -120,17 +182,17 @@
         "zh": "就让你见识一下我们三兄弟的羁绊！"
       },
       "description": {
-        "vi": "Kích hoạt đồng đội, giúp toàn bộ phe ta tăng 30% Thanh Hành Động, và tăng [b_属性1数值_per] Tấn công, [b2_属性1数值_per] Kháng Hiệu Ứng, duy trì 2 lượt.",
-        "en": "Inspires all allies, raising their Move Bar by 30%, increasing their ATK by [b_属性1数值_per] and their Effect RES by [b2_属性1数值_per] for 2 turn(s).",
-        "zh": "激励队友，使友方全体增加30%行动条，并提升[b_属性1数值_per]攻击、[b2_属性1数值_per]效果抵抗，持续2回合。"
+        "vi": "Kích hoạt đồng đội, giúp toàn bộ phe ta tăng 30% Thanh Hành Động, và tăng 25% Tấn công, 20% Kháng Hiệu Ứng, duy trì 2 lượt.",
+        "en": "Inspires all allies, raising their Move Bar by 30%, increasing their ATK by 25% and their Effect RES by 20% for 2 turn(s).",
+        "zh": "激励队友，使友方全体增加30%行动条，并提升25%攻击、20%效果抵抗，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "[buff_2613_1] hiệu ứng tăng Tấn công tăng lên [b_属性1数值_per]",
-            "en": "Increases [buff_2613_1]'s ATK boost effect to [b_属性1数值_per].",
-            "zh": "[buff_2613_1]提升攻击效果增至[b_属性1数值_per]"
+            "vi": "[buff_2613_1] hiệu ứng tăng Tấn công tăng lên 20%",
+            "en": "Increases [buff_2613_1]'s ATK boost effect to 20%.",
+            "zh": "[buff_2613_1]提升攻击效果增至20%"
           }
         },
         {
@@ -144,17 +206,17 @@
         {
           "level": 4,
           "text": {
-            "vi": "[buff_2614_1] hiệu ứng tăng Kháng Hiệu Ứng tăng lên [b2_属性1数值_per]",
-            "en": "Increases [buff_2614_1]'s Effect RES boost to [b2_属性1数值_per].",
-            "zh": "[buff_2614_1]提升效果抵抗增至[b2_属性1数值_per]"
+            "vi": "[buff_2614_1] hiệu ứng tăng Kháng Hiệu Ứng tăng lên 20%",
+            "en": "Increases [buff_2614_1]'s Effect RES boost to 20%.",
+            "zh": "[buff_2614_1]提升效果抵抗增至20%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "[buff_2613_1] hiệu ứng tăng Tấn công tăng lên [b_属性1数值_per]",
-            "en": "Increases [buff_2613_1]'s ATK boost effect to [b_属性1数值_per].",
-            "zh": "[buff_2613_1]提升攻击效果增至[b_属性1数值_per]"
+            "vi": "[buff_2613_1] hiệu ứng tăng Tấn công tăng lên 25%",
+            "en": "Increases [buff_2613_1]'s ATK boost effect to 25%.",
+            "zh": "[buff_2613_1]提升攻击效果增至25%"
           }
         }
       ],
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "261.png",
+    "headIconFile": "261a.png"
   }
 }

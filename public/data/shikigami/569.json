@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3108,
+      "value": 3377,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9227,
-      "grade": "C"
+      "value": 10368,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 321,
-      "grade": "D"
+      "value": 366,
+      "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5691,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thám Ôn",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至47%",
+            "vi": "Sát thương tăng lên 47%",
             "en": "伤害增加至47%",
             "zh": "伤害增加至47%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至52%",
+            "vi": "Sát thương tăng lên 52%",
             "en": "伤害增加至52%",
             "zh": "伤害增加至52%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至57%",
+            "vi": "Sát thương tăng lên 57%",
             "en": "伤害增加至57%",
             "zh": "伤害增加至57%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至62%",
+            "vi": "Sát thương tăng lên 62%",
             "en": "伤害增加至62%",
             "zh": "伤害增加至62%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5692,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tuyền Dũng",
@@ -136,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Xác suất xua tan nâng lên 60%",
+            "vi": "Xác suất xua tan tăng lên 60%",
             "en": "Increases the dispelling chance to 60%.",
             "zh": "驱散概率提升至60%"
           }
@@ -144,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Xác suất xua tan nâng lên 80%",
+            "vi": "Xác suất xua tan tăng lên 80%",
             "en": "Increases the dispelling chance to 80%.",
             "zh": "驱散概率提升至80%"
           }
@@ -152,7 +156,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Xác suất xua tan nâng lên 100%",
+            "vi": "Xác suất xua tan tăng lên 100%",
             "en": "Increases the dispelling chance to 100%.",
             "zh": "驱散概率提升至100%"
           }
@@ -164,6 +168,8 @@
     {
       "id": 5693,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tẩy Cân Phạt Tủy",
@@ -176,23 +182,15 @@
         "zh": "保证让客人您脱胎换骨……对了，要加钱。"
       },
       "description": {
-        "vi": "Triệu hồi [tips_5691]. Khi [tips_5691] có mặt trên sân, hệ số đánh thường do Miêu Xuyên gây ra tăng gấp đôi, đồng thời giúp sát thương đánh thường của toàn bộ đồng minh tăng 50%. Khi triệu hồi lại [tips_5691], [tips_20] 100% HP của [tips_5691] và giúp toàn bộ đồng minh tận hưởng 1 lần trị liệu suối nước nóng. Khi bản thân đi qua suối nước nóng, xem như đi đến điểm cuối của thanh hành động. [tips_7]: Thi triển 「Tẩy Cân Phạt Tủy」",
+        "vi": "Triệu hồi [tips_5691]. Khi [tips_5691] có mặt trên sân, hệ số đánh thường do Miêu Xuyên gây ra tăng gấp đôi, đồng thời giúp sát thương đánh thường của toàn bộ đồng minh tăng 50%. Khi triệu hồi lại [tips_5691], [tips_20] 100% HP của [tips_5691] và giúp toàn bộ đồng minh tận hưởng 1 lần trị liệu suối nước nóng. Khi bản thân đi qua suối nước nóng, xem như đi đến điểm cuối của thanh hành động. \n[tips_7]: Thi triển [Tẩy Cân Phạt Tủy]",
         "en": "Summons the [tips_5691]. While the [tips_5691] is on the battlefield, doubles Nekogawa's normal attack multiplier and increases all allies' normal attack damage by 50%. When he summons the [tips_5691] again, [tips_20]s the [tips_5691]'s HP to 100% and allows all allies to enjoy healing from the hot spring once. When he himself passes through the hot spring, he's regarded as having reached the end of the turn order. [tips_7]: Uses Deep Cleaning.",
-        "zh": "召唤[tips_5691]。[tips_5691]在场时，猫川造成的普攻系数翻倍，同时使友方全体造成的普攻伤害提升50%。再次[tips_5691]时，[tips_20][tips_5691]100%的生命并使友方全体享受1次温泉疗愈。自身经过温泉时，视为到达行动条终点。[tips_7]：施放「洗筋伐髓」"
+        "zh": "召唤[tips_5691]。[tips_5691]在场时，猫川造成的普攻系数翻倍，同时使友方全体造成的普攻伤害提升50%。再次[tips_5691]时，[tips_20][tips_5691]100%的生命并使友方全体享受1次温泉疗愈。自身经过温泉时，视为到达行动条终点。[tips_7]：施放「洗筋伐髓]"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương đánh thường gây ra nâng lên 35%",
-            "en": "Increases the normal attack boost to 35%.",
-            "zh": "造成的普攻伤害提升至35%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Sát thương đánh thường gây ra nâng lên 35%",
+            "vi": "Sát thương đánh thường gây ra tăng lên 35%",
             "en": "Increases the normal attack boost to 35%.",
             "zh": "造成的普攻伤害提升至35%"
           }
@@ -206,25 +204,9 @@
           }
         },
         {
-          "level": 3,
-          "text": {
-            "vi": "Khi bản thân đi qua [tips_5691], xem như đi đến điểm cuối của thanh hành động",
-            "en": "When he himself passes through the [tips_5691], he's regarded as having reached the end of the turn order.",
-            "zh": "自身经过[tips_5691]时，视为到达行动条终点"
-          }
-        },
-        {
           "level": 4,
           "text": {
-            "vi": "Sát thương đánh thường gây ra nâng lên 50%",
-            "en": "Increases the normal attack boost to 50%.",
-            "zh": "造成的普攻伤害提升至50%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Sát thương đánh thường gây ra nâng lên 50%",
+            "vi": "Sát thương đánh thường gây ra tăng lên 50%",
             "en": "Increases the normal attack boost to 50%.",
             "zh": "造成的普攻伤害提升至50%"
           }
@@ -232,17 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "[tips_7]: Thi triển 「Tẩy Cân Phạt Tủy」",
+            "vi": "[tips_7]: Thi triển [Tẩy Cân Phạt Tủy]",
             "en": "[tips_7]: Uses Deep Cleaning.",
-            "zh": "[tips_7]：施放「洗筋伐髓」"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "[tips_7]: Thi triển 「Tẩy Cân Phạt Tủy」",
-            "en": "[tips_7]: Uses Deep Cleaning.",
-            "zh": "[tips_7]：施放「洗筋伐髓」"
+            "zh": "[tips_7]：施放「洗筋伐髓]"
           }
         }
       ],
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "569.png",
+    "headIconFile": "569a.png"
   }
 }

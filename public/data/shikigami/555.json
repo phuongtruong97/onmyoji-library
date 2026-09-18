@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3135,
+      "value": 3136,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10708,
+      "value": 10709,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 396,
+      "value": 397,
       "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
       "value": 114,
-      "grade": "S"
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 5551,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lưu Quang Chi Tiễn",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5552,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Miểu Diểu Nhất Lữ",
@@ -164,6 +168,8 @@
     {
       "id": 5553,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Huỳnh Quang Lạc Thế",
@@ -176,9 +182,9 @@
         "zh": "想在这个世界留下希望，哪怕一点也好。"
       },
       "description": {
-        "vi": "Dùng sức mạnh của bản thân, tỏa sáng rơi xuống nhân thế. Gây cho toàn bộ phe địch sát thương bằng 183% Tấn công, tiêu hao [tips_5552] bằng 340% Tấn công ban đầu của bản thân và gây cho kẻ địch sát thương bằng [tips_5552] đã tiêu hao (Hiện tại [tips_5552] còn lại 0), sát thương chia đều cho toàn bộ phe địch, đồng thời trị liệu lượng HP bằng 35% Tấn công của Miểu Niệm Huỳnh Thảo cho toàn bộ phe ta. Mỗi khi sử dụng 1 lần kỹ năng, tiêu hao [tips_5552] của 『Huỳnh Quang Lạc Thế』 tăng 120%, tăng tối đa 360%; nếu bản thân chịu sát thương gián tiếp, lập tức nâng cao 1 lần tiêu hao [tips_5552] của 『Huỳnh Quang Lạc Thế』, trong một đòn tấn công đơn lẻ kích hoạt tối đa 1 lần.",
+        "vi": "Dùng sức mạnh của bản thân, tỏa sáng rơi xuống nhân thế. Gây cho toàn bộ phe địch sát thương bằng 183% Tấn công, tiêu hao [tips_5552] bằng 340% Tấn công ban đầu của bản thân và gây cho kẻ địch sát thương bằng [tips_5552] đã tiêu hao (Hiện tại [tips_5552] còn lại 0), sát thương chia đều cho toàn bộ phe địch, đồng thời trị liệu lượng HP bằng 35% Tấn công của Miểu Niệm Huỳnh Thảo cho toàn bộ phe ta. Mỗi khi sử dụng 1 lần kỹ năng, tiêu hao [tips_5552] của [Huỳnh Quang Lạc Thế] tăng 120%, tăng tối đa 360%; nếu bản thân chịu sát thương gián tiếp, lập tức nâng cao 1 lần tiêu hao [tips_5552] của [Huỳnh Quang Lạc Thế], trong một đòn tấn công đơn lẻ kích hoạt tối đa 1 lần.",
         "en": "Illuminate the world! Launches an attack on all enemies, dealing damage equal to 183% of her ATK, and spends [tips_5552] equal to 340% of her ATK to inflict damage equal to the amount of [tips_5552] spent, distributed evenly among all enemies. (Current [tips_5552]: 0) Also heals the HP of all allies equal to 35% of Kusa Regrown's ATK. Whenever she uses the skill, increases the amount of [tips_5552] Luminescent Smash can use by 120%, up to 360%. When she takes indirect damage, increases the amount of [tips_5552] Luminescent Smash can use. Triggers up to once for a single attack.",
-        "zh": "以己之力，绽光落世。对敌方全体造成攻击183%伤害，消耗自身初始攻击的340%[tips_5552]并对敌方造成所消耗[tips_5552]的伤害（当前[tips_5552]剩余0），伤害平均分配给全体敌方，同时为全体友方治疗等同于渺念萤草攻击35%的生命。每使用1次技能后，『萤光落世』消耗[tips_5552]提升120%，至多提升360%；若自身受到间接伤害，立即提升1次『萤光落世』消耗[tips_5552]，单次攻击最多触发1次。"
+        "zh": "以己之力，绽光落世。对敌方全体造成攻击183%伤害，消耗自身初始攻击的340%[tips_5552]并对敌方造成所消耗[tips_5552]的伤害（当前[tips_5552]剩余0），伤害平均分配给全体敌方，同时为全体友方治疗等同于渺念萤草攻击35%的生命。每使用1次技能后，『萤光落世]消耗[tips_5552]提升120%，至多提升360%；若自身受到间接伤害，立即提升1次『萤光落世]消耗[tips_5552]，单次攻击最多触发1次。"
       },
       "upgrades": [
         {
@@ -208,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Mỗi khi sử dụng 1 lần kỹ năng, tiêu hao [tips_5552] của 『Huỳnh Quang Lạc Thế』 tăng 120%, tăng tối đa 360%; nếu bản thân chịu sát thương gián tiếp, tiêu hao [tips_5552] của 『Huỳnh Quang Lạc Thế』 tăng 120%, trong một đòn tấn công đơn lẻ kích hoạt tối đa 1 lần",
+            "vi": "Mỗi khi sử dụng 1 lần kỹ năng, tiêu hao [tips_5552] của [Huỳnh Quang Lạc Thế] tăng 120%, tăng tối đa 360%; nếu bản thân chịu sát thương gián tiếp, tiêu hao [tips_5552] của [Huỳnh Quang Lạc Thế] tăng 120%, trong một đòn tấn công đơn lẻ kích hoạt tối đa 1 lần",
             "en": "Whenever she uses the skill, increases the amount of [tips_5552] Luminescent Smash can use by 120%, up to 360%. When she takes indirect damage, increases the amount of [tips_5552] Luminescent Smash can use by 120%. Triggers up to once for a single attack.",
-            "zh": "每使用1次技能后，『萤光落世』消耗[tips_5552]提升120%，至多提升360%；若自身受到间接伤害，『萤光落世』消耗[tips_5552]提升120%，单次攻击最多触发1次"
+            "zh": "每使用1次技能后，『萤光落世]消耗[tips_5552]提升120%，至多提升360%；若自身受到间接伤害，『萤光落世]消耗[tips_5552]提升120%，单次攻击最多触发1次"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_sp_yingcao.png"
+    "portraitFile": "555.png",
+    "headIconFile": "555a.png"
   }
 }

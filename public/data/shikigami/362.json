@@ -10,18 +10,18 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3001,
+      "value": 3002,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10024,
+      "value": 10026,
       "grade": "C"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3621,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ngọc Hưởng",
@@ -108,6 +110,8 @@
     {
       "id": 3622,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tức Xuy",
@@ -120,9 +124,9 @@
         "zh": "凛风吹过之处，万物冰结。"
       },
       "description": {
-        "vi": "[tips_11].\nGiúp toàn bộ phe ta tăng 30% Phòng thủ. Sau khi lượt của phe ta và phe địch không phải vật triệu hồi kết thúc, Thiền Băng Tuyết Nữ kết ra 1 đóa [buff_3621_1]. Khi Thức Thần phe ta ngoại trừ bản thân chịu sát thương chí mạng, chiếm giữ vị trí cũ dưới dạng ngưng kết, coi như đã Tử Trận.\n【Thi triển】 Khi trên sân có Thức Thần phe ta ở dạng ngưng kết, hồi sinh tất cả Thức Thần phe ta ở dạng ngưng kết, [tips_20] lượng HP bằng HP tối đa của họ. Sau khi thi triển thay thế kỹ năng thành 「Xuân Cáo」.",
+        "vi": "[tips_11].\nGiúp toàn bộ phe ta tăng 30% Phòng thủ. Sau khi lượt của phe ta và phe địch không phải vật triệu hồi kết thúc, Thiền Băng Tuyết Nữ kết ra 1 đóa [buff_3621_1]. Khi Thức Thần phe ta ngoại trừ bản thân chịu sát thương chí mạng, chiếm giữ vị trí cũ dưới dạng ngưng kết, coi như đã Tử Trận.\n[Thi triển] Khi trên sân có Thức Thần phe ta ở dạng ngưng kết, hồi sinh tất cả Thức Thần phe ta ở dạng ngưng kết, [tips_20] lượng HP bằng HP tối đa của họ. Sau khi thi triển thay thế kỹ năng thành [Xuân Cáo].",
         "en": "[tips_11].\nIncreases the DEF of all allies by 30%. At the end of a turn (either an ally's or an enemy's; not counting summoned entities), Frosty Yuki Onna creates a [buff_3621_1]. When an ally shikigami other than herself takes lethal damage, they become Bound in Ice to occupy their original position, but are regarded as KO'd.\nActive skill: If there's an ally shikigami Bound in Ice on the battlefield, revives all shikigami Bound in Ice and [tips_20]s their HP to full. After using the skill, it is changed to Spring's Arrival.",
-        "zh": "[tips_11]。\n使友方全体提升30%防御。非召唤物的友方和敌方回合结束后，蝉冰雪女结出1朵[buff_3621_1]。除自身外的友方式神受到致命伤害时，以凝结形态占据原位置，视为已经阵亡。\n【施放】场上有凝结形态的友方式神时，复活所有凝结形态的友方式神，[tips_20]其最大生命的血量。施放后将技能替换为「春告」。"
+        "zh": "[tips_11]。\n使友方全体提升30%防御。非召唤物的友方和敌方回合结束后，蝉冰雪女结出1朵[buff_3621_1]。除自身外的友方式神受到致命伤害时，以凝结形态占据原位置，视为已经阵亡。\n【施放】场上有凝结形态的友方式神时，复活所有凝结形态的友方式神，[tips_20]其最大生命的血量。施放后将技能替换为「春告]。"
       },
       "upgrades": [
         {
@@ -164,6 +168,8 @@
     {
       "id": 3623,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Vĩnh Đông",
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "362.png",
+    "headIconFile": "362a.png"
   }
 }

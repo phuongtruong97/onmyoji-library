@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2948,
+      "value": 3243,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
+      "value": 11051,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 330,
-      "grade": "D"
+      "value": 362,
+      "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 98,
-      "grade": "C"
+      "value": 108,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3351,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tả Càng Nối Hữu Quyền",
@@ -64,15 +66,15 @@
         "zh": "嗯？要不要试试看？"
       },
       "description": {
-        "vi": "Sử dụng càng cua và nắm đấm tấn công mục tiêu kẻ địch 2 lần, gây sát thương bằng 62.5% Tấn công, nếu trong lượt bản thân liền tăng 30 Tốc độ, duy trì 1 lượt, và khiến lần thi triển 『[skill_3353_1]』 tiếp theo không tự gõ choáng mình.",
+        "vi": "Sử dụng càng cua và nắm đấm tấn công mục tiêu kẻ địch 2 lần, gây sát thương bằng 62.5% Tấn công, nếu trong lượt bản thân liền tăng 30 Tốc độ, duy trì 1 lượt, và khiến lần thi triển [skill_3353_1] tiếp theo không tự gõ choáng mình.",
         "en": "Uses her crab claws and fists to attack 1 enemy twice, dealing damage equal to 62.5% of her ATK each time, and increasing her SPD by 30 for 1 turn if it's her turn. She won't inflict [skill_3353_1] on herself the next time she uses Conch Blow.",
-        "zh": "使用蟹钳和拳头攻击敌方目标2次，造成攻击62.5%的伤害，若在自身回合则提升30速度，持续1回合，并使下一次释放『[skill_3353_1]』时不会锤晕自己。"
+        "zh": "使用蟹钳和拳头攻击敌方目标2次，造成攻击62.5%的伤害，若在自身回合则提升30速度，持续1回合，并使下一次释放『[skill_3353_1]时不会锤晕自己。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增至52.5%",
+            "vi": "Sát thương tăng lên 52.5%",
             "en": "伤害增至52.5%",
             "zh": "伤害增至52.5%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增至55%",
+            "vi": "Sát thương tăng lên 55%",
             "en": "伤害增至55%",
             "zh": "伤害增至55%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增至57.5%",
+            "vi": "Sát thương tăng lên 57.5%",
             "en": "伤害增至57.5%",
             "zh": "伤害增至57.5%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增至62.5%",
+            "vi": "Sát thương tăng lên 62.5%",
             "en": "伤害增至62.5%",
             "zh": "伤害增至62.5%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3352,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phấn Chấn Trở Lại",
@@ -120,7 +124,7 @@
         "zh": "听说你还不服气？"
       },
       "description": {
-        "vi": "回合结束后，若自身未承受[tips_3]，则打起精神来，获得[buff_3350_1]，持续1回合。",
+        "vi": "Sau khi kết thúc lượt, nếu bản thân không chịu [tips_3], thì xốc lại tinh thần, nhận [buff_3350_1], duy trì 1 lượt.",
         "en": "回合结束后，若自身未承受[tips_3]，则打起精神来，获得[buff_3350_1]，持续1回合。",
         "zh": "回合结束后，若自身未承受[tips_3]，则打起精神来，获得[buff_3350_1]，持续1回合。"
       },
@@ -128,97 +132,33 @@
         {
           "level": 2,
           "text": {
-            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
-            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
-            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
-            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
-            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
-            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
-            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
+            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên 30%",
+            "en": "Increases non-critical damage reduction from [buff_3350_1] to 30%.",
+            "zh": "[buff_3350_1]降低非暴击伤害增至30%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "[buff_3350_1] tổng lượng giảm sát thương không vượt quá [b_参数p2_per] Tấn công bản thân",
-            "en": "Increases maximum damage reduction from [buff_3350_1] to [b_参数p2_per] of her ATK.",
-            "zh": "[buff_3350_1]总伤害减免量不超过自身攻击力[b_参数p2_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "[buff_3350_1] tổng lượng giảm sát thương không vượt quá [b_参数p2_per] Tấn công bản thân",
-            "en": "Increases maximum damage reduction from [buff_3350_1] to [b_参数p2_per] of her ATK.",
-            "zh": "[buff_3350_1]总伤害减免量不超过自身攻击力[b_参数p2_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "[buff_3350_1] tổng lượng giảm sát thương không vượt quá [b_参数p2_per] Tấn công bản thân",
-            "en": "Increases maximum damage reduction from [buff_3350_1] to [b_参数p2_per] of her ATK.",
-            "zh": "[buff_3350_1]总伤害减免量不超过自身攻击力[b_参数p2_per]"
+            "vi": "[buff_3350_1] tổng lượng giảm sát thương không vượt quá 150% Tấn công bản thân",
+            "en": "Increases maximum damage reduction from [buff_3350_1] to 150% of her ATK.",
+            "zh": "[buff_3350_1]总伤害减免量不超过自身攻击力150%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
-            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
-            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
-            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
-            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên [b_参数p1_per]",
-            "en": "Increases non-critical damage reduction from [buff_3350_1] to [b_参数p1_per].",
-            "zh": "[buff_3350_1]降低非暴击伤害增至[b_参数p1_per]"
+            "vi": "[buff_3350_1] giảm sát thương không bạo kích tăng lên 40%",
+            "en": "Increases non-critical damage reduction from [buff_3350_1] to 40%.",
+            "zh": "[buff_3350_1]降低非暴击伤害增至40%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "[buff_3350_1] tăng thêm [b_属性1数值_per] Kháng Bạo Kích, tức nguồn gây sát thương coi như giảm 30% Bạo kích",
-            "en": "[buff_3350_1] additionally increases Crit RES by [b_属性1数值_per], meaning the source of damage has 30% less Crit.",
-            "zh": "[buff_3350_1]额外提升[b_属性1数值_per]暴击抵抗，即伤害来源视同降低30%暴击"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "[buff_3350_1] tăng thêm [b_属性1数值_per] Kháng Bạo Kích, tức nguồn gây sát thương coi như giảm 30% Bạo kích",
-            "en": "[buff_3350_1] additionally increases Crit RES by [b_属性1数值_per], meaning the source of damage has 30% less Crit.",
-            "zh": "[buff_3350_1]额外提升[b_属性1数值_per]暴击抵抗，即伤害来源视同降低30%暴击"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "[buff_3350_1] tăng thêm [b_属性1数值_per] Kháng Bạo Kích, tức nguồn gây sát thương coi như giảm 30% Bạo kích",
-            "en": "[buff_3350_1] additionally increases Crit RES by [b_属性1数值_per], meaning the source of damage has 30% less Crit.",
-            "zh": "[buff_3350_1]额外提升[b_属性1数值_per]暴击抵抗，即伤害来源视同降低30%暴击"
+            "vi": "[buff_3350_1] tăng thêm 30% Kháng Bạo Kích, tức nguồn gây sát thương coi như giảm 30% Bạo kích",
+            "en": "[buff_3350_1] additionally increases Crit RES by 30%, meaning the source of damage has 30% less Crit.",
+            "zh": "[buff_3350_1]额外提升30%暴击抵抗，即伤害来源视同降低30%暴击"
           }
         }
       ],
@@ -228,6 +168,8 @@
     {
       "id": 3353,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lạc Lạc Chùy",
@@ -248,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增至147%",
+            "vi": "Sát thương tăng lên 147%",
             "en": "伤害增至147%",
             "zh": "伤害增至147%"
           }
@@ -256,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增至154%",
+            "vi": "Sát thương tăng lên 154%",
             "en": "伤害增至154%",
             "zh": "伤害增至154%"
           }
@@ -264,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增至161%",
+            "vi": "Sát thương tăng lên 161%",
             "en": "伤害增至161%",
             "zh": "伤害增至161%"
           }
@@ -272,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi bị [buff_3351_1] cũng có thể nhận 『Vỏ Cua』, khi giải trừ Choáng nhận 『[buff_3353_1]』, duy trì 1 lượt",
+            "vi": "Khi bị [buff_3351_1] cũng có thể nhận [Vỏ Cua], khi giải trừ Choáng nhận [buff_3353_1], duy trì 1 lượt",
             "en": "She can gain Carapace even when she's inflicted with [buff_3351_1]. When Daze is removed, she gains [buff_3353_1] for 1 turn.",
-            "zh": "[buff_3351_1]时也可以获得『蟹壳』，眩晕解除时获得『[buff_3353_1]』，持续1回合"
+            "zh": "[buff_3351_1]时也可以获得『蟹壳]，眩晕解除时获得『[buff_3353_1]，持续1回合"
           }
         }
       ],
@@ -283,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_xieji.png"
+    "portraitFile": "335.png",
+    "headIconFile": "335a.png"
   }
 }

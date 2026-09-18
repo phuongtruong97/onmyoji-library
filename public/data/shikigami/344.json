@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2760,
-      "grade": "A"
+      "value": 3028,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 7518,
+      "value": 8317,
       "grade": "D"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 454,
-      "grade": "A"
+      "value": 498,
+      "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3444,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Lạc Ảnh",
@@ -64,15 +66,15 @@
         "zh": "我已确信，眼目以内恶意满盈。"
       },
       "description": {
-        "vi": "Dùng sức mạnh hỗn mang tấn công mục tiêu kẻ địch, gây 125% sát thương.\nKhi ở trạng thái Dương, kỹ năng thay thế thành 『[skill_3441_1]』, cấp độ tăng theo cường hóa kỹ năng 『Lạc Ảnh』.",
+        "vi": "Dùng sức mạnh hỗn mang tấn công mục tiêu kẻ địch, gây 125% sát thương.\nKhi ở trạng thái Dương, kỹ năng thay thế thành [skill_3441_1], cấp độ tăng theo cường hóa kỹ năng [Lạc Ảnh].",
         "en": "Casts the power of chaos at 1 enemy, dealing damage equal to 125% of his ATK.\nWhen he's in Yang state, this is changed to [skill_3441_1], with its skill level equal to the skill level of Falling Shadow.",
-        "zh": "以混沌之力攻击敌方目标，造成攻击125%伤害。\n处于阳状态时，技能替换为『[skill_3441_1]』，等级随『落影』技能强化。"
+        "zh": "以混沌之力攻击敌方目标，造成攻击125%伤害。\n处于阳状态时，技能替换为『[skill_3441_1]，等级随『落影]技能强化。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,68 @@
       "iconFile": "3444.png"
     },
     {
+      "id": 3441,
+      "number": 1,
+      "variantOrder": 1,
+      "parentSkillId": 3444,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đàm Vô",
+        "en": "Dharma",
+        "zh": "昙无"
+      },
+      "intro": {
+        "vi": "Ta vẫn tin rằng, trong lòng con người vẫn lưu giữ niệm lành.",
+        "en": "I believe goodwill still exists.",
+        "zh": "我愿相信，人心之中善念犹存。"
+      },
+      "description": {
+        "vi": "Dùng sức mạnh thần khí tấn công mục tiêu kẻ địch, gây sát thương bằng 360% phòng thủ, đồng thời khiến 1 đồng minh khác ở vị trí đầu tiên của thanh hành động tăng 20% thanh hành động.",
+        "en": "Casts the power of an artifact to attack 1 enemy, dealing damage equal to 360% of his DEF. Also raises the Move Bar of another ally at the beginning of the turn order by 20%.",
+        "zh": "以神器之力攻击敌方目标，造成防御360%伤害，并使行动条最前端的另一友方增加20%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "伤害增加至240%",
+            "en": "伤害增加至240%",
+            "zh": "伤害增加至240%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "伤害增加至280%",
+            "en": "伤害增加至280%",
+            "zh": "伤害增加至280%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "伤害增加至320%",
+            "en": "伤害增加至320%",
+            "zh": "伤害增加至320%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "伤害增加至360%",
+            "en": "伤害增加至360%",
+            "zh": "伤害增加至360%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "3441.png"
+    },
+    {
       "id": 3445,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Đấu Chuyển",
@@ -120,17 +182,44 @@
         "zh": "破晓晨曦，万物初醒。"
       },
       "description": {
-        "vi": "Vân Ngoại Kính ở trạng thái [tips_3443], trong gương cách ly lẫn nhau, có thể chuyển đổi giữa các trạng thái [tips_3442], giá trị HP của trạng thái Âm Dương bổ sung cho nhau, ban đầu mỗi bên một nửa, nhận khiên gương khi bắt đầu chiến đấu.\n【[Thi triển]】 Bước vào trạng thái Dương và [tips_3933] đến giá trị HP Dương, đồng thời tăng 100 điểm tốc độ cho bản thân, duy trì 1 lượt; đồng thời nhận khiên gương, tiêu hao Quỷ Hỏa vĩnh viễn +2 sau mỗi lần [Thi triển].\nKhi ở trạng thái Dương, kỹ năng thay thế thành 『[skill_3442_1]』.",
+        "vi": "Vân Ngoại Kính ở trạng thái [tips_3443], trong gương cách ly lẫn nhau, có thể chuyển đổi giữa các trạng thái [tips_3442], giá trị HP của trạng thái Âm Dương bổ sung cho nhau, ban đầu mỗi bên một nửa, nhận khiên gương khi bắt đầu chiến đấu.\n[Thi triển] Bước vào trạng thái Dương và [tips_3933] đến giá trị HP Dương, đồng thời tăng 100 điểm tốc độ cho bản thân, duy trì 1 lượt; đồng thời nhận khiên gương, tiêu hao Quỷ Hỏa vĩnh viễn +2 sau mỗi lần [Thi Triển].\nKhi ở trạng thái Dương, kỹ năng thay thế thành [skill_3442_1].",
         "en": "Ungaikyo lives in the [tips_3443] where his two faces are independent of each other. He can change between his [tips_3442] states. His starting HP is halved. His HP in Yin and Yang state compliment each other. He gains Mirror Shield to protect himself at the start of battle.\nActive skill: Enters the Yang state and [tips_3933]s his HP by turning it into the Yang state's HP. Also increases his SPD by 100 for 1 turn. He also gains Mirror Shield to protect himself. Using the skill increases the orb cost by +2 indefinitely each time.\nWhen he's in Yang state, the skill is changed to [skill_3442_1].",
-        "zh": "云外镜处于[tips_3443]，镜中相互隔绝，可于[tips_3442]状态间转换，阴阳状态的生命值互补，初始各一半，在战斗开始获得镜盾。\n【施放】进入阳状态并[tips_3933]至阳生命值，同时提升自身100点速度，持续1回合；并获得镜盾，每次施放后鬼火消耗永久+2。\n处于阳状态时，技能替换为『[skill_3442_1]』。"
+        "zh": "云外镜处于[tips_3443]，镜中相互隔绝，可于[tips_3442]状态间转换，阴阳状态的生命值互补，初始各一半，在战斗开始获得镜盾。\n【施放】进入阳状态并[tips_3933]至阳生命值，同时提升自身100点速度，持续1回合；并获得镜盾，每次施放后鬼火消耗永久+2。\n处于阳状态时，技能替换为『[skill_3442_1]。"
       },
       "upgrades": [],
       "orbCost": 0,
       "iconFile": "3445.png"
     },
     {
+      "id": 3442,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 3445,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Chiêu Hồi",
+        "en": "Shifting of the Stars",
+        "zh": "昭回"
+      },
+      "intro": {
+        "vi": "Hoàng hôn buông xuống, cố nhân trở về.",
+        "en": "The sun sets and the old friend returns.",
+        "zh": "夕阳落日，故人归来。"
+      },
+      "description": {
+        "vi": "[Thi triển] Bước vào trạng thái Âm và lật ngược giá trị HP, đồng thời tăng 100 điểm tốc độ cho bản thân, duy trì 1 lượt; đồng thời nhận [buff_3442_1], tiêu hao Quỷ Hỏa vĩnh viễn +2 sau mỗi lần [Thi Triển].",
+        "en": "Using the skill enters Yin state and inverts his HP. Also increases his SPD by 100 for 1 turn and creates a [buff_3442_1] to protect himself. Orb cost +2 indefinitely after using the skill each time.",
+        "zh": "【施放】进入阴状态并翻转生命值，同时提升自身100点速度，持续1回合；并获得[buff_3442_1]，每次施放后鬼火消耗永久+2。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3442.png"
+    },
+    {
       "id": 3446,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Vân Ngạn Tịnh Không",
@@ -143,9 +232,9 @@
         "zh": "时时拂拭，勿惹尘埃。"
       },
       "description": {
-        "vi": "Quét sạch ô uế thế gian, gây 145% sát thương cho toàn thể kẻ địch, có 100% [tips_2] đính kèm [buff_3447_1] lên mục tiêu, duy trì đến khi kết thúc hồi, sau đó Hắc Liên rơi từ trời xuống tấn công mục tiêu kẻ địch, gây 145% sát thương, cứ mỗi 30% tỷ lệ HP Âm giảm đi, truy kích thêm 1 đoạn sát thương hắc liên.\nKhi ở trạng thái Dương, kỹ năng thay thế thành 『[skill_3443_1]』, cấp độ tăng theo cường hóa kỹ năng 『Vân Ngạn Tịnh Không』.",
+        "vi": "Quét sạch ô uế thế gian, gây 145% sát thương cho toàn thể kẻ địch, có 100% [tips_2] đính kèm [buff_3447_1] lên mục tiêu, duy trì đến khi kết thúc hồi, sau đó Hắc Liên rơi từ trời xuống tấn công mục tiêu kẻ địch, gây 145% sát thương, cứ mỗi 30% tỷ lệ HP Âm giảm đi, truy kích thêm 1 đoạn sát thương hắc liên.\nKhi ở trạng thái Dương, kỹ năng thay thế thành [skill_3443_1], cấp độ tăng theo cường hóa kỹ năng [Vân Ngạn Tịnh Không].",
         "en": "To cleanse all filth from the world, he attacks all enemies, dealing damage equal to 145% of his ATK. Has a 100% [tips_2] of inflicting [buff_3447_1] on all enemies, lasting until the round ends. He then sends a Black Lotus plunging upon 1 enemy, dealing damage equal to 145% of his ATK. For every 30% HP reduced when he's in Yin state, inflicts additional Black Lotus damage.\nWhen he's in Yang state, this skill is changed to [skill_3443_1] with a skill level equal to his World Purge skill level.",
-        "zh": "清扫世间污秽，对敌方全体造成攻击145%伤害，有100%[tips_2]对其附加[buff_3447_1]，持续至回目结束，然后天坠黑莲攻击敌方目标，造成攻击145%伤害，阴生命比例每降低30%，额外追加一段黑莲伤害。\n处于阳状态时，技能替换为『[skill_3443_1]』，等级随『云岸净空』技能强化。"
+        "zh": "清扫世间污秽，对敌方全体造成攻击145%伤害，有100%[tips_2]对其附加[buff_3447_1]，持续至回目结束，然后天坠黑莲攻击敌方目标，造成攻击145%伤害，阴生命比例每降低30%，额外追加一段黑莲伤害。\n处于阳状态时，技能替换为『[skill_3443_1]，等级随『云岸净空]技能强化。"
       },
       "upgrades": [
         {
@@ -183,10 +272,68 @@
       ],
       "orbCost": 3,
       "iconFile": "3446.png"
+    },
+    {
+      "id": 3443,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 3446,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Khổ Hải Phù Sinh",
+        "en": "Painful Life",
+        "zh": "苦海浮生"
+      },
+      "intro": {
+        "vi": "Minh kính chi tâm, từ bi vi hoài.",
+        "en": "To have a heart as clear as a mirror and to show compassion.",
+        "zh": "明镜之心，慈悲为怀。"
+      },
+      "description": {
+        "vi": "Khi ở trạng thái Dương, bản thân Vân Ngoại Kính nhận Kính Hựu.\n[Thi triển] Giúp 1 đồng minh nhận [buff_3444_1], tối đa khiến 2 đồng minh nhận Kính Hựu, duy trì đến khi kết thúc hồi. Đồng thời giúp toàn thể đồng minh tăng 20% thanh hành động. Khi bước vào trạng thái Âm, toàn bộ Kính Hựu bị gỡ bỏ.",
+        "en": "Ungaikyo gains Mirror's Protection when he's in Yang state.\nUsing the skill grants [buff_3444_1] to 1 ally. Up to 2 allies can have Mirror's Protection at the same time until the round ends. Raises the Move Bar of all allies by 20%. All Mirror's Protections are removed when he enters Yin state.",
+        "zh": "处于阳状态时，云外镜自身获得镜佑。\n【施放】使1个友方获得[buff_3444_1]，最多使2个友方获得镜佑，持续至回目结束。并使友方全体增加20%行动条。进入阴状态时，镜佑全部被移除。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Trị liệu của Kính Hựu tăng đến 480% phòng thủ.",
+            "en": "Increases the HP recovery efficiency of Mirror's Protection to 480% of his DEF.",
+            "zh": "镜佑恢复生命提升至防御480%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Số lượng giải trừ của Kính Hựu tăng đến 2.",
+            "en": "Increases the debuff amount and controlling effect dispelled by Mirror's Protection to 2.",
+            "zh": "镜佑驱散数量提升至2个"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tăng thanh hành động của Kính Hựu tăng đến 20%.",
+            "en": "Increases the Move Bar-raising effect of Mirror's Protection to 20%.",
+            "zh": "镜佑行动条增加效果提升至20%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Cứ mỗi 30% tỷ lệ HP Dương giảm đi, tiêu hao Quỷ Hỏa giảm 1 điểm.",
+            "en": "The skill costs 1 orb less for each 30% HP reduced in Yang state.",
+            "zh": "阳生命比例每降低30%，消耗鬼火减少1点"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "3443.png"
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "344.png",
+    "headIconFile": "344a.png"
   }
 }

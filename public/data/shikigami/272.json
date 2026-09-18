@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2170,
+      "value": 2385,
       "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12872,
+      "value": 13899,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
+      "value": 392,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 107,
+      "value": 117,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2721,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Phù · Phá",
@@ -64,15 +66,15 @@
         "zh": "什么都不用怕，有我在。"
       },
       "description": {
-        "vi": "Bắn ra bùa chú chứa đựng sức mạnh của gió tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất trộm [b_属性1数值_per] Tấn công, duy trì 2 lượt.",
-        "en": "Throws an amulet containing the power of the wind at an enemy, dealing damage equal to 125% of his ATK with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of draining [b_属性1数值_per] of the enemy's ATK for 2 turn(s).",
-        "zh": "打出蕴含风之力的符咒攻击敌方目标，造成攻击125%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率偷取[b_属性1数值_per]攻击，持续2回合。"
+        "vi": "Bắn ra bùa chú chứa đựng sức mạnh của gió tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 100% [tips_2] xác suất trộm 20% Tấn công, duy trì 2 lượt.",
+        "en": "Throws an amulet containing the power of the wind at an enemy, dealing damage equal to 125% of his ATK with a 100% (+Effect HIT) chance of draining 20% of the enemy's ATK for 2 turn(s).",
+        "zh": "打出蕴含风之力的符咒攻击敌方目标，造成攻击125%伤害并有100%（+效果命中）概率偷取20%攻击，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 2722,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "风符·护",
+        "vi": "Phong Phù · Hộ",
         "en": "风符·护",
         "zh": "风符·护"
       },
@@ -120,17 +124,17 @@
         "zh": "我的子民就由我来保护。"
       },
       "description": {
-        "vi": "Giúp mục tiêu phe ta nhận [buff_2722_1], có thể hấp thụ sát thương bằng [b_伤害吸收_per] giới hạn HP, duy trì 2 lượt.\nKhi [buff_2722_1] biến mất, gây cho toàn bộ phe địch sát thương bằng [b_参数p1_per] giới hạn HP của bản thân, và đẩy lùi 20% Thanh Hành Động của phe địch.",
-        "en": "Grants [buff_2722_1] to 1 ally, absorbing damage equal to [b_伤害吸收_per] of his max HP for 2 turns.\nWhen [buff_2722_1] disappears, it deals damage to all enemies equal to [b_参数p1_per] of his max HP and lowers the Move Bar of enemies by 20%.",
-        "zh": "使友方目标获得[buff_2722_1]，能吸收[b_伤害吸收_per]生命上限的伤害，持续2回合。\n[buff_2722_1]消失时，对敌方全体造成自身生命上限[b_参数p1_per]伤害，并击退敌方行动条20%。"
+        "vi": "Giúp mục tiêu phe ta nhận [buff_2722_1], có thể hấp thụ sát thương bằng 20% giới hạn HP, duy trì 2 lượt.\nKhi [buff_2722_1] biến mất, gây cho toàn bộ phe địch sát thương bằng 12% giới hạn HP của bản thân, và đẩy lùi 20% Thanh Hành Động của phe địch.",
+        "en": "Grants [buff_2722_1] to 1 ally, absorbing damage equal to 20% of his max HP for 2 turns.\nWhen [buff_2722_1] disappears, it deals damage to all enemies equal to 12% of his max HP and lowers the Move Bar of enemies by 20%.",
+        "zh": "使友方目标获得[buff_2722_1]，能吸收20%生命上限的伤害，持续2回合。\n[buff_2722_1]消失时，对敌方全体造成自身生命上限12%伤害，并击退敌方行动条20%。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Lượng hấp thụ của [buff_2722_1] tăng lên [b_伤害吸收_per]",
-            "en": "Increases the damage absorbed by [buff_2722_1] to [b_伤害吸收_per].",
-            "zh": "[buff_2722_1]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ của [buff_2722_1] tăng lên 20%",
+            "en": "Increases the damage absorbed by [buff_2722_1] to 20%.",
+            "zh": "[buff_2722_1]吸收量增至20%"
           }
         },
         {
@@ -164,9 +168,11 @@
     {
       "id": 2723,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 9,
       "name": {
-        "vi": "风神之佑",
+        "vi": "Phong Thần Chi Hộ",
         "en": "风神之佑",
         "zh": "风神之佑"
       },
@@ -176,57 +182,41 @@
         "zh": "龙啊，把你的力量借给我。"
       },
       "description": {
-        "vi": "Giúp toàn bộ phe ta nhận [tips_6] không thể xua tan, có thể hấp thụ sát thương bằng [b_伤害吸收_per] giới hạn HP và tăng [b_属性1数值_per] Tấn công, [b_属性2数值_per] Kháng Hiệu Ứng, duy trì 2 lượt.",
-        "en": "Creates [tips_6]s (cannot be dispelled) lasting 2 turn(s) on each of his allies, absorbing damage equal to [b_伤害吸收_per] of his max HP and increasing their ATK and Effect RES by [b_属性1数值_per] and [b_属性2数值_per], respectively.",
-        "zh": "使友方全体获得无法驱散的[tips_6]，能吸收[b_伤害吸收_per]生命上限的伤害并提升[b_属性1数值_per]攻击、[b_属性2数值_per]效果抵抗，持续2回合。"
+        "vi": "Giúp toàn bộ phe ta nhận [tips_6] không thể xua tan, có thể hấp thụ sát thương bằng 1.5% giới hạn HP và tăng 10% Tấn công, 15% Kháng Hiệu Ứng, duy trì 2 lượt.",
+        "en": "Creates [tips_6]s (cannot be dispelled) lasting 2 turn(s) on each of his allies, absorbing damage equal to 1.5% of his max HP and increasing their ATK and Effect RES by 10% and 15%, respectively.",
+        "zh": "使友方全体获得无法驱散的[tips_6]，能吸收1.5%生命上限的伤害并提升10%攻击、15%效果抵抗，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Lượng hấp thụ của [buff_2723_1] tăng lên [b_伤害吸收_per]",
-            "en": "Increases the damage absorbed by [buff_2723_1] to [b_伤害吸收_per].",
-            "zh": "[buff_2723_1]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ [tips_6] tăng lên 15%",
+            "en": "Increases damage absorbed by [tips_6] to 15%.",
+            "zh": "[tips_6]吸收量增至15%"
           }
         },
         {
           "level": 2,
           "text": {
-            "vi": "Lượng hấp thụ của [buff_2723_1] tăng lên [b_伤害吸收_per]",
-            "en": "Increases the damage absorbed by [buff_2723_1] to [b_伤害吸收_per].",
-            "zh": "[buff_2723_1]吸收量增至[b_伤害吸收_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên [b_伤害吸收_per]",
-            "en": "Increases damage absorbed by [tips_6] to [b_伤害吸收_per].",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ của [buff_2723_1] tăng lên 15%",
+            "en": "Increases the damage absorbed by [buff_2723_1] to 15%.",
+            "zh": "[buff_2723_1]吸收量增至15%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Lượng hấp thụ của [buff_2723_1] tăng lên [b_伤害吸收_per]",
-            "en": "Increases the damage absorbed by [buff_2723_1] to [b_伤害吸收_per].",
-            "zh": "[buff_2723_1]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ [tips_6] tăng lên 18%",
+            "en": "Increases damage absorbed by [tips_6] to 18%.",
+            "zh": "[tips_6]吸收量增至18%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Lượng hấp thụ của [buff_2723_1] tăng lên [b_伤害吸收_per]",
-            "en": "Increases the damage absorbed by [buff_2723_1] to [b_伤害吸收_per].",
-            "zh": "[buff_2723_1]吸收量增至[b_伤害吸收_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên [b_伤害吸收_per]",
-            "en": "Increases damage absorbed by [tips_6] to [b_伤害吸收_per].",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ của [buff_2723_1] tăng lên 18%",
+            "en": "Increases the damage absorbed by [buff_2723_1] to 18%.",
+            "zh": "[buff_2723_1]吸收量增至18%"
           }
         },
         {
@@ -240,17 +230,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi thi triển trùng lặp cho phe ta mang [buff_2723_1], tăng thêm 20% Tấn công và 30% Kháng Hiệu Ứng cho kẻ đó, duy trì 1 lượt",
-            "en": "Using the skill on allies with [buff_2723_1] grants them an additional 20% ATK Bonus and 30% Effect RES Bonus for 1 turn.",
-            "zh": "对携带[buff_2723_1]的友方重复施放时，额外为其提供20%攻击加成和30%效果抵抗，持续1个回合"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên [b_伤害吸收_per]",
-            "en": "Increases damage absorbed by [tips_6] to [b_伤害吸收_per].",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ [tips_6] tăng lên 18%",
+            "en": "Increases damage absorbed by [tips_6] to 18%.",
+            "zh": "[tips_6]吸收量增至18%"
           }
         },
         {
@@ -264,25 +246,17 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi thi triển trùng lặp cho phe ta mang [buff_2723_1], hồi phục thêm lượng HP bằng 80% Lượng Lá Chắn Còn Lại cho kẻ đó",
-            "en": "Using the skill on allies with [buff_2723_1] additionally recovers their HP by 80% of the remaining HP of the shield.",
-            "zh": "对携带[buff_2723_1]的友方重复施放时，额外为其恢复剩余护盾量80%的生命"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên [b_伤害吸收_per]",
-            "en": "Increases damage absorbed by [tips_6] to [b_伤害吸收_per].",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ [tips_6] tăng lên 18%",
+            "en": "Increases damage absorbed by [tips_6] to 18%.",
+            "zh": "[tips_6]吸收量增至18%"
           }
         },
         {
           "level": 6,
           "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên [b_伤害吸收_per]",
-            "en": "Increases damage absorbed by [tips_6] to [b_伤害吸收_per].",
-            "zh": "[tips_6]吸收量增至[b_伤害吸收_per]"
+            "vi": "Lượng hấp thụ [tips_6] tăng lên 0.01%",
+            "en": "Increases damage absorbed by [tips_6] to 0.01%.",
+            "zh": "[tips_6]吸收量增至0.01%"
           }
         }
       ],
@@ -291,7 +265,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "272.png",
+    "headIconFile": "272a.png"
   }
 }

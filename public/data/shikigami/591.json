@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3644,
+      "value": 3913,
       "grade": "SS"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11779,
-      "grade": "A"
+      "value": 12920,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 505,
+      "value": 549,
       "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 107,
+      "value": 117,
       "grade": "A"
     },
     {
@@ -44,7 +44,7 @@
     }
   ],
   "secondaryStats": {
-    "critDamage": "150%",
+    "critDamage": "160%",
     "effectHit": "0%",
     "effectRes": "0%"
   },
@@ -52,6 +52,8 @@
     {
       "id": 5911,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tuyết Lập · Cắt",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,9 +110,11 @@
     {
       "id": 5912,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Long Đởm · Nở",
+        "vi": "Long Đảm · Nở",
         "en": "Gentian: Bloom",
         "zh": "龙胆·绽"
       },
@@ -120,8 +124,8 @@
         "zh": "急花开尽处，风雪正叩门。"
       },
       "description": {
-        "vi": "Lưỡi kiếm gánh chịu phong tuyết, đóa hoa này gắn liền chốn về. Mỗi lần tấn công đơn thể, nhận 1 tầng [buff_5913_1]. Khi đánh bại mục tiêu kẻ địch không phải vật triệu hồi, triệu hồi [tips_5911] tại vị trí thanh hành động của mục tiêu đó. Khi Long Đởm Lam Ly hành động, phóng ra lưỡi thủy tinh, gây lượng sát thương bằng 50% giới hạn HP hiện tại của Long Đởm Lam Ly cho mục tiêu có HP thấp nhất của kẻ địch. Khi Long Đởm Lam Ly ở trên sân, Yuki Gozen miễn dịch sát thương nhận phải.\n【[Thi triển]】 Triệu hồi Long Đởm Lam Ly.",
-        "en": "The blade bears the snow, and this flower marks the way home. Gains 1 stack of [buff_5913_1] for each single-target attack. When defeating a non-summoned enemy, summons [tips_5911] at their Move Bar. When Gentian Glass acts, glass blades strike the enemy with the lowest HP, dealing damage equal to 50% of Gentian Glass's max HP. While Gentian Glass is on the battlefield, Yuki Gozen is immune to all damage.\nUpon casting, summons Gentian Glass.",
+        "vi": "Lưỡi kiếm gánh chịu phong tuyết, đóa hoa này gắn liền chốn về. Mỗi lần tấn công đơn thể, nhận 1 tầng [buff_5913_1]. Khi đánh bại mục tiêu kẻ địch không phải vật triệu hồi, triệu hồi [tips_5911] tại vị trí thanh hành động của mục tiêu đó. Khi Long Đảm Lam Ly hành động, phóng ra lưỡi thủy tinh, gây lượng sát thương bằng 50% giới hạn HP hiện tại của Long Đảm Lam Ly cho mục tiêu có HP thấp nhất của kẻ địch. Khi Long Đảm Lam Ly ở trên sân, Tuyết Ngự Tiền miễn dịch sát thương nhận phải.\n[Thi triển] Triệu hồi Long Đảm Lam Ly.",
+        "en": "The blade bears the snow, and this flower marks the way home. Gains 1 stack of [buff_5913_1] for each single-target attack. When defeating a non-summoned enemy, summons [tips_5911] at their Move Bar. When Gentian Glass acts, glass blades strike the enemy with the lowest HP, dealing damage equal to 50% of Gentian Glass's max HP. While Gentian Glass is on the battlefield, Tuyết Ngự Tiền is immune to all damage.\nUpon casting, summons Gentian Glass.",
         "zh": "剑刃承风雪，此花系归途。每次单体攻击时，获得1层[buff_5913_1]。击败非召唤物敌方目标时，在其行动条处召唤[tips_5911]。龙胆蓝璃行动时，飞出璃刃，对敌方生命最低的目标造成龙胆蓝璃当前生命上限50%的伤害。龙胆蓝璃在场时，雪御前免疫受到的伤害。\n【施放】召唤龙胆蓝璃。"
       },
       "upgrades": [
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "HP Long Đởm Lam Ly tăng lên 280% tấn công ban đầu.",
-            "en": "Raises Gentian Glass's HP to 280% of starting ATK.",
-            "zh": "龙胆蓝璃生命提升至初始攻击的280%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "HP Long Đởm Lam Ly tăng lên 320% tấn công ban đầu.",
-            "en": "Raises Gentian Glass's HP to 320% of starting ATK.",
-            "zh": "龙胆蓝璃生命提升至初始攻击的320%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "HP Long Đởm Lam Ly tăng lên 320% tấn công ban đầu.",
@@ -163,22 +151,6 @@
             "vi": "HP Long Đởm Lam Ly tăng lên 360% tấn công ban đầu.",
             "en": "Raises Gentian Glass's HP to 360% of starting ATK.",
             "zh": "龙胆蓝璃生命提升至初始攻击的360%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "HP Long Đởm Lam Ly tăng lên 360% tấn công ban đầu.",
-            "en": "Raises Gentian Glass's HP to 360% of starting ATK.",
-            "zh": "龙胆蓝璃生命提升至初始攻击的360%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi bắt đầu chiến đấu, triệu hồi Long Đởm Lam Ly.",
-            "en": "At the start of battle, summons Gentian Glass.",
-            "zh": "战斗开始时，召唤龙胆蓝璃"
           }
         },
         {
@@ -196,6 +168,8 @@
     {
       "id": 5913,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Tuyết · Trảm",
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "xueyuqian.png",
-    "headIconFile": "h_xueyuqian.png"
+    "portraitFile": "591.png",
+    "headIconFile": "591a.png"
   }
 }

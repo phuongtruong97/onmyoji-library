@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2546,
-      "grade": "B"
+      "value": 2787,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 8202,
+      "value": 9114,
       "grade": "D"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 454,
-      "grade": "A"
+      "value": 507,
+      "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 104,
-      "grade": "B"
+      "value": 114,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3651,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tước Trác",
@@ -108,6 +110,8 @@
     {
       "id": 3652,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phụ Thân",
@@ -120,7 +124,7 @@
         "zh": "我能实现你的心愿！"
       },
       "description": {
-        "vi": "[tips_11].\n[tips_7]: [tips_3652] đơn vị có Tấn công cao nhất của đồng minh.\nĐơn vị được Phụ Thân khi chịu sát thương chí mạng, miễn nhiễm sát thương lần đó và tiêu hao [tips_3652], khấu trừ HP tối đa hiện tại xuống 1 điểm, nhận lượng [buff_3651_1] tương đương lượng giới hạn HP bị khấu trừ (không vượt quá 4000% Phòng thủ ban đầu của Nhập Nội Tước), sau đó không thể nhận Hủ Huyết nữa. Khi Phụ Thân bị tiêu hao, xác suất hiệp chiến của Nhập Nội Tước nâng lên 100%, đơn vị được Phụ Thân xua tan hoặc [tips_1] tất cả khống chế, tăng 100% Thanh Hành Động.\n【Thi triển】 Chuyển dịch [tips_3652] sang một đơn vị đồng minh khác.",
+        "vi": "[tips_11].\n[tips_7]: [tips_3652] đơn vị có Tấn công cao nhất của đồng minh.\nĐơn vị được Phụ Thân khi chịu sát thương chí mạng, miễn nhiễm sát thương lần đó và tiêu hao [tips_3652], khấu trừ HP tối đa hiện tại xuống 1 điểm, nhận lượng [buff_3651_1] tương đương lượng giới hạn HP bị khấu trừ (không vượt quá 4000% Phòng thủ ban đầu của Nhập Nội Tước), sau đó không thể nhận Hủ Huyết nữa. Khi Phụ Thân bị tiêu hao, xác suất hiệp chiến của Nhập Nội Tước nâng lên 100%, đơn vị được Phụ Thân xua tan hoặc [tips_1] tất cả khống chế, tăng 100% Thanh Hành Động.\n[Thi triển] Chuyển dịch [tips_3652] sang một đơn vị đồng minh khác.",
         "en": "[tips_11].\n[tips_7]: [tips_3652]es the ally with the highest ATK.\nWhen the possessed unit takes lethal damage, they cease to be [tips_3652]ed, negating the damage, deducting their max HP to 1, and granting them an amount of [buff_3651_1] equal to the amount of max HP deducted (max 4,000% of Nyunai-suzume's starting DEF). Then, they can no longer gain Decayed Blood. When the possessed unit cease to be possessed, increases Nyunai-suzume's chance of Assisting to 100%, dispels or [tips_1]s all controlling effects on them, and raises their Move Bar by 100%.\nActive skill: [tips_3652]es another ally instead.",
         "zh": "[tips_11]。\n[tips_7]：[tips_3652]友方攻击力最高的单位。\n附身单位受到致命伤害时，免疫该次伤害并消耗[tips_3652]，扣除当前生命上限到1点，获得扣除生命上限等量的[buff_3651_1]（不超过入内雀初始防御4000%），之后无法再获得腐血。附身被消耗时，入内雀协战概率提升至100%附身单位驱散或[tips_1]所有控制，增加100%行动条。\n【施放】转移[tips_3652]到另外一个友方单位。"
       },
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Đơn vị được Phụ Thân nhận Phòng thủ ban đầu của Nhập Nội Tước (tối đa không quá 100% Phòng thủ ban đầu của bản thân đơn vị đó)",
-            "en": "The possessed unit gains DEF equal to Nyunai-suzume's starting DEF (max 100% of the unit's starting DEF).",
-            "zh": "附身单位会获得入内雀的初始防御（最多不超过该单位自身初始防御100%）"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Nhập Nội Tước nhận Tấn công ban đầu của đơn vị được Phụ Thân (tối đa không quá 100% Tấn công ban đầu của bản thân)",
-            "en": "Nyunai-suzume gains ATK equal to the possessed unit's starting ATK (max 100% of his own starting ATK).",
-            "zh": "入内雀获得附身单位的初始攻击（最多不超过自身初始攻击100%）"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Nhập Nội Tước nhận Tấn công ban đầu của đơn vị được Phụ Thân (tối đa không quá 100% Tấn công ban đầu của bản thân)",
@@ -160,25 +148,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi Phụ Thân bị tiêu hao, xác suất hiệp chiến của Nhập Nội Tước nâng lên 100%",
+            "vi": "Khi Phụ Thân bị tiêu hao, xác suất hiệp chiến của Nhập Nội Tước tăng lên 100%",
             "en": "When the possessed unit ceases to be possessed, increases Nyunai-suzume's chance of Assisting to 100%.",
             "zh": "附身被消耗时，入内雀协战概率提升至100%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Khi Phụ Thân bị tiêu hao, xác suất hiệp chiến của Nhập Nội Tước nâng lên 100%",
-            "en": "When the possessed unit ceases to be possessed, increases Nyunai-suzume's chance of Assisting to 100%.",
-            "zh": "附身被消耗时，入内雀协战概率提升至100%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi Phụ Thân bị tiêu hao, đơn vị được Phụ Thân xua tan hoặc [tips_1] tất cả khống chế, tăng 100% Thanh Hành Động",
-            "en": "When the possessed unit ceases to be possessed, dispels or [tips_1]s all controlling effects on them and raises their Move Bar by 100%.",
-            "zh": "附身被消耗时，附身单位驱散或[tips_1]所有控制，增加100%行动条"
           }
         },
         {
@@ -196,6 +168,8 @@
     {
       "id": 3653,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hủ Hóa",
@@ -232,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Hiệu ứng Hủ Huyết nâng lên giới hạn HP bằng 2000% Phòng thủ của Nhập Nội Tước",
+            "vi": "Hiệu ứng Hủ Huyết tăng lên giới hạn HP bằng 2000% Phòng thủ của Nhập Nội Tước",
             "en": "Increases Decayed Blood's effect to 2,000% of Nyunai-suzume's DEF.",
             "zh": "腐血效果提升至入内雀防御2000%的生命上限"
           }
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "runeique.png",
-    "headIconFile": "h_runeique.png"
+    "portraitFile": "365.png",
+    "headIconFile": "365a.png"
   }
 }

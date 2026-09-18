@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2144,
+      "value": 2385,
       "grade": "C"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11961,
-      "grade": "A"
+      "value": 13330,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 374,
-      "grade": "C"
+      "value": 415,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 106,
+      "value": 116,
       "grade": "A"
     },
     {
@@ -52,9 +52,11 @@
     {
       "id": 2271,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "挥斩",
+        "vi": "Huy Trảm",
         "en": "挥斩",
         "zh": "挥斩"
       },
@@ -64,23 +66,15 @@
         "zh": "铠甲不坚，长刀不利，魂魄不保！"
       },
       "description": {
-        "vi": "Vung trường đao chém mục tiêu kẻ địch, gây sát thương bằng 420% Phòng thủ. Khi thi triển trong lượt, có 30% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất [tips_100] mục tiêu. (Sát thương tối đa không vượt quá 400% Tấn công ban đầu)",
-        "en": "Slashes an enemy target with a longsword, dealing damage equal to 420% of DEF. If used out of turn, damage is increased by 200%. When used during the turn, has a 30%% (+[*|a_debuff-acc_per|s_buff概率_per]%) chance to [tips_100] the target. (Damage cannot exceed 400% of starting ATK.)",
-        "zh": "挥舞长刀斩击敌方目标，造成防御420%伤害。回合外施放时，伤害提升200%。回合内施放时，有30%（+[*|a_debuff-acc_per|s_buff概率_per]）概率[tips_100]目标。（伤害至多不超过初始攻击的400%）"
+        "vi": "Vung trường đao chém mục tiêu kẻ địch, gây sát thương bằng 420% Phòng thủ. Khi thi triển trong lượt, có 30% [tips_2] xác suất [tips_100] mục tiêu. (Sát thương tối đa không vượt quá 400% Tấn công ban đầu)",
+        "en": "Slashes an enemy target with a longsword, dealing damage equal to 420% of DEF. If used out of turn, damage is increased by 200%. When used during the turn, has a 30%% (+Effect HIT%) chance to [tips_100] the target. (Damage cannot exceed 400% of starting ATK.)",
+        "zh": "挥舞长刀斩击敌方目标，造成防御420%伤害。回合外施放时，伤害提升200%。回合内施放时，有30%（+效果命中）概率[tips_100]目标。（伤害至多不超过初始攻击的400%）"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至340%",
-            "en": "伤害增加至340%",
-            "zh": "伤害增加至340%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至340%",
+            "vi": "Sát thương tăng lên 340%",
             "en": "伤害增加至340%",
             "zh": "伤害增加至340%"
           }
@@ -88,15 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至380%",
-            "en": "伤害增加至380%",
-            "zh": "伤害增加至380%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至380%",
+            "vi": "Sát thương tăng lên 380%",
             "en": "伤害增加至380%",
             "zh": "伤害增加至380%"
           }
@@ -104,25 +90,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至420%",
+            "vi": "Sát thương tăng lên 420%",
             "en": "伤害增加至420%",
             "zh": "伤害增加至420%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至420%",
-            "en": "伤害增加至420%",
-            "zh": "伤害增加至420%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Khi thi triển trong lượt, có 30% xác suất cơ bản đính kèm [tips_100] cho mục tiêu, duy trì 1 lượt.",
-            "en": "When used during the turn, has a 30% base chance to inflict [tips_100] on the target, lasting 1 turn.",
-            "zh": "回合内施放时，有30%基础概率对目标施加[tips_100]，持续1回合"
           }
         },
         {
@@ -140,6 +110,8 @@
     {
       "id": 2272,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Kiên Giáp",
@@ -152,9 +124,9 @@
         "zh": "在下会接下你的所有攻击！"
       },
       "description": {
-        "vi": "Tỷ lệ HP mỗi giảm 20%, tăng [b_属性1数值_per] Phòng thủ cho toàn bộ đồng minh. Mỗi lượt khi lần đầu chịu đòn đánh thường của kẻ địch, phản kích nguồn gây ra. Khi đồng minh chịu đòn đánh thường của kẻ địch, Binh Dũng gánh chịu 65% sát thương (trong thời gian này không kích hoạt Ngự Hồn của bản thân).",
-        "en": "For every 20% decrease in HP, increases all allies' DEF by [b_属性1数值_per]. Counters the attacker when hit by an enemy's normal attack for the first time each turn. When allies are hit by enemy normal attacks, Samurai X takes 65% of the damage (own Soul effects do not trigger during this time).",
-        "zh": "生命比例每降低20%，提升全体友方[b_属性1数值_per]防御。每回合首次受到敌方普攻时，反击目标来源。友方受到敌方普攻时，兵俑承担65%伤害（期间不触发自身御魂）。"
+        "vi": "Tỷ lệ HP mỗi giảm 20%, tăng 12% Phòng thủ cho toàn bộ đồng minh. Mỗi lượt khi lần đầu chịu đòn đánh thường của kẻ địch, phản kích nguồn gây ra. Khi đồng minh chịu đòn đánh thường của kẻ địch, Binh Dũng gánh chịu 65% sát thương (trong thời gian này không kích hoạt Ngự Hồn của bản thân).",
+        "en": "For every 20% decrease in HP, increases all allies' DEF by 12%. Counters the attacker when hit by an enemy's normal attack for the first time each turn. When allies are hit by enemy normal attacks, Samurai X takes 65% of the damage (own Soul effects do not trigger during this time).",
+        "zh": "生命比例每降低20%，提升全体友方12%防御。每回合首次受到敌方普攻时，反击目标来源。友方受到敌方普攻时，兵俑承担65%伤害（期间不触发自身御魂）。"
       },
       "upgrades": [
         {
@@ -196,6 +168,8 @@
     {
       "id": 2273,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Kiên Bất Khả Trợ",
@@ -208,41 +182,41 @@
         "zh": "没有人能击破我的防御！"
       },
       "description": {
-        "vi": "Hóa thạch bản thân, có 50% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất [tips_100] toàn bộ kẻ địch, duy trì 1 lượt, đồng thời giúp bản thân nhận [b2_属性1数值_per] Phòng thủ.",
-        "en": "Hardens self, with a 50% (+[*|a_debuff-acc_per|s_buff概率_per]) chance to [tips_100] all enemies, lasting 1 turn, and grants self [b2_属性1数值_per] DEF.",
-        "zh": "石化自身，50%（+[*|a_debuff-acc_per|s_buff概率_per]）概率对敌方全体[tips_100]，持续1回合，并使自身获得[b2_属性1数值_per]防御。"
+        "vi": "Hóa thạch bản thân, có 50% [tips_2] xác suất [tips_100] toàn bộ kẻ địch, duy trì 1 lượt, đồng thời giúp bản thân nhận 150% Phòng thủ.",
+        "en": "Hardens self, with a 50% (+Effect HIT) chance to [tips_100] all enemies, lasting 1 turn, and grants self 150% DEF.",
+        "zh": "石化自身，50%（+效果命中）概率对敌方全体[tips_100]，持续1回合，并使自身获得150%防御。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Hiệu ứng tăng Phòng thủ hóa thạch tăng lên [b2_属性1数值_per]",
-            "en": "DEF boost effect from Hardened increases to [b2_属性1数值_per].",
-            "zh": "石化防御提升效果增至[b2_属性1数值_per]"
+            "vi": "Hiệu ứng tăng Phòng thủ hóa thạch tăng lên 110%",
+            "en": "DEF boost effect from Hardened increases to 110%.",
+            "zh": "石化防御提升效果增至110%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Hiệu ứng tăng Phòng thủ hóa thạch tăng lên [b2_属性1数值_per]",
-            "en": "DEF boost effect from Hardened increases to [b2_属性1数值_per].",
-            "zh": "石化防御提升效果增至[b2_属性1数值_per]"
+            "vi": "Hiệu ứng tăng Phòng thủ hóa thạch tăng lên 120%",
+            "en": "DEF boost effect from Hardened increases to 120%.",
+            "zh": "石化防御提升效果增至120%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Hiệu ứng tăng Phòng thủ hóa thạch tăng lên [b2_属性1数值_per]",
-            "en": "DEF boost effect from Hardened increases to [b2_属性1数值_per].",
-            "zh": "石化防御提升效果增至[b2_属性1数值_per]"
+            "vi": "Hiệu ứng tăng Phòng thủ hóa thạch tăng lên 130%",
+            "en": "DEF boost effect from Hardened increases to 130%.",
+            "zh": "石化防御提升效果增至130%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Hiệu ứng tăng Phòng thủ hóa thạch tăng lên [b2_属性1数值_per]",
-            "en": "DEF boost effect from Hardened increases to [b2_属性1数值_per].",
-            "zh": "石化防御提升效果增至[b2_属性1数值_per]"
+            "vi": "Hiệu ứng tăng Phòng thủ hóa thạch tăng lên 150%",
+            "en": "DEF boost effect from Hardened increases to 150%.",
+            "zh": "石化防御提升效果增至150%"
           }
         }
       ],
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "227.png",
+    "headIconFile": "227a.png"
   }
 }

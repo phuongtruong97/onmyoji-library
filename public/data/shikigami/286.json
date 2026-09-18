@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2974,
+      "value": 3270,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
+      "value": 10026,
       "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 361,
+      "value": 397,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 100,
-      "grade": "B"
+      "value": 110,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2861,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Chi Vũ",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至65%",
+            "vi": "Sát thương tăng lên 65%",
             "en": "伤害增加至65%",
             "zh": "伤害增加至65%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至70%",
+            "vi": "Sát thương tăng lên 70%",
             "en": "伤害增加至70%",
             "zh": "伤害增加至70%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至75%",
+            "vi": "Sát thương tăng lên 75%",
             "en": "伤害增加至75%",
             "zh": "伤害增加至75%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害增加至85%",
             "zh": "伤害增加至85%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2862,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 7,
       "name": {
         "vi": "Hoàng Kim Vũ",
@@ -136,25 +140,9 @@
         {
           "level": 2,
           "text": {
-            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 7%, 21%, 42%",
-            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 7%, 21% and 42% respectively.",
-            "zh": "黄金羽的减疗和易伤效果根据层数增至7%、21%、42%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
             "vi": "Hiệu ứng tăng thương, giảm trị liệu tăng lên 6%",
             "en": "Increases each effect of debuff to 6%.",
             "zh": "增伤效果、减疗效果提升至6%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 8%, 24%, 48%",
-            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 8%, 24% and 48% respectively.",
-            "zh": "黄金羽的减疗和易伤效果根据层数增至8%、24%、48%"
           }
         },
         {
@@ -184,25 +172,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 9%, 27%, 54%",
-            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 9%, 27% and 54% respectively.",
-            "zh": "黄金羽的减疗和易伤效果根据层数增至9%、27%、54%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
             "vi": "Hiệu ứng tăng thương, giảm trị liệu tăng lên 8%",
             "en": "Increases each effect of debuff to 8%.",
             "zh": "增伤效果、减疗效果提升至8%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Hiệu ứng giảm trị liệu và tăng thương gánh chịu của Hoàng Kim Vũ dựa theo số tầng tăng lên 10%, 30%, 60%",
-            "en": "Golden Feather's Damage Down and Vulnerability effects increased to 10%, 30% and 60% respectively.",
-            "zh": "黄金羽的减疗和易伤效果根据层数增至10%、30%、60%"
           }
         },
         {
@@ -232,9 +204,9 @@
         {
           "level": 7,
           "text": {
-            "vi": "[buff_2862_1] hiệu ứng giảm trị liệu, tăng thương gánh chịu tăng lên [b_属性1数值_per]",
-            "en": "Increases [buff_2862_1]'s Heal Down and Vulnerability effect to [b_属性1数值_per].",
-            "zh": "[buff_2862_1]减疗、易伤效果增至[b_属性1数值_per]"
+            "vi": "[buff_2862_1] hiệu ứng giảm trị liệu, tăng thương gánh chịu tăng lên 0%",
+            "en": "Increases [buff_2862_1]'s Heal Down and Vulnerability effect to 0%.",
+            "zh": "[buff_2862_1]减疗、易伤效果增至0%"
           }
         }
       ],
@@ -244,6 +216,8 @@
     {
       "id": 2863,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Vũ Phong Chi Vũ",
@@ -299,7 +273,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_yijinzhentian.png"
+    "portraitFile": "286.png",
+    "headIconFile": "286a.png"
   }
 }

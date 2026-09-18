@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2760,
-      "grade": "A"
+      "value": 3055,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9455,
-      "grade": "C"
+      "value": 10482,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 370,
-      "grade": "C"
+      "value": 415,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,9 +52,11 @@
     {
       "id": 2011,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "雪球",
+        "vi": "Tuyết Cầu",
         "en": "雪球",
         "zh": "雪球"
       },
@@ -64,15 +66,15 @@
         "zh": "呵，接招吧。"
       },
       "description": {
-        "vi": "Ném cầu tuyết tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, đồng thời có 50%（+[*|a_debuff-acc_per|s_buff概率_per]） xác suất giảm [b_属性1数值_abs] điểm tốc độ, duy trì 2 lượt.",
-        "en": "Throws a snowball at 1 enemy, dealing damage equal to 120% of her ATK with a 50% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of slowing their SPD by [b_属性1数值_abs] for 2 turn(s).",
-        "zh": "扔出雪球攻击敌方目标，造成攻击120%伤害，并有50%（+[*|a_debuff-acc_per|s_buff概率_per]）概率降低[b_属性1数值_abs]点速度，持续2回合。"
+        "vi": "Ném cầu tuyết tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, đồng thời có 50%（+Chính Xác Hiệu Ứng） xác suất giảm 10 điểm tốc độ, duy trì 2 lượt.",
+        "en": "Throws a snowball at 1 enemy, dealing damage equal to 120% of her ATK with a 50% (+Effect HIT) chance of slowing their SPD by 10 for 2 turn(s).",
+        "zh": "扔出雪球攻击敌方目标，造成攻击120%伤害，并有50%（+效果命中）概率降低10点速度，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -80,15 +82,15 @@
         {
           "level": 3,
           "text": {
-            "vi": "Có 25% [tips_2] khiến mục tiêu giảm tốc [b_属性1数值_abs] điểm, duy trì 2 lượt",
-            "en": "Has a 25% [tips_2] of slowing target's SPD by [b_属性1数值_abs] for 2 turn(s).",
-            "zh": "有25%[tips_2]使目标减速[b_属性1数值_abs]点，持续2回合"
+            "vi": "Có 25% [tips_2] khiến mục tiêu giảm tốc 10 điểm, duy trì 2 lượt",
+            "en": "Has a 25% [tips_2] of slowing target's SPD by 10 for 2 turn(s).",
+            "zh": "有25%[tips_2]使目标减速10点，持续2回合"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至120%",
+            "vi": "Sát thương tăng lên 120%",
             "en": "伤害增加至120%",
             "zh": "伤害增加至120%"
           }
@@ -106,11 +108,71 @@
       "iconFile": "2011.png"
     },
     {
-      "id": 2013,
+      "id": 2012,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "暴风雪",
+        "vi": "Băng Giáp Thuật",
+        "en": "冰甲术",
+        "zh": "冰甲术"
+      },
+      "intro": {
+        "vi": "Gầm vang lên nào, băng tinh!",
+        "en": "呼啸吧，冰晶。",
+        "zh": "呼啸吧，冰晶。"
+      },
+      "description": {
+        "vi": "Khi kết thúc lượt, bản thân và 2 đồng minh có sát thương bạo kích cao nhất đồng thời nhận [buff_2012_1], có thể hấp thụ sát thương bằng 12% giới hạn HP, [tips_15] trong 1 lượt.",
+        "en": "At the end of her turn, creates an [buff_2012_1] [tips_15] for 1 turn) to protect herself and 2 allies with the highest Crit DMG, absorbing damage equal to 12% of her max HP.",
+        "zh": "回合结束时，自身和暴击伤害最高的2位友方同时获得[buff_2012_1]，能吸收12%生命上限的伤害，[tips_15]1回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thụ của [buff_2012_1] tăng đến 9%",
+            "en": "Increases the damage absorbed by [buff_2012_1] to 9%.",
+            "zh": "[buff_2012_1]吸收量增至9%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi bị tấn công, [buff_2012_1] có 25% [tips_2] khiến bên tấn công giảm tốc 10 điểm, duy trì 2 lượt",
+            "en": "When attacked, her [buff_2012_1] has a 25% [tips_2] of slowing the attacker by 10 for 2 turns.",
+            "zh": "被攻击时，[buff_2012_1]有25%[tips_2]使攻击方减速10点，持续2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng hấp thụ của [buff_2012_1] tăng đến 12%",
+            "en": "Increases the damage absorbed by [buff_2012_1] to 12%.",
+            "zh": "[buff_2012_1]吸收量增至12%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "[tips_2] giảm tốc tăng đến 50%",
+            "en": "Increases [tips_2] of inflicting Slow to 50%.",
+            "zh": "减速[tips_2]增至50%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2012.png"
+    },
+    {
+      "id": 2013,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bạo Phong Tuyết",
         "en": "暴风雪",
         "zh": "暴风雪"
       },
@@ -120,15 +182,15 @@
         "zh": "冻结一切的洪荒之雪。"
       },
       "description": {
-        "vi": "Triệu hồi bão tuyết tấn công toàn bộ kẻ địch 3 lần, mỗi lần gây sát thương bằng 36% Tấn công, đồng thời có 8%（+[*|a_debuff-acc_per|s_buff概率_per]） xác suất khiến mục tiêu [tips_101] trong 1 lượt. Nếu kẻ địch mang hiệu ứng giảm tốc, xác suất cuối cùng tăng 10%. Nếu mục tiêu là quái vật, [tips_2] tăng lên 25%.\nKhi tấn công lại mục tiêu bị [tips_101], có 30% xác suất chuyển hóa thành [tips_112]. Nếu mục tiêu là quái vật, đổi thành [tips_101] 2 lượt.",
-        "en": "Summons a blizzard to inflict a 3-strike attack on all enemies, dealing damage equal to 36% of his ATK on each strike, with a 8% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_101] lasting 1 turn. If the enemy has Slow, increases the final chance by 10%. If the enemy is a monster, increases the [tips_2] to 25%.\nAttacking an enemy with [tips_101] again has a 30% chance of converting it to [tips_112]. If the enemy is a monster, inflicts [tips_101] lasting 2 turns instead.",
-        "zh": "召唤暴风雪攻击敌方全体3次，每次造成攻击36%伤害，并有8%（+[*|a_debuff-acc_per|s_buff概率_per]）概率将其[tips_101]1回合。若敌方带有减速效果，则最终概率提升10%。若目标为怪物，则[tips_2]提升至25%。\n再次攻击被[tips_101]的目标时，有30%概率转化为[tips_112]。若目标为怪物，则改为[tips_101]2回合。"
+        "vi": "Triệu hồi bão tuyết tấn công toàn bộ kẻ địch 3 lần, mỗi lần gây sát thương bằng 36% Tấn công, đồng thời có 8%（+Chính Xác Hiệu Ứng） xác suất khiến mục tiêu [tips_101] trong 1 lượt. Nếu kẻ địch mang hiệu ứng giảm tốc, xác suất cuối cùng tăng 10%. Nếu mục tiêu là quái vật, [tips_2] tăng lên 25%.\nKhi tấn công lại mục tiêu bị [tips_101], có 30% xác suất chuyển hóa thành [tips_112]. Nếu mục tiêu là quái vật, đổi thành [tips_101] 2 lượt.",
+        "en": "Summons a blizzard to inflict a 3-strike attack on all enemies, dealing damage equal to 36% of his ATK on each strike, with a 8% (+Effect HIT) chance of inflicting [tips_101] lasting 1 turn. If the enemy has Slow, increases the final chance by 10%. If the enemy is a monster, increases the [tips_2] to 25%.\nAttacking an enemy with [tips_101] again has a 30% chance of converting it to [tips_112]. If the enemy is a monster, inflicts [tips_101] lasting 2 turns instead.",
+        "zh": "召唤暴风雪攻击敌方全体3次，每次造成攻击36%伤害，并有8%（+效果命中）概率将其[tips_101]1回合。若敌方带有减速效果，则最终概率提升10%。若目标为怪物，则[tips_2]提升至25%。\n再次攻击被[tips_101]的目标时，有30%概率转化为[tips_112]。若目标为怪物，则改为[tips_101]2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至33%",
+            "vi": "Sát thương tăng lên 33%",
             "en": "伤害增加至33%",
             "zh": "伤害增加至33%"
           }
@@ -136,15 +198,15 @@
         {
           "level": 3,
           "text": {
-            "vi": "Có 8% [tips_2] giảm tốc [b2_属性1数值_abs] điểm, duy trì 2 lượt.",
-            "en": "Has a 8% [tips_2] of slowing SPD by [b2_属性1数值_abs] for 2 turns.",
-            "zh": "有8%[tips_2]减速[b2_属性1数值_abs]点，持续2回合"
+            "vi": "Có 8% [tips_2] giảm tốc 10 điểm, duy trì 2 lượt.",
+            "en": "Has a 8% [tips_2] of slowing SPD by 10 for 2 turns.",
+            "zh": "有8%[tips_2]减速10点，持续2回合"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至36%",
+            "vi": "Sát thương tăng lên 36%",
             "en": "伤害增加至36%",
             "zh": "伤害增加至36%"
           }
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_xuenv.png"
+    "portraitFile": "201.png",
+    "headIconFile": "201a.png"
   }
 }

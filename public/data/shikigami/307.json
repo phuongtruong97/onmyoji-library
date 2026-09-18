@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2706,
-      "grade": "A"
+      "value": 3002,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
-      "grade": "C"
+      "value": 10709,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 374,
-      "grade": "C"
+      "value": 415,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3071,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Miêu Miêu Triệu Đến",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至84%",
+            "vi": "Sát thương tăng lên 84%",
             "en": "伤害增加至84%",
             "zh": "伤害增加至84%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至88%",
+            "vi": "Sát thương tăng lên 88%",
             "en": "伤害增加至88%",
             "zh": "伤害增加至88%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至92%",
+            "vi": "Sát thương tăng lên 92%",
             "en": "伤害增加至92%",
             "zh": "伤害增加至92%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3072,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 2,
       "name": {
         "vi": "Miêu Hợp Chiến",
@@ -120,9 +124,9 @@
         "zh": "橘乃，不准偷懒、好好干活！"
       },
       "description": {
-        "vi": "Miêu Chưởng Quỹ rót yêu lực khiến Quất Nãi hóa lớn và tiến hành cưỡi, trong trạng thái cưỡi Miêu Chưởng Quỹ tăng [b_属性1数值_abs] điểm Tốc độ và [b_属性2数值_per] Kháng Hiệu Ứng cho bản thân, không thể xua tan. Thời gian hồi kỹ năng 2 lượt.",
-        "en": "Nekomata channels her energy to enlarge Tachibana and mounts it. When mounting, Nekomata's SPD and Effect RES is increased by [b_属性1数值_abs] and [b_属性2数值_per], respectively. The effect cannot be dispelled. CD: 2 turns.",
-        "zh": "猫掌柜注入妖力让橘乃变大并进行骑乘，骑乘状态下猫掌柜提升自身[b_属性1数值_abs]点速度和[b_属性2数值_per]的效果抵抗，不可驱散。技能冷却2回合。"
+        "vi": "Miêu Chưởng Quỹ rót yêu lực khiến Quất Nãi hóa lớn và tiến hành cưỡi, trong trạng thái cưỡi Miêu Chưởng Quỹ tăng 20 điểm Tốc độ và 40% Kháng Hiệu Ứng cho bản thân, không thể xua tan. Thời gian hồi kỹ năng 2 lượt.",
+        "en": "Nekomata channels her energy to enlarge Tachibana and mounts it. When mounting, Nekomata's SPD and Effect RES is increased by 20 and 40%, respectively. The effect cannot be dispelled. CD: 2 turns.",
+        "zh": "猫掌柜注入妖力让橘乃变大并进行骑乘，骑乘状态下猫掌柜提升自身20点速度和40%的效果抵抗，不可驱散。技能冷却2回合。"
       },
       "upgrades": [],
       "orbCost": 0,
@@ -131,6 +135,8 @@
     {
       "id": 3073,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Miêu Miêu Loạn Đả",
@@ -143,15 +149,15 @@
         "zh": "居然敢在我的酒馆里闹事……！"
       },
       "description": {
-        "vi": "Tấn công mục tiêu kẻ địch 5 lần, mỗi lần gây sát thương bằng 50% Tấn công, đồng thời gọi ngẫu nhiên một trong các con mèo nhỏ trong danh sách của 『[skill_3071_1]』 đến trợ chiến.",
+        "vi": "Tấn công mục tiêu kẻ địch 5 lần, mỗi lần gây sát thương bằng 50% Tấn công, đồng thời gọi ngẫu nhiên một trong các con mèo nhỏ trong danh sách của [skill_3071_1] đến trợ chiến.",
         "en": "Launches a 5-strike attack on 1 enemy, dealing damage equal to 50% of her ATK on each strike, and summons one of the kittens listed in [skill_3071_1] for assistance.",
-        "zh": "攻击敌方目标5次，每次造成攻击50%伤害，并随机呼唤『[skill_3071_1]』所列其中一只小猫助攻。"
+        "zh": "攻击敌方目标5次，每次造成攻击50%伤害，并随机呼唤『[skill_3071_1]所列其中一只小猫助攻。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至44%",
+            "vi": "Sát thương tăng lên 44%",
             "en": "伤害增加至44%",
             "zh": "伤害增加至44%"
           }
@@ -159,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至46%",
+            "vi": "Sát thương tăng lên 46%",
             "en": "伤害增加至46%",
             "zh": "伤害增加至46%"
           }
@@ -167,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至48%",
+            "vi": "Sát thương tăng lên 48%",
             "en": "伤害增加至48%",
             "zh": "伤害增加至48%"
           }
@@ -175,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至50%",
+            "vi": "Sát thương tăng lên 50%",
             "en": "伤害增加至50%",
             "zh": "伤害增加至50%"
           }
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_maoyou.png"
+    "portraitFile": "307.png",
+    "headIconFile": "307a.png"
   }
 }

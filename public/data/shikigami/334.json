@@ -10,24 +10,24 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3108,
+      "value": 3109,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10480,
+      "value": 10482,
       "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 353,
       "grade": "C"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3341,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Xuyên Tức",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3342,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Xuyên Nộ",
@@ -120,7 +124,7 @@
         "zh": "恃强凌弱者，吾必诛之！"
       },
       "description": {
-        "vi": "Khi tử trận, thân thể [buff_3341_1] cho đến khi kết thúc chiến đấu.\n([tips_11]) Khi bất kỳ đồng minh nào chịu sát thương, nếu lượng sát thương đó vượt quá 30% giới hạn HP của họ, tăng 50% thanh hành động đồng thời giải trừ hoặc [tips_1] 1 [tips_3]. (Tối đa kích hoạt 1 lần mỗi lượt.)\n【[Thi triển]】 Nhận 1 tầng [buff_3342_1]. Đồng minh nhận hiệu quả giảm sát thương của [buff_3341_1], duy trì 1 lượt.",
+        "vi": "Khi tử trận, thân thể [buff_3341_1] cho đến khi kết thúc chiến đấu.\n([tips_11]) Khi bất kỳ đồng minh nào chịu sát thương, nếu lượng sát thương đó vượt quá 30% giới hạn HP của họ, tăng 50% thanh hành động đồng thời giải trừ hoặc [tips_1] 1 [tips_3]. (Tối đa kích hoạt 1 lần mỗi lượt.)\n[Thi triển] Nhận 1 tầng [buff_3342_1]. Đồng minh nhận hiệu quả giảm sát thương của [buff_3341_1], duy trì 1 lượt.",
         "en": "When he's KO'd, his body becomes [buff_3341_1] until the end of battle.\n[tips_11] When an ally takes damage, if the damage is over 30% of their max HP, raises his own Move Bar by 50% and dispels or [tips_1]s 1 [tips_3]s on himself. Triggers once each turn.\nActive skill: Gains a [buff_3342_1] stack. All allies gain the damage reduction effects of [buff_3341_1]. Sustainable for 1 turn.",
         "zh": "阵亡时，身躯[buff_3341_1]，直到战斗结束。\n（[tips_11]）任一友方受到伤害时，若该次伤害超过其生命上限30%，增加50%行动条并驱散或[tips_1]1个[tips_3]。每回合最多触发1次。\n【施放】获得1层[buff_3342_1]。友方获得[buff_3341_1]的减伤效果，维持1回合。"
       },
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Hệ số sát thương chấn động sóng biển bằng 120% lần trước ((hệ số tăng tối đa 5 lần)).",
-            "en": "The damage multiplier of each sea wave strike is equal to 120% of the last one((the damage multiplier can be increased up to 5 times)).",
-            "zh": "海浪振动的伤害系数为前1次的120%(（系数增加至多5次）)"
+            "vi": "Hệ số sát thương chấn động sóng biển bằng 120% lần trước ((hệ số tăng tối đa 5 lần).",
+            "en": "The damage multiplier of each sea wave strike is equal to 120% of the last one((the damage multiplier can be increased up to 5 times).",
+            "zh": "海浪振动的伤害系数为前1次的120%(系数增加至多5次）)"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 3343,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Kỹ Năng Trảm Hải Arakawa",
@@ -176,15 +182,15 @@
         "zh": "这海浪为吾而立！"
       },
       "description": {
-        "vi": "Cắt đôi mặt nước, chém sóng to gió lớn về phía mục tiêu kẻ địch, gây sát thương 335%. Khi sở hữu 3 tầng Hải Nộ, bản thân giảm 20% phòng thủ, sát thương gây ra tăng 40%; sau khi [Thi triển], đồng minh nhận hiệu quả giảm sát thương «Đứng Vững Không Đổ», duy trì 1 lượt.",
+        "vi": "Cắt đôi mặt nước, chém sóng to gió lớn về phía mục tiêu kẻ địch, gây sát thương 335%. Khi sở hữu 3 tầng Hải Nộ, bản thân giảm 20% phòng thủ, sát thương gây ra tăng 40%; sau khi [Thi Triển], đồng minh nhận hiệu quả giảm sát thương «Đứng Vững Không Đổ», duy trì 1 lượt.",
         "en": "Cleaves through the water and strikes 1 enemy with a towering wave, dealing damage equal to 335% of his ATK. If the enemy is KO'd, he loses a Sea Fury stack. Target is regarded as being inflicted with Isolation. When he has 3 Sea Fury stacks, his DEF is reduced by 20% and his damage is increased by 40%. After using the skill, all allies gain the damage reduction effects of Unflinching. Sustainable for 1 turn.",
-        "zh": "切开水面，向敌方目标斩出惊涛骇浪，造成攻击335%伤害。若击败敌方，自身失去1层海怒。造成伤害视同孤立，拥有3层海怒时，自身降低20%防御，造成伤害提升40%；施放后，友方获得「屹立不倒」的减伤效果，维持1回合。"
+        "zh": "切开水面，向敌方目标斩出惊涛骇浪，造成攻击335%伤害。若击败敌方，自身失去1层海怒。造成伤害视同孤立，拥有3层海怒时，自身降低20%防御，造成伤害提升40%；施放后，友方获得「屹立不倒]的减伤效果，维持1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至315%",
+            "vi": "Sát thương tăng lên 315%",
             "en": "伤害增加至315%",
             "zh": "伤害增加至315%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至335%",
+            "vi": "Sát thương tăng lên 335%",
             "en": "伤害增加至335%",
             "zh": "伤害增加至335%"
           }
@@ -208,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi sở hữu 3 tầng Hải Nộ, bản thân giảm 20% phòng thủ, sát thương gây ra tăng 40%; sau khi [Thi triển], đồng minh nhận hiệu quả giảm sát thương «Đứng Vững Không Đổ», duy trì 1 lượt.",
+            "vi": "Khi sở hữu 3 tầng Hải Nộ, bản thân giảm 20% phòng thủ, sát thương gây ra tăng 40%; sau khi [Thi triển], đồng minh nhận hiệu quả giảm sát thương [Đứng Vững Không Đổ], duy trì 1 lượt.",
             "en": "When he has 3 Sea Fury stacks, his DEF is reduced by 20% and his damage is increased by 40%. After using the skill, all allies gain the damage reduction effects of Unflinching. Sustainable for 1 turn.",
-            "zh": "拥有3层海怒时，自身降低20%防御，造成伤害提升40%；施放后，友方获得「屹立不倒」的减伤效果，维持1回合"
+            "zh": "拥有3层海怒时，自身降低20%防御，造成伤害提升40%；施放后，友方获得「屹立不倒]的减伤效果，维持1回合"
           }
         }
       ],
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "j_sphuangchuan.png"
+    "portraitFile": "334.png",
+    "headIconFile": "334a.png"
   }
 }

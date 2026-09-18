@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2840,
-      "grade": "A"
+      "value": 3109,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
-      "grade": "C"
+      "value": 10823,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 348,
-      "grade": "D"
+      "value": 392,
+      "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 106,
+      "value": 116,
       "grade": "A"
     },
     {
@@ -45,13 +45,15 @@
   ],
   "secondaryStats": {
     "critDamage": "150%",
-    "effectHit": "0%",
+    "effectHit": "30%",
     "effectRes": "0%"
   },
   "skills": [
     {
       "id": 5751,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phong Dương Đao Pháp",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5752,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Long Thao Báo Lược",
@@ -120,9 +124,9 @@
         "zh": "龙韬豹略，行云踏风。"
       },
       "description": {
-        "vi": "[tips_11]. Sau khi tấn công đính kèm [buff_5752_1] cho mục tiêu, duy trì 2 lượt. Sau khi thi triển 『[skill_5751_1]』, chuyển đổi sang phái [buff_5753_1]; sau khi thi triển 『[skill_5753_1]』, chuyển đổi sang phái [buff_5754_1]. Khi ở bất kỳ lưu phái nào, bản thân nhận 50% giảm sát thương. Khi bắt đầu trận đấu và mỗi lần chuyển đổi lưu phái, nhận [buff_5759_1] duy trì 1 lượt, khi chịu hiệu ứng đẩy lùi Thanh Hành Động sẽ phản kích.\n【Thi triển】 Đặt lại lưu phái hiện tại và tăng 75% Thanh Hành Động cho bản thân. Trong lượt khi chuyển đổi lưu phái tăng 100% Thanh Hành Động cho bản thân, mỗi màn giới hạn 1 lần.",
+        "vi": "[tips_11]. Sau khi tấn công đính kèm [buff_5752_1] cho mục tiêu, duy trì 2 lượt. Sau khi thi triển [skill_5751_1], chuyển đổi sang phái [buff_5753_1]; sau khi thi triển [skill_5753_1], chuyển đổi sang phái [buff_5754_1]. Khi ở bất kỳ lưu phái nào, bản thân nhận 50% giảm sát thương. Khi bắt đầu trận đấu và mỗi lần chuyển đổi lưu phái, nhận [buff_5759_1] duy trì 1 lượt, khi chịu hiệu ứng đẩy lùi Thanh Hành Động sẽ phản kích.\n[Thi triển] Đặt lại lưu phái hiện tại và tăng 75% Thanh Hành Động cho bản thân. Trong lượt khi chuyển đổi lưu phái tăng 100% Thanh Hành Động cho bản thân, mỗi màn giới hạn 1 lần.",
         "en": "[tips_11]. Attacks inflict [buff_5752_1] lasting 2 turns on the enemy. Using [skill_5751_1] switches it to the [buff_5753_1] style Using [skill_5753_1] switches it to the [buff_5754_1] style. Grants him 50% damage reduction while he's practicing a sabre style. At the start of the battle and whenever he switches his sabre style, grants him [buff_5759_1] that lasts 1 turn. Launches a counter-attack when his Move Bar is lowered.\nActive skill: Resets his sabre style and raises his Move Bar by 75%. When he switches his sabre style on his turn, raises his Move Bar by 100% (only once per round.)",
-        "zh": "[tips_11]。攻击后为目标施加[buff_5752_1]，持续2回合。施放『[skill_5751_1]』后，切换为[buff_5753_1]流；施放『[skill_5753_1]』后，切换为[buff_5754_1]流。处于任意流派时，自身获得50%减伤。战斗开始时与每次切换流派后，获得持续1回合的[buff_5759_1]，受到行动条击退效果时反击。\n【施放】重置当前的流派并提升自身75%行动条。回合内切换流派提升自身100%行动条，每回目限1次。"
+        "zh": "[tips_11]。攻击后为目标施加[buff_5752_1]，持续2回合。施放『[skill_5751_1]后，切换为[buff_5753_1]流；施放『[skill_5753_1]后，切换为[buff_5754_1]流。处于任意流派时，自身获得50%减伤。战斗开始时与每次切换流派后，获得持续1回合的[buff_5759_1]，受到行动条击退效果时反击。\n【施放】重置当前的流派并提升自身75%行动条。回合内切换流派提升自身100%行动条，每回目限1次。"
       },
       "upgrades": [
         {
@@ -164,6 +168,8 @@
     {
       "id": 5753,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Vọng Nguyệt Tinh Hà",
@@ -184,17 +190,17 @@
         {
           "level": 2,
           "text": {
-            "vi": "[tips_101] do 『[skill_5756_1]』 đính kèm chuyển hóa thành [tips_112]",
+            "vi": "[tips_101] do [skill_5756_1] đính kèm chuyển hóa thành [tips_112]",
             "en": "Changes the [tips_101] inflicted by [skill_5756_1] to [tips_112].",
-            "zh": "『[skill_5756_1]』施加的[tips_101]转化为[tips_112]"
+            "zh": "『[skill_5756_1]施加的[tips_101]转化为[tips_112]"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Hệ số tấn công lần 3 của 『[skill_5757_1]』 tăng lên 180%",
+            "vi": "Hệ số tấn công lần 3 của [skill_5757_1] tăng lên 180%",
             "en": "Increases the multiplier of [skill_5757_1]' third strike to 180%.",
-            "zh": "『[skill_5757_1]』第3次攻击的系数增至180%"
+            "zh": "『[skill_5757_1]第3次攻击的系数增至180%"
           }
         },
         {
@@ -216,10 +222,60 @@
       ],
       "orbCost": 0,
       "iconFile": "5753.png"
+    },
+    {
+      "id": 5754,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 5753,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Vọng Nguyệt Tinh Hà · Tuyết Ảnh",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Tấn công toàn bộ phe địch 3 lần, mỗi lần gây sát thương bằng 40% Tấn công và có 12% [tips_2] đính kèm [tips_101], duy trì 1 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 3,
+      "iconFile": "5754.png"
+    },
+    {
+      "id": 5755,
+      "number": 3,
+      "variantOrder": 2,
+      "parentSkillId": 5753,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Vọng Nguyệt Tinh Hà · Diễm Dương",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Tấn công toàn bộ phe địch 3 lần, mỗi lần lần lượt gây sát thương bằng 25%, 35%, 120% Tấn công.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 3,
+      "iconFile": "5755.png"
     }
   ],
   "assets": {
-    "portraitFile": "fengyangjun.png",
-    "headIconFile": "h_fengyangjun.png"
+    "portraitFile": "575.png",
+    "headIconFile": "575a.png"
   }
 }

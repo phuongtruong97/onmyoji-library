@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2948,
+      "value": 3216,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10366,
-      "grade": "B"
+      "value": 11507,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 348,
-      "grade": "D"
+      "value": 392,
+      "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 6001,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thị Thân Như Huyễn",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -102,12 +104,14 @@
           }
         }
       ],
-      "orbCost": 1,
+      "orbCost": 0,
       "iconFile": "6001.png"
     },
     {
       "id": 6002,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ái Kiến Xả Ly",
@@ -120,7 +124,7 @@
         "zh": "在此弃置爱见分别之心。"
       },
       "description": {
-        "vi": "[tips_11]. Lúc rút đao, mang theo tấm lòng nhân từ không thiên vị. Cầm Trì Mẫn Chi Nhận, nhận 60% Kháng Hiệu Ứng, 450 Phòng thủ; cầm Đoạn Tội Chi Nhận, nhận thêm 50% Bạo Kích, bỏ qua 350 Phòng thủ.\nKhi bước vào trận đấu, mang Trì Mẫn Chi Nhận. Khi thức thần kẻ địch hành động ngoài lượt, tiêu hao 1 lớp [buff_6003_1], giam cầm kẻ đó vào [buff_6004_1].\n【Thi triển】 nhận 3 tầng [buff_6003_1], đồng thời tăng 100 điểm Tốc độ cho bản thân, duy trì 2 lượt.",
+        "vi": "[tips_11]. Lúc rút đao, mang theo tấm lòng nhân từ không thiên vị. Cầm Trì Mẫn Chi Nhận, nhận 60% Kháng Hiệu Ứng, 450 Phòng thủ; cầm Đoạn Tội Chi Nhận, nhận thêm 50% Bạo Kích, bỏ qua 350 Phòng thủ.\nKhi bước vào trận đấu, mang Trì Mẫn Chi Nhận. Khi thức thần kẻ địch hành động ngoài lượt, tiêu hao 1 lớp [buff_6003_1], giam cầm kẻ đó vào [buff_6004_1].\n[Thi triển] nhận 3 tầng [buff_6003_1], đồng thời tăng 100 điểm Tốc độ cho bản thân, duy trì 2 lượt.",
         "en": "[tips_11]. When wielding the blade, do so with impartial mercy. Wielding the Blade of Mercy gains 60% Effect RES and 450 DEF; wielding the Blade of Sentence additionally gains 50% Crit and ignores 350 DEF.\nEnters battle wielding the Blade of Mercy. When an enemy shikigami acts outside their turn, consumes 1 stack of [buff_6003_1] to trap them in [buff_6004_1].\nActive skill: Gains 3 stacks of [buff_6003_1] and increases own SPD by 100 for 2 turns.",
         "zh": "[tips_11]。出刀之时，怀着无偏私的仁慈之心。持垂悯之刃，获得60%效果抵抗、450防御；持断罪之刃，额外获得50%暴击、无视350防御。\n进入战斗时，持垂悯之刃。敌方式神回合外行动时，消耗1层[buff_6003_1]，将其困入[buff_6004_1]。\n【施放】获得3层[buff_6003_1]，并提升自身100点速度，持续2回合。"
       },
@@ -134,25 +138,9 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Cầm Trì Mẫn Chi Nhận, nhận 450 điểm Phòng thủ",
-            "en": "Wielding the Blade of Mercy gains 450 DEF.",
-            "zh": "持垂悯之刃，获得450点防御"
-          }
-        },
-        {
           "level": 3,
           "text": {
-            "vi": "Thi triển có thể nhận 3 tầng Hoa Phạt",
-            "en": "Gains 3 stacks of Flower Purge when cast.",
-            "zh": "施放可获得3层花祓"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Thi triển có thể nhận 3 tầng Hoa Phạt",
+            "vi": "Thi triển có thể nhận 3 tầng Hoa Phất",
             "en": "Gains 3 stacks of Flower Purge when cast.",
             "zh": "施放可获得3层花祓"
           }
@@ -163,22 +151,6 @@
             "vi": "Cầm Đoạn Tội Chi Nhận, tấn công bỏ qua 350 điểm Phòng thủ",
             "en": "Wielding the Blade of Sentence, attacks ignore 350 DEF.",
             "zh": "持断罪之刃，攻击无视350点防御"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Cầm Đoạn Tội Chi Nhận, tấn công bỏ qua 350 điểm Phòng thủ",
-            "en": "Wielding the Blade of Sentence, attacks ignore 350 DEF.",
-            "zh": "持断罪之刃，攻击无视350点防御"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Tiên cơ: nhận 2 tầng Hoa Phạt",
-            "en": "Upper Hand: Gains 2 stacks of Flower Purge.",
-            "zh": "先机：获得2层花祓"
           }
         },
         {
@@ -196,9 +168,11 @@
     {
       "id": 6003,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "Tịch diệt hiện tiền",
+        "vi": "Tịch Diệt Hiện Tiền",
         "en": "Nirodha Present",
         "zh": "寂灭现前"
       },
@@ -208,7 +182,7 @@
         "zh": "生死无常迅速，我心寂而常照。"
       },
       "description": {
-        "vi": "Quan sát thế gian khổ ải mà không chán ghét sinh tử, nhận 2 tầng [buff_6006_1] và 1 tầng [buff_6003_1]. Khi cầm Trầm Mẫn Chi Nhận có thể giúp đồng minh tăng 30% kháng hiệu ứng, duy trì 2 lượt, đồng thời hồi cho 3 đồng minh có HP thấp nhất lượng HP bằng 130% tấn công ban đầu; khi cầm Đoạn Tội Chi Nhận có thể tấn công bổ sung mục tiêu chỉ định và 2 kẻ địch có HP thấp nhất, lần lượt gây sát thương bằng 339% tấn công. Tăng 30% hệ số sát thương đối với kẻ địch trong Hư Võng Mê Chướng và bỏ qua 150 phòng thủ.",
+        "vi": "Quan sát thế gian khổ ải mà không chán ghét sinh tử, nhận 2 tầng [buff_6006_1] và 1 tầng [buff_6003_1]. Khi cầm Trầm Mẫn Chi Nhận có thể giúp đồng minh tăng 30% kháng hiệu ứng, duy trì 2 lượt, đồng thời hồi cho 3 đồng minh có HP thấp nhất lượng HP bằng 130% tấn công ban đầu; khi cầm Đoạn Tội Chi Nhận có thể tấn công bổ sung mục tiêu chỉ định và 2 kẻ địch có HP thấp nhất, lần lượt gây sát thương bằng 339% tấn công. Tăng 30% hệ số sát thương đối với kẻ địch trong [buff_6005_1] và bỏ qua 150 phòng thủ.",
         "en": "Observe the suffering of the world without aversion to life and death. Gains 2 stacks of [buff_6006_1] and 1 stack of [buff_6003_1]. Wielding the Blade of Mercy increases allies' Effect RES by 30% for 2 turns, and recovers HP equal to 130% of starting ATK for the 3 allies with the lowest HP; wielding the Blade of Sentence additionally attacks the specified enemy and the 2 enemies with the lowest HP, dealing damage equal to 339% of ATK in sequence. Damage multiplier to enemies in Delusive Haze is increased by 30% and ignores 150 DEF.",
         "zh": "观世间苦而不恶生死，获得2层[buff_6006_1]和1层[buff_6003_1]。持垂悯之刃可为友方提升30%效果抵抗，持续2个回合，并为生命最低的3个友方恢复初始攻击130%生命；持断罪之刃可额外攻击指定和生命最低的2个敌方目标，依次造成攻击339%伤害。对虚妄迷障中的敌方伤害系数提升30%并无视150防御。"
       },
@@ -224,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Tăng 30% hệ số sát thương đối với kẻ địch trong Hư Võng Mê Chướng",
+            "vi": "Tăng 30% hệ số sát thương đối với kẻ địch trong [buff_6005_1]",
             "en": "Damage multiplier to enemies in Delusive Haze is increased by 30%.",
             "zh": "对虚妄迷障中的敌方伤害系数提升30%"
           }
@@ -251,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "600.png",
+    "headIconFile": "600a.png"
   }
 }

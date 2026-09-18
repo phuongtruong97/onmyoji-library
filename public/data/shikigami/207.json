@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2680,
-      "grade": "A"
+      "value": 2975,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 8771,
-      "grade": "D"
+      "value": 9798,
+      "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 410,
-      "grade": "B"
+      "value": 454,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 98,
-      "grade": "C"
+      "value": 108,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2071,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Miêu Trảo",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,35 @@
       "iconFile": "2071.png"
     },
     {
-      "id": 2073,
+      "id": 2072,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Cửu Mệnh",
+        "en": "Nine Lives",
+        "zh": "九命"
+      },
+      "intro": {
+        "vi": "Chỉ cần meo ta còn mạng mèo!",
+        "en": "One down, eight to go!",
+        "zh": "只要本喵还有喵命！"
+      },
+      "description": {
+        "vi": "Khi Bạo Kích, nhận 1 tầng [buff_2072_1], giới hạn 4 tầng.\nKhi tử trận, nếu sở hữu 4 tầng [buff_2072_1], liền lập tức phục sinh và [tips_20] lượng HP bằng 20% giới hạn HP, đồng thời thi triển [skill_2073_1] lên mục tiêu kẻ địch ngẫu nhiên.\nKhi tử trận, đính kèm [buff_2073_1] cho nguồn gây sát thương.",
+        "en": "When she lands a critical hit, grants her 1 [buff_2072_1] stack (max 4 stacks.)\nWhen she's KO'd, if she has 4 [buff_2072_1] stacks, she is revived immediately with 20% of her max HP [tips_20]ed. She then uses [skill_2073_1] on 1 random enemy.\nWhen she's KO'd, inflicts [buff_2073_1] to the source of the lethal damage.",
+        "zh": "暴击时，获得1层[buff_2072_1]，上限4层。\n阵亡时，若拥有4层[buff_2072_1]，则会立即复活并[tips_20]生命上限20%的生命，并对随机敌方目标施放『[skill_2073_1]。\n阵亡时，对伤害来源附加[buff_2073_1]。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "2073.png"
+    },
+    {
+      "id": 2073,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Báo Phù",
@@ -128,7 +157,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至77%",
+            "vi": "Sát thương tăng lên 77%",
             "en": "伤害增加至77%",
             "zh": "伤害增加至77%"
           }
@@ -136,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至81%",
+            "vi": "Sát thương tăng lên 81%",
             "en": "伤害增加至81%",
             "zh": "伤害增加至81%"
           }
@@ -144,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害增加至85%",
             "zh": "伤害增加至85%"
           }
@@ -152,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至89%",
+            "vi": "Sát thương tăng lên 89%",
             "en": "伤害增加至89%",
             "zh": "伤害增加至89%"
           }
@@ -163,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "jiumingmao.png",
-    "headIconFile": ""
+    "portraitFile": "207.png",
+    "headIconFile": "207a.png"
   }
 }

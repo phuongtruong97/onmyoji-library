@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2948,
+      "value": 3538,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
-      "grade": "C"
+      "value": 10254,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
-      "grade": "C"
+      "value": 397,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2701,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Độc Châm",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2702,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Trĩ Chu Ấn Ký",
@@ -120,9 +124,9 @@
         "zh": "我的痛苦，你也体会一下吧！"
       },
       "description": {
-        "vi": "Khi tấn công, có 60% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm [buff_2702_1] cho mục tiêu, duy trì 2 lượt.",
-        "en": "When she attacks, has a 60% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [buff_2702_1] lasting 2 turns on the target.",
-        "zh": "攻击时，60%（+[*|a_debuff-acc_per|s_buff概率_per]）概率为目标附加[buff_2702_1]，持续2回合。"
+        "vi": "Khi tấn công, có 60% [tips_2] xác suất đính kèm [buff_2702_1] cho mục tiêu, duy trì 2 lượt.",
+        "en": "When she attacks, has a 60% (+Effect HIT) chance of inflicting [buff_2702_1] lasting 2 turns on the target.",
+        "zh": "攻击时，60%（+效果命中）概率为目标附加[buff_2702_1]，持续2回合。"
       },
       "upgrades": [],
       "orbCost": 0,
@@ -131,6 +135,8 @@
     {
       "id": 2703,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thệ Tâm Thực Tủy",
@@ -143,15 +149,15 @@
         "zh": "看，有新的食物了哦。"
       },
       "description": {
-        "vi": "Giải phóng đàn nhện tấn công toàn bộ phe địch, gây sát thương bằng 83% Tấn công, và có 15% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất khiến kẻ đó [tips_108] 1 lượt.\nNếu chỉ số Tốc độ của kẻ đó thấp hơn Lạc Tân Phụ, cứ mỗi 3 điểm Tốc độ chênh lệch, tăng 1% [tips_2]. Đính kèm [buff_2703_1] cho mục tiêu chưa bị [tips_108], sau khi kết thúc lượt gây [tips_5] bằng 136% Tấn công, duy trì 1 lượt. Nếu chỉ số Tốc độ của kẻ đó thấp hơn Lạc Tân Phụ, cứ mỗi 1 điểm Tốc độ chênh lệch, tăng 1% [tips_5], tăng tối đa 50%.",
-        "en": "Summons a horde of spiders to attack all enemies, dealing damage equal to 83% of her ATK with a 15% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [tips_108] lasting 1 turn on them.\nIncreases the [tips_2] by 1% for each 3 SPD points the enemy is slower than Jorogumo. Inflicts [buff_2703_1] on each enemy not [tips_108]d this way, dealing [tips_5] equal to 136% of her ATK at the end of their turn for 1 turn. Increases the [tips_5] by 1% for each 1 SPD difference if the enemy is slower than Jorogumo, up to a maximum of 50%.",
-        "zh": "释放蜘蛛群攻击敌方全体，造成攻击83%伤害，并有15%（+[*|a_debuff-acc_per|s_buff概率_per]）概率使其[tips_108]1回合。\n若其速度属性低于络新妇，每3点速度差，提升1%[tips_2]。对未被[tips_108]的目标附加[buff_2703_1]，回合后造成攻击136%[tips_5]，持续1回合。若其速度属性低于络新妇，每1点速度差，提升1%[tips_5]，最高提升50%。"
+        "vi": "Giải phóng đàn nhện tấn công toàn bộ phe địch, gây sát thương bằng 83% Tấn công, và có 15% [tips_2] xác suất khiến kẻ đó [tips_108] 1 lượt.\nNếu chỉ số Tốc độ của kẻ đó thấp hơn Lạc Tân Phụ, cứ mỗi 3 điểm Tốc độ chênh lệch, tăng 1% [tips_2]. Đính kèm [buff_2703_1] cho mục tiêu chưa bị [tips_108], sau khi kết thúc lượt gây [tips_5] bằng 136% Tấn công, duy trì 1 lượt. Nếu chỉ số Tốc độ của kẻ đó thấp hơn Lạc Tân Phụ, cứ mỗi 1 điểm Tốc độ chênh lệch, tăng 1% [tips_5], tăng tối đa 50%.",
+        "en": "Summons a horde of spiders to attack all enemies, dealing damage equal to 83% of her ATK with a 15% (+Effect HIT) chance of inflicting [tips_108] lasting 1 turn on them.\nIncreases the [tips_2] by 1% for each 3 SPD points the enemy is slower than Jorogumo. Inflicts [buff_2703_1] on each enemy not [tips_108]d this way, dealing [tips_5] equal to 136% of her ATK at the end of their turn for 1 turn. Increases the [tips_5] by 1% for each 1 SPD difference if the enemy is slower than Jorogumo, up to a maximum of 50%.",
+        "zh": "释放蜘蛛群攻击敌方全体，造成攻击83%伤害，并有15%（+效果命中）概率使其[tips_108]1回合。\n若其速度属性低于络新妇，每3点速度差，提升1%[tips_2]。对未被[tips_108]的目标附加[buff_2703_1]，回合后造成攻击136%[tips_5]，持续1回合。若其速度属性低于络新妇，每1点速度差，提升1%[tips_5]，最高提升50%。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至76%",
+            "vi": "Sát thương tăng lên 76%",
             "en": "伤害增加至76%",
             "zh": "伤害增加至76%"
           }
@@ -159,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至80%",
+            "vi": "Sát thương tăng lên 80%",
             "en": "伤害增加至80%",
             "zh": "伤害增加至80%"
           }
@@ -167,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至83%",
+            "vi": "Sát thương tăng lên 83%",
             "en": "伤害增加至83%",
             "zh": "伤害增加至83%"
           }
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_luoxinfu.png"
+    "portraitFile": "270.png",
+    "headIconFile": "270a.png"
   }
 }

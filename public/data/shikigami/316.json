@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 1661,
+      "value": 1822,
       "grade": "D"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 13100,
+      "value": 14241,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 427,
-      "grade": "B"
+      "value": 472,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 101,
-      "grade": "B"
+      "value": 111,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3161,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Viêm Ảnh",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3162,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thệ Ước Bảo Vệ",
@@ -120,41 +124,41 @@
         "zh": "不准伤害大家！"
       },
       "description": {
-        "vi": "[tips_11].\nSau khi kết thúc lượt, giúp đồng minh khác nhận [buff_3162_1], duy trì cho đến khi lượt tiếp theo bắt đầu. Khi [buff_3162_1] bị phá vỡ, nếu Bạch Tàng Chủ không bị khống chế, liền phản kích nguồn gây sát thương, gây sát thương bằng 10% giới hạn HP, và có 100% xác suất cơ bản khiến kẻ đó giảm 30% Bạo kích, duy trì 1 lượt (hiệu ứng này không thể cộng dồn); khi nhiều [buff_3162_1] cùng bị phá vỡ, sát thương không dồn tích. Bản thân tăng vĩnh viễn [b2_属性2数值_abs] điểm Tốc độ, [b2_属性1数值_per] Kháng Hiệu Ứng, mỗi đồng minh sở hữu [buff_3162_1], khiến hiệu ứng này giảm 10 điểm Tốc độ và 10% Kháng Hiệu Ứng.",
-        "en": "[tips_11].\nAt the end of his turn, grants [buff_3162_1] to each of his allies until his next turn. When a [buff_3162_1] is broken, Hakuzosu launches a counter-attack against the source of the damage if he's not under any controlling effect, dealing damage equal to 10% of his max HP. He has a 100% base chance of reducing their Crit by 30% for 1 turn (the effect cannot be stacked). His damage is not increased if multiple [buff_3162_1]s are broken at the same time. Increases his SPD by [b2_属性2数值_abs] and Effect RES by [b2_属性1数值_per] indefinitely. Each [buff_3162_1] of an ally reduces the SPD boost from the effect by 10 and the Effect RES boost by 10%.",
-        "zh": "[tips_11]。\n回合结束后，使其他友方获得[buff_3162_1]，维持至下个回合开始。[buff_3162_1]被击破时，若白藏主未受到控制，则反击伤害来源，造成生命上限10%伤害，并有100%基础概率使其降低30%暴击，持续1回合（该效果不可叠加）；多个[buff_3162_1]同时被击破时，伤害不累加。自身永久提升[b2_属性2数值_abs]点速度、[b2_属性1数值_per]效果抵抗，每个友方拥有的[buff_3162_1]，使此效果降低10点速度和10%效果抵抗。"
+        "vi": "[tips_11].\nSau khi kết thúc lượt, giúp đồng minh khác nhận [buff_3162_1], duy trì cho đến khi lượt tiếp theo bắt đầu. Khi [buff_3162_1] bị phá vỡ, nếu Bạch Tàng Chủ không bị khống chế, liền phản kích nguồn gây sát thương, gây sát thương bằng 10% giới hạn HP, và có 100% xác suất cơ bản khiến kẻ đó giảm 30% Bạo kích, duy trì 1 lượt (hiệu ứng này không thể cộng dồn); khi nhiều [buff_3162_1] cùng bị phá vỡ, sát thương không dồn tích. Bản thân tăng vĩnh viễn 60 điểm Tốc độ, 60% Kháng Hiệu Ứng, mỗi đồng minh sở hữu [buff_3162_1], khiến hiệu ứng này giảm 10 điểm Tốc độ và 10% Kháng Hiệu Ứng.",
+        "en": "[tips_11].\nAt the end of his turn, grants [buff_3162_1] to each of his allies until his next turn. When a [buff_3162_1] is broken, Hakuzosu launches a counter-attack against the source of the damage if he's not under any controlling effect, dealing damage equal to 10% of his max HP. He has a 100% base chance of reducing their Crit by 30% for 1 turn (the effect cannot be stacked). His damage is not increased if multiple [buff_3162_1]s are broken at the same time. Increases his SPD by 60 and Effect RES by 60% indefinitely. Each [buff_3162_1] of an ally reduces the SPD boost from the effect by 10 and the Effect RES boost by 10%.",
+        "zh": "[tips_11]。\n回合结束后，使其他友方获得[buff_3162_1]，维持至下个回合开始。[buff_3162_1]被击破时，若白藏主未受到控制，则反击伤害来源，造成生命上限10%伤害，并有100%基础概率使其降低30%暴击，持续1回合（该效果不可叠加）；多个[buff_3162_1]同时被击破时，伤害不累加。自身永久提升60点速度、60%效果抵抗，每个友方拥有的[buff_3162_1]，使此效果降低10点速度和10%效果抵抗。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Hiệu ứng hấp thụ của [buff_3162_1] tăng lên [b_参数p2_per]",
-            "en": "Increases [buff_3162_1]'s damage absorbed to [b_参数p2_per].",
-            "zh": "[buff_3162_1]吸收效果增至[b_参数p2_per]"
+            "vi": "Hiệu ứng hấp thụ của [buff_3162_1] tăng lên 30%",
+            "en": "Increases [buff_3162_1]'s damage absorbed to 30%.",
+            "zh": "[buff_3162_1]吸收效果增至30%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Khi [buff_3162_1] bị phá vỡ, nếu Bạch Tàng Chủ không bị khống chế, liền phản kích nguồn gây sát thương, gây sát thương bằng 10% giới hạn HP, và có 100% xác suất cơ bản khiến kẻ đó giảm 30% Bạo kích, duy trì 1 lượt (（hiệu ứng này không thể cộng dồn)); khi nhiều [buff_3162_1] cùng bị phá vỡ, sát thương không dồn tích",
-            "en": "When a [buff_3162_1] is broken, Hakuzosu launches a counter-attack against the source of the damage if he's not under any controlling effect, dealing damage equal to 10% of his max HP, with a 100% base chance of reducing their Crit by 30% for 1 turn((the effect cannot be stacked)). His damage is not increased if multiple [buff_3162_1]s are broken at the same time.",
-            "zh": "[buff_3162_1]被击破时，若白藏主未受到控制，则反击伤害来源，造成生命上限10%伤害，并有100%基础概率使其降低30%暴击，持续1回合(（该效果不可叠加）)；多个[buff_3162_1]同时被击破时，伤害不累加"
+            "vi": "Khi [buff_3162_1] bị phá vỡ, nếu Bạch Tàng Chủ không bị khống chế, liền phản kích nguồn gây sát thương, gây sát thương bằng 10% giới hạn HP, và có 100% xác suất cơ bản khiến kẻ đó giảm 30% Bạo kích, duy trì 1 lượt (hiệu ứng này không thể cộng dồn); khi nhiều [buff_3162_1] cùng bị phá vỡ, sát thương không dồn tích",
+            "en": "When a [buff_3162_1] is broken, Hakuzosu launches a counter-attack against the source of the damage if he's not under any controlling effect, dealing damage equal to 10% of his max HP, with a 100% base chance of reducing their Crit by 30% for 1 turn((the effect cannot be stacked). His damage is not increased if multiple [buff_3162_1]s are broken at the same time.",
+            "zh": "[buff_3162_1]被击破时，若白藏主未受到控制，则反击伤害来源，造成生命上限10%伤害，并有100%基础概率使其降低30%暴击，持续1回合(该效果不可叠加）)；多个[buff_3162_1]同时被击破时，伤害不累加"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Hiệu ứng hấp thụ của [buff_3162_1] tăng lên [b_参数p2_per]",
-            "en": "Increases [buff_3162_1]'s damage absorbed to [b_参数p2_per].",
-            "zh": "[buff_3162_1]吸收效果增至[b_参数p2_per]"
+            "vi": "Hiệu ứng hấp thụ của [buff_3162_1] tăng lên 40%",
+            "en": "Increases [buff_3162_1]'s damage absorbed to 40%.",
+            "zh": "[buff_3162_1]吸收效果增至40%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Bản thân tăng vĩnh viễn [b2_属性2数值_abs] điểm Tốc độ, [b2_属性1数值_per] Kháng Hiệu Ứng, mỗi đồng minh sở hữu [buff_3162_1], khiến hiệu ứng này giảm 10 điểm Tốc độ và 10% Kháng Hiệu Ứng",
-            "en": "Increases his SPD by [b2_属性2数值_abs] and Effect RES by [b2_属性1数值_per] indefinitely. Each [buff_3162_1] an ally has reduces his SPD boost from the effect by 10 and Effect RES boost by 10%.",
-            "zh": "自身永久提升[b2_属性2数值_abs]点速度、[b2_属性1数值_per]效果抵抗，每个友方拥有的[buff_3162_1]，使此效果降低10点速度和10%效果抵抗"
+            "vi": "Bản thân tăng vĩnh viễn 60 điểm Tốc độ, 60% Kháng Hiệu Ứng, mỗi đồng minh sở hữu [buff_3162_1], khiến hiệu ứng này giảm 10 điểm Tốc độ và 10% Kháng Hiệu Ứng",
+            "en": "Increases his SPD by 60 and Effect RES by 60% indefinitely. Each [buff_3162_1] an ally has reduces his SPD boost from the effect by 10 and Effect RES boost by 10%.",
+            "zh": "自身永久提升60点速度、60%效果抵抗，每个友方拥有的[buff_3162_1]，使此效果降低10点速度和10%效果抵抗"
           }
         }
       ],
@@ -164,6 +168,8 @@
     {
       "id": 3163,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 6,
       "name": {
         "vi": "Mộng Sơn Hồ Ảnh",
@@ -176,97 +182,33 @@
         "zh": "有小白在，不会有事的！"
       },
       "description": {
-        "vi": "Mở ra Kết giới Hồ Ảnh tồn tại 999 lượt, khi bất kỳ đồng minh nào chịu sát thương đơn thể và [tips_5], khiến sát thương lần đó giảm [b_参数p1_per].\nKhi bắt đầu mỗi lượt (bất kể địch ta), chọn mục tiêu phe ta có tỷ lệ HP thấp nhất, nếu bản thân đang ở trong trạng thái [tips_27], thì có thể chịu thay toàn bộ sát thương cho đồng minh đó trong lượt này.",
-        "en": "Creates a Fox Shadow field that lasts 999 turns. Whenever an ally takes single-target damage or [tips_5], the damage is reduced by [b_参数p1_per].\nAt the beginning of an ally or an enemy's turn, the ally with the lowest proportion of HP is chosen. If he is under [tips_27], all damage that would be dealt to that ally this turn is dealt to him instead.",
-        "zh": "开启存在999回合的狐影结界，任何友方受到单体伤害和[tips_5]时，使该次伤害降低[b_参数p1_per]。\n在每个回合（不论敌我）开始时，选定生命比例最低的友方目标，若自身处于[tips_27]，则可在该回合内代替该友方承受所有伤害。"
+        "vi": "Mở ra Kết giới Hồ Ảnh tồn tại 999 lượt, khi bất kỳ đồng minh nào chịu sát thương đơn thể và [tips_5], khiến sát thương lần đó giảm 50%.\nKhi bắt đầu mỗi lượt (bất kể địch ta), chọn mục tiêu phe ta có tỷ lệ HP thấp nhất, nếu bản thân đang ở trong trạng thái [tips_27], thì có thể chịu thay toàn bộ sát thương cho đồng minh đó trong lượt này.",
+        "en": "Creates a Fox Shadow field that lasts 999 turns. Whenever an ally takes single-target damage or [tips_5], the damage is reduced by 50%.\nAt the beginning of an ally or an enemy's turn, the ally with the lowest proportion of HP is chosen. If he is under [tips_27], all damage that would be dealt to that ally this turn is dealt to him instead.",
+        "zh": "开启存在999回合的狐影结界，任何友方受到单体伤害和[tips_5]时，使该次伤害降低50%。\n在每个回合（不论敌我）开始时，选定生命比例最低的友方目标，若自身处于[tips_27]，则可在该回合内代替该友方承受所有伤害。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương giảm tăng lên [b_参数p1_per]",
-            "en": "Reduces damage to [b_参数p1_per].",
-            "zh": "伤害降低增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Sát thương giảm tăng lên [b_参数p1_per]",
-            "en": "Reduces damage to [b_参数p1_per].",
-            "zh": "伤害降低增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Sát thương giảm tăng lên [b_参数p1_per]",
-            "en": "Reduces damage to [b_参数p1_per].",
-            "zh": "伤害降低增至[b_参数p1_per]"
+            "vi": "Sát thương giảm tăng lên 40%",
+            "en": "Reduces damage to 40%.",
+            "zh": "伤害降低增至40%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "Sát thương giảm tăng lên [b_参数p1_per]",
-            "en": "Reduces damage to [b_参数p1_per].",
-            "zh": "伤害降低增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Sát thương giảm tăng lên [b_参数p1_per]",
-            "en": "Reduces damage to [b_参数p1_per].",
-            "zh": "伤害降低增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Sát thương giảm tăng lên [b_参数p1_per]",
-            "en": "Reduces damage to [b_参数p1_per].",
-            "zh": "伤害降低增至[b_参数p1_per]"
+            "vi": "Sát thương giảm tăng lên 45%",
+            "en": "Reduces damage to 45%.",
+            "zh": "伤害降低增至45%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "Sát thương giảm tăng lên [b_参数p1_per]",
-            "en": "Reduces damage to [b_参数p1_per].",
-            "zh": "伤害降低增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Sát thương giảm tăng lên [b_参数p1_per]",
-            "en": "Reduces damage to [b_参数p1_per].",
-            "zh": "伤害降低增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Sát thương giảm tăng lên [b_参数p1_per]",
-            "en": "Reduces damage to [b_参数p1_per].",
-            "zh": "伤害降低增至[b_参数p1_per]"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Thời gian tồn tại tăng lên 2 lượt",
-            "en": "Increases duration to 2 turns.",
-            "zh": "存在时间增至2回合"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Thời gian tồn tại tăng lên 2 lượt",
-            "en": "Increases duration to 2 turns.",
-            "zh": "存在时间增至2回合"
+            "vi": "Sát thương giảm tăng lên 50%",
+            "en": "Reduces damage to 50%.",
+            "zh": "伤害降低增至50%"
           }
         },
         {
@@ -291,7 +233,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "j_xiaobai.png"
+    "portraitFile": "316.png",
+    "headIconFile": "316a.png"
   }
 }

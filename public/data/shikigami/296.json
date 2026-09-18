@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3081,
+      "value": 3404,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10252,
-      "grade": "B"
+      "value": 11393,
+      "grade": "A"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 388,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 105,
+      "value": 115,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2961,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phong",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至80%",
+            "vi": "Sát thương tăng lên 80%",
             "en": "伤害增加至80%",
             "zh": "伤害增加至80%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至84%",
+            "vi": "Sát thương tăng lên 84%",
             "en": "伤害增加至84%",
             "zh": "伤害增加至84%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至87%",
+            "vi": "Sát thương tăng lên 87%",
             "en": "伤害增加至87%",
             "zh": "伤害增加至87%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至95%",
+            "vi": "Sát thương tăng lên 95%",
             "en": "伤害增加至95%",
             "zh": "伤害增加至95%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2962,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Liệt",
@@ -128,17 +132,9 @@
         {
           "level": 2,
           "text": {
-            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
-            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
-            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
+            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến 15%.",
+            "en": "Increases [buff_2962_1]'s ATK boost effect to 15%.",
+            "zh": "[buff_2962_1]提升攻击效果增至15%"
           }
         },
         {
@@ -152,17 +148,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
-            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
-            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
+            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến 20%.",
+            "en": "Increases [buff_2962_1]'s ATK boost effect to 20%.",
+            "zh": "[buff_2962_1]提升攻击效果增至20%"
           }
         },
         {
@@ -176,17 +164,9 @@
         {
           "level": 4,
           "text": {
-            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
-            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến [b_属性1数值_per].",
-            "en": "Increases [buff_2962_1]'s ATK boost effect to [b_属性1数值_per].",
-            "zh": "[buff_2962_1]提升攻击效果增至[b_属性1数值_per]"
+            "vi": "Hiệu quả tăng tấn công của [buff_2962_1] tăng đến 25%.",
+            "en": "Increases [buff_2962_1]'s ATK boost effect to 25%.",
+            "zh": "[buff_2962_1]提升攻击效果增至25%"
           }
         },
         {
@@ -195,14 +175,6 @@
             "vi": "Hiệu quả tăng tấn công tăng đến 25%.",
             "en": "Increases the ATK boost effect to 25%.",
             "zh": "增加攻击效果提升至25%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Nếu tỷ lệ HP của bất kỳ kẻ địch nào thấp hơn 35%, hiệu quả tăng thanh hành động tăng đến 70%.",
-            "en": "If any enemy's HP is below 35%, the Move Bar-raising effect is increased to 70%.",
-            "zh": "若任一敌方生命比例低于35%，则增加行动条效果增至70%"
           }
         },
         {
@@ -228,6 +200,8 @@
     {
       "id": 2963,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Trảm",
@@ -240,15 +214,15 @@
         "zh": "终于到了复仇之时！"
       },
       "description": {
-        "vi": "Bộc phát toàn thân sức mạnh tấn công mục tiêu kẻ địch, tiếp theo lại tấn công một mục tiêu kẻ địch khác có tỷ lệ HP thấp nhất, đều gây sát thương 152% và chắc chắn bạo kích, đồng thời đính kèm [buff_2963_1], gây lượng [tips_5] bằng HP hiện tại của kẻ địch [b_参数p1_per] + tấn công [b_参数p2_per] (không vượt quá [b_参数p3_per] tấn công của bản thân), duy trì 1 lượt. Sau khi [buff_2963_1] biến mất, đính kèm 100% cấm trị liệu, duy trì 1 lượt.",
-        "en": "Channels all of his power to attack 1 enemy before he attacks the enemy with the proportionally lowest HP, dealing damage equal to 152% of his ATK on each hit and inflicting [buff_2963_1] (dealing [tips_5] equal to [b_参数p1_per] of their current HP + [b_参数p2_per] of Yamakaze's ATK (max at [b_参数p3_per] of Yamakaze's ATK)) lasting 1 turn(s) on the targets. Both attacks are guaranteed to land critical hits. When [buff_2963_1] is lifted, inflicts a 100% Heal Down lasting 1 turn on them.",
-        "zh": "爆发全身力量攻击敌方目标，接着再攻击另一名生命比例最低的敌方目标，均造成攻击152%伤害且必定暴击，并附加[buff_2963_1]，造成敌方当前生命值[b_参数p1_per]+攻击[b_参数p2_per][tips_5]（不超过自身攻击[b_参数p3_per]），持续1回合。[buff_2963_1]消失后，附加减疗100%，持续1回合。"
+        "vi": "Bộc phát toàn thân sức mạnh tấn công mục tiêu kẻ địch, tiếp theo lại tấn công một mục tiêu kẻ địch khác có tỷ lệ HP thấp nhất, đều gây sát thương 152% và chắc chắn bạo kích, đồng thời đính kèm [buff_2963_1], gây lượng [tips_5] bằng HP hiện tại của kẻ địch 12% + tấn công 88% (không vượt quá 320% tấn công của bản thân), duy trì 1 lượt. Sau khi [buff_2963_1] biến mất, đính kèm 100% cấm trị liệu, duy trì 1 lượt.",
+        "en": "Channels all of his power to attack 1 enemy before he attacks the enemy with the proportionally lowest HP, dealing damage equal to 152% of his ATK on each hit and inflicting [buff_2963_1] (dealing [tips_5] equal to 12% of their current HP + 88% of Yamakaze's ATK (max at 320% of Yamakaze's ATK) lasting 1 turn(s) on the targets. Both attacks are guaranteed to land critical hits. When [buff_2963_1] is lifted, inflicts a 100% Heal Down lasting 1 turn on them.",
+        "zh": "爆发全身力量攻击敌方目标，接着再攻击另一名生命比例最低的敌方目标，均造成攻击152%伤害且必定暴击，并附加[buff_2963_1]，造成敌方当前生命值12%+攻击88%[tips_5]（不超过自身攻击320%），持续1回合。[buff_2963_1]消失后，附加减疗100%，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至139%",
+            "vi": "Sát thương tăng lên 139%",
             "en": "伤害增加至139%",
             "zh": "伤害增加至139%"
           }
@@ -256,7 +230,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至145%",
+            "vi": "Sát thương tăng lên 145%",
             "en": "伤害增加至145%",
             "zh": "伤害增加至145%"
           }
@@ -264,7 +238,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至152%",
+            "vi": "Sát thương tăng lên 152%",
             "en": "伤害增加至152%",
             "zh": "伤害增加至152%"
           }
@@ -283,7 +257,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "296.png",
+    "headIconFile": "296a.png"
   }
 }

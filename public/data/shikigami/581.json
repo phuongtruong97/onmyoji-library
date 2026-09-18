@@ -10,37 +10,37 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3001,
+      "value": 3296,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
-      "grade": "C"
+      "value": 11137,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 343,
-      "grade": "D"
+      "value": 406,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
       "label": "CHÍ MẠNG",
-      "value": "9%",
-      "grade": "A"
+      "value": "11%",
+      "grade": "S"
     }
   ],
   "secondaryStats": {
@@ -52,6 +52,8 @@
     {
       "id": 5811,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thanh Đoản",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 5812,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Trư Lộc Điệp",
@@ -120,15 +124,15 @@
         "zh": "坠入我花札的世界吧。"
       },
       "description": {
-        "vi": "Bài Hanafuda hiểu chân ý. Khi thi triển 『Ngũ Quang Trảm』, đính kèm [buff_5812_1] cho mục tiêu chọn định, [tips_15] 1 lượt. Mỗi tầng Hoa Ước giảm trị liệu, không có hiệu lực với quái vật. Khi đính kèm [buff_5812_1], nhận 30% giảm sát thương, duy trì 2 lượt. [tips_5] do kỹ năng bản thân gây ra tăng 50%. Khi tấn công mục tiêu mang 6 tầng [buff_5811_1] bỏ qua 180 điểm Phòng thủ.",
+        "vi": "Bài Hanafuda hiểu chân ý. Khi thi triển [Ngũ Quang Trảm], đính kèm [buff_5812_1] cho mục tiêu chọn định, [tips_15] 1 lượt. Mỗi tầng Hoa Ước giảm trị liệu, không có hiệu lực với quái vật. Khi đính kèm [buff_5812_1], nhận 30% giảm sát thương, duy trì 2 lượt. [tips_5] do kỹ năng bản thân gây ra tăng 50%. Khi tấn công mục tiêu mang 6 tầng [buff_5811_1] bỏ qua 180 điểm Phòng thủ.",
         "en": "Explore true sentiments from the hanafuda cards. When using Five-Light Slash, inflicts [buff_5812_1] that's [tips_15] for 1 turn on the enemy. Each Flower Memory stack reduces healing (ineffective on monsters). Upon inflicting [buff_5812_1], grants a 30% damage reduction for 2 turns. Increases her skills' [tips_5] dealt by 50%. Attacking enemies with 6 [buff_5811_1] stacks ignores DEF by 180.",
-        "zh": "花札牌中品真意。施放『五光斩』时，为选定目标附加[buff_5812_1]，[tips_15]1回合。 每层花忆减疗，对怪物无效。附加[buff_5812_1]时，获得30%减伤，持续2回合。自身技能造成[tips_5]提升50%。攻击携带6层[buff_5811_1]的目标时无视180点防御。"
+        "zh": "花札牌中品真意。施放『五光斩]时，为选定目标附加[buff_5812_1]，[tips_15]1回合。 每层花忆减疗，对怪物无效。附加[buff_5812_1]时，获得30%减伤，持续2回合。自身技能造成[tips_5]提升50%。攻击携带6层[buff_5811_1]的目标时无视180点防御。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Mỗi tầng Hoa Ước giảm 10% trị liệu, không có hiệu lực với quái vật",
+            "vi": "Mỗi tầng Hoa Ức giảm 10% trị liệu, không có hiệu lực với quái vật",
             "en": "Each Flower Memory stack reduces healing efficiency by 10% (ineffective on monsters).",
             "zh": "每层花忆减疗10%，对怪物无效"
           }
@@ -164,6 +168,8 @@
     {
       "id": 5813,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ngũ Quang Trảm",
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Hệ số sát thương lên mục tiêu chọn định nâng lên 310%",
+            "vi": "Hệ số sát thương lên mục tiêu chọn định tăng lên 310%",
             "en": "Increases the damage multiplier to the first enemy to 310%.",
             "zh": "对选定目标伤害系数提高至310%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Hệ số sát thương lên mục tiêu chọn định nâng lên 330%",
+            "vi": "Hệ số sát thương lên mục tiêu chọn định tăng lên 330%",
             "en": "Increases the damage multiplier to the first enemy to 330%.",
             "zh": "对选定目标伤害系数提高至330%"
           }
@@ -208,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Hệ số sát thương lên mục tiêu chọn định nâng lên 350%",
+            "vi": "Hệ số sát thương lên mục tiêu chọn định tăng lên 350%",
             "en": "Increases the damage multiplier to the first enemy to 350%.",
             "zh": "对选定目标伤害系数提高至350%"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "581.png",
+    "headIconFile": "581a.png"
   }
 }

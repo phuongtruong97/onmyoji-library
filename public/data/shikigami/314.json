@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3001,
+      "value": 3323,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
+      "value": 10026,
       "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 352,
+      "value": 388,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 108,
-      "grade": "A"
+      "value": 118,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3141,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Độc Hoa Trảo",
@@ -64,15 +66,15 @@
         "zh": "就让我的毒爪把你融化吧。"
       },
       "description": {
-        "vi": "Sử dụng Độc Hoa Trảo tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công đồng thời có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất giảm 20% Phòng thủ, duy trì 1 lượt.",
-        "en": "Uses his claws to attack 1 enemy, dealing damage equal to 125% of his ATK, with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of reducing the target's DEF by 20% for 1 turn.",
-        "zh": "使用毒华爪攻击敌方目标，造成攻击125%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率降低20%防御，持续1回合。"
+        "vi": "Sử dụng Độc Hoa Trảo tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công đồng thời có 100% [tips_2] xác suất giảm 20% Phòng thủ, duy trì 1 lượt.",
+        "en": "Uses his claws to attack 1 enemy, dealing damage equal to 125% of his ATK, with a 100% (+Effect HIT) chance of reducing the target's DEF by 20% for 1 turn.",
+        "zh": "使用毒华爪攻击敌方目标，造成攻击125%伤害并有100%（+效果命中）概率降低20%防御，持续1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3142,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Thiên Sinh Nha Kết Giới",
@@ -120,7 +124,7 @@
         "zh": "结界·天生牙！"
       },
       "description": {
-        "vi": "Khi chịu sát thương, đỡ đòn 30% trong số đó, tối đa không vượt quá 40% HP đã tổn thất.\nKhi chịu sát thương chí mạng, đỡ đòn sát thương lần đó và xóa bỏ tất cả [tips_25] của bản thân, sau đó nhận [tips_16] cho đến khi bắt đầu lượt tiếp theo, khi [tips_16] kết thúc, gánh chịu [buff_3144_1], duy trì 1 lượt; mỗi hồi mục chỉ kích hoạt 1 lần, đồng thời sau khi kích hoạt nhận 30% Hút Máu cho đến khi kết thúc hồi mục.\nKhi ở trạng thái [tips_16], không thể được mời chiến.",
+        "vi": "Khi chịu sát thương, đỡ đòn 30% trong số đó, tối đa không vượt quá 40% HP đã tổn thất.\nKhi chịu sát thương chí mạng, đỡ đòn sát thương lần đó và xóa bỏ tất cả [tips_25] của bản thân, sau đó nhận [tips_16] cho đến khi bắt đầu lượt tiếp theo, khi [tips_16] kết thúc, gánh chịu [buff_3144_1], duy trì 1 lượt; mỗi lượt chỉ kích hoạt 1 lần, đồng thời sau khi kích hoạt nhận 30% Hút Máu cho đến khi kết thúc hồi mục.\nKhi ở trạng thái [tips_16], không thể được mời chiến.",
         "en": "When he takes damage, prevents 30% of the damage taken, up to a max of 40% HP lost.\nWhen he takes lethal damage, prevents the damage, removes each [tips_25] on him, and he becomes [tips_16] until his next turn. When he stops being [tips_16], grants him [buff_3144_1] for 1 turn. Only triggered once each round. Grants him 30% HP Steal until the round ends when triggered.\nHe can't receive Call to Arms while [tips_16].",
         "zh": "受到伤害时，抵挡其中的30%，最多不超过已损失生命的40%。\n受到致命伤害时，抵挡该次伤害并移除自身所有[tips_25]，然后获得[tips_16]直到下个回合开始，当[tips_16]结束时，承受[buff_3144_1]，持续1回合；每回目仅触发1次，并在触发后获得30%吸血直到回目结束。\n[tips_16]时，无法被邀战。"
       },
@@ -131,6 +135,8 @@
     {
       "id": 3143,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Minh Đạo Tàn Nguyệt Phá",
@@ -143,15 +149,15 @@
         "zh": "冥道残月破！"
       },
       "description": {
-        "vi": "Vung ra một đạo Minh Đạo Tàn Nguyệt, gây cho toàn bộ kẻ địch sát thương bằng 182% Tấn công, đồng thời có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm [buff_3143_1], duy trì 2 lượt.",
-        "en": "Unleashes Meido Zangetsu against all enemies, dealing damage equal to 182% of his ATK, and has a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [buff_3143_1] lasting 2 turns on them.",
-        "zh": "挥出一道冥道残月，对敌方全体造成攻击182%伤害，并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_3143_1]，持续2回合。"
+        "vi": "Vung ra một đạo Minh Đạo Tàn Nguyệt, gây cho toàn bộ kẻ địch sát thương bằng 182% Tấn công, đồng thời có 100% [tips_2] xác suất đính kèm [buff_3143_1], duy trì 2 lượt.",
+        "en": "Unleashes Meido Zangetsu against all enemies, dealing damage equal to 182% of his ATK, and has a 100% (+Effect HIT) chance of inflicting [buff_3143_1] lasting 2 turns on them.",
+        "zh": "挥出一道冥道残月，对敌方全体造成攻击182%伤害，并有100%（+效果命中）概率附加[buff_3143_1]，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至158%",
+            "vi": "Sát thương tăng lên 158%",
             "en": "伤害增加至158%",
             "zh": "伤害增加至158%"
           }
@@ -159,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至166%",
+            "vi": "Sát thương tăng lên 166%",
             "en": "伤害增加至166%",
             "zh": "伤害增加至166%"
           }
@@ -167,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至174%",
+            "vi": "Sát thương tăng lên 174%",
             "en": "伤害增加至174%",
             "zh": "伤害增加至174%"
           }
@@ -175,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至182%",
+            "vi": "Sát thương tăng lên 182%",
             "en": "伤害增加至182%",
             "zh": "伤害增加至182%"
           }
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "shashengwan.png",
-    "headIconFile": ""
+    "portraitFile": "314.png",
+    "headIconFile": "314a.png"
   }
 }

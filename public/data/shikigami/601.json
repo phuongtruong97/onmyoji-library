@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 1875,
+      "value": 2144,
       "grade": "D"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 13556,
+      "value": 14697,
       "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 489,
+      "value": 534,
       "grade": "S"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 100,
-      "grade": "B"
+      "value": 110,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -46,12 +46,14 @@
   "secondaryStats": {
     "critDamage": "150%",
     "effectHit": "0%",
-    "effectRes": "0%"
+    "effectRes": "30%"
   },
   "skills": [
     {
       "id": 6011,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Diễm Đồ",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 6012,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cảnh Tỉnh",
@@ -120,9 +124,9 @@
         "zh": "此言切切，足以振聋发聩。"
       },
       "description": {
-        "vi": "[tips_11]. Trí hỏa không dứt, thấu tỏ vạn kiếp. Khi trên sân phe ta có [buff_6011_1], Tư Kim Thần nhận kỹ năng 「[skill_6014_1]」; Mỗi khi trải qua 1 lượt, nếu đồng minh không thi triển yêu thuật, Tư Kim Thần nhận 1 tầng [buff_6012_1]; Khi [buff_6012_1] bị xóa bỏ, khiến người mang [buff_6011_1] có Tấn công cao nhất nhận 1 lượt hành động.",
+        "vi": "[tips_11]. Trí hỏa không dứt, thấu tỏ vạn kiếp. Khi trên sân phe ta có [buff_6011_1], Tư Kim Thần nhận kỹ năng [skill_6014_1]; Mỗi khi trải qua 1 lượt, nếu đồng minh không thi triển yêu thuật, Tư Kim Thần nhận 1 tầng [buff_6012_1]; Khi [buff_6012_1] bị xóa bỏ, khiến người mang [buff_6011_1] có Tấn công cao nhất nhận 1 lượt hành động.",
         "en": "[tips_11]. The Wisdom Flame never fades, seeing through every trial. When an ally has [buff_6011_1] on the field, Omoikane gains the skill [skill_6014_1]. For each turn where allies do not cast a skill, Omoikane gains 1 stack of [buff_6012_1]. When [buff_6012_1] is removed, the [buff_6011_1] bearer with the highest ATK gains an additional turn.",
-        "zh": "[tips_11]。智火无歇，勘破万劫。当友方场上存在[buff_6011_1]时，思金神获得技能「[skill_6014_1]」；每经过1个回合，若友方未施放妖术，思金神获得1层[buff_6012_1]；[buff_6012_1]移除时，使攻击最高的[buff_6011_1]携带者获得1个回合。"
+        "zh": "[tips_11]。智火无歇，勘破万劫。当友方场上存在[buff_6011_1]时，思金神获得技能「[skill_6014_1]；每经过1个回合，若友方未施放妖术，思金神获得1层[buff_6012_1]；[buff_6012_1]移除时，使攻击最高的[buff_6011_1]携带者获得1个回合。"
       },
       "upgrades": [
         {
@@ -136,9 +140,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "Hệ số [tips_28] của 『Khải Mông』 tăng lên 16%",
+            "vi": "Hệ số [tips_28] của [Khải Mông] tăng lên 16%",
             "en": "Enlightenment's [tips_28] multiplier is increased to 16%",
-            "zh": "『启蒙』的[tips_28]系数增至16%"
+            "zh": "『启蒙]的[tips_28]系数增至16%"
           }
         },
         {
@@ -152,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Hệ số [tips_28] của 『Khải Mông』 tăng lên 20%",
+            "vi": "Hệ số [tips_28] của [Khải Mông] tăng lên 20%",
             "en": "Enlightenment's [tips_28] multiplier is increased to 20%",
-            "zh": "『启蒙』的[tips_28]系数增至20%"
+            "zh": "『启蒙]的[tips_28]系数增至20%"
           }
         }
       ],
@@ -162,8 +166,35 @@
       "iconFile": "6012.png"
     },
     {
+      "id": 6014,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 6012,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Khai Sáng",
+        "en": "Enlightenment",
+        "zh": "启蒙"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khi người mang [buff_6011_1] cùng [tips_5862] thi triển kỹ năng yêu thuật tấn công, Tư Kim Thần thi triển yêu thuật trợ chiến, gây [tips_28] tương đương 12% sát thương của đòn tấn công lần đó (trong 1 lần hành động kích hoạt tối đa 40 lần, sát thương gây ra cho mỗi mục tiêu không vượt quá 2400% Tấn công ban đầu của Tư Kim Thần).",
+        "en": "When the bearer of [buff_6011_1] and [tips_5862] cast skills to attack, Omoikane assists by casting a skill, dealing damage equal to 12% [tips_28] of this attack's damage (Can be triggered up to 40 times per action. Damage dealt to each target cannot exceed 2400% of Omoikane's starting ATK.）.",
+        "zh": "[buff_6011_1]携带者与[tips_5862]施放妖术攻击时，思金神施放妖术助战，造成等同于此次攻击伤害12%的[tips_28]（单次行动内至多触发40次，对每个目标造成的伤害不超过思金神初始攻击的2400%）。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "6014.png"
+    },
+    {
       "id": 6013,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Trí Hỏa Trường Minh",
@@ -219,7 +250,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "601.png",
+    "headIconFile": "601a.png"
   }
 }

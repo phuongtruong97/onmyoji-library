@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2680,
-      "grade": "A"
+      "value": 3002,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11392,
-      "grade": "A"
+      "value": 12646,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 410,
-      "grade": "B"
+      "value": 450,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 109,
-      "grade": "A"
+      "value": 119,
+      "grade": "S"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 3041,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nhất Thỉ",
@@ -64,15 +66,15 @@
         "zh": "看到你的破绽了！"
       },
       "description": {
-        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công.\nSau khi kẻ địch hành động, có 5% xác suất thi triển 『Nhất Thỉ • Phong Ma』 lên kẻ đó, gây sát thương tương đương 『Nhất Thỉ』, và có 100% [tips_2] khiến kẻ đó [tips_104], [tips_105], [tips_106], giảm 75% trị liệu, đồng thời không kích hoạt Ngự Hồn và Nội Tại của kẻ đó.",
+        "vi": "Tấn công mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công.\nSau khi kẻ địch hành động, có 5% xác suất thi triển [Nhất Thỉ • Phong Ma] lên kẻ đó, gây sát thương tương đương [Nhất Thỉ], và có 100% [tips_2] khiến kẻ đó [tips_104], [tips_105], [tips_106], giảm 75% trị liệu, đồng thời không kích hoạt Ngự Hồn và Nội Tại của kẻ đó.",
         "en": "Attacks 1 enemy, dealing damage equal to 100% of her ATK.\nAfter an enemy takes an action, has a 5% chance of releasing an Arrow of Sealing at the enemy, dealing damage equal to Divine Arrow's damage with a 100% [tips_2] of inflicting [tips_104], [tips_105], [tips_106] or 75% Heal Down upon the enemy. Arrow of Sealing does not trigger soul effects or passive skills of the target.",
-        "zh": "攻击敌方目标，造成攻击100%伤害。\n敌方行动后，有5%概率对其施放『一矢·封魔』，造成等同『一矢』伤害，并有100%[tips_2]使其[tips_104]、[tips_105]、[tips_106]、减疗75%，且不触发其御魂及被动。"
+        "zh": "攻击敌方目标，造成攻击100%伤害。\n敌方行动后，有5%概率对其施放『一矢·封魔]，造成等同『一矢]伤害，并有100%[tips_2]使其[tips_104]、[tips_105]、[tips_106]、减疗75%，且不触发其御魂及被动。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至84%",
+            "vi": "Sát thương tăng lên 84%",
             "en": "伤害增加至84%",
             "zh": "伤害增加至84%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至88%",
+            "vi": "Sát thương tăng lên 88%",
             "en": "伤害增加至88%",
             "zh": "伤害增加至88%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至92%",
+            "vi": "Sát thương tăng lên 92%",
             "en": "伤害增加至92%",
             "zh": "伤害增加至92%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3042,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hồ Thụ Giới",
@@ -120,15 +124,15 @@
         "zh": "和我一起，守护这片土地..."
       },
       "description": {
-        "vi": "Tạo ra kết giới tồn tại 1 lượt, khiến tỷ lệ thi triển 『Nhất Thỉ • Phong Ma』 tăng lên [b_参数p1_per], đồng thời khi thi triển sẽ nhận 4 tầng [buff_3041_1], giới hạn 12 tầng.\n[tips_7]: Thi triển 『Hồ Thụ Giới』",
-        "en": "Forms a Fox Realm lasting 1 turn. The realm increases her chance of releasing Arrow of Seal to [b_参数p1_per] and grants her 4 layers of [buff_3041_1] stacking up to 12 layers.\n[tips_7]: Forms a Fox Realm.",
-        "zh": "创造存在1回合的结界，使『一矢·封魔』的施放概率提升至[b_参数p1_per]，且在施放时将获得4层[buff_3041_1]，上限12层。\n[tips_7]：施放『狐狩界』"
+        "vi": "Tạo ra kết giới tồn tại 1 lượt, khiến tỷ lệ thi triển [Nhất Thỉ • Phong Ma] tăng lên 40%, đồng thời khi thi triển sẽ nhận 4 tầng [buff_3041_1], giới hạn 12 tầng.\n[tips_7]: Thi triển [Hồ Thụ Giới]",
+        "en": "Forms a Fox Realm lasting 1 turn. The realm increases her chance of releasing Arrow of Seal to 40% and grants her 4 layers of [buff_3041_1] stacking up to 12 layers.\n[tips_7]: Forms a Fox Realm.",
+        "zh": "创造存在1回合的结界，使『一矢·封魔]的施放概率提升至40%，且在施放时将获得4层[buff_3041_1]，上限12层。\n[tips_7]：施放『狐狩界]"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "该技能无法升级",
+            "vi": "Kỹ năng này không thể nâng cấp",
             "en": "该技能无法升级",
             "zh": "该技能无法升级"
           }
@@ -136,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "该技能无法升级",
+            "vi": "Kỹ năng này không thể nâng cấp",
             "en": "该技能无法升级",
             "zh": "该技能无法升级"
           }
@@ -144,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "该技能无法升级",
+            "vi": "Kỹ năng này không thể nâng cấp",
             "en": "该技能无法升级",
             "zh": "该技能无法升级"
           }
@@ -152,7 +156,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "该技能无法升级",
+            "vi": "Kỹ năng này không thể nâng cấp",
             "en": "该技能无法升级",
             "zh": "该技能无法升级"
           }
@@ -164,6 +168,8 @@
     {
       "id": 3043,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Nhiên Bạo • Phá Ma Tiễn",
@@ -184,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Mỗi tầng tăng sát thương nâng lên 21%",
+            "vi": "Mỗi tầng tăng sát thương tăng lên 21%",
             "en": "Increases each layer's damage to 21%.",
             "zh": "每层提升伤害增至21%"
           }
@@ -192,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Mỗi tầng tăng sát thương nâng lên 22%",
+            "vi": "Mỗi tầng tăng sát thương tăng lên 22%",
             "en": "Increases each layer's damage to 22%.",
             "zh": "每层提升伤害增至22%"
           }
@@ -200,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Mỗi tầng tăng sát thương nâng lên 23%",
+            "vi": "Mỗi tầng tăng sát thương tăng lên 23%",
             "en": "Increases each layer's damage to 23%.",
             "zh": "每层提升伤害增至23%"
           }
@@ -208,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Mỗi tầng tăng sát thương nâng lên 25%",
+            "vi": "Mỗi tầng tăng sát thương tăng lên 25%",
             "en": "Increases each layer's damage to 25%.",
             "zh": "每层提升伤害增至25%"
           }
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "yuzhuanjin.png",
-    "headIconFile": ""
+    "portraitFile": "304.png",
+    "headIconFile": "304a.png"
   }
 }

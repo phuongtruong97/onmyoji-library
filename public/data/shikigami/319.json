@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2840,
-      "grade": "A"
+      "value": 3109,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9569,
-      "grade": "C"
+      "value": 10595,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
-      "grade": "C"
+      "value": 401,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 105,
+      "value": 115,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 3191,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Linh Lực Bộc Phát",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至85%",
+            "vi": "Sát thương tăng lên 85%",
             "en": "伤害增加至85%",
             "zh": "伤害增加至85%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害增加至90%",
             "zh": "伤害增加至90%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至95%",
+            "vi": "Sát thương tăng lên 95%",
             "en": "伤害增加至95%",
             "zh": "伤害增加至95%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sát thương tăng lên 100%, xác suất xua tan nâng lên 100%",
+            "vi": "Sát thương tăng lên 100%, xác suất xua tan tăng lên 100%",
             "en": "Increases damage to 100% and dispelling chance to 100%.",
             "zh": "伤害增加至100%，驱散概率增至100%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 3192,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Linh Hồn Kết Giới",
@@ -120,9 +124,9 @@
         "zh": "我不会逃避，也不会躲藏。"
       },
       "description": {
-        "vi": "Sau khi lượt kết thúc, nếu bản thân không ở trạng thái [tips_17], giải phóng [buff_3192_1] phòng ngự bản thân, có thể hấp thụ lượng sát thương bằng [b_伤害吸收_per] Tấn công. Khi [buff_3192_1] bị phá vỡ, tăng 30% Tấn công, duy trì 1 lượt.",
-        "en": "At the end of her turn, creates a [buff_3192_1] to protect herself if she's not under any [tips_17]s, absorbing damage equal to [b_伤害吸收_per] of her ATK. When the [buff_3192_1] is broken, increases her ATK by 30% for 1 turn.",
-        "zh": "回合结束后，若自身未处于[tips_17]，释放[buff_3192_1]防御自身，能吸收攻击[b_伤害吸收_per]的伤害。[buff_3192_1]被击破时，提升30%攻击，持续1回合。"
+        "vi": "Sau khi lượt kết thúc, nếu bản thân không ở trạng thái [tips_17], giải phóng [buff_3192_1] phòng ngự bản thân, có thể hấp thụ lượng sát thương bằng 100% Tấn công. Khi [buff_3192_1] bị phá vỡ, tăng 30% Tấn công, duy trì 1 lượt.",
+        "en": "At the end of her turn, creates a [buff_3192_1] to protect herself if she's not under any [tips_17]s, absorbing damage equal to 100% of her ATK. When the [buff_3192_1] is broken, increases her ATK by 30% for 1 turn.",
+        "zh": "回合结束后，若自身未处于[tips_17]，释放[buff_3192_1]防御自身，能吸收攻击100%的伤害。[buff_3192_1]被击破时，提升30%攻击，持续1回合。"
       },
       "upgrades": [],
       "orbCost": 0,
@@ -131,6 +135,8 @@
     {
       "id": 3193,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phá Ma Chi Tiễn",
@@ -143,15 +149,15 @@
         "zh": "你只有死路一条！"
       },
       "description": {
-        "vi": "Bắn mũi tên cường lực thuộc tính Thánh về phía mục tiêu kẻ địch, gây sát thương bằng 302% Tấn công, và có 100% (+[*|a_debuff-acc_per|s_buff概率_per]) xác suất đính kèm [buff_3193_1], duy trì 2 lượt; đối với kẻ địch mang [buff_3193_1], sát thương tăng 100%. Nếu [buff_3193_1] bị xua tan, đính kèm [buff_3194_1] cho mục tiêu, sẽ khiến hiệu ứng Ngự Hồn, Kỹ Năng Nội Tại của Thức Thần trang bị vô hiệu, duy trì 2 lượt.",
-        "en": "Releases a powerful sacred arrow at 1 enemy, dealing damage equal to 302% of her ATK with a 100% (+[*|a_debuff-acc_per|s_buff概率_per]) chance of inflicting [buff_3193_1] lasting 2 turns on them. Damage to enemies with [buff_3193_1] is increased by 100%. When [buff_3193_1] is dispelled, inflicts [buff_3194_1] lasting 2 turns on the target, preventing the effects of the shikigami's souls and passive skills from taking effect.",
-        "zh": "向敌方目标射出圣属性的强力箭矢，造成攻击302%伤害，并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_3193_1]，持续2回合；对带有[buff_3193_1]的敌方，伤害提升100%。若[buff_3193_1]被驱散，则为目标附加[buff_3194_1]，将使式神所配戴御魂效果、被动技能失效，持续2回合。"
+        "vi": "Bắn mũi tên cường lực thuộc tính Thánh về phía mục tiêu kẻ địch, gây sát thương bằng 302% Tấn công, và có 100% [tips_2] xác suất đính kèm [buff_3193_1], duy trì 2 lượt; đối với kẻ địch mang [buff_3193_1], sát thương tăng 100%. Nếu [buff_3193_1] bị xua tan, đính kèm [buff_3194_1] cho mục tiêu, sẽ khiến hiệu ứng Ngự Hồn, Kỹ Năng Nội Tại của Thức Thần trang bị vô hiệu, duy trì 2 lượt.",
+        "en": "Releases a powerful sacred arrow at 1 enemy, dealing damage equal to 302% of her ATK with a 100% (+Effect HIT) chance of inflicting [buff_3193_1] lasting 2 turns on them. Damage to enemies with [buff_3193_1] is increased by 100%. When [buff_3193_1] is dispelled, inflicts [buff_3194_1] lasting 2 turns on the target, preventing the effects of the shikigami's souls and passive skills from taking effect.",
+        "zh": "向敌方目标射出圣属性的强力箭矢，造成攻击302%伤害，并有100%（+效果命中）概率附加[buff_3193_1]，持续2回合；对带有[buff_3193_1]的敌方，伤害提升100%。若[buff_3193_1]被驱散，则为目标附加[buff_3194_1]，将使式神所配戴御魂效果、被动技能失效，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至276%",
+            "vi": "Sát thương tăng lên 276%",
             "en": "伤害增加至276%",
             "zh": "伤害增加至276%"
           }
@@ -159,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至289%",
+            "vi": "Sát thương tăng lên 289%",
             "en": "伤害增加至289%",
             "zh": "伤害增加至289%"
           }
@@ -167,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至302%",
+            "vi": "Sát thương tăng lên 302%",
             "en": "伤害增加至302%",
             "zh": "伤害增加至302%"
           }
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "jiegeng.png",
-    "headIconFile": "h_jiegeng.png"
+    "portraitFile": "319.png",
+    "headIconFile": "319a.png"
   }
 }

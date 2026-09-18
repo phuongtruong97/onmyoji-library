@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2680,
-      "grade": "A"
+      "value": 2975,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9455,
-      "grade": "C"
+      "value": 10482,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 383,
-      "grade": "C"
+      "value": 428,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 101,
-      "grade": "B"
+      "value": 111,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,9 +52,11 @@
     {
       "id": 2181,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "正义之刺",
+        "vi": "Chính Nghĩa Chi Thích",
         "en": "正义之刺",
         "zh": "正义之刺"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至90%",
+            "vi": "Sát thương tăng lên 90%",
             "en": "伤害增加至90%",
             "zh": "伤害增加至90%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至100%",
+            "vi": "Sát thương tăng lên 100%",
             "en": "伤害增加至100%",
             "zh": "伤害增加至100%"
           }
@@ -106,11 +108,71 @@
       "iconFile": "2181.png"
     },
     {
-      "id": 2183,
+      "id": 2182,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "群鸦乱舞",
+        "vi": "Vũ Thanh",
+        "en": "Purification Wings",
+        "zh": "羽清"
+      },
+      "intro": {
+        "vi": "Tội ác, cứ để ta dọn dẹp sạch sẽ đi!",
+        "en": "I will eliminate all evil!",
+        "zh": "罪恶，就由我来清除干净吧！"
+      },
+      "description": {
+        "vi": "Khi đồng minh Đánh Thường, tăng 5% Thanh Hành Động. Khi lượt bắt đầu, có 100% xác suất xua tan hoặc [tips_1] 1 [tips_3] của bản thân. Khi [Chính Nghĩa Chi Thích], [Quần Nha Loạn Vũ] [tips_10] đồng minh, xua tan hoặc [tips_1] toàn bộ [tips_3] mang trên người đồng minh đó, xua tan hoặc [tips_1] thêm 1 [tips_3] mang trên 1 đồng minh ngẫu nhiên.",
+        "en": "When an ally uses a normal attack, raises his own Move Bar by 5%. At the start of his turn, there's a 100% chance that 1 [tips_3] on him is dispelled or [tips_1]d. When his Blade of Justice or Deadly Flock issues a [tips_10] to an ally, dispels or [tips_1]s all the [tips_3]s on them. Additionally dispels or [tips_1]s a [tips_3] on a random ally.",
+        "zh": "友方普攻时，增加5%行动条。回合开始时，有100%概率驱散或[tips_1]自身的1个[tips_3]。『正义之刺]、『群鸦乱舞][tips_10]友方时，驱散或[tips_1]其带有的所有[tips_3]，额外驱散或[tips_1]1名随机友方带的1个[tips_3]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "触发概率增至70%",
+            "en": "触发概率增至70%",
+            "zh": "触发概率增至70%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "触发概率增至100%",
+            "en": "触发概率增至100%",
+            "zh": "触发概率增至100%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi [Chính Nghĩa Chi Thích], [Quần Nha Loạn Vũ] [tips_10] đồng minh, xua tan hoặc [tips_1] toàn bộ [tips_3] mang trên người đồng minh đó",
+            "en": "When Blade of Justice or Deadly Flock issues a [tips_10] to an ally, dispels or [tips_1]s all the [tips_3]s on them.",
+            "zh": "『正义之刺]、『群鸦乱舞][tips_10]友方时，驱散或[tips_1]其带有的所有[tips_3]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Xua tan hoặc [tips_1] thêm 1 [tips_3] mang trên 1 đồng minh ngẫu nhiên",
+            "en": "Additionally dispels or [tips_1]s a [tips_3] on a random ally.",
+            "zh": "额外驱散或[tips_1]1名随机友方带的1个[tips_3]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "2182.png"
+    },
+    {
+      "id": 2183,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quần Nha Loạn Vũ",
         "en": "群鸦乱舞",
         "zh": "群鸦乱舞"
       },
@@ -128,7 +190,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至131%",
+            "vi": "Sát thương tăng lên 131%",
             "en": "伤害增加至131%",
             "zh": "伤害增加至131%"
           }
@@ -144,7 +206,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至143%",
+            "vi": "Sát thương tăng lên 143%",
             "en": "伤害增加至143%",
             "zh": "伤害增加至143%"
           }
@@ -163,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "yatiangou.png",
-    "headIconFile": "h_yatiangou.png"
+    "portraitFile": "218.png",
+    "headIconFile": "218a.png"
   }
 }

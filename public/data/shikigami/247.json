@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2760,
-      "grade": "A"
+      "value": 3055,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9113,
+      "value": 10140,
       "grade": "C"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 383,
-      "grade": "C"
+      "value": 428,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 99,
-      "grade": "C"
+      "value": 109,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2471,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thủy Long Cuộn",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2472,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 3,
       "name": {
         "vi": "Chúc Phúc Chi Thủy",
@@ -131,6 +135,8 @@
     {
       "id": 2473,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cự Lãng",
@@ -143,7 +149,7 @@
         "zh": "巨浪啊，吞噬一切吧！"
       },
       "description": {
-        "vi": "用妖力汇聚身边的水流，形成波涛汹涌的巨大海浪席卷敌方全体，攻击3次，每次造成攻击45%伤害。",
+        "vi": "Dùng yêu lực hội tụ dòng nước quanh thân, tạo thành ngọn sóng khổng lồ cuồn cuộn quét qua toàn thể phe địch, tấn công 3 lần, mỗi lần gây sát thương bằng 45% Tấn công.",
         "en": "用妖力汇聚身边的水流，形成波涛汹涌的巨大海浪席卷敌方全体，攻击3次，每次造成攻击45%伤害。",
         "zh": "用妖力汇聚身边的水流，形成波涛汹涌的巨大海浪席卷敌方全体，攻击3次，每次造成攻击45%伤害。"
       },
@@ -151,7 +157,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至36%",
+            "vi": "Sát thương tăng lên 36%",
             "en": "伤害增加至36%",
             "zh": "伤害增加至36%"
           }
@@ -159,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至39%",
+            "vi": "Sát thương tăng lên 39%",
             "en": "伤害增加至39%",
             "zh": "伤害增加至39%"
           }
@@ -167,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至42%",
+            "vi": "Sát thương tăng lên 42%",
             "en": "伤害增加至42%",
             "zh": "伤害增加至42%"
           }
@@ -175,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至45%",
+            "vi": "Sát thương tăng lên 45%",
             "en": "伤害增加至45%",
             "zh": "伤害增加至45%"
           }
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "haifangzhu.png",
-    "headIconFile": "h_haifangzhu.png"
+    "portraitFile": "247.png",
+    "headIconFile": "247a.png"
   }
 }

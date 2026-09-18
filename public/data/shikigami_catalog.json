@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "source": "manual_excel",
-  "count": 266,
+  "count": 269,
   "heroes": [
     {
       "id": 10,
@@ -13,8 +13,8 @@
       "rarity": "Onmyoji",
       "tier": "Onmyoji",
       "assets": {
-        "portraitFile": "zhujue01.png",
-        "headIconFile": "h_zhujue01.png"
+        "portraitFile": "10.png",
+        "headIconFile": "10a.png"
       }
     },
     {
@@ -27,8 +27,8 @@
       "rarity": "Onmyoji",
       "tier": "Onmyoji",
       "assets": {
-        "portraitFile": "zhujue02.png",
-        "headIconFile": ""
+        "portraitFile": "11.png",
+        "headIconFile": "11a.png"
       }
     },
     {
@@ -41,8 +41,8 @@
       "rarity": "Onmyoji",
       "tier": "Onmyoji",
       "assets": {
-        "portraitFile": "zhujue03.png",
-        "headIconFile": ""
+        "portraitFile": "12.png",
+        "headIconFile": "12a.png"
       }
     },
     {
@@ -55,22 +55,22 @@
       "rarity": "Onmyoji",
       "tier": "Onmyoji",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_zhujue04.png"
+        "portraitFile": "13.png",
+        "headIconFile": "13a.png"
       }
     },
     {
       "id": 593,
       "name": {
-        "vi": "Yêu Đao Cơ · Phi Dạ Lạp Nhận",
+        "vi": "Yêu Đao Cơ · Phi Dạ Liệp Nhận",
         "en": "Yoto Hime, Scarlet Nightedge",
         "zh": "妖刀姬·绯夜猎刃"
       },
       "rarity": "UR",
       "tier": "UR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "593.png",
+        "headIconFile": "593a.png"
       }
     },
     {
@@ -83,8 +83,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "315.png",
+        "headIconFile": "315a.png"
       }
     },
     {
@@ -97,8 +97,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "322.png",
+        "headIconFile": "322a.png"
       }
     },
     {
@@ -111,8 +111,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "326.png",
+        "headIconFile": "326a.png"
       }
     },
     {
@@ -125,8 +125,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "327.png",
+        "headIconFile": "327a.png"
       }
     },
     {
@@ -139,8 +139,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "328.png",
+        "headIconFile": "328a.png"
       }
     },
     {
@@ -153,8 +153,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "331.png",
+        "headIconFile": "331a.png"
       }
     },
     {
@@ -167,8 +167,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "j_sphuangchuan.png"
+        "portraitFile": "334.png",
+        "headIconFile": "334a.png"
       }
     },
     {
@@ -181,8 +181,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "j_spyuzaoqian.png"
+        "portraitFile": "339.png",
+        "headIconFile": "339a.png"
       }
     },
     {
@@ -195,8 +195,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "j_spjiutuntongzi.png"
+        "portraitFile": "341.png",
+        "headIconFile": "341a.png"
       }
     },
     {
@@ -209,8 +209,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "343.png",
+        "headIconFile": "343a.png"
       }
     },
     {
@@ -223,8 +223,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "346.png",
+        "headIconFile": "346a.png"
       }
     },
     {
@@ -237,8 +237,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_spqingxingdeng.png"
+        "portraitFile": "348.png",
+        "headIconFile": "348a.png"
       }
     },
     {
@@ -251,8 +251,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "352.png",
+        "headIconFile": "352a.png"
       }
     },
     {
@@ -265,8 +265,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "354.png",
+        "headIconFile": "354a.png"
       }
     },
     {
@@ -279,8 +279,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "355.png",
+        "headIconFile": "355a.png"
       }
     },
     {
@@ -293,8 +293,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_spshanfeng.png"
+        "portraitFile": "357.png",
+        "headIconFile": "357a.png"
       }
     },
     {
@@ -307,8 +307,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "358.png",
+        "headIconFile": "358a.png"
       }
     },
     {
@@ -321,8 +321,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "362.png",
+        "headIconFile": "362a.png"
       }
     },
     {
@@ -335,8 +335,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_sp_mianlingqi_bai.png"
+        "portraitFile": "366.png",
+        "headIconFile": "366a.png"
       }
     },
     {
@@ -349,8 +349,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "367.png",
+        "headIconFile": "367a.png"
       }
     },
     {
@@ -363,8 +363,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_huiyeji.png",
-        "headIconFile": ""
+        "portraitFile": "372.png",
+        "headIconFile": "372a.png"
       }
     },
     {
@@ -377,8 +377,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_sp_shantu.png"
+        "portraitFile": "377.png",
+        "headIconFile": "377a.png"
       }
     },
     {
@@ -391,8 +391,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_baqidashe.png",
-        "headIconFile": "h_sp_baqidashe.png"
+        "portraitFile": "383.png",
+        "headIconFile": "383a.png"
       }
     },
     {
@@ -405,8 +405,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_sp_yanmo.png"
+        "portraitFile": "385.png",
+        "headIconFile": "385a.png"
       }
     },
     {
@@ -419,8 +419,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "388.png",
+        "headIconFile": "388a.png"
       }
     },
     {
@@ -433,8 +433,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_sp_huang.png"
+        "portraitFile": "390.png",
+        "headIconFile": "390a.png"
       }
     },
     {
@@ -447,8 +447,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_yunwaijing.png",
-        "headIconFile": ""
+        "portraitFile": "393.png",
+        "headIconFile": "393a.png"
       }
     },
     {
@@ -461,8 +461,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_zhuiyueshen.png",
-        "headIconFile": ""
+        "portraitFile": "395.png",
+        "headIconFile": "395a.png"
       }
     },
     {
@@ -475,8 +475,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_guitongwan.png",
-        "headIconFile": "h_sp_guitongwan.png"
+        "portraitFile": "396.png",
+        "headIconFile": "396a.png"
       }
     },
     {
@@ -489,8 +489,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_spxiaolunan.png"
+        "portraitFile": "551.png",
+        "headIconFile": "551a.png"
       }
     },
     {
@@ -503,8 +503,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "554.jpg",
-        "headIconFile": ""
+        "portraitFile": "554.png",
+        "headIconFile": "554a.png"
       }
     },
     {
@@ -517,8 +517,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_sp_yingcao.png"
+        "portraitFile": "555.png",
+        "headIconFile": "555a.png"
       }
     },
     {
@@ -531,8 +531,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_sp_sanweihu.png"
+        "portraitFile": "559.png",
+        "headIconFile": "559a.png"
       }
     },
     {
@@ -545,8 +545,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_sp_qianji.png"
+        "portraitFile": "562.png",
+        "headIconFile": "562a.png"
       }
     },
     {
@@ -559,8 +559,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "565.png",
+        "headIconFile": "565a.png"
       }
     },
     {
@@ -573,8 +573,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "566.png",
+        "headIconFile": "566a.png"
       }
     },
     {
@@ -587,8 +587,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_lingluyuqian.png",
-        "headIconFile": "h_sp_lingluyuqian.png"
+        "portraitFile": "568.png",
+        "headIconFile": "568a.png"
       }
     },
     {
@@ -601,8 +601,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_yanyanluo.png",
-        "headIconFile": ""
+        "portraitFile": "572.png",
+        "headIconFile": "572a.png"
       }
     },
     {
@@ -615,8 +615,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_quanshen.png",
-        "headIconFile": ""
+        "portraitFile": "574.png",
+        "headIconFile": "574a.png"
       }
     },
     {
@@ -629,8 +629,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_sp_xingxiongtongzi.png"
+        "portraitFile": "578.png",
+        "headIconFile": "578a.png"
       }
     },
     {
@@ -643,8 +643,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_jinnaluo.png",
-        "headIconFile": ""
+        "portraitFile": "579.png",
+        "headIconFile": "579a.png"
       }
     },
     {
@@ -657,8 +657,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_rihefang.png",
-        "headIconFile": "h_sp_rihefang.png"
+        "portraitFile": "580.png",
+        "headIconFile": "580a.png"
       }
     },
     {
@@ -671,8 +671,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "584.png",
+        "headIconFile": "584a.png"
       }
     },
     {
@@ -685,8 +685,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "sp_bujianyue.png",
-        "headIconFile": ""
+        "portraitFile": "586.png",
+        "headIconFile": "586a.png"
       }
     },
     {
@@ -699,8 +699,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "590.png",
+        "headIconFile": "590a.png"
       }
     },
     {
@@ -713,8 +713,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "594.png",
+        "headIconFile": "594a.png"
       }
     },
     {
@@ -727,8 +727,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "595.png",
+        "headIconFile": "595a.png"
       }
     },
     {
@@ -741,8 +741,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "598.png",
+        "headIconFile": "598a.png"
       }
     },
     {
@@ -755,8 +755,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "599.png",
+        "headIconFile": "599a.png"
       }
     },
     {
@@ -769,8 +769,8 @@
       "rarity": "SP",
       "tier": "SP",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "602.png",
+        "headIconFile": "602a.png"
       }
     },
     {
@@ -783,8 +783,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "217.png",
+        "headIconFile": "217a.png"
       }
     },
     {
@@ -797,8 +797,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "jiutuntongzi.png",
-        "headIconFile": ""
+        "portraitFile": "219.png",
+        "headIconFile": "219a.png"
       }
     },
     {
@@ -811,8 +811,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "heichuanzhu.png",
-        "headIconFile": "h_heichuanzhu.png"
+        "portraitFile": "248.png",
+        "headIconFile": "248a.png"
       }
     },
     {
@@ -825,8 +825,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_yanmo.png"
+        "portraitFile": "255.png",
+        "headIconFile": "255a.png"
       }
     },
     {
@@ -839,8 +839,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "liangmianfo.png",
-        "headIconFile": "h_liangmianfo.png"
+        "portraitFile": "258.png",
+        "headIconFile": "258a.png"
       }
     },
     {
@@ -853,8 +853,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_xiaolunan.png"
+        "portraitFile": "259.png",
+        "headIconFile": "259a.png"
       }
     },
     {
@@ -867,8 +867,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_cimutongzi.png"
+        "portraitFile": "265.png",
+        "headIconFile": "265a.png"
       }
     },
     {
@@ -881,8 +881,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "qingxingdeng.png",
-        "headIconFile": "h_qingxingdeng.png"
+        "portraitFile": "266.png",
+        "headIconFile": "266a.png"
       }
     },
     {
@@ -895,8 +895,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "yaodaoji.png",
-        "headIconFile": "h_yaodaoji.png"
+        "portraitFile": "269.png",
+        "headIconFile": "269a.png"
       }
     },
     {
@@ -909,8 +909,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "272.png",
+        "headIconFile": "272a.png"
       }
     },
     {
@@ -923,8 +923,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_huaniaojuan.png"
+        "portraitFile": "279.png",
+        "headIconFile": "279a.png"
       }
     },
     {
@@ -937,8 +937,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "huiyeji.png",
-        "headIconFile": ""
+        "portraitFile": "280.png",
+        "headIconFile": "280a.png"
       }
     },
     {
@@ -951,8 +951,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "huang.png",
-        "headIconFile": "h_huang.png"
+        "portraitFile": "283.png",
+        "headIconFile": "283a.png"
       }
     },
     {
@@ -965,8 +965,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_bianhua.png"
+        "portraitFile": "288.png",
+        "headIconFile": "288a.png"
       }
     },
     {
@@ -979,8 +979,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "xuetongzi.png",
-        "headIconFile": "h_xuetongzi.png"
+        "portraitFile": "292.png",
+        "headIconFile": "292a.png"
       }
     },
     {
@@ -993,8 +993,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "296.png",
+        "headIconFile": "296a.png"
       }
     },
     {
@@ -1007,8 +1007,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "yuzaoqian.png",
-        "headIconFile": ""
+        "portraitFile": "300.png",
+        "headIconFile": "300a.png"
       }
     },
     {
@@ -1021,8 +1021,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "yuzhuanjin.png",
-        "headIconFile": ""
+        "portraitFile": "304.png",
+        "headIconFile": "304a.png"
       }
     },
     {
@@ -1035,8 +1035,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "305.png",
+        "headIconFile": "305a.png"
       }
     },
     {
@@ -1049,8 +1049,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_guideng.png"
+        "portraitFile": "308.png",
+        "headIconFile": "308a.png"
       }
     },
     {
@@ -1063,8 +1063,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "mianlingqi.png",
-        "headIconFile": "h_mianlingqi.png"
+        "portraitFile": "311.png",
+        "headIconFile": "311a.png"
       }
     },
     {
@@ -1077,8 +1077,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "guiqie.png",
-        "headIconFile": ""
+        "portraitFile": "312.png",
+        "headIconFile": "312a.png"
       }
     },
     {
@@ -1091,8 +1091,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "quanyecha.png",
-        "headIconFile": "h_quanyecha.png"
+        "portraitFile": "313.png",
+        "headIconFile": "313a.png"
       }
     },
     {
@@ -1105,8 +1105,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "shashengwan.png",
-        "headIconFile": ""
+        "portraitFile": "314.png",
+        "headIconFile": "314a.png"
       }
     },
     {
@@ -1119,8 +1119,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "j_xiaobai.png"
+        "portraitFile": "316.png",
+        "headIconFile": "316a.png"
       }
     },
     {
@@ -1133,8 +1133,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "jiegeng.png",
-        "headIconFile": "h_jiegeng.png"
+        "portraitFile": "319.png",
+        "headIconFile": "319a.png"
       }
     },
     {
@@ -1147,8 +1147,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "dasheshen.png",
-        "headIconFile": "h_dasheshen.png"
+        "portraitFile": "325.png",
+        "headIconFile": "325a.png"
       }
     },
     {
@@ -1161,8 +1161,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_buzhihuo.png"
+        "portraitFile": "330.png",
+        "headIconFile": "330a.png"
       }
     },
     {
@@ -1175,8 +1175,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_dayuewan.png"
+        "portraitFile": "333.png",
+        "headIconFile": "333a.png"
       }
     },
     {
@@ -1189,8 +1189,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_longyechaji.png"
+        "portraitFile": "338.png",
+        "headIconFile": "338a.png"
       }
     },
     {
@@ -1203,8 +1203,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "344.png",
+        "headIconFile": "344a.png"
       }
     },
     {
@@ -1217,8 +1217,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "guitongwan.png",
-        "headIconFile": "h_guitongwan.png"
+        "portraitFile": "345.png",
+        "headIconFile": "345a.png"
       }
     },
     {
@@ -1231,8 +1231,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "347.png",
+        "headIconFile": "347a.png"
       }
     },
     {
@@ -1245,8 +1245,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "lingluyuqian.png",
-        "headIconFile": ""
+        "portraitFile": "351.png",
+        "headIconFile": "351a.png"
       }
     },
     {
@@ -1259,8 +1259,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_jinnaluo.png"
+        "portraitFile": "353.png",
+        "headIconFile": "353a.png"
       }
     },
     {
@@ -1273,8 +1273,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "qianji.png",
-        "headIconFile": ""
+        "portraitFile": "356.png",
+        "headIconFile": "356a.png"
       }
     },
     {
@@ -1287,8 +1287,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_dishitian.png"
+        "portraitFile": "363.png",
+        "headIconFile": "363a.png"
       }
     },
     {
@@ -1301,8 +1301,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "364.png",
+        "headIconFile": "364a.png"
       }
     },
     {
@@ -1315,8 +1315,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "369.png",
+        "headIconFile": "369a.png"
       }
     },
     {
@@ -1329,8 +1329,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_fansi.png"
+        "portraitFile": "370.png",
+        "headIconFile": "370a.png"
       }
     },
     {
@@ -1343,8 +1343,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_yedaoshen.png"
+        "portraitFile": "373.png",
+        "headIconFile": "373a.png"
       }
     },
     {
@@ -1357,8 +1357,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "lingyanji.png",
-        "headIconFile": ""
+        "portraitFile": "376.png",
+        "headIconFile": "376a.png"
       }
     },
     {
@@ -1371,8 +1371,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_bujianyue.png"
+        "portraitFile": "379.png",
+        "headIconFile": "379a.png"
       }
     },
     {
@@ -1385,8 +1385,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_xuzuozhinan.png"
+        "portraitFile": "389.png",
+        "headIconFile": "389a.png"
       }
     },
     {
@@ -1399,8 +1399,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "xunxiangxing.png",
-        "headIconFile": "h_xunxiangxing.png"
+        "portraitFile": "391.png",
+        "headIconFile": "391a.png"
       }
     },
     {
@@ -1413,8 +1413,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "ji.png",
-        "headIconFile": ""
+        "portraitFile": "392.png",
+        "headIconFile": "392a.png"
       }
     },
     {
@@ -1427,8 +1427,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_yueduming.png"
+        "portraitFile": "394.png",
+        "headIconFile": "394a.png"
       }
     },
     {
@@ -1441,8 +1441,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_yanling.png"
+        "portraitFile": "399.png",
+        "headIconFile": "399a.png"
       }
     },
     {
@@ -1455,8 +1455,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "kongquemingwang.png",
-        "headIconFile": ""
+        "portraitFile": "550.png",
+        "headIconFile": "550a.png"
       }
     },
     {
@@ -1469,8 +1469,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "tianzhao.png",
-        "headIconFile": ""
+        "portraitFile": "556.png",
+        "headIconFile": "556a.png"
       }
     },
     {
@@ -1483,8 +1483,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "yixienamei.png",
-        "headIconFile": ""
+        "portraitFile": "557.png",
+        "headIconFile": "557a.png"
       }
     },
     {
@@ -1497,8 +1497,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "561.png",
+        "headIconFile": "561a.png"
       }
     },
     {
@@ -1511,8 +1511,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "chuyinweilai.png",
-        "headIconFile": ""
+        "portraitFile": "563.png",
+        "headIconFile": "563a.png"
       }
     },
     {
@@ -1525,8 +1525,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "jingyinlinglian.png",
-        "headIconFile": ""
+        "portraitFile": "564.png",
+        "headIconFile": "564a.png"
       }
     },
     {
@@ -1539,8 +1539,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "569.png",
+        "headIconFile": "569a.png"
       }
     },
     {
@@ -1553,8 +1553,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "huojinshen.png",
-        "headIconFile": ""
+        "portraitFile": "570.png",
+        "headIconFile": "570a.png"
       }
     },
     {
@@ -1567,8 +1567,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "longjue.png",
-        "headIconFile": "h_longjue.png"
+        "portraitFile": "573.png",
+        "headIconFile": "573a.png"
       }
     },
     {
@@ -1581,8 +1581,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "fengyangjun.png",
-        "headIconFile": "h_fengyangjun.png"
+        "portraitFile": "575.png",
+        "headIconFile": "575a.png"
       }
     },
     {
@@ -1595,8 +1595,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "577.png",
+        "headIconFile": "577a.png"
       }
     },
     {
@@ -1609,8 +1609,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "581.png",
+        "headIconFile": "581a.png"
       }
     },
     {
@@ -1623,8 +1623,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_xunyinliuge.png"
+        "portraitFile": "582.png",
+        "headIconFile": "582a.png"
       }
     },
     {
@@ -1637,8 +1637,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "beimihu.png",
-        "headIconFile": ""
+        "portraitFile": "583.png",
+        "headIconFile": "583a.png"
       }
     },
     {
@@ -1651,8 +1651,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "585.png",
+        "headIconFile": "585a.png"
       }
     },
     {
@@ -1665,8 +1665,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "xueyuqian.png",
-        "headIconFile": "h_xueyuqian.png"
+        "portraitFile": "591.png",
+        "headIconFile": "591a.png"
       }
     },
     {
@@ -1679,8 +1679,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "592.png",
+        "headIconFile": "592a.png"
       }
     },
     {
@@ -1693,8 +1693,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "596.png",
+        "headIconFile": "596a.png"
       }
     },
     {
@@ -1707,8 +1707,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "597.png",
+        "headIconFile": "597a.png"
       }
     },
     {
@@ -1721,8 +1721,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "600.png",
+        "headIconFile": "600a.png"
       }
     },
     {
@@ -1735,8 +1735,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "601.png",
+        "headIconFile": "601a.png"
       }
     },
     {
@@ -1749,8 +1749,8 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "603.png",
+        "headIconFile": "603a.png"
       }
     },
     {
@@ -1763,8 +1763,50 @@
       "rarity": "SSR",
       "tier": "SSR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "604.png",
+        "headIconFile": "604a.png"
+      }
+    },
+    {
+      "id": 605,
+      "name": {
+        "vi": "Lạc Thiên Y",
+        "en": "Luo Tianyi",
+        "zh": "洛天依"
+      },
+      "rarity": "SSR",
+      "tier": "SSR",
+      "assets": {
+        "portraitFile": "605.png",
+        "headIconFile": "605a.png"
+      }
+    },
+    {
+      "id": 606,
+      "name": {
+        "vi": "Ngôn Hòa",
+        "en": "Yan He",
+        "zh": "言和"
+      },
+      "rarity": "SSR",
+      "tier": "SSR",
+      "assets": {
+        "portraitFile": "606.png",
+        "headIconFile": "606a.png"
+      }
+    },
+    {
+      "id": 608,
+      "name": {
+        "vi": "Thạch Trường Cơ",
+        "en": "",
+        "zh": "石长姬"
+      },
+      "rarity": "SSR",
+      "tier": "SSR",
+      "assets": {
+        "portraitFile": "608.png",
+        "headIconFile": "608a.png"
       }
     },
     {
@@ -1777,8 +1819,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "200.png",
+        "headIconFile": "200a.png"
       }
     },
     {
@@ -1791,8 +1833,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_xuenv.png"
+        "portraitFile": "201.png",
+        "headIconFile": "201a.png"
       }
     },
     {
@@ -1805,8 +1847,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "baiwuchang.png",
-        "headIconFile": "h_baiwuchang.png"
+        "portraitFile": "210.png",
+        "headIconFile": "210a.png"
       }
     },
     {
@@ -1819,8 +1861,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_heiwuchang.png"
+        "portraitFile": "211.png",
+        "headIconFile": "211a.png"
       }
     },
     {
@@ -1833,8 +1875,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "mengpo.png",
-        "headIconFile": ""
+        "portraitFile": "215.png",
+        "headIconFile": "215a.png"
       }
     },
     {
@@ -1847,8 +1889,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "quanshen.png",
-        "headIconFile": "h_quanshen.png"
+        "portraitFile": "220.png",
+        "headIconFile": "220a.png"
       }
     },
     {
@@ -1861,8 +1903,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "gunv.png",
-        "headIconFile": "h_gunv.png"
+        "portraitFile": "223.png",
+        "headIconFile": "223a.png"
       }
     },
     {
@@ -1875,8 +1917,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_guinvhongye.png"
+        "portraitFile": "231.png",
+        "headIconFile": "231a.png"
       }
     },
     {
@@ -1889,8 +1931,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "tiaotiaogege.png",
-        "headIconFile": "h_tiaotiaogege.png"
+        "portraitFile": "233.png",
+        "headIconFile": "233a.png"
       }
     },
     {
@@ -1903,8 +1945,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "242.png",
+        "headIconFile": "242a.png"
       }
     },
     {
@@ -1917,8 +1959,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "haifangzhu.png",
-        "headIconFile": "h_haifangzhu.png"
+        "portraitFile": "247.png",
+        "headIconFile": "247a.png"
       }
     },
     {
@@ -1931,8 +1973,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "251.png",
+        "headIconFile": "251a.png"
       }
     },
     {
@@ -1945,8 +1987,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "252.png",
+        "headIconFile": "252a.png"
       }
     },
     {
@@ -1959,8 +2001,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "xixueji.png",
-        "headIconFile": "h_xixueji.png"
+        "portraitFile": "253.png",
+        "headIconFile": "253a.png"
       }
     },
     {
@@ -1973,8 +2015,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "254.png",
+        "headIconFile": "254a.png"
       }
     },
     {
@@ -1987,8 +2029,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "qinmo.png",
-        "headIconFile": ""
+        "portraitFile": "256.png",
+        "headIconFile": "256a.png"
       }
     },
     {
@@ -2001,8 +2043,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "shimengmo.png",
-        "headIconFile": ""
+        "portraitFile": "257.png",
+        "headIconFile": "257a.png"
       }
     },
     {
@@ -2015,8 +2057,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_qingji.png"
+        "portraitFile": "260.png",
+        "headIconFile": "260a.png"
       }
     },
     {
@@ -2029,8 +2071,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "261.png",
+        "headIconFile": "261a.png"
       }
     },
     {
@@ -2043,8 +2085,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_guhuoniao.png"
+        "portraitFile": "262.png",
+        "headIconFile": "262a.png"
       }
     },
     {
@@ -2057,8 +2099,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "263.png",
+        "headIconFile": "263a.png"
       }
     },
     {
@@ -2071,8 +2113,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "264.png",
+        "headIconFile": "264a.png"
       }
     },
     {
@@ -2085,8 +2127,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "yinghuayao.png",
-        "headIconFile": ""
+        "portraitFile": "267.png",
+        "headIconFile": "267a.png"
       }
     },
     {
@@ -2099,8 +2141,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "huibishou.png",
-        "headIconFile": "h_fushen.png"
+        "portraitFile": "268.png",
+        "headIconFile": "268a.png"
       }
     },
     {
@@ -2113,8 +2155,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_luoxinfu.png"
+        "portraitFile": "270.png",
+        "headIconFile": "270a.png"
       }
     },
     {
@@ -2127,8 +2169,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "bore.png",
-        "headIconFile": ""
+        "portraitFile": "271.png",
+        "headIconFile": "271a.png"
       }
     },
     {
@@ -2141,8 +2183,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "273.png",
+        "headIconFile": "273a.png"
       }
     },
     {
@@ -2155,8 +2197,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "wannianzhu.png",
-        "headIconFile": ""
+        "portraitFile": "275.png",
+        "headIconFile": "275a.png"
       }
     },
     {
@@ -2169,8 +2211,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "276.png",
+        "headIconFile": "276a.png"
       }
     },
     {
@@ -2183,8 +2225,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "277.png",
+        "headIconFile": "277a.png"
       }
     },
     {
@@ -2197,8 +2239,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_baitongzi.png"
+        "portraitFile": "278.png",
+        "headIconFile": "278a.png"
       }
     },
     {
@@ -2211,8 +2253,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_yanyanluo.png"
+        "portraitFile": "281.png",
+        "headIconFile": "281a.png"
       }
     },
     {
@@ -2225,8 +2267,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "jinyuji.png",
-        "headIconFile": ""
+        "portraitFile": "282.png",
+        "headIconFile": "282a.png"
       }
     },
     {
@@ -2239,8 +2281,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "zhen.png",
-        "headIconFile": ""
+        "portraitFile": "285.png",
+        "headIconFile": "285a.png"
       }
     },
     {
@@ -2253,8 +2295,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_yijinzhentian.png"
+        "portraitFile": "286.png",
+        "headIconFile": "286a.png"
       }
     },
     {
@@ -2267,8 +2309,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_xiazhongshaonv.png"
+        "portraitFile": "287.png",
+        "headIconFile": "287a.png"
       }
     },
     {
@@ -2281,8 +2323,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "xiaosongwan.png",
-        "headIconFile": ""
+        "portraitFile": "290.png",
+        "headIconFile": "290a.png"
       }
     },
     {
@@ -2295,8 +2337,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "291.png",
+        "headIconFile": "291a.png"
       }
     },
     {
@@ -2309,8 +2351,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "baimugui.png",
-        "headIconFile": ""
+        "portraitFile": "293.png",
+        "headIconFile": "293a.png"
       }
     },
     {
@@ -2323,8 +2365,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_zhuiyueshen.png"
+        "portraitFile": "295.png",
+        "headIconFile": "295a.png"
       }
     },
     {
@@ -2337,8 +2379,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "297.png",
+        "headIconFile": "297a.png"
       }
     },
     {
@@ -2351,8 +2393,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "xun.png",
-        "headIconFile": "h_xun.png"
+        "portraitFile": "298.png",
+        "headIconFile": "298a.png"
       }
     },
     {
@@ -2365,8 +2407,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "303.png",
+        "headIconFile": "303a.png"
       }
     },
     {
@@ -2379,8 +2421,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_maoyou.png"
+        "portraitFile": "307.png",
+        "headIconFile": "307a.png"
       }
     },
     {
@@ -2393,8 +2435,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_axiang.png"
+        "portraitFile": "309.png",
+        "headIconFile": "309a.png"
       }
     },
     {
@@ -2407,8 +2449,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_renmianshu.png"
+        "portraitFile": "317.png",
+        "headIconFile": "317a.png"
       }
     },
     {
@@ -2421,8 +2463,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_yujuchong.png"
+        "portraitFile": "318.png",
+        "headIconFile": "318a.png"
       }
     },
     {
@@ -2435,8 +2477,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "yifanmumian.png",
-        "headIconFile": ""
+        "portraitFile": "320.png",
+        "headIconFile": "320a.png"
       }
     },
     {
@@ -2449,8 +2491,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "rulianshi.png",
-        "headIconFile": ""
+        "portraitFile": "321.png",
+        "headIconFile": "321a.png"
       }
     },
     {
@@ -2463,8 +2505,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_huajing.png"
+        "portraitFile": "324.png",
+        "headIconFile": "324a.png"
       }
     },
     {
@@ -2477,8 +2519,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "329.png",
+        "headIconFile": "329a.png"
       }
     },
     {
@@ -2491,8 +2533,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "jiuciliang.png",
-        "headIconFile": ""
+        "portraitFile": "332.png",
+        "headIconFile": "332a.png"
       }
     },
     {
@@ -2505,8 +2547,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_xieji.png"
+        "portraitFile": "335.png",
+        "headIconFile": "335a.png"
       }
     },
     {
@@ -2519,8 +2561,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "zhiwu.png",
-        "headIconFile": ""
+        "portraitFile": "340.png",
+        "headIconFile": "340a.png"
       }
     },
     {
@@ -2533,8 +2575,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "xingxiongtongzi.png",
-        "headIconFile": "h_xingxiongtongzi.png"
+        "portraitFile": "342.png",
+        "headIconFile": "342a.png"
       }
     },
     {
@@ -2547,8 +2589,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "fengli.png",
-        "headIconFile": ""
+        "portraitFile": "349.png",
+        "headIconFile": "349a.png"
       }
     },
     {
@@ -2561,8 +2603,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "xienv.png",
-        "headIconFile": "h_xienv.png"
+        "portraitFile": "350.png",
+        "headIconFile": "350a.png"
       }
     },
     {
@@ -2575,8 +2617,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "runeique.png",
-        "headIconFile": "h_runeique.png"
+        "portraitFile": "365.png",
+        "headIconFile": "365a.png"
       }
     },
     {
@@ -2589,8 +2631,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "yixigong.png",
-        "headIconFile": ""
+        "portraitFile": "368.png",
+        "headIconFile": "368a.png"
       }
     },
     {
@@ -2603,8 +2645,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "chuanyuan.png",
-        "headIconFile": ""
+        "portraitFile": "371.png",
+        "headIconFile": "371a.png"
       }
     },
     {
@@ -2617,8 +2659,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "jialouluo.png",
-        "headIconFile": ""
+        "portraitFile": "378.png",
+        "headIconFile": "378a.png"
       }
     },
     {
@@ -2631,8 +2673,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "382.png",
+        "headIconFile": "382a.png"
       }
     },
     {
@@ -2645,8 +2687,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "fenpopo.png",
-        "headIconFile": "h_fenpopo.png"
+        "portraitFile": "384.png",
+        "headIconFile": "384a.png"
       }
     },
     {
@@ -2659,8 +2701,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_tiannimei.png"
+        "portraitFile": "398.png",
+        "headIconFile": "398a.png"
       }
     },
     {
@@ -2673,8 +2715,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "552.png",
+        "headIconFile": "552a.png"
       }
     },
     {
@@ -2687,8 +2729,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_daorenshen.png"
+        "portraitFile": "558.png",
+        "headIconFile": "558a.png"
       }
     },
     {
@@ -2701,8 +2743,8 @@
       "rarity": "SR",
       "tier": "SR",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "571.png",
+        "headIconFile": "571a.png"
       }
     },
     {
@@ -2715,8 +2757,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_sanweihu.png"
+        "portraitFile": "202.png",
+        "headIconFile": "202a.png"
       }
     },
     {
@@ -2729,8 +2771,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "zuofutongzi.png",
-        "headIconFile": ""
+        "portraitFile": "205.png",
+        "headIconFile": "205a.png"
       }
     },
     {
@@ -2743,8 +2785,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "liyujing.png",
-        "headIconFile": "h_liyujing.png"
+        "portraitFile": "206.png",
+        "headIconFile": "206a.png"
       }
     },
     {
@@ -2757,8 +2799,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "jiumingmao.png",
-        "headIconFile": ""
+        "portraitFile": "207.png",
+        "headIconFile": "207a.png"
       }
     },
     {
@@ -2771,8 +2813,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_limao.png"
+        "portraitFile": "208.png",
+        "headIconFile": "208a.png"
       }
     },
     {
@@ -2785,8 +2827,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "hetong.png",
-        "headIconFile": "h_hetong.png"
+        "portraitFile": "209.png",
+        "headIconFile": "209a.png"
       }
     },
     {
@@ -2799,8 +2841,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_tongnan.png"
+        "portraitFile": "212.png",
+        "headIconFile": "212a.png"
       }
     },
     {
@@ -2813,8 +2855,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "213.png",
+        "headIconFile": "213a.png"
       }
     },
     {
@@ -2827,8 +2869,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_egui.png"
+        "portraitFile": "214.png",
+        "headIconFile": "214a.png"
       }
     },
     {
@@ -2841,8 +2883,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "216.png",
+        "headIconFile": "216a.png"
       }
     },
     {
@@ -2855,8 +2897,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "yatiangou.png",
-        "headIconFile": "h_yatiangou.png"
+        "portraitFile": "218.png",
+        "headIconFile": "218a.png"
       }
     },
     {
@@ -2869,8 +2911,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "shifagui.png",
-        "headIconFile": ""
+        "portraitFile": "221.png",
+        "headIconFile": "221a.png"
       }
     },
     {
@@ -2883,8 +2925,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "222.png",
+        "headIconFile": "222a.png"
       }
     },
     {
@@ -2897,8 +2939,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "yunv.png",
-        "headIconFile": ""
+        "portraitFile": "224.png",
+        "headIconFile": "224a.png"
       }
     },
     {
@@ -2911,8 +2953,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_tiaotiaodidi.png"
+        "portraitFile": "225.png",
+        "headIconFile": "225a.png"
       }
     },
     {
@@ -2925,8 +2967,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "226.png",
+        "headIconFile": "226a.png"
       }
     },
     {
@@ -2939,8 +2981,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "227.png",
+        "headIconFile": "227a.png"
       }
     },
     {
@@ -2953,8 +2995,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "228.png",
+        "headIconFile": "228a.png"
       }
     },
     {
@@ -2967,8 +3009,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "duyanxiaoseng.png",
-        "headIconFile": "h_duyanxiaoseng.png"
+        "portraitFile": "230.png",
+        "headIconFile": "230a.png"
       }
     },
     {
@@ -2981,8 +3023,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_tieshu.png"
+        "portraitFile": "232.png",
+        "headIconFile": "232a.png"
       }
     },
     {
@@ -2995,8 +3037,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "234.png",
+        "headIconFile": "234a.png"
       }
     },
     {
@@ -3009,8 +3051,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "guanhu.png",
-        "headIconFile": "h_guanhu.png"
+        "portraitFile": "236.png",
+        "headIconFile": "236a.png"
       }
     },
     {
@@ -3023,8 +3065,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "shantu.png",
-        "headIconFile": "h_shantu.png"
+        "portraitFile": "237.png",
+        "headIconFile": "237a.png"
       }
     },
     {
@@ -3037,8 +3079,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "yingcao.png",
-        "headIconFile": "h_yingcao.png"
+        "portraitFile": "238.png",
+        "headIconFile": "238a.png"
       }
     },
     {
@@ -3051,8 +3093,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "241.png",
+        "headIconFile": "241a.png"
       }
     },
     {
@@ -3065,8 +3107,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "shantong.png",
-        "headIconFile": ""
+        "portraitFile": "243.png",
+        "headIconFile": "243a.png"
       }
     },
     {
@@ -3079,8 +3121,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_shouwu.png"
+        "portraitFile": "244.png",
+        "headIconFile": "244a.png"
       }
     },
     {
@@ -3093,8 +3135,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "249.png",
+        "headIconFile": "249a.png"
       }
     },
     {
@@ -3107,8 +3149,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "250.png",
+        "headIconFile": "250a.png"
       }
     },
     {
@@ -3121,8 +3163,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "274.png",
+        "headIconFile": "274a.png"
       }
     },
     {
@@ -3135,8 +3177,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "289.png",
+        "headIconFile": "289a.png"
       }
     },
     {
@@ -3149,8 +3191,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "shuzhu.png",
-        "headIconFile": "h_shuzhu.png"
+        "portraitFile": "301.png",
+        "headIconFile": "301a.png"
       }
     },
     {
@@ -3163,8 +3205,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "302.png",
+        "headIconFile": "302a.png"
       }
     },
     {
@@ -3177,8 +3219,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "chongshi.png",
-        "headIconFile": "h_chongshi.png"
+        "portraitFile": "306.png",
+        "headIconFile": "306a.png"
       }
     },
     {
@@ -3191,8 +3233,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_taozijiezi.png"
+        "portraitFile": "310.png",
+        "headIconFile": "310a.png"
       }
     },
     {
@@ -3205,8 +3247,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "tianjinxia.png",
-        "headIconFile": ""
+        "portraitFile": "323.png",
+        "headIconFile": "323a.png"
       }
     },
     {
@@ -3219,8 +3261,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_gouchang.png"
+        "portraitFile": "361.png",
+        "headIconFile": "361a.png"
       }
     },
     {
@@ -3233,8 +3275,8 @@
       "rarity": "R",
       "tier": "R",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "375.png",
+        "headIconFile": "375a.png"
       }
     },
     {
@@ -3247,8 +3289,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "203.png",
+        "headIconFile": "203a.png"
       }
     },
     {
@@ -3261,8 +3303,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "tidengxiaoseng.png",
-        "headIconFile": "h_tidengxiaoseng.png"
+        "portraitFile": "245.png",
+        "headIconFile": "245a.png"
       }
     },
     {
@@ -3275,8 +3317,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "chishe.png",
-        "headIconFile": ""
+        "portraitFile": "246.png",
+        "headIconFile": "246a.png"
       }
     },
     {
@@ -3289,8 +3331,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "daomuxiaogui.png",
-        "headIconFile": "h_daomuxiaogui.png"
+        "portraitFile": "400.png",
+        "headIconFile": "400a.png"
       }
     },
     {
@@ -3303,8 +3345,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "401.png",
+        "headIconFile": "401a.png"
       }
     },
     {
@@ -3317,8 +3359,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "tangzhisanyao.png",
-        "headIconFile": ""
+        "portraitFile": "403.png",
+        "headIconFile": "403a.png"
       }
     },
     {
@@ -3331,8 +3373,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_lvtianxiegui.png"
+        "portraitFile": "404.png",
+        "headIconFile": "404a.png"
       }
     },
     {
@@ -3345,8 +3387,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "chitianxiegui.png",
-        "headIconFile": "h_chitianxiegui.png"
+        "portraitFile": "405.png",
+        "headIconFile": "405a.png"
       }
     },
     {
@@ -3359,8 +3401,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_huangtianxiegui.png"
+        "portraitFile": "406.png",
+        "headIconFile": "406a.png"
       }
     },
     {
@@ -3373,8 +3415,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "qingtianxiegui.png",
-        "headIconFile": ""
+        "portraitFile": "407.png",
+        "headIconFile": "407a.png"
       }
     },
     {
@@ -3387,8 +3429,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_zhoushen.png"
+        "portraitFile": "408.png",
+        "headIconFile": "408a.png"
       }
     },
     {
@@ -3401,8 +3443,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_tubi.png"
+        "portraitFile": "409.png",
+        "headIconFile": "409a.png"
       }
     },
     {
@@ -3415,8 +3457,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "410.png",
+        "headIconFile": "410a.png"
       }
     },
     {
@@ -3429,8 +3471,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_damobudaoweng_hei.png"
+        "portraitFile": "411.png",
+        "headIconFile": "411a.png"
       }
     },
     {
@@ -3443,8 +3485,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "damobudaoweng_bai.png",
-        "headIconFile": ""
+        "portraitFile": "412.png",
+        "headIconFile": "412a.png"
       }
     },
     {
@@ -3457,8 +3499,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "413.png",
+        "headIconFile": "413a.png"
       }
     },
     {
@@ -3471,8 +3513,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_datiangougua.png"
+        "portraitFile": "414.png",
+        "headIconFile": "414a.png"
       }
     },
     {
@@ -3485,8 +3527,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "415.png",
+        "headIconFile": "415a.png"
       }
     },
     {
@@ -3499,8 +3541,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_huangchuangua.png"
+        "portraitFile": "416.png",
+        "headIconFile": "416a.png"
       }
     },
     {
@@ -3513,8 +3555,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_yanmogua.png"
+        "portraitFile": "417.png",
+        "headIconFile": "417a.png"
       }
     },
     {
@@ -3527,8 +3569,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_liangmianfogua.png"
+        "portraitFile": "418.png",
+        "headIconFile": "418a.png"
       }
     },
     {
@@ -3541,8 +3583,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "419.png",
+        "headIconFile": "419a.png"
       }
     },
     {
@@ -3555,8 +3597,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_cimugua.png"
+        "portraitFile": "420.png",
+        "headIconFile": "420a.png"
       }
     },
     {
@@ -3569,8 +3611,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_qingxingdenggua.png"
+        "portraitFile": "421.png",
+        "headIconFile": "421a.png"
       }
     },
     {
@@ -3583,8 +3625,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_yaodaojigua.png"
+        "portraitFile": "422.png",
+        "headIconFile": "422a.png"
       }
     },
     {
@@ -3597,8 +3639,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "423.png",
+        "headIconFile": "423a.png"
       }
     },
     {
@@ -3611,8 +3653,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "424.png",
+        "headIconFile": "424a.png"
       }
     },
     {
@@ -3625,8 +3667,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "425.png",
+        "headIconFile": "425a.png"
       }
     },
     {
@@ -3639,8 +3681,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_huanggua.png"
+        "portraitFile": "426.png",
+        "headIconFile": "426a.png"
       }
     },
     {
@@ -3653,8 +3695,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "427.png",
+        "headIconFile": "427a.png"
       }
     },
     {
@@ -3667,8 +3709,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_xuetongzigua.png"
+        "portraitFile": "428.png",
+        "headIconFile": "428a.png"
       }
     },
     {
@@ -3681,8 +3723,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": "h_yuzaoqiangua.png"
+        "portraitFile": "429.png",
+        "headIconFile": "429a.png"
       }
     },
     {
@@ -3695,8 +3737,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "430.png",
+        "headIconFile": "430a.png"
       }
     },
     {
@@ -3709,8 +3751,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "",
-        "headIconFile": ""
+        "portraitFile": "433.png",
+        "headIconFile": "433a.png"
       }
     },
     {
@@ -3723,8 +3765,8 @@
       "rarity": "N",
       "tier": "N",
       "assets": {
-        "portraitFile": "damo_guiwu.png",
-        "headIconFile": "h_damo_guiwu.png"
+        "portraitFile": "499.png",
+        "headIconFile": "499a.png"
       }
     }
   ]

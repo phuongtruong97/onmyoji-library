@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 1742,
+      "value": 1983,
       "grade": "D"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12531,
-      "grade": "S"
+      "value": 16406,
+      "grade": "SS"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 423,
-      "grade": "B"
+      "value": 467,
+      "grade": "A"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 105,
+      "value": 115,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 5641,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Âm Phù Phi Tán",
@@ -108,6 +110,8 @@
     {
       "id": 5642,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cơ Bàn Nhị Trọng Tấu",
@@ -120,7 +124,7 @@
         "zh": "触碰到了哦！属于你我的旋律。"
       },
       "description": {
-        "vi": "[tips_11]. Không thể chịu hiệu ứng tăng HP ngoài bản thân. Khi [buff_5643_1] tồn tại, tăng 20% Phòng thủ cho toàn bộ mục tiêu phe ta không phải vật triệu hồi.\n【Thi triển】 Có thể thi triển khi không tồn tại [buff_5643_1], chuyển hóa 60% HP hiện tại thành [buff_5643_1] với lượng tương đương.",
+        "vi": "[tips_11]. Không thể chịu hiệu ứng tăng HP ngoài bản thân. Khi [buff_5643_1] tồn tại, tăng 20% Phòng thủ cho toàn bộ mục tiêu phe ta không phải vật triệu hồi.\n[Thi triển] Có thể thi triển khi không tồn tại [buff_5643_1], chuyển hóa 60% HP hiện tại thành [buff_5643_1] với lượng tương đương.",
         "en": "[tips_11]. Unable to receive HP-increasing effects from others. While they have [buff_5643_1], increases non-summoned ally entities' DEF by 20%.\nActive skill: Can only use while they don't have [buff_5643_1]. Converts 60% of their current HP to [buff_5643_1].",
         "zh": "[tips_11]。无法受到自身外的生命增加效果。[buff_5643_1]存在时，为全体非召唤物友方目标提升20%防御。\n【施放】未存在[buff_5643_1]时可施放，将当前血量的60%等量转化为[buff_5643_1]。"
       },
@@ -164,6 +168,8 @@
     {
       "id": 5643,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Thủ Hộ Định Cách",
@@ -219,7 +225,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "jingyinlinglian.png",
-    "headIconFile": ""
+    "portraitFile": "564.png",
+    "headIconFile": "564a.png"
   }
 }

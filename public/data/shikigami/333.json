@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 3028,
+      "value": 3323,
       "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 11505,
-      "grade": "A"
+      "value": 12646,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 357,
-      "grade": "C"
+      "value": 397,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 98,
-      "grade": "C"
+      "value": 108,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,9 +52,11 @@
     {
       "id": 3331,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
-        "vi": "麓鸣·轰",
+        "vi": "Lộc Minh · Oanh",
         "en": "麓鸣·轰",
         "zh": "麓鸣·轰"
       },
@@ -64,23 +66,15 @@
         "zh": "慢一点，铃鹿山的故事我可以讲很久。"
       },
       "description": {
-        "vi": "Vung Bát Xích Quỳnh Ngọc Kiếm chém ra một đạo kiếm khí, gây sát thương bằng 125% Tấn công cho mục tiêu kẻ địch.\nKhi có kẻ địch bị Vô Tận Kiếm Ngục của bản thân phóng thích, thay thế 『Lộc Minh • Oanh』 thành 『[skill_3334_1]』, đồng thời khiến xác suất [tips_9] trong 3 lần tiếp theo tăng lên 100%.",
+        "vi": "Vung Bát Xích Quỳnh Ngọc Kiếm chém ra một đạo kiếm khí, gây sát thương bằng 125% Tấn công cho mục tiêu kẻ địch.\nKhi có kẻ địch bị Vô Tận Kiếm Ngục của bản thân phóng thích, thay thế [Lộc Minh • Oanh] thành [skill_3334_1], đồng thời khiến xác suất [tips_9] trong 3 lần tiếp theo tăng lên 100%.",
         "en": "Wields the Jade Blade of Yasakani and unleashes a wave of energy at 1 enemy, dealing damage equal to 125% of his ATK.\nWhen an enemy is Banished by his Unlimited Blade Prison, changes Hillcry: Blast to [skill_3334_1], and increases the chance of the next 3 [tips_9] to 100%.",
-        "zh": "挥动八尺琼玉剑斩出一道剑气，对敌方目标造成攻击125%伤害。\n当有敌方被自身的无尽剑狱放逐时，将『麓鸣·轰』替换为『[skill_3334_1]』，并使下3次[tips_9]概率提升至100%。"
+        "zh": "挥动八尺琼玉剑斩出一道剑气，对敌方目标造成攻击125%伤害。\n当有敌方被自身的无尽剑狱放逐时，将『麓鸣·轰]替换为『[skill_3334_1]，并使下3次[tips_9]概率提升至100%。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
-            "en": "伤害增加至105%",
-            "zh": "伤害增加至105%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -88,15 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
-            "en": "伤害增加至110%",
-            "zh": "伤害增加至110%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -104,15 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
-            "en": "伤害增加至115%",
-            "zh": "伤害增加至115%"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -120,15 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
-            "en": "伤害增加至125%",
-            "zh": "伤害增加至125%"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -138,8 +108,35 @@
       "iconFile": "3331.png"
     },
     {
+      "id": 3334,
+      "number": 1,
+      "variantOrder": 1,
+      "parentSkillId": 3331,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lộc Minh • Trảm",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "Đòn đánh này, vì Linh Lộc Sơn!",
+        "en": "This is for Mt. Suzuka!",
+        "zh": "这一击，为了铃鹿山！"
+      },
+      "description": {
+        "vi": "Bát Xích Quỳnh Ngọc Kiếm tiến giai áo nghĩa, chém ra một đạo kiếm khí bá đạo, gây sát thương bằng 125% Tấn công cho mục tiêu kẻ địch, sát thương này không kích hoạt ngự hồn và nội tại của mục tiêu; nhận 50% xác suất [tips_9].\nSát thương do [Lộc Minh • Trảm] gây ra sẽ được cộng dồn 100% bổ sung vào sát thương đá rơi của [Vô Tận Kiếm Ngục] lần tiếp theo (tích lũy không vượt quá 600% Tấn công của Đại Nhạc Hoàn).",
+        "en": "Advanced secret of the Jade Blade of Yasakani. Unleashes a crashing wave of energy at 1 enemy, dealing damage equal to 125% of his ATK. The damage doesn't trigger the enemy's Soul effects or passive effects; gains a 50% chance of [tips_9].\n100% of the damage dealt by Hillcry: Slash will be added to the next damage dealt by Rockfall from Unlimited Blade Prison (to a max of 600% of Otakemaru's ATK).",
+        "zh": "八尺琼玉剑进阶奥义，斩出一道霸道的剑气，对敌方目标造成攻击125%伤害，该伤害不会触发目标御魂被动；获得50%概率[tips_9]。\n『麓鸣·斩]造成的伤害，将100%额外附加在下一次『无尽剑狱]的落石伤害中（累积不超过大岳丸攻击600%）。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3334.png"
+    },
+    {
       "id": 3332,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Phủ Thổ Chi Thuật",
@@ -196,6 +193,8 @@
     {
       "id": 3333,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Vô Tận Kiếm Ngục",
@@ -251,7 +250,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_dayuewan.png"
+    "portraitFile": "333.png",
+    "headIconFile": "333a.png"
   }
 }

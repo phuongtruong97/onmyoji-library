@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2304,
-      "grade": "C"
+      "value": 2519,
+      "grade": "B"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 12189,
-      "grade": "A"
+      "value": 13216,
+      "grade": "S"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 361,
+      "value": 397,
       "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 107,
+      "value": 117,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2741,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Hỏa Phong Xa",
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2742,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 4,
       "name": {
         "vi": "Linh Vận",
@@ -134,22 +138,6 @@
           }
         },
         {
-          "level": 2,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 25%",
-            "en": "Increases chance of triggering to 25%.",
-            "zh": "触发概率增至25%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 30%",
-            "en": "Increases chance of triggering to 30%.",
-            "zh": "触发概率增至30%"
-          }
-        },
-        {
           "level": 3,
           "text": {
             "vi": "Xác suất kích hoạt tăng lên 30%",
@@ -164,6 +152,8 @@
     {
       "id": 2743,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Ác Hí Chi Hỏa",
@@ -176,41 +166,41 @@
         "zh": "不想听你说话，快走开。"
       },
       "description": {
-        "vi": "对除自身外的任一目标，100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2743_1]，持续2回合。若目标为友方则必定命中。",
-        "en": "对除自身外的任一目标，100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2743_1]，持续2回合。若目标为友方则必定命中。",
-        "zh": "对除自身外的任一目标，100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2743_1]，持续2回合。若目标为友方则必定命中。"
+        "vi": "Đối với bất kỳ mục tiêu nào ngoài bản thân, có 100% [tips_2] xác suất gắn [buff_2743_1], duy trì 2 lượt. Nếu mục tiêu là đồng minh thì tất trúng.",
+        "en": "对除自身外的任一目标，100%（+Effect HIT）概率附加[buff_2743_1]，持续2回合。若目标为友方则必定命中。",
+        "zh": "对除自身外的任一目标，100%（+效果命中）概率附加[buff_2743_1]，持续2回合。若目标为友方则必定命中。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "[buff_2743_1] hiệu ứng tăng sát thương nâng lên [b2_属性1数值_per]",
-            "en": "Increases [buff_2743_1]'s damage boost effect to [b2_属性1数值_per].",
-            "zh": "[buff_2743_1]提升伤害效果，增至[b2_属性1数值_per]"
+            "vi": "[buff_2743_1] hiệu ứng tăng sát thương tăng lên 15%",
+            "en": "Increases [buff_2743_1]'s damage boost effect to 15%.",
+            "zh": "[buff_2743_1]提升伤害效果，增至15%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "[buff_2743_1] hiệu ứng tăng sát thương nâng lên [b2_属性1数值_per]",
-            "en": "Increases [buff_2743_1]'s damage boost effect to [b2_属性1数值_per].",
-            "zh": "[buff_2743_1]提升伤害效果，增至[b2_属性1数值_per]"
+            "vi": "[buff_2743_1] hiệu ứng tăng sát thương tăng lên 20%",
+            "en": "Increases [buff_2743_1]'s damage boost effect to 20%.",
+            "zh": "[buff_2743_1]提升伤害效果，增至20%"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "[buff_2743_1] hiệu ứng tăng sát thương nâng lên [b2_属性1数值_per]",
-            "en": "Increases [buff_2743_1]'s damage boost effect to [b2_属性1数值_per].",
-            "zh": "[buff_2743_1]提升伤害效果，增至[b2_属性1数值_per]"
+            "vi": "[buff_2743_1] hiệu ứng tăng sát thương tăng lên 25%",
+            "en": "Increases [buff_2743_1]'s damage boost effect to 25%.",
+            "zh": "[buff_2743_1]提升伤害效果，增至25%"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "[buff_2743_1] hiệu ứng tăng sát thương nâng lên [b2_属性1数值_per]",
-            "en": "Increases [buff_2743_1]'s damage boost effect to [b2_属性1数值_per].",
-            "zh": "[buff_2743_1]提升伤害效果，增至[b2_属性1数值_per]"
+            "vi": "[buff_2743_1] hiệu ứng tăng sát thương tăng lên 30%",
+            "en": "Increases [buff_2743_1]'s damage boost effect to 30%.",
+            "zh": "[buff_2743_1]提升伤害效果，增至30%"
           }
         }
       ],
@@ -219,7 +209,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": ""
+    "portraitFile": "274.png",
+    "headIconFile": "274a.png"
   }
 }

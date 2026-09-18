@@ -10,31 +10,31 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2814,
-      "grade": "A"
+      "value": 3136,
+      "grade": "S"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 10024,
-      "grade": "C"
+      "value": 11165,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 339,
-      "grade": "D"
+      "value": 375,
+      "grade": "C"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 103,
-      "grade": "B"
+      "value": 113,
+      "grade": "A"
     },
     {
       "key": "crit",
@@ -52,6 +52,8 @@
     {
       "id": 2191,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Quỷ Hồ Lô",
@@ -64,7 +66,7 @@
         "zh": "这就是本大爷的实力，看好了！"
       },
       "description": {
-        "vi": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击125%伤害。若非进行反击，则每层[buff_2192_1]增加1次攻击次数。",
+        "vi": "Dùng yêu lực điều khiển Hồ Lô Quỷ phun chướng khí tấn công mục tiêu phe địch, gây sát thương bằng 125% Tấn công. Nếu không phải thực hiện phản kích, mỗi tầng [buff_2192_1] tăng 1 lần số lần tấn công.",
         "en": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击125%伤害。若非进行反击，则每层[buff_2192_1]增加1次攻击次数。",
         "zh": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击125%伤害。若非进行反击，则每层[buff_2192_1]增加1次攻击次数。"
       },
@@ -72,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -108,6 +110,8 @@
     {
       "id": 2192,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
         "vi": "Cuồng Khí",
@@ -131,6 +135,8 @@
     {
       "id": 2193,
       "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Cuồng Khiếu",
@@ -186,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "jiutuntongzi.png",
-    "headIconFile": ""
+    "portraitFile": "219.png",
+    "headIconFile": "219a.png"
   }
 }

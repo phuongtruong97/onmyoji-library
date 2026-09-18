@@ -10,30 +10,30 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "GAME_TABLE_AWAKE_ATTR_202609",
   "stats": [
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 2626,
-      "grade": "B"
+      "value": 2921,
+      "grade": "A"
     },
     {
       "key": "hp",
       "label": "MÁU",
-      "value": 9683,
-      "grade": "C"
+      "value": 10709,
+      "grade": "B"
     },
     {
       "key": "def",
       "label": "THỦ",
-      "value": 383,
-      "grade": "C"
+      "value": 428,
+      "grade": "B"
     },
     {
       "key": "speed",
       "label": "TỐC ĐỘ",
-      "value": 105,
+      "value": 115,
       "grade": "A"
     },
     {
@@ -52,6 +52,8 @@
     {
       "id": 2321,
       "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tiền Kêu Leng Keng",
@@ -64,15 +66,15 @@
         "zh": "叮当，叮当~是时候还我钱了吧？"
       },
       "description": {
-        "vi": "乘着金币之轮哐啷哐啷地移动到敌人面前，趁敌方目标分神之际狠敲其脑袋，造成攻击125%伤害，有50%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2321_1]，持续2回合。",
-        "en": "乘着金币之轮哐啷哐啷地移动到敌人面前，趁敌方目标分神之际狠敲其脑袋，造成攻击125%伤害，有50%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2321_1]，持续2回合。",
-        "zh": "乘着金币之轮哐啷哐啷地移动到敌人面前，趁敌方目标分神之际狠敲其脑袋，造成攻击125%伤害，有50%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2321_1]，持续2回合。"
+        "vi": "Cưỡi vòng bánh xe tiền vàng loảng xoảng di chuyển đến trước mặt kẻ địch, nhân lúc mục tiêu phe địch mất tập trung đập mạnh vào đầu hắn, gây sát thương bằng 125% Tấn công, có 50% [tips_2] xác suất gắn [buff_2321_1], duy trì 2 lượt.",
+        "en": "乘着金币之轮哐啷哐啷地移动到敌人面前，趁敌方目标分神之际狠敲其脑袋，造成攻击125%伤害，有50%（+Effect HIT）概率附加[buff_2321_1]，持续2回合。",
+        "zh": "乘着金币之轮哐啷哐啷地移动到敌人面前，趁敌方目标分神之际狠敲其脑袋，造成攻击125%伤害，有50%（+效果命中）概率附加[buff_2321_1]，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至105%",
+            "vi": "Sát thương tăng lên 105%",
             "en": "伤害增加至105%",
             "zh": "伤害增加至105%"
           }
@@ -80,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至110%",
+            "vi": "Sát thương tăng lên 110%",
             "en": "伤害增加至110%",
             "zh": "伤害增加至110%"
           }
@@ -88,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至115%",
+            "vi": "Sát thương tăng lên 115%",
             "en": "伤害增加至115%",
             "zh": "伤害增加至115%"
           }
@@ -96,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至125%",
+            "vi": "Sát thương tăng lên 125%",
             "en": "伤害增加至125%",
             "zh": "伤害增加至125%"
           }
@@ -106,8 +108,35 @@
       "iconFile": "2321.png"
     },
     {
-      "id": 2323,
+      "id": 2322,
       "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Hoành Tài Hộ Thân",
+        "en": "Insurance Policy",
+        "zh": "横财护身"
+      },
+      "intro": {
+        "vi": "Chỉ cần sống, thì cần có tiền.",
+        "en": "If you want to live, you need money!",
+        "zh": "只要活着，就需要钱。"
+      },
+      "description": {
+        "vi": "Khi chịu tấn công, có xác suất 40% [tips_2] đính kèm [buff_2322_1] cho kẻ tấn công, duy trì 2 lượt.\nTrận chiến mà Thiết Thử xuất chiến và giành chiến thắng, phần thưởng tiền vàng nhận được tăng 9%.",
+        "en": "When attacked, has a 40% (+Effect HIT) of inflicting [buff_2322_1] lasting 2 turns on the attacker.\nWinning a battle with Tesso deployed grants a 9% Coin bonus",
+        "zh": "受到攻击时，有40%（+效果命中）概率为攻击者附加[buff_2322_1]，持续2回合。\n铁鼠出战并获得胜利的战斗，获得的金币奖励提升9%。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "2322.png"
+    },
+    {
+      "id": 2323,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
       "maxLevel": 5,
       "name": {
         "vi": "Tiền Chính Là Công Lý",
@@ -120,15 +149,15 @@
         "zh": "看钱！人在钱下死，做鬼也风流！哈哈哈！"
       },
       "description": {
-        "vi": "以妖力操纵数不尽的金币攻击敌方全体2次，每次造成攻击52%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2323_1]，持续2回合。",
-        "en": "以妖力操纵数不尽的金币攻击敌方全体2次，每次造成攻击52%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2323_1]，持续2回合。",
-        "zh": "以妖力操纵数不尽的金币攻击敌方全体2次，每次造成攻击52%伤害并有100%（+[*|a_debuff-acc_per|s_buff概率_per]）概率附加[buff_2323_1]，持续2回合。"
+        "vi": "Dùng yêu lực điều khiển vô số tiền vàng tấn công toàn thể phe địch 2 lần, mỗi lần gây sát thương bằng 52% Tấn công và có 100% [tips_2] xác suất gắn [buff_2323_1], duy trì 2 lượt.",
+        "en": "以妖力操纵数不尽的金币攻击敌方全体2次，每次造成攻击52%伤害并有100%（+Effect HIT）概率附加[buff_2323_1]，持续2回合。",
+        "zh": "以妖力操纵数不尽的金币攻击敌方全体2次，每次造成攻击52%伤害并有100%（+效果命中）概率附加[buff_2323_1]，持续2回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "伤害增加至46%",
+            "vi": "Sát thương tăng lên 46%",
             "en": "伤害增加至46%",
             "zh": "伤害增加至46%"
           }
@@ -136,7 +165,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "伤害增加至48%",
+            "vi": "Sát thương tăng lên 48%",
             "en": "伤害增加至48%",
             "zh": "伤害增加至48%"
           }
@@ -144,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "伤害增加至50%",
+            "vi": "Sát thương tăng lên 50%",
             "en": "伤害增加至50%",
             "zh": "伤害增加至50%"
           }
@@ -152,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "伤害增加至52%",
+            "vi": "Sát thương tăng lên 52%",
             "en": "伤害增加至52%",
             "zh": "伤害增加至52%"
           }
@@ -163,7 +192,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "",
-    "headIconFile": "h_tieshu.png"
+    "portraitFile": "232.png",
+    "headIconFile": "232a.png"
   }
 }
