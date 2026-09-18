@@ -161,9 +161,9 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
     {showLibrary && <button className="drawer-scrim" onClick={() => setShowLibrary(false)} />}
     {!hero ? <section className="empty-state"><span className="loader" /><h1>Đang nạp dữ liệu…</h1></section> : !skill ? <section className="empty-state"><h1>Chưa nhập kỹ năng</h1><p>Hãy bổ sung kỹ năng trong file Excel thủ công.</p></section> :
       <section className={`workspace hero-transition ${loading ? 'is-loading' : ''}`} aria-busy={loading}>
-        <aside key={`identity-${animationKey}`} className={`identity-panel hero-slide ${navDirection > 0 ? 'from-right' : navDirection < 0 ? 'from-left' : 'from-fade'}`}>
+        <aside className="identity-panel">
           <UiIcon kind="rarities" name={hero.rarity} className="rarity" />
-          <div className="character-frame">{picture && <img src={picture} alt={hero.name[language]} decoding="async" fetchPriority="high" onError={e => { e.currentTarget.style.display = 'none'; e.currentTarget.parentElement?.classList.add('missing'); }} />}<div className="character-fade" /></div>
+          <div key={`picture-${animationKey}`} className={`character-frame hero-slide ${navDirection > 0 ? 'from-right' : navDirection < 0 ? 'from-left' : 'from-fade'}`}>{picture && <img src={picture} alt={hero.name[language]} decoding="async" fetchPriority="high" onError={e => { e.currentTarget.style.display = 'none'; e.currentTarget.parentElement?.classList.add('missing'); }} />}<div className="character-fade" /></div>
           <div className="identity-copy"><span>Thức thần #{hero.id}</span><h1>{hero.name[language]}</h1><p>{language === 'vi' ? hero.name.en : hero.name.vi}</p></div>
           <button className="switch-arrow left" onClick={() => moveHero(-1)}><ChevronLeft /></button><button className="switch-arrow right" onClick={() => moveHero(1)}><ChevronRight /></button>
         </aside>
