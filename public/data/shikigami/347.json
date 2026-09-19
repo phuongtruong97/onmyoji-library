@@ -149,7 +149,7 @@
         "zh": "缘分增加了！"
       },
       "description": {
-        "vi": "Chúc phúc 1 mục tiêu phe ta, giúp kẻ đó nhận [tips_14], đồng thời cổ vũ toàn bộ phe ta không phải vật triệu hồi, tăng 40% sát thương, và trị liệu cho toàn bộ phe ta không phải vật triệu hồi lượng HP bằng 9% HP tối đa, duy trì 1 lượt. Nếu sở hữu ít nhất 1 tầng Duyên, khi cổ vũ 50% lượng trị liệu dư thừa chuyển hóa thành Lá chắn, duy trì 1 lượt. Nếu sở hữu ít nhất 3 tầng Duyên, khi cổ vũ tăng thêm 30 điểm Tốc độ cho toàn bộ phe ta, duy trì 1 lượt. Nếu sở hữu 7 tầng Duyên, khi chúc phúc đồng minh khác tăng thêm [buff_3475_1] cho kẻ đó, và giúp bản thân nhận Che Chắn.\n[tips_7]: Nhận Che Chắn.",
+        "vi": "Chúc phúc 1 mục tiêu phe ta, giúp kẻ đó nhận [tips_14], đồng thời cổ vũ toàn bộ phe ta không phải vật triệu hồi, tăng 40% sát thương, và trị liệu cho toàn bộ phe ta không phải vật triệu hồi lượng HP bằng 9% HP tối đa, duy trì 1 lượt. Nếu sở hữu ít nhất 1 tầng Duyên, khi cổ vũ 50% lượng trị liệu dư thừa chuyển hóa thành Lá chắn, duy trì 1 lượt. Nếu sở hữu ít nhất 3 tầng Duyên, khi cổ vũ tăng thêm 30 điểm Tốc độ cho toàn bộ phe ta, duy trì 1 lượt. Nếu sở hữu 7 tầng Duyên, khi chúc phúc đồng minh khác tăng thêm [buff_3475_1] cho kẻ đó, và giúp bản thân nhận [buff_3675_1].\n[tips_7]: Nhận [buff_3675_1].",
         "en": "Blesses 1 ally and grants them [tips_14]. Also boosts the morale of all non-summoned entity allies, increasing their damage by 40% until the start of her next turn and healing them by 9% of her max HP. When she boosts the morale of her non-summoned entity allies, if she has at least 1 Fateful Bond stack, 50% of the excess HP healed will be converted into a shield that lasts 1 turn. When she boosts the morale of her non-summoned entity allies, if she has at least 3 Fateful Bond stacks, their SPD will also increase by 30 until the start of her next turn. If she has 7 Fateful Bond stacks, when she blesses another ally, she also grants [buff_3475_1] to the blessed ally and Shelter to herself.\n[tips_7]: Gains Shelter.",
         "zh": "祝福1个友方目标，使其获得[tips_14]，同时鼓舞非召唤物的友方全体，提升40%的伤害，并治疗非召唤物的友方全体生命上限9%的生命值，维持1回合。若拥有至少1层缘，鼓舞时溢出治疗量的50%转化成护盾，持续1回合。若拥有至少3层缘，鼓舞时额外使友方全体提升30点速度，维持1回合。若拥有7层缘，祝福其他友方时额外使其获得[buff_3475_1]，并使自身获得庇护。\n[tips_7]：获得庇护。"
       },
@@ -173,7 +173,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Nếu sở hữu 7 tầng Duyên, khi chúc phúc đồng minh khác tăng thêm [buff_3475_1] cho kẻ đó, và giúp bản thân nhận Che Chắn",
+            "vi": "Nếu sở hữu 7 tầng Duyên, khi chúc phúc đồng minh khác tăng thêm [buff_3475_1] cho kẻ đó, và giúp bản thân nhận [buff_3675_1]",
             "en": "If she has 7 layers of Fateful Bond, also grants [buff_3475_1] to the blessed ally when she blesses another ally, and she gains Shelter.",
             "zh": "若拥有7层缘，祝福其他友方时额外使其获得[buff_3475_1]，并使自身获得庇护"
           }
@@ -181,7 +181,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "[tips_7]: Nhận Che Chắn",
+            "vi": "[tips_7]: Nhận [buff_3675_1]",
             "en": "[tips_7]: Gains Shelter.",
             "zh": "[tips_7]：获得庇护"
           }

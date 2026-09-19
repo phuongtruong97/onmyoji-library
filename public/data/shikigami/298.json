@@ -158,7 +158,7 @@
           "text": {
             "vi": "Nếu ở trạng thái [tips_2982], khi lượt bản thân kết thúc, giúp toàn bộ phe ta tăng 15% sát thương, cho đến khi chuyển đổi trạng thái. Khi hiệu ứng khống chế của bản thân biến mất, thi triển miễn phí [[skill_2983_5]] lên đồng minh có HP ít nhất (giới hạn 1 lần trước khi lượt bản thân bắt đầu)",
             "en": "While in [tips_2982], at the end of her turn, increases damage dealt by all allies by 15% until the state changes. When her control effect ends, casts [skill_2983_5] on the ally with the lowest HP at no cost (up to 1 times before her turn begins)",
-            "zh": "若处于[tips_2982]状态，在自身回合结束时，使友方全体提升15%伤害，直到切换状态为止。自身控制效果消失时，对生命最少的友方无消耗施放「[skill_2983_5]]（自身回合开始前限1次）"
+            "zh": "若处于[tips_2982]状态，在自身回合结束时，使友方全体提升15%伤害，直到切换状态为止。自身控制效果消失时，对生命最少的友方无消耗施放[[skill_2983_5]]（自身回合开始前限1次）"
           }
         }
       ],

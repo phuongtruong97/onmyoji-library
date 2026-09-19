@@ -158,7 +158,7 @@
           "text": {
             "vi": "Khi chịu sát thương chí mạng, sử dụng [Chân Kiếm • Nhẫn Tâm] lên nguồn gây sát thương, sau đó hồi phục đến 50% HP tối đa và tăng 100% Kháng Bạo Kích cùng 30% Thanh Hành Động, duy trì 1 lượt; mỗi hồi mục chỉ kích hoạt 1 lần",
             "en": "When taking lethal damage, uses Unshaken Will on the source of the damage, recovers his HP to 50% of his max HP, increases his Crit RES by 100% for 1 turn, and raises his Move Bar by 30%. Triggers only once each round.",
-            "zh": "受到致命伤害时，对伤害来源使用『真剑·韧心]，随后恢复至最大生命值的50%并增加100%暴击抵抗和30%行动条，持续1回合；每回目只会触发1次"
+            "zh": "受到致命伤害时，对伤害来源使用[真剑·韧心]，随后恢复至最大生命值的50%并增加100%暴击抵抗和30%行动条，持续1回合；每回目只会触发1次"
           }
         }
       ],
@@ -208,7 +208,7 @@
           "text": {
             "vi": "Mục tiêu mang [Ảnh Thiết] khi sử dụng kỹ năng, ảnh phân thân lập tức sử dụng [Thiên Kiếm • Đoạn Ác Trảm] lên kẻ đó, sát thương lần đó giảm 30%",
             "en": "When the enemy with Shadow Cut uses a skill, the Shadowy Double immediately uses Heavenly Blade: Evilslayer on them, dealing 30% less damage.",
-            "zh": "带有『影切]的目标使用技能时，影之分身立即对其使用『天剑·断恶斩]，该次伤害降低30%"
+            "zh": "带有[影切]的目标使用技能时，影之分身立即对其使用[天剑·断恶斩]，该次伤害降低30%"
           }
         },
         {
@@ -216,7 +216,7 @@
           "text": {
             "vi": "Trong trạng thái Tâm Kiếm [Thiên Kiếm • Đoạn Ác Trảm] tiêu hao Quỷ Hỏa giảm 2 điểm, và sau khi thi triển tăng 40% Thanh Hành Động cho bản thân",
             "en": "Heavenly Blade: Evilslayer costs 2 orbs less to use if he's under the Blade of the Mind state and raises his Move Bar by 40% after using the skill.",
-            "zh": "心剑状态下『天剑·断恶斩]消耗鬼火减少2点，并在施放后增加自身40%行动条"
+            "zh": "心剑状态下[天剑·断恶斩]消耗鬼火减少2点，并在施放后增加自身40%行动条"
           }
         }
       ],

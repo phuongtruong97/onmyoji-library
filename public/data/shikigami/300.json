@@ -182,7 +182,7 @@
         "zh": "表面的美丽，往往让人忘记了危险。"
       },
       "description": {
-        "vi": "Bộc phát sức mạnh của bản thân tấn công toàn thể kẻ địch, gây sát thương 195%. Nếu «Hồ Hỏa» hoặc «Đọa Thiên» đánh bại kẻ địch, lập tức [Thi Triển] kỹ năng yêu thuật còn lại không tốn tiêu hao, sát thương giảm dần theo thứ tự 20%.",
+        "vi": "Bộc phát sức mạnh của bản thân tấn công toàn thể kẻ địch, gây sát thương 195%. Nếu [Hồ Hỏa] hoặc [Đọa Thiên] đánh bại kẻ địch, lập tức [Thi Triển] kỹ năng yêu thuật còn lại không tốn tiêu hao, sát thương giảm dần theo thứ tự 20%.",
         "en": "Channels all of his power, dealing damage to all enemies equal to 195% of his ATK. If Fox Fire or The Falling KO's an enemy, immediately casts another skill without cost, with damage decreasing by 20% each time.",
         "zh": "爆发自身力量攻击敌方全体，造成攻击195%伤害。若『狐火]或『堕天]击败敌方，立即免消耗施放另一妖术技能，伤害依次递减20%。"
       },
@@ -216,7 +216,7 @@
           "text": {
             "vi": "Nếu [Hồ Hỏa] hoặc [Đọa Thiên] đánh bại kẻ địch, lập tức [Thi triển] kỹ năng yêu thuật còn lại không tốn tiêu hao, sát thương giảm dần theo thứ tự 20%.",
             "en": "If Fox Fire or The Falling KO's an enemy, immediately casts another skill without cost, with damage decreasing by 20% each time.",
-            "zh": "若『狐火]或『堕天]击败敌方，立即免消耗施放另一妖术技能，伤害依次递减20%"
+            "zh": "若[狐火]或[堕天]击败敌方，立即免消耗施放另一妖术技能，伤害依次递减20%"
           }
         }
       ],

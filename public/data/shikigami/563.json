@@ -217,15 +217,15 @@
           "text": {
             "vi": "Hệ số tăng Tấn công của [Âm Chi Vũ Khúc · Tự Mạc] tăng lên 39%",
             "en": "Increases Iconic Dance Song: Overture's ATK boost to 39%.",
-            "zh": "「音之舞曲·序幕]提升攻击系数增加至39%"
+            "zh": "[音之舞曲·序幕]提升攻击系数增加至39%"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "「Âm Chi Vũ Khúc · Trung Mạc] tăng thêm 39 điểm Tốc độ cho toàn bộ phe ta, duy trì 1 lượt",
+            "vi": "[Âm Chi Vũ Khúc · Trung Mạc] tăng thêm 39 điểm Tốc độ cho toàn bộ phe ta, duy trì 1 lượt",
             "en": "Iconic Dance Song: Chorus additionally increases all allies' SPD by 39. Sustainable for 1 turn.",
-            "zh": "「音之舞曲·中幕]额外提升友方全体39点速度，维持1回合"
+            "zh": "[音之舞曲·中幕]额外提升友方全体39点速度，维持1回合"
           }
         },
         {
@@ -233,7 +233,7 @@
           "text": {
             "vi": "Số Quỷ Hỏa nhận được của [Âm Chi Vũ Khúc · Thịnh Mạc] tăng lên 8 điểm",
             "en": "Increases the orbs Iconic Dance Song: Finale grants to 8.",
-            "zh": "「音之舞曲·盛幕]获得鬼火数提升至8点"
+            "zh": "[音之舞曲·盛幕]获得鬼火数提升至8点"
           }
         },
         {

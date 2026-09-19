@@ -133,7 +133,7 @@
           "level": 2,
           "text": {
             "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Tốc độ tăng 50%, duy trì 2 lượt (mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần)",
-            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their SPD by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle).",
+            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their SPD by 50% for 2 turns(triggers up to once for each of the allies and up to a total of 3 times in a single battle).",
             "zh": "当场上非召唤物友方目标首次剩余1点生命时，速度提升50%，持续2回合(每个目标至多生效1次，单次战斗累计至多生效3次）)"
           }
         },
@@ -141,7 +141,7 @@
           "level": 3,
           "text": {
             "vi": "Khi mục tiêu phe ta không phải vật triệu hồi trên sân lần đầu còn lại 1 điểm HP, Sát Thương Bạo Kích tăng 50%, duy trì 2 lượt (mỗi mục tiêu có hiệu lực tối đa 1 lần, trong một trận chiến tích lũy có hiệu lực tối đa 3 lần)",
-            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their Crit DMG by 50% for 2 turns((triggers up to once for each of the allies and up to a total of 3 times in a single battle).",
+            "en": "When the HP of a non-summoned ally entity drops to 1 for the first time, increases their Crit DMG by 50% for 2 turns(triggers up to once for each of the allies and up to a total of 3 times in a single battle).",
             "zh": "当场上非召唤物友方目标首次剩余1点生命时，暴击伤害提升50%，持续2回合(每个目标至多生效1次，单次战斗累计至多生效3次）)"
           }
         },
@@ -158,7 +158,7 @@
           "text": {
             "vi": "[tips_7]: Thi triển miễn phí [Thần Tứ Chi Nụ Hôn] lên Thức Thần phe ta có Tấn công cao nhất",
             "en": "[tips_7]: Uses Divine Kiss on the ally shikigami with the highest ATK, with no orb cost.",
-            "zh": "[tips_7]：对攻击最高的友方式神无消耗施放『神赐之吻]"
+            "zh": "[tips_7]：对攻击最高的友方式神无消耗施放[神赐之吻]"
           }
         }
       ],

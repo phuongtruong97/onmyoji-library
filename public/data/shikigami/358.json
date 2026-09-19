@@ -140,9 +140,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "『Hoa Tẫn] tiêu hao Quỷ Hỏa tăng 1 điểm",
+            "vi": "[Hoa Tẫn] tiêu hao Quỷ Hỏa tăng 1 điểm",
             "en": "Increases Root Out's orb cost by 1.",
-            "zh": "『花烬]消耗鬼火增加1点"
+            "zh": "[花烬]消耗鬼火增加1点"
           }
         },
         {
@@ -158,7 +158,7 @@
           "text": {
             "vi": "Tiên cơ: Thi triển [Xích Sắc Điêu Linh]",
             "en": "Upper Hand: Uses Withering Blooms.",
-            "zh": "先机：施放『赤色凋零]"
+            "zh": "先机：施放[赤色凋零]"
           }
         }
       ],

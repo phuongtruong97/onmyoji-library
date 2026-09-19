@@ -99,7 +99,7 @@
           "level": 5,
           "text": {
             "vi": "Sát thương tăng lên 125% và có 50% xác suất đẩy lùi 1 ô trên thanh hành động Quỷ Hỏa của mục tiêu kẻ địch (không hiệu lực với quái vật)",
-            "en": "Increases the damage to 125% and grants a 50% chance of reducing the enemy's Orb Bar progress by 1 slot((ineffective against monsters).",
+            "en": "Increases the damage to 125% and grants a 50% chance of reducing the enemy's Orb Bar progress by 1 slot(ineffective against monsters).",
             "zh": "伤害增加至125%并有50%概率击退敌方目标1格鬼火行动条(对怪物不生效）)"
           }
         }
@@ -124,7 +124,7 @@
         "zh": "身在黑暗，便踏出自己的光明。"
       },
       "description": {
-        "vi": "[tips_11] Điệu múa dưới trăng khép lại. [tips_7]: Khiến thanh hành động Quỷ Hỏa đẩy thêm 4 ô. Sau khi lượt bản thân kết thúc đẩy thêm 3 ô trên thanh hành động Quỷ Hỏa và giúp toàn bộ phe ta nhận 2 tầng [buff_3952_1]; khi lượt đồng minh bắt đầu nếu số Quỷ Hỏa không đủ 3 điểm, liền lập tức đẩy 1 ô trên thanh hành động Quỷ Hỏa; khi Quỷ Hỏa của phe ta bị tràn nếu bản thân đang ở trạng thái [tips_27], liền cổ vũ toàn bộ phe ta, mỗi khi tràn 1 điểm Quỷ Hỏa giúp toàn bộ phe ta nhận 1 tầng [buff_3952_1] (không kích hoạt nữa khi số tầng [buff_3952_1] của bản thân đạt giới hạn).",
+        "vi": "[tips_11] Điệu múa dưới trăng khép lại. \n[tips_7]: Khiến thanh hành động Quỷ Hỏa đẩy thêm 4 ô. Sau khi lượt bản thân kết thúc đẩy thêm 3 ô trên thanh hành động Quỷ Hỏa và giúp toàn bộ phe ta nhận 2 tầng [buff_3952_1]; khi lượt đồng minh bắt đầu nếu số Quỷ Hỏa không đủ 3 điểm, liền lập tức đẩy 1 ô trên thanh hành động Quỷ Hỏa; khi Quỷ Hỏa của phe ta bị tràn nếu bản thân đang ở trạng thái [tips_27], liền cổ vũ toàn bộ phe ta, mỗi khi tràn 1 điểm Quỷ Hỏa giúp toàn bộ phe ta nhận 1 tầng [buff_3952_1] (không kích hoạt nữa khi số tầng [buff_3952_1] của bản thân đạt giới hạn).",
         "en": "[tips_11]. A dance under the moon to close the curtain.[tips_7]: Fills up the Orb Bar by an additional 4 slots. At the end of her turn, fills up the Orb Bar by an additional 3 slots and grants 2 [buff_3952_1] stacks to all allies. At the start of an ally's turn, if you have less than 3 orbs, immediately fills up the Orb Bar by 1 slot. When your orbs overflow, if she's under any [tips_27], boosts all allies; each 1 overflowed orb grants 1 [buff_3952_1] stack to all allies (won't trigger if her [buff_3952_1] stacks are maxed out).",
         "zh": "[tips_11]。一舞月下谢幕。[tips_7]：使鬼火行动条额外推进4格。自身回合结束后额外推进3格鬼火行动条并使全体友方获得2层[buff_3952_1]；友方回合开始时若鬼火数不足3点，则立刻推进1格鬼火行动条；当友方鬼火溢出时若自身处于[tips_27]，则鼓舞全体友方，每溢出1点鬼火使全体友方获得1层[buff_3952_1]（当自身[buff_3952_1]层数到达上限时不再触发）。"
       },
@@ -157,7 +157,7 @@
           "level": 5,
           "text": {
             "vi": "Khi lượt đồng minh bắt đầu nếu số Quỷ Hỏa không đủ 3 điểm, liền lập tức tiêu hao 1 tầng [buff_3956_1] đẩy 1 ô trên thanh hành động Quỷ Hỏa (không thể kích hoạt khi Lưu Quang không đủ)",
-            "en": "At the start of an ally's turn, if you have less than 3 orbs, immediately fills up the Orb Bar progress by 1 slot at the cost of 1 [buff_3956_1] stack((won't trigger when she doesn't have enough Glittering Light).",
+            "en": "At the start of an ally's turn, if you have less than 3 orbs, immediately fills up the Orb Bar progress by 1 slot at the cost of 1 [buff_3956_1] stack(won't trigger when she doesn't have enough Glittering Light).",
             "zh": "友方回合开始时若鬼火数不足3点，则立刻消耗1层[buff_3956_1]推进1格鬼火行动条(流光不足时无法触发）)"
           }
         }

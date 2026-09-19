@@ -7,9 +7,9 @@
       "zh": "逐流"
     },
     "description": {
-      "vi": "Giảm -20% Phòng ngự. Khi gây sát thương bỏ qua 120 điểm Phòng ngự.\nMỗi khi bản thân tích lũy nhận sát thương bằng 50% giới hạn HP, thi triển 「Thôn Phệ」 không tiêu hao lên mục tiêu kẻ địch (mỗi lượt giới hạn 1 lần).",
+      "vi": "Giảm -20% Phòng ngự. Khi gây sát thương bỏ qua 120 điểm Phòng ngự.\nMỗi khi bản thân tích lũy nhận sát thương bằng 50% giới hạn HP, thi triển [Thôn Phệ] không tiêu hao lên mục tiêu kẻ địch (mỗi lượt giới hạn 1 lần).",
       "en": "Reduces -20% DEF. Ignores 120 DEF when dealing damage.\nAfter accumulating damage equal to 50% of max HP, uses [Swallow] on an enemy target at no cost (once per turn).",
-      "zh": "降低-20%防御。造成伤害时无视120点防御。\n自身每累积受到生命上限50%的伤害，对敌方目标无消耗施放「吞噬」（每回合限1次）。"
+      "zh": "降低-20%防御。造成伤害时无视120点防御。\n自身每累积受到生命上限50%的伤害，对敌方目标无消耗施放[吞噬]（每回合限1次）。"
     },
     "iconFile": "4.png"
   },
@@ -65,7 +65,7 @@
     "description": {
       "vi": "Hơi rượu yêu quái say lòng người, có thể bị kỹ năng 'Diễm Liệt Chi Tửu' thắp sáng.",
       "en": "Intoxicating fragrances from demonic wines. Can be ignited by Fiery Moonshine.",
-      "zh": "醉人的妖酒气息，可以被『烈焰之酒』技能点燃。"
+      "zh": "醉人的妖酒气息，可以被[烈焰之酒]技能点燃。"
     },
     "iconFile": "2081.png"
   },
@@ -121,7 +121,7 @@
     "description": {
       "vi": "Tăng tỷ lệ nuốt của 'Cơ Bất Trạch Thực'.",
       "en": "Increases Voracious' chance of devouring.",
-      "zh": "提升『饥不择食』吞食概率。"
+      "zh": "提升[饥不择食]吞食概率。"
     },
     "iconFile": "2141.png"
   },
@@ -161,9 +161,9 @@
       "zh": ""
     },
     "description": {
-      "vi": "Tăng số lần tấn công của 『Quỷ Hồ Lô』.",
+      "vi": "Tăng số lần tấn công của [Quỷ Hồ Lô].",
       "en": "Increases Calabash Spray's attack attempts.",
-      "zh": "增加『鬼葫芦』攻击次数。"
+      "zh": "增加[鬼葫芦]攻击次数。"
     },
     "iconFile": "2192.png"
   },
@@ -301,9 +301,9 @@
       "zh": ""
     },
     "description": {
-      "vi": "Khi nhận sát thương, sẽ chia đều cho các đồng minh khác cũng mang ấn ký này. Khiến đơn vị chưa ở trạng thái「Cô Lập」khi nhận sát thương chí mạng sẽ mất liên kết sinh mệnh và chống đỡ lần sát thương đó. Khi gây sát thương ngoài lượt, sát thương gây ra tăng 20%.",
+      "vi": "Khi nhận sát thương, sẽ chia đều cho các đồng minh khác cũng mang ấn ký này. Khiến đơn vị chưa ở trạng thái[Cô Lập]khi nhận sát thương chí mạng sẽ mất liên kết sinh mệnh và chống đỡ lần sát thương đó. Khi gây sát thương ngoài lượt, sát thương gây ra tăng 20%.",
       "en": "When taking damage, it is shared equally between all allies who have this mark. When an ally takes lethal damage, if they don't have Isolation, they lose HP Connection to block the damage. Increases an ally's damage dealt by 20% if it's not dealt during their turn.",
-      "zh": "受到伤害时，将平均分担给其他同样拥有此印记的友方。使未处于「孤立」状态的单位，受到致命伤害时，失去生命链接并抵挡该次伤害。在回合外造成伤害时，造成伤害提高20%。"
+      "zh": "受到伤害时，将平均分担给其他同样拥有此印记的友方。使未处于[孤立]状态的单位，受到致命伤害时，失去生命链接并抵挡该次伤害。在回合外造成伤害时，造成伤害提高20%。"
     },
     "iconFile": "2343.png"
   },
@@ -315,9 +315,9 @@
       "zh": "细雨"
     },
     "description": {
-      "vi": "Tăng 30% Kháng Hiệu Ứng, 30 điểm Tốc độ, khi thi triển「Quyên Lưu」tiêu hao Quỷ Hỏa giảm 1 điểm.",
+      "vi": "Tăng 30% Kháng Hiệu Ứng, 30 điểm Tốc độ, khi thi triển[Quyên Lưu]tiêu hao Quỷ Hỏa giảm 1 điểm.",
       "en": "Increases Effect RES by 30% and SPD by 30. Reduces Water Circuit's orb cost by 1.",
-      "zh": "提升30%效果抵抗、30点速度，释放「涓流」时鬼火消耗减少1点。"
+      "zh": "提升30%效果抵抗、30点速度，释放[涓流]时鬼火消耗减少1点。"
     },
     "iconFile": "2344.png"
   },
@@ -359,7 +359,7 @@
     "description": {
       "vi": "Căn cứ vào sát thương do 'Tử Vong Tuyên Cáo' gây ra, hấp thụ lượng trị liệu tương đương, tự động xóa bỏ sau khi hút đầy.",
       "en": "Absorbs healing amount equal to the damage Death Penalty dealt. Disappears when the amount is maxed out.",
-      "zh": "根据『死亡宣告』造成的伤害，吸收等量的治疗，吸满后自动移除。"
+      "zh": "根据[死亡宣告]造成的伤害，吸收等量的治疗，吸满后自动移除。"
     },
     "iconFile": "2514.png"
   },
@@ -513,7 +513,7 @@
     "description": {
       "vi": "Mỗi tầng có thể giúp 'Khiểm Ý' tăng thêm 1 lần số lần tấn công.",
       "en": "Each stack allows Apology to inflict 1 additional strike.",
-      "zh": "每层可使『歉意』增加1次攻击次数。"
+      "zh": "每层可使[歉意]增加1次攻击次数。"
     },
     "iconFile": "2632.png"
   },
@@ -595,9 +595,9 @@
       "zh": "妖华"
     },
     "description": {
-      "vi": "Khi tấn công bỏ qua 50% Phòng ngự. Mỗi khi đồng minh tiêu hao 8 điểm Quỷ Hỏa, nếu bản thân ở trạng thái [tips_27], thi triển miễn phí một lần 『Bách Hoa Liêu Loạn』 lên mục tiêu kẻ địch ngẫu nhiên, ưu tiên chọn mục tiêu đã bị tấn công bởi lần chủ động thi triển 『Bách Hoa Liêu Loạn』 trước đó, hệ số sát thương của đòn tấn công lần này giảm một nửa, sau khi kích hoạt sẽ xóa sạch bộ đếm tiêu hao Quỷ Hỏa.",
+      "vi": "Khi tấn công bỏ qua 50% Phòng ngự. Mỗi khi đồng minh tiêu hao 8 điểm Quỷ Hỏa, nếu bản thân ở trạng thái [tips_27], thi triển miễn phí một lần [Bách Hoa Liêu Loạn] lên mục tiêu kẻ địch ngẫu nhiên, ưu tiên chọn mục tiêu đã bị tấn công bởi lần chủ động thi triển [Bách Hoa Liêu Loạn] trước đó, hệ số sát thương của đòn tấn công lần này giảm một nửa, sau khi kích hoạt sẽ xóa sạch bộ đếm tiêu hao Quỷ Hỏa.",
       "en": "Attacks ignore 50% of target's DEF. Each time 8 orbs are used by allies, if she's under [tips_27], she uses Dazzling Cleave on a random enemy free of orb cost, prioritizing the target she last actively attacked with Dazzling Cleave. The damage multiplier of the attack is halved. The skill's orb count resets after it's triggered.",
-      "zh": "攻击时无视50%的防御。友方每消耗8点鬼火，若自身处于[tips_27]，对随机敌方目标无消耗施放一次『百花缭乱』，优先选择上一次主动施放『百花缭乱』攻击的目标，本次攻击伤害系数减半，触发后清空鬼火消耗计数。"
+      "zh": "攻击时无视50%的防御。友方每消耗8点鬼火，若自身处于[tips_27]，对随机敌方目标无消耗施放一次[百花缭乱]，优先选择上一次主动施放[百花缭乱]攻击的目标，本次攻击伤害系数减半，触发后清空鬼火消耗计数。"
     },
     "iconFile": "2693.png"
   },
@@ -763,9 +763,9 @@
       "zh": "星痕"
     },
     "description": {
-      "vi": "Cộng dồn tối đa 5 tầng. Tích lũy đủ 5 tầng, nếu Hoang không ở trạng thái bị khống chế, tiêu hao toàn bộ số tầng, thi triển 1 lần「Thiên Phạt · Tinh」không tiêu hao lên mục tiêu kẻ địch.",
+      "vi": "Cộng dồn tối đa 5 tầng. Tích lũy đủ 5 tầng, nếu Hoang không ở trạng thái bị khống chế, tiêu hao toàn bộ số tầng, thi triển 1 lần[Thiên Phạt · Tinh]không tiêu hao lên mục tiêu kẻ địch.",
       "en": "Max 5 stacks. When the stacks maxed out, if Susabi is not under controlling effects, consumes all stacks to use a Scourge: Star on the enemy free of orb cost.",
-      "zh": "最多叠加5层。累计5层，若荒未处于控制状态，消耗所有层数，对敌方目标无消耗施放1次「天罚·星」。"
+      "zh": "最多叠加5层。累计5层，若荒未处于控制状态，消耗所有层数，对敌方目标无消耗施放1次[天罚·星]。"
     },
     "iconFile": "2831.png"
   },
@@ -1029,9 +1029,9 @@
       "zh": "善面"
     },
     "description": {
-      "vi": "Mặt nạ đỏ của Diện Linh Khí, tạo ra bởi 『Cấm Đoán Chi Diện』, gắn lên phe đồng minh, không thể cộng dồn.",
+      "vi": "Mặt nạ đỏ của Diện Linh Khí, tạo ra bởi [Cấm Đoán Chi Diện], gắn lên phe đồng minh, không thể cộng dồn.",
       "en": "Menreiki's red mask. Created by Forbidden Masks. Granted to allies. Cannot be stacked.",
-      "zh": "面灵气的红色面具，由『禁断之面』所产生，附加于友方，不可叠加。"
+      "zh": "面灵气的红色面具，由[禁断之面]所产生，附加于友方，不可叠加。"
     },
     "iconFile": "3113.png"
   },
@@ -1043,9 +1043,9 @@
       "zh": "恶面"
     },
     "description": {
-      "vi": "Mặt nạ đen của Diện Linh Khí, tạo ra bởi 『Cấm Đoán Chi Diện』, gắn lên phe địch, có thể cộng dồn.",
+      "vi": "Mặt nạ đen của Diện Linh Khí, tạo ra bởi [Cấm Đoán Chi Diện], gắn lên phe địch, có thể cộng dồn.",
       "en": "Menreiki's black mask. Created by Forbidden Masks. Inflicted on enemies. Can be stacked.",
-      "zh": "面灵气的黑色面具，由『禁断之面』所产生，附加于敌方，可以叠加。"
+      "zh": "面灵气的黑色面具，由[禁断之面]所产生，附加于敌方，可以叠加。"
     },
     "iconFile": "3114.png"
   },
@@ -1589,9 +1589,9 @@
       "zh": "心剑"
     },
     "description": {
-      "vi": "Miễn nhiễm hiệu ứng khống chế, trong thời gian này bản thân cùng mục tiêu mang ấn ký 「Ảnh Thiết」 đều không phát động phản kích, hiệp chiến hay nhận lời mời chiến; khi bắt đầu lượt, nếu ấn ký 「Ảnh Thiết」 của kẻ địch đã được giải trừ, Tâm Kiếm lập tức giải trừ.",
+      "vi": "Miễn nhiễm hiệu ứng khống chế, trong thời gian này bản thân cùng mục tiêu mang ấn ký [Ảnh Thiết] đều không phát động phản kích, hiệp chiến hay nhận lời mời chiến; khi bắt đầu lượt, nếu ấn ký [Ảnh Thiết] của kẻ địch đã được giải trừ, Tâm Kiếm lập tức giải trừ.",
       "en": "Grants immunity to controlling effects. While he has this, the enemy with Shadow Cut cannot counter-attack him, assist an attack against him, or receive Call to Arms against him. At the start of his turn, if the enemy's Shadow Cut is removed, Blade of the Mind is also removed.",
-      "zh": "免疫控制效果，期间与带有「影切」印记的目标都不会发动反击、协战或受到邀战；回合开始时，若敌方的「影切」印记已解除，则心剑立即解除。"
+      "zh": "免疫控制效果，期间与带有[影切]印记的目标都不会发动反击、协战或受到邀战；回合开始时，若敌方的[影切]印记已解除，则心剑立即解除。"
     },
     "iconFile": "3433.png"
   },
@@ -1631,9 +1631,9 @@
       "zh": "镜佑"
     },
     "description": {
-      "vi": "Khi nhận hiệu ứng bất lợi hoặc hiệu ứng khống chế, lập tức xua tan 1 trạng thái bất lợi hoặc hiệu ứng khống chế và tăng 10% Thanh Hành Động cho đối tượng; hiệu ứng xua tan kích hoạt tối đa 1 lần mỗi lượt, khi kích hoạt hồi phục cho đồng minh có tỷ lệ HP hiện tại thấp nhất lượng HP bằng 240% Phòng ngự của Vân Ngoại Kính. Khi mất hoặc nhận trùng lặp 『Kính Hựu』, nhận 『Kính Thuẫn』.",
+      "vi": "Khi nhận hiệu ứng bất lợi hoặc hiệu ứng khống chế, lập tức xua tan 1 trạng thái bất lợi hoặc hiệu ứng khống chế và tăng 10% Thanh Hành Động cho đối tượng; hiệu ứng xua tan kích hoạt tối đa 1 lần mỗi lượt, khi kích hoạt hồi phục cho đồng minh có tỷ lệ HP hiện tại thấp nhất lượng HP bằng 240% Phòng ngự của Vân Ngoại Kính. Khi mất hoặc nhận trùng lặp [Kính Hựu], nhận [Kính Thuẫn].",
       "en": "When inflicted with a debuff or controlling effect, dispels 1 debuff or controlling effect immediately and raises the Move Bar by 10%. The dispel effect can be triggered up to once each turn. When the effect is triggered, recovers the HP of the ally with the lowest proportion of HP by 240% of Ungaikyo's DEF. Creates a Mirror Shield to protect the ally when they lose or regain Mirror's Protection.",
-      "zh": "受到减益效果或者控制效果时，立刻驱散1个减益状态或控制效果并增加其10%行动条；驱散效果每回合最多触发1次，触发时为当前生命比例最低的友方恢复云外镜防御240%的生命。失去或重复获得『镜佑』时，获得『镜盾』。"
+      "zh": "受到减益效果或者控制效果时，立刻驱散1个减益状态或控制效果并增加其10%行动条；驱散效果每回合最多触发1次，触发时为当前生命比例最低的友方恢复云外镜防御240%的生命。失去或重复获得[镜佑]时，获得[镜盾]。"
     },
     "iconFile": "3444.png"
   },
@@ -1663,7 +1663,7 @@
       "en": "Increases SPD by 20 and damage by 30%. Stackable up to 3 layers.",
       "zh": "提升20点速度，30%伤害，可叠加，上限3层。"
     },
-    "iconFile": "3451.png"
+    "iconFile": "Buff63.png"
   },
   "buff_3452_1": {
     "kind": "buff",
@@ -1677,7 +1677,7 @@
       "en": "Immune to Move Bar alterations and SPD boosts. When dealing damage, also deals damage equal to 60% of ATK to other targets afflicted with Bone Locks and resets the duration of Bone Locks. When an ally uses a normal attack on a target afflicted with Bone Locks, Kidomaru joins with Double Team.",
       "zh": "无法受到改变行动条和加速效果，造成伤害时对其他带有骸之锁的目标造成攻击60%伤害并重置骸之锁回合。友方普攻骸之锁目标时，鬼童丸协战。"
     },
-    "iconFile": "3452.png"
+    "iconFile": "Debuff50.png"
   },
   "buff_3453_1": {
     "kind": "buff",
@@ -1687,11 +1687,11 @@
       "zh": "修罗"
     },
     "description": {
-      "vi": "Nhận lá chắn có thể hấp thụ sát thương bằng 120% Tấn Công, miễn nhiễm hiệu ứng khống chế. Sử dụng 'Liệp Hồn Cuồng Sát' 3 lần hoặc lá chắn bị đánh vỡ, giải trừ trạng thái Tu La, đồng thời xóa sạch Cuồng của bản thân và Hài Chi Tỏa của kẻ địch. Trước khi hiệp của Quỷ Hoàn Đồng bắt đầu, nếu trạng thái Tu La chưa được giải trừ, Quỷ Hoàn Đồng sẽ ưu tiên tung hết toàn bộ số lần 'Liệp Hồn Cuồng Sát' còn lại.",
+      "vi": "Nhận lá chắn có thể hấp thụ sát thương bằng 120% Tấn Công, miễn nhiễm hiệu ứng khống chế. Sử dụng [Liệp Hồn Cuồng Sát] 3 lần hoặc lá chắn bị đánh vỡ, giải trừ trạng thái Tu La, đồng thời xóa sạch Cuồng của bản thân và Hài Chi Tỏa của kẻ địch. Trước khi hiệp của Quỷ Hoàn Đồng bắt đầu, nếu trạng thái Tu La chưa được giải trừ, Quỷ Hoàn Đồng sẽ ưu tiên tung hết toàn bộ số lần [Liệp Hồn Cuồng Sát] còn lại.",
       "en": "Gains a shield that can absorb damage equal to 120% of his ATK, and immunity to controlling effects.Asura state ends when Soul Hunter is used 3 times or the shield fails, clearing all layers of Demon Madness on him and all Bone Locks on enemies.At the start of Kidomaru's turn, if Asura state has not been removed, Kidomaru will first use up his remaining Soul Hunter attempts.",
-      "zh": "获得能吸收攻击120%伤害的护盾，免疫控制效果。使用「猎魂狂杀」3次或护盾被击破后，修罗状态解除，同时清除自身的狂和敌方的骸之锁。在鬼童丸回合开始前，若修罗状态未解除，鬼童丸将优先把剩余的「猎魂狂杀」次数一并打出。"
+      "zh": "获得能吸收攻击120%伤害的护盾，免疫控制效果。使用[猎魂狂杀]3次或护盾被击破后，修罗状态解除，同时清除自身的狂和敌方的骸之锁。在鬼童丸回合开始前，若修罗状态未解除，鬼童丸将优先把剩余的[猎魂狂杀]次数一并打出。"
     },
-    "iconFile": "3453.png"
+    "iconFile": "Buff64.png"
   },
   "buff_3454_1": {
     "kind": "buff",
@@ -1705,7 +1705,7 @@
       "en": "Kidomaru enters a special state. Enemy skills prioritize targets other than Kidomaru for 3 turns. While in Stealth, Kidomaru takes 20% less damage, and his attacks deal extra True Damage equal to 33% of ATK. Stealth ends after Kidomaru attacks during his turn.",
       "zh": "鬼童丸的特殊状态，敌方技能将优先选择鬼童丸以外的目标，持续3回合，隐匿状态下，鬼童丸受到伤害降低20%，攻击将额外造成攻击的33%的真实伤害，隐匿状态在鬼童丸回合内攻击后解除。"
     },
-    "iconFile": "3454.png"
+    "iconFile": "3.png"
   },
   "buff_3461_1": {
     "kind": "buff",
@@ -1761,7 +1761,7 @@
       "en": "Stackable for up to 7 layers. When she uses Blessed Bond, each layer of Fateful Bond increases the damage dealt by all allies by an additional 5% and the healing efficiency by 1% of her max HP.",
       "zh": "上限7层，每层缘使施放神赐良缘时，额外提升友方全体5%的伤害和治疗生命上限1%的生命值。"
     },
-    "iconFile": "3470.png"
+    "iconFile": "Buff65.png"
   },
   "buff_34726_1": {
     "kind": "buff",
@@ -1775,7 +1775,7 @@
       "en": "When she gains 5 layers, consumes all layers to dispel or remove all controlling effects on her and lowers the Move Bar of all enemies by 25%. She loses 2 layers when a match is formed.",
       "zh": "积累至5层时，消耗全部驱散或解除自身所有控制效果，击退敌方全体25%行动条。每次结缘成功时减少2层。"
     },
-    "iconFile": "34726.png"
+    "iconFile": "Buff66.png"
   },
   "buff_3475_1": {
     "kind": "buff",
@@ -1843,7 +1843,7 @@
     "description": {
       "vi": "Sau khi nổ gây [tips_5], gỡ bỏ sau khi kích nổ. Sau mỗi lần kích nổ, năng lực bỏ qua phòng thủ Phong Li nhận được từ \"Khinh Nhuyễn Phạ Ngạnh\" đều sẽ tăng 50 điểm, giới hạn 300 điểm.",
       "en": "Inflicts [tips_5] when detonated. Removed after detonation. After each detonation, the DEF-ignoring ability Furi gains from his Paper Tiger state is increased by 50 to become up to 300.",
-      "zh": "爆炸后造成[tips_5]，引爆后移除。每次引爆后，风狸从「欺软怕硬」中获得的忽略防御能力都将提升50点，上限300点。"
+      "zh": "爆炸后造成[tips_5]，引爆后移除。每次引爆后，风狸从[欺软怕硬]中获得的忽略防御能力都将提升50点，上限300点。"
     },
     "iconFile": "3495.png"
   },
@@ -1873,7 +1873,7 @@
       "en": "Reduces damage taken by 60%, up to a maximum damage reduction equal to 40% of her ATK each time. Fails after taking one attack.",
       "zh": "减少受到伤害的60%，单次伤害减免量不超过自身攻击力40%，在承受1次攻击后被击碎。"
     },
-    "iconFile": "3511.png"
+    "iconFile": "3.png"
   },
   "buff_3512_1": {
     "kind": "buff",
@@ -1981,9 +1981,9 @@
       "zh": "麓泽"
     },
     "description": {
-      "vi": "Giới hạn 4 tầng, mỗi tầng làm giảm 1 điểm tiêu hao Quỷ Hỏa của 『Đoạn Mạt Vô Minh』, sau khi thi triển 『Đoạn Mạt Vô Minh』 tiêu hao toàn bộ Lộc Trạch.",
+      "vi": "Giới hạn 4 tầng, mỗi tầng làm giảm 1 điểm tiêu hao Quỷ Hỏa của [Đoạn Mạt Vô Minh], sau khi thi triển [Đoạn Mạt Vô Minh] tiêu hao toàn bộ Lộc Trạch.",
       "en": "Max 4 stacks. Each stack reduces Forgotten End's orb cost by 1 orb. After using Forgotten End, all Mountain's Boon stacks are consumed.",
-      "zh": "上限4层，每层使『断末无铭』的鬼火消耗降低1点，施放『断末无铭』后消耗所有麓泽。"
+      "zh": "上限4层，每层使[断末无铭]的鬼火消耗降低1点，施放[断末无铭]后消耗所有麓泽。"
     },
     "iconFile": "3553.png"
   },
@@ -2023,9 +2023,9 @@
       "zh": "溟花"
     },
     "description": {
-      "vi": "Khi nhận được, mỗi tầng hồi phục lượng HP bằng 10% giới hạn HP của bản thân, giới hạn 10 tầng; khi mang Minh Hoa, sau khi tấn công thi triển 『Hỏa Chiếu Chi Lộ』.",
+      "vi": "Khi nhận được, mỗi tầng hồi phục lượng HP bằng 10% giới hạn HP của bản thân, giới hạn 10 tầng; khi mang Minh Hoa, sau khi tấn công thi triển [Hỏa Chiếu Chi Lộ].",
       "en": "Upon collection, each stack heals her HP by 10% of her max HP. Up to 10 stacks can be collected. If she has Nether Flower, she uses Path of Flames after launching an attack.",
-      "zh": "获得时每层治疗自身生命上限10%的生命，上限10层；携带溟花时，攻击后施放『火照之路』。"
+      "zh": "获得时每层治疗自身生命上限10%的生命，上限10层；携带溟花时，攻击后施放[火照之路]。"
     },
     "iconFile": "3581.png"
   },
@@ -2088,16 +2088,16 @@
   "buff_3632_1": {
     "kind": "buff",
     "title": {
-      "vi": "",
+      "vi": "Kim Liên",
       "en": "",
       "zh": ""
     },
     "description": {
-      "vi": "Lượt chịu sự khống chế của Đế Thích Thiên; Kim Liên có thể đỡ hiệu ứng khống chế từ một lần kỹ năng cho Đế Thích Thiên, sau đó thời gian tồn tại giảm 1 lượt; Kim Liên sẽ bị xóa bỏ khi Đế Thích Thiên nhận sát thương chí mạng, chống đỡ sát thương đồng thời giúp ngài hồi phục tới 5% HP tối đa. Khi gắn lên quái vật khiến nó nhận sát thương, sẽ chịu thêm 1 lần sát thương chuẩn bằng 40% lượng sát thương đó, không kích hoạt hiệu ứng Ngự Hồn của Đế Thích Thiên, kéo dài đến khi kết thúc chiến đấu. Đế Thích Thiên gắn Kim Liên lên tối đa 1 kẻ địch, đồng thời bản thân không chịu ảnh hưởng bởi hiệu ứng này.",
+      "vi": "Lượt của kẻ địch chịu sự khống chế của Đế Thích Thiên; Kim Liên có thể đỡ hiệu ứng khống chế từ một lần kỹ năng cho Đế Thích Thiên, sau đó thời gian tồn tại giảm 1 lượt; Kim Liên sẽ bị xóa bỏ khi Đế Thích Thiên nhận sát thương chí mạng, chống đỡ sát thương đồng thời giúp ngài hồi phục tới 5% HP tối đa. Khi gắn lên quái vật khiến nó nhận sát thương, sẽ chịu thêm 1 lần sát thương chuẩn bằng 40% lượng sát thương đó, không kích hoạt hiệu ứng Ngự Hồn của Đế Thích Thiên, kéo dài đến khi kết thúc chiến đấu. Đế Thích Thiên gắn Kim Liên lên tối đa 1 kẻ địch, đồng thời bản thân không chịu ảnh hưởng bởi hiệu ứng này.",
       "en": "Allows Taishakuten to gain control of a turn. Golden Lotus negates all controlling effects inflicted by a single skill at the cost of 1 turn of its duration. When Taishakuten takes lethal damage, Golden Lotus is removed, blocking the damage and recovering his HP to 5% of his max HP. If it's inflicted on a monster, when the monster takes damage, it additionally inflicts damage equal to 40% of the damage dealt as true damage. The true damage inflicted won't trigger Taishakuten's Soul-set effects. The effect lasts until the battle ends. Taishakuten can only inflict Golden Lotus on up to 1 enemy and himself is immune to this effect.",
       "zh": "回合受帝释天操控；金莲可为帝释天抵挡被单次技能施加的控制效果，之后存在时间减少1回合；金莲在帝释天受到致命伤害时移除，抵挡伤害并使其恢复至最大生命值5%。对怪物施加会使其受到伤害时，额外受到1次该伤害40%的真实伤害，不触发帝释天御魂效果，持续至战斗结束。帝释天最多对1名敌人施加金莲，且自身不会受此效果影响。"
     },
-    "iconFile": "3632.png"
+    "iconFile": "Debuff66.png"
   },
   "buff_3641_1": {
     "kind": "buff",
@@ -2111,7 +2111,7 @@
       "en": "Max 9 points. Each point of Sanity Asura restored recovers his HP by 8% of his max HP. Asura is also suppressed by Sanity. Each point of Sanity he has reduces his damage dealt by 9%.",
       "zh": "上限9点。每回复1点理性，恢复最大生命值8%的生命。但阿修罗受到理性压制，每点理性使其造成的伤害降低9%。"
     },
-    "iconFile": "3641.png"
+    "iconFile": "Buff96.png"
   },
   "buff_3645_1": {
     "kind": "buff",
@@ -2177,9 +2177,9 @@
       "zh": "黑光"
     },
     "description": {
-      "vi": "Xóa bỏ Nhất Tuyến Mục và toàn bộ bất lợi của bản thân, thay thế 「Mộng Hư Không Cảnh」 thành 「Luân Hồi Nhất Tức」, hồi phục 100% HP, khi tấn công bỏ qua thêm 200 điểm Phòng ngự và kèm 15% hiệu ứng hút máu.",
+      "vi": "Xóa bỏ Nhất Tuyến Mục và toàn bộ bất lợi của bản thân, thay thế [Mộng Hư Không Cảnh] thành [Luân Hồi Nhất Tức], hồi phục 100% HP, khi tấn công bỏ qua thêm 200 điểm Phòng ngự và kèm 15% hiệu ứng hút máu.",
       "en": "Removes the Watchful Eye and all debuffs on herself, changing Void Dreamland to Recurrence Strike and recovering her HP by 100%. Also, her attacks ignore DEF by 200 and inflicts 15% HP Steal.",
-      "zh": "移除一线目和自身所有减益，将「梦虚空境」替换成「轮回一息」，恢复100%生命，攻击时额外无视200点防御并附加15%吸血效果。"
+      "zh": "移除一线目和自身所有减益，将[梦虚空境]替换成[轮回一息]，恢复100%生命，攻击时额外无视200点防御并附加15%吸血效果。"
     },
     "iconFile": "3664.png"
   },
@@ -2207,14 +2207,14 @@
     "description": {
       "vi": "Mỗi khi có đơn vị địch khác chịu sát thương không phải truyền dẫn, \"Phù Sinh Họa Ảnh\" sẽ gây 10% sát thương truyền dẫn của sát thương đó lên mục tiêu.",
       "en": "Whenever another enemy takes non-transferred damage, Lifelike Image deals transferred damage to the target equal to 10% of the non-transferred damage.",
-      "zh": "每当有其他敌方目标受到非传导伤害时，『浮生画影』会对目标造成此伤害10%的传导伤害。"
+      "zh": "每当有其他敌方目标受到非传导伤害时，[浮生画影]会对目标造成此伤害10%的传导伤害。"
     },
     "iconFile": "3674.png"
   },
   "buff_3675_1": {
     "kind": "buff",
     "title": {
-      "vi": "",
+      "vi": "Che Chắn",
       "en": "",
       "zh": ""
     },
@@ -2223,7 +2223,7 @@
       "en": "Negates controlling effects once.",
       "zh": "可抵挡1次控制效果。"
     },
-    "iconFile": "3675.png"
+    "iconFile": "86702.png"
   },
   "buff_3681_1": {
     "kind": "buff",
@@ -2242,7 +2242,7 @@
   "buff_3693_1": {
     "kind": "buff",
     "title": {
-      "vi": "Dùng bữa",
+      "vi": "Dùng Bữa",
       "en": "Meal",
       "zh": "用餐"
     },
@@ -2256,21 +2256,35 @@
   "buff_3694_1": {
     "kind": "buff",
     "title": {
-      "vi": "Bão Thực",
+      "vi": "No Nê",
       "en": "Full Stomach",
       "zh": "饱食"
     },
     "description": {
-      "vi": "Ăn no rồi, làm việc thôi! Bất kể đồng minh hay kẻ địch sau 3 lượt, nếu không ở trạng thái không thể hành động sẽ phát động Hưởng Thực, gây sát thương lên toàn thể kẻ địch.",
+      "vi": "Ăn no rồi, làm việc thôi! Bất kể đồng minh hay kẻ địch sau 3 lượt, nếu không ở trạng thái không thể hành động sẽ phát động [skill_3694_1], gây sát thương lên toàn thể kẻ địch.",
       "en": "I'm full and ready to work! Activates Feast after 3 turns (either ally's or enemy's) if he's not unable to take action, dealing damage to all enemies.",
       "zh": "吃饱了，干活！不论友方和敌方的3个回合后，若未处于无法动作，发动飨食，对敌方全体造成伤害。"
     },
     "iconFile": "3694.png"
   },
+  "skill_3694_1": {
+    "kind": "skill",
+    "title": {
+      "vi": "Hưởng Thực",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tấn công toàn bộ kẻ địch, gây một lượng sát thương chia đều tương đương 158% lượng sát thương gây ra bởi đồng minh có hiệu ứng [buff_3693_1] trong lượt của họ. Lượng sát thương này bỏ qua phòng thủ, không thể Bạo Kích, không kích hoạt Ngự Hồn và nội tại của bản thân hay kẻ địch. Sát thương chỉ chịu ảnh hưởng từ hiệu ứng tăng sát thương trên Thực Linh (sát thương gây lên một mục tiêu đơn lẻ không thể vượt quá 3000% tổng Tấn Công ban đầu của toàn bộ đồng minh).",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
   "buff_3696_1": {
     "kind": "buff",
     "title": {
-      "vi": "",
+      "vi": "Che Chắn",
       "en": "",
       "zh": ""
     },
@@ -2354,7 +2368,7 @@
   "buff_3731_1": {
     "kind": "buff",
     "title": {
-      "vi": "Cùng Múa",
+      "vi": "Cùng Khiêu Vũ",
       "en": "Waltz",
       "zh": "共舞"
     },
@@ -2363,12 +2377,12 @@
       "en": "Max 7 stacks. Each stack raises his own Move Bar by 10%.",
       "zh": "上限7层，每层增加自身10%行动条。"
     },
-    "iconFile": "3731.png"
+    "iconFile": "Unique27.png"
   },
   "buff_3732_1": {
     "kind": "buff",
     "title": {
-      "vi": "Cùng Múa",
+      "vi": "Cùng Khiêu Vũ",
       "en": "Waltz",
       "zh": "共舞"
     },
@@ -2377,17 +2391,17 @@
       "en": "Max 7 stacks. Each stack raises his own Move Bar by 10%.",
       "zh": "上限7层，每层增加自身10%行动条。"
     },
-    "iconFile": "3732.png"
+    "iconFile": "Unique27.png"
   },
   "buff_3733_1": {
     "kind": "buff",
     "title": {
-      "vi": "Nêm Đêm",
+      "vi": "Ấn Ký Màn Đêm",
       "en": "Sigil of the Night",
       "zh": "夜之楔"
     },
     "description": {
-      "vi": "Hiệu ứng duy nhất. Tổng cộng có 7 loại Nêm, kéo dài 1 lượt. Không thể gắn lên quái vật, vật triệu hồi, Âm Dương Sư. Mục tiêu được đính kèm trước khi bắt đầu lượt cần chọn hiệu ứng và thời điểm kích hoạt từ 2 loại Nêm ngẫu nhiên, Nêm đã chọn sẽ không xuất hiện lại trước khi được đặt lại.\nKhi toàn bộ 7 loại hiệu ứng Nêm được kích hoạt, nếu không ở trạng thái không thể hành động, đặt lại Dạ Chi Nêm và tấn công 3 lần, mỗi lần gây sát thương chuẩn bằng 77% Tấn công lên mục tiêu kẻ địch ngẫu nhiên.",
+      "vi": "Hiệu ứng duy nhất. Tổng cộng có 7 loại Ấn Ký, kéo dài 1 lượt. Không thể gắn lên quái vật, vật triệu hồi, Âm Dương Sư. Mục tiêu được đính kèm trước khi bắt đầu lượt cần chọn hiệu ứng và thời điểm kích hoạt từ 2 loại Ấn Ký ngẫu nhiên, Ấn Ký đã chọn sẽ không xuất hiện lại trước khi được đặt lại.\nKhi toàn bộ 7 loại hiệu ứng Ấn Ký được kích hoạt, nếu không ở trạng thái không thể hành động, đặt lại [buff_3733_1] và tấn công 3 lần, mỗi lần gây sát thương chuẩn bằng 77% Tấn công lên mục tiêu kẻ địch ngẫu nhiên.",
       "en": "Exclusive effect. There are 7 types of Sigils, each lasts 1 turn. Cannot be inflicted on monsters, summoned entities, or onmyoji. At the start of the inflicted target's turn, they will need to choose the trigger timing and effect from two random types of Sigils. A chosen type won't appear again until the Sigil reset.\nWhen the effect of all 7 types have been triggered, if he's not unable to take actions, Sigils reset and he will launch a 3-strike attack, dealing true damage to random enemies equal to 77% of his ATK for each strike.",
       "zh": "唯一效果。共7种楔子，持续1回合。无法对怪物、召唤物、阴阳师施加。被附加的目标回合开始前需从2种随机楔子中选择触发效果和时机，被选择过的楔子在重置前不会再出现。\n7种楔子效果全触发时，若未处于无法动作，重置夜之楔并攻击3次，每次对随机敌方目标造成攻击77%真实伤害。"
     },
@@ -2407,6 +2421,20 @@
     },
     "iconFile": "3752.png"
   },
+  "tips_demden": {
+    "kind": "buff",
+    "title": {
+      "vi": "Đêm Đen",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khiến vật triệu hồi bị coi như đã rời khỏi chiến trường. Điều này có nghĩa là mục tiêu tạm thời không thể thao tác, không thể hành động, thanh hành động không thể bị thay đổi vị trí, toàn bộ hiệu ứng kỹ năng bị phong ấn, đồng thời không thể nhận thêm buff hoặc debuff.\nKhông có tác dụng lên quái vật.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
   "buff_3761_1": {
     "kind": "buff",
     "title": {
@@ -2415,11 +2443,11 @@
       "zh": "神火"
     },
     "description": {
-      "vi": "Khi máu bản thân đạt giới hạn HP và không chịu hiệu ứng khống chế cùng trục xuất, lập tức thi triển 1 lần 「Ngũ Sơn Hỏa Tế」 không tiêu hao Quỷ Hỏa, hiệu ứng này hồi chiêu 2 lượt.",
+      "vi": "Khi máu bản thân đạt giới hạn HP và không chịu hiệu ứng khống chế cùng trục xuất, lập tức thi triển 1 lần [Ngũ Sơn Hỏa Tế] không tiêu hao Quỷ Hỏa, hiệu ứng này hồi chiêu 2 lượt.",
       "en": "When her HP reaches her max HP and she's not under controlling effects or Banished, she immediately uses Fire Rite free of orb cost. The effect has a cooldown for 2 turns.",
-      "zh": "当自身血量达到生命上限且未处于控制效果和放逐时，立刻施放1次无鬼火消耗的「五山火祭」，该效果冷却2回合。"
+      "zh": "当自身血量达到生命上限且未处于控制效果和放逐时，立刻施放1次无鬼火消耗的[五山火祭]，该效果冷却2回合。"
     },
-    "iconFile": "3761.png"
+    "iconFile": "Buff107.png"
   },
   "buff_3773_1": {
     "kind": "buff",
@@ -2429,9 +2457,9 @@
       "zh": "梦忍法"
     },
     "description": {
-      "vi": "Giới hạn 9 quyển, mỗi quyển khiến sát thương gây ra bởi 『Thú Mộng Chi Loạn Vũ!』 tăng 20%, sau khi thi triển 『Thú Mộng Chi Loạn Vũ!』 tiêu hao toàn bộ 『Mộng Nhẫn Pháp』.",
+      "vi": "Giới hạn 9 quyển, mỗi quyển khiến sát thương gây ra bởi [Thú Mộng Chi Loạn Vũ!] tăng 20%, sau khi thi triển [Thú Mộng Chi Loạn Vũ!] tiêu hao toàn bộ [Mộng Nhẫn Pháp].",
       "en": "Max 9 chapters. Each chapter increases the damage of Ninja Scurrying Steps! by 20%. After using Ninja Scurrying Steps! all chapters are consumed.",
-      "zh": "上限9篇，每篇使『狩梦之乱舞！』造成的伤害提升20%，施放『狩梦之乱舞！』后消耗所有『梦忍法』。"
+      "zh": "上限9篇，每篇使[狩梦之乱舞！]造成的伤害提升20%，施放[狩梦之乱舞！]后消耗所有[梦忍法]。"
     },
     "iconFile": "3773.png"
   },
@@ -2445,7 +2473,7 @@
     "description": {
       "vi": "Khi kẻ địch nhận hiệu quả tăng Thanh Hành Động, nếu Karura không ở trạng thái không thể hành động, tấn công thường 1 lần lên đối phương. Khi đòn tấn công thường của Karura do \"Tích Vũ\" kích hoạt không gây sát thương hoặc khiến lượng lá chắn giảm tích lũy đủ 10 lần lên một mục tiêu địch đơn lẻ, \"Tích Vũ\" đó bị trực tiếp gỡ bỏ.",
       "en": "When an enemy receives a Move Bar-raising effect, if Garuda is not unable to take actions, launches a normal attack at the enemy. If Garuda's normal attack triggered by a Valuable Feather deals no damage to a single enemy or has depleted shields a total of 10 times, the Valuable Feather is removed.",
-      "zh": "敌方获得行动条增加效果时，若迦楼罗未处于无法动作状态，对其普攻1次。当「惜羽」触发的迦楼罗普攻对单个敌方目标未造成伤害或使护盾量减少累计达到10次时，该「惜羽」被直接移除。"
+      "zh": "敌方获得行动条增加效果时，若迦楼罗未处于无法动作状态，对其普攻1次。当[惜羽]触发的迦楼罗普攻对单个敌方目标未造成伤害或使护盾量减少累计达到10次时，该[惜羽]被直接移除。"
     },
     "iconFile": "3782.png"
   },
@@ -2837,7 +2865,7 @@
     "description": {
       "vi": "[tips_11], giới hạn 5 tầng, chiếm thanh Quỷ Hỏa của địch. Có thể dùng làm Quỷ Hỏa khi địch thi triển kỹ năng, ưu tiên sử dụng. Khi nhận sẽ bị nhiễm Quỷ Hỏa tương đương. Nếu chưa nhiễm đủ Quỷ Hỏa, sẽ gây sát thương bằng 80% Tấn Công lên mục tiêu không phải vật triệu hồi ở vị trí đầu tiên trên Thanh Hành Động của địch, 100% [tips_2] câm lặng mục tiêu đó. Khi mục tiêu là quái vật, đổi thành phe ta nhận 2 điểm Quỷ Hỏa. Cứ mỗi có 1 điểm Nghĩa Hỏa, sau khi hiệp của mục tiêu địch không phải vật triệu hồi kết thúc, gây sát thương bằng 30% Tấn Công lên đối phương. Khi mục tiêu địch thi triển kỹ năng chủ động chỉ tiêu hao [buff_3993_1], kỹ năng đó được thay thế thành \"Cuống Mặc\".",
       "en": "[tips_11]. Max 5 stacks. Occupies the enemy's Orb Bar. The enemy uses this first as a substitute for orbs when using Orb Skills. Upon gaining this, an equal number of orbs are infected. If there are not enough orbs to be infected, deals damage to the non-summoned enemy entity at the top of the turn order equal to 80% of Kodama's ATK, with a 100% [tips_2] of inflicting Silence on the enemy. If the monster gains this, grants you 2 orbs instead each time. At the end of a non-summoned enemy entity's turn, for each 1 Faux Orb the enemy has, deals damage equal to 30% of Kotodama's ATK. When an enemy spends only [buff_3993_1]s to use a skill, changes that skill to Lies Silenced.",
-      "zh": "[tips_11]，上限5层，占用敌方鬼火条。可在敌方施放技能时充当鬼火，优先使用。获得时将侵染等量鬼火。未侵染足量鬼火，则对敌方行动条最前端的非召唤物目标造成1次攻击80%的伤害，100%[tips_2]沉默该目标。目标为怪物时，改为己方获得2点鬼火。每有1点义火，非召唤物的敌方目标回合结束时，对其造成攻击30%的伤害。当敌方目标施放主动技能仅会消耗[buff_3993_1]时，将该技能替换为「诳默」。"
+      "zh": "[tips_11]，上限5层，占用敌方鬼火条。可在敌方施放技能时充当鬼火，优先使用。获得时将侵染等量鬼火。未侵染足量鬼火，则对敌方行动条最前端的非召唤物目标造成1次攻击80%的伤害，100%[tips_2]沉默该目标。目标为怪物时，改为己方获得2点鬼火。每有1点义火，非召唤物的敌方目标回合结束时，对其造成攻击30%的伤害。当敌方目标施放主动技能仅会消耗[buff_3993_1]时，将该技能替换为[诳默]。"
     },
     "iconFile": "3993.png"
   },
@@ -2877,9 +2905,9 @@
       "zh": "呱气"
     },
     "description": {
-      "vi": "Có mùi kỳ lạ, còn có thể tăng số lần tấn công của 『Oa · Cuồng Khiếu』.",
+      "vi": "Có mùi kỳ lạ, còn có thể tăng số lần tấn công của [Oa · Cuồng Khiếu].",
       "en": "Has a strange smell. Can also be used to increase Croak: Healing Rage's number of attacks.",
-      "zh": "有奇怪的味道，还可以增加『呱·狂啸』的攻击次数。"
+      "zh": "有奇怪的味道，还可以增加[呱·狂啸]的攻击次数。"
     },
     "iconFile": "4151.png"
   },
@@ -2963,7 +2991,7 @@
     "description": {
       "vi": "Giới hạn 5 tầng, mỗi tầng tăng 20% hiệu quả kháng của bản thân, đồng thời cường hóa hiệu quả 'Dữ Thế Kết Duyên' căn cứ theo số tầng hiện có.",
       "en": "Max 5 stacks. Each stack increases her Effect RES by 20%. The effects of Bonding with the World increase with the stacks.",
-      "zh": "上限5层，每层提升自身20%效果抵抗，并根据已有层数强化『与世结缘』效果。"
+      "zh": "上限5层，每层提升自身20%效果抵抗，并根据已有层数强化[与世结缘]效果。"
     },
     "iconFile": "5541.png"
   },
@@ -2980,6 +3008,20 @@
       "zh": "回合结束后立即获得1个回合，且新回合施放妖术技能消耗的鬼火减少2点。(无法连续触发此效果)"
     },
     "iconFile": "5544.png"
+  },
+  "yeudiem": {
+    "kind": "buff",
+    "title": {
+      "vi": "Thương Tổn",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Nhận thêm sát thương",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "4.png"
   },
   "buff_5545_1": {
     "kind": "buff",
@@ -3087,9 +3129,9 @@
       "zh": "心焰"
     },
     "description": {
-      "vi": "Giới hạn 3 tầng, mỗi tầng tăng 15% Phòng ngự. Sau khi mục tiêu bất kỳ hành động, nếu bản thân không chịu hiệu ứng khống chế, đồng thời HP của mục tiêu phe địch không phải vật triệu hồi giảm hơn 25% giá trị hiện tại (lượng giảm cần đạt 10% HP tối đa), thi triển 「Hấp Phách」.",
+      "vi": "Giới hạn 3 tầng, mỗi tầng tăng 15% Phòng ngự. Sau khi mục tiêu bất kỳ hành động, nếu bản thân không chịu hiệu ứng khống chế, đồng thời HP của mục tiêu phe địch không phải vật triệu hồi giảm hơn 25% giá trị hiện tại (lượng giảm cần đạt 10% HP tối đa), thi triển [Hấp Phách].",
       "en": "Max 3 stacks. Each stack increases her DEF by 15%. At the end of an action, if she's not under any controlling effects, uses Steal Soul if a non-summoned enemy entity's HP loss in the action exceeds 25% of their current HP(and at least 10% of their max HP).",
-      "zh": "上限3层，每层提高15%防御。任意目标行动后，若自身未受到控制效果，且敌方非召唤物目标的生命降低超过当前值的25%时(降低值需达到最大生命的10%)，施放「汲魄」。"
+      "zh": "上限3层，每层提高15%防御。任意目标行动后，若自身未受到控制效果，且敌方非召唤物目标的生命降低超过当前值的25%时(降低值需达到最大生命的10%)，施放[汲魄]。"
     },
     "iconFile": "5593.png"
   },
@@ -3187,7 +3229,7 @@
     "description": {
       "vi": "Giới hạn 75 tầng. Cứ nhận được 15 tầng Phúc Vận, nếu bản thân chưa ở trạng thái hiệu ứng khống chế hoặc trục xuất, lập tức thi triển 'Đồng Thú Vặn Trứng': Ngẫu nhiên nhận 1 loại hiệu quả cơ bản chưa từng kích hoạt. Sau khi đạt giới hạn thi triển 'Đồng Thú Vặn Trứng' sẽ xóa sạch số tầng.",
       "en": "Max 75 stacks. Each time she gains 15 Luck stacks, if she's not under any controlling effects or Banished, immediately uses Fun Gacha: Grants 1 Basic effect that hasn't triggered. Using Fun Gacha at max stack clears all stacks.",
-      "zh": "上限75层。每获得15层福运，若自身未处于控制效果或放逐，立即施放『童趣扭蛋』：随机获得1种未触发过的基础效果。到达上限后施放『童趣扭蛋』将清空层数。"
+      "zh": "上限75层。每获得15层福运，若自身未处于控制效果或放逐，立即施放[童趣扭蛋]：随机获得1种未触发过的基础效果。到达上限后施放[童趣扭蛋]将清空层数。"
     },
     "iconFile": "5652.png"
   },
@@ -3255,9 +3297,9 @@
       "zh": ""
     },
     "description": {
-      "vi": "Cộng dồn tối đa 5 tầng. Mỗi tầng tăng 10% hiệu ứng hồi phục. Khi đủ 5 tầng, thi triển「Mãnh Sa Khởi Lãng」tiêu hao Quỷ Hỏa giảm 3 điểm.",
+      "vi": "Cộng dồn tối đa 5 tầng. Mỗi tầng tăng 10% hiệu ứng hồi phục. Khi đủ 5 tầng, thi triển[Mãnh Sa Khởi Lãng]tiêu hao Quỷ Hỏa giảm 3 điểm.",
       "en": "Stacks up to 5 times. Each stack increases healing by 10%. At 5 stacks, reduces the orb cost of using Shark Surge by 3.",
-      "zh": "至多叠加5层。每层提升10%的治疗效果。满5层时，施放「猛鲨起浪」时鬼火消耗减少3点。"
+      "zh": "至多叠加5层。每层提升10%的治疗效果。满5层时，施放[猛鲨起浪]时鬼火消耗减少3点。"
     },
     "iconFile": "5711.png"
   },
@@ -3285,7 +3327,7 @@
     "description": {
       "vi": "Khi bị Tâm Hữu Khuyển Thần, Âm Dương Sư tấn công thường tăng 1 tầng, giới hạn 5 tầng. Khi tích đủ tối đa tầng, Tâm Hữu Khuyển Thần lập tức tiêu hao toàn bộ số tầng [thi triển] đòn tấn công thường cường hóa 'Tước Linh · Thiên Tâm Trảm'.",
       "en": "The mark stacks when Bosombuddy Inugami or the onmyoji uses a normal attack. Max 5 stacks. When it's maxed out, Bosombuddy Inugami uses his enhanced normal attack Sparrow's Soul: Tandem Slash at the cost of all stacks.",
-      "zh": "被心友犬神、阴阳师普攻时增加1层，上限5层。叠至满层时，心友犬神立即消耗全部层数施放强化普攻『雀灵·天心斩』。"
+      "zh": "被心友犬神、阴阳师普攻时增加1层，上限5层。叠至满层时，心友犬神立即消耗全部层数施放强化普攻[雀灵·天心斩]。"
     },
     "iconFile": "5742.png"
   },
@@ -3299,7 +3341,7 @@
     "description": {
       "vi": "Nhận 50% phòng thủ ban đầu của Âm Dương Sư; khi mục tiêu đồng minh sở hữu lá chắn chịu tấn công, [thi triển] 'Nhất Thệ Quy Tâm' (trong một hiệp đơn giới hạn 1 lần, trước khi bắt đầu hiệp của bản thân giới hạn 4 lần).",
       "en": "Grants DEF by 50% of the onmyoji's starting DEF. When an ally with a shield is attacked, uses Promised Return (up to once in a single turn and up to 4 times before his next turn.)",
-      "zh": "获得阴阳师50%初始防御；拥有护盾的友方目标受到攻击时，施放『一誓归心』（单个回合内限1次，自身回合开始前限4次）。"
+      "zh": "获得阴阳师50%初始防御；拥有护盾的友方目标受到攻击时，施放[一誓归心]（单个回合内限1次，自身回合开始前限4次）。"
     },
     "iconFile": "5744.png"
   },
@@ -3327,7 +3369,7 @@
     "description": {
       "vi": "'Phong Dương Đao Pháp' thay thế bằng 'Phong Dương Đao Pháp · Hàn Tuyết', 'Vọng Nguyệt Tinh Hà' thay thế bằng 'Vọng Nguyệt Tinh Hà · Tuyết Ảnh'.",
       "en": "Changes Fengyang Sabre to Fengyang Sabre: Freezing Snow and Moonlit Stars to Moonlit Stars: Shadowing Snow.",
-      "zh": "『封阳刀法』替换为『封阳刀法·寒雪』，『望月星河』替换为『望月星河·雪影』。"
+      "zh": "[封阳刀法]替换为[封阳刀法·寒雪]，[望月星河]替换为[望月星河·雪影]。"
     },
     "iconFile": "5753.png"
   },
@@ -3341,14 +3383,14 @@
     "description": {
       "vi": "'Phong Dương Đao Pháp' thay thế bằng 'Phong Dương Đao Pháp · Tình Không', 'Vọng Nguyệt Tinh Hà' thay thế bằng 'Vọng Nguyệt Tinh Hà · Diễm Dương'.",
       "en": "Changes Fengyang Sabre to Fengyang Sabre: Clear Sky and Moonlit Stars to Moonlit Stars: Bright Sun.",
-      "zh": "『封阳刀法』替换为『封阳刀法·晴空』，『望月星河』替换为『望月星河·艳阳』。"
+      "zh": "[封阳刀法]替换为[封阳刀法·晴空]，[望月星河]替换为[望月星河·艳阳]。"
     },
     "iconFile": "5754.png"
   },
   "buff_5759_1": {
     "kind": "buff",
     "title": {
-      "vi": "Che chắn",
+      "vi": "Che Chắn",
       "en": "Shelter",
       "zh": "庇护"
     },
@@ -3369,7 +3411,7 @@
     "description": {
       "vi": "Khi người mang đến đáy Thanh Hành Động, Quỷ Kim Dương gỡ bỏ ấn ký và thi triển 'Quỷ Túc Kỳ Kinh · Mê Dạ', khiến đối phương bỏ qua hiệp. Quỷ Kim Dương cùng lúc gắn Trường Tinh Tỏa lên tối đa 1 kẻ địch, đồng thời bản thân sẽ không chịu ảnh hưởng của hiệu quả này.",
       "en": "When the enemy's Move Bar reaches the bottom of the turn order, Guijinyang removes it to use Ghost's Marvel: Midnight, causing them to skip their turn. Guijinyang can inflict Constellation Puzzle on up to 1 enemy, and he himself is exempted from the effect.",
-      "zh": "携带者到达行动条底端时，鬼金羊移除印记并施放『鬼宿奇惊·谜夜』，使其跳过回合。鬼金羊同时最多对1名敌方施加长星锁，且自身不会受此效果影响。"
+      "zh": "携带者到达行动条底端时，鬼金羊移除印记并施放[鬼宿奇惊·谜夜]，使其跳过回合。鬼金羊同时最多对1名敌方施加长星锁，且自身不会受此效果影响。"
     },
     "iconFile": "5771.png"
   },
@@ -3383,7 +3425,7 @@
     "description": {
       "vi": "Giới hạn 10 tầng, khi đạt giới hạn, xóa toàn bộ số tầng và lập tức thi triển 1 lần 'Túc Ảnh Ám Độ'.",
       "en": "Max 10 stacks. At max stacks, removes all stacks to use Shadowy Maneuver.",
-      "zh": "上限10层，达到上限时，移除所有层数并立刻施放1次『宿影暗渡』。"
+      "zh": "上限10层，达到上限时，移除所有层数并立刻施放1次[宿影暗渡]。"
     },
     "iconFile": "5772.png"
   },
@@ -3439,7 +3481,7 @@
     "description": {
       "vi": "Tối đa 6 tầng; khi đạt giới hạn, Ca Lưu Đa thi triển \"Vũ Tứ Quang\" lên người mang (trước khi hiệp của người mang bắt đầu chỉ có thể bị cùng một mục tiêu tấn công 1 lần), và xóa bỏ toàn bộ sau hiệp của người mang.",
       "en": "Max 6 stacks. When it's maxed out, Karuta uses Rain and Lights on the unit (can be attacked up to once before the unit's next turn). All stacks are removed at the unit's turn end.",
-      "zh": "上限6层；达到上限时，歌留多对携带者施放『雨四光』（携带者回合开始前仅可被同一目标攻击1次），并在携带者回合后全部移除。"
+      "zh": "上限6层；达到上限时，歌留多对携带者施放[雨四光]（携带者回合开始前仅可被同一目标攻击1次），并在携带者回合后全部移除。"
     },
     "iconFile": "5811.png"
   },
@@ -3509,7 +3551,7 @@
     "description": {
       "vi": "Tối đa 2 tầng, trên sân phe ta tồn tại tối đa 1 hiệu quả này. Himiko sau khi thi triển \"Nhật Diệu Thời Huy\", tiêu hao 1 tầng Thời Chi Huy, khiến người mang bước vào Khe Hở Thời Gian. Trước khi hiệp của người mang bắt đầu, tiêu hao 1 tầng Thời Chi Huy, chuyển hiệp này thành Khe Hở Thời Gian.",
       "en": "Up to 2 stacks. A maximum of 1 instance of this effect can exist on the ally field. After Himiko casts Timely Sunlight, consumes 1 stack of Time Radiance to make the bearer enter the Rift in Time. Before the bearer's turn begins, consumes 1 stack of Time Radiance to convert this turn and take them into the Rift in Time.",
-      "zh": "至多2层，友方场上至多存在1个此效果。卑弥呼施放「日耀时辉」后，消耗1层时之辉，使携带者进入时之隙。携带者回合开始前，消耗1层时之辉，使此回合转化为时之隙。"
+      "zh": "至多2层，友方场上至多存在1个此效果。卑弥呼施放[日耀时辉]后，消耗1层时之辉，使携带者进入时之隙。携带者回合开始前，消耗1层时之辉，使此回合转化为时之隙。"
     },
     "iconFile": "58325.png"
   },
@@ -3523,7 +3565,7 @@
     "description": {
       "vi": "Tối đa 3 tầng. Mỗi khi tích lũy tiêu hao 3 tầng, ẩn mình vào dòng sông thời không, khôi phục toàn bộ HP; nếu đối chiến với quái vật, thi triển thêm 1 lần \"Diệu Thời Chi Lữ\".",
       "en": "Up to 3 stacks. Upon consuming 3 stacks, enters the river of time, fully recovering HP; when battling monsters, additionally uses Radiant Journey once.",
-      "zh": "至多3层。每累计消耗3层，遁入时空长河，恢复全部生命；若和怪物对战，额外施放1次「曜时之旅」。"
+      "zh": "至多3层。每累计消耗3层，遁入时空长河，恢复全部生命；若和怪物对战，额外施放1次[曜时之旅]。"
     },
     "iconFile": "5842.png"
   },
@@ -3563,9 +3605,9 @@
       "zh": "熔芯"
     },
     "description": {
-      "vi": "Khi nhận được, hồi phục cho đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất lượng HP bằng 200% Phòng ngự ban đầu của Vân Gian Bất Kiến Nhạc, giới hạn 8 tầng. Sau khi đạt giới hạn, xóa sạch số tầng và lập tức thi triển 『Băng Sơn Chích Lạc』 không tiêu hao.",
+      "vi": "Khi nhận được, hồi phục cho đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất lượng HP bằng 200% Phòng ngự ban đầu của Vân Gian Bất Kiến Nhạc, giới hạn 8 tầng. Sau khi đạt giới hạn, xóa sạch số tầng và lập tức thi triển [Băng Sơn Chích Lạc] không tiêu hao.",
       "en": "When acquired, heals the non-summon ally with the lowest HP percentage for HP equal to 200% of Lavaforged Fukengaku's starting DEF. Can stack up to 8 times. When stacks reach the limit, all stacks are cleared and Blazing Mountainfall is cast immediately at no cost.",
-      "zh": "获得时为生命比例最低的非召唤物友方治疗云间不见岳初始防御200%的生命，上限8层。到达上限后，清空层数并立刻无消耗施放『崩山炙落』。"
+      "zh": "获得时为生命比例最低的非召唤物友方治疗云间不见岳初始防御200%的生命，上限8层。到达上限后，清空层数并立刻无消耗施放[崩山炙落]。"
     },
     "iconFile": "5868.png"
   },
@@ -3591,9 +3633,9 @@
       "zh": "猫妖·报仇"
     },
     "description": {
-      "vi": "Khi nhận được, miễn nhiễm mọi sát thương, hồi phục tới 50% HP tối đa, giải trừ toàn bộ hiệu ứng khống chế của bản thân, thi triển 「Mèo Báo Thù」 lên nguồn gây sát thương.",
+      "vi": "Khi nhận được, miễn nhiễm mọi sát thương, hồi phục tới 50% HP tối đa, giải trừ toàn bộ hiệu ứng khống chế của bản thân, thi triển [Mèo Báo Thù] lên nguồn gây sát thương.",
       "en": "Becomes immune to all damage and recovers to 50% of max HP. Removes all control effects and casts Cat's Revenge on the damage source.",
-      "zh": "获得时，免疫所有伤害，恢复至最大生命值的50%，解除自身所有控制效果，对伤害来源施放「猫的报仇」。"
+      "zh": "获得时，免疫所有伤害，恢复至最大生命值的50%，解除自身所有控制效果，对伤害来源施放[猫的报仇]。"
     },
     "iconFile": "5910.png"
   },
@@ -3605,9 +3647,9 @@
       "zh": "巫灵雪刃"
     },
     "description": {
-      "vi": "Có thể cộng dồn tối đa 3 tầng. Khi thi triển「Thiên Tuyết · Trảm」, tiêu hao 2 tầng, tiến hóa đao quang lần sau thành Tuyết Bộc, gây sát thương bằng 88% Tấn công lên toàn thể kẻ địch.",
+      "vi": "Có thể cộng dồn tối đa 3 tầng. Khi thi triển[Thiên Tuyết · Trảm], tiêu hao 2 tầng, tiến hóa đao quang lần sau thành Tuyết Bộc, gây sát thương bằng 88% Tấn công lên toàn thể kẻ địch.",
       "en": "Can stack up to 3 times. When casting Snow Slash, consumes 2 stacks to evolve the next blade strike into Snowburst, dealing 88% ATK damage to all enemies.",
-      "zh": "最多可叠加3层。施放「千雪·斩」时，消耗2层，将下次刀光进化成雪爆，对敌方全体造成攻击88%伤害。"
+      "zh": "最多可叠加3层。施放[千雪·斩]时，消耗2层，将下次刀光进化成雪爆，对敌方全体造成攻击88%伤害。"
     },
     "iconFile": "5910.png"
   },
@@ -3689,9 +3731,9 @@
       "zh": "九尾之力"
     },
     "description": {
-      "vi": "Nhận tối đa 3 tầng. Khi mang theo sẽ mở khóa 「Quy Nguyên Thuật」, có thể ảo hóa số lượng đồng minh tương ứng với số tầng.",
+      "vi": "Nhận tối đa 3 tầng. Khi mang theo sẽ mở khóa [Quy Nguyên Thuật], có thể ảo hóa số lượng đồng minh tương ứng với số tầng.",
       "en": "Max 3 stacks. When carried, unlocks Origin Art, allowing the transfiguration of allied units equal to the number of stacks.",
-      "zh": "至多获得3层。携带时解锁「归源术」，可幻化对应层数数量的友方。"
+      "zh": "至多获得3层。携带时解锁[归源术]，可幻化对应层数数量的友方。"
     },
     "iconFile": "5971.png"
   },
@@ -3873,7 +3915,7 @@
     "description": {
       "vi": "Giới hạn 6 tầng. Khi đạt giới hạn xóa bỏ toàn bộ số tầng và [thi triển] miễn phí 'Giới · Định · Tuệ' (kích hoạt tối đa 3 lần trước khi bắt đầu hiệp của Bì Sa Môn Thiên).",
       "en": "Up to 6 stacks. Upon reaching the limit, remove all stacks and cast Discipline with no cost. This triggers up to 3 times before Bishamonten's turn starts.",
-      "zh": "上限6层。到达上限时移除所有层数无消耗施放『戒·定·慧』（毗沙门天回合开始前至多触发3次）。"
+      "zh": "上限6层。到达上限时移除所有层数无消耗施放[戒·定·慧]（毗沙门天回合开始前至多触发3次）。"
     },
     "iconFile": "6033.png"
   },
@@ -3955,9 +3997,9 @@
       "zh": "惩戒"
     },
     "description": {
-      "vi": "Cầm Hắc Liềm khổng lồ trừng phạt mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công.\nKhi ở trong lượt mới nhận được từ 『[skill_2112_1]』, 『Trừng Phạt』 sẽ thay thế thành 『[skill_2114_1]』.",
+      "vi": "Cầm Hắc Liềm khổng lồ trừng phạt mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công.\nKhi ở trong lượt mới nhận được từ [skill_2112_1], [Trừng Phạt] sẽ thay thế thành [skill_2114_1].",
       "en": "Wields his deadly scythe to punish 1 enemy, dealing damage equal to 100% of his ATK.\nIn the new turn granted by [skill_2112_1], his Punishment will be changed to [skill_2114_1].",
-      "zh": "持巨大的黑镰惩戒敌方目标，造成攻击100%伤害。\n处于『[skill_2112_1]』获得的新回合里时，『惩戒』将替换为『[skill_2114_1]』。"
+      "zh": "持巨大的黑镰惩戒敌方目标，造成攻击100%伤害。\n处于[skill_2112_1]获得的新回合里时，[惩戒]将替换为[skill_2114_1]。"
     },
     "iconFile": ""
   },
@@ -3983,9 +4025,9 @@
       "zh": "追魂"
     },
     "description": {
-      "vi": "Hướng về mục tiêu kẻ địch vung Hắc Liềm truy kích 2 lần, tăng thêm 50% Bạo Kích, mỗi lần gây sát thương bằng 100% Tấn công, cấp độ tăng theo sự cường hóa kỹ năng 「[skill_2111_1]」.",
+      "vi": "Hướng về mục tiêu kẻ địch vung Hắc Liềm truy kích 2 lần, tăng thêm 50% Bạo Kích, mỗi lần gây sát thương bằng 100% Tấn công, cấp độ tăng theo sự cường hóa kỹ năng [skill_2111_1].",
       "en": "Wields his dark scythe to launch a 2-strike follow-up attack on 1 enemy, dealing damage equal to 100% of his ATK on each strike. Increases his Crit by 50%. The skill's level is equal to the skill level of [skill_2111_1].",
-      "zh": "对敌方目标挥舞黑镰进行2次追击，额外提升50%暴击，每次造成攻击100%伤害，等级随「[skill_2111_1]」技能强化。"
+      "zh": "对敌方目标挥舞黑镰进行2次追击，额外提升50%暴击，每次造成攻击100%伤害，等级随[skill_2111_1]技能强化。"
     },
     "iconFile": ""
   },
@@ -3997,9 +4039,9 @@
       "zh": "追魂"
     },
     "description": {
-      "vi": "Hướng về mục tiêu kẻ địch vung Hắc Liềm truy kích 2 lần, tăng thêm 50% Bạo Kích, mỗi lần gây sát thương bằng 125% Tấn công, cấp độ tăng theo sự cường hóa kỹ năng 「[skill_2111_1]」.",
+      "vi": "Hướng về mục tiêu kẻ địch vung Hắc Liềm truy kích 2 lần, tăng thêm 50% Bạo Kích, mỗi lần gây sát thương bằng 125% Tấn công, cấp độ tăng theo sự cường hóa kỹ năng [skill_2111_1].",
       "en": "Wields his dark scythe to launch a 2-strike follow-up attack on 1 enemy, dealing damage equal to 125% of his ATK on each strike. Increases his Crit by 50%. The skill's level is equal to the skill level of [skill_2111_1].",
-      "zh": "对敌方目标挥舞黑镰进行2次追击，额外提升50%暴击，每次造成攻击125%伤害，等级随「[skill_2111_1]」技能强化。"
+      "zh": "对敌方目标挥舞黑镰进行2次追击，额外提升50%暴击，每次造成攻击125%伤害，等级随[skill_2111_1]技能强化。"
     },
     "iconFile": ""
   },
@@ -4137,9 +4179,9 @@
       "zh": "血红铁碎牙"
     },
     "description": {
-      "vi": "Khi gây sát thương, bỏ qua [tips_6].\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1], mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho 『Thiết Toái Nha』 tiến hóa.",
+      "vi": "Khi gây sát thương, bỏ qua [tips_6].\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1], mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho [Thiết Toái Nha] tiến hóa.",
       "en": "Ignores [tips_6]s when dealing damage.\nIf he's not under any [tips_3], whenever an enemy consumes orbs, he has a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each stack consumed increases the damage by 10%.\nAfter the skill is triggered, Tessaiga evolves.",
-      "zh": "造成伤害时，无视[tips_6]。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使『铁碎牙』得到进化。"
+      "zh": "造成伤害时，无视[tips_6]。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使[铁碎牙]得到进化。"
     },
     "iconFile": ""
   },
@@ -4151,9 +4193,9 @@
       "zh": "金刚铁碎牙"
     },
     "description": {
-      "vi": "Kế thừa tất cả hiệu ứng của 『Huyết Hồng Thiết Toái Nha』.\nKhi gây sát thương, bỏ qua 40% Phòng thủ.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1], mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho 『Thiết Toái Nha』 tiến hóa.",
+      "vi": "Kế thừa tất cả hiệu ứng của [Huyết Hồng Thiết Toái Nha].\nKhi gây sát thương, bỏ qua 40% Phòng thủ.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1], mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho [Thiết Toái Nha] tiến hóa.",
       "en": "Inherits all the effects of Red Tessaiga.\nWhen dealing damage, ignores 40% DEF.\nIf he's not under any [tips_3], whenever an enemy consumes orbs, he has a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each stack consumed increases the damage by 10%.\nAfter the skill is triggered, Tessaiga evolves.",
-      "zh": "继承『血红铁碎牙』所有效果。\n造成伤害时，无视40%防御。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使『铁碎牙』得到进化。"
+      "zh": "继承[血红铁碎牙]所有效果。\n造成伤害时，无视40%防御。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使[铁碎牙]得到进化。"
     },
     "iconFile": ""
   },
@@ -4165,9 +4207,9 @@
       "zh": "龙鳞铁碎牙"
     },
     "description": {
-      "vi": "Kế thừa tất cả hiệu ứng của 『Kim Cương Thiết Toái Nha』.\nTrước khi tấn công, xua tan 1 trạng thái tăng ích của mục tiêu, nếu xua tan thành công, liền giúp bản thân tăng 10% Sát Thương Bạo Kích, giới hạn 70%, duy trì 1 lượt.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1], mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho 『Thiết Toái Nha』 tiến hóa.",
+      "vi": "Kế thừa tất cả hiệu ứng của [Kim Cương Thiết Toái Nha].\nTrước khi tấn công, xua tan 1 trạng thái tăng ích của mục tiêu, nếu xua tan thành công, liền giúp bản thân tăng 10% Sát Thương Bạo Kích, giới hạn 70%, duy trì 1 lượt.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1], mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho [Thiết Toái Nha] tiến hóa.",
       "en": "Inherits all the effects of Diamond Tessaiga.\nBefore he attacks, dispels 1 buff from the target. If a buff is dispelled, increases his Crit DMG by 10% to a max of 70% for 1 turn.\nIf he's not under any [tips_3], whenever an enemy consumes orbs, he has a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each stack consumed increases the damage by 10%.\nAfter the skill is triggered, Tessaiga evolves.",
-      "zh": "继承『金刚铁碎牙』所有效果。\n攻击前，驱散目标1个增益状态，若成功驱散，则使自身提升10%暴击伤害，上限70%，持续1回合。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使『铁碎牙』得到进化。"
+      "zh": "继承[金刚铁碎牙]所有效果。\n攻击前，驱散目标1个增益状态，若成功驱散，则使自身提升10%暴击伤害，上限70%，持续1回合。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使[铁碎牙]得到进化。"
     },
     "iconFile": ""
   },
@@ -4179,9 +4221,9 @@
       "zh": "漆黑铁碎牙"
     },
     "description": {
-      "vi": "Kế thừa tất cả hiệu ứng của 『Long Lân Thiết Toái Nha』.\nKhi gây sát thương, 50% sát thương sẽ giảm giới hạn HP của mục tiêu, giảm tối đa giới hạn HP của mục tiêu xuống còn 20% ban đầu.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công, không còn tiêu hao [buff_3131_1], mỗi tầng [buff_3131_1] tăng thêm 10% sát thương lần đó.",
+      "vi": "Kế thừa tất cả hiệu ứng của [Long Lân Thiết Toái Nha].\nKhi gây sát thương, 50% sát thương sẽ giảm giới hạn HP của mục tiêu, giảm tối đa giới hạn HP của mục tiêu xuống còn 20% ban đầu.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công, không còn tiêu hao [buff_3131_1], mỗi tầng [buff_3131_1] tăng thêm 10% sát thương lần đó.",
       "en": "Inherits all the effects of Dragon-Scaled Tessaiga.\nWhen dealing damage, 50% of the damage reduces the target's max HP, up to a maximum reduction of 20% of max HP.\nIf he's not under any [tips_3], whenever an enemy consumes orbs, he has a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each [buff_3131_1] stack consumed increases the damage by 10%.",
-      "zh": "继承『龙鳞铁碎牙』所有效果。\n造成伤害时，伤害的50%将降低目标生命上限，最多将目标生命上限降至原来的20%。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害，不再消耗[buff_3131_1]，每层[buff_3131_1]额外提升该次伤害10%。"
+      "zh": "继承[龙鳞铁碎牙]所有效果。\n造成伤害时，伤害的50%将降低目标生命上限，最多将目标生命上限降至原来的20%。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害，不再消耗[buff_3131_1]，每层[buff_3131_1]额外提升该次伤害10%。"
     },
     "iconFile": ""
   },
@@ -4235,9 +4277,9 @@
       "zh": "凝视"
     },
     "description": {
-      "vi": "Chỉ thi triển kỹ năng này khi Yamata no Orochi sử dụng 『Hồn Phách Toái Liệt』.\nNhìn chằm chằm mục tiêu của Yamata no Orochi, khiến đòn tấn công đó bỏ qua 20% Phòng thủ của mục tiêu.",
+      "vi": "Chỉ thi triển kỹ năng này khi Yamata no Orochi sử dụng [Hồn Phách Toái Liệt].\nNhìn chằm chằm mục tiêu của Yamata no Orochi, khiến đòn tấn công đó bỏ qua 20% Phòng thủ của mục tiêu.",
       "en": "The skill is only used when Orochi uses Soul Crusher.\nGazes at Orochi's target, allowing the attack to ignore DEF by 20%.",
-      "zh": "仅在八岐大蛇使用『魂魄碎裂』时施放此技能。\n凝视八岐大蛇的目标，使该次攻击无视其20%防御。"
+      "zh": "仅在八岐大蛇使用[魂魄碎裂]时施放此技能。\n凝视八岐大蛇的目标，使该次攻击无视其20%防御。"
     },
     "iconFile": ""
   },
@@ -4333,9 +4375,9 @@
       "zh": "苦海浮生"
     },
     "description": {
-      "vi": "Khi ở trạng thái Dương, bản thân Vân Ngoại Kính nhận Kính Hựu.\n【Thi triển】 Giúp 1 đồng minh nhận [buff_3444_1], tối đa khiến 2 đồng minh nhận Kính Hựu (số lượng đồng minh nhận Kính Hựu không tăng theo số lượng Vân Ngoại Kính), duy trì đến khi kết thúc hồi. Đồng thời giúp toàn thể đồng minh tăng 20% thanh hành động. Khi bước vào trạng thái Âm, toàn bộ Kính Hựu bị gỡ bỏ.",
+      "vi": "Khi ở trạng thái Dương, bản thân Vân Ngoại Kính nhận Kính Hựu.\n[Thi triển] Giúp 1 đồng minh nhận [buff_3444_1], tối đa khiến 2 đồng minh nhận Kính Hựu (số lượng đồng minh nhận Kính Hựu không tăng theo số lượng Vân Ngoại Kính), duy trì đến khi kết thúc hồi. Đồng thời giúp toàn thể đồng minh tăng 20% thanh hành động. Khi bước vào trạng thái Âm, toàn bộ Kính Hựu bị gỡ bỏ.",
       "en": "Ungaikyo gains Mirror's Protection when in Yang state.\nUsing this skill grants [buff_3444_1] to 1 ally. Up to 2 allies can have Mirror's Protection at the same time until the round ends (the number of allies with Mirror's Protection won't increase as you deploy more Ungaikyo). Raises the Move Bar of all allies by 20%. All Mirror's Protections are removed after entering Yin state.",
-      "zh": "处于阳状态时，云外镜自身获得镜佑。\n【施放】使1个友方获得[buff_3444_1]，最多使2个友方获得镜佑（友方获得镜佑的数量不会随云外镜数量增加而增加），持续至回目结束。并使友方全体增加20%行动条。进入阴状态时，镜佑全部被移除。"
+      "zh": "处于阳状态时，云外镜自身获得镜佑。\n[施放]使1个友方获得[buff_3444_1]，最多使2个友方获得镜佑（友方获得镜佑的数量不会随云外镜数量增加而增加），持续至回目结束。并使友方全体增加20%行动条。进入阴状态时，镜佑全部被移除。"
     },
     "iconFile": ""
   },
@@ -4347,7 +4389,7 @@
       "zh": "猎魂狂杀"
     },
     "description": {
-      "vi": "Gây cho toàn bộ phe địch sát thương bằng 32% Tấn công, sát thương do Liệp Hồn Cuồng Sát gây ra không kích hoạt hiệu ứng Ngự Hồn của mục tiêu.",
+      "vi": "Gây cho toàn bộ phe địch sát thương bằng 32% Tấn công, sát thương do [Liệp Hồn Cuồng Sát] gây ra không kích hoạt hiệu ứng Ngự Hồn của mục tiêu.",
       "en": "Launches an attack on all enemies, dealing damage equal to 32% of his ATK. Soul Hunter's damage doesn't trigger the enemies' Soul effects.",
       "zh": "对敌方全体造成攻击32%伤害，猎魂狂杀造成的伤害不会触发目标的御魂效果。"
     },
@@ -4375,9 +4417,9 @@
       "zh": "降蛊之瞳"
     },
     "description": {
-      "vi": "Tấn công mục tiêu 3 lần, mỗi lần gây sát thương bằng 70% Tấn công và đính kèm 1 tầng [buff_3523_1], duy trì 2 lượt.\nSau khi Xà Linh trở về, kỹ năng thay thế thành 『[skill_3526_1]』.",
+      "vi": "Tấn công mục tiêu 3 lần, mỗi lần gây sát thương bằng 70% Tấn công và đính kèm 1 tầng [buff_3523_1], duy trì 2 lượt.\nSau khi Xà Linh trở về, kỹ năng thay thế thành [skill_3526_1].",
       "en": "Launches a 3-strike attack on 1 enemy. Each strike deals damage equal to 70% of her ATK and inflicts a stack of [buff_3523_1] for 2 turns on them.\nWhen the Serpent returns, the skill is changed to [skill_3526_1].",
-      "zh": "攻击目标3次，每次造成攻击70%伤害并附加1层[buff_3523_1]，持续2回合。\n蛇灵返回后，技能替换为『[skill_3526_1]』。"
+      "zh": "攻击目标3次，每次造成攻击70%伤害并附加1层[buff_3523_1]，持续2回合。\n蛇灵返回后，技能替换为[skill_3526_1]。"
     },
     "iconFile": ""
   },
@@ -4389,9 +4431,9 @@
       "zh": "爱怨灼身"
     },
     "description": {
-      "vi": "Tấn công mục tiêu 3 lần, mỗi lần gây sát thương bằng 70% Tấn công và đính kèm 1 tầng [buff_3523_1], duy trì 2 lượt, sau đó đính kèm [buff_3526_1] cho toàn bộ phe địch, duy trì 3 lượt.\nThừa hưởng hiệu ứng nâng cấp kỹ năng của 『[skill_3523_1]』.",
+      "vi": "Tấn công mục tiêu 3 lần, mỗi lần gây sát thương bằng 70% Tấn công và đính kèm 1 tầng [buff_3523_1], duy trì 2 lượt, sau đó đính kèm [buff_3526_1] cho toàn bộ phe địch, duy trì 3 lượt.\nThừa hưởng hiệu ứng nâng cấp kỹ năng của [skill_3523_1].",
       "en": "Launches a 3-strike attack on 1 enemy. Each strike deals damage equal to 70% of her ATK and inflicts a stack of [buff_3523_1] on them for 2 turns. Then, inflicts [buff_3526_1] on all enemies for 3 turns.\nInherits the level-up effects of [skill_3523_1].",
-      "zh": "攻击目标3次，每次造成攻击70%伤害并附加1层[buff_3523_1]，持续2回合，之后对敌方全体附加[buff_3526_1]，持续3回合。\n继承『[skill_3523_1]』的技能升级效果。"
+      "zh": "攻击目标3次，每次造成攻击70%伤害并附加1层[buff_3523_1]，持续2回合，之后对敌方全体附加[buff_3526_1]，持续3回合。\n继承[skill_3523_1]的技能升级效果。"
     },
     "iconFile": ""
   },
@@ -4445,9 +4487,9 @@
       "zh": "影袭"
     },
     "description": {
-      "vi": "Mất trật tự trong nỗi sợ. Tiêu hao 3 tầng [buff_3981_1], có 60% [tips_2] xác suất khiến toàn bộ phe địch [tips_103], duy trì 1 lượt, và [tips_10] tất cả Thức Thần phe ta tấn công mục tiêu sợ hãi.\nKhi số tầng [buff_3981_1] của mục tiêu kẻ địch không đủ 6 tầng, thay thế kỹ năng thành 「[skill_3983_1]」.",
+      "vi": "Mất trật tự trong nỗi sợ. Tiêu hao 3 tầng [buff_3981_1], có 60% [tips_2] xác suất khiến toàn bộ phe địch [tips_103], duy trì 1 lượt, và [tips_10] tất cả Thức Thần phe ta tấn công mục tiêu sợ hãi.\nKhi số tầng [buff_3981_1] của mục tiêu kẻ địch không đủ 6 tầng, thay thế kỹ năng thành [skill_3983_1].",
       "en": "Surrender to chaos in fear. Consumes 3 [buff_3981_1] stacks to have a 60% (+Effect HIT) chance of inflicting [tips_103] lasting 1 turn on all enemies, and issues [tips_10] to all shikigami allies to attack the enemy with Fear.\nIf the enemy has less than 6 [buff_3981_1] stacks, changes the skill to [skill_3983_1].",
-      "zh": "在惧意中失序。消耗3层[buff_3981_1]，有60%（+效果命中）概率使敌方全体[tips_103]，持续1回合，并[tips_10]所有友方式神攻击恐惧目标。\n当敌方目标[buff_3981_1]层数不足6层，将技能替换为「[skill_3983_1]」。"
+      "zh": "在惧意中失序。消耗3层[buff_3981_1]，有60%（+效果命中）概率使敌方全体[tips_103]，持续1回合，并[tips_10]所有友方式神攻击恐惧目标。\n当敌方目标[buff_3981_1]层数不足6层，将技能替换为[skill_3983_1]。"
     },
     "iconFile": ""
   },
@@ -4501,9 +4543,9 @@
       "zh": "惧意蔓延"
     },
     "description": {
-      "vi": "Mất trật tự trong nỗi sợ. Tiêu hao 3 tầng [buff_3981_1], có 60% [tips_2] xác suất khiến toàn bộ phe địch [tips_103], duy trì 1 lượt, và [tips_10] tất cả Thức Thần phe ta tấn công mục tiêu sợ hãi.\nKhi số tầng [buff_3981_1] của mục tiêu kẻ địch không đủ 6 tầng, thay thế kỹ năng thành 「[skill_3983_1]」.",
+      "vi": "Mất trật tự trong nỗi sợ. Tiêu hao 3 tầng [buff_3981_1], có 60% [tips_2] xác suất khiến toàn bộ phe địch [tips_103], duy trì 1 lượt, và [tips_10] tất cả Thức Thần phe ta tấn công mục tiêu sợ hãi.\nKhi số tầng [buff_3981_1] của mục tiêu kẻ địch không đủ 6 tầng, thay thế kỹ năng thành [skill_3983_1].",
       "en": "Surrender to chaos in fear. Consumes 3 [buff_3981_1] stacks to have a 60% (+Effect HIT) chance of inflicting [tips_103] lasting 1 turn on all enemies, and issues [tips_10] to all shikigami allies to attack the enemy with Fear.\nIf the enemy has less than 6 [buff_3981_1] stacks, changes the skill to [skill_3983_1].",
-      "zh": "在惧意中失序。消耗3层[buff_3981_1]，有60%（+效果命中）概率使敌方全体[tips_103]，持续1回合，并[tips_10]所有友方式神攻击恐惧目标。\n当敌方目标[buff_3981_1]层数不足6层，将技能替换为「[skill_3983_1]」。"
+      "zh": "在惧意中失序。消耗3层[buff_3981_1]，有60%（+效果命中）概率使敌方全体[tips_103]，持续1回合，并[tips_10]所有友方式神攻击恐惧目标。\n当敌方目标[buff_3981_1]层数不足6层，将技能替换为[skill_3983_1]。"
     },
     "iconFile": ""
   },
@@ -4585,9 +4627,9 @@
       "zh": "祷言"
     },
     "description": {
-      "vi": "[tips_11] Khi trận đấu bắt đầu nhận 7 tầng [buff_5702_1].\n【Thi triển】 Giảm 1 tầng [buff_5702_1], giúp mục tiêu đồng minh nhận [tips_6] không thể xua tan, có thể hấp thụ lượng sát thương bằng 10% giới hạn HP của Họa Tân Thần, duy trì 2 lượt. Khi thi triển trong lượt bản thân, giảm thêm 1 tầng Trú Sa và gấp đôi lượng Lá chắn nhận được.",
+      "vi": "[tips_11] Khi trận đấu bắt đầu nhận 7 tầng [buff_5702_1].\n[Thi triển] Giảm 1 tầng [buff_5702_1], giúp mục tiêu đồng minh nhận [tips_6] không thể xua tan, có thể hấp thụ lượng sát thương bằng 10% giới hạn HP của Họa Tân Thần, duy trì 2 lượt. Khi thi triển trong lượt bản thân, giảm thêm 1 tầng Trú Sa và gấp đôi lượng Lá chắn nhận được.",
       "en": "[tips_11]. At the start of the battle, grants her 7 [buff_5702_1] stacks.\nActive skill: Creates a [tips_6] (cannot be dispelled) to protect 1 ally at the cost of 1 [buff_5702_1] stack, absorbing damage equal to 10% of Magatsuhi's max HP for 2 turns. When she uses the skill on her turn, increases the cost by 1 additional Veil of Curse stack to double the shield capacity.",
-      "zh": "[tips_11]。战斗开始时获得7层[buff_5702_1]。\n【施放】减少1层[buff_5702_1]，使友方目标获得不可驱散的[tips_6]，能吸收祸津神10%生命上限的伤害，持续2回合。在自身回合内施放时，额外减少1层咒纱并使获得的护盾量加倍。"
+      "zh": "[tips_11]。战斗开始时获得7层[buff_5702_1]。\n[施放]减少1层[buff_5702_1]，使友方目标获得不可驱散的[tips_6]，能吸收祸津神10%生命上限的伤害，持续2回合。在自身回合内施放时，额外减少1层咒纱并使获得的护盾量加倍。"
     },
     "iconFile": ""
   },
@@ -4683,9 +4725,9 @@
       "zh": "灵梦"
     },
     "description": {
-      "vi": "Khi chịu hiệu ứng [tips_102], đổi thành thi triển [skill_5942_1].\n【Thi triển】 Nhận [buff_5942_1] bằng 15% giới hạn HP, duy trì 2 lượt.",
+      "vi": "Khi chịu hiệu ứng [tips_102], đổi thành thi triển [skill_5942_1].\n[Thi triển] Nhận [buff_5942_1] bằng 15% giới hạn HP, duy trì 2 lượt.",
       "en": "When affected by [tips_102], casts [skill_5942_1] instead.\n Active skill: Gains a [buff_5942_1] equal to 15% of max HP for 2 turns.",
-      "zh": "受到[tips_102]效果时，改为施放[skill_5942_1]。\n【施放】获得生命上限15%的[buff_5942_1]，持续2回合。"
+      "zh": "受到[tips_102]效果时，改为施放[skill_5942_1]。\n[施放]获得生命上限15%的[buff_5942_1]，持续2回合。"
     },
     "iconFile": ""
   },
@@ -4697,9 +4739,9 @@
       "zh": "梦山誓"
     },
     "description": {
-      "vi": "Tấn công toàn bộ phe địch, gây [tips_5] bằng 20% HP tối đa của bản thân; khi tấn công đính kèm [buff_5952_1], duy trì 2 lượt. Thi triển thêm 『[skill_1004_1]』 và 『[skill_1005_1]』 ở cấp độ hiện tại của Tình Minh phe ta.",
+      "vi": "Tấn công toàn bộ phe địch, gây [tips_5] bằng 20% HP tối đa của bản thân; khi tấn công đính kèm [buff_5952_1], duy trì 2 lượt. Thi triển thêm [skill_1004_1] và [skill_1005_1] ở cấp độ hiện tại của Tình Minh phe ta.",
       "en": "Attacks all enemies, dealing [tips_5] equal to 20% of his max HP; inflicts [buff_5952_1] for 2 turns when attacking. Additionally applies allied Seimei's current level of [skill_1004_1] and [skill_1005_1].",
-      "zh": "攻击敌方全体，造成自身生命上限20%[tips_5]；攻击时施加[buff_5952_1]，持续2回合。额外施加友方晴明当前等级的『[skill_1004_1]』与『[skill_1005_1]』。"
+      "zh": "攻击敌方全体，造成自身生命上限20%[tips_5]；攻击时施加[buff_5952_1]，持续2回合。额外施加友方晴明当前等级的[skill_1004_1]与[skill_1005_1]。"
     },
     "iconFile": ""
   },
@@ -4753,9 +4795,9 @@
       "zh": "与我燎原"
     },
     "description": {
-      "vi": "[tips_11], lắc chuông ra lệnh, chuyển [buff_6022_1] của mục tiêu phe ta chỉ định sang bản thân, và tăng 20% Thanh Hành Động cho kẻ đó. Sau đó gây cho nhóm kẻ địch 3 lần sát thương bằng 35% Tấn công, nếu đồng minh khác đều không mang [buff_6022_1], kỹ năng sẽ thay thế vĩnh viễn thành 『[skill_6024_1]』, cấp độ tăng theo cường hóa kỹ năng 『[skill_6023_1]』.",
+      "vi": "[tips_11], lắc chuông ra lệnh, chuyển [buff_6022_1] của mục tiêu phe ta chỉ định sang bản thân, và tăng 20% Thanh Hành Động cho kẻ đó. Sau đó gây cho nhóm kẻ địch 3 lần sát thương bằng 35% Tấn công, nếu đồng minh khác đều không mang [buff_6022_1], kỹ năng sẽ thay thế vĩnh viễn thành [skill_6024_1], cấp độ tăng theo cường hóa kỹ năng [skill_6023_1].",
       "en": "[tips_11], ring the bell as a command to transfer the chosen ally's [buff_6022_1] to self and raise their Move Bar by 20%. Then deal 3 hits of damage at 35% ATK to all enemies. If no other allies carry [buff_6022_1], this skill is permanently replaced with [skill_6024_1], and its level scales with [skill_6023_1].",
-      "zh": "[tips_11]，振铃为令，将指定友方的[buff_6022_1]转移至自身，并提升其20%行动条。之后对敌方群体造成3次攻击35%的伤害，若其他友方均未携带[buff_6022_1]，则技能永久替换为『[skill_6024_1]』，等级随『[skill_6023_1]』技能强化。"
+      "zh": "[tips_11]，振铃为令，将指定友方的[buff_6022_1]转移至自身，并提升其20%行动条。之后对敌方群体造成3次攻击35%的伤害，若其他友方均未携带[buff_6022_1]，则技能永久替换为[skill_6024_1]，等级随[skill_6023_1]技能强化。"
     },
     "iconFile": ""
   },
@@ -4767,9 +4809,9 @@
       "zh": "天火破妄"
     },
     "description": {
-      "vi": "Khi mở khóa tăng 100% Thanh Hành Động cho bản thân và [tips_1] toàn bộ [tips_3].\n【Thi triển】 Gây cho nhóm kẻ địch 3 lần sát thương bằng 40% Tấn công, sau đó đánh thêm 1 lần sát thương bằng 180% Tấn công. Bản thân nhận [tips_14], duy trì 1 lượt.",
+      "vi": "Khi mở khóa tăng 100% Thanh Hành Động cho bản thân và [tips_1] toàn bộ [tips_3].\n[Thi triển] Gây cho nhóm kẻ địch 3 lần sát thương bằng 40% Tấn công, sau đó đánh thêm 1 lần sát thương bằng 180% Tấn công. Bản thân nhận [tips_14], duy trì 1 lượt.",
       "en": "When unlocked, raises own Move Bar by 100% and [tips_1] all [tips_3].\n[Cast] Deals 3 hits of 40% damage to all enemies, then follows up with 1 extra hit for 180% damage. Grants [tips_14] for 1 turn.",
-      "zh": "解锁时提升自身100%行动条并[tips_1]所有[tips_3]。\n【施放】对敌方群体造成3次攻击40%伤害，之后追加1次攻击180%伤害。自身获得[tips_14]，持续1回合。"
+      "zh": "解锁时提升自身100%行动条并[tips_1]所有[tips_3]。\n[施放]对敌方群体造成3次攻击40%伤害，之后追加1次攻击180%伤害。自身获得[tips_14]，持续1回合。"
     },
     "iconFile": ""
   },
@@ -5075,16 +5117,16 @@
       "zh": "传导伤害"
     },
     "description": {
-      "vi": "Một loại sát thương, không thể bạo kích, không kích hoạt Ngự Hồn 「Thế Hồn」. Được chuyển hóa xuất hiện từ kỹ năng của một số Thức thần, ví dụ kỹ năng 『Quyên Lưu』 của Thức thần Tiêu Đồ.",
+      "vi": "Một loại sát thương, không thể bạo kích, không kích hoạt Ngự Hồn [Thế Hồn]. Được chuyển hóa xuất hiện từ kỹ năng của một số Thức thần, ví dụ kỹ năng [Quyên Lưu] của Thức thần Tiêu Đồ.",
       "en": "Damage type. Does not land critical hits. Does not trigger the effect of Soul Edge. Transferred by some shikigami skills, including Shouzu's Water Circuit.",
-      "zh": "伤害类型的一种，不会暴击，不触发御魂「薙魂」。由某些式神的技能转化出现，例如式神椒图的『涓流』技能。"
+      "zh": "伤害类型的一种，不会暴击，不触发御魂[薙魂]。由某些式神的技能转化出现，例如式神椒图的[涓流]技能。"
     },
     "iconFile": ""
   },
   "tips_14": {
     "kind": "tip",
     "title": {
-      "vi": "Che chắn",
+      "vi": "Che Chắn",
       "en": "Shelter",
       "zh": ""
     },
@@ -5161,7 +5203,7 @@
     "description": {
       "vi": "Chỉ có tối đa 1 mục tiêu địch bị cô lập. Bản thân không thể được chọn bởi đồng minh khác. Sát thương gánh chịu không thể bị chia sẻ bởi các hiệu ứng khác, thay thế chịu đựng, ví dụ như \"Mộng Sơn Hồ Ảnh\" của Bạch Tàng Chủ, \"Quyên Lưu\" của Tiêu Đồ, Ngự Hồn \"Thế Hồn\" v.v.",
       "en": "Only 1 enemy target can be under Isolation at most. Cannot be selected by other allies. Damage taken cannot be shared or redirected by other effects, including but not limited to Hakuzosu's Shadowing Shelter skill, Shouzu's Water Circuit skill and Soul Edge's effect among others.",
-      "zh": "最多只有1个敌方目标被孤立。自身无法被其他友方选中。受到的伤害无法被其他效果所分担、代替承受，例如式神白藏主「梦山狐影」、椒图「涓流」、御魂「薙魂」等。"
+      "zh": "最多只有1个敌方目标被孤立。自身无法被其他友方选中。受到的伤害无法被其他效果所分担、代替承受，例如式神白藏主[梦山狐影]、椒图[涓流]、御魂[薙魂]等。"
     },
     "iconFile": "Debuff18.png"
   },
@@ -5271,9 +5313,9 @@
       "zh": "君临"
     },
     "description": {
-      "vi": "Khi thi triển 「Thôn Phệ」, truy kích thêm 2 lần vào 2 mục tiêu kẻ địch có HP thấp nhất, mỗi lần gây sát thương bằng 100% Tấn công.",
+      "vi": "Khi thi triển [Thôn Phệ], truy kích thêm 2 lần vào 2 mục tiêu kẻ địch có HP thấp nhất, mỗi lần gây sát thương bằng 100% Tấn công.",
       "en": "When using Swallow, additionally perform 2 follow-up attacks on the 2 enemies with the lowest HP, each dealing damage equal to 100% of ATK.",
-      "zh": "施放「吞噬」时，额外对生命最低的2个敌方目标追击2次，每次造成攻击100%伤害。"
+      "zh": "施放[吞噬]时，额外对生命最低的2个敌方目标追击2次，每次造成攻击100%伤害。"
     },
     "iconFile": "Buff192.png"
   },
@@ -5397,9 +5439,9 @@
       "zh": "狮子之子"
     },
     "description": {
-      "vi": "Âm Dương Sư sau khi hạ gục mục tiêu không phải vật triệu hồi, thi triển 「Quỷ Trảm」 lên mục tiêu có tỷ lệ HP thấp nhất bên địch, sau đó xóa bỏ hiệu ứng bội đao này.",
+      "vi": "Âm Dương Sư sau khi hạ gục mục tiêu không phải vật triệu hồi, thi triển [Quỷ Trảm] lên mục tiêu có tỷ lệ HP thấp nhất bên địch, sau đó xóa bỏ hiệu ứng bội đao này.",
       "en": "After Onmyoji defeats a non-summoned entity target, Demonic Slash strikes the enemy with the lowest HP percentage, then this blade effect disappears.",
-      "zh": "阴阳师击杀非召唤物目标后，对敌方生命比例最低目标施放「鬼斩」，随后移除该佩刀效果。"
+      "zh": "阴阳师击杀非召唤物目标后，对敌方生命比例最低目标施放[鬼斩]，随后移除该佩刀效果。"
     },
     "iconFile": ""
   },
@@ -5509,9 +5551,9 @@
       "zh": "封印结界"
     },
     "description": {
-      "vi": "Khiến toàn bộ kỹ năng bị động của phe địch bị thay thế thành「Oán Hận Khu Trừ」, hiệu ứng bộ Ngự Hồn bị thay thế thành「Thù Quỷ」, hiệu ứng bị động và Ngự Hồn ban đầu xem như phải chịu Áp Chế và Phong Ấn, vô hiệu với quái vật.\nTrong kết giới, Ngự Oán Bát Nhã tăng 30 điểm Tốc độ. Mỗi kẻ địch không phải vật triệu hồi sau khi kết thúc lượt sẽ làm vỡ 1 Quỷ Diện.",
+      "vi": "Khiến toàn bộ kỹ năng bị động của phe địch bị thay thế thành[Oán Hận Khu Trừ], hiệu ứng bộ Ngự Hồn bị thay thế thành[Thù Quỷ], hiệu ứng bị động và Ngự Hồn ban đầu xem như phải chịu Áp Chế và Phong Ấn, vô hiệu với quái vật.\nTrong kết giới, Ngự Oán Bát Nhã tăng 30 điểm Tốc độ. Mỗi kẻ địch không phải vật triệu hồi sau khi kết thúc lượt sẽ làm vỡ 1 Quỷ Diện.",
       "en": "Substitutes the passive skills of all enemies to Grudge Forsaken and their Soul Set effects to Vengeful Demon. The passive skill and Soul Set effects they originally have are deemed as Suppressed and Sealed. Monsters are immune to the skill.\nWhen the field is on, Vengeful Hannya has 30 increased SPD. Each non-summoned entity enemy shatters a demon mask when their turn ends.",
-      "zh": "使敌方全体被动技能替换为「怨恨袪除」，御魂套装效果替换为「仇鬼」，原有被动、御魂效果视同受到压制及封印，对怪物无效。\n结界中，御怨般若提升30点速度。每个非召唤物的敌方，在其回合结束后将使1个鬼面破碎。"
+      "zh": "使敌方全体被动技能替换为[怨恨袪除]，御魂套装效果替换为[仇鬼]，原有被动、御魂效果视同受到压制及封印，对怪物无效。\n结界中，御怨般若提升30点速度。每个非召唤物的敌方，在其回合结束后将使1个鬼面破碎。"
     },
     "iconFile": ""
   },
@@ -5537,9 +5579,9 @@
       "zh": "影之分身"
     },
     "description": {
-      "vi": "Kế thừa toàn bộ thuộc tính hiện tại của bản thân. Khi bắt đầu lượt, nếu ấn ký 「Ảnh Thiết」 của kẻ địch đã được giải trừ, phân thân lập tức tiêu tan; nếu không, phân thân sẽ phát động 1 đòn tấn công tương tự vào mục tiêu mang ấn ký 「Ảnh Thiết」 khi bản thể tấn công trong lượt này",
+      "vi": "Kế thừa toàn bộ thuộc tính hiện tại của bản thân. Khi bắt đầu lượt, nếu ấn ký [Ảnh Thiết] của kẻ địch đã được giải trừ, phân thân lập tức tiêu tan; nếu không, phân thân sẽ phát động 1 đòn tấn công tương tự vào mục tiêu mang ấn ký [Ảnh Thiết] khi bản thể tấn công trong lượt này",
       "en": "Inherits all the current stats of Onikiri Reforged. At the start of a turn, the double disappears if the Shadow Cut mark on the enemy is removed. Otherwise, the double launches the same attack as Onikiri Reforged when he attacks on his turn against the target with the Shadow Cut mark.",
-      "zh": "继承当前自身的全部属性。回合开始时，若敌方的「影切」印记已解除，则分身立刻消散，否则分身会在本体本回合攻击时，对带有「影切」印记的目标发起1次相同的攻击"
+      "zh": "继承当前自身的全部属性。回合开始时，若敌方的[影切]印记已解除，则分身立刻消散，否则分身会在本体本回合攻击时，对带有[影切]印记的目标发起1次相同的攻击"
     },
     "iconFile": ""
   },
@@ -5593,9 +5635,9 @@
       "zh": "蛇灵"
     },
     "description": {
-      "vi": "Không thể bị tấn công, kế thừa toàn bộ thuộc tính của Phược Cốt Thanh Cơ, khi được triệu hồi sẽ xóa bỏ vật triệu hồi tại vị trí triệu hồi phe ta.\nKhi hành động gây cho mục tiêu mang「Oán」lượng sát thương bằng 200% Tấn công, đồng thời kèm theo「Oán Hỏa」kéo dài 1 lượt.\nMục tiêu mang「Oán」tử trận, Xà Linh quay về, Phược Cốt Thanh Cơ xóa toàn bộ hiệu ứng khống chế và trục xuất trên bản thân, đồng thời hút 40% toàn bộ thuộc tính của mục tiêu (HP và Tấn công hút được không vượt quá thuộc tính tương ứng của Phược Cốt Thanh Cơ).",
+      "vi": "Không thể bị tấn công, kế thừa toàn bộ thuộc tính của Phược Cốt Thanh Cơ, khi được triệu hồi sẽ xóa bỏ vật triệu hồi tại vị trí triệu hồi phe ta.\nKhi hành động gây cho mục tiêu mang[Oán]lượng sát thương bằng 200% Tấn công, đồng thời kèm theo[Oán Hỏa]kéo dài 1 lượt.\nMục tiêu mang[Oán]tử trận, Xà Linh quay về, Phược Cốt Thanh Cơ xóa toàn bộ hiệu ứng khống chế và trục xuất trên bản thân, đồng thời hút 40% toàn bộ thuộc tính của mục tiêu (HP và Tấn công hút được không vượt quá thuộc tính tương ứng của Phược Cốt Thanh Cơ).",
       "en": "Cannot be attacked. Inherits all Lovebound Kiyohime's stats. When summoned, the summoned entity in your summoned entity position is dissipated.\nWhen taking action, deals damage equal to 200% of Lovebound Kiyohime's ATK to 1 enemy with Grudge and inflicts Grudgefire on them for 1 turn.\nThe Serpent returns when the enemy with Grudge is KO'd. All controlling and Banish effects on Lovebound Kiyohime are removed, and she also absorbs 40% of the enemy's overall stats (the amount of HP and ATK absorbed won't exceed Lovebound Kiyohime's HP/ATK).",
-      "zh": "不可被攻击，继承缚骨清姬全部属性，被召唤时移除我方召唤物位置上的召唤物。\n行动时对带有「怨」的目标造成攻击200%伤害，并附加持续1回合的「怨火」。\n带有「怨」的目标阵亡时，蛇灵返回，缚骨清姬移除自身所有控制效果和放逐，并吸取目标40%全体属性（吸取的生命和攻击不超过缚骨清姬的对应属性）。"
+      "zh": "不可被攻击，继承缚骨清姬全部属性，被召唤时移除我方召唤物位置上的召唤物。\n行动时对带有[怨]的目标造成攻击200%伤害，并附加持续1回合的[怨火]。\n带有[怨]的目标阵亡时，蛇灵返回，缚骨清姬移除自身所有控制效果和放逐，并吸取目标40%全体属性（吸取的生命和攻击不超过缚骨清姬的对应属性）。"
     },
     "iconFile": ""
   },
@@ -5621,9 +5663,9 @@
       "zh": "迅风"
     },
     "description": {
-      "vi": "Khi Sơ Linh Sơn Phong không chịu hiệu ứng khống chế, cú mèo Tấn Phong trước khi bắt đầu lượt có thể thực hiện 1 lần 『Tấn · Tí Vũ』, 『Tấn · Liệp Mục』 hoặc 『Tấn · Kích Không』 để phối hợp hành động cùng chủ nhân.",
+      "vi": "Khi Sơ Linh Sơn Phong không chịu hiệu ứng khống chế, cú mèo Tấn Phong trước khi bắt đầu lượt có thể thực hiện 1 lần [Tấn · Tí Vũ], [Tấn · Liệp Mục] hoặc [Tấn · Kích Không] để phối hợp hành động cùng chủ nhân.",
       "en": "At the start of Valiant Yamakaze's turn, if he's not under any controlling effects, Briskey executes a command from among Briskey's Shelter, Briskey's Hunting Eyes, and Briskey's Blow Off.",
-      "zh": "初翎山风未承受控制效果时，猫头鹰迅风在回合开始前可以执行『迅·庇羽』、『迅·猎目』或『迅·击空』1次，配合主人行动。"
+      "zh": "初翎山风未承受控制效果时，猫头鹰迅风在回合开始前可以执行[迅·庇羽]、[迅·猎目]或[迅·击空]1次，配合主人行动。"
     },
     "iconFile": ""
   },
@@ -5957,9 +5999,9 @@
       "zh": "别馆私汤"
     },
     "description": {
-      "vi": "Cố định tại vị trí 70% của Thanh Hành Động, miễn nhiễm bất lợi và hiệu ứng khống chế, kế thừa lượng HP bằng 550% Tấn công và 100% Phòng ngự của Miêu Xuyên, không thể hành động. Nếu bản thân đang ở trạng thái có thể hành động, mỗi khi đồng minh sử dụng đòn đánh thường 6 lần, Suối Nước Hóa Mèo sẽ tấn công 6 lần, mỗi lần gây lượng sát thương bằng 125% Tấn công lên một mục tiêu kẻ địch ngẫu nhiên, không kích hoạt hiệu ứng Ngự Hồn của toàn bộ kẻ địch, sau đó lại triệu hồi 「Biệt Quán Tư Thang」.",
+      "vi": "Cố định tại vị trí 70% của Thanh Hành Động, miễn nhiễm bất lợi và hiệu ứng khống chế, kế thừa lượng HP bằng 550% Tấn công và 100% Phòng ngự của Miêu Xuyên, không thể hành động. Nếu bản thân đang ở trạng thái có thể hành động, mỗi khi đồng minh sử dụng đòn đánh thường 6 lần, Suối Nước Hóa Mèo sẽ tấn công 6 lần, mỗi lần gây lượng sát thương bằng 125% Tấn công lên một mục tiêu kẻ địch ngẫu nhiên, không kích hoạt hiệu ứng Ngự Hồn của toàn bộ kẻ địch, sau đó lại triệu hồi [Biệt Quán Tư Thang].",
       "en": "Located in the fixed position on the 70% of the turn order gauge, has immunity to debuffs and controlling effects, with HP equal to 550% of Nekogawa's ATK and DEF equal to 100% of his DEF. Cannot take actions. Whenever allies use normal attacks 6 times, if Nekogawa is in an action-ready state, Springwater Cat launches a 6-strike attack on random enemies, dealing damage equal to 125% of Nekogawa's ATK on each strike without triggering the Soul effects of all enemies, and then summons the Private Pool again.",
-      "zh": "固定在行动条70%的位置，免疫减益和控制效果，继承猫川攻击550%的生命值和100%防御，无法行动。若自身处于可行动状态，友方每使用普攻6次，泉水化猫攻击6次，每次对随机敌方目标造成攻击125%伤害，不会触发敌方全体御魂效果，随后再次召唤「别馆私汤」。"
+      "zh": "固定在行动条70%的位置，免疫减益和控制效果，继承猫川攻击550%的生命值和100%防御，无法行动。若自身处于可行动状态，友方每使用普攻6次，泉水化猫攻击6次，每次对随机敌方目标造成攻击125%伤害，不会触发敌方全体御魂效果，随后再次召唤[别馆私汤]。"
     },
     "iconFile": ""
   },
@@ -6111,9 +6153,9 @@
       "zh": "攻击架势"
     },
     "description": {
-      "vi": "Trong lượt của bản thân khi thi triển 『Kiêu Dương Trường Minh』, cường hóa Bố Đô Ngự Hồn 1 lần.",
+      "vi": "Trong lượt của bản thân khi thi triển [Kiêu Dương Trường Minh], cường hóa Bố Đô Ngự Hồn 1 lần.",
       "en": "When casting Ever-burning Sun during your own turn, strengthens Futsunomitama once.",
-      "zh": "自身回合内施放『骄阳长明』时，强化1次布都御魂。"
+      "zh": "自身回合内施放[骄阳长明]时，强化1次布都御魂。"
     },
     "iconFile": "5923.png"
   },
@@ -6167,9 +6209,9 @@
       "zh": "大妖姿态"
     },
     "description": {
-      "vi": "HP bằng 225% Tấn Công ban đầu của Cát Diệp, khi tỷ lệ HP cao hơn 50% sẽ miễn nhiễm bất lợi và trục xuất, trước khi hành động nhận Quỷ Hỏa tương đương số người bị ảo hóa. Xóa toàn bộ trạng thái và ấn ký ngoại trừ Cửu Vĩ Chi Lực, thay thế 「Hồ Ảnh Trận」 thành 「Chung Thức · Phá Không」. Khi chịu sát thương chí mạng hoặc toàn bộ Thức thần bị ảo hóa giải trừ ảo hóa sẽ trở về hình thái bình thường.",
+      "vi": "HP bằng 225% Tấn Công ban đầu của Cát Diệp, khi tỷ lệ HP cao hơn 50% sẽ miễn nhiễm bất lợi và trục xuất, trước khi hành động nhận Quỷ Hỏa tương đương số người bị ảo hóa. Xóa toàn bộ trạng thái và ấn ký ngoại trừ Cửu Vĩ Chi Lực, thay thế [Hồ Ảnh Trận] thành [Chung Thức · Phá Không]. Khi chịu sát thương chí mạng hoặc toàn bộ Thức thần bị ảo hóa giải trừ ảo hóa sẽ trở về hình thái bình thường.",
       "en": "HP equals to 225% of Cát Diệp's starting ATK. When HP is above 50%, immune to debuffs and Banish. Gains orbs equal to the number of transfigured units before action. Removes all statuses and marks except Nine-tailed Power, replacing Fox Shadow Array with Finale: Sky Blast. Returns to normal form upon receiving lethal damage or when all transfigured shikigami have their Transfiguration removed.",
-      "zh": "生命为葛叶初始攻击的225%，生命比例高于50%时，免疫减益和放逐，行动前，获得与幻化人数相等的鬼火。移除九尾之力外的所有状态和印记，将「狐影阵」替换为「终式·破空」。受到致命伤害或所有被幻化的式神解除幻化时，回到普通形态。"
+      "zh": "生命为葛叶初始攻击的225%，生命比例高于50%时，免疫减益和放逐，行动前，获得与幻化人数相等的鬼火。移除九尾之力外的所有状态和印记，将[狐影阵]替换为[终式·破空]。受到致命伤害或所有被幻化的式神解除幻化时，回到普通形态。"
     },
     "iconFile": "5975.png"
   },

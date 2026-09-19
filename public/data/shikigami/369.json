@@ -66,7 +66,7 @@
         "zh": "欢迎光临，想吃点什么？"
       },
       "description": {
-        "vi": "Điều khiển thần lửa mở nồi, gây 125% sát thương tấn công cho mục tiêu kẻ địch, nếu thi triển ngoài lượt, đốt cháy kẻ địch và đính kèm 20% dễ bị tổn thương cho chúng.",
+        "vi": "Điều khiển thần lửa mở nồi, gây 125% sát thương tấn công cho mục tiêu kẻ địch, nếu thi triển ngoài lượt, đốt cháy kẻ địch và đính kèm 20% [yeudiem] cho chúng.",
         "en": "Stirs his divine wok to attack enemies, dealing damage equal to 125% of his ATK. Using the skill outside a turn also burns the enemy, inflicting 20% Vulnerability on them.",
         "zh": "操控神火开锅，对敌方目标造成攻击125%伤害，若在回合外施放，灼伤敌方，为其附加20%易伤。"
       },
@@ -214,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Ứng với mỗi 1 mục tiêu kẻ địch, Hưởng Thực sẽ đính kèm thêm 66% sát thương chuẩn dựa trên tấn công của Thực Linh.",
+            "vi": "Ứng với mỗi 1 mục tiêu kẻ địch, [skill_3694_1] sẽ đính kèm thêm 66% sát thương chuẩn dựa trên tấn công của Thực Linh.",
             "en": "For each enemy on the battlefield, Feast inflicts additional True Damage equal to 66% of Shokurei's ATK.",
             "zh": "敌方每有1个目标，飨食额外附加食灵攻击66%的真实伤害"
           }

@@ -141,8 +141,8 @@
           "level": 3,
           "text": {
             "vi": "Đồng thời thi triển miễn phí [Vạn Tượng Chi Thư] (Cấp kỹ năng 1) lên kẻ địch có tỷ lệ HP thấp nhất",
-            "en": "Also uses Scroll of Everything((at Lv. 1) without spending any orbs on the enemy with the lowest proportion of HP.",
-            "zh": "同时对生命比例最低的敌方，免消耗施放『万象之书](技能等级1）)"
+            "en": "Also uses Scroll of Everything(at Lv. 1) without spending any orbs on the enemy with the lowest proportion of HP.",
+            "zh": "同时对生命比例最低的敌方，免消耗施放[万象之书](技能等级1）)"
           }
         },
         {
@@ -199,8 +199,8 @@
           "level": 3,
           "text": {
             "vi": "Đồng thời thi triển miễn phí [Vân Du] (Cấp kỹ năng 1) lên đồng minh có tỷ lệ HP thấp nhất",
-            "en": "Also uses Roam((at Lv. 1) without spending any orbs on the ally with the lowest proportion of HP.",
-            "zh": "同时对生命比例最低的友方，免消耗施放『云游](技能等级1）)"
+            "en": "Also uses Roam(at Lv. 1) without spending any orbs on the ally with the lowest proportion of HP.",
+            "zh": "同时对生命比例最低的友方，免消耗施放[云游](技能等级1）)"
           }
         },
         {

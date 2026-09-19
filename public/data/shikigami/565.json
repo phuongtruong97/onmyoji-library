@@ -134,23 +134,23 @@
           "text": {
             "vi": "Khi Kháng Hiệu Ứng ban đầu của bản thân cao hơn 50%, hiệu ứng [Đại Cát Đạt Ma] ưu tiên kích hoạt; nếu không hiệu ứng [Chiêu Phúc Đạt Ma] ưu tiên kích hoạt",
             "en": "Triggers EXP Daruma if her starting Effect RES is higher than 50%; otherwise, triggers Base Daruma.",
-            "zh": "自身初始效果抵抗高于50%时，『大吉达摩]效果优先触发；否则『招福达摩]效果优先触发"
+            "zh": "自身初始效果抵抗高于50%时，[大吉达摩]效果优先触发；否则[招福达摩]效果优先触发"
           }
         },
         {
           "level": 3,
           "text": {
-            "vi": "『Vòng Quay Trứng May Mắn] mở khóa hiệu ứng hiếm: [Ngự Hành Đạt Ma]",
+            "vi": "[Vòng Quay Trứng May Mắn] mở khóa hiệu ứng hiếm: [Ngự Hành Đạt Ma]",
             "en": "Unlocks Fun Gacha's SR effect: Skill Daruma.",
-            "zh": "『童趣扭蛋]解锁稀有效果：『御行达摩]"
+            "zh": "[童趣扭蛋]解锁稀有效果：[御行达摩]"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "『Vòng Quay Trứng May Mắn] mở khóa hiệu ứng siêu hiếm: [Phúc Vận Đạt Ma]",
+            "vi": "[Vòng Quay Trứng May Mắn] mở khóa hiệu ứng siêu hiếm: [Phúc Vận Đạt Ma]",
             "en": "Unlocks Fun Gacha's SSR effect: The Fortunebringer.",
-            "zh": "『童趣扭蛋]解锁超稀有效果：『福运达摩]"
+            "zh": "[童趣扭蛋]解锁超稀有效果：[福运达摩]"
           }
         },
         {
@@ -158,7 +158,7 @@
           "text": {
             "vi": "Khi [buff_5652_1] đạt giới hạn, thi triển [Vòng Quay Trứng May Mắn] chắc chắn nhận được [Phúc Vận Đạt Ma]",
             "en": "Using Fun Gacha when she has max [buff_5652_1] stacks guarantees The Fortunebringer.",
-            "zh": "[buff_5652_1]到达上限时施放『童趣扭蛋]将必定获得『福运达摩]"
+            "zh": "[buff_5652_1]到达上限时施放[童趣扭蛋]将必定获得[福运达摩]"
           }
         }
       ],
@@ -216,7 +216,7 @@
           "text": {
             "vi": "Khi thi triển thêm [Vòng Quay Trứng May Mắn] nhận 3 điểm Quỷ Hỏa",
             "en": "Grants you 3 orbs when she uses Fun Gacha.",
-            "zh": "额外施放『童趣扭蛋]时获得3点鬼火"
+            "zh": "额外施放[童趣扭蛋]时获得3点鬼火"
           }
         }
       ],

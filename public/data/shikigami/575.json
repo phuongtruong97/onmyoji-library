@@ -192,7 +192,7 @@
           "text": {
             "vi": "[tips_101] do [skill_5756_1] đính kèm chuyển hóa thành [tips_112]",
             "en": "Changes the [tips_101] inflicted by [skill_5756_1] to [tips_112].",
-            "zh": "『[skill_5756_1]施加的[tips_101]转化为[tips_112]"
+            "zh": "[[skill_5756_1]施加的[tips_101]转化为[tips_112]"
           }
         },
         {
@@ -200,7 +200,7 @@
           "text": {
             "vi": "Hệ số tấn công lần 3 của [skill_5757_1] tăng lên 180%",
             "en": "Increases the multiplier of [skill_5757_1]' third strike to 180%.",
-            "zh": "『[skill_5757_1]第3次攻击的系数增至180%"
+            "zh": "[[skill_5757_1]第3次攻击的系数增至180%"
           }
         },
         {

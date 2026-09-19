@@ -200,15 +200,15 @@
           "text": {
             "vi": "Nếu Âm Dương Sư trong lượt không gây sát thương, khi kết thúc lượt Tâm Hữu Khuyển Thần thi triển [Nhất Thệ Quy Tâm]",
             "en": "If the onmyoji deals no damage on their turn, at the end of their turn, Bosombuddy Inugami uses Promised Return.",
-            "zh": "若阴阳师在回合内未造成伤害，回合结束时心友犬神施放『一誓归心]"
+            "zh": "若阴阳师在回合内未造成伤害，回合结束时心友犬神施放[一誓归心]"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "『Nhất Thệ Quy Tâm] sau khi tấn công mục tiêu trong trạng thái [buff_5742_1], bản thân lập tức Đánh Thường vào mục tiêu đó 1 lần",
+            "vi": "[Nhất Thệ Quy Tâm] sau khi tấn công mục tiêu trong trạng thái [buff_5742_1], bản thân lập tức Đánh Thường vào mục tiêu đó 1 lần",
             "en": "When Promised Return attacks an enemy with [buff_5742_1], he follows up with a normal attack on the enemy.",
-            "zh": "『一誓归心]攻击处于[buff_5742_1]的目标后，自身立即普攻该目标1次"
+            "zh": "[一誓归心]攻击处于[buff_5742_1]的目标后，自身立即普攻该目标1次"
           }
         },
         {
@@ -216,7 +216,7 @@
           "text": {
             "vi": "Tiên Cơ: Thi triển [Lãng Khách Quy Đao]",
             "en": "Upper Hand: Uses Wanderer's Return.",
-            "zh": "先机：施放『浪客归刀]"
+            "zh": "先机：施放[浪客归刀]"
           }
         }
       ],

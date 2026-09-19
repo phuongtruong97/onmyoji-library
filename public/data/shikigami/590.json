@@ -142,7 +142,7 @@
           "text": {
             "vi": "Mỗi khi kẻ địch thi triển 4 lần giảm ích, Diệu Chủ Cửu Mệnh Miêu thức tỉnh 1 [tips_5901] và thi triển [Tốc Tốc Hộ Giá] lên kẻ đó",
             "en": "For every 4 debuffs cast by enemies, Meowlord Kyuumei Neko awakens 1 [tips_5901] and casts Guard Me! on it.",
-            "zh": "敌方每施放4次减益，妙主九命猫唤醒1只[tips_5901]并对其施放「速速护驾]"
+            "zh": "敌方每施放4次减益，妙主九命猫唤醒1只[tips_5901]并对其施放[速速护驾]"
           }
         },
         {
@@ -150,7 +150,7 @@
           "text": {
             "vi": "Mỗi khi có 1 Âm Dương Sư Miêu hộ giá, hệ số sát thương của [Tốc Tốc Hộ Giá] tăng 8%",
             "en": "For each Onmyoji Cat, the damage multiplier of Guard Me! increases by 8%.",
-            "zh": "每有1只阴阳师喵护驾，「速速护驾]伤害系数提升8%"
+            "zh": "每有1只阴阳师喵护驾，[速速护驾]伤害系数提升8%"
           }
         },
         {
@@ -158,7 +158,7 @@
           "text": {
             "vi": "Tiên cơ: Thi triển [Quốc Vương Giá Đáo]",
             "en": "Upper Hand: Casts King's Arrival",
-            "zh": "先机:施放「国王驾到]"
+            "zh": "先机:施放[国王驾到]"
           }
         }
       ],

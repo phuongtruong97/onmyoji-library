@@ -142,7 +142,7 @@
           "text": {
             "vi": "Tấn công do [skill_3774_1] tăng lên tăng đến 20%",
             "en": "Increases [skill_3774_1]'s damage boost to 20%.",
-            "zh": "『[skill_3774_1]提升的攻击增至20%"
+            "zh": "[[skill_3774_1]提升的攻击增至20%"
           }
         },
         {
@@ -158,7 +158,7 @@
           "text": {
             "vi": "Số lượt hành động tích lũy cần thiết của kẻ địch để thi triển miễn phí [Mộng Tâm Mê Thố Trận!] giảm xuống 5 lượt",
             "en": "Reduces the enemy turns required to use Ninja Formation! free of orb cost to 5 turns.",
-            "zh": "无消耗施放『梦心迷兔阵！]需要的敌方累计行动回合减少至5回合"
+            "zh": "无消耗施放[梦心迷兔阵！]需要的敌方累计行动回合减少至5回合"
           }
         }
       ],

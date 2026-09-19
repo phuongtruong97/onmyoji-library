@@ -124,7 +124,7 @@
         "zh": "而攻守之势异也。"
       },
       "description": {
-        "vi": "Khi bắt đầu chiến đấu, nếu tấn công ban đầu của bản thân cao hơn 700% phòng thủ, bước vào [tips_5921], ngược lại bước vào [tips_5922]. Khi ở trạng thái [tips_5921], cứ cường hóa [tips_5923] 1 lần, hệ số tấn công toàn thể của «Kiêu Dương Trường Minh» tăng 5%, tăng tối đa 15%; hiệu ứng hồi phục của thế phòng thủ có hiệu lực với cả đồng minh khác, lượng hồi phục bằng 70% của bản thân (không kích hoạt khi chịu [tips_12]).\n[tips_11]. Nắm giữ thần khí [tips_5923]. Trong [tips_5832], tiêu hao Quỷ Hỏa của «Kiêu Dương Trường Minh» giảm 2 điểm. Sau khi [tips_5832] của bản thân kết thúc, thời gian duy trì trạng thái giảm ích và [tips_3] phải chịu giảm 1 lượt.\n[Thi triển] Chuyển đổi thế đứng và tăng 50% thanh hành động của bản thân.",
+        "vi": "Khi bắt đầu chiến đấu, nếu tấn công ban đầu của bản thân cao hơn 700% phòng thủ, bước vào [tips_5921], ngược lại bước vào [tips_5922]. Khi ở trạng thái [tips_5921], cứ cường hóa [tips_5923] 1 lần, hệ số tấn công toàn thể của [Kiêu Dương Trường Minh] tăng 5%, tăng tối đa 15%; hiệu ứng hồi phục của thế phòng thủ có hiệu lực với cả đồng minh khác, lượng hồi phục bằng 70% của bản thân (không kích hoạt khi chịu [tips_12]).\n[tips_11]. Nắm giữ thần khí [tips_5923]. Trong [tips_5832], tiêu hao Quỷ Hỏa của [Kiêu Dương Trường Minh] giảm 2 điểm. Sau khi [tips_5832] của bản thân kết thúc, thời gian duy trì trạng thái giảm ích và [tips_3] phải chịu giảm 1 lượt.\n[Thi triển] Chuyển đổi thế đứng và tăng 50% thanh hành động của bản thân.",
         "en": "At battle start, if Taira no Masakado's starting ATK exceeds 700% of DEF, enters [tips_5921]; otherwise enters [tips_5922]. While in [tips_5921], each time [tips_5923] is enhanced, Ever-burning Sun AoE multiplier increases by 5% (max 15%). Guard Stance's Recover effect also applies to other allies, with the amount equal to 70% of own stats (does not trigger when affected by [tips_12]).\n[tips_11]. Wields artifact [tips_5923]. While in [tips_5832], Ever-burning Sun's orb cost is reduced by 2. After [tips_5832] ends, reduces own duration of received debuffs and [tips_3] by 1 turn.\n[Cast] Switches stance and boosts own Move Bar by 50%.",
         "zh": "战斗开始时，若自身初始攻击高于防御的700%，进入[tips_5921]，否则进入[tips_5922]。处于[tips_5921]时，每强化1次[tips_5923]，『骄阳长明]群体攻击系数提升5%，至多提升15%；防守架势的恢复效果对其他友方也生效，恢复量为自身的70%（受[tips_12]时不触发）。\n[tips_11]。掌控神器[tips_5923]。[tips_5832]中，『骄阳长明]鬼火消耗减少2点。自身的[tips_5832]结束后，承受的减益以及[tips_3]持续时间减少1回合。\n【施放】切换架势并提升自身50%行动条。"
       },
@@ -142,7 +142,7 @@
           "text": {
             "vi": "Trong [tips_5832], tiêu hao Quỷ Hỏa của [Kiêu Dương Trường Minh] giảm 2 điểm.",
             "en": "While in [tips_5832], Ever-burning Sun's orb cost is reduced by 2",
-            "zh": "[tips_5832]中，『骄阳长明]鬼火消耗减少2点"
+            "zh": "[tips_5832]中，[骄阳长明]鬼火消耗减少2点"
           }
         },
         {
@@ -158,7 +158,7 @@
           "text": {
             "vi": "Khi ở trạng thái [tips_5921], cứ cường hóa [tips_5923] 1 lần, hệ số tấn công toàn thể của [Kiêu Dương Trường Minh] tăng 5%, tăng tối đa 15%.",
             "en": "While in [tips_5921], each time [tips_5923] is enhanced, Ever-burning Sun AoE multiplier increases by 5% (max 15%)",
-            "zh": "处于[tips_5921]时，每强化1次[tips_5923]，『骄阳长明]群体攻击系数提升5%，至多提升15%"
+            "zh": "处于[tips_5921]时，每强化1次[tips_5923]，[骄阳长明]群体攻击系数提升5%，至多提升15%"
           }
         }
       ],

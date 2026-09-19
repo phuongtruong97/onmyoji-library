@@ -124,8 +124,8 @@
         "zh": "在永生之海，时间并没有意义。"
       },
       "description": {
-        "vi": "Tiến bước trong triều sương, sau khi lượt của kẻ địch không phải vật triệu hồi kết thúc, Senhime tăng 10% Thanh Hành Động.\nGây cho mục tiêu kẻ địch sát thương bằng 211% Tấn công, nếu [tips_3565] ở trên sân, đính kèm thêm [buff_3562_1].",
-        "en": "Rides the waves. At the end of a non-summoned enemy entity's turn, raises the Move Bar of Senhime by 10%.\nAttacks 1 enemy, dealing damage equal to 211% of her ATK. If [tips_3565] is on the battlefield, also inflicts [buff_3562_1] on them.",
+        "vi": "Tiến bước trong triều sương, sau khi lượt của kẻ địch không phải vật triệu hồi kết thúc, Thiên Cơ tăng 10% Thanh Hành Động.\nGây cho mục tiêu kẻ địch sát thương bằng 211% Tấn công, nếu [tips_3565] ở trên sân, đính kèm thêm [buff_3562_1].",
+        "en": "Rides the waves. At the end of a non-summoned enemy entity's turn, raises the Move Bar of Thiên Cơ by 10%.\nAttacks 1 enemy, dealing damage equal to 211% of her ATK. If [tips_3565] is on the battlefield, also inflicts [buff_3562_1] on them.",
         "zh": "在潮汐中前行，非召唤物的敌方回合结束后，千姬增加10%的行动条。\n对敌方目标造成攻击211%伤害，若[tips_3565]在场，额外附加[buff_3562_1]。"
       },
       "upgrades": [
@@ -182,8 +182,8 @@
         "zh": "仅有海潮与人鱼的歌声会成为海上的明灯。"
       },
       "description": {
-        "vi": "Triệu hồi [tips_3565], nhận chúc phúc của thủy triều. Khi Senhime cầm Hải Nguyên Bối Kích sẽ vĩnh viễn miễn nhiễm hiệu ứng khống chế. Sau khi thi triển lập tức nhận 3 tầng [buff_3563_1], kỹ năng thay thế thành [skill_3564_1]. Khi Hải Nguyên Bối Kích ở trên sân, đơn vị đồng minh cứ sử dụng 1 điểm Quỷ Hỏa, tích lũy 1 tầng [buff_3563_1] cho Hải Nguyên Bối Kích.",
-        "en": "Summons [tips_3565] to receive blessings from the tides. Senhime gains immunity to controlling effects as long as she's wielding Murex Halberd in her hands. The weapon immediately gains 3 [buff_3563_1] stacks after using the skill. Then the skill is changed to [skill_3564_1]. When Murex Halberd is on the battlefield, it gains a [buff_3563_1] stack for each orb allies spent.",
+        "vi": "Triệu hồi [tips_3565], nhận chúc phúc của thủy triều. Khi Thiên Cơ cầm Hải Nguyên Bối Kích sẽ vĩnh viễn miễn nhiễm hiệu ứng khống chế. Sau khi thi triển lập tức nhận 3 tầng [buff_3563_1], kỹ năng thay thế thành [Vĩnh Sinh Chi Tịch]. Khi Hải Nguyên Bối Kích ở trên sân, đơn vị đồng minh cứ sử dụng 1 điểm Quỷ Hỏa, tích lũy 1 tầng [buff_3563_1] cho Hải Nguyên Bối Kích.",
+        "en": "Summons [tips_3565] to receive blessings from the tides. Thiên Cơ gains immunity to controlling effects as long as she's wielding Murex Halberd in her hands. The weapon immediately gains 3 [buff_3563_1] stacks after using the skill. Then the skill is changed to [skill_3564_1]. When Murex Halberd is on the battlefield, it gains a [buff_3563_1] stack for each orb allies spent.",
         "zh": "召唤[tips_3565]，接受潮汐的祝福。千姬手持海原贝戟时永久免疫控制效果。施放后立刻获得3层[buff_3563_1]，技能替换为『[skill_3564_1]。海原贝戟在场时，友方单位每使用1点鬼火，为海原贝戟叠加1层[buff_3563_1]。"
       },
       "upgrades": [
@@ -240,7 +240,7 @@
         "zh": "没有人会拒绝人鱼的歌声。"
       },
       "description": {
-        "vi": "Rút Hải Nguyên Bối Kích, thủy triều dâng trào, gây cho toàn bộ kẻ địch sát thương bằng 120% Tấn công. Khi Thiên Cơ bắt đầu lượt nhận 1 tầng Bi Ca, căn cứ theo số tầng Bi Ca từ 1~5 tầng, sát thương gây ra lần lượt tăng thành 220%, 320%, 420%, 520%, 620% Tấn công. Sau khi thi triển hoặc Hải Nguyên Bối Kích bị đánh bại, xóa bỏ Bi Ca, Hải Nguyên Bối Kích quay lại tay Thiên Cơ, đồng thời thay thế kỹ năng thành «Hải Triều Nhập Mộng».",
+        "vi": "Rút Hải Nguyên Bối Kích, thủy triều dâng trào, gây cho toàn bộ kẻ địch sát thương bằng 120% Tấn công. Khi Thiên Cơ bắt đầu lượt nhận 1 tầng [buff_3564_1], căn cứ theo số tầng [buff_3564_1] từ 1~5 tầng, sát thương gây ra lần lượt tăng thành 220%, 320%, 420%, 520%, 620% Tấn công. Sau khi thi triển hoặc Hải Nguyên Bối Kích bị đánh bại, xóa bỏ [buff_3564_1], Hải Nguyên Bối Kích quay lại tay Thiên Cơ, đồng thời thay thế kỹ năng thành [Hải Triều Nhập Mộng].",
         "en": "",
         "zh": ""
       },

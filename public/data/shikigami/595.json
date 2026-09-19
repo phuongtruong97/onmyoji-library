@@ -124,7 +124,7 @@
         "zh": "接下来交给小白吧！"
       },
       "description": {
-        "vi": "[tips_11]. Hồi phục 20% HP đã mất cho mục tiêu phe ta chỉ định ngoại trừ bản thân và đính kèm [buff_5951_1], duy trì 2 lượt. Khi thi triển tăng 30% Thanh Hành Động cho Âm Dương Sư, nếu Âm Dương Sư là Tình Minh thì xóa bỏ thêm thời gian hồi kỹ năng của người đó. Người mang [buff_5951_1] khi hành động miễn nhiễm sát thương, khi chịu tấn công từ kẻ địch sẽ đính kèm [buff_5952_1] cho kẻ tấn công, duy trì 2 lượt, nếu Âm Dương Sư là Tình Minh thì tăng thêm 10% Thanh Hành Động cho người đó (mỗi lượt giới hạn 1 lần, trước khi lượt của Tình Minh bắt đầu giới hạn 3 lần). Thi triển khi [buff_5951_1] đang tồn tại, tăng thêm 20% Thanh Hành Động cho Âm Dương Sư. [tips_7]: Đính kèm [buff_5951_1] cho Thức Thần phe ta có Tấn công cao nhất.",
+        "vi": "[tips_11]. Hồi phục 20% HP đã mất cho mục tiêu phe ta chỉ định ngoại trừ bản thân và đính kèm [buff_5951_1], duy trì 2 lượt. Khi thi triển tăng 30% Thanh Hành Động cho Âm Dương Sư, nếu Âm Dương Sư là Tình Minh thì xóa bỏ thêm thời gian hồi kỹ năng của người đó. Người mang [buff_5951_1] khi hành động miễn nhiễm sát thương, khi chịu tấn công từ kẻ địch sẽ đính kèm [buff_5952_1] cho kẻ tấn công, duy trì 2 lượt, nếu Âm Dương Sư là Tình Minh thì tăng thêm 10% Thanh Hành Động cho người đó (mỗi lượt giới hạn 1 lần, trước khi lượt của Tình Minh bắt đầu giới hạn 3 lần). Thi triển khi [buff_5951_1] đang tồn tại, tăng thêm 20% Thanh Hành Động cho Âm Dương Sư. \n[tips_7]: Đính kèm [buff_5951_1] cho Thức Thần phe ta có Tấn công cao nhất.",
         "en": "[tips_11]. Recovers 20% of lost HP for the designated ally (excluding self) and grants [buff_5951_1], lasting for 2 turns. When cast, raises the onmyoji's Move Bar by 30%; if the onmyoji is Seimei, additionally removes his skill cooldown. The bearer of [buff_5951_1] is immune to damage when taking action, and inflicts [buff_5952_1] on the attacker when attacked by enemy, lasting for 2 turns; if the onmyoji is Seimei, additionally raises his Move Bar by 10% (once per turn, up to 3 times before Seimei's turn starts). When [buff_5951_1] is present, casting additionally raises the onmyoji's Move Bar by 20%. [tips_7]: Grants [buff_5951_1] to the allied shikigami with the highest ATK.",
         "zh": "[tips_11]。为自身外的指定友方恢复已损失生命的20%并施加[buff_5951_1]，维持2回合。施放时提升阴阳师30%行动条，若阴阳师为晴明则额外移除其技能冷却。[buff_5951_1]携带者行动时免疫伤害，受到敌方攻击时为攻击者施加[buff_5952_1]，持续2回合，若阴阳师为晴明则额外提升其10%行动条（每回合限1次，晴明回合开始前限3次）。[buff_5951_1]存在时施放，额外提升阴阳师20%行动条。[tips_7]：为攻击最高的友方式神施加[buff_5951_1]。"
       },
@@ -216,7 +216,7 @@
           "text": {
             "vi": "Sau khi Tình Minh phe ta thi triển yêu thuật, thi triển miễn phí [Trảm Mộng Đao]",
             "en": "Casts Dream Slash without cost after allied Seimei casts skill.",
-            "zh": "友方晴明施放妖术后，无消耗施放『斩梦刀]"
+            "zh": "友方晴明施放妖术后，无消耗施放[斩梦刀]"
           }
         }
       ],
@@ -258,7 +258,7 @@
           "text": {
             "vi": "Thi triển thêm [skill_1004_1] ở cấp độ hiện tại của Tình Minh phe ta",
             "en": "Additionally applies allied Seimei's current level of [skill_1004_1].",
-            "zh": "额外施加友方晴明当前等级的『[skill_1004_1]"
+            "zh": "额外施加友方晴明当前等级的[[skill_1004_1]"
           }
         },
         {
@@ -274,7 +274,7 @@
           "text": {
             "vi": "Thi triển thêm [skill_1005_1] ở cấp độ hiện tại của Tình Minh phe ta",
             "en": "Additionally applies allied Seimei's current level of [skill_1005_1].",
-            "zh": "额外施加友方晴明当前等级的『[skill_1005_1]"
+            "zh": "额外施加友方晴明当前等级的[[skill_1005_1]"
           }
         }
       ],

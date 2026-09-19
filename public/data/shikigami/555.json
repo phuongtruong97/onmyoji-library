@@ -216,7 +216,7 @@
           "text": {
             "vi": "Mỗi khi sử dụng 1 lần kỹ năng, tiêu hao [tips_5552] của [Huỳnh Quang Lạc Thế] tăng 120%, tăng tối đa 360%; nếu bản thân chịu sát thương gián tiếp, tiêu hao [tips_5552] của [Huỳnh Quang Lạc Thế] tăng 120%, trong một đòn tấn công đơn lẻ kích hoạt tối đa 1 lần",
             "en": "Whenever she uses the skill, increases the amount of [tips_5552] Luminescent Smash can use by 120%, up to 360%. When she takes indirect damage, increases the amount of [tips_5552] Luminescent Smash can use by 120%. Triggers up to once for a single attack.",
-            "zh": "每使用1次技能后，『萤光落世]消耗[tips_5552]提升120%，至多提升360%；若自身受到间接伤害，『萤光落世]消耗[tips_5552]提升120%，单次攻击最多触发1次"
+            "zh": "每使用1次技能后，[萤光落世]消耗[tips_5552]提升120%，至多提升360%；若自身受到间接伤害，[萤光落世]消耗[tips_5552]提升120%，单次攻击最多触发1次"
           }
         }
       ],

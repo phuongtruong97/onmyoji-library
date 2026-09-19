@@ -181,7 +181,7 @@
           "level": 5,
           "text": {
             "vi": "Khi đính kèm lại [buff_2852_1] lên mục tiêu đã đạt số tầng tối đa, gây [tips_5] bằng 30% giới hạn HP cho mục tiêu đó (không vượt quá 280% Tấn công của Trẫm)",
-            "en": "When inflicting [buff_2852_1] to an enemy with maxed out stacks, inflicts [tips_5] equal to 30% of their max HP((max 280% of Chin's ATK).",
+            "en": "When inflicting [buff_2852_1] to an enemy with maxed out stacks, inflicts [tips_5] equal to 30% of their max HP(max 280% of Chin's ATK).",
             "zh": "对层数已达上限的目标再次附加[buff_2852_1]时，对该目标造成其生命上限30%的[tips_5](不超过鸩攻击280%）)"
           }
         },

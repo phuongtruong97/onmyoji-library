@@ -124,7 +124,7 @@
         "zh": "心有枷锁，舞步自难轻盈。"
       },
       "description": {
-        "vi": "Khôi phục 40% giới hạn HP của bản thân, khôi phục 12% giới hạn HP của đồng đội, làm mới thời gian hồi của [buff_3761_1].",
+        "vi": "Hiệu ứng duy nhất.\nLinh Ngạn Cơ không thể được hồi sinh khi bị hạ gục. Khi Máu tối đa của nàng tụt xuống dưới 50%, nàng nhận vĩnh viễn trạng thái [buff_3761_1].\nSát thương [buff_3761_1] bỏ qua ngự hồn của kẻ địch.\n[Thi triển] Khôi phục 40% giới hạn HP của bản thân, khôi phục 12% giới hạn HP của đồng đội, làm mới thời gian hồi của [buff_3761_1].",
         "en": "恢复自身生命上限40%的生命，恢复队友生命上限12%的生命，使[buff_3761_1]冷却重置。",
         "zh": "恢复自身生命上限40%的生命，恢复队友生命上限12%的生命，使[buff_3761_1]冷却重置。"
       },
@@ -140,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Trạng thái thần lửa, khi mục tiêu không phải vật triệu hồi của đồng minh kết thúc lượt, Tsuzurahime hồi phục lượng HP bằng 8% giới hạn HP của bản thân.",
+            "vi": "Trạng thái [buff_3761_1], khi mục tiêu không phải vật triệu hồi của đồng minh kết thúc lượt, Linh Ngạn Cơ hồi phục lượng HP bằng 8% giới hạn HP của bản thân.",
             "en": "If Suzuhikohime has Holy Fire, at the end of a non-summoned ally entity's turn, recovers her HP by 8% of her max HP.",
             "zh": "神火状态，友方非召唤物目标回合结束时，铃彦姬恢复生命上限8%的生命"
           }
@@ -148,7 +148,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Trạng thái thần lửa, khi mục tiêu không phải vật triệu hồi của đồng minh kết thúc lượt, Tsuzurahime hồi phục lượng HP bằng 8% giới hạn HP của bản thân.",
+            "vi": "Trạng thái [buff_3761_1], khi mục tiêu không phải vật triệu hồi của đồng minh kết thúc lượt, Linh Ngạn Cơ hồi phục lượng HP bằng 8% giới hạn HP của bản thân.",
             "en": "If Suzuhikohime has Holy Fire, at the end of a non-summoned ally entity's turn, recovers her HP by 8% of her max HP.",
             "zh": "神火状态友方非召唤物目标回合结束时，铃彦姬恢复生命上限8%的生命"
           }
@@ -158,20 +158,45 @@
           "text": {
             "vi": "Khi chịu sát thương chí mạng, thay thế kỹ năng thành [Tâm Hỏa Vĩnh Minh].",
             "en": "When taking lethal damage, changes the skill to Undying Flame.",
-            "zh": "受到致命伤害时，将技能替换为「心火永明]"
+            "zh": "受到致命伤害时，将技能替换为[心火永明]"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "Khi bước vào Tâm Hỏa Vĩnh Minh, nhận khiên bằng 120% tấn công, không thể giải trừ, duy trì 2 lượt.",
+            "vi": "Khi bước vào [Tâm Hỏa Vĩnh Minh], nhận khiên bằng 120% tấn công, không thể giải trừ, duy trì 2 lượt.",
             "en": "When she becomes an Undying Flame, creates a shield that cannot be dispelled and lasts 2 turns, absorbing damage equal to 120% of her ATK.",
             "zh": "进入心火永明时，获得攻击120%的护盾，无法驱散，持续2回合"
           }
         }
       ],
-      "orbCost": 1,
+      "orbCost": 0,
       "iconFile": "3762.png"
+    },
+    {
+      "id": 3764,
+      "number": 2,
+      "variantOrder": 2,
+      "parentSkillId": 3762,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Tâm Hỏa Vĩnh Minh",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "Ta sẽ sống mãi trong chính ngọn lửa của mình.",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiệu ứng duy nhất.\nNgọn lửa có thể lụi tàn, nhưng trái tim ta sẽ rực cháy vĩnh hằng! Toàn bộ buff và debuff trên Suzuhiko Hime bị xóa bỏ. Nàng tiếp tục ở lại chiến trường cho đến khi đồng minh không triệu hồi cuối cùng bị hạ gục.\nKhi ở trạng thái này, nàng nhận thêm 100% Kháng Bạo Kích, Phòng Ngự tăng 100%, miễn nhiễm với debuff và các hiệu ứng như Trục Xuất, nhưng sẽ không thể hành động. Đồng thời tăng cho các đồng minh khác 40% Kháng Bạo Kích và Phòng Ngự.\nKhi bước vào trạng thái này và mỗi khi có một mục tiêu không triệu hồi khác bị hạ gục, nàng hồi phục ngay 50% Máu tối đa. Khi Máu đạt mức tối đa, nàng sẽ hồi sinh, thời gian hồi chiêu của  [buff_3761_1] được làm mới và kỹ năng này chuyển thành [Linh Diễm Chước Tâm].",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3762b.png"
     },
     {
       "id": 3763,
@@ -190,7 +215,7 @@
         "zh": "永燃长明的心火已熄，雪域的火焰却就此不灭。"
       },
       "description": {
-        "vi": "Gây sát thương 72% cho toàn thể mục tiêu kẻ địch. Sau đó tiếp tục tiêu hao 25% giới hạn HP của bản thân và 1 Quỷ Hỏa, gây thêm 1 đoạn sát thương 43% tấn công cho toàn thể kẻ địch, cho đến khi HP thấp hơn 50% hoặc không đủ Quỷ Hỏa và Nguyện Lực. Nếu Ngũ Sơn Hỏa Tế đánh bại mục tiêu kẻ địch không phải vật triệu hồi, sẽ lập tức hồi phục lượng máu của bản thân đến giới hạn HP, hiệu ứng này tối đa kích hoạt 1 lần mỗi lượt.",
+        "vi": "Gây sát thương 72% cho toàn thể mục tiêu kẻ địch. Sau đó tiếp tục tiêu hao 25% giới hạn HP của bản thân và 1 Quỷ Hỏa, gây thêm 1 đoạn sát thương 43% tấn công cho toàn thể kẻ địch, cho đến khi HP thấp hơn 50% hoặc không đủ Quỷ Hỏa và Nguyện Lực. Nếu [Ngũ Sơn Hỏa Tế] đánh bại mục tiêu kẻ địch không phải vật triệu hồi, sẽ lập tức hồi phục lượng máu của bản thân đến giới hạn HP, hiệu ứng này tối đa kích hoạt 1 lần mỗi lượt.",
         "en": "Launches an attack on all enemies, dealing damage equal to 72% of her ATK. Then continues to inflict strikes on all enemies at the cost of her HP equal to 25% of her max HP and 1 orb, dealing damage equal to 43% of her ATK on each strike, until her HP drops to 50% or there're not enough orbs or Wish Power. If Fire Rite manages to KO a non-summoned enemy entity, immediately recovers her HP to full. The effects can be triggered up to once per turn.",
         "zh": "对敌方全体目标造成攻击72%的伤害。之后继续消耗自身生命上限25%的生命和1点鬼火，对敌方全体造成1段攻击43%的伤害，直至生命少于50%或鬼火和愿力不足。若五山火祭击败非召唤物敌方目标，则立即恢复自身血量至生命上限，该效果每回合至多触发1次。"
       },

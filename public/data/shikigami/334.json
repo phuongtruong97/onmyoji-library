@@ -156,8 +156,8 @@
         {
           "level": 5,
           "text": {
-            "vi": "Hệ số sát thương chấn động sóng biển bằng 120% lần trước ((hệ số tăng tối đa 5 lần).",
-            "en": "The damage multiplier of each sea wave strike is equal to 120% of the last one((the damage multiplier can be increased up to 5 times).",
+            "vi": "Hệ số sát thương chấn động sóng biển bằng 120% lần trước (hệ số tăng tối đa 5 lần).",
+            "en": "The damage multiplier of each sea wave strike is equal to 120% of the last one(the damage multiplier can be increased up to 5 times).",
             "zh": "海浪振动的伤害系数为前1次的120%(系数增加至多5次）)"
           }
         }
@@ -182,7 +182,7 @@
         "zh": "这海浪为吾而立！"
       },
       "description": {
-        "vi": "Cắt đôi mặt nước, chém sóng to gió lớn về phía mục tiêu kẻ địch, gây sát thương 335%. Khi sở hữu 3 tầng Hải Nộ, bản thân giảm 20% phòng thủ, sát thương gây ra tăng 40%; sau khi [Thi Triển], đồng minh nhận hiệu quả giảm sát thương «Đứng Vững Không Đổ», duy trì 1 lượt.",
+        "vi": "Cắt đôi mặt nước, chém sóng to gió lớn về phía mục tiêu kẻ địch, gây sát thương 335%. Khi sở hữu 3 tầng Hải Nộ, bản thân giảm 20% phòng thủ, sát thương gây ra tăng 40%; sau khi [Thi Triển], đồng minh nhận hiệu quả giảm sát thương [Đứng Vững Không Đổ], duy trì 1 lượt.",
         "en": "Cleaves through the water and strikes 1 enemy with a towering wave, dealing damage equal to 335% of his ATK. If the enemy is KO'd, he loses a Sea Fury stack. Target is regarded as being inflicted with Isolation. When he has 3 Sea Fury stacks, his DEF is reduced by 20% and his damage is increased by 40%. After using the skill, all allies gain the damage reduction effects of Unflinching. Sustainable for 1 turn.",
         "zh": "切开水面，向敌方目标斩出惊涛骇浪，造成攻击335%伤害。若击败敌方，自身失去1层海怒。造成伤害视同孤立，拥有3层海怒时，自身降低20%防御，造成伤害提升40%；施放后，友方获得「屹立不倒]的减伤效果，维持1回合。"
       },
@@ -216,7 +216,7 @@
           "text": {
             "vi": "Khi sở hữu 3 tầng Hải Nộ, bản thân giảm 20% phòng thủ, sát thương gây ra tăng 40%; sau khi [Thi triển], đồng minh nhận hiệu quả giảm sát thương [Đứng Vững Không Đổ], duy trì 1 lượt.",
             "en": "When he has 3 Sea Fury stacks, his DEF is reduced by 20% and his damage is increased by 40%. After using the skill, all allies gain the damage reduction effects of Unflinching. Sustainable for 1 turn.",
-            "zh": "拥有3层海怒时，自身降低20%防御，造成伤害提升40%；施放后，友方获得「屹立不倒]的减伤效果，维持1回合"
+            "zh": "拥有3层海怒时，自身降低20%防御，造成伤害提升40%；施放后，友方获得[屹立不倒]的减伤效果，维持1回合"
           }
         }
       ],

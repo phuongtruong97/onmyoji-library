@@ -142,7 +142,7 @@
           "text": {
             "vi": "Tỷ lệ HP kích hoạt [Phong Phù · Thủ] tăng lên 40%, số lượt không kích hoạt lặp lại giảm xuống 2",
             "en": "Increases the proportion of HP required to trigger Wind Amulet: Shield to 40% and reduces the cooldown to 2 turns.",
-            "zh": "触发『风符·守]的生命比例提高至40%，不重复触发的回合数减至2"
+            "zh": "触发[风符·守]的生命比例提高至40%，不重复触发的回合数减至2"
           }
         },
         {
@@ -157,7 +157,7 @@
           "level": 5,
           "text": {
             "vi": "Mỗi 1% Bạo kích ban đầu dư thừa của Thương Phong Nhất Mục Liên, Phong Thuẫn cung cấp 2% giảm sát thương (giới hạn 40%), bản thân tăng 2% Sát Thương Bạo Kích",
-            "en": "For each 1% of excess Crit Azurestorm Ichimokuren has for his starting Crit, the Wind Shield grants a 2% damage reduction((max 40%) and increases his Crit DMG by 2%.",
+            "en": "For each 1% of excess Crit Azurestorm Ichimokuren has for his starting Crit, the Wind Shield grants a 2% damage reduction(max 40%) and increases his Crit DMG by 2%.",
             "zh": "苍风一目连初始暴击每溢出1%，风盾提供2%的减伤(上限40%）)，自身增加2%的暴击伤害"
           }
         }

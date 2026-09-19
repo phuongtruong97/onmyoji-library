@@ -100,7 +100,7 @@
           "text": {
             "vi": "Khi Đánh Thường trong ảo cảnh [Vận Mệnh Tinh Hà] sẽ tăng 1 lần số lần kích hoạt ảo cảnh, số lần kích hoạt không vượt quá 6 lần",
             "en": "While the Galaxy of Fate field is active, when he uses a normal attack, increases the field's available triggers by 1. There can be no more than 6 triggers.",
-            "zh": "在「命运星河]幻境中进行普通攻击时增加1次幻境的触发次数，触发次数不超过6次"
+            "zh": "在[命运星河]幻境中进行普通攻击时增加1次幻境的触发次数，触发次数不超过6次"
           }
         }
       ],
@@ -150,7 +150,7 @@
           "text": {
             "vi": "Tiên Cơ: Thi triển [Tinh La Vân Bố]",
             "en": "Upper Hand: Uses Starry Galaxy.",
-            "zh": "先机：施放「星罗云布]"
+            "zh": "先机：施放[星罗云布]"
           }
         },
         {
@@ -208,7 +208,7 @@
           "text": {
             "vi": "Khi thi triển kỹ năng này trong ảo cảnh [Vận Mệnh Tinh Hà] sẽ tăng 3 lần số lần kích hoạt ảo cảnh, số lần kích hoạt không vượt quá 6 lần",
             "en": "While the Galaxy of Fate field is active, when he uses the skill, increases the field's available triggers by 3. There can be no more than 6 triggers.",
-            "zh": "在「命运星河]幻境中施放该技能时增加3次幻境的触发次数，触发次数不超过6次"
+            "zh": "在[命运星河]幻境中施放该技能时增加3次幻境的触发次数，触发次数不超过6次"
           }
         },
         {

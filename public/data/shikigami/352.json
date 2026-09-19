@@ -99,7 +99,7 @@
           "level": 5,
           "text": {
             "vi": "Phược Cốt Thanh Cơ mỗi khi tấn công, đổi thành đính kèm [buff_99_1] cấp 5 duy trì 5 lượt cho mục tiêu, và giảm 50 điểm Phòng thủ duy trì cho đến khi trận đấu kết thúc (giới hạn 500 điểm)",
-            "en": "Whenever Lovebound Kiyohime attacks, she inflicts a [buff_99_1] V lasting 5 turns on the enemy and a 50 DEF Down((max 500 DEF reduced) lasting until the battle ends instead.",
+            "en": "Whenever Lovebound Kiyohime attacks, she inflicts a [buff_99_1] V lasting 5 turns on the enemy and a 50 DEF Down(max 500 DEF reduced) lasting until the battle ends instead.",
             "zh": "缚骨清姬每次攻击时，改为对目标附加持续5回合的5级[buff_99_1]，和持续至战斗结束的50点减防(上限500点）)"
           }
         }
@@ -198,9 +198,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "「[buff_3523_1]] có thể kích hoạt khi mục tiêu chịu hiệu ứng tăng thanh hành động, tiêu hao 1 tầng làm hiệu ứng đó vô hiệu",
+            "vi": "[[buff_3523_1]] có thể kích hoạt khi mục tiêu chịu hiệu ứng tăng thanh hành động, tiêu hao 1 tầng làm hiệu ứng đó vô hiệu",
             "en": "[buff_3523_1] can be triggered when the target's Move Bar is raised. One layer is consumed, nullifying the effect.",
-            "zh": "「[buff_3523_1]]可在目标受到行动条增加效果时触发，消耗1层使其无效"
+            "zh": "[[buff_3523_1]]可在目标受到行动条增加效果时触发，消耗1层使其无效"
           }
         },
         {
@@ -215,8 +215,8 @@
           "level": 5,
           "text": {
             "vi": "Khi [[buff_3523_1]] kích hoạt, giảm 8% giới hạn HP tối đa của mục tiêu (giảm tối đa xuống 20%; nếu mục tiêu là quái vật, mỗi lần không vượt quá 1200% Tấn công của Phược Cốt Thanh Cơ)",
-            "en": "When [buff_3523_1] is triggered, reduces the enemy's max HP by 8% ((limited to 1,200% of Lovebound Kiyohime's ATK each time; total max 20% reduced).",
-            "zh": "「[buff_3523_1]]触发时，降低目标8%最大生命上限(最多降低至20%；若目标为怪物，每次不超过缚骨清姬攻击的1200%）)"
+            "en": "When [buff_3523_1] is triggered, reduces the enemy's max HP by 8% (limited to 1,200% of Lovebound Kiyohime's ATK each time; total max 20% reduced).",
+            "zh": "[[buff_3523_1]]触发时，降低目标8%最大生命上限(最多降低至20%；若目标为怪物，每次不超过缚骨清姬攻击的1200%）)"
           }
         }
       ],
@@ -256,9 +256,9 @@
         {
           "level": 3,
           "text": {
-            "vi": "「[buff_3523_2]] khi mục tiêu chịu hiệu ứng đẩy nhanh hành động cũng sẽ kích hoạt và làm hiệu ứng đó vô hiệu",
+            "vi": "[[buff_3523_2]] khi mục tiêu chịu hiệu ứng đẩy nhanh hành động cũng sẽ kích hoạt và làm hiệu ứng đó vô hiệu",
             "en": "[buff_3523_2] is triggered when the target's Move Bar is raised, nullifying the effect.",
-            "zh": "「[buff_3523_2]]在目标受到行动提前效果时也会触发并使其无效"
+            "zh": "[[buff_3523_2]]在目标受到行动提前效果时也会触发并使其无效"
           }
         },
         {

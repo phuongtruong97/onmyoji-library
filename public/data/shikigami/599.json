@@ -215,7 +215,7 @@
           "level": 5,
           "text": {
             "vi": "Khi thức thần phe địch tử trận, triệu hồi [tips_5994] chiếm vị trí phe địch (hiệu ứng duy nhất)",
-            "en": "When an enemy shikigami is KO'd, summons a [tips_5994] to occupy the enemy spot. ((Exclusive effect).",
+            "en": "When an enemy shikigami is KO'd, summons a [tips_5994] to occupy the enemy spot. (Exclusive effect).",
             "zh": "敌方式神阵亡时，召唤[tips_5994]占据敌方位置(唯一效果）)"
           }
         }

@@ -198,25 +198,25 @@
         {
           "level": 3,
           "text": {
-            "vi": "「Ngươi Là Kẻ Xấu] gây thêm sát thương bằng 180% Tấn công",
+            "vi": "[Ngươi Là Kẻ Xấu] gây thêm sát thương bằng 180% Tấn công",
             "en": "You're Evil! also inflicts damage equal to 180% of her ATK.",
-            "zh": "「你是坏人]额外造成攻击180%的伤害"
+            "zh": "[你是坏人]额外造成攻击180%的伤害"
           }
         },
         {
           "level": 4,
           "text": {
-            "vi": "「Đừng Đuổi Theo Ta Nữa] đính kèm [buff_37152_1] cho mục tiêu, duy trì 1 lượt",
+            "vi": "[Đừng Đuổi Theo Ta Nữa] đính kèm [buff_37152_1] cho mục tiêu, duy trì 1 lượt",
             "en": "Stop Chasing Me! inflicts [buff_37152_1] lasting 1 turns on the target.",
-            "zh": "「别再追我啦]对目标施加[buff_37152_1]，持续1回合"
+            "zh": "[别再追我啦]对目标施加[buff_37152_1]，持续1回合"
           }
         },
         {
           "level": 5,
           "text": {
-            "vi": "「Mau Trốn Đi] trị liệu lượng HP bằng 31% Tấn công của Xuyên Viên cho tất cả đồng đội",
+            "vi": "[Mau Trốn Đi] trị liệu lượng HP bằng 31% Tấn công của Xuyên Viên cho tất cả đồng đội",
             "en": "I'd Better Hide! heals the HP of all allies by 31% of Kawazaru's ATK.",
-            "zh": "「快躲起来]治疗所有队友川猿31%攻击的生命"
+            "zh": "[快躲起来]治疗所有队友川猿31%攻击的生命"
           }
         }
       ],

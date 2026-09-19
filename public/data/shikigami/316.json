@@ -141,7 +141,7 @@
           "level": 3,
           "text": {
             "vi": "Khi [buff_3162_1] bị phá vỡ, nếu Bạch Tàng Chủ không bị khống chế, liền phản kích nguồn gây sát thương, gây sát thương bằng 10% giới hạn HP, và có 100% xác suất cơ bản khiến kẻ đó giảm 30% Bạo kích, duy trì 1 lượt (hiệu ứng này không thể cộng dồn); khi nhiều [buff_3162_1] cùng bị phá vỡ, sát thương không dồn tích",
-            "en": "When a [buff_3162_1] is broken, Hakuzosu launches a counter-attack against the source of the damage if he's not under any controlling effect, dealing damage equal to 10% of his max HP, with a 100% base chance of reducing their Crit by 30% for 1 turn((the effect cannot be stacked). His damage is not increased if multiple [buff_3162_1]s are broken at the same time.",
+            "en": "When a [buff_3162_1] is broken, Hakuzosu launches a counter-attack against the source of the damage if he's not under any controlling effect, dealing damage equal to 10% of his max HP, with a 100% base chance of reducing their Crit by 30% for 1 turn(the effect cannot be stacked). His damage is not increased if multiple [buff_3162_1]s are broken at the same time.",
             "zh": "[buff_3162_1]被击破时，若白藏主未受到控制，则反击伤害来源，造成生命上限10%伤害，并有100%基础概率使其降低30%暴击，持续1回合(该效果不可叠加）)；多个[buff_3162_1]同时被击破时，伤害不累加"
           }
         },

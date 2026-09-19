@@ -158,7 +158,7 @@
           "text": {
             "vi": "Sau mỗi lần [tips_5792] tấn công, tăng 12% hệ số sát thương của [Thế Gian Chi Khúc] (tối đa 24%, không mất đi khi chuyển hồi mục)",
             "en": "After [tips_5792] attacks, increases Secular Song's damage multiplier by 12% (max 24%, won't be removed as rounds end).",
-            "zh": "[tips_5792]每次攻击后，提升『世间之曲]12%伤害系数（至多24%，跨回目不消失）"
+            "zh": "[tips_5792]每次攻击后，提升[世间之曲]12%伤害系数（至多24%，跨回目不消失）"
           }
         }
       ],

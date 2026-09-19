@@ -214,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "[tips_7]: [Thi triển]『Tinh Hỏa Mãn Thiên].",
+            "vi": "[tips_7]: [Thi triển][Tinh Hỏa Mãn Thiên].",
             "en": "[tips_7]: Uses Blazing Sky.",
-            "zh": "[tips_7]：施放『星火满天]"
+            "zh": "[tips_7]：施放[星火满天]"
           }
         }
       ],

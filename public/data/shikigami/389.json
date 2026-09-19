@@ -134,7 +134,7 @@
           "text": {
             "vi": "Sát thương gây ra bởi [skill_3894_1] tăng đến 231% tấn công.",
             "en": "Increases Heavenly Might's damage dealt to 231% of his ATK.",
-            "zh": "「天威]造成伤害增加至攻击231%"
+            "zh": "[天威]造成伤害增加至攻击231%"
           }
         },
         {
@@ -142,7 +142,7 @@
           "text": {
             "vi": "[skill_3894_1] vô hiệu hóa hiệu ứng Ngự Hồn của mục tiêu.",
             "en": "Heavenly Might ignores target's Soul effects.",
-            "zh": "「天威]无视目标御魂效果"
+            "zh": "[天威]无视目标御魂效果"
           }
         },
         {
@@ -150,7 +150,7 @@
           "text": {
             "vi": "Khi [Thi triển] [skill_3894_1], Susanoo nhận khiên lôi bằng 49% tấn công, duy trì 2 lượt, tối đa cộng dồn 2 tầng.",
             "en": "When using Heavenly Might, Susanoo gains a Thunder Aegis, absorbing damage equal to 49% of his ATK and lasting 2 turns. Stacks up to 2 times.",
-            "zh": "施放「天威]时，须佐之男获得攻击49%的雷盾，持续2个回合，最多可叠加2层"
+            "zh": "施放[天威]时，须佐之男获得攻击49%的雷盾，持续2个回合，最多可叠加2层"
           }
         },
         {
@@ -158,7 +158,7 @@
           "text": {
             "vi": "Nếu bản thân không được khiên lôi bảo vệ, kích thích ý chí chiến đấu, khiến sát thương mỗi lần gây ra của [Thiên Lôi Vạn Tượng] và giới hạn tăng sát thương được tăng thêm 20%.",
             "en": "If he's not protected by Thunder Aegis, he's in high spirits, causing Thunder Armageddon's damage dealt and the damage boost to increase by an additional 20%.",
-            "zh": "若自身未受雷盾保护，激发斗志，使「天雷万象]每次造成的伤害和伤害提升上限额外提升20%"
+            "zh": "若自身未受雷盾保护，激发斗志，使[天雷万象]每次造成的伤害和伤害提升上限额外提升20%"
           }
         }
       ],

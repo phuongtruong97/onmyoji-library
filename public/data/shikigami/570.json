@@ -157,8 +157,8 @@
           "level": 5,
           "text": {
             "vi": "Khi bất kỳ đồng minh nào không phải vật triệu hồi chịu sát thương vượt quá 10% HP tối đa, lập tức thi triển miễn phí [skill_5702_1] lên kẻ đó (giới hạn 1 lần mỗi lượt hành động)",
-            "en": "When a non-summoned ally entity takes damage that exceeds 10% of their max HP, immediately uses [skill_5702_1] on them, free of orb cost((triggers up to once for each action).",
-            "zh": "任意非召唤物友方受到超过最大生命10%的伤害时，立即无消耗对其施放『[skill_5702_1](每次行动限1次）)"
+            "en": "When a non-summoned ally entity takes damage that exceeds 10% of their max HP, immediately uses [skill_5702_1] on them, free of orb cost(triggers up to once for each action).",
+            "zh": "任意非召唤物友方受到超过最大生命10%的伤害时，立即无消耗对其施放[[skill_5702_1](每次行动限1次）)"
           }
         }
       ],
@@ -215,8 +215,8 @@
           "level": 5,
           "text": {
             "vi": "Sau khi chịu đòn tấn công của kẻ địch, lập tức thi triển miễn phí [skill_5703_1] giảm một nửa hệ số sát thương lên kẻ tấn công (không kích hoạt Ngự Hồn cùng Nội Tại của kẻ địch, giới hạn 1 lần trước khi lượt bản thân bắt đầu)",
-            "en": "When she's attacked by an enemy, immediately uses [skill_5703_1] on the attacker with its damage multiplier reduced by fifty percent((doesn't trigger the enemy's Souls and passive skills, and triggers up to once before her next turn).",
-            "zh": "受到敌方攻击后，立即对攻击者无消耗施放伤害系数减半的『[skill_5703_1](不触发敌方御魂与被动，自身回合开始前限1次）)"
+            "en": "When she's attacked by an enemy, immediately uses [skill_5703_1] on the attacker with its damage multiplier reduced by fifty percent(doesn't trigger the enemy's Souls and passive skills, and triggers up to once before her next turn).",
+            "zh": "受到敌方攻击后，立即对攻击者无消耗施放伤害系数减半的[[skill_5703_1](不触发敌方御魂与被动，自身回合开始前限1次）)"
           }
         }
       ],

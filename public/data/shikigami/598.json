@@ -124,7 +124,7 @@
         "zh": "听到了吗？花开的讯息。"
       },
       "description": {
-        "vi": "[tips_11]. Trị liệu cho mục tiêu phe ta lượng HP bằng 15% HP tối đa và đính kèm [buff_5981_1]; khi trị liệu Bạo kích, trị liệu thêm cho 1 đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất. Khi trên sân phe ta có mục tiêu mang [buff_5981_1], bản thân khi chịu sát thương chí mạng sẽ miễn nhiễm và xóa bỏ tất cả [buff_5981_1]; khi [buff_5981_1] bị xóa bỏ, tăng 30% Thanh Hành Động cho bản thân. [tips_7]: Đính kèm [buff_5981_1] cho đồng minh có HP thấp nhất.",
+        "vi": "[tips_11]. Trị liệu cho mục tiêu phe ta lượng HP bằng 15% HP tối đa và đính kèm [buff_5981_1]; khi trị liệu Bạo kích, trị liệu thêm cho 1 đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất. Khi trên sân phe ta có mục tiêu mang [buff_5981_1], bản thân khi chịu sát thương chí mạng sẽ miễn nhiễm và xóa bỏ tất cả [buff_5981_1]; khi [buff_5981_1] bị xóa bỏ, tăng 30% Thanh Hành Động cho bản thân. \n[tips_7]: Đính kèm [buff_5981_1] cho đồng minh có HP thấp nhất.",
         "en": "[tips_11]. Heals an allied target for 15% of max HP and grants [buff_5981_1]; if the healing lands a critical hit, additionally heals 1 non-summoned entity ally with the lowest HP percentage. If an ally with [buff_5981_1] is on the field when Everadiant Momo takes lethal damage, she becomes immune to that damage and removes all [buff_5981_1]; when [buff_5981_1] is removed, raises her Move Bar by 30%. [tips_7]: Grants [buff_5981_1] to the ally with the lowest HP.",
         "zh": "[tips_11]。为友方目标治疗生命上限15%的生命并施加[buff_5981_1]；治疗暴击时，额外治疗1个生命比例最低的非召唤物友方。友方场上有携带[buff_5981_1]的目标时，自身受到致命伤害时免疫并移除所有[buff_5981_1]；[buff_5981_1]被移除时，提升自身30%行动条。[tips_7]：为生命最低的友方施加[buff_5981_1]。"
       },
@@ -200,7 +200,7 @@
           "text": {
             "vi": "Đồng minh được hồi sinh bởi [Tỉnh Thời Hoa] được tăng 50% Thanh Hành Động",
             "en": "Allied target revived by Wakebloom gains 50% Move Bar raise.",
-            "zh": "被『醒时花]复活的友方提升50%行动条"
+            "zh": "被[醒时花]复活的友方提升50%行动条"
           }
         },
         {

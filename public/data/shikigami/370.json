@@ -149,7 +149,7 @@
         "zh": "温暖的笑容，随饭香传遍大地！"
       },
       "description": {
-        "vi": "Mở khóa khi Lương Thực Dự Trữ đạt 6 tầng. Tấn công mục tiêu có HP cao nhất của phe địch 1 lần gây sát thương bằng 150% Tấn công, sau đó tấn công 8 lần, mỗi lần gây sát thương bằng 33% Tấn công cho mục tiêu kẻ địch ngẫu nhiên. Sau khi tấn công tiêu hao 4 tầng Lương Thực Dự Trữ.",
+        "vi": "Mở khóa khi [buff_3702_1] đạt 6 tầng. Tấn công mục tiêu có HP cao nhất của phe địch 1 lần gây sát thương bằng 150% Tấn công, sau đó tấn công 8 lần, mỗi lần gây sát thương bằng 33% Tấn công cho mục tiêu kẻ địch ngẫu nhiên. Sau khi tấn công tiêu hao 4 tầng [buff_3702_1].",
         "en": "Unlocked when there are 6 Grain Reserve stacks. Launches an attack on the enemy with the highest HP, dealing damage equal to 150% of ATK. Then inflicts 8 strikes on random enemies, dealing damage equal to 33% of ATK on each strike. 4 Grain Reserve stacks are consumed after the attack.",
         "zh": "当储备粮达到6层时解锁。攻击敌方生命最高的目标1次造成攻击150%的伤害，随后攻击8次，每次对随机敌方目标造成攻击33%的伤害。攻击后消耗4层储备粮。"
       },
@@ -185,10 +185,68 @@
             "en": "Increases first attack damage to 150%.",
             "zh": "首次伤害增加至150%"
           }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương chuẩn tăng lên 80%",
+            "en": "",
+            "zh": ""
+          }
         }
       ],
       "orbCost": 3,
       "iconFile": "3703.png"
+    },
+    {
+      "id": 3704,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 3703,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Thôn Thực Thiên Địa",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khi Phạn Tứ tích đủ 10 tầng [buff_3702_1], kỹ năng này sẽ tự động thi triển mà không tiêu hao Quỷ Hỏa. Nếu bản thân đang chịu hiệu ứng khống chế, nàng sẽ tiêu hao trước 5 tầng [buff_3702_1] để giải trừ hoặc xua tan toàn bộ các hiệu ứng đó.\nKhi thi triển, Phạn Tứ tấn công kẻ địch có lượng Máu cao nhất, gây lượng sát thương tương đương 230% Tấn Công; đồng thời gây thêm một lượng sát thương chuẩn bằng 80% lượng sát thương đó, chia đều cho tất cả các kẻ địch khác. Sau đó, nàng tiếp tục giáng 9 đòn công kích ngẫu nhiên vào kẻ địch, mỗi đòn gây sát thương bằng 33% Tấn Công.\nSau khi đợt tấn công kết thúc, toàn bộ các tầng [buff_3702_1] sẽ bị tiêu hao.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương lần đầu tăng lên 200%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương chuẩn tăng lên 60%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương lần đầu tăng lên 230%",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "3704.png"
     }
   ],
   "assets": {

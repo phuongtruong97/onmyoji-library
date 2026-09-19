@@ -100,7 +100,7 @@
           "text": {
             "vi": "Đòn tấn công sẽ đính kèm hiệu ứng [Luật Âm] của lần gẩy trước đó",
             "en": "Attack inflicts the effects of the last Tune she played.",
-            "zh": "攻击会附加前一次弹奏的『律音]效果"
+            "zh": "攻击会附加前一次弹奏的[律音]效果"
           }
         }
       ],
@@ -112,7 +112,7 @@
       "number": 2,
       "variantOrder": 0,
       "parentSkillId": null,
-      "maxLevel": 6,
+      "maxLevel": 5,
       "name": {
         "vi": "Phá",
         "en": "Raided",
@@ -124,7 +124,7 @@
         "zh": "无尽长夜，奏律成光。"
       },
       "description": {
-        "vi": "Gẩy đàn xong tăng 35% Thanh Hành Động cho bản thân, giúp bản thân nhận Che Chắn 1 lượt, có thể kháng 1 lần hiệu ứng khống chế; khi đợt chiến đấu bắt đầu nhận hiệu ứng giảm 50% sát thương bạo kích gánh chịu, mỗi lần gẩy luật âm liền chuyển hóa 10% trong đó thành tăng 20% Sát Thương Bạo Kích cho bản thân.",
+        "vi": "Gẩy đàn xong tăng 35% Thanh Hành Động cho bản thân, giúp bản thân nhận [tips_14] 1 lượt, có thể kháng 1 lần hiệu ứng khống chế; khi đợt chiến đấu bắt đầu nhận hiệu ứng giảm 50% sát thương bạo kích gánh chịu, mỗi lần gẩy luật âm liền chuyển hóa 10% trong đó thành tăng 20% Sát Thương Bạo Kích cho bản thân.",
         "en": "After playing a tune, raises her Move Bar by 35% and gains her Shelter that lasts 1 turn and negates controlling effects once. At the start of a round, gains an effect that reduces her Crit DMG taken by 50%. Each time after playing a tune, converts 10% Crit DMG reduction to increase her Crit DMG by 20%.",
         "zh": "弹奏后增加自身35%行动条，使自身获得庇护1回合，可抵抗1次控制效果；回目开始时获得受到暴击伤害时降低50%效果，每次弹奏律音后将其中10%转化为提升自身20%暴击伤害。"
       },
@@ -148,15 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Sau khi gẩy luật âm bản thân nhận [buff_3532_1] 1 lượt, có thể kháng 1 lần hiệu ứng khống chế",
-            "en": "After playing a tune, grants her [buff_3532_1] that lasts 1 turn and negates controlling effects once.",
-            "zh": "弹奏律音后自身获得[buff_3532_1]1回合，可抵抗1次控制效果"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Sau khi gẩy luật âm bản thân nhận Che Chắn 1 lượt, có thể kháng 1 lần hiệu ứng khống chế",
+            "vi": "Sau khi gẩy luật âm bản thân nhận [tips_14] 1 lượt, có thể kháng 1 lần hiệu ứng khống chế",
             "en": "After playing a tune, gains her Shelter that lasts 1 turn and negates controlling effects once.",
             "zh": "弹奏律音后自身获得庇护1回合，可抵抗1次控制效果"
           }
@@ -168,18 +160,135 @@
             "en": "Reduces the orb cost of playing a tune by 1 orb.",
             "zh": "弹奏律音消耗鬼火减少1点"
           }
-        },
-        {
-          "level": 6,
-          "text": {
-            "vi": "Gẩy luật âm tiêu hao Quỷ Hỏa giảm 1 điểm",
-            "en": "Reduces the orb cost of playing a tune by 1 orb.",
-            "zh": "弹奏律音消耗鬼火减少1点"
-          }
         }
       ],
       "orbCost": 0,
       "iconFile": "3532.png"
+    },
+    {
+      "id": 3534,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 3532,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Cung: Xích Chi Hà",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khẩn Na La tấn công một kẻ địch gây lượng sát thương tương đương 150% Tấn Công của nàng, đồng thời có 100% tỷ lệ cơ bản gây hiệu ứng [tips_19] lên mục tiêu, duy trì trong 2 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3532b.png"
+    },
+    {
+      "id": 3535,
+      "number": 2,
+      "variantOrder": 2,
+      "parentSkillId": 3532,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Thương: Sơn Xuy",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khẩn Na La tung ra đòn tấn công 5 lần liên tiếp vào các kẻ địch ngẫu nhiên, mỗi lần gây lượng sát thương tương đương 90% Tấn Công của nàng. Đòn tấn công này không kích hoạt Ngự Hồn của kẻ địch.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3532c.png"
+    },
+    {
+      "id": 3536,
+      "number": 2,
+      "variantOrder": 3,
+      "parentSkillId": 3532,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Dốc: Thần Cung Hoa Huy",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khẩn Na La kéo 10% thanh hành động cho toàn bộ đồng minh và tăng 40% Sát Thương Bạo Kích cho họ, duy trì trong 2 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3532d.png"
+    },
+    {
+      "id": 3537,
+      "number": 2,
+      "variantOrder": 4,
+      "parentSkillId": 3532,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Chủy: Huân Phong",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khẩn Na La hồi phục cho toàn bộ đồng minh một lượng Máu tương đương 80% Tấn Công của nàng, đồng thời tăng 40% Phòng Ngự cho họ, duy trì trong 2 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3532e.png"
+    },
+    {
+      "id": 3538,
+      "number": 2,
+      "variantOrder": 5,
+      "parentSkillId": 3532,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Vũ: Triệt",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khẩn Na La cung cấp 1 Quỷ Hỏa và giải trừ 1 debuff hoặc hiệu ứng khống chế cho toàn bộ đồng minh. Nếu số debuff hoặc hiệu ứng khống chế được giải trừ không quá 3, nàng sẽ cung cấp thêm 1 Quỷ Hỏa nữa.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3532f.png"
     },
     {
       "id": 3533,
@@ -232,7 +341,7 @@
           "text": {
             "vi": "Đòn tấn công sẽ đính kèm toàn bộ hiệu ứng [Luật Âm] đã từng gẩy",
             "en": "Attack inflicts the effects of all the Tunes she played.",
-            "zh": "攻击会附加弹奏过的全部『律音]效果"
+            "zh": "攻击会附加弹奏过的全部[律音]效果"
           }
         }
       ],

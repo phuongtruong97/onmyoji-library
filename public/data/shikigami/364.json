@@ -124,7 +124,7 @@
         "zh": "用你的哀嚎，取悦我。"
       },
       "description": {
-        "vi": "Bắt đầu chiến đấu và đầu lượt, nhận 9 điểm [buff_3641_1]. Khi [buff_3641_1] không đủ 9 điểm, miễn dịch [tips_3] và [tips_109]. Trước mỗi lần tấn công tiêu hao số lượng [buff_3641_1] tương ứng với số lượng mục tiêu bị tấn công.\nNếu Tốc độ ban đầu của Tu La nhanh hơn Tốc độ ban đầu của mục tiêu bị tấn công, sát thương gây ra tăng 10%.",
+        "vi": "Bắt đầu chiến đấu và đầu lượt, nhận 9 điểm [buff_3641_1]. Khi [buff_3641_1] không đủ 9 điểm, miễn dịch [tips_3] và [tips_109]. Trước mỗi lần tấn công tiêu hao số lượng [buff_3641_1] tương ứng với số lượng mục tiêu bị tấn công.\nNếu Tốc độ ban đầu của Asura nhanh hơn Tốc độ ban đầu của mục tiêu bị tấn công, sát thương gây ra tăng 10%.",
         "en": "战斗和回合开始时，获得9点[buff_3641_1]。当[buff_3641_1]不足9点时，免疫[tips_3]和[tips_109]。每次攻击前消耗对应攻击目标数量的[buff_3641_1]。\n若阿修罗的初始速度快于被攻击目标的初始速度，造成的伤害增加10%。",
         "zh": "战斗和回合开始时，获得9点[buff_3641_1]。当[buff_3641_1]不足9点时，免疫[tips_3]和[tips_109]。每次攻击前消耗对应攻击目标数量的[buff_3641_1]。\n若阿修罗的初始速度快于被攻击目标的初始速度，造成的伤害增加10%。"
       },
@@ -132,7 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 8%",
+            "vi": "Hiệu ứng áp chế sát thương của Lý Tính giảm xuống 8%",
             "en": "Reduces Sanity's damage suppressing effect to 8%.",
             "zh": "理性对伤害的压制效果降低至8%"
           }
@@ -140,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 7%",
+            "vi": "Hiệu ứng áp chế sát thương của Lý Tính giảm xuống 7%",
             "en": "Reduces Sanity's damage suppressing effect to 7%.",
             "zh": "理性对伤害的压制效果降低至7%"
           }
@@ -148,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Hiệu ứng áp chế sát thương của lí tính giảm xuống 6%",
+            "vi": "Hiệu ứng áp chế sát thương của Lý Tính giảm xuống 6%",
             "en": "Reduces Sanity's damage suppressing effect to 6%.",
             "zh": "理性对伤害的压制效果降低至6%"
           }
@@ -156,7 +156,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Mỗi khi mất 1 điểm lí tính, sát thương gánh chịu giảm 6%",
+            "vi": "Mỗi khi mất 1 điểm Lý Tính, sát thương gánh chịu giảm 6%",
             "en": "Each point of Sanity he has lost reduces his damage taken by 6%.",
             "zh": "每失去1点理性，受到的伤害降低6%"
           }
@@ -164,6 +164,31 @@
       ],
       "orbCost": 0,
       "iconFile": "3642.png"
+    },
+    {
+      "id": 3644,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Vô Gian Sát Lục",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Asura được miễn nhiễm với các hiệu ứng khống chế và các hiệu ứng tương tự như Trục Xuất. Khi bắt đầu lượt của mình, hắn sẽ tự động sử dụng kỹ năng này. Khi kết thúc lượt của một đồng minh không triệu hồi khác, hồi 1 điểm Lý Tính. Nếu có Đế Thích Thiên cùng phe, khi kết thúc lượt của Taishakuten, Asura sẽ hồi phục thêm 3 điểm Lý Tính.\n[Thi triển] Nếu Asura không có đủ 9 điểm Lý Tính lúc bắt đầu lượt, một cự kiếm sẽ được triệu hồi để tấn công một mục tiêu ngẫu nhiên ngoại trừ bản thân, gây lượng sát thương tương đương 263% Tấn Công của hắn. Sau đó, triệu hồi một cơn mưa kiếm giáng lên toàn bộ các mục tiêu còn lại, gây lượng sát thương tương đương 113% Tấn Công của hắn.\nNếu Asura có đủ 9 điểm Lý Tính, kỹ năng này sẽ chuyển đổi trở lại thành [Thiên Ma Uy Áp].",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3644.png"
     },
     {
       "id": 3643,
@@ -182,7 +207,7 @@
         "zh": "我所至之处，皆将毁灭。"
       },
       "description": {
-        "vi": "Xung phong vào trận hình kẻ địch giáng xuống bàn tay thiên ma, gây cho toàn bộ kẻ địch sát thương bằng 315% Tấn công; sau đó gây cho mục tiêu kẻ địch sát thương truy kích bằng 63% Tấn công, cho đến khi mất toàn bộ lí tính. Nếu khi hạ gục mục tiêu mà lí tính chưa dùng hết, sẽ chuyển sang tấn công mục tiêu kẻ địch khác có sinh mệnh thấp nhất.",
+        "vi": "Xung phong vào trận hình kẻ địch giáng xuống bàn tay thiên ma, gây cho toàn bộ kẻ địch sát thương bằng 315% Tấn công; sau đó gây cho mục tiêu kẻ địch sát thương truy kích bằng 63% Tấn công, cho đến khi mất toàn bộ Lý Tính. Nếu khi hạ gục mục tiêu mà Lý Tính chưa dùng hết, sẽ chuyển sang tấn công mục tiêu kẻ địch khác có sinh mệnh thấp nhất.",
         "en": "Plunges into the enemy lineup and summons forth a giant hand to attack all enemies, dealing damage equal to 315% of his ATK. Then inflicts a follow-up attack on the enemy until his Sanity points are fully consumed, dealing damage equal to 63% of his ATK on each attack. If the target is KO'd and he still has Sanity left, he will then attack another enemy with the lowest HP.",
         "zh": "冲入敌方阵营降下天魔巨手，对敌方全体造成攻击315%的伤害；再对敌方目标造成攻击63%的追击伤害，直到失去所有理性。若击败目标时理性未用尽，则转化攻击生命最低的另一敌方目标。"
       },
@@ -214,7 +239,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Nếu khi hạ gục mục tiêu mà lí tính chưa dùng hết, sẽ chuyển sang tấn công mục tiêu kẻ địch khác có sinh mệnh thấp nhất",
+            "vi": "Nếu khi hạ gục mục tiêu mà Lý Tính chưa dùng hết, sẽ chuyển sang tấn công mục tiêu kẻ địch khác có sinh mệnh thấp nhất",
             "en": "If the target is KO'd and he still has Sanity left, he will then attack another enemy with the lowest HP.",
             "zh": "若击败目标时理性未用尽，则转化攻击生命最低的另一敌方目标"
           }

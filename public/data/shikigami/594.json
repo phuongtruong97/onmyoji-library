@@ -149,7 +149,7 @@
           "level": 4,
           "text": {
             "vi": "Bất kỳ lượt nào, khi bản thân chịu sát thương cộng dồn lớn hơn 20% HP ban đầu, thi triển [skill_5942_1]. (Trước khi lượt của bản thân bắt đầu giới hạn 1 lần)",
-            "en": "In any turn, when cumulative damage taken exceeds 20% of max HP, casts [skill_5942_1]. ((Up to once before their next turn).",
+            "en": "In any turn, when cumulative damage taken exceeds 20% of max HP, casts [skill_5942_1]. (Up to once before their next turn).",
             "zh": "任意回合，自身累计受到大于初始生命20%的伤害时，施放[skill_5942_1]。(自身回合开始前限1次）)"
           }
         },

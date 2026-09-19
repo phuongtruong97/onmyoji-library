@@ -200,7 +200,7 @@
           "text": {
             "vi": "Mỗi khi tiêu hao 1 điểm [buff_3993_1], có 40% [tips_2] Câm Lặng mục tiêu đó, duy trì 1 lượt. Không kích hoạt hiệu ứng này khi thi triển [Cuống Mặc]",
             "en": "Each 1 [buff_3993_1] the enemy used has a 40% [tips_2] of inflicting Silence lasting 1 turn on the enemy. Using Lies Silenced won't trigger the effect.",
-            "zh": "每消耗1点[buff_3993_1]，有40%[tips_2]沉默该目标，持续1个回合。施放「诳默]时不触发此效果"
+            "zh": "每消耗1点[buff_3993_1]，有40%[tips_2]沉默该目标，持续1个回合。施放[诳默]时不触发此效果"
           }
         },
         {

@@ -124,7 +124,7 @@
         "zh": "任务目标已锁定。"
       },
       "description": {
-        "vi": "[tips_11]. Áp đặt [buff_5931_1] lên mục tiêu kẻ địch chỉ định; khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 90%, bản thân tăng 60 điểm tốc độ. Khi [buff_5931_1] tồn tại, sát thương do bản thân gây ra được xem như [tips_19]. Khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 60%, hiệu quả [Truy Liệp Tân Chương] của bản thân tăng gấp đôi. [tips_7]: Thi triển lên mục tiêu kẻ địch không phải vật triệu hồi có tốc độ cao nhất.",
+        "vi": "[tips_11]. Áp đặt [buff_5931_1] lên mục tiêu kẻ địch chỉ định; khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 90%, bản thân tăng 60 điểm tốc độ. Khi [buff_5931_1] tồn tại, sát thương do bản thân gây ra được xem như [tips_19]. Khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 60%, hiệu quả [Truy Liệp Tân Chương] của bản thân tăng gấp đôi. \n[tips_7]: Thi triển lên mục tiêu kẻ địch không phải vật triệu hồi có tốc độ cao nhất.",
         "en": "[tips_11]. Inflicts [buff_5931_1] on the selected enemy target; when the target with [buff_5931_1] has HP below 90%, she gains 60 SPD. While [buff_5931_1] is active, damage dealt is treated as [tips_19]. When the target with [buff_5931_1] has HP below 60%, doubles the effect of Edge Rebirth. [tips_7]: Targets the enemy with the highest SPD that is non-summoned entity.",
         "zh": "[tips_11]。为指定敌方目标施加[buff_5931_1]；处于[buff_5931_1]的目标生命低于90%时，自身提升60点速度。[buff_5931_1]存在时，自身造成伤害视同[tips_19]。处于[buff_5931_1]目标的生命低于60%时，自身『追猎新章]效果加倍。[tips_7]：对敌方速度最快的非召唤物目标施放。"
       },
@@ -150,7 +150,7 @@
           "text": {
             "vi": "Khi mục tiêu ở trạng thái [buff_5931_1] có HP thấp hơn 60%, hiệu quả giảm sát thương và xác suất miễn dịch khống chế của [Truy Liệp Tân Chương] tăng gấp đôi.",
             "en": "When the target with [buff_5931_1] has HP below 60%, the damage reduction effect and the immunity to control chance of Edge Rebirth are doubled.",
-            "zh": "处于[buff_5931_1]的目标生命低于60%时，『追猎新章]受到伤害降低效果与免疫控制概率加倍"
+            "zh": "处于[buff_5931_1]的目标生命低于60%时，[追猎新章]受到伤害降低效果与免疫控制概率加倍"
           }
         },
         {

@@ -148,8 +148,8 @@
         {
           "level": 4,
           "text": {
-            "vi": "Toàn thể đồng minh cứ chịu 1 lần sát thương bạo kích từ kẻ địch, bản thân tăng 10% thanh hành động ((tối đa kích hoạt 1 lần trong một lần tấn công).",
-            "en": "For all allies, each time they take critical damage, raises his own Move Bar by 10%((triggers up to once for a single attack).",
+            "vi": "Toàn thể đồng minh cứ chịu 1 lần sát thương bạo kích từ kẻ địch, bản thân tăng 10% thanh hành động (tối đa kích hoạt 1 lần trong một lần tấn công).",
+            "en": "For all allies, each time they take critical damage, raises his own Move Bar by 10%(triggers up to once for a single attack).",
             "zh": "全体友方每受到敌方1次暴击伤害，自身增加10%行动条 (单次攻击内最多触发1次）)"
           }
         },
