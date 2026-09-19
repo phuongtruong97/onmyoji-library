@@ -1421,7 +1421,7 @@
       "zh": ""
     },
     "description": {
-      "vi": "Mỗi khi Thạch Lãng tấn công 1 mục tiêu, sát thương giảm 10%. Khi Otakemaru tử trận hoặc toàn bộ kẻ địch ngoài mục tiêu bị trục xuất đều đã tử trận, Kiếm Ngục lập tức đóng lại.\nNếu khi thi triển chỉ có 1 kẻ địch, hoặc mục tiêu miễn nhiễm hiệu ứng khống chế thì sẽ không mở Kiếm Ngục, nhưng Thạch Lãng sẽ gây gấp đôi sát thương lên mục tiêu đó.",
+      "vi": "Mỗi mục tiêu Sóng Đá tấn công, sát thương giảm 10%. Khi Otakemaru tử trận hoặc toàn bộ kẻ địch ngoài mục tiêu bị trục xuất đều đã tử trận, Kiếm Ngục lập tức đóng lại.\nNếu khi thi triển chỉ có 1 kẻ địch, hoặc mục tiêu miễn nhiễm hiệu ứng khống chế thì sẽ không mở Kiếm Ngục, nhưng Sóng Đá sẽ gây gấp đôi sát thương lên mục tiêu đó.",
       "en": "Reduces the damage dealt by Wave of Rocks by 10% for each enemy it attacks. Blade Prison ends immediately when Otakemaru or all enemies other than the banished enemy are KO'd.\nIf there's only 1 enemy when using the skill or if the enemy is immune to controlling effects, Blade Prison cannot be created. Wave of Rocks deals double damage to the enemy instead.",
       "zh": "石浪每攻击1个目标，伤害降低10%。大岳丸死亡或被放逐目标之外的敌方全部死亡时，剑狱即刻关闭。\n若施放时只有1名敌方、或目标免疫控制效果，则不开启剑狱，但石浪将对其造成双倍伤害。"
     },
@@ -1635,7 +1635,7 @@
       "en": "When inflicted with a debuff or controlling effect, dispels 1 debuff or controlling effect immediately and raises the Move Bar by 10%. The dispel effect can be triggered up to once each turn. When the effect is triggered, recovers the HP of the ally with the lowest proportion of HP by 240% of Ungaikyo's DEF. Creates a Mirror Shield to protect the ally when they lose or regain Mirror's Protection.",
       "zh": "受到减益效果或者控制效果时，立刻驱散1个减益状态或控制效果并增加其10%行动条；驱散效果每回合最多触发1次，触发时为当前生命比例最低的友方恢复云外镜防御240%的生命。失去或重复获得[镜佑]时，获得[镜盾]。"
     },
-    "iconFile": "3444.png"
+    "iconFile": "Buff61.png"
   },
   "buff_3447_1": {
     "kind": "buff",
@@ -1645,11 +1645,11 @@
       "zh": "镜怒"
     },
     "description": {
-      "vi": "Tiêu hao Kính Nộ để triệt tiêu vào lần tiếp theo khi mục tiêu nhận 1 trạng thái có lợi có thể xua tan.",
+      "vi": "Tiêu hao Kính Nộ để triệt tiêu 1 trạng thái có lợi có thể xua tan.",
       "en": "Mirror's Wrath is consumed the next time the target receives a dispel-able buff to negate the buff.",
       "zh": "在目标下一次获得1个可驱散的增益状态时消耗镜怒，将其抵消。"
     },
-    "iconFile": "3447.png"
+    "iconFile": "Debuff46.png"
   },
   "buff_3451_1": {
     "kind": "buff",
@@ -4297,6 +4297,34 @@
     },
     "iconFile": ""
   },
+  "buff_3381_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Chúc Phúc Tân Nguyệt",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Nhận 20% kháng bạo kích với mỗi tầng Tân Nguyệt Chúc Phúc. Khi kết thúc lượt, chuyển hóa 1 tầng Tân Nguyệt Chúc Phúc thành 20% tăng sát thương gây ra.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "skill_33821_1": {
+    "kind": "skill",
+    "title": {
+      "vi": "Xâm Lược",
+      "en": "Ignis ",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khiến sát thương mà Nguyệt Chi Áo Nghĩa gây ra cho mục tiêu có tỷ lệ HP trên 50% bỏ qua 180 Phòng Thủ.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "3382b.png"
+  },
   "skill_33822_1": {
     "kind": "skill",
     "title": {
@@ -4309,7 +4337,7 @@
       "en": "Allows each attack of Moon's Secrets to dispel 1 buff from the target. If no buff was dispelled, lowers the target's Move Bar by 5% instead.",
       "zh": "使月之奥义每次攻击时驱散目标1个增益效果，若无可驱散增益则击退目标行动条5%"
     },
-    "iconFile": ""
+    "iconFile": "3382c.png"
   },
   "skill_33823_1": {
     "kind": "skill",
@@ -4323,7 +4351,7 @@
       "en": "Increases damage dealt by Moon's Secrets by 30% against targets with HP below 50%.",
       "zh": "使月之奥义对生命比例低于50%的目标造成的伤害提升30%"
     },
-    "iconFile": ""
+    "iconFile": "3382d.png"
   },
   "skill_33824_1": {
     "kind": "skill",
@@ -4337,7 +4365,7 @@
       "en": "Prevents damage dealt by Moon's Secrets from triggering the target's Soul effects. She gains Moon Shelter for 1 turn, negating controlling effects and Banish once.",
       "zh": "使月之奥义伤害不会触发目标御魂效果，并使自身获得月之庇护1回合，可抵挡1次控制效果和放逐"
     },
-    "iconFile": ""
+    "iconFile": "3382e.png"
   },
   "skill_3421_1": {
     "kind": "skill",
@@ -6330,7 +6358,7 @@
   "tips_9": {
     "kind": "tip",
     "title": {
-      "vi": "",
+      "vi": "Hiệp chiến",
       "en": "",
       "zh": ""
     },

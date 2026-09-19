@@ -160,7 +160,7 @@
       "description": {
         "vi": "Mặt quỷ khổng lồ lao về phía toàn bộ phe địch, gây sát thương bằng 130% Tấn công, và khiến bản thân cuồng bạo, thay thế Đánh Thường thành [skill_2714_1], duy trì 2 lượt.",
         "en": "Summons a giant mask to attack all enemies, dealing damage equal to 130% of his ATK. Also puts him in the Berserk state, changing his normal attack to [skill_2714_1] for 2 turns.",
-        "zh": "巨大的鬼面袭向敌方全体，造成攻击130%伤害，并使自身狂暴，替换普攻为『[skill_2714_1]，持续2回合。"
+        "zh": "巨大的鬼面袭向敌方全体，造成攻击130%伤害，并使自身狂暴，替换普攻为[[skill_2714_1]，持续2回合。"
       },
       "upgrades": [
         {

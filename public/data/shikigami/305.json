@@ -68,7 +68,7 @@
       "description": {
         "vi": "Sử dụng bùa chú tấn công mục tiêu kẻ địch, hé lộ [Hình] của mục tiêu, gây sát thương bằng 125% Tấn công.",
         "en": "Uses an amulet to attack and reveal the Shape of a target, dealing damage equal to 125% of his ATK.",
-        "zh": "使用符咒攻击敌方目标，揭示目标之『形]，造成攻击125%伤害。"
+        "zh": "使用符咒攻击敌方目标，揭示目标之[形]，造成攻击125%伤害。"
       },
       "upgrades": [
         {

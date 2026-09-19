@@ -68,7 +68,7 @@
       "description": {
         "vi": "Sử dụng càng cua và nắm đấm tấn công mục tiêu kẻ địch 2 lần, gây sát thương bằng 62.5% Tấn công, nếu trong lượt bản thân liền tăng 30 Tốc độ, duy trì 1 lượt, và khiến lần thi triển [skill_3353_1] tiếp theo không tự gõ choáng mình.",
         "en": "Uses her crab claws and fists to attack 1 enemy twice, dealing damage equal to 62.5% of her ATK each time, and increasing her SPD by 30 for 1 turn if it's her turn. She won't inflict [skill_3353_1] on herself the next time she uses Conch Blow.",
-        "zh": "使用蟹钳和拳头攻击敌方目标2次，造成攻击62.5%的伤害，若在自身回合则提升30速度，持续1回合，并使下一次释放『[skill_3353_1]时不会锤晕自己。"
+        "zh": "使用蟹钳和拳头攻击敌方目标2次，造成攻击62.5%的伤害，若在自身回合则提升30速度，持续1回合，并使下一次释放[[skill_3353_1]时不会锤晕自己。"
       },
       "upgrades": [
         {

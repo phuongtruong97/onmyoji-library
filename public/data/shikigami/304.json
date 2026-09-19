@@ -68,7 +68,7 @@
       "description": {
         "vi": "Tấn công mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công.\nSau khi kẻ địch hành động, có 5% xác suất thi triển [Nhất Thỉ • Phong Ma] lên kẻ đó, gây sát thương tương đương [Nhất Thỉ], và có 100% [tips_2] khiến kẻ đó [tips_104], [tips_105], [tips_106], giảm 75% trị liệu, đồng thời không kích hoạt Ngự Hồn và Nội Tại của kẻ đó.",
         "en": "Attacks 1 enemy, dealing damage equal to 100% of her ATK.\nAfter an enemy takes an action, has a 5% chance of releasing an Arrow of Sealing at the enemy, dealing damage equal to Divine Arrow's damage with a 100% [tips_2] of inflicting [tips_104], [tips_105], [tips_106] or 75% Heal Down upon the enemy. Arrow of Sealing does not trigger soul effects or passive skills of the target.",
-        "zh": "攻击敌方目标，造成攻击100%伤害。\n敌方行动后，有5%概率对其施放『一矢·封魔]，造成等同『一矢]伤害，并有100%[tips_2]使其[tips_104]、[tips_105]、[tips_106]、减疗75%，且不触发其御魂及被动。"
+        "zh": "攻击敌方目标，造成攻击100%伤害。\n敌方行动后，有5%概率对其施放[一矢·封魔]，造成等同[一矢]伤害，并有100%[tips_2]使其[tips_104]、[tips_105]、[tips_106]、减疗75%，且不触发其御魂及被动。"
       },
       "upgrades": [
         {
@@ -126,7 +126,7 @@
       "description": {
         "vi": "Tạo ra kết giới tồn tại 1 lượt, khiến tỷ lệ thi triển [Nhất Thỉ • Phong Ma] tăng lên 40%, đồng thời khi thi triển sẽ nhận 4 tầng [buff_3041_1], giới hạn 12 tầng.\n[tips_7]: Thi triển [Hồ Thụ Giới]",
         "en": "Forms a Fox Realm lasting 1 turn. The realm increases her chance of releasing Arrow of Seal to 40% and grants her 4 layers of [buff_3041_1] stacking up to 12 layers.\n[tips_7]: Forms a Fox Realm.",
-        "zh": "创造存在1回合的结界，使『一矢·封魔]的施放概率提升至40%，且在施放时将获得4层[buff_3041_1]，上限12层。\n[tips_7]：施放『狐狩界]"
+        "zh": "创造存在1回合的结界，使[一矢·封魔]的施放概率提升至40%，且在施放时将获得4层[buff_3041_1]，上限12层。\n[tips_7]：施放[狐狩界]"
       },
       "upgrades": [
         {

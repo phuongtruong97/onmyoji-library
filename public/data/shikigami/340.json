@@ -126,7 +126,7 @@
       "description": {
         "vi": "Bất kỳ kẻ địch nào thi triển kỹ năng, bản thân nhận 1 tầng [buff_3402_1], giới hạn 3 tầng, duy trì 1 lượt.\nKhi lượt bắt đầu, xua tan trạng thái giảm ích cùng [tips_3] mang trên bản thân, và tiêu hao số tầng [buff_3402_1] tương ứng.\nKhi thi triển [Chỉ Nhẫn Phiên Xiên], mỗi tầng [buff_3402_1] có thể làm Quỷ Hỏa tiêu hao giảm 1 điểm",
         "en": "When a enemy uses a skill, Kamimai gains a layer of [buff_3402_1] (max 3 layers) for 1 turn.\nDispels all debuffs and [tips_3]s on her at the start of her turn and consumes a corresponding number of [buff_3402_1] layers.\nWhen using Dancing Papers, each layer of [buff_3402_1] reduces the orb cost by 1.",
-        "zh": "任一敌方施放技能时，自身获得1层[buff_3402_1]，上限3层，持续1回合。\n回合开始时，驱散自身带有的减益状态和[tips_3]，并消耗等量层数的[buff_3402_1]。\n施放『纸刃翩跹]时，每层[buff_3402_1]可使鬼火消耗减少1点"
+        "zh": "任一敌方施放技能时，自身获得1层[buff_3402_1]，上限3层，持续1回合。\n回合开始时，驱散自身带有的减益状态和[tips_3]，并消耗等量层数的[buff_3402_1]。\n施放[纸刃翩跹]时，每层[buff_3402_1]可使鬼火消耗减少1点"
       },
       "upgrades": [
         {

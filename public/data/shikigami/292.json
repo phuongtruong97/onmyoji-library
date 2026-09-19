@@ -68,7 +68,7 @@
       "description": {
         "vi": "Rút danh đao [Yuki-zane] từ chắn đao trước ngực, vung một đợt chém uy lực tấn công mục tiêu kẻ địch, gây sát thương 100%.",
         "en": "Draws Snow Chaser from its sheath and slashes 1 enemy, dealing damage equal to 100% of his ATK.",
-        "zh": "从胸前刀镡处拔出名刀『雪走]，挥出强力砍击攻击敌方目标，造成攻击100%伤害。"
+        "zh": "从胸前刀镡处拔出名刀[雪走]，挥出强力砍击攻击敌方目标，造成攻击100%伤害。"
       },
       "upgrades": [
         {
@@ -159,8 +159,8 @@
       },
       "description": {
         "vi": "Dùng danh đao [Tuyết Tẩu] tấn công mục tiêu phe địch 3 lần, mỗi lần gây sát thương bằng 140% Tấn công, đồng thời tăng 200% Hiệu Ứng Chính Xác cho đến khi kết thúc lượt. Sau khi gây hiệu ứng [tips_5671], trả lại 1 điểm quỷ hỏa.",
-        "en": "使用名刀『雪走]攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。",
-        "zh": "使用名刀『雪走]攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。"
+        "en": "使用名刀[雪走]攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。",
+        "zh": "使用名刀[雪走]攻击敌方目标3次，每次造成攻击140%伤害，并使效果命中提升200%直到回合结束。造成[tips_5671]效果后，返还1点鬼火。"
       },
       "upgrades": [
         {

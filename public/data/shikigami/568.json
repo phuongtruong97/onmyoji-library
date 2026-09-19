@@ -68,7 +68,7 @@
       "description": {
         "vi": "Lộc hồn trú ngụ trong thân thể này, vung ra bạch nhẫn [Trục Ảnh] trảm kích mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công; khi mục tiêu kẻ địch sở hữu Lá chắn, sát thương bản thân gánh chịu giảm 50%.",
         "en": "Wields her white hot Shadowchaser, home of the mountain's soul, to attack 1 enemy, dealing damage equal to 120% of her ATK. As long as an enemy has a shield, reduces her damage taken by 50%.",
-        "zh": "麓魂宿于此身，挥出白刃『逐影]斩击敌方目标，造成攻击120%伤害；敌方目标拥有护盾时，自身受到的伤害降低50%。"
+        "zh": "麓魂宿于此身，挥出白刃[逐影]斩击敌方目标，造成攻击120%伤害；敌方目标拥有护盾时，自身受到的伤害降低50%。"
       },
       "upgrades": [
         {

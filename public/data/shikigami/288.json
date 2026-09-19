@@ -126,7 +126,7 @@
       "description": {
         "vi": "[tips_11].\nKẻ địch trong biển hoa, khi bắt đầu lượt, mỗi tầng biển hoa gây cho kẻ đó sát thương bằng 48% Tấn công.\nKhi tỷ lệ HP bản thân ở 100%, 75%, 50%, 25%, giới hạn biển hoa là 3, 4, 5, 6 tầng; khi bắt đầu lượt tự động giảm 1 tầng biển hoa, ít nhất không thấp hơn 1 tầng.\nTỷ lệ HP cứ giảm 25%, nhận 1 tầng biển hoa và [tips_6] của [Huyết Chi Hoa Hải].\n[tips_7]: Tạo ra 3 tầng biển hoa, bao vây toàn bộ phe địch.",
         "en": "[tips_11].\nOn turn start of an enemy surrounded by flowers, each layer of flowers deals damage to them equal to 48% of her ATK.\nFlowers are limited to 3/4/5/6 layers while her HP is at 100%/75%/50%/25%. The flowers decrease by 1 layer on each of her turns, to a minimum of 1 layer.\nGains a layer of flowers and a [tips_6] created by Blood-soaked Flowers for each 25% of her HP reduced.\n[tips_7]: Creates 3 layers of flowers to surround all enemies with.",
-        "zh": "[tips_11]。\n花海中的敌方，在回合开始时，每层花海对其造成攻击48%伤害。\n自身生命比例100%、75%、50%、25%时，花海上限为3、4、5、6层；回合开始时自动减少1层花海，最少不低于1层。\n生命比例每降低25%，获得1层花海及『血之花海]的[tips_6]。\n[tips_7]：创造3层花海，包围敌方全体。"
+        "zh": "[tips_11]。\n花海中的敌方，在回合开始时，每层花海对其造成攻击48%伤害。\n自身生命比例100%、75%、50%、25%时，花海上限为3、4、5、6层；回合开始时自动减少1层花海，最少不低于1层。\n生命比例每降低25%，获得1层花海及[血之花海]的[tips_6]。\n[tips_7]：创造3层花海，包围敌方全体。"
       },
       "upgrades": [
         {

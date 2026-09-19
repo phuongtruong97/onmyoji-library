@@ -126,7 +126,7 @@
       "description": {
         "vi": "Mỗi khi kẻ địch hành động, nếu bản thân không ở trạng thái [tips_17], nhận 1 hạt phật châu.\nTrong thời gian đả tọa của [skill_3013_1], khi không có phật châu sẽ lập tức nhận 1 hạt phật châu.",
         "en": "Whenever an enemy takes an action, if she is not [tips_17], grants her 1 Buddhist Bead.\nWhile she's meditating for [skill_3013_1], immediately grants her 1 Buddhist Bead if she doesn't have any.",
-        "zh": "敌方每次行动，若自身未处于[tips_17]，获得1颗佛珠。\n『[skill_3013_1]打坐期间，没有佛珠时将立即获得1颗佛珠。"
+        "zh": "敌方每次行动，若自身未处于[tips_17]，获得1颗佛珠。\n[[skill_3013_1]打坐期间，没有佛珠时将立即获得1颗佛珠。"
       },
       "upgrades": [
         {

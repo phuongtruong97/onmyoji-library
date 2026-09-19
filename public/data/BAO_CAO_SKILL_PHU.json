@@ -177,6 +177,34 @@
       "existsInWorkbook": true
     },
     {
+      "heroId": 338,
+      "slot": 2,
+      "parentSkillId": 3382,
+      "referencedSkillId": 33821,
+      "existsInWorkbook": false
+    },
+    {
+      "heroId": 338,
+      "slot": 2,
+      "parentSkillId": 3382,
+      "referencedSkillId": 33822,
+      "existsInWorkbook": false
+    },
+    {
+      "heroId": 338,
+      "slot": 2,
+      "parentSkillId": 3382,
+      "referencedSkillId": 33823,
+      "existsInWorkbook": false
+    },
+    {
+      "heroId": 338,
+      "slot": 2,
+      "parentSkillId": 3382,
+      "referencedSkillId": 33824,
+      "existsInWorkbook": false
+    },
+    {
       "heroId": 342,
       "slot": 3,
       "parentSkillId": 3423,
@@ -393,6 +421,30 @@
       "slot": 2,
       "parentSkillId": 2202,
       "candidateSkillId": 2204
+    },
+    {
+      "heroId": 338,
+      "slot": 2,
+      "parentSkillId": 3382,
+      "candidateSkillId": 33821
+    },
+    {
+      "heroId": 338,
+      "slot": 2,
+      "parentSkillId": 3382,
+      "candidateSkillId": 33822
+    },
+    {
+      "heroId": 338,
+      "slot": 2,
+      "parentSkillId": 3382,
+      "candidateSkillId": 33823
+    },
+    {
+      "heroId": 338,
+      "slot": 2,
+      "parentSkillId": 3382,
+      "candidateSkillId": 33824
     }
   ]
 }

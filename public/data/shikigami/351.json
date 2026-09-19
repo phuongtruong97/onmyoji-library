@@ -67,8 +67,8 @@
       },
       "description": {
         "vi": "Tấn công bằng bạch nhận [Trục Ảnh], gây cho mục tiêu phe địch sát thương bằng 125% Tấn công.",
-        "en": "以白刃『逐影]攻击，对敌方目标造成攻击125%伤害。",
-        "zh": "以白刃『逐影]攻击，对敌方目标造成攻击125%伤害。"
+        "en": "以白刃[逐影]攻击，对敌方目标造成攻击125%伤害。",
+        "zh": "以白刃[逐影]攻击，对敌方目标造成攻击125%伤害。"
       },
       "upgrades": [
         {
@@ -126,7 +126,7 @@
       "description": {
         "vi": "Vung [Minh Cung] tấn công, gây sát thương 211% cho mục tiêu kẻ địch, sau đó bước vào [buff_3512_1], trong thời gian đó bản thân tăng 50% kháng hiệu ứng và 100% kháng bạo kích, duy trì đến khi bắt đầu lượt kế tiếp; khiến mục tiêu tấn công lập tức nhận lượt mới, nếu mục tiêu không ở trạng thái không thể hành động, cưỡng chế sử dụng đòn đánh thường tấn công Linh Lộc Ngự Tiền; đính kèm [buff_3511_1] cho toàn thể đồng minh, duy trì 1 lượt. \nSau khi [Thi Triển], toàn thể đồng minh tăng 10% thanh hành động.",
         "en": "Wields her Nether Bow to attack 1 enemy, dealing damage equal to 211% of her ATK and gaining [buff_3512_1] until her next turn. Her Effect RES and Crit RES are increased until her next turn by 50% and 100% respectively. Also grants the attacked enemy a new turn. If they are able to take action, they will be forced to launch a normal attack at Suzuka Gozen. Then, grants [buff_3511_1]s to all allies for 1 turn. After using the skill, the Move Bar of all allies will be raised by 10%.",
-        "zh": "挥动『冥弓]攻击，对敌方目标造成攻击211%伤害，之后进入[buff_3512_1]，期间自身提升50%效果抵抗和100%暴击抵抗，持续至下个回合开始；使攻击目标立刻获得新的回合，若其未处于无法动作，则强制使用普攻攻击铃鹿御前；为友方全体附加[buff_3511_1]，持续1回合。施放后友方全体增加10%行动条。"
+        "zh": "挥动[冥弓]攻击，对敌方目标造成攻击211%伤害，之后进入[buff_3512_1]，期间自身提升50%效果抵抗和100%暴击抵抗，持续至下个回合开始；使攻击目标立刻获得新的回合，若其未处于无法动作，则强制使用普攻攻击铃鹿御前；为友方全体附加[buff_3511_1]，持续1回合。施放后友方全体增加10%行动条。"
       },
       "upgrades": [
         {
@@ -184,7 +184,7 @@
       "description": {
         "vi": "Ngưng tụ sức mạnh của hai loại vũ khí, bắn [Trục Ảnh] thông qua [Minh Cung], tấn công toàn thể kẻ địch 5 lần, mỗi lần gây sát thương 53%, đòn tấn công kèm theo 10% hút máu. Toàn thể đồng minh cứ tiêu hao 1 điểm Quỷ Hỏa, bản thân tăng 2% tấn công và phòng thủ, tối đa 50 tầng.",
         "en": "Combines the power of her two weapons and shoots Shadowchaser with her Nether Bow to launch a 5-strike attack on all enemies, dealing damage equal to 53% of her ATK with each strike. Her attack also inflicts a 10% HP Steal. Each Orb spent by any ally increases her ATK and DEF by 2%. Max 50 stacks.",
-        "zh": "汇聚两把武器之力，将『逐影]借由『冥弓]射出，攻击敌方全体5次，每次造成攻击53%伤害，攻击附带10%吸血。友方全体每消耗1点鬼火，自身增加2%攻击和防御，上限50层。"
+        "zh": "汇聚两把武器之力，将[逐影]借由[冥弓]射出，攻击敌方全体5次，每次造成攻击53%伤害，攻击附带10%吸血。友方全体每消耗1点鬼火，自身增加2%攻击和防御，上限50层。"
       },
       "upgrades": [
         {

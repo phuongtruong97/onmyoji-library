@@ -126,7 +126,7 @@
       "description": {
         "vi": "Khi Bạo Kích, nhận 1 tầng [buff_2072_1], giới hạn 4 tầng.\nKhi tử trận, nếu sở hữu 4 tầng [buff_2072_1], liền lập tức phục sinh và [tips_20] lượng HP bằng 20% giới hạn HP, đồng thời thi triển [skill_2073_1] lên mục tiêu kẻ địch ngẫu nhiên.\nKhi tử trận, đính kèm [buff_2073_1] cho nguồn gây sát thương.",
         "en": "When she lands a critical hit, grants her 1 [buff_2072_1] stack (max 4 stacks.)\nWhen she's KO'd, if she has 4 [buff_2072_1] stacks, she is revived immediately with 20% of her max HP [tips_20]ed. She then uses [skill_2073_1] on 1 random enemy.\nWhen she's KO'd, inflicts [buff_2073_1] to the source of the lethal damage.",
-        "zh": "暴击时，获得1层[buff_2072_1]，上限4层。\n阵亡时，若拥有4层[buff_2072_1]，则会立即复活并[tips_20]生命上限20%的生命，并对随机敌方目标施放『[skill_2073_1]。\n阵亡时，对伤害来源附加[buff_2073_1]。"
+        "zh": "暴击时，获得1层[buff_2072_1]，上限4层。\n阵亡时，若拥有4层[buff_2072_1]，则会立即复活并[tips_20]生命上限20%的生命，并对随机敌方目标施放[[skill_2073_1]。\n阵亡时，对伤害来源附加[buff_2073_1]。"
       },
       "upgrades": [],
       "orbCost": 0,

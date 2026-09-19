@@ -242,7 +242,7 @@
       "description": {
         "vi": "Tấn công mục tiêu kẻ địch 6 lần, mỗi lần gây sát thương 58%, nếu đánh bại mục tiêu mà số lần tấn công vẫn chưa dùng hết, sẽ chuyển sang tấn công mục tiêu kẻ địch khác có HP thấp nhất, đồng thời tăng số lần tấn công thêm 2 lần. Khi ở trạng thái [buff_2693_1], nhận [skill_2695_1], cấp độ tăng theo cường hóa kỹ năng [Sát Lục].",
         "en": "Launches a 6-strike attack on 1 enemy, dealing damage equal to 58% of her ATK on each strike. If the enemy is KO'd before she finishes her 6 strikes, she changes her target to the enemy with the lowest HP, inflicting the remaining strikes plus 2 additional strikes. If she's in the [buff_2693_1] state, she gains [skill_2695_1] with its skill level equal to the skill level of Savage Combo.",
-        "zh": "攻击敌方目标6次，每次造成攻击58%伤害，若击败目标时攻击次数未用尽，则转换攻击生命最低的另一敌方目标，并使攻击次数增加2次。处于[buff_2693_1]状态时，获得『[skill_2695_1]，等级随『杀戮]技能强化。"
+        "zh": "攻击敌方目标6次，每次造成攻击58%伤害，若击败目标时攻击次数未用尽，则转换攻击生命最低的另一敌方目标，并使攻击次数增加2次。处于[buff_2693_1]状态时，获得[[skill_2695_1]，等级随[杀戮]技能强化。"
       },
       "upgrades": [
         {

@@ -68,7 +68,7 @@
       "description": {
         "vi": "Lấy phong hỏa ngưng tụ phản chiếu kẻ địch, bóp nát phong hỏa gây cho mục tiêu sát thương bằng 125% Tấn công. Khi ở trạng thái [buff_3885_1] thay thế thành [Diệp Nhẫn], cấp độ tăng theo cường hóa kỹ năng [Ô Lăng].",
         "en": "Illuminates 1 enemy with focused maple fire before extinguishing the fire, dealing damage equal to 125% of her ATK. This is changed to Leaf Blade while she's [buff_3885_1], with its skill level equal to the skill level of Crow Feather.",
-        "zh": "以凝结的枫火映照敌方，捏碎枫火对目标造成攻击125%伤害。处于[buff_3885_1]替换为『叶刃]，等级随『乌翎]技能强化。"
+        "zh": "以凝结的枫火映照敌方，捏碎枫火对目标造成攻击125%伤害。处于[buff_3885_1]替换为[叶刃]，等级随[乌翎]技能强化。"
       },
       "upgrades": [
         {
@@ -184,7 +184,7 @@
       "description": {
         "vi": "[tips_11]. Múa theo ý lòng, gọi dậy lá phong, nhận 2 tầng [buff_3885_1], trong thời gian duy trì toàn bộ phe ta nhận [buff_3884_1]. Tiên Cơ thi triển [Phong Khởi Chi Vũ].",
         "en": "[tips_11]. Dances freely, summoning maple leaves to gain 2 stacks of [buff_3885_1]. During its duration, all allies gain [buff_3884_1]. Upper Hand: Casts Maple Dance.",
-        "zh": "[tips_11]。随心而舞，唤起枫叶，获得2层[buff_3885_1]，持续期间全体友方获得[buff_3884_1]。先机施放『枫起之舞]。"
+        "zh": "[tips_11]。随心而舞，唤起枫叶，获得2层[buff_3885_1]，持续期间全体友方获得[buff_3884_1]。先机施放[枫起之舞]。"
       },
       "upgrades": [
         {

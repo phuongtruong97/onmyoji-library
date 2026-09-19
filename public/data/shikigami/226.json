@@ -151,7 +151,7 @@
       "description": {
         "vi": "Triệu hồi Cà Chua, Cà Chua có thể sử dụng [skill_4024_1]; khi triệu hồi lập tức sử dụng [skill_4024_1] tấn công kẻ địch có tỷ lệ HP thấp nhất. Cà Chua khi gây sát thương cho kẻ địch, xua tan ngẫu nhiên 1 trạng thái tăng ích của kẻ đó\nKhi kẻ địch tử trận, Cà Chua sẽ sử dụng [skill_4026_1].\nCà Chua thừa hưởng [z_生命继承比_per] HP, [z_攻击继承比_per] Tấn công và [z_速度继承比_per] Tốc độ của Khiêu Khiêu Muội Muội.\nKhi Cà Chua có mặt trên sân, kỹ năng này thay thế thành [skill_2267_1].",
         "en": "Summons Tomato with the ability to use [skill_4024_1]; Tomato uses [skill_4024_1] immediately when summoned to attack the enemy with the lowest proportion of HP. When Tomato deals damage to an enemy, dispels a random buff from them.\nTomato uses [skill_4026_1] when an enemy is KO'd.\nTomato inherits [z_生命继承比_per] of Kyonshi Imoto's HP, [z_攻击继承比_per] of her ATK, and [z_速度继承比_per] of her SPD.\nIf Tomato is on the battlefield, the skill is changed to [skill_2267_1].",
-        "zh": "召唤番茄，番茄可使用『[skill_4024_1]；召唤时立即使用『[skill_4024_1]攻击生命比例最低的敌方。番茄对敌方造成伤害时，驱散其随机1个增益状态\n敌方阵亡时，番茄将使用『[skill_4026_1]。\n番茄继承跳跳妹妹[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击和[z_速度继承比_per]速度。\n当番茄在场时，该技能替换成『[skill_2267_1]。"
+        "zh": "召唤番茄，番茄可使用[[skill_4024_1]；召唤时立即使用[[skill_4024_1]攻击生命比例最低的敌方。番茄对敌方造成伤害时，驱散其随机1个增益状态\n敌方阵亡时，番茄将使用[[skill_4026_1]。\n番茄继承跳跳妹妹[z_生命继承比_per]生命值，[z_攻击继承比_per]攻击和[z_速度继承比_per]速度。\n当番茄在场时，该技能替换成[[skill_2267_1]。"
       },
       "upgrades": [
         {

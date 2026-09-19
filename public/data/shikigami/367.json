@@ -126,7 +126,7 @@
       "description": {
         "vi": "[tips_11].\nKhi [Phù Sinh Họa Ảnh] biến mất ngoài lượt của bản thân, tăng 30% thanh hành động cho bản thân; khiến toàn thể đồng minh nhận [buff_3672_1].",
         "en": "[tips_11].\nWhen Lifelike Image disappears outside her turn, her Move Bar raises by 30% and grants [buff_3672_1] to all allies.",
-        "zh": "[tips_11]。\n『浮生画影]在自身回合外消失时，增加自身30%行动条；使友方全体获得[buff_3672_1]。"
+        "zh": "[tips_11]。\n[浮生画影]在自身回合外消失时，增加自身30%行动条；使友方全体获得[buff_3672_1]。"
       },
       "upgrades": [
         {
@@ -184,7 +184,7 @@
       "description": {
         "vi": "Triệu hồi [tips_3673] tồn tại [tips_15] 4 lượt, đưa chiến trường của kẻ địch cuốn vào cảnh tranh và chọn 1 mục tiêu kẻ địch không phải vật triệu hồi để áp đặt [buff_3674_1].\nKhi [Phù Sinh Họa Ảnh] tồn tại sẽ thay thế thành [Phồn Hoa Trụy Lộ], cấp độ tăng theo cường hóa của [Họa Mộng Phù Sinh].",
         "en": "Summons a [tips_3673] that's [tips_15] for 4 turns to drag all enemies in a picturesque realm, then inflicts [buff_3674_1] on 1 non-summoned enemy entity.\nAs long as Lifelike Image is on the battlefield, the skill is changed to Blossom Rain, with its skill level equal to the skill level of Picturesque Life.",
-        "zh": "召唤[tips_15]4回合的[tips_3673]将敌方场地卷入画境中并选择一个非召唤物敌方目标施加[buff_3674_1]。\n当『浮生画影]存在时替换为『繁花坠露]，等级随『绘梦浮生]强化。"
+        "zh": "召唤[tips_15]4回合的[tips_3673]将敌方场地卷入画境中并选择一个非召唤物敌方目标施加[buff_3674_1]。\n当[浮生画影]存在时替换为[繁花坠露]，等级随[绘梦浮生]强化。"
       },
       "upgrades": [
         {

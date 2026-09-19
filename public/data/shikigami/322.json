@@ -126,7 +126,7 @@
       "description": {
         "vi": "Khi ngọn quỷ diệm của [Luyện Ngục Chi Môn] tấn công nhiều hơn 1 kẻ địch, mỗi khi có thêm 1 kẻ địch có thể làm quỷ diệm tăng 10% sát thương, giới hạn 50%. Nếu quỷ diệm hạ gục kẻ địch không phải vật triệu hồi, đòn tấn công sau đó của quỷ trảo sẽ đính kèm thêm một đòn sát thương, bằng tổng sát thương dư thừa trước đó của quỷ diệm.",
         "en": "When the demonic flame from Inferno Gate would attack more than 1 enemy, for each extra enemy, increases the damage of the demonic flame by 10% to a max of 50% increased. If the demonic flame KO's a non-summoned enemy entity, the Demonic Arm attack that follows inflicts an extra attack, dealing damage equal to the total excess damage from the previous demonic flame.",
-        "zh": "当『炼狱之门]的鬼焰将攻击超过1名敌方时，每有1个额外敌方可使鬼焰提升10%伤害，上限50%。若鬼焰击败非召唤物的敌方，其后鬼手的攻击将额外附加一段伤害，等同先前鬼焰过量伤害的总和。"
+        "zh": "当[炼狱之门]的鬼焰将攻击超过1名敌方时，每有1个额外敌方可使鬼焰提升10%伤害，上限50%。若鬼焰击败非召唤物的敌方，其后鬼手的攻击将额外附加一段伤害，等同先前鬼焰过量伤害的总和。"
       },
       "upgrades": [
         {

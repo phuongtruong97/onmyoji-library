@@ -126,7 +126,7 @@
       "description": {
         "vi": "Phúc vận càng thích chiếu cố người cần cù. Khi kết thúc lượt của bản thân, đẩy lùi 15% Thanh Hành Động của toàn bộ mục tiêu kẻ địch và nhận 2 điểm Quỷ Hỏa; nếu trong lượt từng thi triển [Ủy Dĩ Trọng Trách] liền bắt đầu [tips_5663], [tips_15] 1 lượt; sau khi trận đấu bắt đầu, bản thân khi lần đầu chịu sát thương sẽ bắt đầu [tips_5663].",
         "en": "Fortune favors the diligent. At the end of his turn, lowers the Move Bar of all enemies by 15% and grants you 2 orbs (if Great Responsibility was used in the turn, he begins to [tips_5663].) [tips_15] for 1 turn. After the battle starts, when he takes damage for the first time, he begins to [tips_5663].",
-        "zh": "福运，更喜欢眷顾勤奋的人。自身回合结束时，击退全体敌方目标15%行动条并获得2点鬼火；若回合中施放过『委以重任]则开始[tips_5663]，[tips_15]1回合；战斗开始后，自身首次受到伤害时开始[tips_5663]。"
+        "zh": "福运，更喜欢眷顾勤奋的人。自身回合结束时，击退全体敌方目标15%行动条并获得2点鬼火；若回合中施放过[委以重任]则开始[tips_5663]，[tips_15]1回合；战斗开始后，自身首次受到伤害时开始[tips_5663]。"
       },
       "upgrades": [
         {

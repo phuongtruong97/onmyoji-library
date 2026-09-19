@@ -126,7 +126,7 @@
       "description": {
         "vi": "[tips_11].\nVĩnh viễn nhận 30% giảm sát thương. Sau khi lượt của kẻ địch kết thúc, tăng 10% Thanh Hành Động cho bản thân, cho đến khi lần đầu ở trong trạng thái [buff_3433_1].\nKhi chịu đòn đánh thường nếu bản thân chưa ở trạng thái [tips_17], liền có 80% xác suất Đỡ Đòn và khi kích hoạt Đỡ Đòn sẽ Tước Khí kẻ tấn công 1 lượt, đồng thời miễn nhiễm sát thương lần đó và tăng 10% Thanh Hành Động cho bản thân, mỗi lần kích hoạt Đỡ Đòn, sát thương tăng 20%, hiệu ứng này cộng dồn tối đa 5 tầng.\nKhi chịu sát thương chí mạng, sử dụng [Chân Kiếm • Nhẫn Tâm] lên nguồn gây sát thương sau đó hồi phục đến 50% HP tối đa và tăng 100% Kháng Bạo Kích cùng 30% Thanh Hành Động, duy trì 1 lượt; hiệu ứng này mỗi hồi mục chỉ kích hoạt 1 lần.\n[Thi triển] Tiến vào trạng thái [buff_3433_1], và tăng 40% Thanh Hành Động cho bản thân. Đính kèm [buff_3435_1] cho mục tiêu kẻ địch, và thi triển [tips_3433].",
         "en": "[tips_11].\nPermanently gains 30% damage reduction. At the end of an enemy's turn, raises his Move Bar by 10% until he enters the [buff_3433_1] state for the first time.\nWhen taking a normal attack, if he's not [tips_17], has a 80% chance of parrying the attack and disarming the attacker for 1 turn, gaining him immunity to the damage and raising his Move Bar by 10%. Whenever a parry is triggered, increases his damage by 20%. The effect stacks up to 5 times.\nWhen taking lethal damage, uses Unshaken Will on the source of the damage, recovers his HP to 50% of his max HP, increases his Crit RES by 100% for 1 turn, and raises his Move Bar by 30%. Triggers only once each round.\nActive skill: Enters the [buff_3433_1] state, raises his Move Bar by 40%, and inflicts [buff_3435_1] on 1 enemy. Then casts [tips_3433].",
-        "zh": "[tips_11]。\n永久获得30%伤害减免。敌方回合结束后，增加自身10%行动条，直至首次处于[buff_3433_1]状态。\n受到普攻攻击时若自身未处于[tips_17]，则有80%概率格挡且触发格挡时缴械攻击者1回合，同时免疫该次伤害并增加自身10%行动条，每次触发格挡，伤害提升20%，该效果最多叠加5层。\n受到致命伤害时，对伤害来源使用『真剑·韧心]随后恢复至最大生命值的50%并增加100%暴击抵抗和30%行动条，持续1回合；该效果每回目只会触发1次。\n【施放】进入[buff_3433_1]状态，并增加自身40%行动条。为敌方目标施加[buff_3435_1]，并施放[tips_3433]。"
+        "zh": "[tips_11]。\n永久获得30%伤害减免。敌方回合结束后，增加自身10%行动条，直至首次处于[buff_3433_1]状态。\n受到普攻攻击时若自身未处于[tips_17]，则有80%概率格挡且触发格挡时缴械攻击者1回合，同时免疫该次伤害并增加自身10%行动条，每次触发格挡，伤害提升20%，该效果最多叠加5层。\n受到致命伤害时，对伤害来源使用[真剑·韧心]随后恢复至最大生命值的50%并增加100%暴击抵抗和30%行动条，持续1回合；该效果每回目只会触发1次。\n【施放】进入[buff_3433_1]状态，并增加自身40%行动条。为敌方目标施加[buff_3435_1]，并施放[tips_3433]。"
       },
       "upgrades": [
         {
@@ -184,7 +184,7 @@
       "description": {
         "vi": "Gây cho mục tiêu kẻ địch sát thương bằng 302% Tấn công, nếu mục tiêu chưa rơi vào [buff_3434_1], liền đính kèm [buff_3434_1] cho kẻ đó, sau khi thi triển tăng 40% Thanh Hành Động cho bản thân. Mục tiêu mang [Tâm Kiếm] khi sử dụng kỹ năng, ảnh phân thân lập tức thi triển [Thiên Kiếm • Đoạn Ác Trảm] lên kẻ đó, sát thương lần đó giảm 30%.",
         "en": "Attacks 1 enemy, dealing damage equal to 302% of his ATK. If the enemy is not [buff_3434_1], inflicts [buff_3434_1] on them and raises his own Move Bar by 40%. When the enemy with Shadow Cut uses a skill, the Shadowy Double immediately uses Heavenly Blade: Evilslayer on them, dealing 30% less damage.",
-        "zh": "对敌方目标造成攻击302%伤害，若目标未陷入[buff_3434_1]，则为其施加[buff_3434_1]，施放后增加自身40%行动条。带有『心剑]的目标使用技能时，影之分身立即对其施放『天剑·断恶斩]，该次伤害降低30%。"
+        "zh": "对敌方目标造成攻击302%伤害，若目标未陷入[buff_3434_1]，则为其施加[buff_3434_1]，施放后增加自身40%行动条。带有[心剑]的目标使用技能时，影之分身立即对其施放[天剑·断恶斩]，该次伤害降低30%。"
       },
       "upgrades": [
         {

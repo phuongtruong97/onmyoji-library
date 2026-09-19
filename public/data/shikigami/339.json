@@ -126,7 +126,7 @@
       "description": {
         "vi": "Trước khi thi triển [Tẫn Thiên Cửu Vĩ], đánh cắp trước 6% Tấn công của tất cả đơn vị trên sân (mỗi mục tiêu đánh cắp tối đa 10 lần), tổng giá trị đánh cắp không vượt quá 100% Tấn công ban đầu của bản thân (bao gồm tổng Tấn công cơ bản và Tấn công từ Ngự Hồn cung cấp).\nKhi tử vong, hoàn trả toàn bộ Tấn công đã đánh cắp.",
         "en": "Before using Blazing Tails, drains the ATK of each unit on the battlefield by 6% (each target can be drained up to 10 times). Total ATK drained cannot exceed 100% of his initial ATK (this includes his base ATK plus the ATK bonus he received from Souls).\nWhen he's KO'd, returns all the ATK he drained.",
-        "zh": "施放『焚天九尾]前，先偷取场上全体6%攻击力（每个目标最多偷取10次），偷取总值不超过自身初始（包含基础攻击和御魂提供的攻击总和）攻击100%。\n阵亡时，将偷取的攻击全部归还。"
+        "zh": "施放[焚天九尾]前，先偷取场上全体6%攻击力（每个目标最多偷取10次），偷取总值不超过自身初始（包含基础攻击和御魂提供的攻击总和）攻击100%。\n阵亡时，将偷取的攻击全部归还。"
       },
       "upgrades": [
         {

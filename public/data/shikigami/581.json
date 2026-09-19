@@ -126,7 +126,7 @@
       "description": {
         "vi": "Bài Hanafuda hiểu chân ý. Khi thi triển [Ngũ Quang Trảm], đính kèm [buff_5812_1] cho mục tiêu chọn định, [tips_15] 1 lượt. Mỗi tầng Hoa Ước giảm trị liệu, không có hiệu lực với quái vật. Khi đính kèm [buff_5812_1], nhận 30% giảm sát thương, duy trì 2 lượt. [tips_5] do kỹ năng bản thân gây ra tăng 50%. Khi tấn công mục tiêu mang 6 tầng [buff_5811_1] bỏ qua 180 điểm Phòng thủ.",
         "en": "Explore true sentiments from the hanafuda cards. When using Five-Light Slash, inflicts [buff_5812_1] that's [tips_15] for 1 turn on the enemy. Each Flower Memory stack reduces healing (ineffective on monsters). Upon inflicting [buff_5812_1], grants a 30% damage reduction for 2 turns. Increases her skills' [tips_5] dealt by 50%. Attacking enemies with 6 [buff_5811_1] stacks ignores DEF by 180.",
-        "zh": "花札牌中品真意。施放『五光斩]时，为选定目标附加[buff_5812_1]，[tips_15]1回合。 每层花忆减疗，对怪物无效。附加[buff_5812_1]时，获得30%减伤，持续2回合。自身技能造成[tips_5]提升50%。攻击携带6层[buff_5811_1]的目标时无视180点防御。"
+        "zh": "花札牌中品真意。施放[五光斩]时，为选定目标附加[buff_5812_1]，[tips_15]1回合。 每层花忆减疗，对怪物无效。附加[buff_5812_1]时，获得30%减伤，持续2回合。自身技能造成[tips_5]提升50%。攻击携带6层[buff_5811_1]的目标时无视180点防御。"
       },
       "upgrades": [
         {

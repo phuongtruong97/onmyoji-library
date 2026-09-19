@@ -126,7 +126,7 @@
       "description": {
         "vi": "Chỉ thi triển kỹ năng này khi Bát Kỳ Đại Xà sử dụng [Hồn Phách Toái Liệt].\nNhìn chằm chằm mục tiêu của Bát Kỳ Đại Xà, khiến đòn tấn công đó bỏ qua 20% Phòng thủ của mục tiêu.",
         "en": "The skill is only used when Orochi uses Soul Crusher.\nGazes at Orochi's target, allowing the attack to ignore DEF by 20%.",
-        "zh": "仅在八岐大蛇使用『魂魄碎裂]时施放此技能。\n凝视八岐大蛇的目标，使该次攻击无视其20%防御。"
+        "zh": "仅在八岐大蛇使用[魂魄碎裂]时施放此技能。\n凝视八岐大蛇的目标，使该次攻击无视其20%防御。"
       },
       "upgrades": [],
       "orbCost": 0,
@@ -151,7 +151,7 @@
       "description": {
         "vi": "Khiến mục tiêu đồng minh nhận lượt hành động mới, đồng thời giúp kẻ đó nhận [buff_3255_1], [tips_15] 2 lượt, sau đó [tips_3252] kẻ đó thành [buff_3253] [tips_3253] có thể sử dụng [skill_3256_1]).\nYamata no Orochi cùng [tips_3253], khi tấn công sẽ đính kèm 1 tầng [buff_3251_1] cho mục tiêu.\nKhi không có đơn vị đồng minh nào khác sống sót, thay thế kỹ năng này thành [skill_3255_1].\nMỗi [tips_3253] khiến Yamata no Orochi và Xà Ma kiểm soát tăng 30% Phòng thủ, 20% Kháng Hiệu Ứng, 10 Tốc độ.",
         "en": "Grants a new turn and [buff_3255_1] to an ally. [tips_15] for 2 turns before [tips_3252]ing them into a [tips_3253]. [tips_3253] can use [skill_3256_1].\nOrochi and [tips_3253]'s attack inflicts a layer of [buff_3251_1] on their target.\nWhen there are no allied shikigami alive, the skill is changed to [skill_3255_1].\nEach [tips_3253] increases the DEF, Effect RES, and SPD of Orochi and the nagas under his control by 30%, 20%, and 10, respectively.",
-        "zh": "使友方目标获得获得新的回合，并使其获得[buff_3255_1]，[tips_15]2回合，之后将其[tips_3252]为[tips_3253]，[tips_3253]可使用[skill_3256_1]。\n八岐大蛇与[tips_3253]，攻击时将对目标附加1层[buff_3251_1]。\n当无其他友方式神存活时，将此技能替换为『[skill_3255_1]。\n每个[tips_3253]使八岐大蛇和控制的蛇魔提升30%防御、20%效果抵抗、10速度。"
+        "zh": "使友方目标获得获得新的回合，并使其获得[buff_3255_1]，[tips_15]2回合，之后将其[tips_3252]为[tips_3253]，[tips_3253]可使用[skill_3256_1]。\n八岐大蛇与[tips_3253]，攻击时将对目标附加1层[buff_3251_1]。\n当无其他友方式神存活时，将此技能替换为[[skill_3255_1]。\n每个[tips_3253]使八岐大蛇和控制的蛇魔提升30%防御、20%效果抵抗、10速度。"
       },
       "upgrades": [
         {

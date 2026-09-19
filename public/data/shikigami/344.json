@@ -66,9 +66,9 @@
         "zh": "我已确信，眼目以内恶意满盈。"
       },
       "description": {
-        "vi": "Dùng sức mạnh hỗn mang tấn công mục tiêu kẻ địch, gây 125% sát thương.\nKhi ở trạng thái Dương, kỹ năng thay thế thành [skill_3441_1], cấp độ tăng theo cường hóa kỹ năng [Lạc Ảnh].",
+        "vi": "Dùng sức mạnh hỗn mang tấn công mục tiêu kẻ địch, gây 125% sát thương.\nKhi ở trạng thái Dương, kỹ năng thay thế thành [Đàm Vô], cấp độ tăng theo cường hóa kỹ năng [Lạc Ảnh].",
         "en": "Casts the power of chaos at 1 enemy, dealing damage equal to 125% of his ATK.\nWhen he's in Yang state, this is changed to [skill_3441_1], with its skill level equal to the skill level of Falling Shadow.",
-        "zh": "以混沌之力攻击敌方目标，造成攻击125%伤害。\n处于阳状态时，技能替换为『[skill_3441_1]，等级随『落影]技能强化。"
+        "zh": "以混沌之力攻击敌方目标，造成攻击125%伤害。\n处于阳状态时，技能替换为[[skill_3441_1]，等级随[落影]技能强化。"
       },
       "upgrades": [
         {
@@ -182,9 +182,9 @@
         "zh": "破晓晨曦，万物初醒。"
       },
       "description": {
-        "vi": "Vân Ngoại Kính ở trạng thái [tips_3443], trong gương cách ly lẫn nhau, có thể chuyển đổi giữa các trạng thái [tips_3442], giá trị HP của trạng thái Âm Dương bổ sung cho nhau, ban đầu mỗi bên một nửa, nhận khiên gương khi bắt đầu chiến đấu.\n[Thi triển] Bước vào trạng thái Dương và [tips_3933] đến giá trị HP Dương, đồng thời tăng 100 điểm tốc độ cho bản thân, duy trì 1 lượt; đồng thời nhận khiên gương, tiêu hao Quỷ Hỏa vĩnh viễn +2 sau mỗi lần [Thi Triển].\nKhi ở trạng thái Dương, kỹ năng thay thế thành [skill_3442_1].",
+        "vi": "Vân Ngoại Kính ở trạng thái [tips_3443], trong gương cách ly lẫn nhau, có thể chuyển đổi giữa các trạng thái [tips_3442], giá trị HP của trạng thái Âm Dương bổ sung cho nhau, ban đầu mỗi bên một nửa, nhận khiên gương khi bắt đầu chiến đấu.\n[Thi triển] Bước vào trạng thái Dương và [tips_3933] đến giá trị HP Dương, đồng thời tăng 100 điểm tốc độ cho bản thân, duy trì 1 lượt; đồng thời nhận khiên gương, tiêu hao Quỷ Hỏa vĩnh viễn +2 sau mỗi lần [Thi Triển].\nKhi ở trạng thái Dương, kỹ năng thay thế thành [Chiêu Hồi].",
         "en": "Ungaikyo lives in the [tips_3443] where his two faces are independent of each other. He can change between his [tips_3442] states. His starting HP is halved. His HP in Yin and Yang state compliment each other. He gains Mirror Shield to protect himself at the start of battle.\nActive skill: Enters the Yang state and [tips_3933]s his HP by turning it into the Yang state's HP. Also increases his SPD by 100 for 1 turn. He also gains Mirror Shield to protect himself. Using the skill increases the orb cost by +2 indefinitely each time.\nWhen he's in Yang state, the skill is changed to [skill_3442_1].",
-        "zh": "云外镜处于[tips_3443]，镜中相互隔绝，可于[tips_3442]状态间转换，阴阳状态的生命值互补，初始各一半，在战斗开始获得镜盾。\n【施放】进入阳状态并[tips_3933]至阳生命值，同时提升自身100点速度，持续1回合；并获得镜盾，每次施放后鬼火消耗永久+2。\n处于阳状态时，技能替换为『[skill_3442_1]。"
+        "zh": "云外镜处于[tips_3443]，镜中相互隔绝，可于[tips_3442]状态间转换，阴阳状态的生命值互补，初始各一半，在战斗开始获得镜盾。\n【施放】进入阳状态并[tips_3933]至阳生命值，同时提升自身100点速度，持续1回合；并获得镜盾，每次施放后鬼火消耗永久+2。\n处于阳状态时，技能替换为[[skill_3442_1]。"
       },
       "upgrades": [],
       "orbCost": 0,
@@ -207,7 +207,7 @@
         "zh": "夕阳落日，故人归来。"
       },
       "description": {
-        "vi": "[Thi triển] Bước vào trạng thái Âm và lật ngược giá trị HP, đồng thời tăng 100 điểm tốc độ cho bản thân, duy trì 1 lượt; đồng thời nhận [buff_3442_1], tiêu hao Quỷ Hỏa vĩnh viễn +2 sau mỗi lần [Thi Triển].",
+        "vi": "[Thi triển] Bước vào trạng thái Âm và lật ngược giá trị HP, đồng thời tăng 100 điểm tốc độ cho bản thân, duy trì 1 lượt. Tiêu hao Quỷ Hỏa vĩnh viễn +2 sau mỗi lần [Thi Triển].",
         "en": "Using the skill enters Yin state and inverts his HP. Also increases his SPD by 100 for 1 turn and creates a [buff_3442_1] to protect himself. Orb cost +2 indefinitely after using the skill each time.",
         "zh": "【施放】进入阴状态并翻转生命值，同时提升自身100点速度，持续1回合；并获得[buff_3442_1]，每次施放后鬼火消耗永久+2。"
       },
@@ -232,15 +232,15 @@
         "zh": "时时拂拭，勿惹尘埃。"
       },
       "description": {
-        "vi": "Quét sạch ô uế thế gian, gây 145% sát thương cho toàn thể kẻ địch, có 100% [tips_2] đính kèm [buff_3447_1] lên mục tiêu, duy trì đến khi kết thúc hồi, sau đó Hắc Liên rơi từ trời xuống tấn công mục tiêu kẻ địch, gây 145% sát thương, cứ mỗi 30% tỷ lệ HP Âm giảm đi, truy kích thêm 1 đoạn sát thương hắc liên.\nKhi ở trạng thái Dương, kỹ năng thay thế thành [skill_3443_1], cấp độ tăng theo cường hóa kỹ năng [Vân Ngạn Tịnh Không].",
+        "vi": "Quét sạch ô uế thế gian, gây 145% sát thương cho toàn thể kẻ địch, có 100% [tips_2] đính kèm [buff_3447_1] lên mục tiêu, duy trì đến khi kết thúc hồi, sau đó Hắc Liên rơi từ trời xuống tấn công mục tiêu kẻ địch, gây 145% sát thương, cứ mỗi 30% tỷ lệ HP Âm giảm đi, truy kích thêm 1 đoạn sát thương hắc liên.\nKhi ở trạng thái Dương, kỹ năng thay thế thành [Khổ Hải Phù Sinh], cấp độ tăng theo cường hóa kỹ năng [Vân Ngạn Tịnh Không].",
         "en": "To cleanse all filth from the world, he attacks all enemies, dealing damage equal to 145% of his ATK. Has a 100% [tips_2] of inflicting [buff_3447_1] on all enemies, lasting until the round ends. He then sends a Black Lotus plunging upon 1 enemy, dealing damage equal to 145% of his ATK. For every 30% HP reduced when he's in Yin state, inflicts additional Black Lotus damage.\nWhen he's in Yang state, this skill is changed to [skill_3443_1] with a skill level equal to his World Purge skill level.",
-        "zh": "清扫世间污秽，对敌方全体造成攻击145%伤害，有100%[tips_2]对其附加[buff_3447_1]，持续至回目结束，然后天坠黑莲攻击敌方目标，造成攻击145%伤害，阴生命比例每降低30%，额外追加一段黑莲伤害。\n处于阳状态时，技能替换为『[skill_3443_1]，等级随『云岸净空]技能强化。"
+        "zh": "清扫世间污秽，对敌方全体造成攻击145%伤害，有100%[tips_2]对其附加[buff_3447_1]，持续至回目结束，然后天坠黑莲攻击敌方目标，造成攻击145%伤害，阴生命比例每降低30%，额外追加一段黑莲伤害。\n处于阳状态时，技能替换为[[skill_3443_1]，等级随[云岸净空]技能强化。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương quét sạch và hắc liên tăng đến 135%.",
+            "vi": "Sát thương quét sạch và Hắc Liên tăng đến 135%.",
             "en": "Increases the damage of both Cleansing and Black Lotus to 135%.",
             "zh": "清扫和黑莲伤害增加至135%"
           }
@@ -248,7 +248,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Sát thương quét sạch và hắc liên tăng đến 139%.",
+            "vi": "Sát thương quét sạch và Hắc Liên tăng đến 139%.",
             "en": "Increases the damage of both Cleansing and Black Lotus to 139%.",
             "zh": "清扫和黑莲伤害增加至139%"
           }
@@ -256,7 +256,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Sát thương quét sạch và hắc liên tăng đến 145%.",
+            "vi": "Sát thương quét sạch và Hắc Liên tăng đến 145%.",
             "en": "Increases the damage of both Cleansing and Black Lotus to 145%.",
             "zh": "清扫和黑莲伤害增加至145%"
           }
@@ -264,7 +264,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Cứ mỗi 30% tỷ lệ HP Âm giảm đi, truy kích thêm 1 đoạn sát thương hắc liên.",
+            "vi": "Cứ mỗi 30% tỷ lệ HP Âm giảm đi, truy kích thêm 1 đoạn sát thương Hắc Liên.",
             "en": "For each 30% HP reduced when he's in Yin state, inflicts an additional stage of Black Lotus.",
             "zh": "阴生命比例每降低30%，额外追加一段黑莲伤害"
           }

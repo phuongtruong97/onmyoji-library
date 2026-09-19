@@ -184,7 +184,7 @@
       "description": {
         "vi": "[tips_11], lắc chuông ra lệnh, chuyển [buff_6022_1] của mục tiêu phe ta chỉ định sang bản thân, và tăng 20% Thanh Hành Động cho kẻ đó. Sau đó gây cho nhóm kẻ địch 3 lần sát thương bằng 50% Tấn công bỏ qua Ngự Hồn, nếu đồng minh khác đều không mang [buff_6022_1], kỹ năng sẽ thay thế vĩnh viễn thành [skill_6024_1], cấp độ tăng theo cường hóa kỹ năng [skill_6023_1].",
         "en": "[tips_11], ring the bell as a command to transfer the chosen ally's [buff_6022_1] to self and raise their Move Bar by 20%. Then deal 3 hits of damage at 50% ATK to all enemies that ignores Soul effects. If no other allies carry [buff_6022_1], this skill is permanently replaced with [skill_6024_1], and its level scales with [skill_6023_1].",
-        "zh": "[tips_11]，振铃为令，将指定友方的[buff_6022_1]转移至自身，并提升其20%行动条。之后对敌方群体造成3次攻击50%的无视御魂的伤害，若其他友方均未携带[buff_6022_1]，则技能永久替换为『[skill_6024_1]，等级随『[skill_6023_1]技能强化。"
+        "zh": "[tips_11]，振铃为令，将指定友方的[buff_6022_1]转移至自身，并提升其20%行动条。之后对敌方群体造成3次攻击50%的无视御魂的伤害，若其他友方均未携带[buff_6022_1]，则技能永久替换为[[skill_6024_1]，等级随[[skill_6023_1]技能强化。"
       },
       "upgrades": [
         {

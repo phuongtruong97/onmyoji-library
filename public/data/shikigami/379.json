@@ -184,7 +184,7 @@
       "description": {
         "vi": "[tips_11].\nMở ra Kết giới Sơn Hành tồn tại 3 lượt. Trong thời gian Kết giới duy trì, phe ta khi hành động ở lượt đầu tiên nhận [buff_3798_1]; sau đó nếu phe ta thi triển kỹ năng giống với lượt trước, nhận [buff_3798_1]; nếu không sau khi kết thúc lượt nhận [buff_3796_1]. Trong Kết giới Sơn Hành, Sát Thương Bạo Kích phe ta chịu phải giảm 25%, sát thương không Bạo kích gây ra tăng 25%, Tấn công tăng bằng 50% Phòng thủ ban đầu của Bất Kiến Nhạc (không vượt quá 20% Tấn công ban đầu của mục tiêu phe ta). \n[tips_7]: Thi triển [Thủy Túc Sơn Hành].",
         "en": "[tips_11].\nUnfurls Mountain Realm for 3 turns. While the Realm lasts, allies gain [buff_3798_1] at the start of their first action turn. After that, if an ally uses the same skill as in the previous turn, they gain [buff_3798_1]. Otherwise, they gain [buff_3796_1] after the turn ends. Within Mountain Realm, allies take 25% less Crit DMG, deal 25% more non-crit damage, and gain ATK equal to 50% of Fukengaku's starting DEF (不超过友方目标初始攻击的20%）). [tips_7]: Cast Mountain Hiking.",
-        "zh": "[tips_11]。\n开启存在3回合的山行结界。结界持续期间，友方首个回合行动时获得[buff_3798_1]；此后若友方施放与上一回合相同的技能，获得[buff_3798_1]；否则在回合结束后获得[buff_3796_1]。山行结界中，友方受到的暴击伤害降低25%、造成的非暴击伤害提升25%、攻击提升不见岳初始防御的50%(不超过友方目标初始攻击的20%）)。[tips_7]：施放『水宿山行]。"
+        "zh": "[tips_11]。\n开启存在3回合的山行结界。结界持续期间，友方首个回合行动时获得[buff_3798_1]；此后若友方施放与上一回合相同的技能，获得[buff_3798_1]；否则在回合结束后获得[buff_3796_1]。山行结界中，友方受到的暴击伤害降低25%、造成的非暴击伤害提升25%、攻击提升不见岳初始防御的50%(不超过友方目标初始攻击的20%）)。[tips_7]：施放[水宿山行]。"
       },
       "upgrades": [
         {

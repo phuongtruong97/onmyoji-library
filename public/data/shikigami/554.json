@@ -126,7 +126,7 @@
       "description": {
         "vi": "[tips_11]. Miễn nhiễm hiệu ứng thay đổi Thanh Hành Động có nguồn gốc từ mục tiêu khác. Kết [Thắng Thiên Chi Duyên · Xích] hoặc [Thắng Thiên Chi Duyên · Thanh] cho mục tiêu phe ta chỉ định ngoại trừ bản thân và tăng 2 tầng [buff_5541_1] cho bản thân. Khi thi triển lại, giải trừ [Thắng Thiên Chi Duyên] của mục tiêu và giải trừ tất cả trạng thái tiêu cực cùng [tips_3] của mục tiêu đó. Khi lượt của bản thân và mục tiêu trong trạng thái [Thắng Thiên Chi Duyên] kết thúc, đều sẽ tăng 30% Thanh Hành Động cho đối phương (trước khi lượt tiếp theo của đối phương bắt đầu kích hoạt tối đa 1 lần). Trên sân tối đa có 1 mục tiêu trong trạng thái [Thắng Thiên Chi Duyên].",
         "en": "[tips_11]. Has immunity to Move Bar-changing effects from other sources. Grants Red Heavenly Bond or Blue Heavenly Bond to another ally and grants herself 2 [buff_5541_1] stacks. Using the skill again removes the Heavenly Bond and dispels all debuffs and [tips_3]s from them. At the end of her turn and the turn end of the ally with the Heavenly Bond, raises the ally's Move Bar by 30% (triggers up to once before their next turn). There can only be up to 1 ally with Heavenly Bond on the battlefield.",
-        "zh": "[tips_11]。免疫来源于其他目标的行动条改变效果。为自身以外的指定友方目标缔结『胜天之缘·赤]或『胜天之缘·青]并提升自身2层[buff_5541_1]。再次施放时，解除目标『胜天之缘]并驱散其全部减益状态与[tips_3]。自身与处于『胜天之缘]的目标回合结束时，均会提升对方30%行动条（在对方下回合开始前至多触发1次）。场上至多存在1个目标处于『胜天之缘]。"
+        "zh": "[tips_11]。免疫来源于其他目标的行动条改变效果。为自身以外的指定友方目标缔结[胜天之缘·赤]或[胜天之缘·青]并提升自身2层[buff_5541_1]。再次施放时，解除目标[胜天之缘]并驱散其全部减益状态与[tips_3]。自身与处于[胜天之缘]的目标回合结束时，均会提升对方30%行动条（在对方下回合开始前至多触发1次）。场上至多存在1个目标处于[胜天之缘]。"
       },
       "upgrades": [],
       "orbCost": 1,
@@ -151,7 +151,7 @@
       "description": {
         "vi": "Giúp mục tiêu nhận Thắng Thiên Chi Duyên · Xích, mục tiêu này miễn nhiễm hiệu ứng đẩy lùi Thanh Hành Động và khi bị đính kèm [Dữ Thế Kết Duyên], chắc chắn xuất hiện Trần Duyên · Xích: Sau khi kết thúc lượt lập tức nhận 1 lượt hành động, và lượt mới thi triển kỹ năng Yêu Thuật giảm 2 điểm Quỷ Hỏa tiêu hao. (Không thể kích hoạt liên tiếp hiệu ứng này).",
         "en": "Grants Red Heavenly Bond to the ally, granting them immunity to Move Bar-lowering effects. When Bonding with the World is used upon the ally, they are guaranteed to gain Red Earthly Bond: Immediately grants a new turn after the turn ends. Reduces the orb cost of skills in the new turn by 2. (These effects cannot trigger repeatedly.)",
-        "zh": "使目标获得胜天之缘·赤，该目标免疫行动条击退效果且被施加『与世结缘]时，必定出现尘缘·赤：回合结束后立即获得1个回合，且新回合施放妖术技能消耗的鬼火减少2点。（无法连续触发此效果）。"
+        "zh": "使目标获得胜天之缘·赤，该目标免疫行动条击退效果且被施加[与世结缘]时，必定出现尘缘·赤：回合结束后立即获得1个回合，且新回合施放妖术技能消耗的鬼火减少2点。（无法连续触发此效果）。"
       },
       "upgrades": [],
       "orbCost": 1,
@@ -176,7 +176,7 @@
       "description": {
         "vi": "Giúp mục tiêu nhận Thắng Thiên Chi Duyên · Thanh, mục tiêu này miễn nhiễm hiệu ứng đẩy lùi Thanh Hành Động và khi bị đính kèm [Dữ Thế Kết Duyên], chắc chắn xuất hiện Trần Duyên · Thanh: Bắt đầu lượt giải trừ 1 trạng thái tiêu cực và [tips_3] cho toàn bộ phe ta ngoại trừ bản thân và giúp bản thân tăng 50% giảm sát thương, hiệu ứng giảm sát thương duy trì đến khi lượt tiếp theo của Phưởng Nguyện Duyên Kết Thần bắt đầu.",
         "en": "Grants Blue Heavenly Bond to the ally, granting them immunity to Move Bar-lowering effects. When Bonding with the World is used upon the ally, they are guaranteed to gain Blue Earthly Bond: At the start of the turn, dispels 1 debuff and 1 [tips_3] from each of all other allies and increases the unit's damage reduction by 50% until the start of Bondweaver Enmusubi's next turn.",
-        "zh": "使目标获得胜天之缘·青，该目标免疫行动条击退效果且被施加『与世结缘]时，必定出现尘缘·青：回合开始时驱散自身以外的全体友方1个减益状态与[tips_3]并使自身减伤提升50%，减伤效果持续至纺愿缘结神下个回合开始。"
+        "zh": "使目标获得胜天之缘·青，该目标免疫行动条击退效果且被施加[与世结缘]时，必定出现尘缘·青：回合开始时驱散自身以外的全体友方1个减益状态与[tips_3]并使自身减伤提升50%，减伤效果持续至纺愿缘结神下个回合开始。"
       },
       "upgrades": [],
       "orbCost": 1,

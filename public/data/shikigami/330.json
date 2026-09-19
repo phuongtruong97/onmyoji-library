@@ -108,6 +108,64 @@
       "iconFile": "3301.png"
     },
     {
+      "id": 3304,
+      "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chung Vũ",
+        "en": "Finale",
+        "zh": "初舞"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Shiranui khơi bùng ngọn lửa và phóng ra những cánh bướm lửa tấn công 2 đòn liên tiếp, mỗi đòn gây sát thương tương đương 72% công kích của cô.",
+        "en": "Dances to the music and sends off butterflies to launch a 2-strike attack on 1 enemy, dealing damage equal to 60% of her ATK on each strike.",
+        "zh": "随音而舞，以蝴蝶攻击敌方目标2次，每次造成攻击60%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 52%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 54%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 56%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 60%",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "3301b.png"
+    },
+    {
       "id": 3302,
       "number": 2,
       "variantOrder": 0,
@@ -124,9 +182,9 @@
         "zh": "不知何时起，模糊了人与妖的界线。"
       },
       "description": {
-        "vi": "[tips_11].\nNếu đồng minh đánh thường hoặc không thể hành động trong lượt, khi kết thúc lượt đó, Bất Tri Hỏa có xác suất 50% (tăng đến 100% trong kết giới Tinh Hỏa) khiêu vũ, hy sinh 5% HP hiện tại của bản thân, giúp đồng minh đó tăng 80% kháng hiệu ứng, duy trì 1 lượt.\nKhi chịu sát thương chí mạng, bước vào tư thế [buff_3300_1].\n[Thi triển] Tỷ lệ HP bản thân thấp hơn 50% có thể [Thi Triển], bước vào tư thế [buff_3300_1], đồng thời [Thi Triển] một lần [Tẫn Nhiễm Bất Dạ] không tốn tiêu hao.",
+        "vi": "[tips_11].\nNếu đồng minh đánh thường hoặc không thể hành động trong lượt, khi kết thúc lượt đó, Bất Tri Hỏa có xác suất 50% (tăng đến 100% trong kết giới Tinh Hỏa) khiêu vũ, hy sinh 5% HP hiện tại của bản thân, giúp đồng minh đó tăng 80% kháng hiệu ứng, duy trì 1 lượt.\nKhi chịu sát thương chí mạng, bước vào tư thế [buff_3300_1].\n[Thi triển] Tỷ lệ HP bản thân thấp hơn 50% có thể sử dụng, bước vào tư thế [buff_3300_1], đồng thời thi triển một lần [Tẫn Nhiễm Bất Dạ] không tốn tiêu hao.",
         "en": "[tips_11].\nIf an ally uses a normal attack or is unable to take actions on their turn, Shiranui has a 50% (increased to 100% when she's in the Sparkling Flame Realm) chance of performing a dance at the end of that turn, spending 5% of her current HP to increase the Effect RES of the ally by 80% for 1 turn.\nWhen Shiranui takes lethal damage, she enters the [buff_3300_1] state.\nActive skill: This can only be used when her HP drops below 50%. Enters the [buff_3300_1] state and uses Blazing Flame without spending any orbs.",
-        "zh": "[tips_11]。\n若友方在回合中普攻或无法动作，在该回合结束时，不知火有50%概率（在星火结界中增至100%）起舞，牺牲自身5%当前生命值，使该友方提升80%效果抵抗，持续1回合。\n受到致命伤害时，进入[buff_3300_1]姿态。\n【施放】自身生命比例低于50%可施放，进入[buff_3300_1]姿态，同时施放一次无消耗的『烬染不夜]。"
+        "zh": "[tips_11]。\n若友方在回合中普攻或无法动作，在该回合结束时，不知火有50%概率（在星火结界中增至100%）起舞，牺牲自身5%当前生命值，使该友方提升80%效果抵抗，持续1回合。\n受到致命伤害时，进入[buff_3300_1]姿态。\n【施放】自身生命比例低于50%可施放，进入[buff_3300_1]姿态，同时施放一次无消耗的[烬染不夜]。"
       },
       "upgrades": [
         {
@@ -166,6 +224,64 @@
       "iconFile": "3302.png"
     },
     {
+      "id": 3305,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ly Ca",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Shiranui tăng 20 điểm Tốc độ cho bản thân.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi Quỷ hỏa đang có sẽ tăng thêm 5 điểm Tốc độ cho bản thân.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Kháng hiệu ứng cộng thêm được tăng thêm 20%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Mỗi Quỷ hỏa đang có cũng tăng thêm 5% Kháng hiệu ứng cho bản thân.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi sử dụng [Tẫn Nhiễm Bất Dạ], với mỗi Quỷ hỏa hiện có, gây thêm sát thương bằng 46% Tấn Công của bản thân.",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "3302b.png"
+    },
+    {
       "id": 3303,
       "number": 3,
       "variantOrder": 0,
@@ -182,9 +298,9 @@
         "zh": "看那满天星火，愿此刻永恒。"
       },
       "description": {
-        "vi": "[tips_11].\nTạo kết giới Tinh Hỏa tồn tại 2 lượt, trong thời gian này, toàn thể đồng minh tăng 10% sát thương, 25 điểm tốc độ, nhận 10% giảm sát thương.\nĐồng minh trong kết giới, sau khi thực hiện tấn công thường trong lượt của mình, có xác suất 100% tấn công thường thêm một lần nữa lên cùng một mục tiêu, tấn công thường thêm không kích hoạt bị động của kẻ tấn công, không kích hoạt Ngự Hồn và bị động của mục tiêu, bỏ qua 200 phòng thủ và kèm theo 30% hút máu.\nTrong thời gian kết giới tồn tại, mỗi điểm Quỷ Hỏa có thể tăng 2% sát thương, 2% giảm sát thương.\n[tips_7]: [Thi Triển]『Tinh Hỏa Mãn Thiên].",
+        "vi": "[tips_11].\nTạo kết giới Tinh Hỏa tồn tại 2 lượt, trong thời gian này, toàn thể đồng minh tăng 10% sát thương, 25 điểm tốc độ, nhận 10% giảm sát thương.\nĐồng minh trong kết giới, sau khi thực hiện tấn công thường trong lượt của mình, có xác suất 100% tấn công thường thêm một lần nữa lên cùng một mục tiêu, tấn công thường thêm không kích hoạt bị động của kẻ tấn công, không kích hoạt Ngự Hồn và bị động của mục tiêu, bỏ qua 200 phòng thủ và kèm theo 30% hút máu.\nTrong thời gian kết giới tồn tại, mỗi điểm Quỷ Hỏa có thể tăng 2% sát thương, 2% giảm sát thương.\n[tips_7]: Thi triển [Tinh Hỏa Mãn Thiên].",
         "en": "[tips_11].\nForms a Sparkling Flame Realm lasting 2 turns. While the realm is active, all allies' damage dealt and SPD are increased by 10% and 25, respectively, and they gain a 10% damage reduction.\nWhen an ally in the realm uses a normal attack during their own turn, they have a 100% chance of using a normal attack on the same target again. The extra normal attack launched does not trigger the attacker's passive skills or the target's Soul effects and passive skills, ignores DEF by 200, and inflicts a 30% HP Steal.\nWhile the realm is active, each orb you have increases damage dealt by 2% and damage reduction by 2%.\n[tips_7]: Uses Blazing Sky.",
-        "zh": "[tips_11]。\n创造存在2回合的星火结界，此期间，友方全体提升10%伤害、25点速度、获得10%减伤。\n结界中的友方，在其回合进行普攻后，有100%概率对同一目标再额外普攻一次，额外普攻不触发攻击者被动，不触发目标的御魂及被动，无视200防御并附带30%吸血。\n结界存在期间，每点鬼火可增加2%伤害、2%减伤。\n[tips_7]：施放『星火满天]。"
+        "zh": "[tips_11]。\n创造存在2回合的星火结界，此期间，友方全体提升10%伤害、25点速度、获得10%减伤。\n结界中的友方，在其回合进行普攻后，有100%概率对同一目标再额外普攻一次，额外普攻不触发攻击者被动，不触发目标的御魂及被动，无视200防御并附带30%吸血。\n结界存在期间，每点鬼火可增加2%伤害、2%减伤。\n[tips_7]：施放[星火满天]。"
       },
       "upgrades": [
         {
@@ -214,7 +330,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "[tips_7]: [Thi triển][Tinh Hỏa Mãn Thiên].",
+            "vi": "[tips_7]: Thi triển [Tinh Hỏa Mãn Thiên].",
             "en": "[tips_7]: Uses Blazing Sky.",
             "zh": "[tips_7]：施放[星火满天]"
           }
@@ -222,6 +338,64 @@
       ],
       "orbCost": 2,
       "iconFile": "3303.png"
+    },
+    {
+      "id": 3306,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tẫn Nhiễm Bất Dạ",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Shiranui múa một điệu múa lửa và tấn công toàn bộ kẻ địch, gây sát thương bằng 144% Công của bản thân. Mỗi đồng minh bị Hạ Gục, giảm 1 Quỷ Hỏa tiêu hao",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 132%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 138%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 144%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi đồng minh bị Hạ Gục, giảm 1 Quỷ Hỏa tiêu hao",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 4,
+      "iconFile": "3303b.png"
     }
   ],
   "assets": {

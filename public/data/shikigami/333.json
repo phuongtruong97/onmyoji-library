@@ -66,9 +66,9 @@
         "zh": "慢一点，铃鹿山的故事我可以讲很久。"
       },
       "description": {
-        "vi": "Vung Bát Xích Quỳnh Ngọc Kiếm chém ra một đạo kiếm khí, gây sát thương bằng 125% Tấn công cho mục tiêu kẻ địch.\nKhi có kẻ địch bị Vô Tận Kiếm Ngục của bản thân phóng thích, thay thế [Lộc Minh • Oanh] thành [skill_3334_1], đồng thời khiến xác suất [tips_9] trong 3 lần tiếp theo tăng lên 100%.",
+        "vi": "Vung Bát Xích Quỳnh Ngọc Kiếm chém ra một đạo kiếm khí, gây sát thương bằng 125% Tấn công cho mục tiêu kẻ địch.\nKhi có kẻ địch bị Vô Tận Kiếm Ngục của bản thân phóng thích, thay thế [Lộc Minh • Oanh] thành [Lộc Minh · Trảm], đồng thời khiến xác suất [tips_9] trong 3 lần tiếp theo tăng lên 100%.",
         "en": "Wields the Jade Blade of Yasakani and unleashes a wave of energy at 1 enemy, dealing damage equal to 125% of his ATK.\nWhen an enemy is Banished by his Unlimited Blade Prison, changes Hillcry: Blast to [skill_3334_1], and increases the chance of the next 3 [tips_9] to 100%.",
-        "zh": "挥动八尺琼玉剑斩出一道剑气，对敌方目标造成攻击125%伤害。\n当有敌方被自身的无尽剑狱放逐时，将『麓鸣·轰]替换为『[skill_3334_1]，并使下3次[tips_9]概率提升至100%。"
+        "zh": "挥动八尺琼玉剑斩出一道剑气，对敌方目标造成攻击125%伤害。\n当有敌方被自身的无尽剑狱放逐时，将[麓鸣·轰]替换为[[skill_3334_1]，并使下3次[tips_9]概率提升至100%。"
       },
       "upgrades": [
         {
@@ -114,7 +114,7 @@
       "parentSkillId": 3331,
       "maxLevel": 5,
       "name": {
-        "vi": "Lộc Minh • Trảm",
+        "vi": "Lộc Minh · Trảm",
         "en": "",
         "zh": ""
       },
@@ -126,11 +126,11 @@
       "description": {
         "vi": "Bát Xích Quỳnh Ngọc Kiếm tiến giai áo nghĩa, chém ra một đạo kiếm khí bá đạo, gây sát thương bằng 125% Tấn công cho mục tiêu kẻ địch, sát thương này không kích hoạt ngự hồn và nội tại của mục tiêu; nhận 50% xác suất [tips_9].\nSát thương do [Lộc Minh • Trảm] gây ra sẽ được cộng dồn 100% bổ sung vào sát thương đá rơi của [Vô Tận Kiếm Ngục] lần tiếp theo (tích lũy không vượt quá 600% Tấn công của Đại Nhạc Hoàn).",
         "en": "Advanced secret of the Jade Blade of Yasakani. Unleashes a crashing wave of energy at 1 enemy, dealing damage equal to 125% of his ATK. The damage doesn't trigger the enemy's Soul effects or passive effects; gains a 50% chance of [tips_9].\n100% of the damage dealt by Hillcry: Slash will be added to the next damage dealt by Rockfall from Unlimited Blade Prison (to a max of 600% of Otakemaru's ATK).",
-        "zh": "八尺琼玉剑进阶奥义，斩出一道霸道的剑气，对敌方目标造成攻击125%伤害，该伤害不会触发目标御魂被动；获得50%概率[tips_9]。\n『麓鸣·斩]造成的伤害，将100%额外附加在下一次『无尽剑狱]的落石伤害中（累积不超过大岳丸攻击600%）。"
+        "zh": "八尺琼玉剑进阶奥义，斩出一道霸道的剑气，对敌方目标造成攻击125%伤害，该伤害不会触发目标御魂被动；获得50%概率[tips_9]。\n[麓鸣·斩]造成的伤害，将100%额外附加在下一次[无尽剑狱]的落石伤害中（累积不超过大岳丸攻击600%）。"
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "3334.png"
+      "iconFile": "3331b.png"
     },
     {
       "id": 3332,
@@ -215,7 +215,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Sát thương sóng đá tăng lên 299%",
+            "vi": "Sát thương Sóng Đá tăng lên 299%",
             "en": "Increases the damage of Wave of Rocks to 299%.",
             "zh": "石浪伤害增加至299%"
           }
@@ -223,7 +223,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Sát thương sóng đá tăng lên 312%",
+            "vi": "Sát thương Sóng Đá tăng lên 312%",
             "en": "Increases the damage of Wave of Rocks to 312%.",
             "zh": "石浪伤害增加至312%"
           }
@@ -231,7 +231,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi kiếm ngục đóng lại, Thanh Hành Động tăng lên 70%",
+            "vi": "Khi Kiếm Ngục đóng lại, Thanh Hành Động tăng lên 70%",
             "en": "When Blade Prison closes, raises Move Bar by 70%.",
             "zh": "剑狱关闭时，行动条提升增加至70%"
           }
@@ -239,7 +239,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "12% tổng sát thương do sóng đá gây ra (tích lũy không vượt quá 600% Tấn công của Đại Nhạc Hoàn), sẽ được cộng dồn bổ sung vào sát thương đá rơi",
+            "vi": "12% tổng sát thương do Sóng Đá gây ra (tích lũy không vượt quá 600% Tấn công của Đại Nhạc Hoàn), sẽ được cộng dồn bổ sung vào sát thương đá rơi",
             "en": "12% of the total damage dealt by Wave of Rocks will be added to the damage of Rockfall (to a max of 600% of Otakemaru's ATK).",
             "zh": "石浪造成总伤害的12%（累积不超过大岳丸攻击600%），将额外附加在落石伤害中"
           }

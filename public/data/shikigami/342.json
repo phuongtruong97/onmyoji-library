@@ -184,7 +184,7 @@
       "description": {
         "vi": "Ném bát rượu về phía mục tiêu kẻ địch, đính kèm 5 tầng [buff_3423_2] cho kẻ đó, cho đến khi trận đấu kết thúc. Sau đó khiến toàn bộ phe địch có 40% [tips_2] [tips_103], duy trì 1 lượt.\nĐính kèm hiệu ứng phụ cho lần [skill_3421_1] tiếp theo: Có 40% [tips_2] khiến mục tiêu [tips_103], duy trì 1 lượt.\nHiệu ứng phụ của [buff_3423_2]: Sau khi bị đơn vị phe ta Đánh Thường, nếu tỷ lệ HP thấp hơn nguồn tấn công, sẽ phản kích nguồn tấn công.",
         "en": "Throws his wine bowl at 1 enemy, inflicting 5 [buff_3423_2] stacks lasting until the battle ends. Then, has a 40% [tips_2] of inflicting [tips_103] lasting 1 turn on all enemies.\nGrants the next [skill_3421_1] he uses an additional effect: Has a 40% [tips_2] of inflicting [tips_103] lasting 1 turn on the enemy.\n[buff_3423_2]'s additional effect: When taking a normal attack from an ally, launches a counter attack at the attacker if they have a higher proportion of HP.",
-        "zh": "将酒碗抛向敌方目标，为其附加5层[buff_3423_2]，直到战斗结束。然后使敌方全体有40%[tips_2][tips_103]，持续1回合。\n为下一次『[skill_3421_1]附加额外效果：有40%[tips_2]使目标[tips_103]，持续1回合。\n[buff_3423_2]额外效果：被友方单位普攻后，若生命比例低于攻击来源，则反击攻击来源。"
+        "zh": "将酒碗抛向敌方目标，为其附加5层[buff_3423_2]，直到战斗结束。然后使敌方全体有40%[tips_2][tips_103]，持续1回合。\n为下一次[[skill_3421_1]附加额外效果：有40%[tips_2]使目标[tips_103]，持续1回合。\n[buff_3423_2]额外效果：被友方单位普攻后，若生命比例低于攻击来源，则反击攻击来源。"
       },
       "upgrades": [
         {

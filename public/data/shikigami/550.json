@@ -68,7 +68,7 @@
       "description": {
         "vi": "Gọi ra lông vũ như gió, gây sát thương bằng 125% Tấn công, và có 30% [tips_2] đính kèm [tips_114]. Khi ở tư thế [buff_5504_1] đổi thành [skill_5504_1], cấp độ tăng theo sự cường hóa kỹ năng [Lưu Vũ Phong].",
         "en": "Conjures darts of plumes to strike 1 enemy, dealing damage equal to 125% of her ATK with a 30% [tips_2] of inflicting [tips_114]. While she's performing a [buff_5504_1], changes the skill to [skill_5504_1] with its skill level equal to the skill level of Plume Dart.",
-        "zh": "唤出如风之羽，造成攻击125%伤害，并有30%[tips_2]施加[tips_114]。处于[buff_5504_1]姿态时替换为『[skill_5504_1]，等级随『流羽风]技能强化。"
+        "zh": "唤出如风之羽，造成攻击125%伤害，并有30%[tips_2]施加[tips_114]。处于[buff_5504_1]姿态时替换为[[skill_5504_1]，等级随[流羽风]技能强化。"
       },
       "upgrades": [
         {
@@ -242,7 +242,7 @@
       "description": {
         "vi": "[tips_11] Tạo ra Tước Vũ Kết Giới 2 lượt và nhận 1 tầng [buff_5503_1], trong kết giới Kháng Hiệu Ứng của phe địch giảm 30%, sát thương đơn thể gây ra giảm 30%, sát thương đơn thể bản thân gánh chịu giảm 20%. Khi thi triển có 40% xác suất cơ bản đính kèm [tips_114] cho toàn bộ phe địch, duy trì 1 lượt. Khi mục tiêu phe ta không phải vật triệu hồi có HP thấp nhất trong kết giới chịu sát thương, có 40% [tips_2] đính kèm [tips_114] cho nguồn gây sát thương, duy trì 1 lượt. \n[tips_7]: Tạo ra Tước Vũ Kết Giới 2 lượt. Khi ở tư thế [buff_5504_1] đổi thành [skill_5505_1], cấp độ tăng theo sự cường hóa kỹ năng [Mê Ly Chi Cảnh].",
         "en": "[tips_11]. Creates Plume Field for 2 turns and gains 1 stack of [buff_5503_1]. Enemies inside the field lose 30% Effect RES and deal 30% less single-target damage, and self takes 20% less single-target damage. On cast, has a 40% base chance to inflict [tips_114] on all enemies for 1 turn. While the field is active, when the non-summoned entity ally with the lowest HP takes damage, has a 40% [tips_2] to inflict [tips_114] on the damage source for 1 turn. [tips_7]: Creates Plume Field for 2 turns. While in [buff_5504_1] stance, this skill is replaced with [skill_5505_1], and its level scales with Alluring Realm.",
-        "zh": "[tips_11]。创造2回合的雀羽结界并获得1层[buff_5503_1]，结界中敌方效果抵抗降低30%，造成单体伤害降低30%，自身受到的单体伤害降低20%。施放时有40%基础概率为敌方全体施加[tips_114]，持续1回合。结界中生命最低的非召唤物友方受到伤害时，有40%[tips_2]为伤害来源施加[tips_114]，持续1回合。[tips_7]：创造2回合的雀羽结界。处于[buff_5504_1]姿态时替换为『[skill_5505_1]，等级随『迷离之境]技能强化。"
+        "zh": "[tips_11]。创造2回合的雀羽结界并获得1层[buff_5503_1]，结界中敌方效果抵抗降低30%，造成单体伤害降低30%，自身受到的单体伤害降低20%。施放时有40%基础概率为敌方全体施加[tips_114]，持续1回合。结界中生命最低的非召唤物友方受到伤害时，有40%[tips_2]为伤害来源施加[tips_114]，持续1回合。[tips_7]：创造2回合的雀羽结界。处于[buff_5504_1]姿态时替换为[[skill_5505_1]，等级随[迷离之境]技能强化。"
       },
       "upgrades": [
         {

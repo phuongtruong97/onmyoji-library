@@ -126,7 +126,7 @@
       "description": {
         "vi": "[tips_11].\nKhi bắt đầu lượt, nếu bản thân không ở trạng thái [tips_17], mở huyễn cảnh [skill_3634_1]; nếu huyễn cảnh [Vương Chi Thịnh Yến] chưa mở, khi kết thúc lượt tăng 50% thanh hành động của bản thân.\n[Thi triển] Áp đặt [buff_3632_1] lên mục tiêu kẻ địch với 100% [tips_2], duy trì 2 lượt.",
         "en": "[tips_11].\nAt the start of his turn, if he's not [tips_17], creates a [skill_3634_1] field. If Ceremony of the King field was not created, raises his Move Bar by 50% at the end of his turn.\nUsing the skill has a 100% [tips_2] of inflicting [buff_3632_1] lasting 2 turns on the enemy target.",
-        "zh": "[tips_11]。\n回合开始时，若自身未处于[tips_17]，开启『[skill_3634_1]幻境；若『王之盛宴]幻境未开启，回合结束时提升自身50%行动条。\n【施放】以100%[tips_2]对敌方目标施加[buff_3632_1]，持续2回合。"
+        "zh": "[tips_11]。\n回合开始时，若自身未处于[tips_17]，开启[[skill_3634_1]幻境；若[王之盛宴]幻境未开启，回合结束时提升自身50%行动条。\n【施放】以100%[tips_2]对敌方目标施加[buff_3632_1]，持续2回合。"
       },
       "upgrades": [
         {
@@ -209,7 +209,7 @@
       "description": {
         "vi": "Tấn công toàn thể kẻ địch, gây sát thương 159%, đồng thời hồi phục lượng HP bằng 100% tấn công cho bản thân và 1 đồng minh có tỷ lệ HP thấp nhất khác. Khi [Thi Triển] trong lượt, gây thêm 2 lần sát thương lên kẻ địch bị áp đặt Kim Liên.\nKhi Kim Liên bị áp đặt biến mất, giải trừ hoặc [tips_1] hiệu ứng khống chế của bản thân, không tốn tiêu hao [Thi Triển] 1 lần [Sát Na Liên Hoa Trảm] không kích hoạt Ngự Hồn và bị động của toàn thể kẻ địch, nhưng sát thương và hồi phục giảm 40%",
         "en": "Attacks all enemies, dealing damage equal to 159% of his ATK and recovering the HP of himself and the ally with the lowest proportion of HP each by 100% of his ATK. Using the skill on his turn also inflicts damage to the enemy with Golden Lotus twice.\nWhen the inflicted Golden Lotus disappears, dispels or [tips_1] all control effects on him and uses an Instant Lotus Bloom for no orb cost. The damage doesn't trigger the Soul-set effects and passive skills of all enemies, and instead deals 40% less damage and recovers 40% less HP.",
-        "zh": "攻击敌方全体，造成攻击159%伤害，并为自身和另一生命比例最低的友方恢复攻击100%的生命。回合内施放时，对被施加金莲的敌方额外造成2次伤害。\n施加的金莲消失时，驱散或[tips_1]自身控制效果，免消耗施放1次不触发敌方全体御魂及被动的『刹那莲华绽放]，但伤害和恢复降低40%"
+        "zh": "攻击敌方全体，造成攻击159%伤害，并为自身和另一生命比例最低的友方恢复攻击100%的生命。回合内施放时，对被施加金莲的敌方额外造成2次伤害。\n施加的金莲消失时，驱散或[tips_1]自身控制效果，免消耗施放1次不触发敌方全体御魂及被动的[刹那莲华绽放]，但伤害和恢复降低40%"
       },
       "upgrades": [
         {

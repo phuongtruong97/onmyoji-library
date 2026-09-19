@@ -151,7 +151,7 @@
       "description": {
         "vi": "Tấn công mục tiêu kẻ địch 5 lần, mỗi lần gây sát thương bằng 50% Tấn công, đồng thời gọi ngẫu nhiên một trong các con mèo nhỏ trong danh sách của [skill_3071_1] đến trợ chiến.",
         "en": "Launches a 5-strike attack on 1 enemy, dealing damage equal to 50% of her ATK on each strike, and summons one of the kittens listed in [skill_3071_1] for assistance.",
-        "zh": "攻击敌方目标5次，每次造成攻击50%伤害，并随机呼唤『[skill_3071_1]所列其中一只小猫助攻。"
+        "zh": "攻击敌方目标5次，每次造成攻击50%伤害，并随机呼唤[[skill_3071_1]所列其中一只小猫助攻。"
       },
       "upgrades": [
         {

@@ -68,7 +68,7 @@
       "description": {
         "vi": "Cầm Hắc Liềm khổng lồ trừng phạt mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công.\nKhi ở trong lượt mới nhận được từ [skill_2112_1], [Trừng Phạt] sẽ thay thế thành [skill_2114_5].",
         "en": "Wields his deadly scythe to punish 1 enemy, dealing damage equal to 125% of his ATK.\nIn the new turn granted by [skill_2112_1], his Punishment will be changed to [skill_2114_5].",
-        "zh": "持巨大的黑镰惩戒敌方目标，造成攻击125%伤害。\n处于『[skill_2112_1]获得的新回合里时，『惩戒]将替换为『[skill_2114_5]。"
+        "zh": "持巨大的黑镰惩戒敌方目标，造成攻击125%伤害。\n处于[[skill_2112_1]获得的新回合里时，[惩戒]将替换为[[skill_2114_5]。"
       },
       "upgrades": [
         {

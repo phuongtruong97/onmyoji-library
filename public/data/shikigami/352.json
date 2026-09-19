@@ -184,7 +184,7 @@
       "description": {
         "vi": "Tấn công mục tiêu 3 lần, mỗi lần gây sát thương bằng 100% Tấn công và đính kèm 1 tầng [buff_3523_1], duy trì 2 lượt.\nSau khi Xà Linh trở về, kỹ năng thay thế thành [skill_3526_1].",
         "en": "Launches a 3-strike attack on 1 enemy. Each strike deals damage equal to 100% of her ATK and inflicts a stack of [buff_3523_1] for 2 turns on them.\n When the Serpent returns, the skill is changed to [skill_3526_1].",
-        "zh": "攻击目标3次，每次造成攻击100%伤害并附加1层[buff_3523_1]，持续2回合。\n蛇灵返回后，技能替换为『[skill_3526_1]。"
+        "zh": "攻击目标3次，每次造成攻击100%伤害并附加1层[buff_3523_1]，持续2回合。\n蛇灵返回后，技能替换为[[skill_3526_1]。"
       },
       "upgrades": [
         {
@@ -242,7 +242,7 @@
       "description": {
         "vi": "Tấn công mục tiêu 3 lần, mỗi lần tấn công giảm 7% giới hạn HP tối đa của mục tiêu kẻ địch, đồng thời mỗi lần gây sát thương bằng 100% Tấn công và đính kèm 1 tầng [buff_3523_3], duy trì 2 lượt, sau đó đính kèm [buff_3526_1] cho toàn bộ phe địch, duy trì 3 lượt.\nThừa hưởng hiệu ứng nâng cấp kỹ năng của [skill_3523_1].",
         "en": "Launches a 3-strike attack on 1 enemy. Each strick reduces the target's max HP by 7%, deals damage equal to 100% of her ATK and inflicts a stack of [buff_3523_3] on them for 2 turns. Then, inflicts [buff_3526_1] on all enemies for 3 turns.\nInherits the level-up effects of [skill_3523_1].",
-        "zh": "攻击目标3次，每次攻击时降低敌方目标7%的最大生命上限，同时每次造成攻击100%伤害并附加1层[buff_3523_3]，持续2回合，之后对敌方全体附加[buff_3526_1]，持续3回合。\n继承『[skill_3523_1]的技能升级效果。"
+        "zh": "攻击目标3次，每次攻击时降低敌方目标7%的最大生命上限，同时每次造成攻击100%伤害并附加1层[buff_3523_3]，持续2回合，之后对敌方全体附加[buff_3526_1]，持续3回合。\n继承[[skill_3523_1]的技能升级效果。"
       },
       "upgrades": [
         {

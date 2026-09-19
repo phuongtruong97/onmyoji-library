@@ -66,7 +66,7 @@
         "zh": "切断！"
       },
       "description": {
-        "vi": "Vung lưỡi dao Nguyệt Diệu tấn công mục tiêu kẻ địch, gây sát thương 125%.\nKhi bắt đầu chiến đấu nhận 5 tầng Chúc Phúc Tân Nguyệt.",
+        "vi": "Vung lưỡi dao Nguyệt Diệu tấn công mục tiêu kẻ địch, gây sát thương 125%.\nKhi bắt đầu chiến đấu nhận 5 tầng [buff_3381_1]",
         "en": "Wields Moonlight Glaive to attack 1 enemy, dealing damage equal to 125% of her ATK.\nGains 5 layers of New Moon's Blessing at the start of battle.",
         "zh": "挥舞月曜之刃攻击敌方目标，造成攻击125%伤害。\n战斗开始时获得5层新月祝福。"
       },
@@ -124,9 +124,9 @@
         "zh": "永恒之月！"
       },
       "description": {
-        "vi": "Chuyển đổi chiêu thức của Nguyệt Chi Áo Nghĩa, đồng thời có thể đính kèm hiệu ứng [Xâm Lược], [Phi Lưu], [Phong Tật] hoặc [Bất Động] cho chiêu thức đó, thời gian hồi chiêu 1 lượt.",
+        "vi": "Chuyển đổi chiêu thức của Nguyệt Chi Áo Nghĩa, đồng thời có thể đính kèm hiệu ứng [skill_33821_1], [skill_33822_1], [skill_33823_1] hoặc [skill_33824_1] cho chiêu thức đó, thời gian hồi chiêu 1 lượt.\nKỹ năng này cũng dùng để chuyển đổi giữa Tàn Dương Vô Ảnh và Lung Nguyệt Vô Miên",
         "en": "Toggles through different modes of Moon's Secrets. Adds the effect of Ignis, Aqua, Aer, or Terra to it with a 1 turn cooldown.",
-        "zh": "切换月之奥义的招式，并可为其附加『侵掠]、『飞流]、『风疾]或『不动]效果，冷却1回合。"
+        "zh": "切换月之奥义的招式，并可为其附加[侵掠]、[飞流]、[风疾]或[不动]效果，冷却1回合。"
       },
       "upgrades": [
         {
@@ -162,7 +162,7 @@
           }
         }
       ],
-      "orbCost": 1,
+      "orbCost": 0,
       "iconFile": "3382.png"
     },
     {
@@ -222,6 +222,64 @@
       ],
       "orbCost": 3,
       "iconFile": "3383.png"
+    },
+    {
+      "id": 3384,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lung Nguyệt Vô Miên",
+        "en": "Shadowless Sun",
+        "zh": "残阳无影"
+      },
+      "intro": {
+        "vi": "Tiến quân về hướng phong bão vĩnh kiếp!",
+        "en": "To the eternal storm, charge!",
+        "zh": "向着永劫之风岚，进军！"
+      },
+      "description": {
+        "vi": "Tập trung linh lực và tung ra một Nguyệt Trảm tấn công 5 lần vào một kẻ địch, mỗi đòn gây sát thương tương đương 63% công kích của Lang Dạ Xoa Cơ.",
+        "en": "One of the Moon's Secrets. Takiyasha Hime focuses her spiritual power and launches a Moon Slash to inflict 5 hits on an enemy, dealing damage equal to 50% of her attack with each hit.\n",
+        "zh": "号令鬼灵骑士发起冲锋，对敌方全体造成分别为攻击12%、攻击24%和攻击136%的连续3次伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 53%",
+            "en": "Sát thương tăng lên 53%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 55%",
+            "en": "Sát thương tăng lên 55%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 58%",
+            "en": "Sát thương tăng lên 58%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 63%",
+            "en": "Sát thương tăng lên 63%",
+            "zh": "伤害增加至120%"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "3383b.png"
     }
   ],
   "assets": {

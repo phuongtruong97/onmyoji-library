@@ -126,7 +126,7 @@
       "description": {
         "vi": "Khi tử trận, thi triển miễn phí 1 lần [skill_2503_1] lên mỗi kẻ địch, nếu có ít nhất hai xúc xắc cùng điểm, lập tức hồi sinh, và [tips_20] lượng HP bằng 10% HP tối đa x điểm trùng nhỏ nhất.\nThời gian hồi chiêu là điểm trùng lớn nhất.",
         "en": "When he's KO'd, uses [skill_2503_1] on every one of his enemies free of orb cost. Revives himself immediately if there are equal dice results, [tips_20]ing his HP by 10% times the smallest dice result.\nCD: Maximum equal dice results.",
-        "zh": "阵亡时，对每个敌方免消耗施放1次『[skill_2503_1]，若有至少两个骰子同点，则立即复活，并使自身[tips_20]等同生命上限10%x最小同点数。\n冷却时间为最大同点数。"
+        "zh": "阵亡时，对每个敌方免消耗施放1次[[skill_2503_1]，若有至少两个骰子同点，则立即复活，并使自身[tips_20]等同生命上限10%x最小同点数。\n冷却时间为最大同点数。"
       },
       "upgrades": [],
       "orbCost": 0,

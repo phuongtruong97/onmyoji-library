@@ -126,7 +126,7 @@
       "description": {
         "vi": "Trị liệu cho mục tiêu phe ta cùng một đồng minh khác có tỷ lệ HP thấp nhất lượng HP bằng 8% giới hạn HP, giải trừ hoặc [tips_1] 1 [tips_3] trên người họ, và giúp họ nhận [buff_2912_1], [tips_15] 1 lượt. Đồng thời thi triển miễn phí [Vạn Tượng Chi Thư] (Cấp kỹ năng 1) lên kẻ địch có tỷ lệ HP thấp nhất.\n[tips_7]: Bản thân nhận [buff_2912_1], [tips_15] 1 lượt.",
         "en": "Heals the HP of 1 ally and another ally with the lowest proportion of HP by 8% of his max HP. Dispels or [tips_1]s a [tips_3] on the first ally and grants them [buff_2912_1] [tips_15] for 1 turn). Also uses Scroll of Everything (at Lv. 1) without spending any orbs on the enemy with the lowest proportion of HP.\n[tips_7]: He gains [buff_2912_1] [tips_15] for 1 turn).",
-        "zh": "为友方目标及生命比例最低的另一友方，治疗生命上限8%的生命，驱散或[tips_1]其带有的1个[tips_3]，并使其获得[buff_2912_1]，[tips_15]1回合。同时对生命比例最低的敌方，免消耗施放『万象之书]（技能等级1）\n[tips_7]：自身获得[buff_2912_1]，[tips_15]1回合。"
+        "zh": "为友方目标及生命比例最低的另一友方，治疗生命上限8%的生命，驱散或[tips_1]其带有的1个[tips_3]，并使其获得[buff_2912_1]，[tips_15]1回合。同时对生命比例最低的敌方，免消耗施放[万象之书]（技能等级1）\n[tips_7]：自身获得[buff_2912_1]，[tips_15]1回合。"
       },
       "upgrades": [
         {
@@ -184,7 +184,7 @@
       "description": {
         "vi": "Đính kèm [buff_2911_1] cho mục tiêu kẻ địch cùng một kẻ địch khác có tỷ lệ HP thấp nhất, sau đó gây cho họ sát thương bằng 80% Tấn công, trạng thái [tips_15] 1 lượt sau đó kết toán. Đồng thời thi triển miễn phí [Vân Du] (Cấp kỹ năng 1) lên đồng minh có tỷ lệ HP thấp nhất.",
         "en": "Inflicts [buff_2911_1] [tips_15] for 1 turn before resolving) to 1 enemy and the enemy with the lowest proportion of HP and deals damage equal to 80% of his ATK. Also uses Roam (at Lv. 1) without spending any orbs on the ally with the lowest proportion of HP.",
-        "zh": "为敌方目标及生命比例最低的另一敌方，附加[buff_2911_1]，然后对其造成攻击80%伤害，状态[tips_15]1回合后结算。同时对生命比例最低的友方，免消耗施放『云游]（技能等级1）"
+        "zh": "为敌方目标及生命比例最低的另一敌方，附加[buff_2911_1]，然后对其造成攻击80%伤害，状态[tips_15]1回合后结算。同时对生命比例最低的友方，免消耗施放[云游]（技能等级1）"
       },
       "upgrades": [
         {

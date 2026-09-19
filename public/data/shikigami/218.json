@@ -126,7 +126,7 @@
       "description": {
         "vi": "Khi đồng minh Đánh Thường, tăng 5% Thanh Hành Động. Khi lượt bắt đầu, có 100% xác suất xua tan hoặc [tips_1] 1 [tips_3] của bản thân. Khi [Chính Nghĩa Chi Thích], [Quần Nha Loạn Vũ] [tips_10] đồng minh, xua tan hoặc [tips_1] toàn bộ [tips_3] mang trên người đồng minh đó, xua tan hoặc [tips_1] thêm 1 [tips_3] mang trên 1 đồng minh ngẫu nhiên.",
         "en": "When an ally uses a normal attack, raises his own Move Bar by 5%. At the start of his turn, there's a 100% chance that 1 [tips_3] on him is dispelled or [tips_1]d. When his Blade of Justice or Deadly Flock issues a [tips_10] to an ally, dispels or [tips_1]s all the [tips_3]s on them. Additionally dispels or [tips_1]s a [tips_3] on a random ally.",
-        "zh": "友方普攻时，增加5%行动条。回合开始时，有100%概率驱散或[tips_1]自身的1个[tips_3]。『正义之刺]、『群鸦乱舞][tips_10]友方时，驱散或[tips_1]其带有的所有[tips_3]，额外驱散或[tips_1]1名随机友方带的1个[tips_3]。"
+        "zh": "友方普攻时，增加5%行动条。回合开始时，有100%概率驱散或[tips_1]自身的1个[tips_3]。[正义之刺]、[群鸦乱舞][tips_10]友方时，驱散或[tips_1]其带有的所有[tips_3]，额外驱散或[tips_1]1名随机友方带的1个[tips_3]。"
       },
       "upgrades": [
         {

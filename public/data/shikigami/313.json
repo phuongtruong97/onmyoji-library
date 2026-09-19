@@ -126,7 +126,7 @@
       "description": {
         "vi": "Khi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân ở trạng thái [tips_27], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1], mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho [Thiết Toái Nha] tiến hóa, lần lượt là [skill_3136_1], [skill_3136_2], [skill_3136_3], [skill_3136_4].",
         "en": "Whenever an enemy spends orbs, if he's under [tips_27], there is a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each stack consumed increases the damage by 10%.\nWhenever this is triggered, Tessaiga evolves in sequence into [skill_3136_1], [skill_3136_2], [skill_3136_3], and [skill_3136_4].",
-        "zh": "当敌方消耗鬼火后，若自身处于[tips_27]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使『铁碎牙]得到进化，依序为『[skill_3136_1]、『[skill_3136_2]、『[skill_3136_3]、『[skill_3136_4]。"
+        "zh": "当敌方消耗鬼火后，若自身处于[tips_27]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有[buff_3131_1]层数，每层额外提升该次伤害10%。\n每次触发后，都将使[铁碎牙]得到进化，依序为[[skill_3136_1]、[[skill_3136_2]、[[skill_3136_3]、[[skill_3136_4]。"
       },
       "upgrades": [],
       "orbCost": 1,
@@ -151,7 +151,7 @@
       "description": {
         "vi": "Kế thừa tất cả hiệu ứng của [Long Lân Thiết Toái Nha].\nKhi gây sát thương, 50% sát thương sẽ giảm giới hạn HP của mục tiêu, giảm tối đa giới hạn HP của mục tiêu xuống còn 20% ban đầu.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3], có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công, không còn tiêu hao [buff_3131_1], mỗi tầng [buff_3131_1] tăng thêm 10% sát thương lần đó.",
         "en": "Inherits all the effects of Dragon-Scaled Tessaiga.\nWhen dealing damage, 50% of the damage reduces the target's max HP, up to a maximum reduction of 20% of max HP.\nIf he's not under any [tips_3], whenever an enemy consumes orbs, he has a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each [buff_3131_1] stack consumed increases the damage by 10%.",
-        "zh": "继承『龙鳞铁碎牙]所有效果。\n造成伤害时，伤害的50%将降低目标生命上限，最多将目标生命上限降至原来的20%。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害，不再消耗[buff_3131_1]，每层[buff_3131_1]额外提升该次伤害10%。"
+        "zh": "继承[龙鳞铁碎牙]所有效果。\n造成伤害时，伤害的50%将降低目标生命上限，最多将目标生命上限降至原来的20%。\n当敌方消耗鬼火后，若自身未承受[tips_3]，有10%概率（每层[buff_3131_1]额外提升16%）对其进行反击，造成攻击176%伤害，不再消耗[buff_3131_1]，每层[buff_3131_1]额外提升该次伤害10%。"
       },
       "upgrades": [],
       "orbCost": 1,

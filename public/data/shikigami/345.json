@@ -66,7 +66,7 @@
         "zh": "这里是最好的猎场。"
       },
       "description": {
-        "vi": "[tips_11].\nDùng xích xích tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 50% Tấn công, có 100% xác suất đính kèm [buff_3452_1], duy trì 2 lượt; nếu kẻ địch đã có [buff_3452_1] thì xác suất giảm xuống 30%. \nKhi kẻ địch nhận được hiệu ứng tăng Thanh Hành Động đơn thể hoặc tăng tốc, Quỷ Đồng Hoàn thi triển [Hàng Chu] lên kẻ đó (trước khi bắt đầu lượt, hiệu ứng này cùng [Hàng Chu] do Hài Chi Tỏa kích hoạt thêm thi triển tối đa 5 lần, nếu kẻ địch đã nhận [buff_3452_1] sẽ không kích hoạt lần nữa).",
+        "vi": "[tips_11].\nDùng xích tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 50% Tấn công, có 100% xác suất đính kèm [buff_3452_1], duy trì 2 lượt; nếu kẻ địch đã có [buff_3452_1] thì xác suất giảm xuống 30%. \nKhi kẻ địch nhận được hiệu ứng tăng Thanh Hành Động đơn thể hoặc tăng tốc, Quỷ Đồng Hoàn thi triển [Hàng Chu] lên kẻ đó (trước khi bắt đầu lượt, hiệu ứng này cùng [Hàng Chu] do Hài Chi Tỏa kích hoạt thêm thi triển tối đa 5 lần, nếu kẻ địch đã nhận [buff_3452_1] sẽ không kích hoạt lần nữa).",
         "en": "[Tips_11].\nAttacks an enemy target 2 times with chains, each hit dealing 50% ATK damage, with a 100% chance to inflict [buff_3452_1] for 2 turns. If the target is already afflicted with [buff_3452_1], the chance is reduced to 30%. When the enemy gains a single-target Move Bar boost or a SPD Up effect, Kidomaru casts Descending Judgment on them. (回合开始前，该效果和骸之锁额外触发的「降诛]至多施放5次，若敌方已获得「骸之锁]则不会再次触发）)",
         "zh": "[tips_11]。\n用锁链攻击敌方目标2次，每次造成攻击50%伤害，有100%概率附加[buff_3452_1]，持续2回合；若敌方已有[buff_3452_1]则概率降至30%。敌方获得单体行动条提升或加速效果时，鬼童丸对其施放「降诛](回合开始前，该效果和骸之锁额外触发的「降诛]至多施放5次，若敌方已获得「骸之锁]则不会再次触发）)。"
       },
