@@ -21,7 +21,7 @@
       "zh": "盛开"
     },
     "description": {
-      "vi": "",
+      "vi": "Tăng 30% sát thương gây ra.",
       "en": "",
       "zh": ""
     },
@@ -30,21 +30,21 @@
   "buff_2024_1": {
     "kind": "buff",
     "title": {
-      "vi": "Hồ Kích ấn ký",
+      "vi": "Hồ Kích Ấn Ký",
       "en": "Cunning Mark",
       "zh": "狐袭印记"
     },
     "description": {
-      "vi": "",
+      "vi": "Mỗi tầng Hồ Kích Ấn Ký gây sát thương gián tiếp bằng 10% công kích của Tam Vĩ Hồ mỗi lượt, duy trì trong 2 lượt. Có thể cộng dồn.",
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "Indirect11.png"
   },
   "buff_2081_1": {
     "kind": "buff",
     "title": {
-      "vi": "Hơi rượu",
+      "vi": "Hơi Rượu",
       "en": "Drunk",
       "zh": "酒气"
     },
@@ -203,7 +203,7 @@
       "zh": "跳跳尸毒"
     },
     "description": {
-      "vi": "",
+      "vi": "Gây sát thương gián tiếp vào cuối lượt của mục tiêu.",
       "en": "",
       "zh": ""
     },
@@ -338,12 +338,12 @@
   "buff_25331_1": {
     "kind": "buff",
     "title": {
-      "vi": "Mất máu",
+      "vi": "Mất Máu",
       "en": "Blood Loss",
       "zh": "失血"
     },
     "description": {
-      "vi": "",
+      "vi": "Gây sát thương gián tiếp vào cuối lượt của mục tiêu.",
       "en": "",
       "zh": ""
     },
@@ -497,11 +497,11 @@
       "zh": "落樱"
     },
     "description": {
-      "vi": "",
+      "vi": "Gây sát thương gián tiếp bằng 9% máu tối đa của Đào Hoa Yêu, tối đa không vượt quá 370% công kích của cô ấy khi kết thúc lượt.",
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "Indirect06.png"
   },
   "buff_2693_1": {
     "kind": "buff",
@@ -553,11 +553,11 @@
       "zh": "风护"
     },
     "description": {
-      "vi": "",
+      "vi": "Hấp thụ sát thương, không thể xua tan",
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "Buff52.png"
   },
   "buff_2723_1": {
     "kind": "buff",
@@ -772,12 +772,12 @@
   "buff_2984_1": {
     "kind": "buff",
     "title": {
-      "vi": "Cú Thủ",
+      "vi": "Cú Thủ Hộ",
       "en": "Owl's Protection",
       "zh": "鸮之守"
     },
     "description": {
-      "vi": "Khi chịu sát thương, hấp thụ toàn bộ sát thương và ghi chép. Khi ấn ký này biến mất, khiến đồng minh sở hữu [tips_21] lượng HP tương đương 80% của giá trị ghi chgetVideo (không vượt quá 200% giới hạn HP của Kaoru, khi đạt giới hạn sẽ gỡ bỏ và kết toán)",
+      "vi": "Khi chịu sát thương, hấp thụ toàn bộ sát thương và ghi chép. Khi ấn ký này biến mất, khiến đồng minh sở hữu [tips_21] lượng HP tương đương 80% của giá trị ghi lại (không vượt quá 200% giới hạn HP của Kaoru, khi đạt giới hạn sẽ gỡ bỏ và kết toán)",
       "en": "When taking damage, absorbs all damage and records the amount. When this mark disappears, [tips_21] the bearer's HP by 80% of the recorded amount. (Capped at 200% of Kaoru's max HP. Upon reaching the cap, the mark is removed and resolved)",
       "zh": "受到伤害时，吸收全部伤害并记录。在此印记消失时，使拥有的友方 [tips_21] 等同记录值80%的生命。（不超过薰生命上限的200%，达到上限时将移除并进行结算）"
     },
@@ -819,7 +819,7 @@
       "zh": "白子"
     },
     "description": {
-      "vi": "Giảm -5% sát thương.",
+      "vi": "Giảm 5% sát thương gây ra.",
       "en": "Reduces damage by -5%.",
       "zh": "降低-5%伤害。"
     },
@@ -833,7 +833,7 @@
       "zh": "黑子"
     },
     "description": {
-      "vi": "",
+      "vi": "Rơi vào trạng thái suy yếu, sát thương phải nhận tăng thêm 5%.",
       "en": "",
       "zh": ""
     },
@@ -875,11 +875,11 @@
       "zh": "虫之痕"
     },
     "description": {
-      "vi": "",
+      "vi": "Rơi vào trạng thái suy yếu, sát thương phải nhận tăng thêm 30%.",
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "4.png"
   },
   "buff_3092_1": {
     "kind": "buff",
@@ -1043,11 +1043,11 @@
       "zh": "虫怨"
     },
     "description": {
-      "vi": "",
+      "vi": "Gây sát thương gián tiếp vào cuối lượt của mục tiêu.",
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "Indirect02.png"
   },
   "buff_3192_1": {
     "kind": "buff",
@@ -1173,7 +1173,7 @@
       "en": "Prevents the effects of shikigami's souls and prevents shikigami passive skills from taking effect.",
       "zh": "式神所配戴御魂效果失效，式神被动技能失效。"
     },
-    "iconFile": ""
+    "iconFile": "Debuff05.png"
   },
   "buff_3283_1": {
     "kind": "buff",
@@ -1242,20 +1242,6 @@
       "vi": "Sát thương gánh chịu giảm 20%",
       "en": "Reduces damage taken by 20%.",
       "zh": "受到的伤害下降20%"
-    },
-    "iconFile": ""
-  },
-  "buff_3334_1": {
-    "kind": "buff",
-    "title": {
-      "vi": "Vô Tận Kiếm Ngục",
-      "en": "",
-      "zh": ""
-    },
-    "description": {
-      "vi": "Mỗi mục tiêu Sóng Đá tấn công, sát thương giảm 10%. Khi Otakemaru tử trận hoặc toàn bộ kẻ địch ngoài mục tiêu bị trục xuất đều đã tử trận, Kiếm Ngục lập tức đóng lại.\nNếu khi thi triển chỉ có 1 kẻ địch, hoặc mục tiêu miễn nhiễm hiệu ứng khống chế thì sẽ không mở Kiếm Ngục, nhưng Sóng Đá sẽ gây gấp đôi sát thương lên mục tiêu đó.",
-      "en": "Reduces the damage dealt by Wave of Rocks by 10% for each enemy it attacks. Blade Prison ends immediately when Otakemaru or all enemies other than the banished enemy are KO'd.\nIf there's only 1 enemy when using the skill or if the enemy is immune to controlling effects, Blade Prison cannot be created. Wave of Rocks deals double damage to the enemy instead.",
-      "zh": "石浪每攻击1个目标，伤害降低10%。大岳丸死亡或被放逐目标之外的敌方全部死亡时，剑狱即刻关闭。\n若施放时只有1名敌方、或目标免疫控制效果，则不开启剑狱，但石浪将对其造成双倍伤害。"
     },
     "iconFile": ""
   },
@@ -1533,7 +1519,7 @@
       "zh": "灵鱼盾"
     },
     "description": {
-      "vi": "",
+      "vi": "Hấp thụ sát thương, không thể xua tan",
       "en": "",
       "zh": ""
     },
@@ -1697,15 +1683,15 @@
     "kind": "buff",
     "title": {
       "vi": "Đồng Cổ",
-      "en": "Bewitching Stare",
-      "zh": "瞳蛊"
+      "en": "",
+      "zh": ""
     },
     "description": {
-      "vi": "Kích hoạt khi nhận hiệu quả trị liệu, tiêu hao 1 tầng làm hiệu quả đó vô hiệu, giới hạn 3 tầng.",
-      "en": "Triggered when receiving a healing effect. One layer is consumed, nullifying the effect. Can be stacked up to 3 layers.",
-      "zh": "受到治疗效果时触发，消耗1层使其无效，上限3层。"
+      "vi": "Khi mục tiêu dính ấn nhận hiệu ứng hồi máu hoặc được kéo thanh hành động, Đồng Cổ sẽ kích hoạt và tiêu hao 1 tầng để vô hiệu hóa hoàn toàn hiệu ứng đó.\nMỗi khi Đồng Cổ được kích hoạt, giảm máu tối đa của mục tiêu đi 8% (tối đa giảm đến 20%, mỗi lần kích hoạt không vượt quá 1200% công kích của Phược Cốt Thanh Cơ).",
+      "en": "",
+      "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "Unique17.png"
   },
   "buff_3526_1": {
     "kind": "buff",
@@ -1827,7 +1813,7 @@
       "zh": "溟种"
     },
     "description": {
-      "vi": "",
+      "vi": "Vào cuối lượt, mỗi tầng Minh Chủng gây sát thương bằng 100% công kích của SP Bỉ Ngạn Hoa. Nếu lượng sát thương này bị hấp thụ bởi khiên chắn hoặc bị vô hiệu hóa bởi miễn nhiễm sát thương, SP Bỉ Ngạn Hoa nhận thêm 1 đóa Minh Hoa..",
       "en": "",
       "zh": ""
     },
@@ -4860,7 +4846,7 @@
   "tips_20": {
     "kind": "tip",
     "title": {
-      "vi": "Hồi Phục",
+      "vi": "Khôi Phục",
       "en": "Recover",
       "zh": "恢复"
     },
@@ -5275,7 +5261,7 @@
       "en": "Becomes unable to take actions and gains immunity to damage, debuffs, controlling effects, and Banish. When all the Nether Seeds are cleared, removes all Nether Flowers on her and she leaves Dormant.",
       "zh": "处于无法动作状态， 免疫伤害、减益效果、控制效果和放逐；溟种全部被清除时移除自身所有溟花，并离开沉眠。"
     },
-    "iconFile": ""
+    "iconFile": "Buff86.png"
   },
   "tips_3621": {
     "kind": "tip",
@@ -5504,12 +5490,12 @@
   "tips_5581": {
     "kind": "tip",
     "title": {
-      "vi": "Độn tẩu",
+      "vi": "Đào Tẩu",
       "en": "Phased Out",
       "zh": "遁离"
     },
     "description": {
-      "vi": "(Kẻ địch phải chịu bị bao bọc trong một luồng hào quang đỏ thẫm.)",
+      "vi": "Xóa bỏ toàn bộ hiệu ứng bất lợi trên bản thân, để lại chiếc đuôi rồi Đào Tẩu. Trong thời gian Đào Tẩu, bản thân miễn nhiễm với sát thương, hiệu ứng có lợi, hiệu ứng bất lợi, hiệu ứng khống chế, trục xuất và các hiệu ứng tương tự, đồng thời miễn nhiễm với mọi thay đổi trên thanh hành động. Đạo Nhân Thần sẽ quay trở lại sân đấu ở lượt hành động tiếp theo, thời gian hồi chiêu là 2 lượt.\nNếu Đạo Nhân Thần là mục tiêu duy nhất còn lại trong đội, bản thân không thể Đào Tẩu; nếu đang trong trạng thái Đào Tẩu, bản thân sẽ lập tức trở lại sân đấu.",
       "en": "Inflicts Amulet: Death on all enemies. This increases the damage the target takes by 30%. The effect disappears after the target moves 2 times.",
       "zh": "为敌方全体贴上 [符咒·灭] ，使目标受到的伤害增加30%，效果在目标行动2次后消失。"
     },
@@ -5789,9 +5775,9 @@
       "zh": "蝙蝠"
     },
     "description": {
-      "vi": "Tấn công kẻ địch đính kèm số tầng 《Thôn Phệ》 tương ứng, tích lũy đủ 12 con tiến vào tư thế 《Thân Này Là Đêm》.",
+      "vi": "Tấn công kẻ địch đính kèm số tầng [Thôn Phệ] tương ứng, tích lũy đủ 12 con tiến vào tư thế [Thân Này Là Đêm].",
       "en": "Attacks inflict a corresponding stacks of Gnaw. Accumulating 12 Bats will enter the Night Incarnate form.",
-      "zh": "攻击敌方附加对应层数《喰噬》，累积12只进入《此身即夜》姿态。"
+      "zh": "攻击敌方附加对应层数[喰噬]，累积12只进入[此身即夜]姿态。"
     },
     "iconFile": ""
   },
@@ -5803,9 +5789,9 @@
       "zh": "飞缘魔"
     },
     "description": {
-      "vi": "Không thể hành động, không kích hoạt Ngự Hồn và bị động, HP bằng 100% HP của Thực Nguyệt Hấp Huyết Cơ, nếu phe địch chỉ còn Phi Duyên Ma thì xem như chiến đấu thắng lợi. Cùng một Thức thần hiệu ứng này chỉ có thể kích hoạt 1 lần.\nMỗi khi có 1 Phi Duyên Ma, sát thương của《Thực Nguyệt Vi Miện》gây ra cho toàn thể kẻ địch tăng 30%, tăng tối đa 2 lần.",
+      "vi": "Không thể hành động, không kích hoạt Ngự Hồn và bị động, HP bằng 100% HP của Thực Nguyệt Hấp Huyết Cơ, nếu phe địch chỉ còn Phi Duyên Ma thì xem như chiến đấu thắng lợi. Cùng một Thức thần hiệu ứng này chỉ có thể kích hoạt 1 lần.\nMỗi khi có 1 Phi Duyên Ma, sát thương của[Thực Nguyệt Vi Miện]gây ra cho toàn thể kẻ địch tăng 30%, tăng tối đa 2 lần.",
       "en": "Unable to take action, does not trigger Soul effects or passive skills, with HP equal to 100% of Moonclipse Vampira's HP. If only Enshyoujo remain on the enemy side, counts as battle victory. This effect can only trigger once for the same shikigami.\nFor each Enshyoujo present, increases the Moonclipse Crown damage dealt to all enemies by 30%, up to 2 stacks.",
-      "zh": "无法行动，不触发御魂和被动，生命为蚀月吸血姬生命值的100%，若敌方只存在飞缘魔，视为战斗胜利。同一式神该效果只可生效1次。\n每有1个飞缘魔《蚀月为冕》对敌方全体造成的伤害提升30%，至多提升2次。"
+      "zh": "无法行动，不触发御魂和被动，生命为蚀月吸血姬生命值的100%，若敌方只存在飞缘魔，视为战斗胜利。同一式神该效果只可生效1次。\n每有1个飞缘魔[蚀月为冕]对敌方全体造成的伤害提升30%，至多提升2次。"
     },
     "iconFile": ""
   },
@@ -5882,14 +5868,14 @@
   "tips_9": {
     "kind": "tip",
     "title": {
-      "vi": "Hiệp chiến",
+      "vi": "Hiệp Chiến",
       "en": "",
       "zh": ""
     },
     "description": {
-      "vi": "Khi đồng minh sử dụng đòn đánh thường tấn công mục tiêu kẻ địch, cùng sử dụng đòn đánh thường tấn công vào mục tiêu kẻ địch đó.",
-      "en": "When an ally uses a normal attack to attack an enemy, they use a normal attack to attack the same enemy.",
-      "zh": "当友方使用普攻攻击敌方目标时，一起使用普攻攻击同个敌方目标。"
+      "vi": "Khi đồng minh dùng đòn đánh thường tấn công kẻ địch, bản thân cũng sẽ dùng đòn đánh thường tấn công cùng mục tiêu đó.",
+      "en": "",
+      "zh": ""
     },
     "iconFile": ""
   },
@@ -6243,20 +6229,6 @@
     },
     "iconFile": "Unique31.png"
   },
-  "buff_1306_1": {
-    "kind": "buff",
-    "title": {
-      "vi": "",
-      "en": "",
-      "zh": ""
-    },
-    "description": {
-      "vi": "Tối đa 3 tầng. Bắn liên tiếp 3 phát tên, tấn công mục tiêu địch, mỗi phát gây sát thương bằng 50% Tấn Công, sát thương mỗi phát tăng dần 25%.",
-      "en": "Up to 3 stacks. Fires 3 consecutive arrows at the enemy, each dealing damage equal to 50% of ATK. The damage dealt by each arrow increases by 25%.",
-      "zh": "至多3层。连续射出3发箭，攻击敌方目标，每箭造成攻击50%的伤害，每箭伤害递增25%。"
-    },
-    "iconFile": "1306.png"
-  },
   "buff_2343_1": {
     "kind": "buff",
     "title": {
@@ -6372,7 +6344,7 @@
   "buff_3255_1": {
     "kind": "buff",
     "title": {
-      "vi": "Bất Tịnh Chi Lực",
+      "vi": "Bất Khiết Chi Lực",
       "en": "",
       "zh": ""
     },
@@ -6410,6 +6382,20 @@
       "zh": "御怨般若的特殊机制，上限9层，每层自身提升10%效果抵抗和5%伤害减免。当达到上限时，解除自身所有控制效果并增加45%行动条。\n开启封印结界时，无法获得仇恨印记。"
     },
     "iconFile": "Buff35.png"
+  },
+  "buff_3334_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Vô Tận Kiếm Ngục",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Mỗi mục tiêu Sóng Đá tấn công, sát thương giảm 10%. Khi Otakemaru tử trận hoặc toàn bộ kẻ địch ngoài mục tiêu bị trục xuất đều đã tử trận, Kiếm Ngục lập tức đóng lại.\nNếu khi thi triển chỉ có 1 kẻ địch, hoặc mục tiêu miễn nhiễm hiệu ứng khống chế thì sẽ không mở Kiếm Ngục, nhưng Sóng Đá sẽ gây gấp đôi sát thương lên mục tiêu đó.",
+      "en": "Reduces the damage dealt by Wave of Rocks by 10% for each enemy it attacks. Blade Prison ends immediately when Otakemaru or all enemies other than the banished enemy are KO'd.\nIf there's only 1 enemy when using the skill or if the enemy is immune to controlling effects, Blade Prison cannot be created. Wave of Rocks deals double damage to the enemy instead.",
+      "zh": "石浪每攻击1个目标，伤害降低10%。大岳丸死亡或被放逐目标之外的敌方全部死亡时，剑狱即刻关闭。\n若施放时只有1名敌方、或目标免疫控制效果，则不开启剑狱，但石浪将对其造成双倍伤害。"
+    },
+    "iconFile": ""
   },
   "buff_3351_1": {
     "kind": "buff",
@@ -6638,7 +6624,7 @@
   "tips_3242": {
     "kind": "tip",
     "title": {
-      "vi": "",
+      "vi": "Xỉ Giáp",
       "en": "",
       "zh": ""
     },
@@ -6647,12 +6633,12 @@
       "en": "Bake-kujira's exclusive mechanic that disappears after being triggered 3 times. Raises the Move Bar of the protected ally by 20% when their turn ends. The effect does not stack with the same effect from Body Armor.",
       "zh": "化鲸特殊机制，触发3次后消失。携带者在回合结束后增加20%行动条，不与体甲的同效果叠加。"
     },
-    "iconFile": ""
+    "iconFile": "Buff18.png"
   },
   "tips_3243": {
     "kind": "tip",
     "title": {
-      "vi": "",
+      "vi": "Thể Giáp",
       "en": "",
       "zh": ""
     },
@@ -6661,12 +6647,12 @@
       "en": "Bake-kujira's exclusive mechanic that disappears after being triggered 3 times. Raises the Move Bar of the protected ally by 20% when their turn ends. The effect does not stack with the same effect from Teeth Armor.",
       "zh": "化鲸特殊机制，触发3次后消失。携带者在回合结束后增加20%行动条，不与齿甲的同效果叠加。"
     },
-    "iconFile": ""
+    "iconFile": "Buff06.png"
   },
   "tips_3271": {
     "kind": "tip",
     "title": {
-      "vi": "",
+      "vi": "Phong Thuẫn",
       "en": "",
       "zh": ""
     },
@@ -6675,12 +6661,12 @@
       "en": "Shield created by Azurestorm Ichimokuren that absorbs damage (max 600% of Azurestorm Ichimokuren's starting ATK) and cannot be dispelled. Each Wind Shield increases the shield creator's SPD by 15 after the battle starts. When a Wind Shield fails, raises the shield creator's Move Bar by 12%.",
       "zh": "苍风一目连创造的护盾，能吸收一定量伤害（不超过苍风一目连初始攻击的600%），无法驱散。每个存在的风盾使施加者在战斗开始后增加15点速度；当失去时，增加施加者12%行动条。"
     },
-    "iconFile": ""
+    "iconFile": "Buff52.png"
   },
   "tips_3652": {
     "kind": "tip",
     "title": {
-      "vi": "",
+      "vi": "Phụ Thân",
       "en": "",
       "zh": ""
     },
@@ -6689,12 +6675,12 @@
       "en": "Nyunai-suzume's exclusive mechanic. Up to 1 unit can be possessed at a time. Disappeared when the possessed unit ceases to be possessed.\nThe possessed unit gains DEF equal to Nyunai-suzume's starting DEF (max 50% of the unit's starting DEF).\nNyunai-suzume gains ATK equal to the possessed unit's starting ATK (max 50% of his own starting ATK.)",
       "zh": "入内雀特殊机制，同一时间只能附身1个目标。附身被消耗后消失。\n附身单位会获得入内雀的初始防御，最多不超过该单位自身初始防御50%。\n入内雀获得附身单位的初始攻击，最多不超过自身初始攻击50%。"
     },
-    "iconFile": ""
+    "iconFile": "Buff93.png"
   },
   "tips_5723": {
     "kind": "tip",
     "title": {
-      "vi": "",
+      "vi": "Yên Chi Quỷ",
       "en": "",
       "zh": ""
     },
@@ -6703,12 +6689,12 @@
       "en": "Nostalgic Enenra's exclusively Morph effect. Cannot be dispelled. Prevents shikigami passive skills from taking effect. Morphed targets are unable to take actions. Exclusive effect: When it expires, inflicts damage to all enemies equal to 49% of Nostalgic Enenra's ATK.",
       "zh": "遥念烟烟罗专属变形效果。无法被驱散，无法动作，式神被动技能失效。唯一效果，消失时，对敌方全体造成攻击49%的伤害。"
     },
-    "iconFile": ""
+    "iconFile": "Debuff16.png"
   },
   "tips_5792": {
     "kind": "tip",
     "title": {
-      "vi": "",
+      "vi": "Genjo",
       "en": "",
       "zh": ""
     },
@@ -6716,6 +6702,216 @@
       "vi": "Sau khi đánh thức sẽ hỗ trợ tấn công 3 lần trong hiệp của đồng minh không phải vật triệu hồi có Tấn Công ban đầu cao nhất, mỗi lần gây sát thương bằng 62% Tấn Công, ngủ say sau khi tấn công. Nếu chưa chỉ định mục tiêu, ưu tiên tấn công mục tiêu địch có tỷ lệ HP thấp nhất.",
       "en": "After it's awakened, it assists the attack of the non-summoned ally entity with the highest starting ATK on their turn by launching 3 strikes, dealing damage equal to 62% of her ATK on each strike. It becomes dormant after the assist. If no target was selected, the strikes are inflicted on the enemy with the highest proportion of HP first.",
       "zh": "唤醒后将在初始攻击最高的非召唤物友方回合内协助攻击3次，每次造成攻击62%伤害，攻击后沉眠。若未指定目标，优先攻击生命比例最低的敌方目标。"
+    },
+    "iconFile": "Unique67.png"
+  },
+  "buff_2072_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Cửu Mệnh",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khi bị hạ gục và có đủ 4 tầng Cửu Mệnh, bản thân sẽ lập tức hồi sinh với 20% máu tối đa, sau đó dùng Báo Thù lên một kẻ địch ngẫu nhiên.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_2073_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Báo Thù",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khi bắt đầu lượt của mình, Cửu Mạng Miêu có thể sử dụng Báo Thù lên kẻ địch mà không tốn quỷ hỏa và bỏ qua 100 phòng ngự của mục tiêu.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Debuff56.png"
+  },
+  "buff_2282_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Chú Hỏa",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Mục tiêu bị trúng đòn rơi vào trạng thái suy yếu, sát thương phải nhận tăng thêm 5%.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "4.png"
+  },
+  "buff_2302_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Kinh Kim Cang",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tăng 10% Kháng và phản lại 10% sát thương phải nhận.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Buff50.png"
+  },
+  "buff_2322_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Mua Chuộc",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Giảm 20% Tấn Công",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "2.png"
+  },
+  "buff_2323_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Sơ Hở",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Mục tiêu bị trúng đòn rơi vào trạng thái suy yếu, sát thương phải nhận tăng thêm 40%.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "4.png"
+  },
+  "buff_2342_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Tư Dưỡng",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tăng 5% sát thương bạo kích",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Buff57.png"
+  },
+  "buff_2366_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Hồ Chi Ấn",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Không thể giải trừ và sẽ bị tiêu hao khi gây sát thương. Mỗi tầng tăng sát thương gây ra của bản thân thêm 75%.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "2002.png"
+  },
+  "buff_2372_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Thỏ Nhảy Múa",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tăng 10% Tấn Công",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "2002.png"
+  },
+  "buff_2492_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Oán Hận",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khi cô ấy tấn công những kẻ địch bị dính hiệu ứng này, sẽ gây thêm 15% sát thương lên chúng, duy trì trong 1 lượt.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_2542_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Khí Công",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Mỗi tầng tàng 2% Tấn Công",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "2002.png"
+  },
+  "buff_3523_2": {
+    "kind": "buff",
+    "title": {
+      "vi": "Đồng Cổ",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khi mục tiêu dính ấn nhận hiệu ứng hồi máu hoặc được kéo thanh hành động, Đồng Cổ sẽ kích hoạt và tiêu hao 1 tầng để vô hiệu hóa hoàn toàn hiệu ứng đó.\nMỗi khi Đồng Cổ được kích hoạt, giảm máu tối đa của mục tiêu đi 8% (tối đa giảm đến 20%, mỗi lần kích hoạt không vượt quá 1200% công kích của Phược Cốt Thanh Cơ).",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Unique17.png"
+  },
+  "buff_3523_3": {
+    "kind": "buff",
+    "title": {
+      "vi": "Đồng Cổ",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khi mục tiêu dính ấn nhận hiệu ứng hồi máu hoặc được kéo thanh hành động, Đồng Cổ sẽ kích hoạt và tiêu hao 1 tầng để vô hiệu hóa hoàn toàn hiệu ứng đó.\nMỗi khi Đồng Cổ được kích hoạt, giảm máu tối đa của mục tiêu đi 8% (tối đa giảm đến 20%, mỗi lần kích hoạt không vượt quá 1200% công kích của Phược Cốt Thanh Cơ).",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Unique17.png"
+  },
+  "buff_5583_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Đánh Cắp",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Đánh cắp hiệu ứng Ngự hồn ban đầu của mục tiêu, duy trì trong 2 lượt. Hiệu ứng Ngự hồn của mục tiêu lúc này được tính là bị Phong Ấn. Đạo Nhân Thần có thể đánh cắp tối đa 2 hiệu ứng Ngự hồn (nếu cướp 2 Ngự hồn giống nhau, chỉ 1 hiệu ứng có tác dụng). Không có tác dụng lên quái vật.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Debuff116.png"
+  },
+  "tips_2982": {
+    "kind": "tip",
+    "title": {
+      "vi": "Vui Chơi",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Trạng thái mặc định củ Huân",
+      "en": "",
+      "zh": ""
     },
     "iconFile": ""
   }

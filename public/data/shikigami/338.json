@@ -134,7 +134,7 @@
           "text": {
             "vi": "Mở khóa hiệu ứng [skill_33822_1], khiến Nguyệt Chi Áo Nghĩa giải trừ 1 hiệu ứng có lợi của mục tiêu trong mỗi lần tấn công, nếu không có hiệu ứng có lợi để giải trừ thì đẩy lùi 5% thanh hành động của mục tiêu.",
             "en": "Unlocks the [skill_33822_1] effect. Allows each attack of Moon's Secrets to dispel 1 buff from the target. If no buff was dispelled, lowers the target's Move Bar by 5% instead.",
-            "zh": "解锁[[skill_33822_1]效果，使月之奥义每次攻击时驱散目标1个增益效果，若无可驱散增益则击退目标行动条5%"
+            "zh": "解锁[skill_33822_1]效果，使月之奥义每次攻击时驱散目标1个增益效果，若无可驱散增益则击退目标行动条5%"
           }
         },
         {
@@ -142,7 +142,7 @@
           "text": {
             "vi": "Mở khóa hiệu ứng [skill_33823_1], khiến sát thương mà Nguyệt Chi Áo Nghĩa gây ra cho mục tiêu có tỷ lệ HP thấp hơn 50% tăng 30%.",
             "en": "Unlocks the [skill_33823_1] effect. Allows damage dealt by Moon's Secrets to increase by 30% against targets with HP below 50%.",
-            "zh": "解锁[[skill_33823_1]效果，使月之奥义对生命比例低于50%的目标造成的伤害提升30%"
+            "zh": "解锁[skill_33823_1]效果，使月之奥义对生命比例低于50%的目标造成的伤害提升30%"
           }
         },
         {
@@ -150,7 +150,7 @@
           "text": {
             "vi": "Mở khóa hiệu ứng [skill_33824_1], khiến sát thương của Nguyệt Chi Áo Nghĩa không kích hoạt hiệu ứng Ngự Hồn của mục tiêu, đồng thời giúp bản thân nhận Nguyệt Chi Tí Hộ trong 1 lượt, có thể đỡ đòn 1 lần hiệu ứng khống chế.",
             "en": "Unlocks the [skill_33824_1] effect. Prevents damage dealt by Moon's Secrets from triggering the target's Soul effects. She gains Moon Shelter for 1 turn, negating controlling effects once.",
-            "zh": "解锁[[skill_33824_1]效果，使月之奥义伤害不会触发目标御魂效果，并使自身获得月之庇护1回合，可抵挡1次控制效果"
+            "zh": "解锁[skill_33824_1]效果，使月之奥义伤害不会触发目标御魂效果，并使自身获得月之庇护1回合，可抵挡1次控制效果"
           }
         },
         {

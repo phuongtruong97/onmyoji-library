@@ -216,7 +216,7 @@
           "text": {
             "vi": "Khi bị [buff_3351_1] cũng có thể nhận [Vỏ Cua], khi giải trừ Choáng nhận [buff_3353_1], duy trì 1 lượt",
             "en": "She can gain Carapace even when she's inflicted with [buff_3351_1]. When Daze is removed, she gains [buff_3353_1] for 1 turn.",
-            "zh": "[buff_3351_1]时也可以获得[蟹壳]，眩晕解除时获得[[buff_3353_1]，持续1回合"
+            "zh": "[buff_3351_1]时也可以获得[蟹壳]，眩晕解除时获得[buff_3353_1]，持续1回合"
           }
         }
       ],

@@ -214,9 +214,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Nếu khi thi triển tích lũy cung cấp 24 điểm Nguyện Lực, triệu hồi Nhân Phiên Thố thi triển [[skill_3724_1]]",
+            "vi": "Nếu khi thi triển tích lũy cung cấp 24 điểm Nguyện Lực, triệu hồi Nhân Phiên Thố thi triển [skill_3724_1]",
             "en": "Summons Inaba Rabbit to use [skill_3724_1] if 24 points of Wish Power have been provided.",
-            "zh": "若施放时累计提供24点愿力，召唤因幡兔施放[[skill_3724_1]]"
+            "zh": "若施放时累计提供24点愿力，召唤因幡兔施放[skill_3724_1]"
           }
         }
       ],

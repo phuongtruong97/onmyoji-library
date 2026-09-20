@@ -124,7 +124,7 @@
         "zh": "鸮，警惕起来！现在可是关键时刻！~"
       },
       "description": {
-        "vi": "[tips_11].\nKhi mỗi lượt (bất kể địch ta) bắt đầu, chuyển đổi giữa hai trạng thái [tips_2982] / [tips_2983].\nHuân bình thường ở trạng thái [tips_2982], nếu đồng minh chịu [tips_3] đạt từ 2 người trở lên, Huân sẽ tiến vào trạng thái [tips_2983].\nNếu ở trạng thái [tips_2982], khi lượt bản thân kết thúc, giúp toàn bộ phe ta tăng 15% sát thương, cho đến khi chuyển đổi trạng thái. Khi hiệu ứng khống chế của bản thân biến mất, thi triển miễn phí [skill_2983_5] lên đồng minh có HP ít nhất (giới hạn 1 lần trước khi lượt bản thân bắt đầu)",
+        "vi": "[tips_11].\nKhi mỗi lượt (bất kể địch ta) bắt đầu, chuyển đổi giữa hai trạng thái [tips_2982] / [tips_2983].\nHuân bình thường ở trạng thái [tips_2982], nếu đồng minh chịu [tips_3] đạt từ 2 người trở lên, Huân sẽ tiến vào trạng thái [tips_2983].\nNếu ở trạng thái [tips_2982], khi lượt bản thân kết thúc, giúp toàn bộ phe ta tăng 15% sát thương, cho đến khi chuyển đổi trạng thái. Khi hiệu ứng khống chế của bản thân biến mất, thi triển miễn phí [Thủ Hộ Dịu Dàng] lên đồng minh có HP ít nhất (giới hạn 1 lần trước khi lượt bản thân bắt đầu)",
         "en": "[tips_11].\nAt the start of every turn, ally or enemy, switches between [tips_2982] and [tips_2983].\nKaoru normally stays in [tips_2982]. If 2 or more allies are affected by [tips_3], Kaoru enters [tips_2983].\nWhile in [tips_2982], increases all allies' damage by 15% at the end of her turn until she switches states. When her control effect ends, casts [skill_2983_5] on the ally with the lowest HP at no cost, up to 1 times before her next turn starts.",
         "zh": "[tips_11]。\n每个回合（不论敌我）开始时，在「[tips_2982]／[tips_2983]两种状态之间切换。\n薰平常为[tips_2982]状态，若承受[tips_3]的友方达2个或更多，薰会进入[tips_2983]状态。\n若处于[tips_2982]状态，在自身回合结束时，使友方全体提升15%伤害，直到切换状态为止。自身控制效果消失时，对生命最少的友方无消耗施放「[skill_2983_5]（自身回合开始前限1次）"
       },
@@ -156,9 +156,9 @@
         {
           "level": 5,
           "text": {
-            "vi": "Nếu ở trạng thái [tips_2982], khi lượt bản thân kết thúc, giúp toàn bộ phe ta tăng 15% sát thương, cho đến khi chuyển đổi trạng thái. Khi hiệu ứng khống chế của bản thân biến mất, thi triển miễn phí [[skill_2983_5]] lên đồng minh có HP ít nhất (giới hạn 1 lần trước khi lượt bản thân bắt đầu)",
+            "vi": "Nếu ở trạng thái [tips_2982], khi lượt bản thân kết thúc, giúp toàn bộ phe ta tăng 15% sát thương, cho đến khi chuyển đổi trạng thái. Khi hiệu ứng khống chế của bản thân biến mất, thi triển miễn phí [skill_2983_5] lên đồng minh có HP ít nhất (giới hạn 1 lần trước khi lượt bản thân bắt đầu)",
             "en": "While in [tips_2982], at the end of her turn, increases damage dealt by all allies by 15% until the state changes. When her control effect ends, casts [skill_2983_5] on the ally with the lowest HP at no cost (up to 1 times before her turn begins)",
-            "zh": "若处于[tips_2982]状态，在自身回合结束时，使友方全体提升15%伤害，直到切换状态为止。自身控制效果消失时，对生命最少的友方无消耗施放[[skill_2983_5]]（自身回合开始前限1次）"
+            "zh": "若处于[tips_2982]状态，在自身回合结束时，使友方全体提升15%伤害，直到切换状态为止。自身控制效果消失时，对生命最少的友方无消耗施放[skill_2983_5]（自身回合开始前限1次）"
           }
         }
       ],

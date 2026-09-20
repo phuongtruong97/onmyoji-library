@@ -149,7 +149,7 @@
         "zh": "就让惧刃之风，肆意蔓延……"
       },
       "description": {
-        "vi": "Nỗi sợ hãi dấy lên trận cuồng phong, có 15% (+0%) (+0%) xác suất khiến toàn bộ phe địch [tips_104], duy trì 1 lượt.\nKhi mục tiêu phe địch đạt đủ 6 tầng [buff_3981_1], thay thế kỹ năng thành [skill_3984_1].",
+        "vi": "Nỗi sợ hãi dấy lên trận cuồng phong, có 15% [tips_2] khiến toàn bộ phe địch [tips_104], duy trì 1 lượt.\nKhi mục tiêu phe địch đạt đủ 6 tầng [buff_3981_1], thay thế kỹ năng thành [skill_3984_1].",
         "en": "The Dread Storm has a 15% (+0%) (+0%) chance of inflicting [tips_104] lasting 1 turn on all enemies.\nIf the enemy has at least 6 [buff_3981_1] stacks, changes the skill to [skill_3984_1].",
         "zh": "恐惧掀起暴风，有15%（+0%）（+0%）概率使敌方全体[tips_104]，持续1回合。\n当敌方目标[buff_3981_1]满6层时，将技能替换为「[skill_3984_1]。"
       },
@@ -207,7 +207,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "Mất trật tự trong nỗi sợ. Tiêu hao 3 tầng [buff_3981_1], có 60% [tips_2] khiến toàn bộ phe địch [tips_103], duy trì 1 lượt, và [tips_10] tất cả Thức Thần phe ta tấn công mục tiêu sợ hãi.\nKhi số tầng [buff_3981_1] của mục tiêu kẻ địch không đủ 6 tầng, thay thế kỹ năng thành [skill_3983_1].",
+        "vi": "Mất trật tự trong nỗi sợ. Tiêu hao 3 tầng [buff_3981_1], có 60% [tips_2] khiến toàn bộ phe địch [tips_103], duy trì 1 lượt, và [tips_10] tất cả Thức Thần phe ta tấn công mục tiêu sợ hãi.\nKhi số tầng [buff_3981_1] của mục tiêu kẻ địch không đủ 6 tầng, thay thế kỹ năng thành [Cụ Bát Chi Phong].",
         "en": "Surrender to chaos in fear. Consumes 3 [buff_3981_1] stacks to have a 60% (+Effect HIT) chance of inflicting [tips_103] lasting 1 turn on all enemies, and issues [tips_10] to all shikigami allies to attack the enemy with Fear.\nIf the enemy has less than 6 [buff_3981_1] stacks, changes the skill to [skill_3983_1].",
         "zh": "在惧意中失序。消耗3层[buff_3981_1]，有60%（+效果命中）概率使敌方全体[tips_103]，持续1回合，并[tips_10]所有友方式神攻击恐惧目标。\n当敌方目标[buff_3981_1]层数不足6层，将技能替换为「[skill_3983_1]。"
       },

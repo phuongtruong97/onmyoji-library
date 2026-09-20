@@ -130,7 +130,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "3258.png"
+      "iconFile": "3251a.png"
     },
     {
       "id": 3252,
@@ -149,7 +149,7 @@
         "zh": "这是神之力，当然，会有代价。"
       },
       "description": {
-        "vi": "Khiến mục tiêu đồng minh nhận lượt hành động mới, đồng thời giúp kẻ đó nhận [buff_3255_1], [tips_15] 2 lượt, sau đó [tips_3252] kẻ đó thành [buff_3253] [tips_3253] có thể sử dụng [skill_3256_1]).\nYamata no Orochi cùng [tips_3253], khi tấn công sẽ đính kèm 1 tầng [buff_3251_1] cho mục tiêu.\nKhi không có đơn vị đồng minh nào khác sống sót, thay thế kỹ năng này thành [skill_3255_1].\nMỗi [tips_3253] khiến Yamata no Orochi và Xà Ma kiểm soát tăng 30% Phòng thủ, 20% Kháng Hiệu Ứng, 10 Tốc độ.",
+        "vi": "Khiến mục tiêu đồng minh nhận lượt hành động mới, đồng thời giúp kẻ đó nhận [buff_3255_1], [tips_15] 2 lượt, sau đó [tips_3252] kẻ đó thành [tips_3253]. [tips_3253] có thể sử dụng [skill_3256_1].\nYamata no Orochi cùng [tips_3253], khi tấn công sẽ đính kèm 1 tầng [buff_3251_1] cho mục tiêu.\nKhi không có đơn vị đồng minh nào khác sống sót, thay thế kỹ năng này thành [skill_3255_1].\nMỗi [tips_3253] khiến Yamata no Orochi và Xà Ma kiểm soát tăng 30% Phòng thủ, 20% Kháng Hiệu Ứng, 10 Tốc độ.",
         "en": "Grants a new turn and [buff_3255_1] to an ally. [tips_15] for 2 turns before [tips_3252]ing them into a [tips_3253]. [tips_3253] can use [skill_3256_1].\nOrochi and [tips_3253]'s attack inflicts a layer of [buff_3251_1] on their target.\nWhen there are no allied shikigami alive, the skill is changed to [skill_3255_1].\nEach [tips_3253] increases the DEF, Effect RES, and SPD of Orochi and the nagas under his control by 30%, 20%, and 10, respectively.",
         "zh": "使友方目标获得获得新的回合，并使其获得[buff_3255_1]，[tips_15]2回合，之后将其[tips_3252]为[tips_3253]，[tips_3253]可使用[skill_3256_1]。\n八岐大蛇与[tips_3253]，攻击时将对目标附加1层[buff_3251_1]。\n当无其他友方式神存活时，将此技能替换为[[skill_3255_1]。\n每个[tips_3253]使八岐大蛇和控制的蛇魔提升30%防御、20%效果抵抗、10速度。"
       },
@@ -213,12 +213,37 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "3252.png"
+      "iconFile": "3254.png"
+    },
+    {
+      "id": 3256,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 3252,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Độc Dịch",
+        "en": "Venom Spit",
+        "zh": "毒液"
+      },
+      "intro": {
+        "vi": "Yêm Diệt!",
+        "en": "Annihilation!",
+        "zh": "湮灭！"
+      },
+      "description": {
+        "vi": "Gây cho mục tiêu kẻ địch sát thương bằng 100% Tấn công; sau khi kết thúc lượt, tăng 10% Thanh Hành Động cho Bát Kỳ Đại Xà.",
+        "en": "Deals damage to 1 enemy equal to 100% of its ATK. Raises the Move Bar of Orochi by 10% at the end of the turn.",
+        "zh": "对敌方目标造成攻击100%伤害；回合结束后，增加八岐大蛇10%行动条。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "3252b.png"
     },
     {
       "id": 3253,
       "number": 3,
-      "variantOrder": 0,
+      "variantOrder": 1,
       "parentSkillId": null,
       "maxLevel": 5,
       "name": {
@@ -266,7 +291,7 @@
           "text": {
             "vi": "Khi không còn đơn vị đồng minh và Âm Dương Sư nào sống sót, nhận kỹ năng bổ sung [skill_3254_5]",
             "en": "When no other shikigami or onmyoji is alive, gains the extra skill [skill_3254_5].",
-            "zh": "当无友方式神及阴阳师存活时，获得额外技能[[skill_3254_5]"
+            "zh": "当无友方式神及阴阳师存活时，获得额外技能[skill_3254_5]"
           }
         }
       ],
@@ -274,29 +299,29 @@
       "iconFile": "3253.png"
     },
     {
-      "id": 3256,
+      "id": 3258,
       "number": 3,
-      "variantOrder": 1,
-      "parentSkillId": 3253,
+      "variantOrder": 2,
+      "parentSkillId": null,
       "maxLevel": 1,
       "name": {
-        "vi": "Độc Dịch",
-        "en": "Venom Spit",
-        "zh": "毒液"
+        "vi": "Thần Niệm Chi Ảnh",
+        "en": "Shadow of Divine Will",
+        "zh": "神念之影"
       },
       "intro": {
-        "vi": "Yêm Diệt!",
-        "en": "Annihilation!",
-        "zh": "湮灭！"
+        "vi": "",
+        "en": "",
+        "zh": ""
       },
       "description": {
-        "vi": "Gây cho mục tiêu kẻ địch sát thương bằng 100% Tấn công; sau khi kết thúc lượt, tăng 10% Thanh Hành Động cho Bát Kỳ Đại Xà.",
-        "en": "Deals damage to 1 enemy equal to 100% of its ATK. Raises the Move Bar of Orochi by 10% at the end of the turn.",
-        "zh": "对敌方目标造成攻击100%伤害；回合结束后，增加八岐大蛇10%行动条。"
+        "vi": "Mở ra không gian thần ma, ra lệnh cho mỗi Xà Ma đính kèm [buff_3253_1] cho mục tiêu kẻ địch ngẫu nhiên cho đến khi kết thúc lượt.\nTiếp theo gây cho toàn bộ kẻ địch sát thương bằng 183% Tấn công, đồng thời sai khiến tất cả Xà Ma mỗi bên sử dụng 1 lần [skill_3256_1] tấn công mục tiêu kẻ địch ngẫu nhiên. Tiêu hao Quỷ Hỏa còn lại, mỗi tiêu hao 1 điểm Quỷ Hỏa, lặp lại hiệu ứng sai khiến 1 lần.",
+        "en": "Opens the Diabolic Space and commands all nagas to inflict [buff_3253_1] on random enemies, lasting until the turn ends.\nThen deals damage to all enemies equal to 183% of his ATK and orders all nagas to use [skill_3256_1] to attack random enemies once.",
+        "zh": "开启神魔空间，号令每个蛇魔为随机敌方目标附加[buff_3253_1]直到回合结束。\n接着对敌方全体造成攻击183%伤害，并役使所有蛇魔各使用1次[skill_3256_1]攻击随机敌方目标。"
       },
       "upgrades": [],
-      "orbCost": 0,
-      "iconFile": "3257.png"
+      "orbCost": 3,
+      "iconFile": "3253.png"
     }
   ],
   "assets": {

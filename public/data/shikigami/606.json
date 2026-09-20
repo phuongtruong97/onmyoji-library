@@ -182,7 +182,7 @@
         "zh": "言出一人歌，歌起万人和。"
       },
       "description": {
-        "vi": "Khi trận đấu bắt đầu ở trạng thái Mộc Chi Luật.\n[Thi triển] Chọn một trong Mộc Chi Luật và Thanh Chi Luật để tấu nhạc. Khiến trị liệu của [skill_6064_1] tăng lên 12%; hiệu ứng đẩy lùi Thanh Hành Động của [skill_6065_1] tăng lên 15%; tiêu hao Quỷ Hỏa khi tấu nhạc giảm 1 điểm. Tiên Cơ: Tấu nhạc không tiêu hao.",
+        "vi": "Khi trận đấu bắt đầu ở trạng thái Mộc Chi Luật.\n[Thi triển] Chọn một trong Mộc Chi Luật và Thanh Chi Luật để tấu nhạc. Khiến trị liệu của [Dục Thử Mộc Âm] tăng lên 12%; hiệu ứng đẩy lùi Thanh Hành Động của [Linh Thử Thanh Âm] tăng lên 15%; tiêu hao Quỷ Hỏa khi tấu nhạc giảm 1 điểm. \nTiên Cơ: Tấu nhạc không tiêu hao.",
         "en": "战斗开始时处于沐之律。\n【施放】选择沐之律和清之律之一进行奏乐。使「浴此沐音]治疗提升至12%；「聆此清音]行动条击退效果提升至15%；奏乐鬼火消耗减少1点。先机：无消耗进行奏乐。",
         "zh": "战斗开始时处于沐之律。\n【施放】选择沐之律和清之律之一进行奏乐。使「浴此沐音]治疗提升至12%；「聆此清音]行动条击退效果提升至15%；奏乐鬼火消耗减少1点。先机：无消耗进行奏乐。"
       },
@@ -191,24 +191,24 @@
           "level": 2,
           "text": {
             "vi": "Trị liệu của [skill_6064_1] tăng lên 12%",
-            "en": "[[skill_6064_1]治疗提升至12%",
-            "zh": "[[skill_6064_1]治疗提升至12%"
+            "en": "[skill_6064_1]治疗提升至12%",
+            "zh": "[skill_6064_1]治疗提升至12%"
           }
         },
         {
           "level": 3,
           "text": {
             "vi": "Hiệu ứng đẩy lùi Thanh Hành Động của [skill_6065_1] tăng lên 15%",
-            "en": "[[skill_6065_1]行动条击退效果提升至15%",
-            "zh": "[[skill_6065_1]行动条击退效果提升至15%"
+            "en": "[skill_6065_1]行动条击退效果提升至15%",
+            "zh": "[skill_6065_1]行动条击退效果提升至15%"
           }
         },
         {
           "level": 4,
           "text": {
             "vi": "Tiêu hao Quỷ Hỏa của [skill_6064_1] và [skill_6065_1] giảm 1 điểm",
-            "en": "[[skill_6064_1]和[[skill_6065_1]的鬼火消耗减少1点",
-            "zh": "[[skill_6064_1]和[[skill_6065_1]的鬼火消耗减少1点"
+            "en": "[skill_6064_1]和[skill_6065_1]的鬼火消耗减少1点",
+            "zh": "[skill_6064_1]和[skill_6065_1]的鬼火消耗减少1点"
           }
         },
         {

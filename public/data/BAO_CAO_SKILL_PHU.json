@@ -163,6 +163,13 @@
       "existsInWorkbook": true
     },
     {
+      "heroId": 325,
+      "slot": 3,
+      "parentSkillId": 3258,
+      "referencedSkillId": 3256,
+      "existsInWorkbook": true
+    },
+    {
       "heroId": 333,
       "slot": 1,
       "parentSkillId": 3331,
@@ -398,20 +405,6 @@
       "slot": 3,
       "parentSkillId": 6023,
       "referencedSkillId": 6024,
-      "existsInWorkbook": true
-    },
-    {
-      "heroId": 606,
-      "slot": 3,
-      "parentSkillId": 6063,
-      "referencedSkillId": 6064,
-      "existsInWorkbook": true
-    },
-    {
-      "heroId": 606,
-      "slot": 3,
-      "parentSkillId": 6063,
-      "referencedSkillId": 6065,
       "existsInWorkbook": true
     }
   ],
