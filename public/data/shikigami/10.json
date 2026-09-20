@@ -124,7 +124,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "Dùng kết giới trói buộc mục tiêu, khiến sát thương mục tiêu phải chịu tăng 40%, đồng thời có 50% [tips_2] xác suất trói buộc kẻ địch, đơn vị bị trói buộc có thể phá vỡ trói buộc giải trừ khống chế bằng cách sử dụng đòn đánh thường. Kết giới kế thừa 10% HP của Âm Dương Sư, thời gian làm mới kỹ năng 2 lượt.",
+        "vi": "Dùng kết giới trói buộc mục tiêu, khiến sát thương mục tiêu phải chịu tăng 40%, đồng thời có 50% [tips_2] trói buộc kẻ địch, đơn vị bị trói buộc có thể phá vỡ trói buộc giải trừ khống chế bằng cách sử dụng đòn đánh thường. Kết giới kế thừa 10% HP của Âm Dương Sư, thời gian làm mới kỹ năng 2 lượt.",
         "en": "以结界束缚目标，使目标受到的伤害增加40%，并有50%（+Effect HIT）的概率束缚敌人，被束缚的单位可以通过使用普通攻击打破束缚解除控制。结界继承阴阳师10%的生命值，技能冷却2回合。",
         "zh": "以结界束缚目标，使目标受到的伤害增加40%，并有50%（+效果命中）的概率束缚敌人，被束缚的单位可以通过使用普通攻击打破束缚解除控制。结界继承阴阳师10%的生命值，技能冷却2回合。"
       },

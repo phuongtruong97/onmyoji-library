@@ -190,7 +190,7 @@
         "zh": "虚无的幻象，还不消散！"
       },
       "description": {
-        "vi": "Tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 106% Tấn công, và có 100% [tips_2] xác suất đính kèm 1 tầng [buff_99_1] cấp 5, đính kèm thêm 1 tầng [buff_2024_1], mỗi tầng gây [tips_5] bằng 20% Tấn công; [buff_99_1] và [buff_2024_1] đều duy trì 3 lượt.",
+        "vi": "Tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 106% Tấn công, và có 100% [tips_2] đính kèm 1 tầng [buff_99_1] cấp 5, đính kèm thêm 1 tầng [buff_2024_1], mỗi tầng gây [tips_5] bằng 20% Tấn công; [buff_99_1] và [buff_2024_1] đều duy trì 3 lượt.",
         "en": "Launches a 3-strike attack on 1 enemy, dealing damage equal to 106% of her ATK on each strike with a 100% (+Effect HIT) chance of inflicting a layer of [buff_99_1] V and a layer of [buff_2024_1] on them. Each layer inflicts [tips_5] equal to 20% of her ATK. Both [buff_99_1] and [buff_2024_1] last 3 turn(s).",
         "zh": "攻击敌方目标3次，每次造成攻击106%伤害，并有100%（+效果命中）概率附加1层5级[buff_99_1]，再附加1层[buff_2024_1]，每层造成攻击20%[tips_5]；[buff_99_1]和[buff_2024_1]均持续3回合。"
       },

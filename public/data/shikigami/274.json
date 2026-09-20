@@ -166,7 +166,7 @@
         "zh": "不想听你说话，快走开。"
       },
       "description": {
-        "vi": "Đối với bất kỳ mục tiêu nào ngoài bản thân, có 100% [tips_2] xác suất gắn [buff_2743_1], duy trì 2 lượt. Nếu mục tiêu là đồng minh thì tất trúng.",
+        "vi": "Đối với bất kỳ mục tiêu nào ngoài bản thân, có 100% [tips_2] gắn [buff_2743_1], duy trì 2 lượt. Nếu mục tiêu là đồng minh thì tất trúng.",
         "en": "对除自身外的任一目标，100%（+Effect HIT）概率附加[buff_2743_1]，持续2回合。若目标为友方则必定命中。",
         "zh": "对除自身外的任一目标，100%（+效果命中）概率附加[buff_2743_1]，持续2回合。若目标为友方则必定命中。"
       },

@@ -66,7 +66,7 @@
         "zh": "就让我的毒爪把你融化吧。"
       },
       "description": {
-        "vi": "Sử dụng Độc Hoa Trảo tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công đồng thời có 100% [tips_2] xác suất giảm 20% Phòng thủ, duy trì 1 lượt.",
+        "vi": "Sử dụng Độc Hoa Trảo tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công đồng thời có 100% [tips_2] giảm 20% Phòng thủ, duy trì 1 lượt.",
         "en": "Uses his claws to attack 1 enemy, dealing damage equal to 125% of his ATK, with a 100% (+Effect HIT) chance of reducing the target's DEF by 20% for 1 turn.",
         "zh": "使用毒华爪攻击敌方目标，造成攻击125%伤害并有100%（+效果命中）概率降低20%防御，持续1回合。"
       },
@@ -149,7 +149,7 @@
         "zh": "冥道残月破！"
       },
       "description": {
-        "vi": "Vung ra một đạo Minh Đạo Tàn Nguyệt, gây cho toàn bộ kẻ địch sát thương bằng 182% Tấn công, đồng thời có 100% [tips_2] xác suất đính kèm [buff_3143_1], duy trì 2 lượt.",
+        "vi": "Vung ra một đạo Minh Đạo Tàn Nguyệt, gây cho toàn bộ kẻ địch sát thương bằng 182% Tấn công, đồng thời có 100% [tips_2] đính kèm [buff_3143_1], duy trì 2 lượt.",
         "en": "Unleashes Meido Zangetsu against all enemies, dealing damage equal to 182% of his ATK, and has a 100% (+Effect HIT) chance of inflicting [buff_3143_1] lasting 2 turns on them.",
         "zh": "挥出一道冥道残月，对敌方全体造成攻击182%伤害，并有100%（+效果命中）概率附加[buff_3143_1]，持续2回合。"
       },

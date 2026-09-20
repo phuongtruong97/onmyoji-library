@@ -66,7 +66,7 @@
         "zh": "燃烧的凤火啊，祛除一切不净吧。"
       },
       "description": {
-        "vi": "Ngưng tụ yêu lực thành đạn phượng hỏa bắn về phía mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, có 50% [tips_2] xác suất trộm 10% Bạo kích, duy trì 2 lượt.",
+        "vi": "Ngưng tụ yêu lực thành đạn phượng hỏa bắn về phía mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, có 50% [tips_2] trộm 10% Bạo kích, duy trì 2 lượt.",
         "en": "Focuses her flame and launches it at 1 enemy, dealing damage equal to 120% of her ATK with a 50% (+Effect HIT) chance of stealing 10% Crit for 2 turn(s).",
         "zh": "以妖力凝成凤火弹射向敌方目标，造成攻击120%伤害，有50%（+效果命中）概率偷取10%暴击，持续2回合。"
       },
@@ -124,7 +124,7 @@
         "zh": "弱者，就只配在火焰中化为灰烬。"
       },
       "description": {
-        "vi": "Khi tấn công, đối với kẻ địch mang trạng thái giảm ích và [tips_3], có 50% [tips_2] xác suất khiến kẻ đó [tips_108], duy trì 1 lượt.",
+        "vi": "Khi tấn công, đối với kẻ địch mang trạng thái giảm ích và [tips_3], có 50% [tips_2] khiến kẻ đó [tips_108], duy trì 1 lượt.",
         "en": "When attacking, she has a 50% (+Effect HIT) chance of inflicting [tips_108] lasting 1 turn on enemies with a debuff of [tips_3].",
         "zh": "攻击时，对带有减益效果和[tips_3]的敌方，有50%（+效果命中）概率使其[tips_108]，持续1回合。"
       },

@@ -124,7 +124,7 @@
         "zh": "不要那么凶，我好害怕哦！"
       },
       "description": {
-        "vi": "Khi chịu sát thương không phải [tips_12], có 25% xác suất trốn sau lưng đồng minh có HP cao nhất để miễn nhiễm sát thương này và hiệu ứng đi kèm. Nếu sát thương lần này là sát thương đơn thể, chuyển sang do đồng minh phía trước gánh chịu 80% sát thương cùng hiệu ứng kỹ năng trong đó.\nKhi kích hoạt né tránh, có 0.5 [tips_2] xác suất [tips_111] kẻ gây sát thương, duy trì 1 lượt.",
+        "vi": "Khi chịu sát thương không phải [tips_12], có 25% xác suất trốn sau lưng đồng minh có HP cao nhất để miễn nhiễm sát thương này và hiệu ứng đi kèm. Nếu sát thương lần này là sát thương đơn thể, chuyển sang do đồng minh phía trước gánh chịu 80% sát thương cùng hiệu ứng kỹ năng trong đó.\nKhi kích hoạt né tránh, có 0.5 [tips_2] [tips_111] kẻ gây sát thương, duy trì 1 lượt.",
         "en": "When taking non-[tips_12], has a 25% chance of hiding behind the ally with the most HP and gaining immunity against the damage and the effects inflicted. If the damage is a single-targeted damage, the ally who protects her takes 80% of the damage and is affected by the skill's effects instead.\nWhile hiding, has a 0.5 (+Effect HIT) chance of inflicting [tips_111] lasting 1 turn on the attacker.",
         "zh": "受到非[tips_12]时，有25%概率躲至生命最高的友方身后免疫此伤害及附带效果。若本次伤害为单体伤害，则改由身前的友方承受其中80%伤害及技能效果。\n触发躲避时，有0.5（+效果命中）概率对伤害者[tips_111]，持续1回合。"
       },
@@ -182,7 +182,7 @@
         "zh": "生气了！我真的生气了！"
       },
       "description": {
-        "vi": "Dẫm đạp 4 lần, lần đầu tấn công mục tiêu phe địch, các lần còn lại tấn công kẻ địch ngẫu nhiên, mỗi lần gây sát thương bằng 187% Tấn công, đồng thời có 42% [tips_2] xác suất khiến kẻ địch bị [tips_107] 1 lượt; nếu dẫm đạp lặp lại cùng một mục tiêu, sát thương giảm dần lần lượt 40%, [tips_2] giảm xuống 20%, số lượt [tips_107] có thể cộng dồn tối đa 0 lượt.",
+        "vi": "Dẫm đạp 4 lần, lần đầu tấn công mục tiêu phe địch, các lần còn lại tấn công kẻ địch ngẫu nhiên, mỗi lần gây sát thương bằng 187% Tấn công, đồng thời có 42% [tips_2] khiến kẻ địch bị [tips_107] 1 lượt; nếu dẫm đạp lặp lại cùng một mục tiêu, sát thương giảm dần lần lượt 40%, [tips_2] giảm xuống 20%, số lượt [tips_107] có thể cộng dồn tối đa 0 lượt.",
         "en": "踩踏4次，首次攻击敌方目标，余下次数攻击随机敌方，每次造成攻击187%伤害，并有42%（+Effect HIT）概率将敌方[tips_107]1回合；若重复踩踏同一目标，伤害依次递减40%，[tips_2]降至20%，[tips_107]回合数可叠加至最多0回合。",
         "zh": "踩踏4次，首次攻击敌方目标，余下次数攻击随机敌方，每次造成攻击187%伤害，并有42%（+效果命中）概率将敌方[tips_107]1回合；若重复踩踏同一目标，伤害依次递减40%，[tips_2]降至20%，[tips_107]回合数可叠加至最多0回合。"
       },

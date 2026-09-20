@@ -124,7 +124,7 @@
         "zh": "像过去的我一样，沉睡吧~"
       },
       "description": {
-        "vi": "Khi chịu sát thương, nếu bản thân chưa ở trạng thái [tips_17], có 25% xác suất miễn nhiễm sát thương, và có 100% [tips_2] xác suất đính kèm [buff_3062_1] cho kẻ tấn công, duy trì 2 lượt, trong 1 lần bị tấn công kích hoạt tối đa 1 lần.\nKẻ địch mang [buff_3062_1] khi chịu sát thương, trị liệu cho đồng minh có tỷ lệ HP thấp nhất lượng HP bằng 15% sát thương lần đó.",
+        "vi": "Khi chịu sát thương, nếu bản thân chưa ở trạng thái [tips_17], có 25% xác suất miễn nhiễm sát thương, và có 100% [tips_2] đính kèm [buff_3062_1] cho kẻ tấn công, duy trì 2 lượt, trong 1 lần bị tấn công kích hoạt tối đa 1 lần.\nKẻ địch mang [buff_3062_1] khi chịu sát thương, trị liệu cho đồng minh có tỷ lệ HP thấp nhất lượng HP bằng 15% sát thương lần đó.",
         "en": "When taking damage, if she's not [tips_17], has a 25% chance of gaining immunity to damage and a 100% (Effect HIT) chance of inflicting [buff_3062_1] lasting 2 turns on the attacker. Triggers only once for a single attack.\nWhen an enemy with [buff_3062_1] takes damage, heals the ally with the lowest proportion of HP by 15% of the damage dealt.",
         "zh": "受到伤害时，若自身未处于[tips_17]，则有25%概率免疫伤害，并有100%（+效果命中）概率为攻击者附加[buff_3062_1]，持续2回合，单次攻击内最多触发1次。\n带有[buff_3062_1]的敌方受到伤害时，为生命比例最低的友方治疗等同该次伤害15%的生命。"
       },

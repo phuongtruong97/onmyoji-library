@@ -124,7 +124,7 @@
         "zh": "我可不想变得脏兮兮的～"
       },
       "description": {
-        "vi": "Khi chịu sát thương, có 40% xác suất khiến lần sát thương đó giảm 30%.\nKhi tấn công, có 10% [tips_2] xác suất [tips_107] kẻ địch thành khói tiểu quỷ, duy trì 1 lượt.",
+        "vi": "Khi chịu sát thương, có 40% xác suất khiến lần sát thương đó giảm 30%.\nKhi tấn công, có 10% [tips_2] [tips_107] kẻ địch thành khói tiểu quỷ, duy trì 1 lượt.",
         "en": "When taking damage, has a 40% chance of reducing damage by 30%.\nWhen attacked, has a 10% (+Effect HIT) chance of [tips_107]ing the enemy into a smoke ghost for 1 turn(s).",
         "zh": "受到伤害时，有40%概率使该次伤害降低30%。\n攻击时，有10%（+效果命中）概率将敌方[tips_107]为烟雾小鬼，持续1回合。"
       },

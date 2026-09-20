@@ -124,7 +124,7 @@
         "zh": "敢打伤我，我可不会饶了你！"
       },
       "description": {
-        "vi": "Khi chịu tấn công, có 40% [tips_2] xác suất đính kèm [buff_2492_1] cho kẻ tấn công.\nTấn công kẻ địch mang [buff_2492_1], sát thương tăng 15%.",
+        "vi": "Khi chịu tấn công, có 40% [tips_2] đính kèm [buff_2492_1] cho kẻ tấn công.\nTấn công kẻ địch mang [buff_2492_1], sát thương tăng 15%.",
         "en": "When attacked, has a 40% (+Effect HIT) chance of inflicting [buff_2492_1] on the attacker.\nAttacking enemies with [buff_2492_1] inflicts 15% extra damage.",
         "zh": "受到攻击时，有40%（+效果命中）概率为攻击者附加[buff_2492_1]。\n攻击带有[buff_2492_1]的敌方，伤害提升15%。"
       },

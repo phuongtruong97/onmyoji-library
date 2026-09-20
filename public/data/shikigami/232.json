@@ -66,7 +66,7 @@
         "zh": "叮当，叮当~是时候还我钱了吧？"
       },
       "description": {
-        "vi": "Cưỡi vòng bánh xe tiền vàng loảng xoảng di chuyển đến trước mặt kẻ địch, nhân lúc mục tiêu phe địch mất tập trung đập mạnh vào đầu hắn, gây sát thương bằng 125% Tấn công, có 50% [tips_2] xác suất gắn [buff_2321_1], duy trì 2 lượt.",
+        "vi": "Cưỡi vòng bánh xe tiền vàng loảng xoảng di chuyển đến trước mặt kẻ địch, nhân lúc mục tiêu phe địch mất tập trung đập mạnh vào đầu hắn, gây sát thương bằng 125% Tấn công, có 50% [tips_2] gắn [buff_2321_1], duy trì 2 lượt.",
         "en": "乘着金币之轮哐啷哐啷地移动到敌人面前，趁敌方目标分神之际狠敲其脑袋，造成攻击125%伤害，有50%（+Effect HIT）概率附加[buff_2321_1]，持续2回合。",
         "zh": "乘着金币之轮哐啷哐啷地移动到敌人面前，趁敌方目标分神之际狠敲其脑袋，造成攻击125%伤害，有50%（+效果命中）概率附加[buff_2321_1]，持续2回合。"
       },
@@ -149,7 +149,7 @@
         "zh": "看钱！人在钱下死，做鬼也风流！哈哈哈！"
       },
       "description": {
-        "vi": "Dùng yêu lực điều khiển vô số tiền vàng tấn công toàn thể phe địch 2 lần, mỗi lần gây sát thương bằng 52% Tấn công và có 100% [tips_2] xác suất gắn [buff_2323_1], duy trì 2 lượt.",
+        "vi": "Dùng yêu lực điều khiển vô số tiền vàng tấn công toàn thể phe địch 2 lần, mỗi lần gây sát thương bằng 52% Tấn công và có 100% [tips_2] gắn [buff_2323_1], duy trì 2 lượt.",
         "en": "以妖力操纵数不尽的金币攻击敌方全体2次，每次造成攻击52%伤害并有100%（+Effect HIT）概率附加[buff_2323_1]，持续2回合。",
         "zh": "以妖力操纵数不尽的金币攻击敌方全体2次，每次造成攻击52%伤害并有100%（+效果命中）概率附加[buff_2323_1]，持续2回合。"
       },

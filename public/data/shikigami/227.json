@@ -66,7 +66,7 @@
         "zh": "铠甲不坚，长刀不利，魂魄不保！"
       },
       "description": {
-        "vi": "Vung trường đao chém mục tiêu kẻ địch, gây sát thương bằng 420% Phòng thủ. Khi thi triển trong lượt, có 30% [tips_2] xác suất [tips_100] mục tiêu. (Sát thương tối đa không vượt quá 400% Tấn công ban đầu)",
+        "vi": "Vung trường đao chém mục tiêu kẻ địch, gây sát thương bằng 420% Phòng thủ. Khi thi triển trong lượt, có 30% [tips_2] [tips_100] mục tiêu. (Sát thương tối đa không vượt quá 400% Tấn công ban đầu)",
         "en": "Slashes an enemy target with a longsword, dealing damage equal to 420% of DEF. If used out of turn, damage is increased by 200%. When used during the turn, has a 30%% (+Effect HIT%) chance to [tips_100] the target. (Damage cannot exceed 400% of starting ATK.)",
         "zh": "挥舞长刀斩击敌方目标，造成防御420%伤害。回合外施放时，伤害提升200%。回合内施放时，有30%（+效果命中）概率[tips_100]目标。（伤害至多不超过初始攻击的400%）"
       },
@@ -182,7 +182,7 @@
         "zh": "没有人能击破我的防御！"
       },
       "description": {
-        "vi": "Hóa thạch bản thân, có 50% [tips_2] xác suất [tips_100] toàn bộ kẻ địch, duy trì 1 lượt, đồng thời giúp bản thân nhận 150% Phòng thủ.",
+        "vi": "Hóa thạch bản thân, có 50% [tips_2] [tips_100] toàn bộ kẻ địch, duy trì 1 lượt, đồng thời giúp bản thân nhận 150% Phòng thủ.",
         "en": "Hardens self, with a 50% (+Effect HIT) chance to [tips_100] all enemies, lasting 1 turn, and grants self 150% DEF.",
         "zh": "石化自身，50%（+效果命中）概率对敌方全体[tips_100]，持续1回合，并使自身获得150%防御。"
       },

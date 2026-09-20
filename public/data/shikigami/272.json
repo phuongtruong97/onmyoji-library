@@ -66,7 +66,7 @@
         "zh": "什么都不用怕，有我在。"
       },
       "description": {
-        "vi": "Bắn ra bùa chú chứa đựng sức mạnh của gió tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 100% [tips_2] xác suất trộm 20% Tấn công, duy trì 2 lượt.",
+        "vi": "Bắn ra bùa chú chứa đựng sức mạnh của gió tấn công mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 100% [tips_2] trộm 20% Tấn công, duy trì 2 lượt.",
         "en": "Throws an amulet containing the power of the wind at an enemy, dealing damage equal to 125% of his ATK with a 100% (+Effect HIT) chance of draining 20% of the enemy's ATK for 2 turn(s).",
         "zh": "打出蕴含风之力的符咒攻击敌方目标，造成攻击125%伤害并有100%（+效果命中）概率偷取20%攻击，持续2回合。"
       },

@@ -66,7 +66,7 @@
         "zh": "你，休想从我这儿逃掉~"
       },
       "description": {
-        "vi": "Quật roi vào mục tiêu kẻ địch, gây sát thương bằng 102% Tấn công, và có 100% [tips_2] xác suất đính kèm [buff_99_1] cấp 3, duy trì 5 lượt; sau đó đính kèm [buff_2603_1] cho kẻ đó, gây [tips_5] bằng 33% Tấn công, duy trì 1 lượt.",
+        "vi": "Quật roi vào mục tiêu kẻ địch, gây sát thương bằng 102% Tấn công, và có 100% [tips_2] đính kèm [buff_99_1] cấp 3, duy trì 5 lượt; sau đó đính kèm [buff_2603_1] cho kẻ đó, gây [tips_5] bằng 33% Tấn công, duy trì 1 lượt.",
         "en": "Whips 1 enemy, dealing damage equal to 102% of her ATK with a 100% (+Effect HIT) chance of inflicting [buff_99_1] III lasting 5 turn(s) on the target. Also inflicts [buff_2603_1] on the target lasting 1 turn(s), dealing [tips_5] equal to 33% of her ATK.",
         "zh": "鞭打敌方目标，造成攻击102%伤害，并有100%（+效果命中）概率附加3级[buff_99_1]，持续5回合；然后对其附加[buff_2603_1]，造成攻击33%[tips_5]，持续1回合。"
       },
@@ -157,7 +157,7 @@
         "zh": "爱就像焚身之火，你也一起为爱献身吧。"
       },
       "description": {
-        "vi": "Phun lửa tấn công toàn thể phe địch 3 lần, mỗi lần gây sát thương bằng 42% Tấn công, đồng thời có 100% [tips_2] xác suất gắn [buff_99_1] cấp 3, duy trì 5 lượt; sau đó gắn [buff_2603_1] cho toàn thể phe địch, gây [tips_5] bằng 99% Tấn công, duy trì 1 lượt.",
+        "vi": "Phun lửa tấn công toàn thể phe địch 3 lần, mỗi lần gây sát thương bằng 42% Tấn công, đồng thời có 100% [tips_2] gắn [buff_99_1] cấp 3, duy trì 5 lượt; sau đó gắn [buff_2603_1] cho toàn thể phe địch, gây [tips_5] bằng 99% Tấn công, duy trì 1 lượt.",
         "en": "喷吐火焰攻击敌方全体3次，每次造成攻击42%伤害，并有100%（+Effect HIT）概率附加3级[buff_99_1]，持续5回合；然后对敌方全体附加[buff_2603_1]，造成攻击99%[tips_5]，持续1回合。",
         "zh": "喷吐火焰攻击敌方全体3次，每次造成攻击42%伤害，并有100%（+效果命中）概率附加3级[buff_99_1]，持续5回合；然后对敌方全体附加[buff_2603_1]，造成攻击99%[tips_5]，持续1回合。"
       },

@@ -182,7 +182,7 @@
         "zh": "半山春樱一帘风。"
       },
       "description": {
-        "vi": "Giáng hoa anh đào tấn công toàn bộ kẻ địch, xua tan 3 hiệu ứng tăng ích cho mỗi kẻ địch, đồng thời có 100% [tips_2] xác suất giảm trị liệu 50%, duy trì 2 lượt; đồng thời đính kèm [buff_2674_1], gây [tips_5] bằng 15% giới hạn HP (không vượt quá 76% Tấn công), duy trì 2 lượt.",
+        "vi": "Giáng hoa anh đào tấn công toàn bộ kẻ địch, xua tan 3 hiệu ứng tăng ích cho mỗi kẻ địch, đồng thời có 100% [tips_2] giảm trị liệu 50%, duy trì 2 lượt; đồng thời đính kèm [buff_2674_1], gây [tips_5] bằng 15% giới hạn HP (không vượt quá 76% Tấn công), duy trì 2 lượt.",
         "en": "Makes cherry blossoms fall from above to attack all enemies, dispelling 3 buffs from each enemy with a 100% (+Effect HIT) chance of inflicting a 50% Heal Down lasting 2 turns on them. Also inflicts a [buff_2674_1] lasting 2 turns on them, dealing [tips_5] equal to 15% of her max HP (up to a max of 76% of her ATK).",
         "zh": "降下落樱攻击敌方全体，对每个敌方驱散3个增益状态，并且100%（+效果命中）概率减疗50%，持续2回合；同时附加[buff_2674_1]，造成生命上限15%[tips_5]（不超过攻击76%），持续2回合。"
       },

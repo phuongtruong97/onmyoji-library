@@ -124,7 +124,7 @@
         "zh": "我的痛苦，你也体会一下吧！"
       },
       "description": {
-        "vi": "Khi tấn công, có 60% [tips_2] xác suất đính kèm [buff_2702_1] cho mục tiêu, duy trì 2 lượt.",
+        "vi": "Khi tấn công, có 60% [tips_2] đính kèm [buff_2702_1] cho mục tiêu, duy trì 2 lượt.",
         "en": "When she attacks, has a 60% (+Effect HIT) chance of inflicting [buff_2702_1] lasting 2 turns on the target.",
         "zh": "攻击时，60%（+效果命中）概率为目标附加[buff_2702_1]，持续2回合。"
       },
@@ -149,7 +149,7 @@
         "zh": "看，有新的食物了哦。"
       },
       "description": {
-        "vi": "Giải phóng đàn nhện tấn công toàn bộ phe địch, gây sát thương bằng 83% Tấn công, và có 15% [tips_2] xác suất khiến kẻ đó [tips_108] 1 lượt.\nNếu chỉ số Tốc độ của kẻ đó thấp hơn Lạc Tân Phụ, cứ mỗi 3 điểm Tốc độ chênh lệch, tăng 1% [tips_2]. Đính kèm [buff_2703_1] cho mục tiêu chưa bị [tips_108], sau khi kết thúc lượt gây [tips_5] bằng 136% Tấn công, duy trì 1 lượt. Nếu chỉ số Tốc độ của kẻ đó thấp hơn Lạc Tân Phụ, cứ mỗi 1 điểm Tốc độ chênh lệch, tăng 1% [tips_5], tăng tối đa 50%.",
+        "vi": "Giải phóng đàn nhện tấn công toàn bộ phe địch, gây sát thương bằng 83% Tấn công, và có 15% [tips_2] khiến kẻ đó [tips_108] 1 lượt.\nNếu chỉ số Tốc độ của kẻ đó thấp hơn Lạc Tân Phụ, cứ mỗi 3 điểm Tốc độ chênh lệch, tăng 1% [tips_2]. Đính kèm [buff_2703_1] cho mục tiêu chưa bị [tips_108], sau khi kết thúc lượt gây [tips_5] bằng 136% Tấn công, duy trì 1 lượt. Nếu chỉ số Tốc độ của kẻ đó thấp hơn Lạc Tân Phụ, cứ mỗi 1 điểm Tốc độ chênh lệch, tăng 1% [tips_5], tăng tối đa 50%.",
         "en": "Summons a horde of spiders to attack all enemies, dealing damage equal to 83% of her ATK with a 15% (+Effect HIT) chance of inflicting [tips_108] lasting 1 turn on them.\nIncreases the [tips_2] by 1% for each 3 SPD points the enemy is slower than Jorogumo. Inflicts [buff_2703_1] on each enemy not [tips_108]d this way, dealing [tips_5] equal to 136% of her ATK at the end of their turn for 1 turn. Increases the [tips_5] by 1% for each 1 SPD difference if the enemy is slower than Jorogumo, up to a maximum of 50%.",
         "zh": "释放蜘蛛群攻击敌方全体，造成攻击83%伤害，并有15%（+效果命中）概率使其[tips_108]1回合。\n若其速度属性低于络新妇，每3点速度差，提升1%[tips_2]。对未被[tips_108]的目标附加[buff_2703_1]，回合后造成攻击136%[tips_5]，持续1回合。若其速度属性低于络新妇，每1点速度差，提升1%[tips_5]，最高提升50%。"
       },

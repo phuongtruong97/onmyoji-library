@@ -66,7 +66,7 @@
         "zh": "就用我的羽毛，保护大家吧。"
       },
       "description": {
-        "vi": "Dùng yêu lực làm cứng lông vũ của bản thân bắn về phía mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 100% [tips_2] xác suất giảm 10% Chính Xác Hiệu Ứng, duy trì 2 lượt.",
+        "vi": "Dùng yêu lực làm cứng lông vũ của bản thân bắn về phía mục tiêu kẻ địch, gây sát thương bằng 125% Tấn công và có 100% [tips_2] giảm 10% Chính Xác Hiệu Ứng, duy trì 2 lượt.",
         "en": "Hardens his feathers and shoots them at 1 enemy, dealing damage equal to 125% of his ATK with a 100% (+Effect HIT) chance of reducing their Effect HIT by 10% for 2 turns.",
         "zh": "以妖力硬化自身的羽毛射向敌方目标，造成攻击125%伤害并有100%（+效果命中）概率降低10%效果命中，持续2回合。"
       },

@@ -124,7 +124,7 @@
         "zh": "没错，就是那边~快冲，啊哈哈~"
       },
       "description": {
-        "vi": "Khi kẻ địch đánh thường, tăng 5% Thanh Hành Động.\n[Thi triển] Dùng yêu lực dẫn dắt chậu súp lao về phía mục tiêu phe địch, gây sát thương bằng 158% Tấn công, có 50% [tips_2] xác suất khiến mục tiêu bị [tips_104] 1 lượt, đồng thời đẩy lùi 40% Thanh Hành Động.",
+        "vi": "Khi kẻ địch đánh thường, tăng 5% Thanh Hành Động.\n[Thi triển] Dùng yêu lực dẫn dắt chậu súp lao về phía mục tiêu phe địch, gây sát thương bằng 158% Tấn công, có 50% [tips_2] khiến mục tiêu bị [tips_104] 1 lượt, đồng thời đẩy lùi 40% Thanh Hành Động.",
         "en": "敌方普攻时，增加5%行动条。\n【施放】以妖力引导汤盆冲向敌方目标，造成攻击158%伤害，有50%（+Effect HIT）概率使其[tips_104]1回合，并击退40%行动条。",
         "zh": "敌方普攻时，增加5%行动条。\n【施放】以妖力引导汤盆冲向敌方目标，造成攻击158%伤害，有50%（+效果命中）概率使其[tips_104]1回合，并击退40%行动条。"
       },
@@ -182,7 +182,7 @@
         "zh": "嘻嘻~看我把他们砸个底朝天~"
       },
       "description": {
-        "vi": "Nhảy lên không trung, cưỡi bát súp từ trên trời giáng xuống, gây cho toàn thể phe địch sát thương bằng 158% Tấn công và có 60% [tips_2] xác suất khiến mục tiêu bị [tips_104] 1 lượt, đối với đơn vị không bị hiệu ứng câm lặng sẽ đẩy lùi -20% Thanh Hành Động của họ.",
+        "vi": "Nhảy lên không trung, cưỡi bát súp từ trên trời giáng xuống, gây cho toàn thể phe địch sát thương bằng 158% Tấn công và có 60% [tips_2] khiến mục tiêu bị [tips_104] 1 lượt, đối với đơn vị không bị hiệu ứng câm lặng sẽ đẩy lùi -20% Thanh Hành Động của họ.",
         "en": "跳入半空，乘着汤碗从天而降，对敌方全体造成攻击158%伤害并有60%（+Effect HIT）概率使其[tips_104]1回合，对未受到沉默效果的单位击退其-20%行动条。",
         "zh": "跳入半空，乘着汤碗从天而降，对敌方全体造成攻击158%伤害并有60%（+效果命中）概率使其[tips_104]1回合，对未受到沉默效果的单位击退其-20%行动条。"
       },

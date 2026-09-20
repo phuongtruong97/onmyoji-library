@@ -66,7 +66,7 @@
         "zh": "噗噗~快进入梦乡吧～"
       },
       "description": {
-        "vi": "Thử khiến mục tiêu phe địch rơi vào ác mộng, gây sát thương bằng 100% Tấn công, 20% xác suất giải trừ toàn bộ trạng thái tăng ích, 20% [tips_2] xác suất khiến mục tiêu bị [tips_102], duy trì 1 lượt.",
+        "vi": "Thử khiến mục tiêu phe địch rơi vào ác mộng, gây sát thương bằng 100% Tấn công, 20% xác suất giải trừ toàn bộ trạng thái tăng ích, 20% [tips_2] khiến mục tiêu bị [tips_102], duy trì 1 lượt.",
         "en": "尝试让敌方目标陷入噩梦，造成攻击100%伤害，20%概率驱散所有增益状态，20%（+Effect HIT）概率使其[tips_102]，持续1回合。",
         "zh": "尝试让敌方目标陷入噩梦，造成攻击100%伤害，20%概率驱散所有增益状态，20%（+效果命中）概率使其[tips_102]，持续1回合。"
       },
@@ -149,7 +149,7 @@
         "zh": "噗噗～你的梦，就让我吃掉吧！"
       },
       "description": {
-        "vi": "Tiềm nhập vào giấc mơ của kẻ địch, khiến toàn bộ kẻ địch có 50% [tips_2] xác suất [tips_102], duy trì 1~2 lượt.",
+        "vi": "Tiềm nhập vào giấc mơ của kẻ địch, khiến toàn bộ kẻ địch có 50% [tips_2] [tips_102], duy trì 1~2 lượt.",
         "en": "Enters the dreams of each enemy. Has a 50% (+Effect HIT) chance of inflicting [tips_102] lasting 1-2 turns on all enemies.",
         "zh": "潜入敌人梦中，使敌方全体有50%（+效果命中）概率[tips_102]，持续1~2回合。"
       },

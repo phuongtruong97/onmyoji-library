@@ -124,7 +124,7 @@
         "zh": "这一局你又要输了。"
       },
       "description": {
-        "vi": "Thay phiên nắm giữ [buff_3032_3], [buff_3031_3], khi tấn công có 100% [tips_2] xác suất đính kèm 1 tầng quân cờ đang nắm giữ cho kẻ địch, giới hạn 4 tầng. Khi đạt giới hạn, ưu tiên ghi đè quân cờ khác màu.\nKhi kẻ địch bị đính kèm 4 tầng quân cờ cùng màu, gây cho kẻ đó sát thương bằng 600% Tấn công.\nKẻ địch mang quân cờ khi lượt của kẻ đó kết thúc, nếu lượt đó không tiêu hao Quỷ Hỏa, loại bỏ ngẫu nhiên 1 tầng quân cờ.",
+        "vi": "Thay phiên nắm giữ [buff_3032_3], [buff_3031_3], khi tấn công có 100% [tips_2] đính kèm 1 tầng quân cờ đang nắm giữ cho kẻ địch, giới hạn 4 tầng. Khi đạt giới hạn, ưu tiên ghi đè quân cờ khác màu.\nKhi kẻ địch bị đính kèm 4 tầng quân cờ cùng màu, gây cho kẻ đó sát thương bằng 600% Tấn công.\nKẻ địch mang quân cờ khi lượt của kẻ đó kết thúc, nếu lượt đó không tiêu hao Quỷ Hỏa, loại bỏ ngẫu nhiên 1 tầng quân cờ.",
         "en": "Holds [buff_3032_3] and [buff_3031_3] in his hand in turns. Attacks have a 100% (+Effect HIT) chance of inflicting a stone in his hand to the enemy. Max 4 stacks. If a fully stacked enemy is attacked by a new stone, a stone of a different color is replaced.\nWhen an enemy is inflicted with 4 stones of the same color, inflicts damage to them equal to 600% of his ATK.\nIf the enemy ends a turn without using orbs, a random stone is removed by the end of the turn.",
         "zh": "交替持有[buff_3032_3]、[buff_3031_3]，攻击时有100%（+效果命中）概率为敌方附加1层所持棋子，上限4层。达上限时，优先覆盖不同色棋子。\n当敌方被附加4层同色棋子，对其造成攻击600%伤害。\n带有棋子的敌方在其回合结束时，若该回合没消耗鬼火，随机移除1层棋子。"
       },

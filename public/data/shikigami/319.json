@@ -149,7 +149,7 @@
         "zh": "你只有死路一条！"
       },
       "description": {
-        "vi": "Bắn mũi tên cường lực thuộc tính Thánh về phía mục tiêu kẻ địch, gây sát thương bằng 302% Tấn công, và có 100% [tips_2] xác suất đính kèm [buff_3193_1], duy trì 2 lượt; đối với kẻ địch mang [buff_3193_1], sát thương tăng 100%. Nếu [buff_3193_1] bị xua tan, đính kèm [buff_3194_1] cho mục tiêu, sẽ khiến hiệu ứng Ngự Hồn, Kỹ Năng Nội Tại của Thức Thần trang bị vô hiệu, duy trì 2 lượt.",
+        "vi": "Bắn mũi tên cường lực thuộc tính Thánh về phía mục tiêu kẻ địch, gây sát thương bằng 302% Tấn công, và có 100% [tips_2] đính kèm [buff_3193_1], duy trì 2 lượt; đối với kẻ địch mang [buff_3193_1], sát thương tăng 100%. Nếu [buff_3193_1] bị xua tan, đính kèm [buff_3194_1] cho mục tiêu, sẽ khiến hiệu ứng Ngự Hồn, Kỹ Năng Nội Tại của Thức Thần trang bị vô hiệu, duy trì 2 lượt.",
         "en": "Releases a powerful sacred arrow at 1 enemy, dealing damage equal to 302% of her ATK with a 100% (+Effect HIT) chance of inflicting [buff_3193_1] lasting 2 turns on them. Damage to enemies with [buff_3193_1] is increased by 100%. When [buff_3193_1] is dispelled, inflicts [buff_3194_1] lasting 2 turns on the target, preventing the effects of the shikigami's souls and passive skills from taking effect.",
         "zh": "向敌方目标射出圣属性的强力箭矢，造成攻击302%伤害，并有100%（+效果命中）概率附加[buff_3193_1]，持续2回合；对带有[buff_3193_1]的敌方，伤害提升100%。若[buff_3193_1]被驱散，则为目标附加[buff_3194_1]，将使式神所配戴御魂效果、被动技能失效，持续2回合。"
       },

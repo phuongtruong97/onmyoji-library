@@ -66,7 +66,7 @@
         "zh": "锤？钉耙？剑？总有一款合你口味哈哈~"
       },
       "description": {
-        "vi": "Sử dụng nhiều loại vũ khí tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, có 20% [tips_2] xác suất đính kèm ngẫu nhiên 1 trong các hiệu ứng sau: Giảm 30% Phòng thủ duy trì 2 lượt, [tips_108] 1 lượt, hoặc mỗi lượt chịu sát thương bằng 5% HP tối đa, duy trì 2 lượt.",
+        "vi": "Sử dụng nhiều loại vũ khí tấn công mục tiêu kẻ địch, gây sát thương bằng 120% Tấn công, có 20% [tips_2] đính kèm ngẫu nhiên 1 trong các hiệu ứng sau: Giảm 30% Phòng thủ duy trì 2 lượt, [tips_108] 1 lượt, hoặc mỗi lượt chịu sát thương bằng 5% HP tối đa, duy trì 2 lượt.",
         "en": "Uses multiple weapons to attack 1 enemy, dealing damage equal to 120% of their ATK with a 20% (+Effect HIT) chance of inflicting one of the following effects: Reduces DEF by 30% for 2 turns; [tips_108] lasting 1 turn(s); Takes damage equal to 5% of max HP on each turn for 2 turn(s).",
         "zh": "使用多种武器攻击敌方目标，造成攻击120%伤害，有20%（+效果命中）概率随机附加以下一种效果，降低30%防御2回合、[tips_108]1回合、或每回合受到生命上限5%的伤害，持续2回合。"
       },

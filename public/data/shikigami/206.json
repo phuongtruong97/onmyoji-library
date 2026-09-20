@@ -254,7 +254,7 @@
         "zh": "都说了，不可以乱动哦。"
       },
       "description": {
-        "vi": "Hóa bong bóng thành lồng giam, có 100% [tips_2] xác suất khiến mục tiêu phe địch bị [tips_110], [tips_110] có thể hấp thụ sát thương bằng 180% Tấn công, đồng thời giảm 20% Chí mạng, ngoài ra sau lượt gây sát thương bằng 0% Tấn công, duy trì 2 lượt.",
+        "vi": "Hóa bong bóng thành lồng giam, có 100% [tips_2] khiến mục tiêu phe địch bị [tips_110], [tips_110] có thể hấp thụ sát thương bằng 180% Tấn công, đồng thời giảm 20% Chí mạng, ngoài ra sau lượt gây sát thương bằng 0% Tấn công, duy trì 2 lượt.",
         "en": "将泡泡化作牢笼，有100%（+Effect HIT）概率将敌方目标[tips_110]，[tips_110]能吸收攻击180%伤害，并降低20%暴击，且在回合后造成攻击0%伤害，持续2回合。",
         "zh": "将泡泡化作牢笼，有100%（+效果命中）概率将敌方目标[tips_110]，[tips_110]能吸收攻击180%伤害，并降低20%暴击，且在回合后造成攻击0%伤害，持续2回合。"
       },
