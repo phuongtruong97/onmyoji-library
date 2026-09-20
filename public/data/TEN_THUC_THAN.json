@@ -783,6 +783,20 @@
           "portraitFile": "602.png",
           "headIconFile": "602a.png"
         }
+      },
+      {
+        "id": 607,
+        "name": {
+          "vi": "Bách Vũ Phượng Hoàng Hỏa",
+          "en": "",
+          "zh": "百羽凤凰火"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "assets": {
+          "portraitFile": "607.png",
+          "headIconFile": "607a.png"
+        }
       }
     ],
     "SSR": [

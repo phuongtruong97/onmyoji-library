@@ -35,7 +35,7 @@
       "zh": "狐袭印记"
     },
     "description": {
-      "vi": "Mỗi tầng Hồ Kích Ấn Ký gây sát thương gián tiếp bằng 10% công kích của Tam Vĩ Hồ mỗi lượt, duy trì trong 2 lượt. Có thể cộng dồn.",
+      "vi": "Mỗi tầng Hồ Kích Ấn Ký gây sát thương gián tiếp bằng 10% tấn công của Tam Vĩ Hồ mỗi lượt, duy trì trong 2 lượt. Có thể cộng dồn.",
       "en": "",
       "zh": ""
     },
@@ -497,7 +497,7 @@
       "zh": "落樱"
     },
     "description": {
-      "vi": "Gây sát thương gián tiếp bằng 9% máu tối đa của Đào Hoa Yêu, tối đa không vượt quá 370% công kích của cô ấy khi kết thúc lượt.",
+      "vi": "Gây sát thương gián tiếp bằng 9% máu tối đa của Đào Hoa Yêu, tối đa không vượt quá 370% tấn công của cô ấy khi kết thúc lượt.",
       "en": "",
       "zh": ""
     },
@@ -1687,7 +1687,7 @@
       "zh": ""
     },
     "description": {
-      "vi": "Khi mục tiêu dính ấn nhận hiệu ứng hồi máu hoặc được kéo thanh hành động, Đồng Cổ sẽ kích hoạt và tiêu hao 1 tầng để vô hiệu hóa hoàn toàn hiệu ứng đó.\nMỗi khi Đồng Cổ được kích hoạt, giảm máu tối đa của mục tiêu đi 8% (tối đa giảm đến 20%, mỗi lần kích hoạt không vượt quá 1200% công kích của Phược Cốt Thanh Cơ).",
+      "vi": "Khi mục tiêu dính ấn nhận hiệu ứng hồi máu hoặc được kéo thanh hành động, Đồng Cổ sẽ kích hoạt và tiêu hao 1 tầng để vô hiệu hóa hoàn toàn hiệu ứng đó.\nMỗi khi Đồng Cổ được kích hoạt, giảm máu tối đa của mục tiêu đi 8% (tối đa giảm đến 20%, mỗi lần kích hoạt không vượt quá 1200% tấn công của Phược Cốt Thanh Cơ).",
       "en": "",
       "zh": ""
     },
@@ -1813,7 +1813,7 @@
       "zh": "溟种"
     },
     "description": {
-      "vi": "Vào cuối lượt, mỗi tầng Minh Chủng gây sát thương bằng 100% công kích của SP Bỉ Ngạn Hoa. Nếu lượng sát thương này bị hấp thụ bởi khiên chắn hoặc bị vô hiệu hóa bởi miễn nhiễm sát thương, SP Bỉ Ngạn Hoa nhận thêm 1 đóa Minh Hoa..",
+      "vi": "Vào cuối lượt, mỗi tầng Minh Chủng gây sát thương bằng 100% tấn công của SP Bỉ Ngạn Hoa. Nếu lượng sát thương này bị hấp thụ bởi khiên chắn hoặc bị vô hiệu hóa bởi miễn nhiễm sát thương, SP Bỉ Ngạn Hoa nhận thêm 1 đóa Minh Hoa..",
       "en": "",
       "zh": ""
     },
@@ -6727,7 +6727,7 @@
       "zh": ""
     },
     "description": {
-      "vi": "Khi bắt đầu lượt của mình, Cửu Mạng Miêu có thể sử dụng Báo Thù lên kẻ địch mà không tốn quỷ hỏa và bỏ qua 100 phòng ngự của mục tiêu.",
+      "vi": "Khi bắt đầu lượt của mình, Cửu Mạng Miêu có thể sử dụng Báo Thù lên kẻ địch mà không tốn Quỷ Hỏa và bỏ qua 100 phòng ngự của mục tiêu.",
       "en": "",
       "zh": ""
     },
@@ -6867,7 +6867,7 @@
       "zh": ""
     },
     "description": {
-      "vi": "Khi mục tiêu dính ấn nhận hiệu ứng hồi máu hoặc được kéo thanh hành động, Đồng Cổ sẽ kích hoạt và tiêu hao 1 tầng để vô hiệu hóa hoàn toàn hiệu ứng đó.\nMỗi khi Đồng Cổ được kích hoạt, giảm máu tối đa của mục tiêu đi 8% (tối đa giảm đến 20%, mỗi lần kích hoạt không vượt quá 1200% công kích của Phược Cốt Thanh Cơ).",
+      "vi": "Khi mục tiêu dính ấn nhận hiệu ứng hồi máu hoặc được kéo thanh hành động, Đồng Cổ sẽ kích hoạt và tiêu hao 1 tầng để vô hiệu hóa hoàn toàn hiệu ứng đó.\nMỗi khi Đồng Cổ được kích hoạt, giảm máu tối đa của mục tiêu đi 8% (tối đa giảm đến 20%, mỗi lần kích hoạt không vượt quá 1200% tấn công của Phược Cốt Thanh Cơ).",
       "en": "",
       "zh": ""
     },
@@ -6881,7 +6881,7 @@
       "zh": ""
     },
     "description": {
-      "vi": "Khi mục tiêu dính ấn nhận hiệu ứng hồi máu hoặc được kéo thanh hành động, Đồng Cổ sẽ kích hoạt và tiêu hao 1 tầng để vô hiệu hóa hoàn toàn hiệu ứng đó.\nMỗi khi Đồng Cổ được kích hoạt, giảm máu tối đa của mục tiêu đi 8% (tối đa giảm đến 20%, mỗi lần kích hoạt không vượt quá 1200% công kích của Phược Cốt Thanh Cơ).",
+      "vi": "Khi mục tiêu dính ấn nhận hiệu ứng hồi máu hoặc được kéo thanh hành động, Đồng Cổ sẽ kích hoạt và tiêu hao 1 tầng để vô hiệu hóa hoàn toàn hiệu ứng đó.\nMỗi khi Đồng Cổ được kích hoạt, giảm máu tối đa của mục tiêu đi 8% (tối đa giảm đến 20%, mỗi lần kích hoạt không vượt quá 1200% tấn công của Phược Cốt Thanh Cơ).",
       "en": "",
       "zh": ""
     },
@@ -6910,6 +6910,48 @@
     },
     "description": {
       "vi": "Trạng thái mặc định củ Huân",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_6072_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Tụy Hỏa",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tối đa 10 tầng. Vào đầu lượt của người mang, tiêu hao 1 tầng, gây sát thương bằng (số tầng hiện tại) x (40% tấn công ban đầu của SP Phượng Hoàng Hỏa). \nKhi đạt giới hạn tối đa, tiêu hao 3 tầng, gây sát thương cho người mang bằng 800% tấn công ban đầu của SP Phượng Hoàng Hỏa (sát thương gây ra bởi [buff_6072_1] không kích hoạt hiệu ứng ngự hồn của bản thân), đồng thời tăng số tầng [buff_6072_1] trên tất cả kẻ địch khác thêm 1 tầng (giới hạn 6 lần trước khi lượt của SP Phượng Hoàng Hỏa bắt đầu).",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_6072_2": {
+    "kind": "buff",
+    "title": {
+      "vi": "Vũ Hòe",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tối đa 4 tầng. Khiên, có thể hấp thụ sát thương bằng 100% công kích ban đầu của SP Phượng Hoàng Hỏa, không thể giải trừ, duy trì 2 hiệp.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_6072_3": {
+    "kind": "buff",
+    "title": {
+      "vi": "Dư Tẫn",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Có thể vào trạng thái [buff_6072_3] tối đa 1 lần, bị tính là thất bại nếu trên sân chỉ còn lại [buff_6072_3].   \nTăng 100 điểm tốc độ của bản thân, miễn dịch sát thương, hiệu ứng bất lợi, hiệu ứng khống chế và trục xuất.\nHồi sinh khi đến điểm cuối thanh hành động, đính kèm 2 tầng [buff_6072_1] cho toàn bộ kẻ địch và nhận 2 Quỷ Hỏa (nếu chỉ còn lại một mình cô ấy thì tấn công kẻ địch sẽ không còn mất máu).   ",
       "en": "",
       "zh": ""
     },

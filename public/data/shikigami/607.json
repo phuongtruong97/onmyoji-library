@@ -1,0 +1,231 @@
+{
+  "id": 607,
+  "name": {
+    "vi": "Bách Vũ Phượng Hoàng Hỏa",
+    "en": "",
+    "zh": "百羽凤凰火"
+  },
+  "rarity": "SP",
+  "tier": "SP",
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2680,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10254,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 353,
+      "grade": "C"
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 112,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6071,
+      "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hoán Vũ",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "Những kè này, nóng lòng muốn châm ngòi nơi này rồi đây.",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Bách Vũ Phượng Hoàng Hỏa chỉ huy chim lửa bay về phía địch, gây cho mục tiêu địch sát thương bằng 125% công kích, sau đó mất 10% HP tối đa (có thể đưa bản thân vào trạng thái [buff_6072_3]).",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6071.png"
+    },
+    {
+      "id": 6072,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vị Tức Vũ",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "Chiếc lông vũ vương vấn đốm lửa này, phải bảo quản cho thật kỹ.",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Nhất vũ phàm tâm, tân trạch vạn linh\n[tips_11] Máu không thể được hồi phục hoặc chữa trị. Khi nhận sát thương gây tử vong, đính kèm 2 tầng [buff_6072_1] cho toàn bộ kẻ địch, sau đó chuyển sang trạng thái [buff_6072_3].\n[Thi triển] Mất 25% máu tối đa.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi nhận sát thương không phải sát thương truyền dẫn, đính kèm 1 tầng [buff_6072_1] cho nguồn gây sát thương.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi lần tấn công, đính kèm 1 tầng [buff_6072_1] cho kẻ địch.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Mỗi khi HP giảm đi 25% so với tối đa, khiến các đồng đội không phải vật triệu hồi nhận được [buff_6072_2]",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Có thể vào trạng thái [buff_6072_3] tối đa 4 lần.",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6072.png"
+    },
+    {
+      "id": 6073,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bách Vũ Hàm Hoa",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "Bách điểu, cùng ta càn quét tận trường khung!",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Một tiếng hò reo, bách điểu rơi xuống. \nTấn công mục tiêu được chọn gây 160% tấn công, sau đó tấn công toàn bộ địch 2 lần, mỗi lần gây 50% tấn công. Mất 50% HP tối đa (có thể đưa bản thân vào trạng thái [buff_6072_3]).",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương lên toàn bộ địch tăng lên 60%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương lên toàn bộ địch tăng lên 70%.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương lên toàn bộ địch tăng lên 80%.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Có thể vào trạng thái [buff_6072_3] tối đa 3 lần.",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconFile": "6073.png"
+    }
+  ],
+  "assets": {
+    "portraitFile": "607.png",
+    "headIconFile": "607a.png"
+  }
+}

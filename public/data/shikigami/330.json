@@ -248,7 +248,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Mỗi Quỷ hỏa đang có sẽ tăng thêm 5 điểm Tốc độ cho bản thân.",
+            "vi": "Mỗi Quỷ Hỏa đang có sẽ tăng thêm 5 điểm Tốc độ cho bản thân.",
             "en": "",
             "zh": ""
           }
@@ -264,7 +264,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Mỗi Quỷ hỏa đang có cũng tăng thêm 5% Kháng hiệu ứng cho bản thân.",
+            "vi": "Mỗi Quỷ Hỏa đang có cũng tăng thêm 5% Kháng hiệu ứng cho bản thân.",
             "en": "",
             "zh": ""
           }
@@ -272,7 +272,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sau khi sử dụng [Tẫn Nhiễm Bất Dạ], với mỗi Quỷ hỏa hiện có, gây thêm sát thương bằng 46% Tấn Công của bản thân.",
+            "vi": "Sau khi sử dụng [Tẫn Nhiễm Bất Dạ], với mỗi Quỷ Hỏa hiện có, gây thêm sát thương bằng 46% Tấn Công của bản thân.",
             "en": "",
             "zh": ""
           }
