@@ -1,0 +1,1686 @@
+{
+  "schema": 1,
+  "count": 70,
+  "souls": [
+    {
+      "id": 1,
+      "category": "normal",
+      "name": {
+        "vi": "Tuyết U Hồn",
+        "en": "Snow Spirit",
+        "zh": "雪幽魂"
+      },
+      "set2": {
+        "vi": "DEF +30%",
+        "en": "DEF +30%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi gây sát thương: 15% xác suất cơ bản đóng băng 1 lượt (30% nếu mục tiêu đang Giảm tốc). Khi bị đánh, giảm 30 Tốc của kẻ đánh trong 1 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "001-Snow-Spirit.webp",
+        "fullImageFile": "001-Snow-Spirit.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 2,
+      "category": "normal",
+      "name": {
+        "vi": "Địa Tạng Tượng",
+        "en": "Jizo Statue",
+        "zh": "地藏像"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi chịu chí mạng, tạo khiên bằng 10% HP tối đa; có 30% xác suất bảo vệ đồng đội bằng khiên.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "002-Jizo-Statue.webp",
+        "fullImageFile": "002-Jizo-Statue.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 3,
+      "category": "normal",
+      "name": {
+        "vi": "Dơi Yêu",
+        "en": "Nightwing",
+        "zh": "蝠翼"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Hồi HP bằng 20% sát thương gây ra.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "003-Nightwing.webp",
+        "fullImageFile": "003-Nightwing.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 4,
+      "category": "normal",
+      "name": {
+        "vi": "Niết Bàn Chi Hỏa",
+        "en": "Holy Flame",
+        "zh": "涅槃之火"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Cuối lượt, nếu HP dưới 30%, hồi 15% HP tối đa.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "004-Holy-Flame.webp",
+        "fullImageFile": "004-Holy-Flame.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 5,
+      "category": "normal",
+      "name": {
+        "vi": "Tam Vị",
+        "en": "Samisen",
+        "zh": "三味"
+      },
+      "set2": {
+        "vi": "Crit +15%",
+        "en": "Crit +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi đồng đội bị khống chế, người mang +30 Tốc trong 2 lượt; tối đa 2 tầng, không thể giải trừ.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "005-Samisen.webp",
+        "fullImageFile": "005-Samisen.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 6,
+      "category": "normal",
+      "name": {
+        "vi": "Võng Lượng Chi Hạp",
+        "en": "Mimic",
+        "zh": "魍魉之匣"
+      },
+      "set2": {
+        "vi": "RES +15%",
+        "en": "RES +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi gây sát thương, 25% xác suất cơ bản đặt ngẫu nhiên một hiệu ứng xấu lên mục tiêu trong 1 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "006-Mimic.webp",
+        "fullImageFile": "006-Mimic.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 7,
+      "category": "normal",
+      "name": {
+        "vi": "Bị Phục",
+        "en": "Boroboroton",
+        "zh": "被服"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Giảm 30% sát thương phải chịu.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "007-Boroboroton.webp",
+        "fullImageFile": "007-Boroboroton.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 8,
+      "category": "normal",
+      "name": {
+        "vi": "Chiêu Tài Miêu",
+        "en": "Fortune Cat",
+        "zh": "招财猫"
+      },
+      "set2": {
+        "vi": "DEF +30%",
+        "en": "DEF +30%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Đầu lượt có 50% xác suất nhận 2 Quỷ hỏa.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "008-Fortune-Cat.webp",
+        "fullImageFile": "008-Fortune-Cat.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 9,
+      "category": "normal",
+      "name": {
+        "vi": "Phản Chẩm",
+        "en": "Shy Soul",
+        "zh": "反枕"
+      },
+      "set2": {
+        "vi": "DEF +30%",
+        "en": "DEF +30%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi gây sát thương, 23% xác suất cơ bản gây Ngủ trong 1 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "009-Shy-Soul.webp",
+        "fullImageFile": "009-Shy-Soul.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 10,
+      "category": "normal",
+      "name": {
+        "vi": "Luân Nhập Đạo",
+        "en": "Soultaker",
+        "zh": "轮入道"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Cuối lượt có 20% xác suất nhận thêm 1 lượt hành động.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "010-Soultaker.webp",
+        "fullImageFile": "010-Soultaker.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 11,
+      "category": "normal",
+      "name": {
+        "vi": "Nhật Nữ Tỵ Thời",
+        "en": "Dawn Fairy",
+        "zh": "日女巳时"
+      },
+      "set2": {
+        "vi": "DEF +30%",
+        "en": "DEF +30%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi gây sát thương, 20% xác suất đẩy lùi 30% thanh hành động; nếu mục tiêu có buff, xác suất tăng thêm 10%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "011-Dawn-Fairy.webp",
+        "fullImageFile": "011-Dawn-Fairy.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 12,
+      "category": "normal",
+      "name": {
+        "vi": "Kính Cơ",
+        "en": "Mirror Lady",
+        "zh": "镜姬"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "30% xác suất phản lại 100% sát thương nhận vào; xác suất giảm 60% trước mục tiêu bị Khiêu khích.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "012-Mirror-Lady.webp",
+        "fullImageFile": "012-Mirror-Lady.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 13,
+      "category": "normal",
+      "name": {
+        "vi": "Chung Linh",
+        "en": "Priestess",
+        "zh": "钟灵"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi gây sát thương, 8% xác suất cơ bản gây Choáng 1 lượt (16% nếu mục tiêu đang Giảm tốc).",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "013-Priestess.webp",
+        "fullImageFile": "013-Priestess.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 14,
+      "category": "normal",
+      "name": {
+        "vi": "Tranh",
+        "en": "Scarlet",
+        "zh": "狰"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi chịu sát thương, 35% xác suất phản công bằng đánh thường.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "014-Scarlet.webp",
+        "fullImageFile": "014-Scarlet.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 15,
+      "category": "normal",
+      "name": {
+        "vi": "Hỏa Linh",
+        "en": "Azure Basan",
+        "zh": "火灵"
+      },
+      "set2": {
+        "vi": "HIT +15%",
+        "en": "HIT +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Hiệu ứng duy nhất: bắt đầu trận nhận 3 Quỷ hỏa.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "015-Azure-Basan.webp",
+        "fullImageFile": "015-Azure-Basan.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 16,
+      "category": "normal",
+      "name": {
+        "vi": "Minh Ốc",
+        "en": "House Imp",
+        "zh": "鸣屋"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Sát thương lên mục tiêu đang bị khống chế tăng 45%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "016-House-Imp.webp",
+        "fullImageFile": "016-House-Imp.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 17,
+      "category": "normal",
+      "name": {
+        "vi": "Thế Hồn",
+        "en": "Soul Edge",
+        "zh": "薙魂"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi đồng đội bị đánh đơn mục tiêu: 50% xác suất giảm 20% sát thương của họ và người mang gánh 40% phần sát thương còn lại.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "017-Soul-Edge.webp",
+        "fullImageFile": "017-Soul-Edge.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 18,
+      "category": "normal",
+      "name": {
+        "vi": "Tâm Nhãn",
+        "en": "Watcher",
+        "zh": "心眼"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Cứ mỗi 15% HP mục tiêu đã mất, sát thương gây ra tăng 10%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "018-Watcher.webp",
+        "fullImageFile": "018-Watcher.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 19,
+      "category": "normal",
+      "name": {
+        "vi": "Mộc Mị",
+        "en": "Tree Nymph",
+        "zh": "木魅"
+      },
+      "set2": {
+        "vi": "DEF +30%",
+        "en": "DEF +30%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi đồng đội chịu sát thương, 25% xác suất làm mục tiêu mất 1 Quỷ hỏa; xác suất giảm 60% trước mục tiêu bị Khiêu khích; đòn nhiều hit không cộng dồn.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "019-Tree-Nymph.webp",
+        "fullImageFile": "019-Tree-Nymph.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 20,
+      "category": "normal",
+      "name": {
+        "vi": "Thụ Yêu",
+        "en": "Tree Spirit",
+        "zh": "树妖"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Hiệu quả trị liệu tăng 20%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "020-Tree-Spirit.webp",
+        "fullImageFile": "020-Tree-Spirit.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 21,
+      "category": "normal",
+      "name": {
+        "vi": "Võng Thiết",
+        "en": "Claws",
+        "zh": "网切"
+      },
+      "set2": {
+        "vi": "Crit +15%",
+        "en": "Crit +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi gây sát thương, 50% xác suất bỏ qua 45% DEF của mục tiêu.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "021-Claws.webp",
+        "fullImageFile": "021-Claws.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 22,
+      "category": "normal",
+      "name": {
+        "vi": "Âm Ma La",
+        "en": "Harpy",
+        "zh": "阴摩罗"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi hạ mục tiêu, nhận 3 Quỷ hỏa.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "022-Harpy.webp",
+        "fullImageFile": "022-Harpy.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 23,
+      "category": "normal",
+      "name": {
+        "vi": "Thương Hồn Điểu",
+        "en": "Fenikkusu",
+        "zh": "伤魂鸟"
+      },
+      "set2": {
+        "vi": "Crit +15%",
+        "en": "Crit +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi một mục tiêu không phải quái bị hạ: hồi 20% HP tối đa và +20% sát thương, tối đa +120% đến hết trận.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "023-Fenikkusu.webp",
+        "fullImageFile": "023-Fenikkusu.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 24,
+      "category": "normal",
+      "name": {
+        "vi": "Phá Thế",
+        "en": "Shadow",
+        "zh": "破势"
+      },
+      "set2": {
+        "vi": "Crit +15%",
+        "en": "Crit +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Gây thêm 40% sát thương khi mục tiêu còn trên 70% HP.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "024-Shadow.webp",
+        "fullImageFile": "024-Shadow.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 25,
+      "category": "normal",
+      "name": {
+        "vi": "Trấn Mộ Thú",
+        "en": "Tomb Guard",
+        "zh": "镇墓兽"
+      },
+      "set2": {
+        "vi": "Crit +15%",
+        "en": "Crit +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Mỗi 1% HP đã mất tăng 0,6% Crit DMG.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "025-Tomb-Guard.webp",
+        "fullImageFile": "025-Tomb-Guard.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 26,
+      "category": "normal",
+      "name": {
+        "vi": "Trân Châu",
+        "en": "Pearl",
+        "zh": "珍珠"
+      },
+      "set2": {
+        "vi": "DEF +30%",
+        "en": "DEF +30%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi trị liệu đồng đội, tạo khiên dựa trên lượng trị liệu, tồn tại 2 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "026-Pearl.webp",
+        "fullImageFile": "026-Pearl.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 27,
+      "category": "normal",
+      "name": {
+        "vi": "Xúc Xắc Quỷ",
+        "en": "Dice Sprite",
+        "zh": "骰子鬼"
+      },
+      "set2": {
+        "vi": "RES +15%",
+        "en": "RES +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi kháng hiệu ứng, phản công nguồn gây hiệu ứng với sát thương +50%; khi bị khống chế, tăng 25% thanh hành động.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "027-Dice-Sprite.webp",
+        "fullImageFile": "027-Dice-Sprite.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 28,
+      "category": "normal",
+      "name": {
+        "vi": "Bạng Tinh",
+        "en": "Sea Sprite",
+        "zh": "蚌精"
+      },
+      "set2": {
+        "vi": "HIT +15%",
+        "en": "HIT +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Đầu trận tạo khiên cho toàn đội, hấp thụ sát thương bằng 10% HP của người mang.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "028-Sea-Sprite.webp",
+        "fullImageFile": "028-Sea-Sprite.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 29,
+      "category": "normal",
+      "name": {
+        "vi": "Mị Yêu",
+        "en": "Temptress",
+        "zh": "魅妖"
+      },
+      "set2": {
+        "vi": "DEF +30%",
+        "en": "DEF +30%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi gây sát thương, 25% xác suất cơ bản gây Hỗn loạn 1 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "029-Temptress.webp",
+        "fullImageFile": "029-Temptress.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 30,
+      "category": "normal",
+      "name": {
+        "vi": "Châm Nữ",
+        "en": "Seductress",
+        "zh": "针女"
+      },
+      "set2": {
+        "vi": "Crit +15%",
+        "en": "Crit +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi chí mạng, 40% xác suất gây thêm sát thương bằng 10% HP tối đa của mục tiêu, tối đa 120% ATK của người mang.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "030-Seductress.webp",
+        "fullImageFile": "030-Seductress.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 31,
+      "category": "normal",
+      "name": {
+        "vi": "Phản Hồn Hương",
+        "en": "Senecio",
+        "zh": "返魂香"
+      },
+      "set2": {
+        "vi": "RES +15%",
+        "en": "RES +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi chịu sát thương, 25% xác suất cơ bản gây Choáng nguồn sát thương trong 1 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "031-Senecio.webp",
+        "fullImageFile": "031-Senecio.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 32,
+      "category": "normal",
+      "name": {
+        "vi": "Cuồng Cốt",
+        "en": "Kyoukotsu",
+        "zh": "狂骨"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Mỗi Quỷ hỏa đang có làm sát thương tăng 8%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "032-Kyoukotsu.webp",
+        "fullImageFile": "032-Kyoukotsu.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 33,
+      "category": "normal",
+      "name": {
+        "vi": "U Cốc Hưởng",
+        "en": "Yamabiko",
+        "zh": "幽谷响"
+      },
+      "set2": {
+        "vi": "RES +15%",
+        "en": "RES +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi hiệu ứng xấu bị kháng, phản lại hiệu ứng đó về nguồn gây ra.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "033-Yamabiko.webp",
+        "fullImageFile": "033-Yamabiko.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 34,
+      "category": "boss",
+      "name": {
+        "vi": "Thổ Tri Thù",
+        "en": "Tsuchigumo",
+        "zh": "土蜘蛛"
+      },
+      "set2": {
+        "vi": "Khi gây sát thương lên quái, đặt tối đa 3 tầng Ấn: mỗi tầng -10% Tốc và gây 10% sát thương gián tiếp trong 1 lượt.",
+        "en": "Khi gây sát thương lên quái, đặt tối đa 3 tầng Ấn: mỗi tầng -10% Tốc và gây 10% sát thương gián tiếp trong 1 lượt.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "034-Tsuchigumo.webp",
+        "fullImageFile": "Ml1.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 35,
+      "category": "boss",
+      "name": {
+        "vi": "Lung Xa",
+        "en": "Oboroguruma",
+        "zh": "胧车"
+      },
+      "set2": {
+        "vi": "Khi bị quái tấn công, 50% xác suất tăng 30% thanh hành động; mỗi đòn chỉ kích hoạt một lần.",
+        "en": "Khi bị quái tấn công, 50% xác suất tăng 30% thanh hành động; mỗi đòn chỉ kích hoạt một lần.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "035-Oboroguruma.webp",
+        "fullImageFile": "Ml2.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 36,
+      "category": "boss",
+      "name": {
+        "vi": "Hoang Khô Lâu",
+        "en": "Odokuro",
+        "zh": "荒骷髅"
+      },
+      "set2": {
+        "vi": "Sát thương lên quái +10% trong 1 lượt; sau khi bị quái đánh, mức tăng thành 25%.",
+        "en": "Sát thương lên quái +10% trong 1 lượt; sau khi bị quái đánh, mức tăng thành 25%.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "036-Odokuro.webp",
+        "fullImageFile": "Ml3.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 37,
+      "category": "boss",
+      "name": {
+        "vi": "Địa Chấn Niêm",
+        "en": "Namazu",
+        "zh": "地震鲶"
+      },
+      "set2": {
+        "vi": "Đầu trận với quái nhận 60% giảm sát thương; mỗi lần bị đánh chuyển 6% giảm sát thương thành 1,5% tăng sát thương.",
+        "en": "Đầu trận với quái nhận 60% giảm sát thương; mỗi lần bị đánh chuyển 6% giảm sát thương thành 1,5% tăng sát thương.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "037-Namazu.webp",
+        "fullImageFile": "Ml4.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 38,
+      "category": "boss",
+      "name": {
+        "vi": "Thận Khí Lâu",
+        "en": "Shinkiro",
+        "zh": "蜃气楼"
+      },
+      "set2": {
+        "vi": "Đầu trận với quái nhận Khiên Chắn chặn toàn bộ khống chế/Trục xuất từ 1 kỹ năng; hồi lại sau 5 lượt kể từ khi mất.",
+        "en": "Đầu trận với quái nhận Khiên Chắn chặn toàn bộ khống chế/Trục xuất từ 1 kỹ năng; hồi lại sau 5 lượt kể từ khi mất.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "038-Shinkiro.webp",
+        "fullImageFile": "Ml5.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 39,
+      "category": "normal",
+      "name": {
+        "vi": "Phiến Diệp Chi Vi",
+        "en": "Kataha no Ashi",
+        "zh": "片叶之苇"
+      },
+      "set2": {
+        "vi": "Crit +15%",
+        "en": "Crit +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi đang đầy HP, sát thương gây ra tăng 45%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "039-Kataha-no-Ashi.webp",
+        "fullImageFile": "039-Kataha-no-Ashi.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 40,
+      "category": "normal",
+      "name": {
+        "vi": "Trần Trủng",
+        "en": "Chirizuka",
+        "zh": "尘冢"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi hành động, sát thương +25%; mỗi đồng minh không phải triệu hồi nhiều hơn phía địch cộng thêm 4%, tối đa +45%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "040-Chirizuka.webp",
+        "fullImageFile": "040-Chirizuka.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 41,
+      "category": "normal",
+      "name": {
+        "vi": "Du Xích Tử",
+        "en": "Abura Akago",
+        "zh": "油赤子"
+      },
+      "set2": {
+        "vi": "HIT +15%",
+        "en": "HIT +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Đầu trận nhận 2 tầng Linh Nguyên; mỗi tầng tăng 8% DEF toàn đội và có thể dùng thay Quỷ hỏa còn thiếu.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "041-Abura-Akago.webp",
+        "fullImageFile": "041-Abura-Akago.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 42,
+      "category": "normal",
+      "name": {
+        "vi": "Dạ Đề Thạch",
+        "en": "Nakiishi",
+        "zh": "夜啼石"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Ngự hồn mới của ải 13; hiệu ứng bộ 4 đang được wiki đánh dấu là bản dịch/chưa phát hành GL, nên cần kiểm tra mô tả trong máy chủ đang chơi.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "042-Nakiishi.webp",
+        "fullImageFile": "042-Nakiishi.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 43,
+      "category": "normal",
+      "name": {
+        "vi": "Dạ Tống Khuyển",
+        "en": "Okuri-inu",
+        "zh": "夜送犬"
+      },
+      "set2": {
+        "vi": "RES +15%",
+        "en": "RES +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Lần đầu bị khống chế nhận 1 tầng Dạ Hành (+80% RES), tối đa 3; đầu lượt, nếu có thể hành động, xóa Dạ Hành.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "043-Okuri-inu.webp",
+        "fullImageFile": "043-Okuri-inu.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 44,
+      "category": "normal",
+      "name": {
+        "vi": "Vũ Hàng",
+        "en": "Amefurikozo",
+        "zh": "雨降"
+      },
+      "set2": {
+        "vi": "DEF +30%",
+        "en": "DEF +30%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Lần đầu HP xuống dưới 30%, HP tối đa còn 1 và nhận 3 tầng Vũ Lộ; mỗi lần chịu sát thương tiêu 1 tầng để hấp thụ toàn bộ.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "044-Amefurikozo.webp",
+        "fullImageFile": "044-Amefurikozo.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 45,
+      "category": "normal",
+      "name": {
+        "vi": "Phi Duyên Ma",
+        "en": "Hinoenma / Enshyoujo",
+        "zh": "飞缘魔"
+      },
+      "set2": {
+        "vi": "HIT +15%",
+        "en": "HIT +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Khi đặt debuff, bỏ qua 30% RES của mục tiêu.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "045-Hinoenma.webp",
+        "fullImageFile": "045-Hinoenma.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 46,
+      "category": "normal",
+      "name": {
+        "vi": "Binh Chủ Bộ",
+        "en": "Hyosube",
+        "zh": "兵主部"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Cuối lượt nhận 1 tầng Xuyên Tiễn; mỗi tầng bỏ qua 75 DEF khi tấn công, tối đa 3 tầng.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "046-Hyosube.webp",
+        "fullImageFile": "046-Hyosube.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 47,
+      "category": "normal",
+      "name": {
+        "vi": "Thanh Nữ Phòng",
+        "en": "Aonyobo",
+        "zh": "青女房"
+      },
+      "set2": {
+        "vi": "Crit +15%",
+        "en": "Crit +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Lần đầu nhận đòn chí tử: xóa buff/debuff, hồi đầy HP và đóng băng 1 lượt; khi đóng băng +100% DEF, miễn debuff; sống sót thì lại hồi đầy HP. Một lần/trận.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "047-Aonyobo.webp",
+        "fullImageFile": "047-Aonyobo.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 48,
+      "category": "normal",
+      "name": {
+        "vi": "Đồ Phật",
+        "en": "Nuribotoke",
+        "zh": "涂佛"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Hiệu ứng duy nhất: cuối lượt sau khi đánh thường hoặc không thể hành động, toàn đội +15% RES và sát thương trong 2 lượt; người mang nhận gấp đôi.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "048-Nuribotoke.webp",
+        "fullImageFile": "048-Nuribotoke.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 49,
+      "category": "boss",
+      "name": {
+        "vi": "Quỷ Linh Ca Kỹ",
+        "en": "Ghostly Songstress",
+        "zh": "鬼灵歌伎"
+      },
+      "set2": {
+        "vi": "Sau 5 lần gây sát thương lên quái, lần kế gây thêm 20% HP tối đa, bỏ qua DEF; trần 255% ATK người mang.",
+        "en": "Sau 5 lần gây sát thương lên quái, lần kế gây thêm 20% HP tối đa, bỏ qua DEF; trần 255% ATK người mang.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "049-Ghostly-Songstress.webp",
+        "fullImageFile": "Ml6.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 50,
+      "category": "normal",
+      "name": {
+        "vi": "Di Niệm Hỏa",
+        "en": "Wisp",
+        "zh": "遗念火"
+      },
+      "set2": {
+        "vi": "HIT +15%",
+        "en": "HIT +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Đầu lượt nhận 1 tầng Niệm (+15% RES), tối đa 3; dùng kỹ năng sẽ tiêu Niệm trước Quỷ hỏa.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "050-Wisp.webp",
+        "fullImageFile": "050-Wisp.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 51,
+      "category": "normal",
+      "name": {
+        "vi": "Cộng Tiềm",
+        "en": "Merrow",
+        "zh": "共潜"
+      },
+      "set2": {
+        "vi": "RES +15%",
+        "en": "RES +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Cuối lượt giải 1 debuff ngẫu nhiên cho bản thân/đồng đội; nếu lượt đó không gây sát thương, giải thêm 2 debuff.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "051-Merrow.webp",
+        "fullImageFile": "051-Merrow.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 52,
+      "category": "normal",
+      "name": {
+        "vi": "Ác Lâu",
+        "en": "Leviathan",
+        "zh": "恶楼"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Nhận Ác Lâu Chi Lực (+80% sát thương và giảm sát thương), nhưng bị phong ấn trong 8 lượt đầu của người mang.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "052-Leviathan.webp",
+        "fullImageFile": "052-Leviathan.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 53,
+      "category": "normal",
+      "name": {
+        "vi": "Bối Xuy Phường",
+        "en": "Conch Blower",
+        "zh": "贝吹坊"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Đầu lượt tạo Giáp Sò chặn 1 lần sát thương; khi giáp còn tồn tại, sát thương gây ra +25%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "053-Conch-Blower.webp",
+        "fullImageFile": "053-Conch-Blower.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 54,
+      "category": "normal",
+      "name": {
+        "vi": "Hải Nguyệt Hỏa Ngọc",
+        "en": "Wispzoa",
+        "zh": "海月火玉"
+      },
+      "set2": {
+        "vi": "Crit +15%",
+        "en": "Crit +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Nếu đủ Quỷ hỏa, kỹ năng tốn thêm 1 Quỷ hỏa và sát thương gây ra +40%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "054-Wispzoa.webp",
+        "fullImageFile": "054-Wispzoa.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 55,
+      "category": "normal",
+      "name": {
+        "vi": "Xuất Thế Loa",
+        "en": "Oracle",
+        "zh": "出世螺"
+      },
+      "set2": {
+        "vi": "DEF +15%",
+        "en": "DEF +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Sau khi chịu sát thương, hồi 10% lượng đó; đầu trận/trước hành động nhận 1 Vỏ Sò, khi đòn nhận vượt 60% HP tối đa thì giảm 60% sát thương và mất Vỏ.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "055-Oracle.webp",
+        "fullImageFile": "055-Oracle.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 56,
+      "category": "normal",
+      "name": {
+        "vi": "Hỏa Chi Xa",
+        "en": "Tomb Robber",
+        "zh": "火之车"
+      },
+      "set2": {
+        "vi": "DEF +30%",
+        "en": "DEF +30%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Hiệu ứng xoay quanh tăng thanh hành động/hồi phục sau khi đồng đội hành động; tên GL trên wiki còn thiếu thống nhất, nên đối chiếu mô tả trong máy chủ.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "056-Tomb-Robber.webp",
+        "fullImageFile": "056-Tomb-Robber.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 57,
+      "category": "normal",
+      "name": {
+        "vi": "Ẩn Niệm",
+        "en": "Possessor",
+        "zh": "隐念"
+      },
+      "set2": {
+        "vi": "ATK +15%",
+        "en": "ATK +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Sát thương +20%; khi liên tiếp đánh cùng mục tiêu, các hit sau lần lượt +40%, +60%, rồi lặp chu kỳ 20/40/60%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "057-Possessor.webp",
+        "fullImageFile": "057-Possessor.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 58,
+      "category": "normal",
+      "name": {
+        "vi": "Điệp Khấu",
+        "en": "Tapper",
+        "zh": "叠叩"
+      },
+      "set2": {
+        "vi": "HP +15%",
+        "en": "HP +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Nếu Crit ban đầu trên 120%, toàn đội (trừ vật triệu hồi) giảm 15% sát thương chí mạng nhận vào.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "058-Tapper.webp",
+        "fullImageFile": "058-Tapper.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 59,
+      "category": "normal",
+      "name": {
+        "vi": "Ứng Thanh Trùng",
+        "en": "Echoer",
+        "zh": "应声虫"
+      },
+      "set2": {
+        "vi": "Crit +15%",
+        "en": "Crit +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Người mang có 20% xác suất Hiệp chiến bằng đánh thường.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "059-Echoer.webp",
+        "fullImageFile": "059-Echoer.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 60,
+      "category": "normal",
+      "name": {
+        "vi": "Nguyên Hưng Tự",
+        "en": "Bell-Haunt",
+        "zh": "元兴寺"
+      },
+      "set2": {
+        "vi": "HIT +15%",
+        "en": "HIT +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Hiệu ứng duy nhất: khi người mang đặt khống chế trong lượt, mỗi mục tiêu làm sát thương toàn đội +5%, tối đa 40%, kéo dài 2 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "060-Bell-Haunt.webp",
+        "fullImageFile": "060-Bell-Haunt.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 61,
+      "category": "normal",
+      "name": {
+        "vi": "Điếu Bình Hỏa",
+        "en": "Dangler",
+        "zh": "钓瓶火"
+      },
+      "set2": {
+        "vi": "RES +15%",
+        "en": "RES +15%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Cuối lượt, thanh Quỷ hỏa tiến thêm 1 ô và hồi cho đồng đội có tỷ lệ HP thấp nhất bằng 700% DEF của người mang.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "061-Dangler.webp",
+        "fullImageFile": "061-Dangler.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 62,
+      "category": "boss",
+      "name": {
+        "vi": "Dạ Hoang Hồn",
+        "en": "Nightly Aramitama",
+        "zh": "夜荒魂"
+      },
+      "set2": {
+        "vi": "Khi đặt khống chế/Trục xuất lên quái trong lượt, mỗi mục tiêu tăng 15 Tốc cho toàn đội, tối đa 90, trong 1 lượt.",
+        "en": "Khi đặt khống chế/Trục xuất lên quái trong lượt, mỗi mục tiêu tăng 15 Tốc cho toàn đội, tối đa 90, trong 1 lượt.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "062-Nightly-Aramitama.webp",
+        "fullImageFile": "M56.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 63,
+      "category": "normal",
+      "name": {
+        "vi": "Vô Đao Thủ",
+        "en": "Mutodori",
+        "zh": "无刀取"
+      },
+      "set2": {
+        "vi": "Crit DMG +20%",
+        "en": "Crit DMG +20%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Cuối lượt, vĩnh viễn +15% sát thương, tối đa +45%.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "063-Mutodori.webp",
+        "fullImageFile": "063-Mutodori.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 64,
+      "category": "normal",
+      "name": {
+        "vi": "Phụng Hải Đồ",
+        "en": "Chartbringer",
+        "zh": "奉海图"
+      },
+      "set2": {
+        "vi": "DEF +30%",
+        "en": "DEF +30%",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Hiệu ứng duy nhất: khi đồng đội bị đánh, cho họ Hải Đồ Thủ Hộ 1 lượt, giảm 30% sát thương đòn đánh (trần 35% HP tối đa người mang) và ghi lại; khi hiệu ứng kết thúc, mất HP bằng phần đã ghi.",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "064-Chartbringer.webp",
+        "fullImageFile": "064-Chartbringer.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 65,
+      "category": "boss",
+      "name": {
+        "vi": "Bát Chỉ Kính",
+        "en": "The Mirror of Yata",
+        "zh": "八咫镜"
+      },
+      "set2": {
+        "vi": "Đánh quái đặt Chước Quang; đặt lần nữa sẽ xóa dấu và tăng 20% sát thương.",
+        "en": "Đánh quái đặt Chước Quang; đặt lần nữa sẽ xóa dấu và tăng 20% sát thương.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "065-The-Mirror-of-Yata.webp",
+        "fullImageFile": "065-The-Mirror-of-Yata.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 66,
+      "category": "boss",
+      "name": {
+        "vi": "Thiên Vũ Vũ Trảm",
+        "en": "Feather Slash",
+        "zh": "天羽羽斩"
+      },
+      "set2": {
+        "vi": "Đầu trận với quái nhận hiệu ứng bỏ qua 50 DEF.",
+        "en": "Đầu trận với quái nhận hiệu ứng bỏ qua 50 DEF.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "066-Feather-Slash.webp",
+        "fullImageFile": "066-Feather-Slash.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 67,
+      "category": "boss",
+      "name": {
+        "vi": "Dự Ngôn Tinh Bàn",
+        "en": "Prophecy Astrolabe",
+        "zh": "预言星盘"
+      },
+      "set2": {
+        "vi": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
+        "en": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "067-Prophecy-Astrolabe.webp",
+        "fullImageFile": "067-Prophecy-Astrolabe.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 68,
+      "category": "boss",
+      "name": {
+        "vi": "Nguyệt Chi Thạch",
+        "en": "Moonstone",
+        "zh": "月之石"
+      },
+      "set2": {
+        "vi": "Khi có vật triệu hồi đồng minh, giảm 30% tổng RES của quái, không vượt quá 50% RES ban đầu của người mang.",
+        "en": "Khi có vật triệu hồi đồng minh, giảm 30% tổng RES của quái, không vượt quá 50% RES ban đầu của người mang.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "068-Moonstone.webp",
+        "fullImageFile": "068-Moonstone.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 69,
+      "category": "boss",
+      "name": {
+        "vi": "Phưởng Duyên Chùy",
+        "en": "Bond Weaver",
+        "zh": "纺缘锤"
+      },
+      "set2": {
+        "vi": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
+        "en": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "069-Bond-Weaver.webp",
+        "fullImageFile": "069-Bond-Weaver.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    },
+    {
+      "id": 70,
+      "category": "boss",
+      "name": {
+        "vi": "Đạo Hà Tuệ Tiễn",
+        "en": "Prosperity Arrow",
+        "zh": "稻荷·穗箭"
+      },
+      "set2": {
+        "vi": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
+        "en": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
+        "zh": ""
+      },
+      "set4": {
+        "vi": "Không có",
+        "en": "",
+        "zh": ""
+      },
+      "assets": {
+        "iconFile": "070-Prosperity-Arrow.webp",
+        "fullImageFile": "070-Prosperity-Arrow.png"
+      },
+      "reviewStatus": "DA_NHAP_TU_MD"
+    }
+  ]
+}

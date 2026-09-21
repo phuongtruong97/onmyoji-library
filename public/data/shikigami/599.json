@@ -66,7 +66,7 @@
         "zh": "从现在起，你是我的猎物。"
       },
       "description": {
-        "vi": "Triệu hồi 1 con [tips_5991] tấn công mục tiêu kẻ địch, gây sát thương bằng 75% Tấn công, đồng thời kèm theo 100% hiệu ứng Hút Máu.",
+        "vi": "Triệu hồi 1 con [tips_5991] tấn công mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công, đồng thời kèm theo 100% hiệu ứng Hút Máu.",
         "en": "Summons 1 [tips_5991] to attack an enemy, dealing damage equal to 75% of ATK and inflicting 100% HP Steal.",
         "zh": "召唤1只[tips_5991]攻击敌方目标，造成攻击75%伤害，并附带100%吸血效果。"
       },
@@ -124,7 +124,7 @@
         "zh": "一个迷人而猩红的夜晚，正待启幕。"
       },
       "description": {
-        "vi": "[tips_11].\nMỗi khi nhận tăng giới hạn HP, Tốc độ tăng 20 điểm, sát thương gánh chịu giảm 8%, [tips_15] 1 lượt. (tối đa 5 tầng)\n[Thi triển] [tips_20] lượng HP bằng 200% Tấn công ban đầu và triệu hồi 2 con [tips_5991].",
+        "vi": "[tips_11]\nMỗi khi nhận tăng giới hạn HP, Tốc độ tăng 20 điểm, sát thương gánh chịu giảm 8%, [tips_15] 1 lượt. (tối đa 5 tầng)\n[Thi triển] [tips_20] lượng HP bằng 200% Tấn công ban đầu và triệu hồi 2 con [tips_5991].",
         "en": "[tips_11].\nEach time max HP increases, SPD increases by 20 and damage taken decreases by 8%, [tips_15] for 1 turn (up to 5 stacks).\n[Cast]: [tips_20] HP equal to 200% of starting ATK and summons 2 [tips_5991].",
         "zh": "[tips_11]。\n每次获得生命上限提升时，速度提升20点、受到伤害降低8%，[tips_15]1回合。(至多5层）)\n【施放】[tips_20]初始攻击200%的生命并召唤2只[tips_5991]。"
       },
@@ -132,7 +132,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Khi HP của mục tiêu kẻ địch không phải vật triệu hồi giảm quá 25%, triệu hồi 1 con dơi tấn công kẻ địch",
+            "vi": "Khi HP của mục tiêu kẻ địch không phải vật triệu hồi giảm quá 25%, triệu hồi 1 con [tips_5991] tấn công kẻ địch",
             "en": "When an enemy non-summoned entity's HP drops by more than 25%, summons 1 Bat to attack the enemy.",
             "zh": "敌方非召唤物目标的生命降低超过25%时，召唤1只蝙蝠攻击敌方"
           }
@@ -140,7 +140,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Khi đồng minh không phải vật triệu hồi tử trận, triệu hồi 2 con dơi tấn công nguồn gây sát thương",
+            "vi": "Khi đồng minh không phải vật triệu hồi tử trận, triệu hồi 2 con [tips_5991] tấn công nguồn gây sát thương",
             "en": "When a non-summoned entity ally is KO'd, summons 2 Bats to attack the damage source.",
             "zh": "友方非召唤物阵亡时，召唤2只蝙蝠攻击伤害来源"
           }
@@ -148,7 +148,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Bản thân sau khi bị tấn công, triệu hồi 1 con dơi tấn công nguồn gây sát thương",
+            "vi": "Bản thân sau khi bị tấn công, triệu hồi 1 con [tips_5991] tấn công nguồn gây sát thương",
             "en": "After being attacked, summons 1 Bat to attack the damage source.",
             "zh": "自身受到攻击后，召唤1只蝙蝠攻击伤害来源"
           }
@@ -182,7 +182,7 @@
         "zh": "恣意而飞吧，我们即是黑夜。"
       },
       "description": {
-        "vi": "Phi nguyệt lơ lửng trên không, đêm dài đã đến, triệu hồi 3 con dơi tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 75% Tấn công, đồng thời kèm theo 100% hiệu ứng Hút Máu.",
+        "vi": "Phi nguyệt lơ lửng trên không, đêm dài đã đến, triệu hồi 3 con [tips_5991] tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 100% Tấn công, đồng thời kèm theo 100% hiệu ứng Hút Máu.",
         "en": "As the crimson moon ascends, the long night begins. Summons 3 Bats to attack an enemy target 3 times, each strike dealing damage equal to 75% of ATK, while inflicting 100% HP Steal.",
         "zh": "绯月凌空，长夜已至，召唤3只蝙蝠攻击敌方目标3次，每次造成攻击75%伤害，并附带100%吸血效果。"
       },
@@ -222,6 +222,31 @@
       ],
       "orbCost": 3,
       "iconFile": "5993.png"
+    },
+    {
+      "id": 5994,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Thực Nguyệt Vi Miện",
+        "en": "Moonclipse Crown",
+        "zh": "蚀月为冕"
+      },
+      "intro": {
+        "vi": "Thỏa thích bay lượn đi, chúng ta chính là màn đêm.",
+        "en": "Fly freely, for we are the night.",
+        "zh": "恣意而飞吧，我们即是黑夜。"
+      },
+      "description": {
+        "vi": "Triệu hồi 3 con [tips_5991] tấn công 1 mục tiêu chỉ định 3 lần, mỗi đòn đánh gây sát thương bằng 108% Tấn Công.\nSau đó, tiếp tục triệu hồi [tips_5991] tấn công gây sát thương bằng 178% Tấn Công lên toàn bộ kẻ địch.\nLượng sát thương từ kỹ năng này không kích hoạt hiệu ứng Ngự Hồn lẫn kỹ năng Bị Động của mục tiêu, đồng thời kèm theo 150% Hút Máu",
+        "en": "As the crimson moon ascends, the long night begins. Summons 3 Bats to attack an enemy target 3 times, each strike dealing damage equal to 75% of ATK, while inflicting 100% HP Steal.",
+        "zh": "绯月凌空，长夜已至，召唤3只蝙蝠攻击敌方目标3次，每次造成攻击75%伤害，并附带100%吸血效果。"
+      },
+      "upgrades": [],
+      "orbCost": 3,
+      "iconFile": "5994.png"
     }
   ],
   "assets": {

@@ -1,6 +1,7 @@
 'use client';
 
 import { ChevronLeft, ChevronRight, Flame, ListFilter, Search, X } from 'lucide-react';
+import Link from 'next/link';
 import { useEffect, useMemo, useState } from 'react';
 
 type Language = 'vi' | 'en' | 'zh';
@@ -147,6 +148,7 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
     <header className="topbar">
       <button className="icon-button" onClick={() => setShowLibrary(v => !v)} aria-label="Mở thư viện"><ListFilter /></button>
       <div className="brand-lockup"><span>ONMYOJI • THƯ VIỆN THỨC THẦN</span><strong>{catalog?.count || 266} thức thần</strong></div>
+      <Link className="section-link" href="/ngu-hon">Ngự hồn</Link>
       <label className="searchbox"><Search size={18} /><input value={query} onChange={e => { setQuery(e.target.value); setShowLibrary(true); }} placeholder="Tìm tên Việt, Anh hoặc Trung" /></label>
       <div className="language-tabs">{languages.map(l => <button key={l.id} className={language === l.id ? 'active' : ''} onClick={() => { setLanguage(l.id); setActiveToken(null); }}>{l.label}</button>)}</div>
     </header>

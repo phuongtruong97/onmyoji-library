@@ -3511,7 +3511,7 @@
       "en": "Increases ATK, DEF, and SPD by 50%.",
       "zh": "攻击、防御与速度提升50%。"
     },
-    "iconFile": ""
+    "iconFile": "Unique87.png"
   },
   "buff_6003_1": {
     "kind": "buff",
@@ -5789,9 +5789,37 @@
       "zh": "蝙蝠"
     },
     "description": {
-      "vi": "Tấn công kẻ địch đính kèm số tầng [Thôn Phệ] tương ứng, tích lũy đủ 12 con tiến vào tư thế [Thân Này Là Đêm].",
+      "vi": "Tấn công kẻ địch đính kèm số tầng [buff_5991_1] tương ứng, tích lũy đủ 12 con tiến vào tư thế [tips_5992].",
       "en": "Attacks inflict a corresponding stacks of Gnaw. Accumulating 12 Bats will enter the Night Incarnate form.",
       "zh": "攻击敌方附加对应层数[喰噬]，累积12只进入[此身即夜]姿态。"
+    },
+    "iconFile": "Debuff134.png"
+  },
+  "buff_5991_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Thôn Phệ",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Đánh cắp 6% HP tối đa từ thức thần và Âm Dương Sư phe địch (không vượt quá 600% Tấn Công khởi đầu của bản thân), duy trì 2 lượt (tối đa 10 tầng, hiệu ứng duy nhất).",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Debuff134.png"
+  },
+  "tips_5992": {
+    "kind": "tip",
+    "title": {
+      "vi": "Hóa Thân Đêm Tối",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khi kích hoạt, nâng cấp [Nguyệt Nhiễm U Hồng] thành [Thực Nguyệt Vi Miện], giải trừ toàn bộ hiệu ứng khống chế của bản thân và lập tức thi triển [Thực Nguyệt Vi Miện] một lần mà không tiêu hao Quỷ Hỏa.\nSau khi kích hoạt, mỗi khi tích lũy thêm 16 con [tips_5991], bản thân sẽ giải trừ mọi hiệu ứng khống chế và lập tức dùng tiếp [Thực Nguyệt Vi Miện] miễn phí.\nKhi gây sát thương, nếu HP của kẻ địch thấp hơn HP của bản thân, mỗi 1% chênh lệch sẽ tăng thêm 0.3% sát thương.  ",
+      "en": "",
+      "zh": ""
     },
     "iconFile": ""
   },
@@ -5803,7 +5831,7 @@
       "zh": "飞缘魔"
     },
     "description": {
-      "vi": "Không thể hành động, không kích hoạt Ngự Hồn và bị động, HP bằng 100% HP của Thực Nguyệt Hấp Huyết Cơ, nếu phe địch chỉ còn Phi Duyên Ma thì xem như chiến đấu thắng lợi. Cùng một Thức thần hiệu ứng này chỉ có thể kích hoạt 1 lần.\nMỗi khi có 1 Phi Duyên Ma, sát thương của[Thực Nguyệt Vi Miện]gây ra cho toàn thể kẻ địch tăng 30%, tăng tối đa 2 lần.",
+      "vi": "Không thể hành động, không kích hoạt hiệu ứng Ngự Hồn hay nội tại, lượng HP bằng 100% HP của Thực Nguyệt Hấp Huyết Cơ. Nếu bên phía địch chỉ còn lại toàn bộ là Phi Duyên Ma thì tính là giành chiến thắng trận đấu. Hiệu ứng này chỉ kích hoạt 1 lần trên cùng một thức thần.\nMỗi Phi Duyên Ma hiện diện trên sân sẽ tăng sát thương kỹ năng [Thực Nguyệt Vi Miện] gây ra lên toàn bộ kẻ địch thêm 30% (cộng dồn tối đa 2 tầng).",
       "en": "Unable to take action, does not trigger Soul effects or passive skills, with HP equal to 100% of Moonclipse Vampira's HP. If only Enshyoujo remain on the enemy side, counts as battle victory. This effect can only trigger once for the same shikigami.\nFor each Enshyoujo present, increases the Moonclipse Crown damage dealt to all enemies by 30%, up to 2 stacks.",
       "zh": "无法行动，不触发御魂和被动，生命为蚀月吸血姬生命值的100%，若敌方只存在飞缘魔，视为战斗胜利。同一式神该效果只可生效1次。\n每有1个飞缘魔[蚀月为冕]对敌方全体造成的伤害提升30%，至多提升2次。"
     },
