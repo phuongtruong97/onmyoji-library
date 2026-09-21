@@ -166,10 +166,68 @@
       "iconFile": "2832.png"
     },
     {
-      "id": 2835,
-      "number": 2,
+      "id": 2833,
+      "number": 3,
       "variantOrder": 1,
-      "parentSkillId": 2832,
+      "parentSkillId": 2833,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Phạt·Tinh",
+        "en": "Scourge: Star",
+        "zh": "天罚·星"
+      },
+      "intro": {
+        "vi": "Hãy chấp nhận sự trừng phạt của vận mệnh đi!",
+        "en": "Accept the punishment of destiny!",
+        "zh": "接受命运的惩罚吧！"
+      },
+      "description": {
+        "vi": "Triệu hồi sao băng tấn công mục tiêu kẻ địch 3 lần, lần đầu gây sát thương 150%, các sát thương sau đó giảm dần theo thứ tự 10%, nếu không đánh bại kẻ địch, chồng 1 tầng Tinh Ngân cho kẻ địch. Nếu đánh bại kẻ địch không phải vật triệu hồi, sao băng phía sau đổi thành gây sát thương cho toàn thể kẻ địch.",
+        "en": "Summons comets to inflict 3 strikes on 1 enemy, dealing damage equal to 150% of his ATK for the first strike. Reduces his damage by 10% for each subsequent strike. If the enemy is not KO'd, inflicts a Star Mark on them. If the enemy is a non-summoned entity and is KO'd, remaining comets inflict damage to all enemies instead.",
+        "zh": "召唤流星攻击敌方目标3次，首次造成攻击150%伤害，后续伤害依次递减10%，若未击败敌方，为敌方叠加1层星痕。若击败非召唤物的敌方，后续流星改为对敌方全体造成伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 135%, đồng thời cường hóa [skill_2835_1].",
+            "en": "Increases damage to 135% and enhances [skill_2835_1].",
+            "zh": "伤害增加至135%，同时强化[skill_2835_1]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 150%, đồng thời cường hóa [skill_2835_1].",
+            "en": "Increases damage to 150% and enhances [skill_2835_1].",
+            "zh": "伤害增加至150%，同时强化[skill_2835_1]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Nếu không đánh bại kẻ địch, chồng 1 tầng Tinh Ngân cho kẻ địch, đồng thời cường hóa [skill_2835_1].",
+            "en": "If the enemy is not KO'd, inflicts a Star Mark on them and enhances [skill_2835_1].",
+            "zh": "若未击败敌方，为敌方叠加1层星痕，同时强化[skill_2835_1]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu đánh bại kẻ địch không phải vật triệu hồi, sao băng phía sau đổi thành gây sát thương cho toàn thể kẻ địch, đồng thời cường hóa [skill_2835_1].",
+            "en": "If the enemy is a non-summoned entity and is KO'd, remaining comets inflict damage to all enemies instead and enhance [skill_2835_1].",
+            "zh": "若击败非召唤物的敌方，后续流星改为对敌方全体造成伤害，同时强化[skill_2835_1]"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "2833.png"
+    },
+    {
+      "id": 2835,
+      "number": 3,
+      "variantOrder": 2,
+      "parentSkillId": 2833,
       "maxLevel": 5,
       "name": {
         "vi": "Thiên Phạt·Nguyệt",
@@ -221,64 +279,6 @@
         }
       ],
       "orbCost": 1,
-      "iconFile": "2833.png"
-    },
-    {
-      "id": 2833,
-      "number": 3,
-      "variantOrder": 0,
-      "parentSkillId": null,
-      "maxLevel": 5,
-      "name": {
-        "vi": "Thiên Phạt·Tinh",
-        "en": "Scourge: Star",
-        "zh": "天罚·星"
-      },
-      "intro": {
-        "vi": "Hãy chấp nhận sự trừng phạt của vận mệnh đi!",
-        "en": "Accept the punishment of destiny!",
-        "zh": "接受命运的惩罚吧！"
-      },
-      "description": {
-        "vi": "Triệu hồi sao băng tấn công mục tiêu kẻ địch 3 lần, lần đầu gây sát thương 150%, các sát thương sau đó giảm dần theo thứ tự 10%, nếu không đánh bại kẻ địch, chồng 1 tầng Tinh Ngân cho kẻ địch. Nếu đánh bại kẻ địch không phải vật triệu hồi, sao băng phía sau đổi thành gây sát thương cho toàn thể kẻ địch.",
-        "en": "Summons comets to inflict 3 strikes on 1 enemy, dealing damage equal to 150% of his ATK for the first strike. Reduces his damage by 10% for each subsequent strike. If the enemy is not KO'd, inflicts a Star Mark on them. If the enemy is a non-summoned entity and is KO'd, remaining comets inflict damage to all enemies instead.",
-        "zh": "召唤流星攻击敌方目标3次，首次造成攻击150%伤害，后续伤害依次递减10%，若未击败敌方，为敌方叠加1层星痕。若击败非召唤物的敌方，后续流星改为对敌方全体造成伤害。"
-      },
-      "upgrades": [
-        {
-          "level": 2,
-          "text": {
-            "vi": "Sơ sút tăng đến 135%, đồng thời cường hóa [skill_2835_1].",
-            "en": "Increases damage to 135% and enhances [skill_2835_1].",
-            "zh": "伤害增加至135%，同时强化[skill_2835_1]"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Sơ sút tăng đến 150%, đồng thời cường hóa [skill_2835_1].",
-            "en": "Increases damage to 150% and enhances [skill_2835_1].",
-            "zh": "伤害增加至150%，同时强化[skill_2835_1]"
-          }
-        },
-        {
-          "level": 4,
-          "text": {
-            "vi": "Nếu không đánh bại kẻ địch, chồng 1 tầng Tinh Ngân cho kẻ địch, đồng thời cường hóa [skill_2835_1].",
-            "en": "If the enemy is not KO'd, inflicts a Star Mark on them and enhances [skill_2835_1].",
-            "zh": "若未击败敌方，为敌方叠加1层星痕，同时强化[skill_2835_1]"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Nếu đánh bại kẻ địch không phải vật triệu hồi, sao băng phía sau đổi thành gây sát thương cho toàn thể kẻ địch, đồng thời cường hóa [skill_2835_1].",
-            "en": "If the enemy is a non-summoned entity and is KO'd, remaining comets inflict damage to all enemies instead and enhance [skill_2835_1].",
-            "zh": "若击败非召唤物的敌方，后续流星改为对敌方全体造成伤害，同时强化[skill_2835_1]"
-          }
-        }
-      ],
-      "orbCost": 3,
       "iconFile": "2833.png"
     }
   ],

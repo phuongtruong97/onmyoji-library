@@ -124,7 +124,7 @@
         "zh": "在水中沚。"
       },
       "description": {
-        "vi": "Sau khi lượt của kẻ địch kết thúc, nhận 1 tầng [buff_3462_1], nếu bản thân chưa sở hữu [buff_3464_1], liền nhận [buff_3464_1] bằng 80% Tấn công. Khi [buff_3462_1] đạt 8 lớp, giải trừ hiệu ứng khống chế của bản thân và mở kết giới, trong kết giới khi kẻ địch nhận tăng thanh hành động đơn thể sẽ bị giảm 40% Tốc độ.\n[tips_7]: nhận 4 tầng [buff_3462_1].",
+        "vi": "Sau khi lượt của kẻ địch kết thúc, nhận 1 tầng [buff_3462_1], nếu bản thân chưa sở hữu [buff_3464_1], liền nhận [buff_3464_1] bằng 80% Tấn công. Khi [buff_3462_1] đạt 8 lớp, giải trừ hiệu ứng khống chế của bản thân và mở kết giới, trong kết giới khi kẻ địch nhận tăng thanh hành động đơn thể sẽ bị giảm 40% Tốc độ.\n[tips_7]: Nhận 4 tầng [buff_3462_1].",
         "en": "After the enemy turn ends, gain 1 stack of [buff_3462_1]. If [buff_3464_1] is not already active, gain [buff_3464_1] equal to 80% of ATK. When [buff_3462_1] reaches 8 stacks, remove all control effects from self and unfurl a Realm. Inside the Realm, when enemies gain single-target Move Bar boosts, their SPD is reduced by 40%.\n[tips_7]: Gain 4 stacks of [buff_3462_1].",
         "zh": "敌方回合结束后，获得1层[buff_3462_1]，若自身未拥有[buff_3464_1]，则获得攻击80%的[buff_3464_1]。[buff_3462_1]达到8层时解除自身控制效果并开启结界，结界中敌方获得单体行动条提升时速度减少40%。\n[tips_7]：获得4层[buff_3462_1]。"
       },

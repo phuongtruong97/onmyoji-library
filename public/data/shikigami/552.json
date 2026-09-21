@@ -124,7 +124,7 @@
         "zh": "善恶因果业难消。"
       },
       "description": {
-        "vi": "Khi chịu sát thương từ mục tiêu kẻ địch, đính kèm 1 tầng [buff_5522_1] cho kẻ đó. Mỗi khi mục tiêu đồng minh không phải vật triệu hồi ngoài bản thân chịu sát thương đơn thể, nếu bản thân đang ở trạng thái [tips_27], có 50% xác suất chịu gánh 50% sát thương thay đồng minh, và trị liệu cho bản thân cùng mục tiêu đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất lượng HP bằng 6% giới hạn HP của bản thân.",
+        "vi": "Khi chịu sát thương từ mục tiêu kẻ địch, đính kèm 1 tầng [buff_5522_1] cho kẻ đó. Mỗi khi mục tiêu đồng minh không phải vật triệu hồi ngoài bản thân chịu sát thương đơn thể, nếu bản thân đang ở [tips_27], có 50% xác suất chịu gánh 50% sát thương thay đồng minh, và trị liệu cho bản thân cùng mục tiêu đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất lượng HP bằng 6% giới hạn HP của bản thân.",
         "en": "When she takes damage from an enemy, inflicts 1 [buff_5522_1] stack on them. When another non-summoned ally entity takes single-target damage, if she's [tips_27], has a 50% chance of taking 50% of the damage for the ally and heals herself and the non-summoned ally entity with the lowest proportion of HP by 6% of her max HP.",
         "zh": "受到敌方目标伤害时，为其附加1层[buff_5522_1]。除自身外的非召唤物友方目标受到单体伤害时，若自身处于[tips_27]，则有50%概率代替友方承受50%的伤害，并为自身和生命比例最低的非召唤物友方目标治疗自身生命上限6%的生命。"
       },

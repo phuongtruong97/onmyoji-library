@@ -124,7 +124,7 @@
         "zh": "诸位的「真]与「理]，请仔细道来吧！"
       },
       "description": {
-        "vi": "[tips_11]\nSau khi lượt kẻ địch kết thúc, có 50% xác suất dùng Thiên Bình đánh dấu kẻ đó, giới hạn 3 Thiên Bình. Khi tấn công kẻ địch mang Thiên Bình, mỗi Thiên Bình tăng 33% sát thương.\nKẻ địch mang 1, 2, 3 Thiên Bình, khi HP thấp hơn 30%, 40%, 60%, sẽ chuyển hóa tất cả Thiên Bình thành [buff_3052_1], duy trì 2 lượt.",
+        "vi": "[tips_11]\nSau khi lượt kẻ địch kết thúc, có 50% xác suất dùng [buff_3052_2] đánh dấu kẻ đó, giới hạn 3 [buff_3052_2]. Khi tấn công kẻ địch mang [buff_3052_2], mỗi [buff_3052_2] tăng 33% sát thương.\nKẻ địch mang 1, 2, 3 [buff_3052_2] với HP thấp hơn 30%, 40%, 60%, sẽ chuyển hóa tất cả Thiên Bình thành [buff_3052_1], duy trì 2 lượt.",
         "en": "[tips_11].\nAfter an enemy takes a turn, has a 50% chance of marking them with a Scale. Scales can stack up to 3 layers. When attacking an enemy with Scales, each Scale increases damage taken by 33%.\nWhen the HP of an enemy with 1/2/3 Scales drops below 30%/40%/60%, all Scales will be [buff_3052_1] for 2 turn(s).",
         "zh": "[tips_11]。\n敌方回合结束后，有50%概率使用天平将之标记，上限3个天平。攻击带有天平的敌方时，每个天平提升33%伤害。\n带有1、2、3个天平的敌方，在生命低于30%、40%、60%时，将会把所有天平转化为[buff_3052_1]，持续2回合。"
       },
@@ -149,7 +149,7 @@
         "zh": "释物之形，道物之真理。依凭「形] [真] [理]，退魔剑，释放！"
       },
       "description": {
-        "vi": "Rút Thoái Ma Kiếm, biến thành thần linh dát vàng, gây cho mục tiêu kẻ địch sát thương bằng 328.75% Tấn công và dùng Thiên Bình đánh dấu kẻ đó.\nNếu kẻ địch mang [buff_3052_1], đổi thành gây sát thương bằng 300% HP hiện tại của kẻ đó (không vượt quá 600% Tấn công), sát thương lần này bỏ qua [tips_6], không thể san sẻ, không kích hoạt Ngự Hồn và Nội Tại của kẻ đó.",
+        "vi": "Rút Thoái Ma Kiếm, biến thành thần linh dát vàng, gây cho mục tiêu kẻ địch sát thương bằng 328.75% Tấn công và dùng [buff_3052_2] đánh dấu kẻ đó.\nNếu kẻ địch mang [buff_3052_1], đổi thành gây sát thương bằng 300% HP hiện tại của kẻ đó (không vượt quá 600% Tấn công), sát thương lần này bỏ qua [tips_6], không thể san sẻ, không kích hoạt Ngự Hồn và Nội Tại của kẻ đó.",
         "en": "Releases his sword and transforms into his inner self to attack 1 enemy, dealing damage equal to 328.75% of his ATK and marking the target with a Scale.\nIf the enemy is [buff_3052_1], damage equal to 300% of their current HP (up to a maximum of 600% of Medicine Seller's ATK) is inflicted instead. This damage ignores [tips_6]s, cannot be shared and does not trigger soul effects or passive skills.",
         "zh": "拔出退魔剑，变身为金色神灵，对敌方目标造成攻击328.75%伤害并使用天平将之标记。\n若敌方带有[buff_3052_1]，则改为造成其当前生命300%伤害（不超过攻击600%），此次伤害无视[tips_6]、无法分担、不触发其御魂及被动。"
       },

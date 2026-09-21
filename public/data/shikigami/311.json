@@ -170,7 +170,7 @@
       "number": 3,
       "variantOrder": 0,
       "parentSkillId": null,
-      "maxLevel": 7,
+      "maxLevel": 5,
       "name": {
         "vi": "Cấm Đoạn Chi Diện",
         "en": "Forbidden Masks",
@@ -182,7 +182,7 @@
         "zh": "忘却一切，变回最初的白吧。"
       },
       "description": {
-        "vi": "Thu hồi tất cả 7 mặt nạ, tăng 30% Thanh Hành Động cho đồng minh sở hữu [buff_3113_1], gây [tips_5] bằng 150% Tấn công lên kẻ địch mang [buff_3114_1] (mỗi tầng [buff_3114_1] tăng thêm 10%). Sau đó phóng thích 7 mặt nạ, ưu tiên khiến đồng minh khác nhận [buff_3113_1], số còn lại gắn [buff_3114_1] cho phe địch (ưu tiên mục tiêu chưa có [buff_3114_1], kế đến ưu tiên tỉ lệ HP thấp hơn).\n[tips_11], [tips_7]: Phóng thích 7 mặt nạ của bản thân.\nDiện Linh Khí không thể nhận [buff_3113_1].",
+        "vi": "Thu hồi tất cả 7 mặt nạ, tăng 30% Thanh Hành Động cho đồng minh sở hữu [buff_3113_1], gây [tips_5] bằng 150% Tấn công lên kẻ địch mang [buff_3114_1] (mỗi tầng [buff_3114_1] tăng thêm 10%). Sau đó phóng thích 7 mặt nạ, ưu tiên khiến đồng minh khác nhận [buff_3113_1], số còn lại gắn [buff_3114_1] cho phe địch (ưu tiên mục tiêu chưa có [buff_3114_1], kế đến ưu tiên tỉ lệ HP thấp hơn).\n[tips_11] \n[tips_7]: Phóng thích 7 mặt nạ của bản thân.\nDiện Linh Khí không thể nhận [buff_3113_1].",
         "en": "召回所有7个面具，使拥有[buff_3113_1]的友方增加30%行动条，对带有[buff_3114_1]的敌方造成攻击150%[tips_5]（每层[buff_3114_1]额外提升10%）。然后释放7个面具，优先使其他友方获得[buff_3113_1]，剩余的为敌方附加[buff_3114_1]（没有[buff_3114_1]优先，再是生命比例较低优先）。\n[tips_11]，[tips_7]：释放自身的7个面具。\n面灵气无法获得[buff_3113_1]。",
         "zh": "召回所有7个面具，使拥有[buff_3113_1]的友方增加30%行动条，对带有[buff_3114_1]的敌方造成攻击150%[tips_5]（每层[buff_3114_1]额外提升10%）。然后释放7个面具，优先使其他友方获得[buff_3113_1]，剩余的为敌方附加[buff_3114_1]（没有[buff_3114_1]优先，再是生命比例较低优先）。\n[tips_11]，[tips_7]：释放自身的7个面具。\n面灵气无法获得[buff_3113_1]。"
       },

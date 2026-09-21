@@ -124,7 +124,7 @@
         "zh": "老板，吾辈要添饭！"
       },
       "description": {
-        "vi": "[tips_11].\n[tips_7]: nhận 7 tầng [buff_3702_1], mỗi trận đấu chỉ có hiệu lực 1 lần. Mỗi khi lượt của đồng minh không phải vật triệu hồi kết thúc, nếu bản thân chưa ở trạng thái [tips_17], nhận 1 tầng [buff_3702_1].\n[Thi triển] Nhận 2 tầng [buff_3702_1], tăng 30 điểm Tốc độ cho các đồng minh khác, và khiến bản thân tiến vào trạng thái [buff_3704_1], duy trì 1 lượt.",
+        "vi": "[tips_11].\n[tips_7]: nhận 7 tầng [buff_3702_1], mỗi trận đấu chỉ có hiệu lực 1 lần. \nMỗi khi lượt của đồng minh không phải vật triệu hồi kết thúc, nếu bản thân chưa ở trạng thái [tips_17], nhận 1 tầng [buff_3702_1].\n[Thi triển] Nhận 2 tầng [buff_3702_1], tăng 30 điểm Tốc độ cho các đồng minh khác, và khiến bản thân tiến vào trạng thái [buff_3704_1], duy trì 1 lượt.",
         "en": "[tips_11].\n[tips_7]: Gains 7 [buff_3702_1] stacks. Effective only once per battle. At the end of a non-summoned ally entity's turn, if she's not [tips_17], gains 1 [buff_3702_1] stack.\nActive skill: Gains 2 [buff_3702_1] stacks and increases the SPD of other allies by 30, then gains [buff_3704_1] for 1 turn.",
         "zh": "[tips_11]。\n[tips_7]获得7层[buff_3702_1]，每场战斗只生效1次。每当非召唤物的友方回合结束后，若自身未处于[tips_17]，获得1层[buff_3702_1]。\n【施放】获得2层[buff_3702_1]，提升其他友方速度30点，并使自身进入[buff_3704_1]状态，持续1回合。"
       },

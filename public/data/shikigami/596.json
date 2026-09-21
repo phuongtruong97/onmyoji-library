@@ -124,7 +124,7 @@
         "zh": "心栖萤火，梦泊月湾。"
       },
       "description": {
-        "vi": "[tips_11]. Trăng mọc từ giấc mộng dài, Thần Vô Nguyệt và người mang [buff_5965_1] nhận 40% giảm sát thương, đồng minh khác nhận 20% giảm sát thương. Khi trận đấu bắt đầu, nhận [tips_5964]. Mỗi lần Thần Vô Nguyệt tạo Huyễn Cảnh, bản thân nhận 1 tầng [buff_5962_1]. Tiên Cơ: Nhận 1 tầng [buff_5962_1].",
+        "vi": "[tips_11]\nTrăng mọc từ giấc mộng dài, Thần Vô Nguyệt và người mang [buff_5965_1] nhận 40% giảm sát thương, đồng minh khác nhận 20% giảm sát thương. Khi trận đấu bắt đầu, nhận [tips_5964]. Mỗi lần Thần Vô Nguyệt tạo Huyễn Cảnh, bản thân nhận 1 tầng [buff_5962_1]. \n[tips_7]: Nhận 1 tầng [buff_5962_1].",
         "en": "[tips_11]. The moon rises from an eternal dream. Kannazuki and [buff_5965_1] bearer gain 40% damage reduction, while other allies gain 20% damage reduction. At the start of battle, gains [tips_5964]. Each time Kannazuki creates a field, she gains 1 stack of [buff_5962_1]. Upper Hand: Gains 1 stack of [buff_5962_1].",
         "zh": "[tips_11]。月自长梦升，神无月和[buff_5965_1]携带者获得40%减伤，其他友方获得20%减伤。战斗开始时，获得[tips_5964]。神无月每次创造幻境，自身获得1层[buff_5962_1]。先机：获得1层[buff_5962_1]。"
       },
@@ -182,7 +182,7 @@
         "zh": "你是梦境的主人，一切如你所愿。"
       },
       "description": {
-        "vi": "[tips_11]. Thần Vô Nguyệt dệt nên mộng cảnh cho đồng hành, tạo ra Huyễn Cảnh tồn tại 2 lượt, và khiến mục tiêu phe ta không phải vật triệu hồi nhận 2 tầng [buff_5965_1], duy trì 2 lượt.   \nTrong Huyễn Cảnh trước lượt bản thân và người mang [buff_5965_1], nhận 1 điểm Quỷ Hỏa. Quỷ Hỏa tiêu hao giảm 2 điểm. Khiến mục tiêu trong 1 lượt tiếp theo nhận [tips_5964].",
+        "vi": "[tips_11] \nThần Vô Nguyệt dệt nên mộng cảnh cho đồng hành, tạo ra Huyễn Cảnh tồn tại 2 lượt, và khiến mục tiêu phe ta không phải vật triệu hồi nhận 2 tầng [buff_5965_1], duy trì 2 lượt.   \nTrong Huyễn Cảnh trước lượt bản thân và người mang [buff_5965_1], nhận 1 điểm Quỷ Hỏa. Quỷ Hỏa tiêu hao giảm 2 điểm. Khiến mục tiêu trong 1 lượt tiếp theo nhận [tips_5964].",
         "en": "[tips_11]. Kannazuki weaves dreams for allies, creating a field that lasts for 2 turns. Non-summoned entity ally target gains 2 stacks of [buff_5965_1] for 2 turns.\nBefore the turn of Kannazuki and of [buff_5965_1] bearer within the field, gains 1 orb. Reduces orb cost by 2. The target gains [tips_5964] in the next turn.",
         "zh": "[tips_11]。神无月为伙伴织就梦境，创造存在2回合的幻境，并使非召唤物友方目标获得2层[buff_5965_1]，维持2回合。   \n幻境中自身和[buff_5965_1]携带者回合前，获得1点鬼火。消耗鬼火减少2点。使目标下一回合内获得[tips_5964]。"
       },

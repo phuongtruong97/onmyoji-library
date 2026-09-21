@@ -124,7 +124,7 @@
         "zh": "那我就稍微帮帮你好了。"
       },
       "description": {
-        "vi": "[tips_11].\nKhi lượt của Thức Thần phe ta khác bắt đầu, có 40% xác suất (mỗi khi sở hữu 1 điểm Quỷ Hỏa làm xác suất này giảm 3%) giúp họ nhận [buff_2663_1] cho đến khi kết thúc lượt. [buff_2663_1] sẽ khiến thi triển kỹ năng không tiêu hao Quỷ Hỏa, và mỗi khi thừa 1 điểm Quỷ Hỏa giúp sát thương kỹ năng lần đó tăng 5%.",
+        "vi": "[tips_11]\nKhi lượt của Thức Thần phe ta khác bắt đầu, có 40% xác suất (mỗi khi sở hữu 1 điểm Quỷ Hỏa làm xác suất này giảm 3%) giúp họ nhận [buff_2663_1] cho đến khi kết thúc lượt. [buff_2663_1] sẽ khiến thi triển kỹ năng không tiêu hao Quỷ Hỏa, và mỗi khi thừa 1 điểm Quỷ Hỏa giúp sát thương kỹ năng lần đó tăng 5%.",
         "en": "[tips_11].\nAt the start of an allied shikigami's turn, has a 40% chance (reduced by 3% for each orb you have) of granting a [buff_2663_1] on the ally until the end of their turn. Using skills under the [buff_2663_1] effect costs no orbs. Each orb you have increases the skill's damage by 5%.",
         "zh": "[tips_11]。\n其他友方式神的回合开始时，有40%概率（每拥有1点鬼火使此概率降低3%）使其获得[buff_2663_1]直到回合结束。[buff_2663_1]将使施放技能无需消耗鬼火，且每余1点鬼火使该次技能伤害提升5%。"
       },
@@ -160,46 +160,6 @@
             "en": "Trigger chance increases to 40%, but reduces by 3% for each 1 orb you have.",
             "zh": "触发概率增加至40%，每有一点鬼火触发概率降低3%"
           }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 40%, nhưng mỗi khi sở hữu 1 điểm Quỷ Hỏa làm xác suất giảm 3%",
-            "en": "Increases chance of triggering to 40% (reduced by 3% for each orb you have).",
-            "zh": "触发概率增至40%，但每拥有1点鬼火使概率降低3%"
-          }
-        },
-        {
-          "level": 6,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 60%, mỗi khi có 1 điểm Quỷ Hỏa làm xác suất kích hoạt giảm 3%",
-            "en": "Trigger chance increases to 60%, but reduces by 3% for each orb you have.",
-            "zh": "触发概率增加至60%，每有一点鬼火触发概率降低3%"
-          }
-        },
-        {
-          "level": 7,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 80%, mỗi khi có 1 điểm Quỷ Hỏa làm xác suất kích hoạt giảm 3%",
-            "en": "Trigger chance increases to 80%, but reduces by 3% for each 1 orb you have.",
-            "zh": "触发概率增加至80%，每有一点鬼火触发概率降低3%"
-          }
-        },
-        {
-          "level": 8,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 95%, mỗi khi có 1 điểm Quỷ Hỏa làm xác suất kích hoạt giảm 3%",
-            "en": "Trigger chance increases to 95%, but reduces by 3% for each orb you have.",
-            "zh": "触发概率增加至95%，每有一点鬼火触发概率降低3%"
-          }
-        },
-        {
-          "level": 9,
-          "text": {
-            "vi": "Xác suất kích hoạt tăng lên 40%, nhưng mỗi khi sở hữu 1 điểm Quỷ Hỏa làm xác suất giảm 3%",
-            "en": "Increases chance of triggering to 40% (reduced by 3% for each orb you have).",
-            "zh": "触发概率增至40%，但每拥有1点鬼火使概率降低3%"
-          }
         }
       ],
       "orbCost": 0,
@@ -222,7 +182,7 @@
         "zh": "懦弱的灵魂没有存在的意义，还是由我收下吧。"
       },
       "description": {
-        "vi": "Thắp sáng đèn quỷ tấn công toàn bộ kẻ địch, gây sát thương bằng 190% Tấn công, và đối với mỗi kẻ địch có 30% xác suất hút 1 điểm Quỷ Hỏa, giúp Thức Thần phe ta có Tấn công cao nhất nhận [buff_2663_1]. Sau khi tấn công, mỗi khi Quỷ Hỏa phe ta nhiều hơn phe địch 1 điểm, truy kích thêm 1 lần Sát Thương Thật bằng 5% HP tối đa của mục tiêu lên toàn bộ kẻ địch (tối đa không vượt quá 100% Tấn công ban đầu, không có hiệu lực với quái vật).",
+        "vi": "Thắp sáng đèn quỷ tấn công toàn bộ kẻ địch, gây sát thương bằng 190% Tấn công, và đối với mỗi kẻ địch có 30% xác suất hút 1 điểm Quỷ Hỏa, giúp Thức Thần phe ta có Tấn công cao nhất nhận [buff_2663_1]. \nSau khi tấn công, mỗi khi Quỷ Hỏa phe ta nhiều hơn phe địch 1 điểm, truy kích thêm 1 lần Sát Thương Chuẩn bằng 5% HP tối đa của mục tiêu lên toàn bộ kẻ địch (tối đa không vượt quá 100% Tấn công ban đầu, không có hiệu lực với quái vật).",
         "en": "Lights her lantern and attacks all enemies, dealing damage equal to 190% of ATK. Has a 30% chance to absorb 1 orb from each enemy, granting [buff_2663_1] to the allied shikigami with the highest ATK. After attacking, for each orb allies have more than the enemy, deals additional true damage equal to 5% of the target's max HP to all enemies (up to 100% of starting ATK, ineffective against monsters).",
         "zh": "燃起鬼灯攻击敌方全体，造成攻击190%伤害，并对每个敌方有30%概率吸取1点鬼火，使攻击最高的友方式神获得[buff_2663_1]。攻击后，友方每比敌方多出1点鬼火，额外对全体敌方追加1次目标最大生命值5%的真实伤害（至多不超过初始攻击的100%，对怪物不生效）。"
       },

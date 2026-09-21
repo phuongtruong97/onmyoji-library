@@ -124,7 +124,7 @@
         "zh": "唔……白童子在哪里？"
       },
       "description": {
-        "vi": "Tiên Cơ: Thi triển [Hồn Chi Nộ Hỏa]. \nKhi chịu đòn tấn công không phải [tips_12], có 20% xác suất thi triển miễn phí một lần [Liên Trảm].\n[Thi triển] Nhận [buff_2772_1], duy trì 2 lượt. Tỷ lệ HP cứ giảm 30%, xác suất kích hoạt tăng thêm 3%.",
+        "vi": "[tips_7]: Thi triển [Hồn Chi Nộ Hỏa]. \nKhi chịu đòn tấn công không phải [tips_12], có 20% xác suất thi triển miễn phí một lần [Liên Trảm].\n[Thi triển] Nhận [buff_2772_1], duy trì 2 lượt. Tỷ lệ HP cứ giảm 30%, xác suất kích hoạt tăng thêm 3%.",
         "en": "Upper Hand: Casts Soul Rage. When attacked by non-[tips_12], there is a 20% chance to cast [skill_2773_1] without consuming any resources.\nUpon casting, gains [buff_2772_1], lasting for 2 turns. For every 30% decrease in HP, the trigger chance increases by an additional 3%.",
         "zh": "先机：施放「魂之怒火]。受到非[tips_12]的攻击时，有20%概率免消耗施放一次[[skill_2773_1]。\n【施放】获得[buff_2772_1]，持续2回合。生命比例每降低30%，触发概率额外提升3%。"
       },
@@ -170,7 +170,7 @@
       "number": 3,
       "variantOrder": 0,
       "parentSkillId": null,
-      "maxLevel": 7,
+      "maxLevel": 5,
       "name": {
         "vi": "Liên Trảm",
         "en": "连斩",

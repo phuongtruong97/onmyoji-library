@@ -98,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sơ sút tăng đến 125%, nếu thi triển ngoài lượt, đốt cháy kẻ địch, đính kèm 20% dễ bị tổn thương cho chúng, duy trì 2 lượt.",
+            "vi": "Sát thương tăng lên 125%, nếu thi triển ngoài lượt, đốt cháy kẻ địch, đính kèm 20% dễ bị tổn thương cho chúng, duy trì 2 lượt.",
             "en": "Increases damage to 125%. Using the skill outside the turn also burns the enemy, inflicting 20% Vulnerability on them for 2 turns.",
             "zh": "伤害增加至125%，若在回合外施放，灼伤敌方，为其附加20%易伤，持续2回合"
           }

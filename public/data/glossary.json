@@ -165,7 +165,7 @@
       "en": "Grants immunity to all controlling effects and Banish. Attack inflicts 10% HP Steal.",
       "zh": "免疫所有控制效果和放逐，攻击将附带10%吸血。"
     },
-    "iconFile": ""
+    "iconFile": "Buff25.png"
   },
   "buff_2226_1": {
     "kind": "buff",
@@ -366,30 +366,30 @@
   "buff_2584_1": {
     "kind": "buff",
     "title": {
-      "vi": "Trạng thái Phong Nộ",
+      "vi": "Phong Nộ",
       "en": "Wind Fury",
       "zh": "风怒状态"
     },
     "description": {
-      "vi": "",
+      "vi": "Gây sát thương gián tiếp vào cuối lượt của mục tiêu.",
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "Indirect21.png"
   },
   "buff_2585_1": {
     "kind": "buff",
     "title": {
-      "vi": "Trạng thái Phong Kích",
+      "vi": "Phong Kích",
       "en": "Vortex Assault",
       "zh": "风袭状态"
     },
     "description": {
-      "vi": "",
+      "vi": "Gây sát thương gián tiếp vào cuối lượt của mục tiêu.",
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "Indirect21.png"
   },
   "buff_2603_1": {
     "kind": "buff",
@@ -473,7 +473,7 @@
       "en": "Whenever another non-summoned ally entity uses a Skill on a single enemy, consumes 1 Demonic Arm stack to inflict damage equal to 171% of his ATK on the enemy.",
       "zh": "除自身外的非召唤物友方目标使用技能选择敌方单体目标时，消耗1层鬼手攻击该目标并造成攻击171%伤害。"
     },
-    "iconFile": ""
+    "iconFile": "Buff154.png"
   },
   "buff_2672_1": {
     "kind": "buff",
@@ -567,11 +567,11 @@
       "zh": "风佑"
     },
     "description": {
-      "vi": "Có thể hấp thụ lượng sát thương nhất định, không thể bị xua tan.",
+      "vi": "Hấp thụ sát thương, không thể xua tan",
       "en": "Absorbs an amount of damage and cannot be dispelled.",
       "zh": "能够吸收一定量伤害，无法被驱散。"
     },
-    "iconFile": ""
+    "iconFile": "Buff52.png"
   },
   "buff_2732_1": {
     "kind": "buff",
@@ -646,7 +646,7 @@
   "buff_2793_1": {
     "kind": "buff",
     "title": {
-      "vi": "Phân Phương",
+      "vi": "Hương Hoa",
       "en": "Nectar",
       "zh": "芬芳"
     },
@@ -655,7 +655,7 @@
       "en": "Heals before action.",
       "zh": "行动前治疗。"
     },
-    "iconFile": ""
+    "iconFile": "Buff47.png"
   },
   "buff_2831_1": {
     "kind": "buff",
@@ -744,7 +744,7 @@
   "buff_2962_1": {
     "kind": "buff",
     "title": {
-      "vi": "Khốn thú",
+      "vi": "Khốn Thú",
       "en": "Trapped Beast",
       "zh": "困兽"
     },
@@ -758,7 +758,7 @@
   "buff_2963_1": {
     "kind": "buff",
     "title": {
-      "vi": "Xé rách",
+      "vi": "Xé Rách",
       "en": "Laceration",
       "zh": "撕裂"
     },
@@ -767,7 +767,7 @@
       "en": "Takes damage at the end of the turn. The damage ignores target's DEF by 600.",
       "zh": "回合后受到伤害，该伤害忽略目标防御600点。"
     },
-    "iconFile": ""
+    "iconFile": "Indirect13.png"
   },
   "buff_2984_1": {
     "kind": "buff",
@@ -853,19 +853,33 @@
     },
     "iconFile": "3041.png"
   },
+  "buff_3052_2": {
+    "kind": "buff",
+    "title": {
+      "vi": "Thiên Bình",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Mục tiêu đã bị đánh dấu.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Debuff14.png"
+  },
   "buff_3052_1": {
     "kind": "buff",
     "title": {
-      "vi": "Khán Phá",
+      "vi": "Nhìn Thấu",
       "en": "Revealed",
       "zh": "看破"
     },
     "description": {
-      "vi": "Đã bị Dược Phu nhìn thấu mọi yếu tố.",
+      "vi": "Đã bị Mại Dược Lang nhìn thấu mọi yếu tố.",
       "en": "Medicine Seller has acquired all the details he needs.",
       "zh": "已经被卖药郎知晓所有要素。"
     },
-    "iconFile": ""
+    "iconFile": "Unique03.png"
   },
   "buff_3062_1": {
     "kind": "buff",
@@ -949,12 +963,12 @@
       "en": "Each stack increases SPD by 10 and damage by 5%.",
       "zh": "每层提升10点速度、5%伤害。"
     },
-    "iconFile": ""
+    "iconFile": "Buff45.png"
   },
   "buff_3143_1": {
     "kind": "buff",
     "title": {
-      "vi": "Ấn ký vỡ vụn",
+      "vi": "Ấn Ký Vỡ Vụn",
       "en": "Fractured mark",
       "zh": "破碎印记"
     },
@@ -963,12 +977,12 @@
       "en": "Reduces healing received by 100% when HP drops below 30%. Revival effects cannot be triggered upon being KO'd. Cannot be revived when KO'd.",
       "zh": "生命值低于30%时，受到治疗降低100%。死亡时，无法触发复活效果。死亡后，无法被复活。"
     },
-    "iconFile": ""
+    "iconFile": "Debuff32.png"
   },
   "buff_3144_1": {
     "kind": "buff",
     "title": {
-      "vi": "Hồi sinh suy yếu",
+      "vi": "Hồi Sinh Suy Yếu",
       "en": "Weakened After Resurrection",
       "zh": "复生虚弱"
     },
@@ -977,7 +991,7 @@
       "en": "Reduces damage by -40%.",
       "zh": "降低-40%伤害。"
     },
-    "iconFile": ""
+    "iconFile": "Unique10.png"
   },
   "buff_3152_1": {
     "kind": "buff",
@@ -1005,7 +1019,7 @@
       "en": "Reduces ATK by -10%.",
       "zh": "降低-10%攻击。"
     },
-    "iconFile": ""
+    "iconFile": "2.png"
   },
   "buff_3162_1": {
     "kind": "buff",
@@ -1019,7 +1033,7 @@
       "en": "When taking damage, absorb 20% of the damage to a max of 10% of Hakuzosu's max HP.",
       "zh": "受到伤害时，吸收其中的20%，吸收总量等同白藏主生命上限10%。"
     },
-    "iconFile": ""
+    "iconFile": "Buff59.png"
   },
   "buff_3171_1": {
     "kind": "buff",
@@ -1061,7 +1075,7 @@
       "en": "Counts as a shield. Not affected by Crit. When damage is high enough to break the shield, excess damage is completely absorbed.",
       "zh": "视为护盾，不受暴击属性影响。当一次伤害足以击破护盾时，可将该次过量伤害吸收。"
     },
-    "iconFile": ""
+    "iconFile": "13.png"
   },
   "buff_3193_1": {
     "kind": "buff",
@@ -1071,11 +1085,11 @@
       "zh": "破魔"
     },
     "description": {
-      "vi": "Không thể nhận dấu ấn hoặc trạng thái có lợi.",
+      "vi": "Không thể nhận ấn ký hoặc trạng thái có lợi.",
       "en": "Cannot gain buff or status.",
       "zh": "无法获得增益印记或状态。"
     },
-    "iconFile": ""
+    "iconFile": "Debuff10.png"
   },
   "buff_3194_1": {
     "kind": "buff",
@@ -1089,7 +1103,7 @@
       "en": "Prevents the effects of shikigami's souls and prevents shikigami passive skills from taking effect.",
       "zh": "式神所配戴御魂效果失效，式神被动技能失效。"
     },
-    "iconFile": ""
+    "iconFile": "Debuff42.png"
   },
   "buff_3201_1": {
     "kind": "buff",
@@ -3899,11 +3913,11 @@
       "zh": "血红铁碎牙"
     },
     "description": {
-      "vi": "Khi gây sát thương, bỏ qua [tips_6] .\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3] , có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1] , mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho [Thiết Toái Nha] tiến hóa.",
+      "vi": "Khi gây sát thương, bỏ qua [tips_6]",
       "en": "Ignores [tips_6] s when dealing damage.\nIf he's not under any [tips_3] , whenever an enemy consumes orbs, he has a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each stack consumed increases the damage by 10%.\nAfter the skill is triggered, Tessaiga evolves.",
       "zh": "造成伤害时，无视 [tips_6] 。\n当敌方消耗鬼火后，若自身未承受 [tips_3] ，有10%概率（每层 [buff_3131_1] 额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有 [buff_3131_1] 层数，每层额外提升该次伤害10%。\n每次触发后，都将使 [铁碎牙] 得到进化。"
     },
-    "iconFile": ""
+    "iconFile": "3132a.png"
   },
   "skill_3136_2": {
     "kind": "skill",
@@ -3913,11 +3927,11 @@
       "zh": "金刚铁碎牙"
     },
     "description": {
-      "vi": "Kế thừa tất cả hiệu ứng của [Huyết Hồng Thiết Toái Nha] .\nKhi gây sát thương, bỏ qua 40% Phòng thủ.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3] , có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1] , mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho [Thiết Toái Nha] tiến hóa.",
+      "vi": "Kế thừa tất cả hiệu ứng của [Huyết Hồng Thiết Toái Nha]\nKhi gây sát thương, bỏ qua 40% Phòng thủ.",
       "en": "Inherits all the effects of Red Tessaiga.\nWhen dealing damage, ignores 40% DEF.\nIf he's not under any [tips_3] , whenever an enemy consumes orbs, he has a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each stack consumed increases the damage by 10%.\nAfter the skill is triggered, Tessaiga evolves.",
       "zh": "继承 [血红铁碎牙] 所有效果。\n造成伤害时，无视40%防御。\n当敌方消耗鬼火后，若自身未承受 [tips_3] ，有10%概率（每层 [buff_3131_1] 额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有 [buff_3131_1] 层数，每层额外提升该次伤害10%。\n每次触发后，都将使 [铁碎牙] 得到进化。"
     },
-    "iconFile": ""
+    "iconFile": "3132b.png"
   },
   "skill_3136_3": {
     "kind": "skill",
@@ -3927,11 +3941,11 @@
       "zh": "龙鳞铁碎牙"
     },
     "description": {
-      "vi": "Kế thừa tất cả hiệu ứng của [Kim Cương Thiết Toái Nha] .\nTrước khi tấn công, xua tan 1 trạng thái tăng ích của mục tiêu, nếu xua tan thành công, liền giúp bản thân tăng 10% Sát Thương Bạo Kích, giới hạn 70%, duy trì 1 lượt.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3] , có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công và tiêu hao toàn bộ số tầng [buff_3131_1] , mỗi tầng tăng thêm 10% sát thương lần đó.\nMỗi lần kích hoạt xong, đều sẽ làm cho [Thiết Toái Nha] tiến hóa.",
+      "vi": "Kế thừa tất cả hiệu ứng của [Kim Cương Thiết Toái Nha] .\nTrước khi tấn công, xua tan 1 trạng thái tăng ích của mục tiêu, nếu xua tan thành công, liền giúp bản thân tăng 10% Sát Thương Bạo Kích, giới hạn 70%, duy trì 1 lượt.\n",
       "en": "Inherits all the effects of Diamond Tessaiga.\nBefore he attacks, dispels 1 buff from the target. If a buff is dispelled, increases his Crit DMG by 10% to a max of 70% for 1 turn.\nIf he's not under any [tips_3] , whenever an enemy consumes orbs, he has a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each stack consumed increases the damage by 10%.\nAfter the skill is triggered, Tessaiga evolves.",
       "zh": "继承 [金刚铁碎牙] 所有效果。\n攻击前，驱散目标1个增益状态，若成功驱散，则使自身提升10%暴击伤害，上限70%，持续1回合。\n当敌方消耗鬼火后，若自身未承受 [tips_3] ，有10%概率（每层 [buff_3131_1] 额外提升16%）对其进行反击，造成攻击176%伤害并消耗所有 [buff_3131_1] 层数，每层额外提升该次伤害10%。\n每次触发后，都将使 [铁碎牙] 得到进化。"
     },
-    "iconFile": ""
+    "iconFile": "3132c.png"
   },
   "skill_3136_4": {
     "kind": "skill",
@@ -3941,11 +3955,11 @@
       "zh": "漆黑铁碎牙"
     },
     "description": {
-      "vi": "Kế thừa tất cả hiệu ứng của [Long Lân Thiết Toái Nha] .\nKhi gây sát thương, 50% sát thương sẽ giảm giới hạn HP của mục tiêu, giảm tối đa giới hạn HP của mục tiêu xuống còn 20% ban đầu.\nKhi kẻ địch tiêu hao Quỷ Hỏa, nếu bản thân chưa gánh chịu [tips_3] , có 10% xác suất (mỗi tầng [buff_3131_1] tăng thêm 16%) tiến hành phản kích kẻ đó, gây sát thương bằng 176% Tấn công, không còn tiêu hao [buff_3131_1] , mỗi tầng [buff_3131_1] tăng thêm 10% sát thương lần đó.",
+      "vi": "Kế thừa tất cả hiệu ứng của [Long Lân Thiết Toái Nha] .\nKhi gây sát thương, 50% sát thương sẽ giảm giới hạn HP của mục tiêu, giảm tối đa giới hạn HP của mục tiêu xuống còn 20% ban đầu.\n",
       "en": "Inherits all the effects of Dragon-Scaled Tessaiga.\nWhen dealing damage, 50% of the damage reduces the target's max HP, up to a maximum reduction of 20% of max HP.\nIf he's not under any [tips_3] , whenever an enemy consumes orbs, he has a 10% chance (increases by 16% for each [buff_3131_1] stack) of launching a counter-attack at the enemy, dealing damage equal to 176% of his ATK before consuming all [buff_3131_1] stacks. Each [buff_3131_1] stack consumed increases the damage by 10%.",
       "zh": "继承 [龙鳞铁碎牙] 所有效果。\n造成伤害时，伤害的50%将降低目标生命上限，最多将目标生命上限降至原来的20%。\n当敌方消耗鬼火后，若自身未承受 [tips_3] ，有10%概率（每层 [buff_3131_1] 额外提升16%）对其进行反击，造成攻击176%伤害，不再消耗 [buff_3131_1] ，每层 [buff_3131_1] 额外提升该次伤害10%。"
     },
-    "iconFile": ""
+    "iconFile": "3132d.png"
   },
   "skill_3254_5": {
     "kind": "skill",
@@ -4617,7 +4631,7 @@
       "en": "Prevents the effects of shikigami's souls.",
       "zh": "式神所配戴御魂效果失效。"
     },
-    "iconFile": ""
+    "iconFile": "Debuff43.png"
   },
   "tips_109": {
     "kind": "tip",
@@ -4790,12 +4804,12 @@
   "tips_17": {
     "kind": "tip",
     "title": {
-      "vi": "Không thể hành động",
+      "vi": "không thể hành động",
       "en": "Unable to Take Actions",
       "zh": "无法动作"
     },
     "description": {
-      "vi": "Khi chịu Ảo Hóa, Trục Xuất và các hiệu ứng khống chế như Đóng Băng, Ngủ Say, Choáng, Biến Hình, Băng Đóng Sâu, Ảnh Phược, Sương Đông, Câu Hồn và Trầm Luân đều được xem là không thể hành động.",
+      "vi": "Khi chịu Ảo Hóa, Trục Xuất và các hiệu ứng khống chế như Đóng Băng, Ngủ Say, Choáng, Biến Hình, Đóng Băng Sâu, Ảnh Phược, Sương Đông, Câu Hồn và Trầm Luân đều được xem là không thể hành động.",
       "en": "Units that are Transfigured, Banished, or inflicted with controlling effects, including Freeze, Sleep, Daze, Morph, Deep Freeze, Shadowbound, Frostbound, Fettered, and Ruined are unable to take actions.",
       "zh": "受到幻化、放逐和控制效果中的冰冻、沉睡、眩晕、变形、深度冰冻、影缚、霜冻、拘魂和沉沦时，皆视为无法动作。"
     },
@@ -4832,7 +4846,7 @@
   "tips_2": {
     "kind": "tip",
     "title": {
-      "vi": "Tỷ lệ cơ bản",
+      "vi": "tỷ lệ cơ bản",
       "en": "Base Chance",
       "zh": "基础概率"
     },
@@ -4846,7 +4860,7 @@
   "tips_20": {
     "kind": "tip",
     "title": {
-      "vi": "Khôi Phục",
+      "vi": "Khôi phục",
       "en": "Recover",
       "zh": "恢复"
     },
@@ -4972,7 +4986,7 @@
   "tips_27": {
     "kind": "tip",
     "title": {
-      "vi": "Trạng thái có thể hành động",
+      "vi": "trạng thái có thể hành động",
       "en": "Action-Ready State",
       "zh": "可行动状态"
     },
@@ -5019,7 +5033,7 @@
       "zh": "控制效果"
     },
     "description": {
-      "vi": "Đóng Băng, Ngủ Say, Hỗn Loạn, Khiêu Khích, Câm Lặng, Giam Cầm, Chước Giới, Biến Hình, Choáng, Khiêu Chiến, Băng Đóng Sâu, Ảnh Phược, Sương Đông, Câu Hồn, Trầm Luân, Băng Miên đều thuộc hiệu ứng khống chế, chín hiệu ứng sau không thể bị giải trừ, Sương Đông không thể bị giải trừ hoàn toàn.",
+      "vi": "Đóng Băng, Ngủ Say, Hỗn Loạn, Khiêu Khích, Câm Lặng, Giam Cầm, Chước Giới, Biến Hình, Choáng, Khiêu Chiến, Đóng Băng Sâu, Ảnh Phược, Sương Đông, Câu Hồn, Trầm Luân, Băng Miên đều thuộc hiệu ứng khống chế, chín hiệu ứng sau không thể bị giải trừ, Sương Đông không thể bị giải trừ hoàn toàn.",
       "en": "Freeze, Sleep, Confuse, Taunt, Silence, Bound, Disarm, Morph, Daze, Provocation, Deep Freeze, Shadowbound, Frostbound, Fettered, Ruined, and Rest in Ice are controlling effects. The last nine cannot be dispelled. Frostbound cannot be removed.",
       "zh": "冰冻、沉睡、混乱、嘲讽、沉默、禁锢、缴械、变形、眩晕、挑衅、深度冰冻、影缚、霜冻、拘魂、沉沦、冰眠以上均属于控制效果，后九者无法被驱散，霜冻无法被解除。"
     },
@@ -5028,7 +5042,7 @@
   "tips_3121": {
     "kind": "tip",
     "title": {
-      "vi": "Higekiri",
+      "vi": "Tỳ Thiết",
       "en": "Higekiri",
       "zh": "髭切"
     },
@@ -5551,7 +5565,7 @@
       "zh": "冰冻类效果"
     },
     "description": {
-      "vi": "Đóng Băng, Băng Đóng Sâu, Sương Đông và Băng Miên.",
+      "vi": "Đóng Băng, Đóng Băng Sâu, Sương Đông và Băng Miên.",
       "en": "Freeze, Deep Freeze, Frostbound, and Rest in Ice.",
       "zh": "冰冻、深度冰冻、霜冻与冰眠。"
     },
@@ -6297,7 +6311,7 @@
       "en": "Using skills costs no orbs.",
       "zh": "施放技能无需消耗鬼火。"
     },
-    "iconFile": ""
+    "iconFile": "2665.png"
   },
   "buff_2821_1": {
     "kind": "buff",
@@ -6619,7 +6633,7 @@
       "en": "Immune to damage, debuffs, and controlling effects.",
       "zh": "免疫伤害、减益效果、控制效果。"
     },
-    "iconFile": ""
+    "iconFile": "1000.png"
   },
   "tips_3242": {
     "kind": "tip",

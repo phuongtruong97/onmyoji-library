@@ -170,7 +170,7 @@
       "number": 3,
       "variantOrder": 0,
       "parentSkillId": null,
-      "maxLevel": 9,
+      "maxLevel": 5,
       "name": {
         "vi": "Phong Thần Chi Hộ",
         "en": "风神之佑",
@@ -182,7 +182,7 @@
         "zh": "龙啊，把你的力量借给我。"
       },
       "description": {
-        "vi": "Giúp toàn bộ phe ta nhận [tips_6] không thể xua tan, có thể hấp thụ sát thương bằng 1.5% giới hạn HP và tăng 10% Tấn công, 15% Kháng Hiệu Ứng, duy trì 2 lượt.",
+        "vi": "Giúp toàn bộ phe ta nhận [buff_2723_1], có thể hấp thụ sát thương bằng 18% giới hạn HP và tăng 20% Tấn công, 30% Kháng Hiệu Ứng, duy trì 2 lượt.\nKhi thi triển trùng lặp lên đồng minh mang [buff_2723_1], hồi phục thêm lượng HP bằng 80% Lượng Lá Chắn Còn Lại cho kẻ đó",
         "en": "Creates [tips_6]s (cannot be dispelled) lasting 2 turn(s) on each of his allies, absorbing damage equal to 1.5% of his max HP and increasing their ATK and Effect RES by 10% and 15%, respectively.",
         "zh": "使友方全体获得无法驱散的[tips_6]，能吸收1.5%生命上限的伤害并提升10%攻击、15%效果抵抗，持续2回合。"
       },
@@ -190,25 +190,9 @@
         {
           "level": 2,
           "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên 15%",
-            "en": "Increases damage absorbed by [tips_6] to 15%.",
-            "zh": "[tips_6]吸收量增至15%"
-          }
-        },
-        {
-          "level": 2,
-          "text": {
             "vi": "Lượng hấp thụ của [buff_2723_1] tăng lên 15%",
             "en": "Increases the damage absorbed by [buff_2723_1] to 15%.",
             "zh": "[buff_2723_1]吸收量增至15%"
-          }
-        },
-        {
-          "level": 3,
-          "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên 18%",
-            "en": "Increases damage absorbed by [tips_6] to 18%.",
-            "zh": "[tips_6]吸收量增至18%"
           }
         },
         {
@@ -228,27 +212,11 @@
           }
         },
         {
-          "level": 4,
-          "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên 18%",
-            "en": "Increases damage absorbed by [tips_6] to 18%.",
-            "zh": "[tips_6]吸收量增至18%"
-          }
-        },
-        {
           "level": 5,
           "text": {
             "vi": "Khi thi triển trùng lặp cho phe ta mang [buff_2723_1], hồi phục thêm lượng HP bằng 80% Lượng Lá Chắn Còn Lại cho kẻ đó",
             "en": "Using the skill on allies with [buff_2723_1] additionally recovers their HP by 80% of the remaining HP of the shield.",
             "zh": "对携带[buff_2723_1]的友方重复施放时，额外为其恢复剩余护盾量80%的生命"
-          }
-        },
-        {
-          "level": 5,
-          "text": {
-            "vi": "Lượng hấp thụ [tips_6] tăng lên 18%",
-            "en": "Increases damage absorbed by [tips_6] to 18%.",
-            "zh": "[tips_6]吸收量增至18%"
           }
         },
         {
@@ -260,7 +228,7 @@
           }
         }
       ],
-      "orbCost": 2,
+      "orbCost": 3,
       "iconFile": "2723.png"
     }
   ],

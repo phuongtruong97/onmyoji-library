@@ -124,7 +124,7 @@
         "zh": "尘封的记忆，于山谷回荡。"
       },
       "description": {
-        "vi": "[tips_11].\n[tips_7] nhận 1 tầng [buff_3792_1] và 1 tầng [buff_3793_1]; trong Kết giới Sơn Hành, mỗi khi phe ta nhận [buff_3798_1], nhận 1 tầng [buff_3792_1]; mỗi khi phe ta nhận [buff_3796_1], nhận 1 tầng [buff_3793_1].",
+        "vi": "[tips_11]\n[tips_7] nhận 1 tầng [buff_3792_1] và 1 tầng [buff_3793_1]\nTrong Kết giới Sơn Hành, mỗi khi phe ta nhận [buff_3798_1], nhận 1 tầng [buff_3792_1]; mỗi khi phe ta nhận [buff_3796_1], nhận 1 tầng [buff_3793_1].",
         "en": "[tips_11].\n[tips_7]: Gains a [buff_3792_1] stack and a [buff_3793_1] stack. While the Hiking Field is active, whenever an ally gains a [buff_3798_1] stack, he gains a [buff_3792_1] stack; and whenever an ally gains a [buff_3796_1] stack, he gains a [buff_3793_1] stack.",
         "zh": "[tips_11]。\n[tips_7]获得1层[buff_3792_1]和1层[buff_3793_1]；在山行结界中，每当友方获得[buff_3798_1]，获得1层[buff_3792_1]；每当友方获得[buff_3796_1]，获得1层[buff_3793_1]。"
       },

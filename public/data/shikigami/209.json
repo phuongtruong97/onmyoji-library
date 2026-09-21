@@ -124,7 +124,7 @@
         "zh": "以清流之名，洗清你的罪孽！"
       },
       "description": {
-        "vi": "Sự tưới mát của dòng nước trong giúp yêu lực tăng lên. Khi hành động kết thúc, nhận 1 tầng [buff_2092_1], giới hạn 0 tầng.",
+        "vi": "Sự tưới mát của dòng nước trong giúp yêu lực tăng lên. Khi hành động kết thúc, nhận 1 tầng [buff_2092_1].",
         "en": "Pure water amplifies his spiritual power. At the end of his action, gains a [buff_2092_1] stack (max 0 times).",
         "zh": "清流的滋润使妖力提升。行动结束时，获得1层[buff_2092_1]，上限0层。"
       },

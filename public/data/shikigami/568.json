@@ -124,7 +124,7 @@
         "zh": "一同觉醒吧，铃鹿山之魂。"
       },
       "description": {
-        "vi": "[tips_11]. Khi sát thương bản thân gây ra bị hấp thụ, gây thêm cho mục tiêu [tips_28] bằng 10% HP tối đa của kẻ đó (không vượt quá 120% Tấn công ban đầu của bản thân), sát thương này bỏ qua [tips_6]. Khi lượt bắt đầu, giúp toàn bộ phe ta ngoại trừ bản thân nhận 3 tầng [buff_5681_1]; [tips_7]: Giúp toàn bộ phe ta ngoại trừ bản thân nhận 3 tầng [buff_5681_1].",
+        "vi": "[tips_11]. Khi sát thương bản thân gây ra bị hấp thụ, gây thêm cho mục tiêu [tips_28] bằng 10% HP tối đa của kẻ đó (không vượt quá 120% Tấn công ban đầu của bản thân), sát thương này bỏ qua [tips_6]. Khi lượt bắt đầu, giúp toàn bộ phe ta ngoại trừ bản thân nhận 3 tầng [buff_5681_1].\n[tips_7]: Giúp toàn bộ phe ta ngoại trừ bản thân nhận 3 tầng [buff_5681_1].",
         "en": "[tips_11]. When his damage dealt is absorbed, additionally deals [tips_28] equal to 10% of the target's max HP (capped at 120% of his starting ATK). This damage ignores [tips_6]. At the start of the turn, grants all other allies 3 stacks of [buff_5681_1]. [tips_7]: Grants all other allies 3 stacks of [buff_5681_1].",
         "zh": "[tips_11]。自身造成的伤害被吸收时，额外对目标造成其最大生命10%的[tips_28]（不超过自身初始攻击的120%），该伤害无视[tips_6]。回合开始时，使自身外的友方全体获得3层[buff_5681_1]；[tips_7]：使自身外的友方全体获得3层[buff_5681_1]。"
       },

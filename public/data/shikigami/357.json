@@ -124,7 +124,7 @@
         "zh": "猎物？早已经被盯上了。"
       },
       "description": {
-        "vi": "[tips_11].\nSau khi bắt đầu chiến đấu, cứ mỗi 1 điểm hành động Tấn Phong nhận được sẽ giúp Sơ Vũ Sơn Phong tăng 1% thanh hành động; khi [tips_3] biến mất, đồng thời đang ở trạng thái [tips_27], tăng 30% thanh hành động, lúc này [tips_3572] tiêu hao tất cả điểm hành động (tối đa không vượt quá 60 điểm) và tăng thanh hành động bằng lượng tiêu hao ×1%; khi Sơ Vũ Sơn Phong gây sát thương, cứ mỗi 1% tỷ lệ HP kẻ địch mất đi, sát thương lần đó tăng 0.5%.",
+        "vi": "[tips_11].\nSau khi bắt đầu chiến đấu, cứ mỗi 1 điểm hành động Tấn Phong nhận được sẽ giúp Sơ Vũ Sơn Phong tăng 1% thanh hành động; khi [tips_3] biến mất, đồng thời đang ở [tips_27], tăng 30% thanh hành động, lúc này [tips_3572] tiêu hao tất cả điểm hành động (tối đa không vượt quá 60 điểm) và tăng thanh hành động bằng lượng tiêu hao ×1%; khi Sơ Vũ Sơn Phong gây sát thương, cứ mỗi 1% tỷ lệ HP kẻ địch mất đi, sát thương lần đó tăng 0.5%.",
         "en": "[tips_11].\nAfter the start of the battle, each time Briskey gains 1 MP, raises Valiant Yamakaze's Move Bar by 1%. When a [tips_3] on Valiant Yamakaze expires, if he's under [tips_27], raises his Move Bar by 30%. Then [tips_3572] consumes all MP (limited to 60) to raise Valiant Yamakaze's Move Bar by 1% for each MP consumed. When Valiant Yamakaze deals damage, inflicts an extra 0.5% damage for each 1% HP the enemy has lost.",
         "zh": "[tips_11]。\n战斗开始后，迅风每获得1点行动值初翎山风增加1%行动条；[tips_3]消失时，且处于[tips_27]，增加30%行动条，此时[tips_3572]消耗所有行动值（最高不超过60点）并增加消耗量×1%的行动条；初翎山风造成伤害时，敌方每损失1%生命比例，则该次伤害增加0.5%。"
       },

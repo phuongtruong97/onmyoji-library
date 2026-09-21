@@ -74,7 +74,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Sơ sút tăng đến 105%, [tips_2] tăng đến 60%",
+            "vi": "Sát thương tăng lên 105%, [tips_2] tăng đến 60%",
             "en": "Increases damage to 105% and [tips_2] to 60%.",
             "zh": "伤害增加至105%，[tips_2]增至60%"
           }
@@ -82,7 +82,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Sơ sút tăng đến 110%, [tips_2] tăng đến 70%",
+            "vi": "Sát thương tăng lên 110%, [tips_2] tăng đến 70%",
             "en": "Increases damage to 110% and [tips_2] to 70%.",
             "zh": "伤害增加至110%，[tips_2]增至70%"
           }
@@ -90,7 +90,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Sơ sút tăng đến 115%, [tips_2] tăng đến 80%",
+            "vi": "Sát thương tăng lên 115%, [tips_2] tăng đến 80%",
             "en": "Increases damage to 115% and [tips_2] to 80%.",
             "zh": "伤害增加至115%，[tips_2]增至80%"
           }
@@ -98,7 +98,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sơ sút tăng đến 120%, [tips_2] tăng đến 100%",
+            "vi": "Sát thương tăng lên 120%, [tips_2] tăng đến 100%",
             "en": "Increases damage to 120% and [tips_2] to 100%.",
             "zh": "伤害增加至120%，[tips_2]增至100%"
           }
@@ -198,7 +198,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Sơ sút tăng đến 174%; khi có 2 tầng [buff_2592_1], có thể tấn công bổ sung 1 mục tiêu kẻ địch ngẫu nhiên, sát thương lặp lại lên cùng một mục tiêu bị giảm 40%",
+            "vi": "Sát thương tăng lên 174%; khi có 2 tầng [buff_2592_1], có thể tấn công bổ sung 1 mục tiêu kẻ địch ngẫu nhiên, sát thương lặp lại lên cùng một mục tiêu bị giảm 40%",
             "en": "Increases damage to 174%. If he has 2 layers of [buff_2592_1] he can attack an extra random enemy. Damage is reduced by 40% for each attack on the same target.",
             "zh": "伤害增加至174%；[buff_2592_1]2层时，可额外攻击1个随机敌方目标，对同目标的重复伤害降低40％"
           }
@@ -214,7 +214,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Sơ sút tăng đến 191%; khi có nhiều hơn 1 tầng [buff_2592_1], cứ nhiều hơn 1 tầng có thể tấn công bổ sung thêm 1 mục tiêu kẻ địch ngẫu nhiên, sát thương lặp lại lên cùng một mục tiêu bị giảm 40%",
+            "vi": "Sát thương tăng lên 191%; khi có nhiều hơn 1 tầng [buff_2592_1], cứ nhiều hơn 1 tầng có thể tấn công bổ sung thêm 1 mục tiêu kẻ địch ngẫu nhiên, sát thương lặp lại lên cùng một mục tiêu bị giảm 40%",
             "en": "Increases damage to 191%. If he has 2 or more layers of [buff_2592_1], he can attack an extra random enemy for each additional layer. Damage is reduced by 40% for each attack on the same target.",
             "zh": "伤害增加至191%；[buff_2592_1]多于1层时，每多1层可额外攻击1个随机敌方目标，对同目标的重复伤害降低40％"
           }

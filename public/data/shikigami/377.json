@@ -124,7 +124,7 @@
         "zh": "真英雄从不回头看爆炸！！"
       },
       "description": {
-        "vi": "[tips_11].\n[Thi triển] Đặt 3 quả [tips_3772] dưới chân phe địch. Nếu khi [tips_3772] phát nổ bản thân đang ở trạng thái [tips_27], liền thi triển [Thỏ Nhẫn Vũ!!] và nhận 1 chương [buff_3773_1].\nMục tiêu kẻ địch không phải vật triệu hồi sau khi tích lũy hành động 5 lượt xua tan 1 [tips_3] của bản thân, nếu bản thân không có [tips_3] để xua tan và chưa ở trạng thái [tips_17], liền thi triển miễn phí 1 lần [Mộng Tâm Mê Thố Trận!] đặt 2 quả [tips_3772].",
+        "vi": "[tips_11].\n[Thi triển] Đặt 3 quả [tips_3772] dưới chân phe địch. Nếu khi [tips_3772] phát nổ bản thân đang ở [tips_27], liền thi triển [Thỏ Nhẫn Vũ!!] và nhận 1 chương [buff_3773_1].\nMục tiêu kẻ địch không phải vật triệu hồi sau khi tích lũy hành động 5 lượt xua tan 1 [tips_3] của bản thân, nếu bản thân không có [tips_3] để xua tan và chưa ở trạng thái [tips_17], liền thi triển miễn phí 1 lần [Mộng Tâm Mê Thố Trận!] đặt 2 quả [tips_3772].",
         "en": "[tips_11].\nActive skill: Places 3 [tips_3772]s by the enemies' feet. If [tips_3772] detonated while she is under [tips_27], she uses Ninja Dance!! and gains 1 [buff_3773_1] chapter.\nWhenever non-summoned enemy entities take 5 turns, dispels 1 [tips_3] from her; if there's no [tips_3] to dispel and she's not [tips_17], she uses Ninja Formation! that places 2 [tips_3772]s once free of orb cost.",
         "zh": "[tips_11]。\n【施放】在敌方脚下布置3颗[tips_3772]。若[tips_3772]引爆时自身处于[tips_27]，则施放[兔忍舞！！]并获得1篇[buff_3773_1]。\n非召唤物的敌方目标累计行动5回合后驱散自身1个[tips_3]，若自身没有[tips_3]可以驱散且未处于[tips_17]，则无消耗施放1次布置2颗[tips_3772]的[梦心迷兔阵！]。"
       },

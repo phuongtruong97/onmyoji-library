@@ -182,7 +182,7 @@
         "zh": "山巅的冰雪，不会融化。"
       },
       "description": {
-        "vi": "Hóa thành ngọn giáo băng giá buốt xâm nhập mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công, khiến kẻ đó [tips_3621]. Bản thân nhận [buff_3622_1], nếu mất [buff_3622_1] sẽ kết thúc [tips_3621]. Tiên Cơ: Nhận Thiền Dực.\nKhi phe địch có mục tiêu [tips_3621], không thể thi triển kỹ năng này.",
+        "vi": "Hóa thành ngọn giáo băng giá buốt xâm nhập mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công, khiến kẻ đó [tips_3621]. Bản thân nhận [buff_3622_1], nếu mất [buff_3622_1] sẽ kết thúc [tips_3621]. \n[tips_7]: Nhận Thiền Dực.\nKhi phe địch có mục tiêu [tips_3621], không thể thi triển kỹ năng này.",
         "en": "Turns into a cold ice lancer to attack 1 enemy, dealing damage equal to 100% of her ATK and causes them to be [tips_3621]. She gains [buff_3622_1]. [tips_3621] ends when she loses [buff_3622_1]. Upper Hand: Gains Thin Ice.\nThe skill cannot be used if there's a [tips_3621] enemy on the battlefield.",
         "zh": "化作凛冽的冰枪侵袭敌方目标，造成攻击100%伤害，使其[tips_3621]。自身获得[buff_3622_1]，若失去[buff_3622_1]则结束[tips_3621]。先机：获得蝉翼。\n敌方存在[tips_3621]目标时，无法施放此技能。"
       },

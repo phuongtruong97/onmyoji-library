@@ -132,7 +132,7 @@
       "slot": 2,
       "parentSkillId": 3132,
       "referencedSkillId": 3136,
-      "existsInWorkbook": true
+      "existsInWorkbook": false
     },
     {
       "heroId": 325,
@@ -414,6 +414,12 @@
       "slot": 2,
       "parentSkillId": 2202,
       "candidateSkillId": 2204
+    },
+    {
+      "heroId": 313,
+      "slot": 2,
+      "parentSkillId": 3132,
+      "candidateSkillId": 3136
     },
     {
       "heroId": 338,

@@ -182,7 +182,7 @@
         "zh": "有小白在，不会有事的！"
       },
       "description": {
-        "vi": "Mở ra Kết giới Hồ Ảnh tồn tại 999 lượt, khi bất kỳ đồng minh nào chịu sát thương đơn thể và [tips_5], khiến sát thương lần đó giảm 50%.\nKhi bắt đầu mỗi lượt (bất kể địch ta), chọn mục tiêu phe ta có tỷ lệ HP thấp nhất, nếu bản thân đang ở trong trạng thái [tips_27], thì có thể chịu thay toàn bộ sát thương cho đồng minh đó trong lượt này.",
+        "vi": "Mở ra Kết giới Hồ Ảnh tồn tại 999 lượt, khi bất kỳ đồng minh nào chịu sát thương đơn thể và [tips_5], khiến sát thương lần đó giảm 50%.\nKhi bắt đầu mỗi lượt (bất kể địch ta), chọn mục tiêu phe ta có tỷ lệ HP thấp nhất, nếu bản thân đang ở trong [tips_27], thì có thể chịu thay toàn bộ sát thương cho đồng minh đó trong lượt này.",
         "en": "Creates a Fox Shadow field that lasts 999 turns. Whenever an ally takes single-target damage or [tips_5], the damage is reduced by 50%.\nAt the beginning of an ally or an enemy's turn, the ally with the lowest proportion of HP is chosen. If he is under [tips_27], all damage that would be dealt to that ally this turn is dealt to him instead.",
         "zh": "开启存在999回合的狐影结界，任何友方受到单体伤害和[tips_5]时，使该次伤害降低50%。\n在每个回合（不论敌我）开始时，选定生命比例最低的友方目标，若自身处于[tips_27]，则可在该回合内代替该友方承受所有伤害。"
       },
@@ -217,14 +217,6 @@
             "vi": "Thời gian tồn tại tăng lên 2 lượt",
             "en": "Increases duration to 2 turns.",
             "zh": "存在时间增至2回合"
-          }
-        },
-        {
-          "level": 6,
-          "text": {
-            "vi": "Thời gian tồn tại tăng lên 999 lượt",
-            "en": "Increases duration to 999 turns.",
-            "zh": "存在时间增至999回合"
           }
         }
       ],

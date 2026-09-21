@@ -182,7 +182,7 @@
         "zh": "愿所有付出都能收获回报。"
       },
       "description": {
-        "vi": "Tiêu hao thêm tối đa 3 điểm Quỷ Hỏa, mỗi tiêu hao 1 điểm Quỷ Hỏa tăng 2 tầng [buff_5652_1] cho bản thân;\nGiúp toàn bộ phe ta nhận [buff_5653_1], duy trì 1 lượt; nếu bản thân ở thời điểm kết thúc lượt thi triển đang trong trạng thái [tips_27], lập tức thi triển thêm 1 lần [Vòng Quay Trứng May Mắn] và nhận 3 điểm Quỷ Hỏa.",
+        "vi": "Tiêu hao thêm tối đa 3 điểm Quỷ Hỏa, mỗi tiêu hao 1 điểm Quỷ Hỏa tăng 2 tầng [buff_5652_1] cho bản thân;\nGiúp toàn bộ phe ta nhận [buff_5653_1], duy trì 1 lượt; nếu bản thân ở thời điểm kết thúc lượt thi triển đang trong [tips_27], lập tức thi triển thêm 1 lần [Vòng Quay Trứng May Mắn] và nhận 3 điểm Quỷ Hỏa.",
         "en": "Spends additional orbs (up to 3). Each 1 orb spent grants her 2 [buff_5652_1] stacks.\nGrants [buff_5653_1] (sustainable for 1 turn) to all allies. At the end of the turn where she used the skill, if she's under any [tips_27], immediately uses Fun Gacha and grants you 3 orbs.",
         "zh": "额外消耗至多3点鬼火，每消耗1点鬼火提升自身2层[buff_5652_1]；\n使全体友方获得[buff_5653_1]，维持1回合；若自身在施放回合结束时处于[tips_27]，立即额外施放1次[童趣扭蛋]并获得3点鬼火。"
       },
