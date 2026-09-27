@@ -48,8 +48,8 @@
     "effectRes": "0%"
   },
   "assets": {
-    "portraitFile": "minamoto.png",
-    "headIconFile": "15a.png"
+    "portraitFile": "minamoto.webp",
+    "headIconFile": ""
   },
   "skills": [
     {
@@ -107,7 +107,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1501.png"
+      "iconFile": "1501.webp"
     },
     {
       "id": 1502,
@@ -164,7 +164,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1502.png"
+      "iconFile": "1502.webp"
     },
     {
       "id": 1503,
@@ -221,7 +221,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1503.png"
+      "iconFile": "1503.webp"
     },
     {
       "id": 1504,
@@ -278,7 +278,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1504.png"
+      "iconFile": "1504.webp"
     },
     {
       "id": 1505,
@@ -335,7 +335,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1505.png"
+      "iconFile": "1505.webp"
     },
     {
       "id": 1506,
@@ -359,7 +359,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "1506.png"
+      "iconFile": "1506.webp"
     },
     {
       "id": 1507,
@@ -416,7 +416,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1507.png"
+      "iconFile": "1507.webp"
     },
     {
       "id": 1508,
@@ -473,7 +473,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1508.png"
+      "iconFile": "1508.webp"
     }
   ]
 }

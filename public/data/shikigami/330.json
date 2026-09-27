@@ -106,7 +106,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "3301.png"
+      "iconFile": "3301.webp"
     },
     {
       "id": 3304,
@@ -164,7 +164,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "3301b.png"
+      "iconFile": "3301b.webp"
     },
     {
       "id": 3302,
@@ -222,7 +222,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "3302.png"
+      "iconFile": "3302.webp"
     },
     {
       "id": 3305,
@@ -280,7 +280,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "3302b.png"
+      "iconFile": "3302b.webp"
     },
     {
       "id": 3303,
@@ -338,7 +338,7 @@
         }
       ],
       "orbCost": 2,
-      "iconFile": "3303.png"
+      "iconFile": "3303.webp"
     },
     {
       "id": 3306,
@@ -396,11 +396,11 @@
         }
       ],
       "orbCost": 4,
-      "iconFile": "3303b.png"
+      "iconFile": "3303b.webp"
     }
   ],
   "assets": {
-    "portraitFile": "330.png",
-    "headIconFile": "330a.png"
+    "portraitFile": "330.webp",
+    "headIconFile": "330a.webp"
   }
 }

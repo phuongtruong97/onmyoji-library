@@ -106,7 +106,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "2931.png"
+      "iconFile": "2931.webp"
     },
     {
       "id": 2932,
@@ -164,7 +164,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "2932.png"
+      "iconFile": "2932.webp"
     },
     {
       "id": 2933,
@@ -286,11 +286,11 @@
         }
       ],
       "orbCost": 4,
-      "iconFile": "2933.png"
+      "iconFile": "2933.webp"
     }
   ],
   "assets": {
-    "portraitFile": "293.png",
-    "headIconFile": "293a.png"
+    "portraitFile": "293.webp",
+    "headIconFile": "293a.webp"
   }
 }

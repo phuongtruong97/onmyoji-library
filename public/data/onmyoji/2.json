@@ -48,8 +48,8 @@
     "effectRes": "0%"
   },
   "assets": {
-    "portraitFile": "kagura.png",
-    "headIconFile": "11a.png"
+    "portraitFile": "kagura.webp",
+    "headIconFile": ""
   },
   "skills": [
     {
@@ -107,7 +107,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1101.png"
+      "iconFile": "1101.webp"
     },
     {
       "id": 1102,
@@ -164,7 +164,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1102.png"
+      "iconFile": "1102.webp"
     },
     {
       "id": 1103,
@@ -221,7 +221,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1103.png"
+      "iconFile": "1103.webp"
     },
     {
       "id": 1104,
@@ -278,7 +278,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1104.png"
+      "iconFile": "1104.webp"
     },
     {
       "id": 1105,
@@ -335,7 +335,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1105.png"
+      "iconFile": "1105.webp"
     },
     {
       "id": 1107,
@@ -359,7 +359,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "1107.png"
+      "iconFile": "1107.webp"
     },
     {
       "id": 1108,
@@ -416,7 +416,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1108.png"
+      "iconFile": "1108.webp"
     },
     {
       "id": 1111,
@@ -473,7 +473,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1111.png"
+      "iconFile": "1111.webp"
     }
   ]
 }

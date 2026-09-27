@@ -48,8 +48,8 @@
     "effectRes": "0%"
   },
   "assets": {
-    "portraitFile": "seimei.png",
-    "headIconFile": "10a.png"
+    "portraitFile": "seimei.webp",
+    "headIconFile": ""
   },
   "skills": [
     {
@@ -107,7 +107,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1003.png"
+      "iconFile": "1003.webp"
     },
     {
       "id": 1004,
@@ -164,7 +164,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1004.png"
+      "iconFile": "1004.webp"
     },
     {
       "id": 1005,
@@ -221,7 +221,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1005.png"
+      "iconFile": "1005.webp"
     },
     {
       "id": 1007,
@@ -245,7 +245,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "1007.png"
+      "iconFile": "1007.webp"
     },
     {
       "id": 1008,
@@ -302,7 +302,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1008.png"
+      "iconFile": "1008.webp"
     },
     {
       "id": 1009,
@@ -359,7 +359,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1009.png"
+      "iconFile": "1009.webp"
     },
     {
       "id": 1011,
@@ -416,7 +416,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1011.png"
+      "iconFile": "1011.webp"
     },
     {
       "id": 1013,
@@ -473,7 +473,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1013.png"
+      "iconFile": "1013.webp"
     },
     {
       "id": 1110,
@@ -497,7 +497,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "1110.png"
+      "iconFile": "1110.webp"
     }
   ]
 }

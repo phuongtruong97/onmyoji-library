@@ -106,7 +106,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "5651.png"
+      "iconFile": "5651.webp"
     },
     {
       "id": 5652,
@@ -164,7 +164,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "5652.png"
+      "iconFile": "5652.webp"
     },
     {
       "id": 5654,
@@ -189,7 +189,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "5652a.png"
+      "iconFile": "5652a.webp"
     },
     {
       "id": 5655,
@@ -214,7 +214,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "5652b.png"
+      "iconFile": "5652b.webp"
     },
     {
       "id": 5656,
@@ -239,7 +239,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "5652c.png"
+      "iconFile": "5652c.webp"
     },
     {
       "id": 5657,
@@ -264,7 +264,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "5652d.png"
+      "iconFile": "5652d.webp"
     },
     {
       "id": 5658,
@@ -289,7 +289,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "5652e.png"
+      "iconFile": "5652e.webp"
     },
     {
       "id": 5653,
@@ -347,11 +347,11 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "5653.png"
+      "iconFile": "5653.webp"
     }
   ],
   "assets": {
-    "portraitFile": "565.png",
-    "headIconFile": "565a.png"
+    "portraitFile": "565.webp",
+    "headIconFile": "565a.webp"
   }
 }

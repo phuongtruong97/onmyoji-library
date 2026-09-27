@@ -11,8 +11,8 @@
         "zh": "晴明"
       },
       "assets": {
-        "portraitFile": "seimei.png",
-        "headIconFile": "10a.png"
+        "portraitFile": "seimei.webp",
+        "headIconFile": ""
       }
     },
     {
@@ -24,8 +24,8 @@
         "zh": "神乐"
       },
       "assets": {
-        "portraitFile": "kagura.png",
-        "headIconFile": "11a.png"
+        "portraitFile": "kagura.webp",
+        "headIconFile": ""
       }
     },
     {
@@ -37,8 +37,8 @@
         "zh": "八百比丘尼"
       },
       "assets": {
-        "portraitFile": "yaobikuni.png",
-        "headIconFile": "12a.png"
+        "portraitFile": "yaobikuni.webp",
+        "headIconFile": ""
       }
     },
     {
@@ -50,8 +50,8 @@
         "zh": "源博雅"
       },
       "assets": {
-        "portraitFile": "hiromasa.png",
-        "headIconFile": "13a.png"
+        "portraitFile": "hiromasa.webp",
+        "headIconFile": ""
       }
     },
     {
@@ -63,8 +63,8 @@
         "zh": "源赖光"
       },
       "assets": {
-        "portraitFile": "minamoto.png",
-        "headIconFile": "15a.png"
+        "portraitFile": "minamoto.webp",
+        "headIconFile": ""
       }
     },
     {
@@ -76,8 +76,8 @@
         "zh": "藤原道长"
       },
       "assets": {
-        "portraitFile": "fujiwara.png",
-        "headIconFile": "16a.png"
+        "portraitFile": "fujiwara.webp",
+        "headIconFile": ""
       }
     }
   ]

@@ -32,7 +32,7 @@ const statLabels: Record<string, Text3> = {
 function UiIcon({ kind, name, className }: { kind: 'grades' | 'rarities'; name: string; className: string }) {
   const [failed, setFailed] = useState(false);
   return <span className={`${className} custom-ui-icon ${failed ? 'fallback' : ''}`}>
-    {!failed && <img src={`/ui/${kind}/${encodeURIComponent(name)}.png`} alt="" onError={() => setFailed(true)} />}
+    {!failed && <img src={`/ui/${kind}/${encodeURIComponent(name)}.webp`} alt="" onError={() => setFailed(true)} />}
     <em>{name}</em>
   </span>;
 }

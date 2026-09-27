@@ -106,7 +106,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "3051.png"
+      "iconFile": "3051.webp"
     },
     {
       "id": 3052,
@@ -131,7 +131,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "3052.png"
+      "iconFile": "3052.webp"
     },
     {
       "id": 3053,
@@ -189,11 +189,11 @@
         }
       ],
       "orbCost": 3,
-      "iconFile": "3053.png"
+      "iconFile": "3053.webp"
     }
   ],
   "assets": {
-    "portraitFile": "305.png",
-    "headIconFile": "305a.png"
+    "portraitFile": "305.webp",
+    "headIconFile": "305a.webp"
   }
 }

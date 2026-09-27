@@ -57,10 +57,10 @@ export default function DonateButton() {
                 <span>
                   Ảnh QR sẽ được cập nhật tại
                   <br />
-                  <b>public/donate/qr.png</b>
+                  <b>public/donate/qr.webp</b>
                 </span>
                 <img
-                  src="/donate/qr.png"
+                  src="/donate/qr.webp"
                   alt="Mã QR donate"
                   onLoad={() => setQrLoaded(true)}
                   onError={() => setQrLoaded(false)}

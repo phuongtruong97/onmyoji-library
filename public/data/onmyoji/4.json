@@ -48,8 +48,8 @@
     "effectRes": "0%"
   },
   "assets": {
-    "portraitFile": "hiromasa.png",
-    "headIconFile": "13a.png"
+    "portraitFile": "hiromasa.webp",
+    "headIconFile": ""
   },
   "skills": [
     {
@@ -107,7 +107,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1301.png"
+      "iconFile": "1301.webp"
     },
     {
       "id": 1302,
@@ -164,7 +164,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1302.png"
+      "iconFile": "1302.webp"
     },
     {
       "id": 1303,
@@ -221,7 +221,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1303.png"
+      "iconFile": "1303.webp"
     },
     {
       "id": 1304,
@@ -278,7 +278,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1304.png"
+      "iconFile": "1304.webp"
     },
     {
       "id": 1305,
@@ -335,7 +335,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1305.png"
+      "iconFile": "1305.webp"
     },
     {
       "id": 1306,
@@ -392,7 +392,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1306.png"
+      "iconFile": "1306.webp"
     },
     {
       "id": 1307,
@@ -449,7 +449,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1307.png"
+      "iconFile": "1307.webp"
     },
     {
       "id": 1308,
@@ -473,7 +473,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "1308.png"
+      "iconFile": "1308.webp"
     }
   ]
 }

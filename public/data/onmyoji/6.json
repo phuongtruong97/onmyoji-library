@@ -48,8 +48,8 @@
     "effectRes": "0%"
   },
   "assets": {
-    "portraitFile": "fujiwara.png",
-    "headIconFile": "16a.png"
+    "portraitFile": "fujiwara.webp",
+    "headIconFile": ""
   },
   "skills": [
     {
@@ -107,7 +107,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1601.png"
+      "iconFile": "1601.webp"
     },
     {
       "id": 1602,
@@ -164,7 +164,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1602.png"
+      "iconFile": "1602.webp"
     },
     {
       "id": 1603,
@@ -221,7 +221,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1603.png"
+      "iconFile": "1603.webp"
     },
     {
       "id": 1604,
@@ -278,7 +278,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1604.png"
+      "iconFile": "1604.webp"
     },
     {
       "id": 1605,
@@ -335,7 +335,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1605.png"
+      "iconFile": "1605.webp"
     },
     {
       "id": 1606,
@@ -392,7 +392,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1606.png"
+      "iconFile": "1606.webp"
     },
     {
       "id": 1607,
@@ -449,7 +449,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "1607.png"
+      "iconFile": "1607.webp"
     },
     {
       "id": 1608,
@@ -473,7 +473,7 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "1608.png"
+      "iconFile": "1608.webp"
     }
   ]
 }

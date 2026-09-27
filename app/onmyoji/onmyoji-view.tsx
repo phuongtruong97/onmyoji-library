@@ -24,7 +24,7 @@ const secondaryLabels: Record<string, Text3> = {
 
 function Grade({ value }: { value: string }) {
   const [failed, setFailed] = useState(false);
-  return <span className="grade onmyoji-grade">{!failed && value && <img src={`/ui/grades/${encodeURIComponent(value)}.png`} alt="" onError={() => setFailed(true)} />}<em>{value}</em></span>;
+  return <span className="grade onmyoji-grade">{!failed && value && <img src={`/ui/grades/${encodeURIComponent(value)}.webp`} alt="" onError={() => setFailed(true)} />}<em>{value}</em></span>;
 }
 
 function SkillIcon({ skill, fallback, className = '' }: { skill: Skill; fallback: number; className?: string }) {

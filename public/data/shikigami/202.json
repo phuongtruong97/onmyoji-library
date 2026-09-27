@@ -114,7 +114,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "2021.png"
+      "iconFile": "2021.webp"
     },
     {
       "id": 2022,
@@ -172,7 +172,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "2022.png"
+      "iconFile": "2022.webp"
     },
     {
       "id": 2023,
@@ -238,11 +238,11 @@
         }
       ],
       "orbCost": 3,
-      "iconFile": "2023.png"
+      "iconFile": "2023.webp"
     }
   ],
   "assets": {
-    "portraitFile": "202.png",
-    "headIconFile": "202a.png"
+    "portraitFile": "202.webp",
+    "headIconFile": "202a.webp"
   }
 }

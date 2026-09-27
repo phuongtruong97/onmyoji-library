@@ -106,7 +106,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "5631.png"
+      "iconFile": "5631.webp"
     },
     {
       "id": 5632,
@@ -164,7 +164,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "5632.png"
+      "iconFile": "5632.webp"
     },
     {
       "id": 5634,
@@ -189,7 +189,7 @@
       },
       "upgrades": [],
       "orbCost": 1,
-      "iconFile": "5632.png"
+      "iconFile": "5632.webp"
     },
     {
       "id": 5633,
@@ -247,7 +247,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "5633.png"
+      "iconFile": "5633.webp"
     },
     {
       "id": 56331,
@@ -272,7 +272,7 @@
       },
       "upgrades": [],
       "orbCost": 3,
-      "iconFile": "56331.png"
+      "iconFile": "56331.webp"
     },
     {
       "id": 56332,
@@ -297,7 +297,7 @@
       },
       "upgrades": [],
       "orbCost": 3,
-      "iconFile": "56332.png"
+      "iconFile": "56332.webp"
     },
     {
       "id": 56333,
@@ -322,11 +322,11 @@
       },
       "upgrades": [],
       "orbCost": 4,
-      "iconFile": "56333.png"
+      "iconFile": "56333.webp"
     }
   ],
   "assets": {
-    "portraitFile": "563.png",
-    "headIconFile": "563a.png"
+    "portraitFile": "563.webp",
+    "headIconFile": "563a.webp"
   }
 }

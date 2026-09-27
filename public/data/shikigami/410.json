@@ -73,11 +73,11 @@
       },
       "upgrades": [],
       "orbCost": 0,
-      "iconFile": "4031.png"
+      "iconFile": "4031.webp"
     }
   ],
   "assets": {
-    "portraitFile": "410.png",
-    "headIconFile": "410a.png"
+    "portraitFile": "",
+    "headIconFile": ""
   }
 }

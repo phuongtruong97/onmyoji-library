@@ -106,7 +106,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "2691.png"
+      "iconFile": "2691.webp"
     },
     {
       "id": 2692,
@@ -164,7 +164,7 @@
         }
       ],
       "orbCost": 0,
-      "iconFile": "2692.png"
+      "iconFile": "2692.webp"
     },
     {
       "id": 2693,
@@ -222,7 +222,7 @@
         }
       ],
       "orbCost": 3,
-      "iconFile": "2693.png"
+      "iconFile": "2693.webp"
     },
     {
       "id": 2695,
@@ -280,11 +280,11 @@
         }
       ],
       "orbCost": 3,
-      "iconFile": "2695.png"
+      "iconFile": "2695.webp"
     }
   ],
   "assets": {
-    "portraitFile": "269.png",
-    "headIconFile": "269a.png"
+    "portraitFile": "269.webp",
+    "headIconFile": "269a.webp"
   }
 }
