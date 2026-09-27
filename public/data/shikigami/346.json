@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -66,7 +67,7 @@
         "zh": "在水一方。"
       },
       "description": {
-        "vi": "Triệu hồi dòng nước xung kích kẻ địch, gây cho mục tiêu sát thương bằng 80% Tấn công và xua tan 1 hiệu ứng tăng ích.\nKhi đồng minh chịu sát thương đơn lẻ từ kẻ địch vượt quá 30% giới hạn HP của họ, đính kèm 3 tầng [buff_3461_1] cho nguồn gây sát thương, duy trì 2 lượt.",
+        "vi": "Triệu hồi dòng nước xung kích kẻ địch, gây cho mục tiêu sát thương bằng 80% Tấn công và xua tan 1 hiệu ứng buff.\nKhi đồng minh chịu sát thương đơn lẻ từ kẻ địch vượt quá 30% giới hạn HP của họ, đính kèm 3 tầng [buff_3461_1] cho nguồn gây sát thương, duy trì 2 lượt.",
         "en": "Channels a stream of water to attack 1 enemy, dealing damage equal to 80% of her ATK and dispels 1 buff from them.\nWhen an ally takes damage from a single hit exceeding 30% of their max HP, inflicts 3 stacks of [buff_3461_1] on the damage source for 2 turns.",
         "zh": "召唤水流冲击敌人，对目标造成攻击80%伤害并驱散1个增益状态。\n友方受到单次敌方伤害超过其生命上限30%时，为伤害来源施加3层[buff_3461_1]，持续2回合。"
       },
@@ -149,8 +150,8 @@
         "zh": "宛在水中央。"
       },
       "description": {
-        "vi": "[tips_11]. Đính kèm 3 tầng Oán Hận cho mục tiêu kẻ địch đồng thời mở Chùm Đuôi Cá duy trì 1 lượt, khi mở tăng 10% Thanh Hành Động cho toàn bộ đồng minh, bản thân nhận 1 tầng [tips_6006]. Trong thời gian duy trì, khi kẻ địch nhận hiệu ứng tăng thanh hành động đơn thể hoặc tăng tốc đơn thể, nhận 1 tầng [tips_6006]; sau khi lượt của đồng minh kết thúc, nếu bản thân không ở trong [tips_17], trị liệu cho họ lượng HP bằng 50% Tấn công và kích hoạt [tips_6006].",
-        "en": "[tips_11]. Inflicts 3 stacks of Grudge on an enemy target and activates Fishtail Cluster for 1 turn. When activated, raises all allies' Move Bars by 10% and gains 1 stack of [tips_6006]. While active, whenever an enemy gains a single-target Move Bar boost or single-target Haste effect, gains 1 stack of [tips_6006]. After an ally's turn ends, if self is not under [tips_17], restores HP equal to 50% of ATK for that ally and triggers [tips_6006].",
+        "vi": "[tips_11] Đính kèm 3 tầng Oán Hận cho mục tiêu kẻ địch đồng thời mở Chùm Đuôi Cá duy trì 1 lượt, khi mở tăng 10% Thanh Hành Động cho toàn bộ đồng minh, bản thân nhận 1 tầng [tips_6006]. Trong thời gian duy trì, khi kẻ địch nhận hiệu ứng tăng thanh hành động đơn thể hoặc tăng tốc đơn thể, nhận 1 tầng [tips_6006]; sau khi lượt của đồng minh kết thúc, nếu bản thân không ở trong [tips_17], trị liệu cho họ lượng HP bằng 50% Tấn công và kích hoạt [tips_6006].",
+        "en": "[tips_11] Inflicts 3 stacks of Grudge on an enemy target and activates Fishtail Cluster for 1 turn. When activated, raises all allies' Move Bars by 10% and gains 1 stack of [tips_6006]. While active, whenever an enemy gains a single-target Move Bar boost or single-target Haste effect, gains 1 stack of [tips_6006]. After an ally's turn ends, if self is not under [tips_17], restores HP equal to 50% of ATK for that ally and triggers [tips_6006].",
         "zh": "[tips_11]。为敌方目标施加3层结怨并开启持续1回合的鱼尾之簇，开启时提升友方全体10%行动条，自身获得1层[tips_6006]。持续期间敌方获得单体行动条提升或单体加速效果时，获得1层[tips_6006]，友方回合结束后，若自身未处于[tips_17]，为其治疗攻击50%的生命并触发[tips_6006]。"
       },
       "upgrades": [

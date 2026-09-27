@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 559,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực kết liễu đơn mục tiêu rất mạnh, tự truy kích khi HP địch giảm và có lá chắn miễn khống chế; hiệu quả cao trong PvE ngắn lượt nhưng kém ổn định trước boss HP cực lớn",
+  "summary": "《Bản Chân Tam Vĩ Hồ》 bắt đầu trận và kết thúc lượt với {+Linh Hồ Thủ Hộ} bằng 140% Công, miễn khống chế/trục xuất khi lá chắn còn tồn tại, cùng 3 tầng {+Tâm Diễm}. Khi một kẻ địch mất hơn 25% HP hiện tại trong một hành động và lượng mất đạt ít nhất 10% HP tối đa, cô tiêu Tâm Diễm để truy kích. [Hồ Hoặc Mị Ảnh] tốn 3 Quỷ Hỏa, đánh mục tiêu 145% Công, thêm một hit cho mỗi 25% HP đã mất, kích nổ {−Hồ Ấn}, rồi đánh các kẻ địch còn lại một hit 145%.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Truy kích nhanh và không tiêu Tâm Diễm trong ba lần đầu trước quái, rất tốt để bù sát thương kết liễu."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Boss HP cực lớn khó đạt ngưỡng mất HP, khiến truy kích và số hit đại chiêu giảm."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Lá chắn miễn khống chế, hút máu và sát thương theo HP đã mất tạo áp lực kết liễu cao."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Dễ dùng làm chủ lực/kết liễu, nhưng cần đủ Bạo kích và kỹ năng 2–3 gần tối đa."
+    }
+  ],
+  "strengths": [
+    "{+Linh Hồ Thủ Hộ} không thể giải trừ, miễn khống chế và trục xuất; khi biến mất còn hồi 80% lượng lá chắn còn lại.",
+    "{+Tâm Diễm} cho tối đa ba truy kích khi địch mất HP đủ ngưỡng; mỗi mục tiêu bị đánh giúp cô tăng 10% Thanh Hành Động.",
+    "{−Hồ Ấn} gây sát thương gián tiếp bằng 50% HP tối đa đã mất của mục tiêu, giới hạn 1000% Công ban đầu của cô; đại chiêu cấp tối đa kích hoạt dấu ngay."
+  ],
+  "weaknesses": [
+    "Sau khi dùng hết {+Tâm Diễm}, cô phải chờ kết thúc lượt của mình để nhận lại 3 tầng; đội thiếu hành động thêm có khoảng trống sát thương.",
+    "Truy kích cần một hành động làm địch mất hơn 25% HP hiện tại và ít nhất 10% HP tối đa, nên khó kích hoạt trước boss có thanh HP quá lớn.",
+    "Số hit chính của [Hồ Hoặc Mị Ảnh] tăng theo phần HP mục tiêu đã mất; ở đầu trận chỉ có một hit vào mục tiêu chọn trước phần đánh lan."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Tốt nhất ở đội hình có một chủ lực mở màn làm giảm mạnh HP quái, sau đó cô tự truy kích để kết liễu. Trước mục tiêu quái, ba lần Hấp Phách đầu không tiêu {+Tâm Diễm}, giúp chuỗi sát thương mở màn dày hơn.",
+        "Không nên suy rộng hiệu quả farm sang boss HP cực lớn: nếu đòn của đồng đội không đạt đồng thời hai ngưỡng mất HP, truy kích không xuất hiện. Khi boss xuống thấp, đại chiêu mới đạt tối đa bốn hit lên mục tiêu chọn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "{+Linh Hồ Thủ Hộ} giúp cô vượt qua khống chế để vào lượt; đánh thường và kỹ năng đơn thể có 20% hút máu. Ghép với nguồn sát thương ngoài lượt, hiệp chiến hoặc tái hành động để kích truy kích và làm mới Tâm Diễm nhanh."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE chủ lực: 〈Hải Nguyệt Hỏa Ngọc〉 + 〈Quỷ Linh Ca Kỹ〉, Công – Công – Bạo kích/Sát Thương Bạo Kích, đủ 100% Bạo kích. Chỉ dùng khi đội có thể vào lượt với đầy Quỷ Hỏa và trả thêm 1 lửa ngoài chi phí 3 lửa.",
+        "PvE phụ trợ/truy kích: 〈Binh Chủ Bộ〉 + 〈Quỷ Linh Ca Kỹ〉 để hạ Phòng thủ qua nhiều lần đánh; Công – Công – Bạo kích/Sát Thương Bạo Kích. PvP kéo dài có thể dùng 〈Thương Hồn Điểu〉 để tăng hồi phục và sát thương khi mục tiêu tử trận."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本真三尾の狐の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/288615555546531122.html",
+      "usedFor": "đối chiếu ngưỡng truy kích, ba lần miễn tiêu tầng trước quái, vai trò kết liễu và điểm yếu boss"
+    },
+    {
+      "title": "本真三尾狐御魂搭配攻略",
+      "publisher": "3DM手游",
+      "url": "https://shouyou.3dmgame.com/gl/479782.html",
+      "usedFor": "đối chiếu Hải Nguyệt–Ca Kỹ, Binh Chủ Bộ và Thương Hồn Điểu"
+    }
+  ]
+}

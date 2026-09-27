@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -240,7 +241,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "Lấy \"Mộc\" làm nhịp điệu tấu nhạc, hồi phục cho toàn thể đồng minh lượng máu bằng 6% giới hạn máu của Ngôn Hòa, hiệu quả tăng dần theo số lần tấu nhạc.\nTấu nhạc 2 lần: Hóa giải ngẫu nhiên thêm 2 trạng thái giảm ích hoặc hiệu ứng khống chế của đồng minh.\nTấu nhạc 3 lần: Khiến các đồng minh khác nhận thêm 20% giảm sát thương, duy trì trong 2 hiệp.\nTấu nhạc 4 lần: Hiệu quả hóa giải tăng lên thành 4 hiệu ứng.",
+        "vi": "Lấy \"Mộc\" làm nhịp điệu tấu nhạc, hồi phục cho toàn thể đồng minh lượng máu bằng 6% giới hạn máu của Ngôn Hòa, hiệu quả tăng dần theo số lần tấu nhạc.\nTấu nhạc 2 lần: Hóa giải ngẫu nhiên thêm 2 trạng thái debuff hoặc hiệu ứng khống chế của đồng minh.\nTấu nhạc 3 lần: Khiến các đồng minh khác nhận thêm 20% giảm sát thương, duy trì trong 2 hiệp.\nTấu nhạc 4 lần: Hiệu quả hóa giải tăng lên thành 4 hiệu ứng.",
         "en": "",
         "zh": ""
       },
@@ -265,7 +266,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "Lấy \"Thanh\" làm nhịp điệu tấu nhạc, gây cho toàn thể kẻ địch lượng sát thương gián tiếp bằng 10% giới hạn máu của Ngôn Hòa (sát thương tự thân gây ra không vượt quá 1200% tấn công ban đầu), hiệu quả tăng dần theo số lần tấu nhạc.\nTấu nhạc 2 lần: Đẩy lùi 10% thanh hành động của toàn thể kẻ địch.\nTấu nhạc 3 lần: Hóa giải ngẫu nhiên thêm 2 trạng thái giảm ích hoặc hiệu ứng khống chế của đồng minh.\nTấu nhạc 4 lần: Sát thương gián tiếp tăng lên thành 15% giới hạn máu.",
+        "vi": "Lấy \"Thanh\" làm nhịp điệu tấu nhạc, gây cho toàn thể kẻ địch lượng sát thương gián tiếp bằng 10% giới hạn máu của Ngôn Hòa (sát thương tự thân gây ra không vượt quá 1200% tấn công ban đầu), hiệu quả tăng dần theo số lần tấu nhạc.\nTấu nhạc 2 lần: Đẩy lùi 10% thanh hành động của toàn thể kẻ địch.\nTấu nhạc 3 lần: Hóa giải ngẫu nhiên thêm 2 trạng thái debuff hoặc hiệu ứng khống chế của đồng minh.\nTấu nhạc 4 lần: Sát thương gián tiếp tăng lên thành 15% giới hạn máu.",
         "en": "",
         "zh": ""
       },

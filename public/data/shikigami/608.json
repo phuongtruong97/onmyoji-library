@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -66,7 +67,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "Mượn sức mạnh của đá và nham thạch, gây sát thương bằng 41% công kích chia làm 3 đoạn.",
+        "vi": "Mượn sức mạnh của đá và nham thạch, gây sát thương bằng 41% Tấn Công kích chia làm 3 đoạn.",
         "en": "",
         "zh": ""
       },
@@ -124,7 +125,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "[tips_11]. Không thể hồi sinh.\nKhi bắt đầu chiến đấu, ngưng luyện sinh mệnh ban đầu của bản thân thành 4 [buff_6082_1] và ghi lại các thuộc tính ban đầu của tất cả thức thần.\nKhi chịu sát thương chí mạng, tiêu hao 1 [buff_6082_1], nhận lại lượng sinh mệnh chứa trong đó.\nKhi phe ta bắt đầu chiến đấu và bắt đầu hiệp đấu, nhận được [buff_6082_2] có giá trị bằng 24% công kích ban đầu của Thạch Trường Cơ.\n[Thi triển]: [tips_608] thức thần chỉ định ngoài bản thân.",
+        "vi": "[tips_11] Không thể hồi sinh.\nKhi bắt đầu chiến đấu, ngưng luyện sinh mệnh ban đầu của bản thân thành 4 [buff_6082_1] và ghi lại các thuộc tính ban đầu của tất cả thức thần.\nKhi chịu sát thương chí tử, tiêu hao 1 [buff_6082_1], nhận lại lượng sinh mệnh chứa trong đó.\nKhi phe ta bắt đầu chiến đấu và bắt đầu hiệp đấu, nhận được [buff_6082_2] có giá trị bằng 24% Tấn Công kích ban đầu của Thạch Trường Cơ.\n[Thi triển]: [tips_608] thức thần chỉ định ngoài bản thân.",
         "en": "",
         "zh": ""
       },

@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 314,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "medium",
+  "verdict": "AoE gắn cấm hồi sinh có giá trị ở màn đặc thù, nhưng sát thương và độ đa dụng không còn cạnh tranh",
+  "summary": "《Sesshomaru》 dùng [Minh Đạo Tàn Nguyệt Phá] đánh toàn thể và gắn {−Cấm Hồi Sinh} trong hai lượt. [Thiên Sinh Nha Kết Giới] giảm một phần sát thương nhận vào và mỗi lượt một lần có thể đỡ đòn chí mạng, tạm miễn sát thương tới lượt kế tiếp rồi chịu trạng thái bất lợi. Cơ chế chống hồi sinh từng có giá trị PvP và vẫn xuất hiện trong thử thách đặc thù năm 2025, nhưng anh không còn là chủ lực phổ dụng.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4,
+      "note": "AoE một hit không cạnh tranh với đội farm hiện đại."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 4.5,
+      "note": "Chống hồi sinh chỉ hữu ích khi luật màn yêu cầu."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 5,
+      "note": "Cấm hồi sinh toàn đội có giá trị ngách, nhưng dễ bị kháng và sát thương thấp."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 2.5,
+      "note": "Crossover khó kiếm và phạm vi sử dụng quá hẹp."
+    }
+  ],
+  "strengths": [
+    "[Minh Đạo Tàn Nguyệt Phá] gắn {−Cấm Hồi Sinh} lên toàn bộ kẻ địch.",
+    "[Thiên Sinh Nha Kết Giới] có thể chặn một đòn chí mạng mỗi lượt.",
+    "Đòn thường làm giảm 20% Phòng thủ, hỗ trợ kết liễu mục tiêu."
+  ],
+  "weaknesses": [
+    "Cấm hồi sinh chịu kiểm tra Hiệu quả chính xác/Kháng hiệu ứng.",
+    "AoE một hit và hệ số hiện tại không đủ làm chủ lực farm.",
+    "Sau khi chặn chí mạng sẽ chịu trạng thái bất lợi, nhịp tấn công bị giảm."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không có việc làm PvE thường nhật. Video tháng 3/2025 dùng anh trong thử thách có cơ chế hồi sinh, cho thấy giá trị chỉ xuất hiện khi luật màn yêu cầu cấm hồi sinh."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Có thể gắn cấm hồi sinh toàn đội trước khi đồng minh kết liễu, đồng thời bị động giúp tránh bị hạ ngay trong một đòn. Tuy nhiên đội hiện đại thường có cách xử lý ổn định hơn và không phải dựa vào debuff có thể bị kháng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "AoE mở màn: 〈Phá Thế〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích.",
+        "Ưu tiên gắn cấm hồi sinh: 〈Chiêu Tài Miêu〉 hoặc bộ hỗ trợ theo đội; Tốc độ – Hiệu quả chính xác – HP/Công. Chấp nhận giảm sát thương để tăng độ ổn định của debuff."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "杀生丸就业，此处禁止复活",
+      "publisher": "YouTube · 鸽海成路的鸽窝",
+      "url": "https://www.youtube.com/watch?v=XJ9R396D9-I",
+      "usedFor": "xác nhận việc làm theo cơ chế cấm hồi sinh gần đây",
+      "publishedAt": "16/03/2025"
+    },
+    {
+      "title": "杀生丸技能及御魂搭配阵容推荐",
+      "publisher": "九游",
+      "url": "https://www.9game.cn/yys/9714840.html",
+      "usedFor": "đối chiếu Phá Thế và cơ chế sinh tồn"
+    }
+  ]
+}

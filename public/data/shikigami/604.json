@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "把你的运气借来用用！"
       },
       "description": {
-        "vi": "[tips_11].\nXúc xắc xoay thời vận, họa phúc nối đuôi nhau. Khi bắt đầu trận đấu và khi hành động nhận hoặc làm mới [buff_6041_1]. Khi nhận hoặc làm mới [buff_6041_1], toàn bộ phe ta hồi phục lượng HP bằng 98% Tấn công ban đầu của Bất Tương Hồ Thiền. Khi [buff_6041_1] biến mất hoặc làm mới không phải lần đầu, toàn bộ phe địch mất đi lượng HP bằng 78% Tấn công ban đầu của Bất Tương Hồ Thiền. Sau khi Xí Ngầu Ảo Tượng biến mất hoặc làm mới, tăng 20% Thanh Hành Động\n[Thi triển] Chắc chắn đính kèm [buff_6042_1] cho Thức Thần phe địch, duy trì đến khi Lá chắn [buff_6041_1] biến mất.",
-        "en": "[tips_11].\nFortune rolls and fate flips. At the start of battle and each turn, gains or refreshes [buff_6041_1]. When gains or refreshes [buff_6041_1], all allies recover HP equal to 98% of Fuzenkitsune's starting ATK. When [buff_6041_1] disappears or refreshes beyond the first time, all enemies lose HP equal to 78% of Fuzenkitsune's starting ATK. After the Phantom Dice disappears or refreshes, raises Move Bar by 20%.\n[Cast] Always inflicts [buff_6042_1] on enemy shikigami, lasting until the shield from [buff_6041_1] disappears.",
+        "vi": "[tips_11]\nXúc xắc xoay thời vận, họa phúc nối đuôi nhau. Khi bắt đầu trận đấu và khi hành động nhận hoặc làm mới [buff_6041_1]. Khi nhận hoặc làm mới [buff_6041_1], toàn bộ phe ta hồi phục lượng HP bằng 98% Tấn công ban đầu của Bất Tương Hồ Thiền. Khi [buff_6041_1] biến mất hoặc làm mới không phải lần đầu, toàn bộ phe địch mất đi lượng HP bằng 78% Tấn công ban đầu của Bất Tương Hồ Thiền. Sau khi Xí Ngầu Ảo Tượng biến mất hoặc làm mới, tăng 20% Thanh Hành Động\n[Thi triển] Chắc chắn đính kèm [buff_6042_1] cho Thức Thần phe địch, duy trì đến khi Lá chắn [buff_6041_1] biến mất.",
+        "en": "[tips_11]\nFortune rolls and fate flips. At the start of battle and each turn, gains or refreshes [buff_6041_1]. When gains or refreshes [buff_6041_1], all allies recover HP equal to 98% of Fuzenkitsune's starting ATK. When [buff_6041_1] disappears or refreshes beyond the first time, all enemies lose HP equal to 78% of Fuzenkitsune's starting ATK. After the Phantom Dice disappears or refreshes, raises Move Bar by 20%.\n[Cast] Always inflicts [buff_6042_1] on enemy shikigami, lasting until the shield from [buff_6041_1] disappears.",
         "zh": "[tips_11]。\n骰转时运，福祸更替。战斗开始和行动时获得或刷新[buff_6041_1]。获得或刷新[buff_6041_1]时，友方全体恢复等同于不相狐禅初始攻击98%的生命值。[buff_6041_1]消失或非首次刷新时，敌方全体失去等同于不相狐禅初始攻击78%的生命值。幻象骰子消失或刷新后，提升20%行动条\n【施放】必定对敌方式神施加[buff_6042_1]，持续至[buff_6041_1]护盾消失。"
       },
       "upgrades": [

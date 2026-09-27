@@ -1,0 +1,79 @@
+{
+  "shikigamiId": 348,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ PvP kiểm soát Quỷ Hỏa và mạnh dần theo trận; đạt 30/100 lửa thu thập sẽ tạo các mốc bùng nổ lớn nhưng cần thời gian và bảo vệ nội tại",
+  "summary": "《Phù Thế Thanh Hành Đăng》 gắn {−Lược Hỏa}, khiến lần dùng kỹ năng đầu của mục tiêu tốn thêm 1 Quỷ Hỏa. [Quỳnh Đăng Hoán Dạ] thu thập lửa từ nhiều nguồn, mỗi điểm tạo một tầng {+Bất Tức} tăng 1% Công và Phòng thủ toàn đội. Mỗi 30 điểm cô tự tung [Cáo Tử Minh Đăng] miễn phí; đủ 100 điểm mở [Phù Thế Chung Thoát], bốn hit 1200% chia đều toàn địch. Bộ kỹ năng mạnh trong trận dài nhưng bị phong ấn nội tại sẽ ngừng tích lửa.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4,
+      "note": "Các mốc 30/100 lửa quá chậm cho phần lớn nội dung farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Buff Công–Phòng thủ tăng dần và đại chiêu 100 lửa mạnh, nhưng cần đội sinh lửa và thời gian."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7.5,
+      "note": "Ép chi phí kỹ năng, tăng chỉ số toàn đội và tạo áp lực lớn trong giao tranh kéo dài."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Thiên PvP dài lượt, cần đội hình và hiểu cơ chế Quỷ Hỏa; không phải ưu tiên sớm."
+    }
+  ],
+  "strengths": [
+    "{−Lược Hỏa} khiến lần thi triển kỹ năng đầu của mục tiêu tốn thêm 1 Quỷ Hỏa, vô hiệu với quái vật và vật triệu hồi.",
+    "Mỗi lửa thu thập tạo 1 tầng {+Bất Tức}, tăng 1% Công và 1% Phòng thủ toàn đội, tối đa 100 tầng và không mất khi hồi sinh.",
+    "Mỗi 30 lửa tự dùng [Cáo Tử Minh Đăng] miễn phí; 100 lửa mở [Phù Thế Chung Thoát] với 4 hit 1200% chia đều cho toàn thể địch."
+  ],
+  "weaknesses": [
+    "Cần tích 30 hoặc 100 Quỷ Hỏa nên phát huy chậm; trận ngắn thường kết thúc trước mốc bùng nổ.",
+    "Bị phong ấn nội tại sẽ ngừng thu thập Quỷ Hỏa và mất phần lớn giá trị.",
+    "[Cáo Tử Minh Đăng] chủ động cần 3 Quỷ Hỏa; cô không tự miễn khống chế dù {+Bất Tức} tăng phòng thủ."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Chỉ phù hợp sự kiện hoặc ải dài có nhiều lượt và nguồn lửa lớn. {−Lược Hỏa} không tác dụng lên quái vật, nên phần kiểm soát tài nguyên cốt lõi bị mất trong PvE."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Đi cùng thức thần sinh Quỷ Hỏa và đội kéo/đẩy thanh để tăng số lượt, từ đó tích {+Bất Tức} nhanh hơn. Khi chọn mục tiêu cho [Cáo Tử Minh Đăng], ưu tiên đơn vị cần ép thêm chi phí kỹ năng bằng {−Lược Hỏa}."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Khắc chế tài nguyên: 〈Mộc Mị〉; Tốc độ – HP – HP/Kháng Hiệu Ứng, tăng sống sót để tích lửa dài hạn.",
+        "Xoay lượt: 〈Chiêu Tài Miêu〉; Tốc độ – HP – HP. Nhiều hit tự động có thể dùng 〈Nhật Nữ Tỵ Thời〉 để đẩy thanh đối thủ, nhưng chỉ khi đội đã đủ lửa và cô đủ bền."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "浮世青行燈の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/浮世青行燈.html",
+      "usedFor": "đối chiếu các mốc 30/100 lửa, buff toàn đội và Mộc Mị/Chiêu Tài/Nhật Nữ"
+    },
+    {
+      "title": "浮世青行灯",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/浮世青行灯/49765689",
+      "usedFor": "đối chiếu vai trò nội tại, đại chiêu 100 lửa và điểm yếu phong ấn"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "shikigamiId": 574,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực phản kích PvP xoay quanh Âm Dương Sư, Lá chắn và đòn đánh thường; có thể gây áp lực dài hơi nhưng cần đúng đội hình",
+  "summary": "《Tâm Hữu Khuyển Thần》 đặt {−Dấu Ấn Chim Sẻ} bằng đánh thường, rồi phối hợp với đòn đánh thường của Âm Dương Sư để tích đủ 5 tầng và tung [Tước Linh · Thiên Tâm Trảm] năm hit. [Lãng Khách Quy Đao] tốn 3 Quỷ Hỏa, cấp Lá chắn cho anh, Âm Dương Sư và đồng minh thấp HP nhất, đồng thời mở {+Hội Tâm Thủ Thế}; mỗi khi đồng minh có Lá chắn bị đánh, anh phản kích AoE bằng [Nhất Thệ Quy Tâm]. Đây là cơ chế PvP phản công rõ rệt, nhưng phụ thuộc cách chọn kỹ năng của Âm Dương Sư và không có hiệu suất farm PvE.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3.5,
+      "note": "Cần nhiều lần đánh thường và phản kích nên không hợp đội farm nhanh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5,
+      "note": "Có nhiều đòn ngoài lượt nhưng phụ thuộc boss tấn công vào Lá chắn và đội hình riêng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7.5,
+      "note": "Tạo Lá chắn, phản kích AoE và phối hợp Âm Dương Sư tốt trong đội phản công."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4,
+      "note": "Không giúp tiến độ farm và cần bộ Ngự Hồn cùng đội PvP chuyên biệt."
+    }
+  ],
+  "strengths": [
+    "[Lãng Khách Quy Đao] có Tiên Cơ, cấp Lá chắn bằng 120% Công cho ba mục tiêu quan trọng ngay khi vào trận.",
+    "{+Hội Tâm Thủ Thế} cho anh nhận 50% Phòng thủ ban đầu của Âm Dương Sư và phản kích AoE khi đồng minh có Lá chắn bị đánh.",
+    "Đánh thường vào mục tiêu có {−Dấu Ấn Chim Sẻ} kéo Âm Dương Sư 10% thanh, tăng Công và Hiệu quả chính xác tối đa 3 tầng.",
+    "Khi Âm Dương Sư gây sát thương lên mục tiêu có dấu, anh hiệp chiến; đủ 5 tầng dấu sẽ lập tức tung đòn đánh thường cường hóa năm hit."
+  ],
+  "weaknesses": [
+    "Phần lớn sức mạnh cần Âm Dương Sư đánh đúng mục tiêu và đội duy trì Lá chắn; vận hành sai sẽ mất nhiều hiệp chiến.",
+    "Đại chiêu tốn 3 Quỷ Hỏa và Lá chắn tính theo Công, buộc cân bằng giữa sát thương với khả năng sống sót.",
+    "[Nhất Thệ Quy Tâm] chỉ phản kích tối đa một lần trong một lượt đơn và bốn lần trước lượt kế tiếp của anh.",
+    "Vai trò gần như thuần PvP/Đạo Quán; các đội PvE tối ưu không muốn chờ đối phương tấn công để tạo sát thương."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không nên nuôi làm chủ lực farm. Sát thương tốt nhất đòi hỏi nhiều lần đánh thường, Âm Dương Sư tham gia và kẻ địch đánh vào mục tiêu có Lá chắn; chuỗi điều kiện này làm thời gian hoàn thành thiếu ổn định.",
+        "Có thể dùng trong Bí Văn hoặc màn sinh tồn cho phép phản kích nhiều lần, nhưng đó là phương án đội hình riêng chứ không phải việc làm PvE phổ dụng."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Tiên Cơ [Lãng Khách Quy Đao] giúp đội có ngay Lá chắn và thế phản kích. Nếu Âm Dương Sư không gây sát thương trong lượt, cuối lượt anh tự dùng [Nhất Thệ Quy Tâm]; nếu đòn này trúng mục tiêu có {−Dấu Ấn Chim Sẻ}, anh còn đánh thường thêm một lần.",
+        "Muốn khóa dấu lên mục tiêu quan trọng, cần chủ động đánh thường mục tiêu đó; nếu chỉ dựa vào phản kích AoE, dấu sẽ ưu tiên kẻ có tỷ lệ HP thấp nhất khi trên sân chưa có dấu."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Phản kích/hiệp chiến: 〈Ứng Thanh Trùng〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích. Bộ này khuếch đại lối đánh thường nhưng cần chấp nhận ít chỉ số phòng thủ hơn.",
+        "Sát thương xuyên phòng thủ: 〈Võng Thiết〉; Công – Công – Bạo kích/Sát thương bạo kích. Khống chế tình huống: 〈Mị Yêu〉 hoặc 〈Nhật Nữ Tỵ Thời〉; Tốc độ/Công – Hiệu quả chính xác/Công – Bạo kích/HP, dùng khi đội coi nhiều đòn AoE là công cụ phá nhịp hơn là nguồn sát thương chính."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "心友犬神の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/332547017379163272.html",
+      "usedFor": "đối chiếu vai trò PvP, chuỗi Dấu Ấn Chim Sẻ, hiệp chiến và giới hạn phản kích",
+      "publishedAt": "26/09/2024"
+    },
+    {
+      "title": "SP心友犬神御魂携带思路详解",
+      "publisher": "搜狐 / 飘然心甜",
+      "url": "https://www.sohu.com/a/809286096_121687421",
+      "usedFor": "đối chiếu 〈Ứng Thanh Trùng〉, 〈Võng Thiết〉, 〈Mị Yêu〉, 〈Nhật Nữ Tỵ Thời〉 và trục chỉ số",
+      "publishedAt": "15/09/2024"
+    },
+    {
+      "title": "网易游戏大全与式神培养建议",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2608/1797493.html",
+      "usedFor": "đối chiếu việc làm PvP/Đạo Quán, không khuyến nghị người mới và không cần bản sao thứ hai",
+      "publishedAt": "2026"
+    }
+  ]
+}

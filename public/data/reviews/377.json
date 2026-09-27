@@ -1,0 +1,84 @@
+{
+  "shikigamiId": 377,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Khống chế PvP theo Thanh Hành Động với khả năng tự giải khống chế và kéo lượt cho đội; giá trị thấp trong PvE thông thường",
+  "summary": "《Mộng Tầm Sơn Thố》 đặt {+Mê Thố Bom} cố định tại mốc 50% Thanh Hành Động: kẻ địch đi qua sẽ chịu sát thương 150% Công, bom có thể kích hoạt hiệu ứng Ngự Hồn. Khi bom nổ lúc cô có thể hành động, cô tự dùng [Thỏ Nhẫn Vũ!!], đẩy 10% Thanh Hành Động và tăng Công toàn đội, đồng thời tích {+Mộng Nhẫn Pháp}. [Thụ Mộng Chi Loạn Vũ!] còn có 30% xác suất cơ bản gây {−Biến Hình} lên mục tiêu chọn rồi mới gây AoE.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3,
+      "note": "Cơ chế bom và khống chế không đem lại hiệu suất farm ổn định."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 3.5,
+      "note": "Boss thường kháng khống chế, trong khi sát thương không đủ thay vai trò chủ lực."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Bom ép nhịp Thanh Hành Động, kích hoạt Ngự Hồn khống chế và liên tục kéo lượt cho đội."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Chuyên dụng cho PvP và đòi hỏi Tốc độ, Chính Xác Hiệu Ứng cùng hiểu biết thứ tự lượt."
+    }
+  ],
+  "strengths": [
+    "{+Mê Thố Bom} nằm ở mốc 50% Thanh Hành Động, tối đa 9 quả; mỗi lần nổ gây 150% Công, bỏ qua 150 Phòng thủ và giảm 30% Kháng Hiệu Ứng của mục tiêu trong 1 lượt.",
+    "Bom có thể kích hoạt hiệu ứng Ngự Hồn, cho phép dùng 〈Tuyết U Hồn〉, 〈Mị Yêu〉 hoặc 〈Chung Linh〉 để khống chế ngoài lượt.",
+    "Sau mỗi 5 lượt của mục tiêu địch không phải vật triệu hồi, cô tự xua một hiệu ứng khống chế; nếu không có gì để xua và có thể hành động, cô đặt miễn phí thêm 2 bom."
+  ],
+  "weaknesses": [
+    "Hiệu quả phụ thuộc kẻ địch đi qua mốc 50% Thanh Hành Động; đội đứng yên, miễn khống chế hoặc kháng cao làm giảm mạnh áp lực.",
+    "Xác suất cơ bản của {−Biến Hình} chỉ 30%, nên cần Chính Xác Hiệu Ứng cao và vẫn không bảo đảm qua Kháng của mục tiêu.",
+    "Gần như là thức thần PvP; trong PvE, cơ chế khống chế và kéo lượt không bù được một vị trí gây sát thương/hỗ trợ chuyên dụng."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": []
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Dùng [Mộng Tâm Mê Thố Trận!] đặt 3 bom rồi tận dụng lượt di chuyển của địch để kích hoạt Ngự Hồn khống chế. Khi bom nổ và cô không bị hạn chế hành động, [Thỏ Nhẫn Vũ!!] đẩy 10% Thanh Hành Động toàn đội; nhiều bom nổ đồng thời chỉ kích hoạt một lần đẩy lượt, không cộng dồn theo số bom.",
+        "[Thụ Mộng Chi Loạn Vũ!] tốn 3 Quỷ Hỏa, tự tăng 30% Chính Xác Hiệu Ứng trong 2 lượt và thử gây {−Biến Hình} lên mục tiêu quan trọng. Mỗi tầng {+Mộng Nhẫn Pháp} tăng 20% sát thương của kỹ năng này, tối đa 9 tầng rồi tiêu hao hết sau khi dùng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Ưu tiên 〈Tuyết U Hồn〉: Tốc độ – Chính Xác Hiệu Ứng – HP; lấy thêm Tốc độ và Chính Xác Hiệu Ứng ở thuộc tính phụ. Nhiều lần sát thương từ bom giúp bộ này tạo khống chế ổn định hơn.",
+        "〈Mị Yêu〉 là lựa chọn khống chế thay thế; 〈Chung Linh〉 dùng khi đội muốn thêm khả năng Choáng. Cả ba đều dựa vào việc bom kích hoạt hiệu ứng Ngự Hồn, vì vậy không nên chuyển sang lối sát thương thuần nếu mục tiêu là PvP."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "夢尋山兎の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/193129042549980460.html",
+      "usedFor": "đối chiếu bom kích hoạt Ngự Hồn, giới hạn đẩy lượt và lựa chọn Tuyết U Hồn/Mị Yêu"
+    },
+    {
+      "title": "SP梦寻山兔式神攻略",
+      "publisher": "小米游戏中心",
+      "url": "https://game.xiaomi.com/viewpoint/1359077112_1675408824535_100",
+      "usedFor": "đối chiếu vai trò PvP và lựa chọn Ngự Hồn khống chế"
+    },
+    {
+      "title": "SP梦寻山兔御魂搭配",
+      "publisher": "小米游戏中心",
+      "url": "https://game.xiaomi.com/viewpoint/1359077112_1660893097201_13",
+      "usedFor": "đối chiếu Tốc độ–Chính Xác Hiệu Ứng–HP và các bộ Tuyết U Hồn/Mị Yêu/Chung Linh"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "shikigamiId": 364,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực AoE mở màn rất mạnh cho farm và phó bản tốc chiến; cần kiểm soát Lý Tính để không quay sang đánh đồng đội",
+  "summary": "《Asura》 dùng [Luyện Ngục Ngược Sát] gây sát thương lớn lên toàn bộ địch rồi tiêu từng điểm Lý Tính để truy kích mục tiêu thấp máu. Khả năng dọn quái nhanh giúp anh vẫn là lựa chọn PvE đáng đầu tư, đặc biệt khi cần một đòn mở màn mạnh. Rủi ro cốt lõi là sau khi hạ mục tiêu và mất Lý Tính, [Vô Gian Sát Lục] có thể đánh ngẫu nhiên cả đồng minh cho đến khi hồi đủ 9 điểm.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "AoE hệ số cao kèm truy kích, rất phù hợp farm và đội một lượt."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Sát thương vẫn tốt nhưng cơ chế Lý Tính làm vận hành dài lượt khó hơn."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6.5,
+      "note": "Có thể kết liễu tốc chiến nhưng dễ bị khống chế trước khi ra tay và có rủi ro mất Lý Tính."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8.5,
+      "note": "Một trong những chủ lực farm dễ tạo giá trị nhất nếu có đội cấp lửa."
+    }
+  ],
+  "strengths": [
+    "[Luyện Ngục Ngược Sát] vừa đánh AoE hệ số cao vừa truy kích theo số điểm Lý Tính.",
+    "Ưu tiên truy kích kẻ địch thấp máu, có khả năng dọn sạch nhiều mục tiêu trong một lượt.",
+    "Công cơ bản và Tốc độ cao, phù hợp các đội PvE căn tốc chính xác."
+  ],
+  "weaknesses": [
+    "Sau khi hạ mục tiêu và mất Lý Tính, có thể tự động tấn công cả đồng minh.",
+    "PvP tốc chiến dễ thất bại nếu không giành được lượt hoặc không kết liễu đúng mục tiêu."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Hướng chính là chủ lực mở màn cho Thám Hiểm, Ngự Hồn, Ngự Linh và sự kiện có nhiều mục tiêu. 〈Phá Thế〉 ổn định khi đánh từ đầy HP; 〈Cuồng Cốt〉 mạnh hơn trong đội còn nhiều Quỷ Hỏa và thường ghép 〈Hoang Khô Lâu〉 hoặc 〈Quỷ Linh Ca Kỹ〉 theo số mục tiêu/cơ chế màn.",
+        "Phải căn thứ tự đồng đội sau Asura để họ sống sót nếu anh mất Lý Tính. Có 《Đế Thích Thiên》 cùng phe giúp hồi thêm 3 Lý Tính cuối lượt của anh, nhưng không phải mọi đội farm đều cần ghép cặp này."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Có thể dùng trong đội kéo lượt để dồn sát thương một lượt, thường với 〈Phá Thế〉. Đây là hướng mạo hiểm: nếu giết một mục tiêu nhưng không kết thúc trận, trạng thái mất Lý Tính có thể làm anh tấn công đồng minh ở vòng sau."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE đủ Quỷ Hỏa: 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉 hoặc 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích. Căn Tốc độ chính xác theo phó bản.",
+        "Farm/PvP một lượt: 〈Phá Thế〉; Công – Công – Bạo kích/Sát thương bạo kích. Ưu tiên đủ Bạo kích, sau đó Công × Sát thương bạo kích và ngưỡng Tốc độ của đội."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师：狂骨与输出御魂搭配指南",
+      "publisher": "新浪财经 / 中关村在线",
+      "url": "https://finance.sina.com.cn/roll/2026-01-21/doc-inhiaemt5411286.shtml",
+      "usedFor": "đối chiếu Cuồng Cốt trong PvE hiện tại",
+      "publishedAt": "21/01/2026"
+    },
+    {
+      "title": "阴阳师御魂输出篇：狂荒搭配指南",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1140/11402104.html",
+      "usedFor": "đối chiếu Cuồng Cốt + Ca Kỹ/Hoang Khô Lâu",
+      "publishedAt": "03/03/2026"
+    },
+    {
+      "title": "阿修羅の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/157023536039380889.html",
+      "usedFor": "đối chiếu vai trò farm, truy kích và cơ chế Lý Tính"
+    },
+    {
+      "title": "阿修罗",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/阿修罗/57067542?fromModule=lemma_inlink",
+      "usedFor": "đối chiếu Phá Thế, Cuồng Cốt và yêu cầu căn Tốc độ theo phó bản"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -125,7 +126,7 @@
       },
       "description": {
         "vi": "[tips_11] Cát Diệp khi thi triển yêu thuật ngoài [skill_5974_1] nhận 1 tầng [buff_5971_1]. Đồng minh khác không phải vật triệu hồi nhận kỹ năng [skill_5976_1]. Khi đồng minh nhận [buff_5972_1], tăng 75 điểm Tốc độ cho Cát Diệp, tối đa 3 lần, duy trì 1 lượt. Khi trận đấu bắt đầu, nhận 1 tầng [buff_5972_1], duy trì 1 lượt.\n[Thi triển] Giúp bản thân nhận 1 tầng [buff_5972_1], duy trì 1 lượt; giúp mục tiêu đồng minh chỉ định tăng 40% Thanh Hành Động, và nhận 3 tầng [buff_5972_1], duy trì 1 lượt.",
-        "en": "[tips_11]. When Kuzunoha casts a skill other than [skill_5974_1], gains 1 stack of [buff_5971_1]. Other non-summoned entity allies gain the [skill_5976_1] skill. When an ally gains [buff_5972_1], increases Kuzunoha's SPD by 75 (up to 3 times), lasting for 1 turn. At the start of battle, gains 1 stack of [buff_5972_1], lasting for 1 turn.\nActive skill: Grants self 1 stack of [buff_5972_1], lasting for 1 turn; raises a designated ally's Move Bar by 40% and grants them 3 stacks of [buff_5972_1], lasting for 1 turn.",
+        "en": "[tips_11] When Kuzunoha casts a skill other than [skill_5974_1], gains 1 stack of [buff_5971_1]. Other non-summoned entity allies gain the [skill_5976_1] skill. When an ally gains [buff_5972_1], increases Kuzunoha's SPD by 75 (up to 3 times), lasting for 1 turn. At the start of battle, gains 1 stack of [buff_5972_1], lasting for 1 turn.\nActive skill: Grants self 1 stack of [buff_5972_1], lasting for 1 turn; raises a designated ally's Move Bar by 40% and grants them 3 stacks of [buff_5972_1], lasting for 1 turn.",
         "zh": "[tips_11]。葛叶施放「[skill_5974_1]外的妖术获得1层[buff_5971_1]。其他非召唤物友方获得技能「[skill_5976_1]。友方获得[buff_5972_1]时，提升葛叶75点速度，至多3次，持续1回合。战斗开始时，获得1层[buff_5972_1]，持续1回合。\n【施放】使自身获得1层[buff_5972_1]，持续1回合；使指定友方目标提升40%行动条，并获得3层[buff_5972_1]，持续1回合。"
       },
       "upgrades": [
@@ -182,7 +183,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "Chọn thức thần phe ta, loại bỏ toàn bộ trạng thái giảm ích của kẻ đó, khiến kẻ đó tiến vào hiệu ứng [tips_5976], hợp thể với kẻ đó thành [tips_5975] và nhận lượt mới; hoặc chọn thức thần phe ta giải trừ hiệu ứng [tips_5976].",
+        "vi": "Chọn thức thần phe ta, loại bỏ toàn bộ trạng thái debuff của kẻ đó, khiến kẻ đó tiến vào hiệu ứng [tips_5976], hợp thể với kẻ đó thành [tips_5975] và nhận lượt mới; hoặc chọn thức thần phe ta giải trừ hiệu ứng [tips_5976].",
         "en": "Selects an allied shikigami to remove all their debuffs, and grant them the [tips_5976] effect, merging with them into [tips_5975] and gaining a new turn; or select an allied shikigami to remove the [tips_5976] effect.",
         "zh": "选择友方式神，移除其所有减益，使其进入[tips_5976]效果，与之合体为[tips_5975]并获得新回合；或选择友方式神解除[tips_5976]效果。"
       },

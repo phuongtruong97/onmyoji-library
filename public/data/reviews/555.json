@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 555,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Đấu sĩ lai hồi phục có thể chuyển lượng hồi dư và sát thương gián tiếp thành nguồn sát thương lớn; mạnh ở đội đánh thường/PvP và một số PvE nhưng cần tích Bồ Công Anh Chi Lực",
+  "summary": "《Miểu Niệm Huỳnh Thảo》 Tiên Cơ cho toàn đội 2 {+Hạt giống}. Khi HP giảm, một hạt biến mất và hồi 35% Công của cô; trước sát thương gián tiếp, hạt không mất, lượng sát thương được chuyển thành Bồ Công Anh Chi Lực và trị liệu tăng gấp đôi. Lượng hồi dư của đồng minh được tích thành Bồ Công Anh Chi Lực, tối đa 1800% Công ban đầu. [Huỳnh Quang Lạc Thế] tốn 2 Quỷ Hỏa, vừa gây AoE 183%, tiêu lực tích trữ để gây thêm sát thương chia đều, vừa hồi toàn đội bằng 35% Công.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7.5,
+      "note": "Có thể farm nhờ AoE nhưng cần tích lực để đạt sát thương cao nhất."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Hồi dư tích thành sát thương và đại chiêu tăng mức tiêu lực qua các lần sử dụng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Hạt giống chống sốc sát thương, khắc chế sát thương gián tiếp và đánh thường có nhiều truy kích."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7.5,
+      "note": "Vừa hồi vừa đánh, nhưng cần Ngự Hồn Công/Bạo kích tốt và đội phù hợp để tích lực."
+    }
+  ],
+  "strengths": [
+    "{+Hạt giống} biến một lần giảm HP thành trị liệu 35% Công; trước sát thương gián tiếp còn giữ hạt, trị liệu gấp đôi và chuyển sát thương thành Bồ Công Anh Chi Lực.",
+    "Bồ Công Anh Chi Lực tích tối đa 1800% Công ban đầu từ trị liệu dư, rồi được dùng làm sát thương bổ sung cho đánh thường hoặc đại chiêu.",
+    "[Huỳnh Quang Lạc Thế] vừa gây AoE vừa hồi toàn đội; mức Bồ Công Anh Chi Lực có thể tiêu tăng thêm 120% sau mỗi lần dùng hoặc khi cô nhận sát thương gián tiếp, tối đa tăng 360%."
+  ],
+  "weaknesses": [
+    "Không có đủ hồi phục dư thì Bồ Công Anh Chi Lực tích chậm, khiến sát thương bổ sung thấp hơn nhiều so với con số tối đa.",
+    "Sát thương đại chiêu từ lực tích trữ bị chia đều cho toàn bộ kẻ địch, nên không tập trung tốt vào một mục tiêu khi sân đông.",
+    "Hồi phục và sát thương đều phụ thuộc Công; muốn vừa đủ Công vừa đủ 100% Bạo kích đòi hỏi bộ Ngự Hồn khá tốt."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Ở đội dài lượt, phối hợp thêm nguồn hồi phục để tạo nhiều trị liệu dư, sau đó dùng [Huỳnh Quang Lạc Thế] chuyển lực tích trữ thành AoE. Đại chiêu lần đầu tiêu tối đa lượng bằng 340% Công ban đầu; các lần sau tăng mức tiêu 120%, nên cần thời gian mới đạt trần.",
+        "Trong farm ngắn, đừng giả định luôn có 1800% Công tích sẵn. Nếu không có nguồn hồi dư trước lượt cô, phần sát thương Bồ Công Anh sẽ thấp và chủ lực AoE thuần có thể nhanh hơn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "{+Hạt giống} giúp đội chịu cú đánh đầu và đặc biệt phản chế sát thương gián tiếp. Đánh thường tiêu lực bằng 200% Công ban đầu, sau đó cứ mỗi 345% Công lực còn lại có 30% xác suất truy kích, tối đa 3 lần; vì vậy cô phối hợp tốt với đội đánh thường/hiệp chiến."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE gây sát thương: 〈Phá Thế〉 cho cú AoE vào mục tiêu trên 70% HP, hoặc 〈Cuồng Cốt〉 khi đội giữ nhiều Quỷ Hỏa sau chi phí 2 lửa; Công – Công – Bạo kích/Sát Thương Bạo Kích, đủ 100% Bạo kích.",
+        "PvP đánh thường: 〈Ứng Thanh Trùng〉, Tốc độ/Công – Công – Bạo kích/Sát Thương Bạo Kích; tăng cơ hội hiệp chiến để khai thác các truy kích của [Lưu Quang Chi Tiễn].",
+        "Hỗ trợ PvE: 〈Hỏa Linh〉 với Công – Công – Bạo kích để vừa cấp lửa đầu trận vừa giữ trị liệu/sát thương; chỉ dùng 〈Thụ Yêu〉 khi mục tiêu chính là tăng hồi phục, chấp nhận mất bộ tăng sát thương."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "渺念蛍草の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/280391849829504080.html",
+      "usedFor": "đối chiếu cơ chế Hạt giống, tích lực, đại chiêu, đánh thường và các lựa chọn Ngự Hồn PvE/PvP"
+    },
+    {
+      "title": "SP渺念萤草御魂搭配推荐",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2309/1155795.html",
+      "usedFor": "đối chiếu Công–Công–Bạo kích, Ứng Thanh Trùng và hướng hỗ trợ"
+    }
+  ]
+}

@@ -1,0 +1,1988 @@
+{
+  "schema": 1,
+  "count": 8,
+  "bondlings": [
+    {
+      "id": 7001,
+      "order": 1,
+      "name": {
+        "vi": "Trấn Mộ Thú",
+        "en": "Tomb Guard",
+        "zh": ""
+      },
+      "bonusStat": "ATK",
+      "bonusValue": "75%",
+      "forceSkillId": 77700,
+      "forceName": {
+        "vi": "Sức Mạnh Trấn Mộ Thú",
+        "en": "Tomb Guard's Force",
+        "zh": "镇墓兽之力"
+      },
+      "forceDescription": {
+        "vi": "Khi máu của Âm Dương Sư dưới 70% HP tối đa, triệu hồi Trấn Mộ Thú giúp toàn bộ đồng minh vĩnh viễn tăng 30% sát thương bạo kích. Hiệu quả này kích hoạt tối đa 1 lần mỗi trận chiến.",
+        "en": "When the onmyoji's HP drops below 70% of their max HP, summons Tomb Guard to permanently increase all allies' Crit DMG by 30%. The effect triggers up to once each battle.",
+        "zh": "当阴阳师生命低于最大生命的70%时，召唤镇墓兽使全体友方暴击伤害永久提升30%。该效果每场战斗至多触发1次。"
+      },
+      "assets": {
+        "chibiFile": "OB01skin1.png",
+        "fullImageFile": "OB02skin1.png"
+      },
+      "reviewStatus": "CAN_KIEM_TRA"
+    },
+    {
+      "id": 7002,
+      "order": 2,
+      "name": {
+        "vi": "Hỏa Linh",
+        "en": "Azure Basan",
+        "zh": ""
+      },
+      "bonusStat": "DEF",
+      "bonusValue": "75%",
+      "forceSkillId": 77701,
+      "forceName": {
+        "vi": "Sức Mạnh Hỏa Linh",
+        "en": "Azure Basan's Force",
+        "zh": "火灵之力"
+      },
+      "forceDescription": {
+        "vi": "Sau khi chiến đấu bắt đầu nhận 2 điểm Quỷ Hỏa, sau khi kết thúc lượt của Âm Dương Sư gây 3 lần sát thương bằng 100% Tấn công cho toàn bộ kẻ địch.",
+        "en": "Grants 2 orbs at the start of battle and launches a 3-strike attack on all enemies at the end of the onmyoji's turn, dealing damage equal to 100% of the onmyoji's ATK.",
+        "zh": "战斗开始后获得2点鬼火，阴阳师回合结束后对全体敌方造成3次攻击100%的伤害。"
+      },
+      "assets": {
+        "chibiFile": "OB01skin2.png",
+        "fullImageFile": "azure.png"
+      },
+      "reviewStatus": "CAN_KIEM_TRA"
+    },
+    {
+      "id": 7003,
+      "order": 3,
+      "name": {
+        "vi": "Tỳ Cầu",
+        "en": "Snowball",
+        "zh": ""
+      },
+      "bonusStat": "ATK",
+      "bonusValue": "75%",
+      "forceSkillId": 77702,
+      "forceName": {
+        "vi": "Sức Mạnh Tỳ Cầu",
+        "en": "Snowball's Force",
+        "zh": "茨球之力"
+      },
+      "forceDescription": {
+        "vi": "Khi Âm Dương Sư thi triển kỹ năng yêu thuật tăng 100% bạo kích cho người đó, duy trì 2 hiệp; nếu Âm Dương Sư thi triển kỹ năng yêu thuật tạo ra sát thương đơn thể, giúp tăng 50%; khi chỉ tấn công một mục tiêu đơn lẻ, triệu hồi Tỳ Cầu bồi thêm 1 lần sát thương bằng 150% Tấn Công lên đối phương.",
+        "en": "When the onmyoji uses a Skill, increases their Crit by 100% for 2 turns; if single-target damage is dealt with the Skill, increases the damage by 50%; if only one target is attacked, orders Snowball to launch a follow-up strike on the enemy, dealing damage equal to 150% of the onmyoji's ATK.",
+        "zh": "阴阳师施放妖术技能时提升其100%暴击，持续2回合；若阴阳师施放妖术技能造成了单体伤害，使之提升50%；当只攻击了单个目标时，召唤茨球对其追加1次攻击150%的伤害。"
+      },
+      "assets": {
+        "chibiFile": "OB01skin3.png",
+        "fullImageFile": "OB02skin3.png"
+      },
+      "reviewStatus": "CAN_KIEM_TRA"
+    },
+    {
+      "id": 7004,
+      "order": 4,
+      "name": {
+        "vi": "Tiểu Hắc",
+        "en": "Little Kuro",
+        "zh": ""
+      },
+      "bonusStat": "HP",
+      "bonusValue": "75%",
+      "forceSkillId": 77703,
+      "forceName": {
+        "vi": "Sức Mạnh Kuro",
+        "en": "Kuro's Force",
+        "zh": "小黑之力"
+      },
+      "forceDescription": {
+        "vi": "Tiền vàng nhận được trong các trận chiến phụ bản thám hiểm tăng 5%. Sau khi hiệp của Âm Dương Sư kết thúc trị liệu lượng HP bằng 12% giới hạn HP cho đồng minh có HP thấp nhất, đồng thời tăng 30% phòng thủ cho họ, duy trì 2 hiệp.",
+        "en": "Increases the Coin yield in Exploration zone battles by 5%. At the end of the onmyoji's turn, heals the HP of the ally with the lowest HP by 12% of their max HP and increases their DEF by 30% for 2 turns.",
+        "zh": "在探索副本战斗中获取的金币提升5%。阴阳师回合结束后为生命最低的友方治疗生命上限12%的生命，并提升其30%防御，持续2回合。"
+      },
+      "assets": {
+        "chibiFile": "OB01skin4.png",
+        "fullImageFile": "OB02skin4.png"
+      },
+      "reviewStatus": "CAN_KIEM_TRA"
+    },
+    {
+      "id": 7005,
+      "order": 5,
+      "name": {
+        "vi": "Châm Nữ",
+        "en": "Seductress",
+        "zh": ""
+      },
+      "bonusStat": "ATK",
+      "bonusValue": "75%",
+      "forceSkillId": 77704,
+      "forceName": {
+        "vi": "Sức Mạnh Châm Nữ",
+        "en": "Force of Seductress",
+        "zh": "针女之力"
+      },
+      "forceDescription": {
+        "vi": "Đồng minh có Tấn Công cao nhất cứ gây ra 5 lần bạo kích, đòn tấn công tiếp theo sẽ gây thêm 1 lần sát thương chuẩn bằng 50% Tấn Công của Âm Dương Sư (không vượt quá 100% Tấn Công ban đầu); khi Âm Dương Sư gây sát thương, tấn công toàn bộ kẻ địch 3 lần, mỗi lần gây sát thương chuẩn bằng 200% lực tấn công của bản thân.",
+        "en": "For every 5 instances of Crit DMG dealt by the ally with the highest ATK, the next attack deals an additional True Damage equal to 50% of the onmyoji's ATK (not exceeding 100% of initial ATK). When the onmyoji deals damage, attacks all enemies 3 times, each dealing True Damage equal to 200% of the Onmyoji's ATK.",
+        "zh": "攻击最高的友方每造成5次暴击伤害，下次攻击额外造成1次阴阳师攻击50%的真实伤害（不超过初始攻击的100%）；阴阳师造成伤害时，攻击敌方全体3次，每次造成自身攻击200%真实伤害。"
+      },
+      "assets": {
+        "chibiFile": "OB01skin5.png",
+        "fullImageFile": "OB02skin5.png"
+      },
+      "reviewStatus": "CAN_KIEM_TRA"
+    },
+    {
+      "id": 7006,
+      "order": 6,
+      "name": {
+        "vi": "Thế Hồn",
+        "en": "Soul Edge",
+        "zh": ""
+      },
+      "bonusStat": "DEF",
+      "bonusValue": "75%",
+      "forceSkillId": 77705,
+      "forceName": {
+        "vi": "Sức Mạnh Thế Hồn",
+        "en": "Soul Edge Power",
+        "zh": "薙魂之力"
+      },
+      "forceDescription": {
+        "vi": "Khi Thức thần đồng minh gánh chịu sát thương chí tử, khôi phục HP về 20%, và do Âm Dương Sư san sẻ sát thương dư thừa (hiệu quả này giới hạn 3 lần); khi HP của Âm Dương Sư nhỏ hơn hoặc bằng 50%, Kính Hồn tấn công toàn bộ kẻ địch, gây 100% sát thương và tăng 30% sát thương cho toàn bộ đồng minh, duy trì 2 hiệp, hồi chiêu 2 hiệp.",
+        "en": "When an allied shikigami takes lethal damage, restores HP to 20% and the onmyoji shares the excess damage (this effect can trigger up to 3 times). When the onmyoji's HP is 50% or below, Soul Edge attacks all enemies, dealing 100% damage and increasing all allies' damage by 30% for 2 turns. Cooldown: 2 turns.",
+        "zh": "友方式神承受致死伤害时，将生命恢复至20%，并由阴阳师分担多余伤害（此效果限3次）；阴阳师生命小于等于50%时，薙魂攻击敌方全体，造成100%的伤害并提升友方全体30%伤害，持续2回合，冷却2回合。"
+      },
+      "assets": {
+        "chibiFile": "OB01skin6.png",
+        "fullImageFile": "OB02skin6.png"
+      },
+      "reviewStatus": "CAN_KIEM_TRA"
+    },
+    {
+      "id": 7007,
+      "order": 7,
+      "name": {
+        "vi": "Nguyệt Ma Thố",
+        "en": "Lunar Lepus",
+        "zh": ""
+      },
+      "bonusStat": "ATK",
+      "bonusValue": "75%",
+      "forceSkillId": 77706,
+      "forceName": {
+        "vi": "Sức Mạnh Nguyệt Ma Thố",
+        "en": "Lunar Lepus Power",
+        "zh": "月魔兔之力"
+      },
+      "forceDescription": {
+        "vi": "Tiên cơ: Gắn \"Nguyệt Chi Chúc Phúc\" cho Âm Dương Sư: Tốc độ tăng 30 điểm, sau khi kết thúc hiệp giúp một đồng minh khác ở vị trí đầu tiên trên Thanh Hành Động tăng 20% Thanh Hành Động.",
+        "en": "Upper Hand: Grants the onmyoji Moon Blessing: Increases SPD by 30. At the end of the turn, raises the Move Bar of another ally at the top of the turn order by 20%.",
+        "zh": "先机：为阴阳师施加「月之祝福」：速度提升30点，回合结束后使行动条最前端的另一友方增加20%行动条。"
+      },
+      "assets": {
+        "chibiFile": "OB01skin7.png",
+        "fullImageFile": "OB02skin7.png"
+      },
+      "reviewStatus": "CAN_KIEM_TRA"
+    },
+    {
+      "id": 7008,
+      "order": 8,
+      "name": {
+        "vi": "Hồ Hỏa",
+        "en": "Fox Fire",
+        "zh": ""
+      },
+      "bonusStat": "HP",
+      "bonusValue": "75%",
+      "forceSkillId": 77707,
+      "forceName": {
+        "vi": "Sức Mạnh Hồ Hỏa",
+        "en": "Fox Fire Power",
+        "zh": "狐火之力"
+      },
+      "forceDescription": {
+        "vi": "Hiệu quả chính xác tăng 30%. Sau khi Âm Dương Sư hành động 2 hiệp, triệu hồi linh hồ tấn công toàn bộ kẻ địch, gây 2 lần sát thương 100% và tăng thêm 30% hiệu quả chính xác cho Âm Dương Sư.",
+        "en": "Increases Effect HIT by 30%. After the onmyoji acts for 2 turns, summons fox spirits to attack all enemies, dealing 100% damage twice and additionally increasing the onmyoji's Effect HIT by 30%.",
+        "zh": "效果命中提升30%。阴阳师行动2回合后，召唤灵狐攻击敌方全体，造成2次100%伤害并额外提升阴阳师30%效果命中。"
+      },
+      "assets": {
+        "chibiFile": "OB01skin8.png",
+        "fullImageFile": "OB02skin8.png"
+      },
+      "reviewStatus": "CAN_KIEM_TRA"
+    }
+  ],
+  "runeGroups": [
+    {
+      "onmyojiId": 10,
+      "onmyojiName": "Seimei",
+      "runes": [
+        {
+          "id": 77800,
+          "order": 1,
+          "name": {
+            "vi": "Thuật Ấn · Loạn",
+            "en": "Rune: Chaos",
+            "zh": "术印·乱"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương do [Thuật Thức Cơ Bản] gây ra tăng thêm 10% Tấn Công của Âm Dương Sư, mức giảm sát thương do [Phù Chú · Loạn] gây ra tăng 6%.",
+                "en": "Increases Basic Skill's damage dealt by an additional amount equal to 10% of the onmyoji's ATK and increases Amulet: Chaos' damage reduced by 6%.",
+                "zh": "「基础术式」造成的伤害额外提升阴阳师攻击的10%，「符咒·乱」造成的伤害降低提升6%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương do [Thuật Thức Cơ Bản] gây ra tăng thêm 20% Tấn Công của Âm Dương Sư, mức giảm sát thương do [Phù Chú · Loạn] gây ra tăng 6%.",
+                "en": "Increases Basic Skill's damage dealt by an additional amount equal to 10% of the onmyoji's ATK and increases Amulet: Chaos' damage reduced by 12%.",
+                "zh": "「基础术式」造成的伤害额外提升阴阳师攻击的10%，「符咒·乱」造成的伤害降低提升6%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương do [Thuật Thức Cơ Bản] gây ra tăng thêm 30% Tấn Công của Âm Dương Sư, mức giảm sát thương do [Phù Chú · Loạn] gây ra tăng 18%.",
+                "en": "Increases Basic Skill's damage dealt by an additional amount equal to 10% of the onmyoji's ATK and increases Amulet: Chaos' damage reduced by 6%.",
+                "zh": "「基础术式」造成的伤害额外提升阴阳师攻击的10%，「符咒·乱」造成的伤害降低提升6%。"
+              }
+            }
+          ],
+          "iconFile": "77800.png"
+        },
+        {
+          "id": 77801,
+          "order": 2,
+          "name": {
+            "vi": "Thuật Ấn · Phược",
+            "en": "Rune: Bind",
+            "zh": "术印·缚"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Tỷ lệ chính xác cơ bản trúng hiệu quả trói buộc của [Ngôn Linh · Phược] tăng 15%, sát thương mục tiêu gánh chịu tăng thêm 5%.",
+                "en": "Increases Spell: Bind's base chance of inflicting Bind by an additional 15% and increases the damage the enemy takes by an additional 5%.",
+                "zh": "「言灵·缚」束缚效果命中的基础概率提升15%，使目标受到的伤害额外提升5%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Tỷ lệ chính xác cơ bản trúng hiệu quả trói buộc của [Ngôn Linh · Phược] tăng 30%, sát thương mục tiêu gánh chịu tăng thêm 10%.",
+                "en": "Increases Spell: Bind's base chance of inflicting Bind by an additional 15% and increases the damage the enemy takes by an additional 5%.",
+                "zh": "「言灵·缚」束缚效果命中的基础概率提升15%，使目标受到的伤害额外提升5%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Tỷ lệ chính xác cơ bản trúng hiệu quả trói buộc của [Ngôn Linh · Phược] tăng 45%, sát thương mục tiêu gánh chịu tăng thêm 15%.",
+                "en": "Increases Spell: Bind's base chance of inflicting Bind by an additional 15% and increases the damage the enemy takes by an additional 5%.",
+                "zh": "「言灵·缚」束缚效果命中的基础概率提升15%，使目标受到的伤害额外提升5%。"
+              }
+            }
+          ],
+          "iconFile": "77801.png"
+        },
+        {
+          "id": 77802,
+          "order": 3,
+          "name": {
+            "vi": "Thuật Ấn · Thủ",
+            "en": "Rune: Protect",
+            "zh": "术印·守"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Lượng hấp thụ của kết giới phòng thủ từ [Ngôn Linh · Thủ] tăng thêm 2% giới hạn HP của Âm Dương Sư.",
+                "en": "Increases the damage Spell: Protect absorbs by an additional amount equal to 2% of the onmyoji's max HP.",
+                "zh": "「言灵·守」防守结界吸收量额外提升阴阳师生命上限的2%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Lượng hấp thụ của kết giới phòng thủ từ [Ngôn Linh · Thủ] tăng thêm 4% giới hạn HP của Âm Dương Sư.",
+                "en": "Increases the damage Spell: Protect absorbs by an additional amount equal to 2% of the onmyoji's max HP.",
+                "zh": "「言灵·守」防守结界吸收量额外提升阴阳师生命上限的2%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Lượng hấp thụ của kết giới phòng thủ từ [Ngôn Linh · Thủ] tăng thêm 6% giới hạn HP của Âm Dương Sư.",
+                "en": "Increases the damage Spell: Protect absorbs by an additional amount equal to 2% of the onmyoji's max HP.",
+                "zh": "「言灵·守」防守结界吸收量额外提升阴阳师生命上限的2%。"
+              }
+            }
+          ],
+          "iconFile": "77802.png"
+        },
+        {
+          "id": 77803,
+          "order": 4,
+          "name": {
+            "vi": "Thuật Ấn · Nhất Thức",
+            "en": "Rune: Purge",
+            "zh": "术印·一式"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Ngôn Linh · Nhất Thức kích nổ phù chú gây sát thương lên mục tiêu địch tăng thêm 40% Tấn Công của Âm Dương Sư; [Hồ Ngôn · Nhất Thức] khi kích hoạt lần đầu vĩnh viễn tăng 10% phòng thủ cho toàn bộ đồng minh.",
+                "en": "Spell: Purge amulet explosions' damage dealt to the enemy target increases by an additional 40% of the onmyoji's ATK; Fox Whispers: Purge permanently increases all allies' DEF by 10% when triggered for the first time.",
+                "zh": "「言灵·一式」引爆符咒对敌方目标造成的伤害额外提升阴阳师攻击的40%；「狐言·一式」首次触发时永久提升友方全体10%防御。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Ngôn Linh · Nhất Thức kích nổ phù chú gây sát thương lên mục tiêu địch tăng thêm 80% Tấn Công của Âm Dương Sư; [Hồ Ngôn · Nhất Thức] khi kích hoạt lần đầu vĩnh viễn tăng 20% phòng thủ cho toàn bộ đồng minh.",
+                "en": "Spell: Purge amulet explosions' damage dealt to the enemy target increases by an additional 40% of the onmyoji's ATK; Fox Whispers: Purge permanently increases all allies' DEF by 10% when triggered for the first time.",
+                "zh": "「言灵·一式」引爆符咒对敌方目标造成的伤害额外提升阴阳师攻击的40%；「狐言·一式」首次触发时永久提升友方全体10%防御。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Ngôn Linh · Nhất Thức kích nổ phù chú gây sát thương lên mục tiêu địch tăng thêm 120% Tấn Công của Âm Dương Sư; [Hồ Ngôn · Nhất Thức] khi kích hoạt lần đầu vĩnh viễn tăng 30% phòng thủ cho toàn bộ đồng minh.",
+                "en": "Spell: Purge amulet explosions' damage dealt to the enemy target increases by an additional 40% of the onmyoji's ATK; Fox Whispers: Purge permanently increases all allies' DEF by 10% when triggered for the first time.",
+                "zh": "「言灵·一式」引爆符咒对敌方目标造成的伤害额外提升阴阳师攻击的40%；「狐言·一式」首次触发时永久提升友方全体10%防御。"
+              }
+            }
+          ],
+          "iconFile": "77803.png"
+        },
+        {
+          "id": 77804,
+          "order": 5,
+          "name": {
+            "vi": "Thuật Ấn · Diệt",
+            "en": "Rune: Destroy",
+            "zh": "术印·灭"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương mục tiêu gánh chịu do [Phù Chú · Diệt] gây ra tăng thêm 3%.",
+                "en": "Amulet: Death increases the damage the enemies take by an additional 3%.",
+                "zh": "「符咒·灭」使目标受到的伤害额外提升3%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương mục tiêu gánh chịu do [Phù Chú · Diệt] gây ra tăng thêm 6%.",
+                "en": "Amulet: Death increases the damage the enemies take by an additional 3%.",
+                "zh": "「符咒·灭」使目标受到的伤害额外提升3%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương mục tiêu gánh chịu do [Phù Chú · Diệt] gây ra tăng thêm 9%.",
+                "en": "Amulet: Death increases the damage the enemies take by an additional 3%.",
+                "zh": "「符咒·灭」使目标受到的伤害额外提升3%。"
+              }
+            }
+          ],
+          "iconFile": "77804.png"
+        },
+        {
+          "id": 77805,
+          "order": 6,
+          "name": {
+            "vi": "Thuật Ấn · Sinh",
+            "en": "Rune: Life",
+            "zh": "术印·生"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Phù Chú · Sinh khiến sát thương mục tiêu gánh chịu giảm thêm 5%.",
+                "en": "Amulet: Life reduces the damage the allies take by an additional 5%.",
+                "zh": "「符咒·生」使目标受到的伤害额外降低5%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Phù Chú · Sinh khiến sát thương mục tiêu gánh chịu giảm thêm 10%.",
+                "en": "Amulet: Life reduces the damage the allies take by an additional 5%.",
+                "zh": "「符咒·生」使目标受到的伤害额外降低5%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Phù Chú · Sinh khiến sát thương mục tiêu gánh chịu giảm thêm 15%.",
+                "en": "Amulet: Life reduces the damage the allies take by an additional 5%.",
+                "zh": "「符咒·生」使目标受到的伤害额外降低5%。"
+              }
+            }
+          ],
+          "iconFile": "77805.png"
+        },
+        {
+          "id": 77806,
+          "order": 7,
+          "name": {
+            "vi": "Thuật Ấn · Lôi Đế",
+            "en": "Rune: Lightning",
+            "zh": "术印·雷帝"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Tỷ lệ chính xác cơ bản kích hoạt hiệu ứng choáng của [Lôi Đế Chiêu Lai] tăng thêm 8%.",
+                "en": "Increases Divine Lightning's base chance of inflicting Daze by an additional 8%.",
+                "zh": "「雷帝召来」触发眩晕效果的基础概率额外提升8%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Tỷ lệ chính xác cơ bản kích hoạt hiệu ứng choáng của [Lôi Đế Chiêu Lai] tăng thêm 16%.",
+                "en": "Increases Divine Lightning's base chance of inflicting Daze by an additional 8%.",
+                "zh": "「雷帝召来」触发眩晕效果的基础概率额外提升8%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Tỷ lệ chính xác cơ bản kích hoạt hiệu ứng choáng của [Lôi Đế Chiêu Lai] tăng thêm 24%.",
+                "en": "Increases Divine Lightning's base chance of inflicting Daze by an additional 8%.",
+                "zh": "「雷帝召来」触发眩晕效果的基础概率额外提升8%。"
+              }
+            }
+          ],
+          "iconFile": "77806.png"
+        },
+        {
+          "id": 77807,
+          "order": 8,
+          "name": {
+            "vi": "Thuật Ấn · Tinh",
+            "en": "Rune: Star",
+            "zh": "术印·星"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Ngôn Linh · Tinh khiến sát thương do mục tiêu gây ra tăng thêm 3%.",
+                "en": "Spell: Star increases allies' damage dealt by an additional 3%.",
+                "zh": "「言灵·星」使目标造成的伤害额外提升3%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Ngôn Linh · Tinh khiến sát thương do mục tiêu gây ra tăng thêm 6%.",
+                "en": "Spell: Star increases allies' damage dealt by an additional 12%.",
+                "zh": "「言灵·星」使目标造成的伤害额外提升6%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Ngôn Linh · Tinh khiến sát thương do mục tiêu gây ra tăng thêm 9%.",
+                "en": "Spell: Star increases allies' damage dealt by an additional 9%.",
+                "zh": "「言灵·星」使目标造成的伤害额外提升9%。"
+              }
+            }
+          ],
+          "iconFile": "77807.png"
+        }
+      ]
+    },
+    {
+      "onmyojiId": 11,
+      "onmyojiName": "Kagura",
+      "runes": [
+        {
+          "id": 77808,
+          "order": 1,
+          "name": {
+            "vi": "Thuật Ấn · Tản Kích",
+            "en": "Rune: Umbrella Strike",
+            "zh": "术印·伞击"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương do [Tản Kích] gây ra tăng thêm 20% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Umbrella Strike's damage dealt by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「伞击」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương do [Tản Kích] gây ra tăng thêm 40% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Umbrella Strike's damage dealt by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「伞击」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương do [Tản Kích] gây ra tăng thêm 60% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Umbrella Strike's damage dealt by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「伞击」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            }
+          ],
+          "iconFile": "77808.png"
+        },
+        {
+          "id": 77809,
+          "order": 2,
+          "name": {
+            "vi": "Thuật Ấn · Ngư",
+            "en": "Rune: Fish",
+            "zh": "术印·鱼"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Linh Ngư Bàn Kim do [Triệu Hồi · Cá] triệu hồi kế thừa lượng HP tăng thêm 8% HP của Âm Dương Sư, kế thừa lượng Tấn Công tăng thêm 20% Tấn Công của Âm Dương Sư.",
+                "en": "Increases the HP inherited by the fish spirit Kin summoned with Summon: Fish by an additional amount equal to 8% of the onmyoji's HP and increases its ATK inherited by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「召唤·鱼」召唤的灵鱼胖金继承的生命额外提升阴阳师生命的8%，继承的攻击额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Linh Ngư Bàn Kim do [Triệu Hồi · Cá] triệu hồi kế thừa lượng HP tăng thêm 16% HP của Âm Dương Sư, kế thừa lượng Tấn Công tăng thêm 40% Tấn Công của Âm Dương Sư.",
+                "en": "Increases the HP inherited by the fish spirit Kin summoned with Summon: Fish by an additional amount equal to 8% of the onmyoji's HP and increases its ATK inherited by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「召唤·鱼」召唤的灵鱼胖金继承的生命额外提升阴阳师生命的8%，继承的攻击额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Linh Ngư Bàn Kim do [Triệu Hồi · Cá] triệu hồi kế thừa lượng HP tăng thêm 24% HP của Âm Dương Sư, kế thừa lượng Tấn Công tăng thêm 60% Tấn Công của Âm Dương Sư.",
+                "en": "Increases the HP inherited by the fish spirit Kin summoned with Summon: Fish by an additional amount equal to 8% of the onmyoji's HP and increases its ATK inherited by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「召唤·鱼」召唤的灵鱼胖金继承的生命额外提升阴阳师生命的8%，继承的攻击额外提升阴阳师攻击的20%。"
+              }
+            }
+          ],
+          "iconFile": "77809.png"
+        },
+        {
+          "id": 77810,
+          "order": 3,
+          "name": {
+            "vi": "Thuật Ấn · Tật Phong",
+            "en": "Rune: Storm",
+            "zh": "术印·疾风"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Tấn Công tăng thêm từ [Thông Linh · Tật Phong] tăng thêm 8%.",
+                "en": "Increases Channel: Storm's ATK boost by an additional 8%.",
+                "zh": "「通灵·疾风」增加的攻击额外提升8%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Tấn Công tăng thêm từ [Thông Linh · Tật Phong] tăng thêm 16%.",
+                "en": "Increases Channel: Storm's ATK boost by an additional 8%.",
+                "zh": "「通灵·疾风」增加的攻击额外提升8%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Tấn Công tăng thêm từ [Thông Linh · Tật Phong] tăng thêm 24%.",
+                "en": "Increases Channel: Storm's ATK boost by an additional 8%.",
+                "zh": "「通灵·疾风」增加的攻击额外提升8%。"
+              }
+            }
+          ],
+          "iconFile": "77810.png"
+        },
+        {
+          "id": 77811,
+          "order": 4,
+          "name": {
+            "vi": "Thuật Ấn · Minh Điệp",
+            "en": "Rune: Butterflies",
+            "zh": "术印·冥蝶"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Hiệu quả giảm trị liệu của [Thông Linh · Minh Điệp] tăng thêm 8%, tỷ lệ chính xác cơ bản gây ngủ say tăng thêm 3%.",
+                "en": "Increases Channel: Butterflies' healing effect reduced by an additional 8% and its base chance of inflicting Sleep by an additional 3%.",
+                "zh": "「通灵·冥蝶」的减疗效果额外提升8%，沉睡的基础概率额外提升3%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Hiệu quả giảm trị liệu của [Thông Linh · Minh Điệp] tăng thêm 16%, tỷ lệ chính xác cơ bản gây ngủ say tăng thêm 6%.",
+                "en": "Increases Channel: Butterflies' healing effect reduced by an additional 8% and its base chance of inflicting Sleep by an additional 3%.",
+                "zh": "「通灵·冥蝶」的减疗效果额外提升8%，沉睡的基础概率额外提升3%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Hiệu quả giảm trị liệu của [Thông Linh · Minh Điệp] tăng thêm 24%, tỷ lệ chính xác cơ bản gây ngủ say tăng thêm 9%.",
+                "en": "Increases Channel: Butterflies' healing effect reduced by an additional 8% and its base chance of inflicting Sleep by an additional 3%.",
+                "zh": "「通灵·冥蝶」的减疗效果额外提升8%，沉睡的基础概率额外提升3%。"
+              }
+            }
+          ],
+          "iconFile": "77811.png"
+        },
+        {
+          "id": 77812,
+          "order": 5,
+          "name": {
+            "vi": "Thuật Ấn · Luyện Ngục",
+            "en": "Rune: Purgatory",
+            "zh": "术印·炼狱"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương mỗi lần tấn công gây ra của [Triệu Hồi · Luyện Ngục] tăng thêm 20% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Summon: Purgatory's damage dealt on each strike by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「召唤·炼狱」每次攻击造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương mỗi lần tấn công gây ra của [Triệu Hồi · Luyện Ngục] tăng thêm 40% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Summon: Purgatory's damage dealt on each strike by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「召唤·炼狱」每次攻击造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương mỗi lần tấn công gây ra của [Triệu Hồi · Luyện Ngục] tăng thêm 60% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Summon: Purgatory's damage dealt on each strike by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「召唤·炼狱」每次攻击造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            }
+          ],
+          "iconFile": "77812.png"
+        },
+        {
+          "id": 77813,
+          "order": 6,
+          "name": {
+            "vi": "Thuật Ấn · Đường Tản",
+            "en": "Rune: Umbrella",
+            "zh": "术印·唐伞"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Triệu Hồi · Dù khiến sát thương mục tiêu gánh chịu giảm thêm 5%.",
+                "en": "Summon: Umbrella reduces the damage the allies take by an additional 5%.",
+                "zh": "「召唤·伞」使目标受到的伤害额外降低5%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Triệu Hồi · Dù khiến sát thương mục tiêu gánh chịu giảm thêm 10%.",
+                "en": "Summon: Umbrella reduces the damage the allies take by an additional 5%.",
+                "zh": "「召唤·伞」使目标受到的伤害额外降低5%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Triệu Hồi · Dù khiến sát thương mục tiêu gánh chịu giảm thêm 15%.",
+                "en": "Summon: Umbrella reduces the damage the allies take by an additional 5%.",
+                "zh": "「召唤·伞」使目标受到的伤害额外降低5%。"
+              }
+            }
+          ],
+          "iconFile": "77813.png"
+        },
+        {
+          "id": 77814,
+          "order": 7,
+          "name": {
+            "vi": "Thuật Ấn · Tục Mệnh",
+            "en": "Rune: Afterlife",
+            "zh": "术印·续命"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Triệu Hồi · Tục Mệnh khiến công thủ của mục tiêu bị vong hồn nhập thân tăng thêm 8%.",
+                "en": "Increases the ATK and DEF of the ally possessed with Summon: Afterlife by an additional 8%.",
+                "zh": "「召唤·续命」使亡魂附身的目标攻防额外提升8%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Triệu Hồi · Tục Mệnh khiến công thủ của mục tiêu bị vong hồn nhập thân tăng thêm 16%.",
+                "en": "Increases the ATK and DEF of the ally possessed with Summon: Afterlife by an additional 8%.",
+                "zh": "「召唤·续命」使亡魂附身的目标攻防额外提升8%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Triệu Hồi · Tục Mệnh khiến công thủ của mục tiêu bị vong hồn nhập thân tăng thêm 24%.",
+                "en": "Increases the ATK and DEF of the ally possessed with Summon: Afterlife by an additional 8%.",
+                "zh": "「召唤·续命」使亡魂附身的目标攻防额外提升8%。"
+              }
+            }
+          ],
+          "iconFile": "77814.png"
+        },
+        {
+          "id": 77815,
+          "order": 8,
+          "name": {
+            "vi": "Thuật Ấn · Thiên Hồ",
+            "en": "Rune: Divine Fox",
+            "zh": "术印·天狐"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Hệ số sát thương của [Thiên Hồ Thần Hỏa] tăng 10%.",
+                "en": "Divine Fire damage multiplier increased by 10%.",
+                "zh": "「天狐神火」伤害系数提升10%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Hệ số sát thương của [Thiên Hồ Thần Hỏa] tăng 20%.",
+                "en": "Divine Fire damage multiplier increased by 10%.",
+                "zh": "「天狐神火」伤害系数提升10%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Hệ số sát thương của [Thiên Hồ Thần Hỏa] tăng 30%.",
+                "en": "Divine Fire damage multiplier increased by 10%.",
+                "zh": "「天狐神火」伤害系数提升10%。"
+              }
+            }
+          ],
+          "iconFile": "77815.png"
+        }
+      ]
+    },
+    {
+      "onmyojiId": 12,
+      "onmyojiName": "Yao Bikuni",
+      "runes": [
+        {
+          "id": 77824,
+          "order": 1,
+          "name": {
+            "vi": "Thuật Ấn · Tinh Quang",
+            "en": "Rune: Starlight",
+            "zh": "术印·星光"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương do [Tinh Chi Quang] gây ra tăng thêm 20% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Starlight Blast's damage dealt by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「星之光」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương do [Tinh Chi Quang] gây ra tăng thêm 40% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Starlight Blast's damage dealt by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「星之光」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương do [Tinh Chi Quang] gây ra tăng thêm 60% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Starlight Blast's damage dealt by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「星之光」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            }
+          ],
+          "iconFile": "77824.png"
+        },
+        {
+          "id": 77825,
+          "order": 2,
+          "name": {
+            "vi": "Thuật Ấn · Tinh Chú",
+            "en": "Rune: Curse",
+            "zh": "术印·星咒"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Tỷ lệ chính xác cơ bản phong ấn của [Tinh Chi Chú] tăng 10%.",
+                "en": "Increases Starlight Curse's base chance of inflicting Seal by an additional 10%.",
+                "zh": "「星之咒」封印的基础概率提升10%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Tỷ lệ chính xác cơ bản phong ấn của [Tinh Chi Chú] tăng 20%.",
+                "en": "Increases Starlight Curse's base chance of inflicting Seal by an additional 10%.",
+                "zh": "「星之咒」封印的基础概率提升10%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Tỷ lệ chính xác cơ bản phong ấn của [Tinh Chi Chú] tăng 30%.",
+                "en": "Increases Starlight Curse's base chance of inflicting Seal by an additional 10%.",
+                "zh": "「星之咒」封印的基础概率提升10%。"
+              }
+            }
+          ],
+          "iconFile": "77825.png"
+        },
+        {
+          "id": 77826,
+          "order": 3,
+          "name": {
+            "vi": "Thuật Ấn · Dự Tri",
+            "en": "Rune: Clairvoyance",
+            "zh": "术印·预知"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Thời gian hồi chiêu của [Dự Tri] bị hủy bỏ, xác suất đồng minh được bảo hộ bạo kích kích hoạt hiệu quả khôi phục HP tăng 20%, sát thương gây ra khi kích hoạt tăng thêm 8%.",
+                "en": "Removes Clairvoyance's cooldown. Also increases its chance of triggering HP recovery for allies with the protective effect by 20% and their damage dealt when it's triggered by an additional 8%.",
+                "zh": "「预知」冷却时间取消，守护的友方暴击触发回复生命效果的概率提升20%，触发时造成的伤害额外提升8%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Thời gian hồi chiêu của [Dự Tri] bị hủy bỏ, xác suất đồng minh được bảo hộ bạo kích kích hoạt hiệu quả khôi phục HP tăng 40%, sát thương gây ra khi kích hoạt tăng thêm 16%.",
+                "en": "Removes Clairvoyance's cooldown. Also increases its chance of triggering HP recovery for allies with the protective effect by 20% and their damage dealt when it's triggered by an additional 8%.",
+                "zh": "「预知」冷却时间取消，守护的友方暴击触发回复生命效果的概率提升20%，触发时造成的伤害额外提升8%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Thời gian hồi chiêu của [Dự Tri] bị hủy bỏ, xác suất đồng minh được bảo hộ bạo kích kích hoạt hiệu quả khôi phục HP tăng 60%, sát thương gây ra khi kích hoạt tăng thêm 24%.",
+                "en": "Removes Clairvoyance's cooldown. Also increases its chance of triggering HP recovery for allies with the protective effect by 20% and their damage dealt when it's triggered by an additional 8%.",
+                "zh": "「预知」冷却时间取消，守护的友方暴击触发回复生命效果的概率提升20%，触发时造成的伤害额外提升8%。"
+              }
+            }
+          ],
+          "iconFile": "77826.png"
+        },
+        {
+          "id": 77827,
+          "order": 4,
+          "name": {
+            "vi": "Thuật Ấn · Tinh Vẫn",
+            "en": "Rune: Shower",
+            "zh": "术印·星陨"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương do [Tinh Vẫn] gây ra tăng thêm 40% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Starlight Shower's damage dealt by an additional amount equal to 40% of the onmyoji's ATK.",
+                "zh": "「星陨」造成的伤害额外提升阴阳师攻击的40%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương do [Tinh Vẫn] gây ra tăng thêm 80% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Starlight Shower's damage dealt by an additional amount equal to 40% of the onmyoji's ATK.",
+                "zh": "「星陨」造成的伤害额外提升阴阳师攻击的40%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương do [Tinh Vẫn] gây ra tăng thêm 120% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Starlight Shower's damage dealt by an additional amount equal to 40% of the onmyoji's ATK.",
+                "zh": "「星陨」造成的伤害额外提升阴阳师攻击的40%。"
+              }
+            }
+          ],
+          "iconFile": "77827.png"
+        },
+        {
+          "id": 77828,
+          "order": 5,
+          "name": {
+            "vi": "Thuật Ấn · Chiêm Bặc",
+            "en": "Rune: Divination",
+            "zh": "术印·占卜"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "",
+                "en": "Tỷ lệ trị liệu khi hồi sinh đồng đội của [Ấn Chiêm Tinh] tăng thêm 20%.",
+                "zh": ""
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Tỷ lệ trị liệu khi hồi sinh đồng đội của [Ấn Chiêm Tinh] tăng thêm 40%.",
+                "en": "Increases Divination Sigil's proportion of HP healed upon reviving the ally by an additional 20%.",
+                "zh": "「占卜之印」复活队友时治疗比例额外提升20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Tỷ lệ trị liệu khi hồi sinh đồng đội của [Ấn Chiêm Tinh] tăng thêm 60%.",
+                "en": "Increases Divination Sigil's proportion of HP healed upon reviving the ally by an additional 30%.",
+                "zh": "「占卜之印」复活队友时治疗比例额外提升30%。"
+              }
+            }
+          ],
+          "iconFile": "77828.png"
+        },
+        {
+          "id": 77829,
+          "order": 6,
+          "name": {
+            "vi": "Thuật Ấn · Chiêm Bặc",
+            "en": "Rune: Divination",
+            "zh": "术印·占卜"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Tỷ lệ phản đòn sát thương của [Ấn Chiêm Tinh] tăng thêm 20%.",
+                "en": "Increases Divination Sigil's proportion of damage reflected by an additional 20%.",
+                "zh": "「占卜之印」反弹伤害的比例额外提升20%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Tỷ lệ phản đòn sát thương của [Ấn Chiêm Tinh] tăng thêm 40%.",
+                "en": "Increases Divination Sigil's proportion of damage reflected by an additional 20%.",
+                "zh": "「占卜之印」反弹伤害的比例额外提升20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Tỷ lệ phản đòn sát thương của [Ấn Chiêm Tinh] tăng thêm 60%.",
+                "en": "Increases Divination Sigil's proportion of damage reflected by an additional 20%.",
+                "zh": "「占卜之印」反弹伤害的比例额外提升20%。"
+              }
+            }
+          ],
+          "iconFile": "77829.png"
+        },
+        {
+          "id": 77830,
+          "order": 7,
+          "name": {
+            "vi": "Thuật Ấn · Chiêm Bặc",
+            "en": "Rune: Divination",
+            "zh": "术印·占卜"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Tỷ lệ trị liệu của [Ấn Chiêm Tinh] tăng thêm 20%.",
+                "en": "Increases Divination Sigil's proportion of HP healed by an additional 20%.",
+                "zh": "「占卜之印」治疗比例额外提升20%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Tỷ lệ trị liệu của [Ấn Chiêm Tinh] tăng thêm 40%.",
+                "en": "Increases Divination Sigil's proportion of HP healed by an additional 20%.",
+                "zh": "「占卜之印」治疗比例额外提升20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Tỷ lệ trị liệu của [Ấn Chiêm Tinh] tăng thêm 60%.",
+                "en": "Increases Divination Sigil's proportion of HP healed by an additional 20%.",
+                "zh": "「占卜之印」治疗比例额外提升20%。"
+              }
+            }
+          ],
+          "iconFile": "77830.png"
+        },
+        {
+          "id": 77831,
+          "order": 8,
+          "name": {
+            "vi": "Thuật Ấn · Tịnh Hóa",
+            "en": "Rune: Purification",
+            "zh": "术印·净化"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Tịnh Hóa có 33% xác suất giải tán thêm 1 mục tiêu.",
+                "en": "Purification has a 33% chance of dispelling debuffs for 1 additional ally.",
+                "zh": "「净化」有33%的概率额外驱散1个目标。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Tịnh Hóa có 66% xác suất giải tán thêm 1 mục tiêu.",
+                "en": "Purification has a 33% chance of dispelling debuffs for 1 additional ally.",
+                "zh": "「净化」有33%的概率额外驱散1个目标。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Tịnh Hóa có 100% xác suất giải tán thêm 1 mục tiêu.",
+                "en": "Purification has a 33% chance of dispelling debuffs for 1 additional ally.",
+                "zh": "「净化」有33%的概率额外驱散1个目标。"
+              }
+            }
+          ],
+          "iconFile": "77831.png"
+        }
+      ]
+    },
+    {
+      "onmyojiId": 13,
+      "onmyojiName": "Hiromasa",
+      "runes": [
+        {
+          "id": 77816,
+          "order": 1,
+          "name": {
+            "vi": "Thuật Ấn · Phá Ma Thỉ",
+            "en": "Rune: Celestial Arrow",
+            "zh": "术印·破魔矢"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương do [Phá Ma Thỉ] gây ra tăng thêm 25% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Celestial Arrow's damage dealt by an additional amount equal to 25% of the onmyoji's ATK.",
+                "zh": "「破魔矢」造成的伤害额外提升阴阳师攻击的25%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương do [Phá Ma Thỉ] gây ra tăng thêm 50% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Celestial Arrow's damage dealt by an additional amount equal to 25% of the onmyoji's ATK.",
+                "zh": "「破魔矢」造成的伤害额外提升阴阳师攻击的25%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương do [Phá Ma Thỉ] gây ra tăng thêm 75% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Celestial Arrow's damage dealt by an additional amount equal to 25% of the onmyoji's ATK.",
+                "zh": "「破魔矢」造成的伤害额外提升阴阳师攻击的25%。"
+              }
+            }
+          ],
+          "iconFile": "77816.png"
+        },
+        {
+          "id": 77817,
+          "order": 2,
+          "name": {
+            "vi": "Thuật Ấn · Đa Trọng Tiễn",
+            "en": "Rune: Double Arrows",
+            "zh": "术印·多重箭"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương do [Đa Trọng Tiễn] gây ra tăng thêm 40% Tấn Công của Âm Dương Sư, mục tiêu tấn công tăng 1 (tăng tối đa đến 3).",
+                "en": "Increases Double Arrows' damage dealt by an additional amount equal to 40% of the onmyoji's ATK, and increases its targets by 1 (max increase 3.)",
+                "zh": "「多重箭」造成的伤害额外提升阴阳师攻击的40%，攻击目标增加1（至多增至3）。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương do [Đa Trọng Tiễn] gây ra tăng thêm 80% Tấn Công của Âm Dương Sư, mục tiêu tấn công tăng 1 (tăng tối đa đến 3).",
+                "en": "Increases Double Arrows' damage dealt by an additional amount equal to 40% of the onmyoji's ATK, and increases its targets by 1 (max increase 3.)",
+                "zh": "「多重箭」造成的伤害额外提升阴阳师攻击的40%，攻击目标增加1（至多增至3）。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương do [Đa Trọng Tiễn] gây ra tăng thêm 120% Tấn Công của Âm Dương Sư, mục tiêu tấn công tăng 1 (tăng tối đa đến 3).",
+                "en": "Increases Double Arrows' damage dealt by an additional amount equal to 40% of the onmyoji's ATK, and increases its targets by 1 (max increase 3.)",
+                "zh": "「多重箭」造成的伤害额外提升阴阳师攻击的40%，攻击目标增加1（至多增至3）。"
+              }
+            }
+          ],
+          "iconFile": "77817.png"
+        },
+        {
+          "id": 77818,
+          "order": 3,
+          "name": {
+            "vi": "Thuật Ấn · Tru Tà Tiễn",
+            "en": "Rune: Rapid Arrows",
+            "zh": "术印·诛邪箭"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương cơ bản mỗi mũi tên gây ra của [Tru Tà Tiễn] tăng thêm 40% Tấn Công của Âm Dương Sư.",
+                "en": "Increases the base damage of each Rapid Arrow by an additional amount equal to 40% of the onmyoji's ATK.",
+                "zh": "「诛邪箭」每箭造成的基础伤害额外提升阴阳师攻击的40%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương cơ bản mỗi mũi tên gây ra của [Tru Tà Tiễn] tăng thêm 80% Tấn Công của Âm Dương Sư.",
+                "en": "Increases the base damage of each Rapid Arrow by an additional amount equal to 40% of the onmyoji's ATK.",
+                "zh": "「诛邪箭」每箭造成的基础伤害额外提升阴阳师攻击的40%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương cơ bản mỗi mũi tên gây ra của [Tru Tà Tiễn] tăng thêm 120% Tấn Công của Âm Dương Sư.",
+                "en": "Increases the base damage of each Rapid Arrow by an additional amount equal to 40% of the onmyoji's ATK.",
+                "zh": "「诛邪箭」每箭造成的基础伤害额外提升阴阳师攻击的40%。"
+              }
+            }
+          ],
+          "iconFile": "77818.png"
+        },
+        {
+          "id": 77819,
+          "order": 4,
+          "name": {
+            "vi": "Thuật Ấn · Báo Nhãn",
+            "en": "Rune: Panther Eyes",
+            "zh": "术印·豹眼"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Bí Thuật · Báo Nhãn xác suất Hắc Báo thi triển [Bí Thuật · Cùng Truy] tăng thêm 8%; tăng thêm 10% sát thương tấn công thường cho toàn bộ đồng minh.",
+                "en": "Increases Panther's chance of using Occult: Pursuit with Occult: Panther Eyes by an additional 8%. Also increases all allies' normal attack damage by an additional 10%.",
+                "zh": "「秘术·豹眼」黑豹施放「秘术·穷追」的概率额外提升8%；额外提升全体友方10%普攻伤害。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Bí Thuật · Báo Nhãn xác suất Hắc Báo thi triển [Bí Thuật · Cùng Truy] tăng thêm 16%; tăng thêm 20% sát thương tấn công thường cho toàn bộ đồng minh.",
+                "en": "Increases Panther's chance of using Occult: Pursuit with Occult: Panther Eyes by an additional 8%. Also increases all allies' normal attack damage by an additional 10%.",
+                "zh": "「秘术·豹眼」黑豹施放「秘术·穷追」的概率额外提升8%；额外提升全体友方10%普攻伤害。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Bí Thuật · Báo Nhãn xác suất Hắc Báo thi triển [Bí Thuật · Cùng Truy] tăng thêm 24%; tăng thêm 30% sát thương tấn công thường cho toàn bộ đồng minh.",
+                "en": "Increases Panther's chance of using Occult: Pursuit with Occult: Panther Eyes by an additional 8%. Also increases all allies' normal attack damage by an additional 10%.",
+                "zh": "「秘术·豹眼」黑豹施放「秘术·穷追」的概率额外提升8%；额外提升全体友方10%普攻伤害。"
+              }
+            }
+          ],
+          "iconFile": "77819.png"
+        },
+        {
+          "id": 77820,
+          "order": 5,
+          "name": {
+            "vi": "Thuật Ấn · Ảnh Phân Thân",
+            "en": "Rune: Shadow Clone",
+            "zh": "术印·影分身"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương do bóng phân thân gây ra từ [Bí Thuật · Ảnh Phân Thân] tăng thêm 20% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Shadow Double's damage dealt with Occult: Shadow Clone by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「秘术·影分身」影分身造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương do bóng phân thân gây ra từ [Bí Thuật · Ảnh Phân Thân] tăng thêm 40% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Shadow Double's damage dealt with Occult: Shadow Clone by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「秘术·影分身」影分身造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương do bóng phân thân gây ra từ [Bí Thuật · Ảnh Phân Thân] tăng thêm 60% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Shadow Double's damage dealt with Occult: Shadow Clone by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「秘术·影分身」影分身造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            }
+          ],
+          "iconFile": "77820.png"
+        },
+        {
+          "id": 77821,
+          "order": 6,
+          "name": {
+            "vi": "Thuật Ấn · Báo Tập",
+            "en": "Rune: Panther Maul",
+            "zh": "术印·豹袭"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương Hắc Báo gây ra từ [Bí Thuật · Báo Tập] tăng thêm 40% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Panther's damage dealt with Occult: Panther Maul by an additional amount equal to 40% of the onmyoji's ATK.",
+                "zh": "「秘术·豹袭」黑豹造成的伤害额外提升阴阳师攻击的40%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương Hắc Báo gây ra từ [Bí Thuật · Báo Tập] tăng thêm 80% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Panther's damage dealt with Occult: Panther Maul by an additional amount equal to 40% of the onmyoji's ATK.",
+                "zh": "「秘术·豹袭」黑豹造成的伤害额外提升阴阳师攻击的40%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương Hắc Báo gây ra từ [Bí Thuật · Báo Tập] tăng thêm 120% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Panther's damage dealt with Occult: Panther Maul by an additional amount equal to 40% of the onmyoji's ATK.",
+                "zh": "「秘术·豹袭」黑豹造成的伤害额外提升阴阳师攻击的40%。"
+              }
+            }
+          ],
+          "iconFile": "77821.png"
+        },
+        {
+          "id": 77822,
+          "order": 7,
+          "name": {
+            "vi": "Thuật Ấn · Bi Minh",
+            "en": "Rune: Moans",
+            "zh": "术印·悲鸣"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương tăng thêm của [Bi Thanh Ai Hào] tăng thêm 20%, Tốc độ tăng thêm tăng thêm 10 điểm.",
+                "en": "Increases Grief Roar's damage boost by an additional 20% and its SPD boost by an additional 10.",
+                "zh": "「悲声哀嚎」增加的伤害额外提升20%，增加的速度额外提升10点。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương tăng thêm của [Bi Thanh Ai Hào] tăng thêm 40%, Tốc độ tăng thêm tăng thêm 20 điểm.",
+                "en": "Increases Grief Roar's damage boost by an additional 20% and its SPD boost by an additional 10.",
+                "zh": "「悲声哀嚎」增加的伤害额外提升20%，增加的速度额外提升10点。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương tăng thêm của [Bi Thanh Ai Hào] tăng thêm 60%, Tốc độ tăng thêm tăng thêm 30 điểm.",
+                "en": "Increases Grief Roar's damage boost by an additional 20% and its SPD boost by an additional 10.",
+                "zh": "「悲声哀嚎」增加的伤害额外提升20%，增加的速度额外提升10点。"
+              }
+            }
+          ],
+          "iconFile": "77822.png"
+        },
+        {
+          "id": 77823,
+          "order": 8,
+          "name": {
+            "vi": "Thuật Ấn · Cùng Truy",
+            "en": "Rune: Pursuit",
+            "zh": "术印·穷追"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Xác suất hiệp đồng tấn công của Hắc Báo từ [Bí Thuật · Cùng Truy] tăng 5%.",
+                "en": "Increase Panther's chance of joining the battle with Occult: Pursuit by 5%.",
+                "zh": "「秘术·穷追」黑豹的协同攻击概率提升5%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Xác suất hiệp đồng tấn công của Hắc Báo từ [Bí Thuật · Cùng Truy] tăng 10%.",
+                "en": "Increase Panther's chance of joining the battle with Occult: Pursuit by 5%.",
+                "zh": "「秘术·穷追」黑豹的协同攻击概率提升5%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Xác suất hiệp đồng tấn công của Hắc Báo từ [Bí Thuật · Cùng Truy] tăng 15%.",
+                "en": "Increase Panther's chance of joining the battle with Occult: Pursuit by 5%.",
+                "zh": "「秘术·穷追」黑豹的协同攻击概率提升5%。"
+              }
+            }
+          ],
+          "iconFile": "77823.png"
+        }
+      ]
+    },
+    {
+      "onmyojiId": 15,
+      "onmyojiName": "Minamoto no Yorimitsu",
+      "runes": [
+        {
+          "id": 77832,
+          "order": 1,
+          "name": {
+            "vi": "Thuật Ấn · Thiên Kiếm",
+            "en": "Rune: Heavenly Blade",
+            "zh": "术印·天剑"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương do [Thiên Kiếm] gây ra tăng thêm 20% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Heavenly Blade's damage dealt by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「天剑」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương do [Thiên Kiếm] gây ra tăng thêm 40% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Heavenly Blade's damage dealt by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「天剑」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương do [Thiên Kiếm] gây ra tăng thêm 60% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Heavenly Blade's damage dealt by an additional amount equal to 20% of the onmyoji's ATK.",
+                "zh": "「天剑」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            }
+          ],
+          "iconFile": "77832.png"
+        },
+        {
+          "id": 77833,
+          "order": 2,
+          "name": {
+            "vi": "Thuật Ấn · Bát Hoa",
+            "en": "Rune: Octaslash",
+            "zh": "术印·八华"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Thiên Chu Bát Hoa Trảm gây thêm 1 lần sát thương bằng 33% Tấn Công lên mỗi mục tiêu tấn công và giảm 10 điểm phòng thủ, duy trì 2 hiệp.",
+                "en": "Heavenly Purge: Octaslash additionally inflicts 1 strike dealing damage equal to 33% of his ATK and reduces DEF by 10 for 2 turns for each attacked enemy.",
+                "zh": "「天诛八华斩」对每个攻击目标额外造成1次攻击33%伤害并降低10点防御，持续2回合。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Thiên Chu Bát Hoa Trảm gây thêm 1 lần sát thương bằng 67% Tấn Công lên mỗi mục tiêu tấn công và giảm 20 điểm phòng thủ, duy trì 2 hiệp.",
+                "en": "Heavenly Purge: Octaslash additionally inflicts 1 strike dealing damage equal to 67% of his ATK and reduces DEF by 20 for 2 turns for each attacked enemy.",
+                "zh": "「天诛八华斩」对每个攻击目标额外造成1次攻击67%伤害并降低20点防御，持续2回合。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Thiên Chu Bát Hoa Trảm gây thêm 1 lần sát thương bằng 100% Tấn Công lên mỗi mục tiêu tấn công và giảm 30 điểm phòng thủ, duy trì 2 hiệp.",
+                "en": "Heavenly Purge: Octaslash additionally inflicts 1 strike dealing damage equal to 100% of his ATK and reduces DEF by 30 for 2 turns for each attacked enemy.",
+                "zh": "「天诛八华斩」对每个攻击目标额外造成1次攻击100%伤害并降低30点防御，持续2回合。"
+              }
+            }
+          ],
+          "iconFile": "77833.png"
+        },
+        {
+          "id": 77834,
+          "order": 3,
+          "name": {
+            "vi": "Thuật Ấn · Bố Vũ",
+            "en": "Rune: Armor",
+            "zh": "术印·布武"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Hệ số sát thương của [Thiên Hạ Bố Vũ] tăng 20%.",
+                "en": "Increases Armor the World's damage multiplier by 20%.",
+                "zh": "「天下布武」伤害系数提升20%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Hệ số sát thương của [Thiên Hạ Bố Vũ] tăng 40%.",
+                "en": "Increases Armor the World's damage multiplier by 20%.",
+                "zh": "「天下布武」伤害系数提升20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Hệ số sát thương của [Thiên Hạ Bố Vũ] tăng 60%.",
+                "en": "Increases Armor the World's damage multiplier by 20%.",
+                "zh": "「天下布武」伤害系数提升20%。"
+              }
+            }
+          ],
+          "iconFile": "77834.png"
+        },
+        {
+          "id": 77835,
+          "order": 4,
+          "name": {
+            "vi": "Thuật Ấn · Thần Sách",
+            "en": "Rune: Wisdom",
+            "zh": "术印·神策"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Quỷ Thần Chi Sách có 33% xác suất giảm thêm 60 điểm phòng thủ.",
+                "en": "Exceptional Wisdom has a 33% chance of additionally reduces DEF by 60.",
+                "zh": "「鬼神之策」有33%概率额外降低60点防御。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Quỷ Thần Chi Sách có 66% xác suất giảm thêm 60 điểm phòng thủ.",
+                "en": "Exceptional Wisdom has a 33% chance of additionally reduces DEF by 60.",
+                "zh": "「鬼神之策」有33%概率额外降低60点防御。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Quỷ Thần Chi Sách có 100% xác suất giảm thêm 60 điểm phòng thủ.",
+                "en": "Exceptional Wisdom has a 33% chance of additionally reduces DEF by 60.",
+                "zh": "「鬼神之策」有33%概率额外降低60点防御。"
+              }
+            }
+          ],
+          "iconFile": "77835.png"
+        },
+        {
+          "id": 77836,
+          "order": 5,
+          "name": {
+            "vi": "Thuật Ấn · Huyết Khế",
+            "en": "Rune: Blood Pact",
+            "zh": "术印·血契"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Huyết Chi Khế tăng thêm 15% sát thương bạo kích cho bản thân và mục tiêu.",
+                "en": "Blood Pact additionally increases the Crit DMG of himself and the ally by 15%.",
+                "zh": "「血之契」额外提升自身与目标15%暴击伤害。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Huyết Chi Khế tăng thêm 30% sát thương bạo kích cho bản thân và mục tiêu.",
+                "en": "Blood Pact additionally increases the Crit DMG of himself and the ally by 15%.",
+                "zh": "「血之契」额外提升自身与目标15%暴击伤害。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Huyết Chi Khế tăng thêm 45% sát thương bạo kích cho bản thân và mục tiêu.",
+                "en": "Blood Pact additionally increases the Crit DMG of himself and the ally by 15%.",
+                "zh": "「血之契」额外提升自身与目标15%暴击伤害。"
+              }
+            }
+          ],
+          "iconFile": "77836.png"
+        },
+        {
+          "id": 77837,
+          "order": 6,
+          "name": {
+            "vi": "Thuật Ấn · Quỷ Trụ",
+            "en": "Rune: Ghost Garb",
+            "zh": "术印·鬼胄"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Quỷ Trụ hấp thụ thêm lượng sát thương bằng 5% Tấn Công ban đầu.",
+                "en": "Ghost Garb additionally absorbs damage by 5% of his starting ATK.",
+                "zh": "「鬼胄」额外吸收初始攻击5%伤害。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Quỷ Trụ hấp thụ thêm lượng sát thương bằng 10% Tấn Công ban đầu.",
+                "en": "Ghost Garb additionally absorbs damage by 5% of his starting ATK.",
+                "zh": "「鬼胄」额外吸收初始攻击5%伤害。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Quỷ Trụ hấp thụ thêm lượng sát thương bằng 15% Tấn Công ban đầu.",
+                "en": "Ghost Garb additionally absorbs damage by 5% of his starting ATK.",
+                "zh": "「鬼胄」额外吸收初始攻击5%伤害。"
+              }
+            }
+          ],
+          "iconFile": "77837.png"
+        },
+        {
+          "id": 77838,
+          "order": 7,
+          "name": {
+            "vi": "Thuật Ấn · Kiếm Chi Lũy",
+            "en": "Rune: Blade Bastion",
+            "zh": "术印·剑之垒"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Kiếm Chi Lũy khiến quỷ binh có 33% xác suất chém toàn bộ kẻ địch khi Minamoto no Yorimitsu thi triển yêu thuật.",
+                "en": "Blade Bastion allows the Ghost Armory to have a 33% chance of slashing all enemies when Minamoto no Yorimitsu uses a skill.",
+                "zh": "「剑之垒」使鬼兵在源赖光施放妖术时有33%概率劈斩敌方全体。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Kiếm Chi Lũy khiến quỷ binh có 66% xác suất chém toàn bộ kẻ địch khi Minamoto no Yorimitsu thi triển yêu thuật.",
+                "en": "Blade Bastion allows the Ghost Armory to have a 33% chance of slashing all enemies when Minamoto no Yorimitsu uses a skill.",
+                "zh": "「剑之垒」使鬼兵在源赖光施放妖术时有33%概率劈斩敌方全体。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Kiếm Chi Lũy khiến quỷ binh có 100% xác suất chém toàn bộ kẻ địch khi Minamoto no Yorimitsu thi triển yêu thuật.",
+                "en": "Blade Bastion allows the Ghost Armory to have a 33% chance of slashing all enemies when Minamoto no Yorimitsu uses a skill.",
+                "zh": "「剑之垒」使鬼兵在源赖光施放妖术时有33%概率劈斩敌方全体。"
+              }
+            }
+          ],
+          "iconFile": "77838.png"
+        },
+        {
+          "id": 77839,
+          "order": 8,
+          "name": {
+            "vi": "Thuật Ấn · Vô Úy",
+            "en": "Rune: Fearless",
+            "zh": "术印·无畏"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Giới hạn Kiếm Ý của [Vô Úy] tăng 2 tầng.",
+                "en": "Increases Fearless' max Sharpened Blade stacks by 2.",
+                "zh": "「无畏」剑意上限增加2层。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Giới hạn Kiếm Ý của [Vô Úy] tăng 4 tầng.",
+                "en": "Increases Fearless' max Sharpened Blade stacks by 2.",
+                "zh": "「无畏」剑意上限增加2层。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Giới hạn Kiếm Ý của [Vô Úy] tăng 6 tầng.",
+                "en": "Increases Fearless' max Sharpened Blade stacks by 2.",
+                "zh": "「无畏」剑意上限增加2层。"
+              }
+            }
+          ],
+          "iconFile": "77839.png"
+        }
+      ]
+    },
+    {
+      "onmyojiId": 16,
+      "onmyojiName": "Fujiwara no Michinaga",
+      "runes": [
+        {
+          "id": 77840,
+          "order": 1,
+          "name": {
+            "vi": "Thuật Ấn · Huấn Giới",
+            "en": "Rune: Admonition Note",
+            "zh": "术印·训诫"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sát thương do [Huấn Giới Chi Âm] gây ra tăng thêm 20% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Admonition Notes's damage dealt by an additional amount equal to 20% of the Onmyoji's ATK.",
+                "zh": "「训诫之音」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sát thương do [Huấn Giới Chi Âm] gây ra tăng thêm 40% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Admonition Notes's damage dealt by an additional amount equal to 20% of the Onmyoji's ATK.",
+                "zh": "「训诫之音」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sát thương do [Huấn Giới Chi Âm] gây ra tăng thêm 60% Tấn Công của Âm Dương Sư.",
+                "en": "Increases Admonition Notes's damage dealt by an additional amount equal to 20% of the Onmyoji's ATK.",
+                "zh": "「训诫之音」造成的伤害额外提升阴阳师攻击的20%。"
+              }
+            }
+          ],
+          "iconFile": "77840.png"
+        },
+        {
+          "id": 77841,
+          "order": 2,
+          "name": {
+            "vi": "Thuật Ấn · Xảo Vận",
+            "en": "Rune: Elegant Chant",
+            "zh": "术印·巧韵"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Vịnh Thán Xảo Vận tăng thêm 3% Tấn Công cho toàn bộ đồng minh.",
+                "en": "Elegant Chant additionally increases all allies' ATK by 3%.",
+                "zh": "「咏叹巧韵」额外提升友方全体3%攻击。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Vịnh Thán Xảo Vận tăng thêm 6% Tấn Công cho toàn bộ đồng minh.",
+                "en": "Elegant Chant additionally increases all allies' ATK by 3%.",
+                "zh": "「咏叹巧韵」额外提升友方全体3%攻击。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Vịnh Thán Xảo Vận tăng thêm 9% Tấn Công cho toàn bộ đồng minh.",
+                "en": "Elegant Chant additionally increases all allies' ATK by 3%.",
+                "zh": "「咏叹巧韵」额外提升友方全体3%攻击。"
+              }
+            }
+          ],
+          "iconFile": "77841.png"
+        },
+        {
+          "id": 77842,
+          "order": 3,
+          "name": {
+            "vi": "Thuật Ấn · Tề Minh",
+            "en": "Rune: Moontune Resonance",
+            "zh": "术印·齐鸣"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Cầm Nguyệt Tề Minh mỗi tầng Luật Âm tăng thêm 1% Tấn Công.",
+                "en": "Moontune Resonance grants an additional 1% ATK per Melodic Note stack.",
+                "zh": "「琴月齐鸣」每层律音额外提升1%攻击。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Cầm Nguyệt Tề Minh mỗi tầng Luật Âm tăng thêm 2% Tấn Công.",
+                "en": "Moontune Resonance grants an additional 1% ATK per Melodic Note stack.",
+                "zh": "「琴月齐鸣」每层律音额外提升1%攻击。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Cầm Nguyệt Tề Minh mỗi tầng Luật Âm tăng thêm 3% Tấn Công.",
+                "en": "Moontune Resonance grants an additional 1% ATK per Melodic Note stack.",
+                "zh": "「琴月齐鸣」每层律音额外提升1%攻击。"
+              }
+            }
+          ],
+          "iconFile": "77842.png"
+        },
+        {
+          "id": 77843,
+          "order": 4,
+          "name": {
+            "vi": "Thuật Ấn · Phá Trận",
+            "en": "Rune: Frontbreach Prelude",
+            "zh": "术印·破阵"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Hệ số sát thương tấn công tích lực của [Phá Trận Tấu Khúc] tăng 25%.",
+                "en": "Frontbreach Prelude charged attack damage coefficient increased by 25%.",
+                "zh": "「破阵奏曲」蓄力攻击伤害系数提升25%。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Hệ số sát thương tấn công tích lực của [Phá Trận Tấu Khúc] tăng 50%.",
+                "en": "Frontbreach Prelude charged attack damage coefficient increased by 25%.",
+                "zh": "「破阵奏曲」蓄力攻击伤害系数提升25%。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Hệ số sát thương tấn công tích lực của [Phá Trận Tấu Khúc] tăng 75%.",
+                "en": "Frontbreach Prelude charged attack damage coefficient increased by 25%.",
+                "zh": "「破阵奏曲」蓄力攻击伤害系数提升25%。"
+              }
+            }
+          ],
+          "iconFile": "77843.png"
+        },
+        {
+          "id": 77844,
+          "order": 5,
+          "name": {
+            "vi": "Thuật Ấn · Chư Luật",
+            "en": "Rune: Rhythm Mastery",
+            "zh": "术印·诸律"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Chư Luật Tinh Thông mỗi khi nhận 1 tầng Luật Âm, tăng thêm 2% hiệu quả kháng cho toàn bộ đồng minh.",
+                "en": "Rhythm Mastery: For each Melodic Note gained, additionally increases all allies' Effect RES by 2%.",
+                "zh": "「诸律精通」每获得1层律音，额外提升友方全体2%的效果抵抗。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Chư Luật Tinh Thông mỗi khi nhận 1 tầng Luật Âm, tăng thêm 4% hiệu quả kháng cho toàn bộ đồng minh.",
+                "en": "Rhythm Mastery: For each Melodic Note gained, additionally increases all allies' Effect RES by 2%.",
+                "zh": "「诸律精通」每获得1层律音，额外提升友方全体2%的效果抵抗。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Chư Luật Tinh Thông mỗi khi nhận 1 tầng Luật Âm, tăng thêm 6% hiệu quả kháng cho toàn bộ đồng minh.",
+                "en": "Rhythm Mastery: For each Melodic Note gained, additionally increases all allies' Effect RES by 2%.",
+                "zh": "「诸律精通」每获得1层律音，额外提升友方全体2%的效果抵抗。"
+              }
+            }
+          ],
+          "iconFile": "77844.png"
+        },
+        {
+          "id": 77845,
+          "order": 6,
+          "name": {
+            "vi": "Thuật Ấn · Dư Âm",
+            "en": "Rune: Lingering Sound",
+            "zh": "术印·余音"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Dư Âm Nhập Mộng khi kích hoạt Ý Thức Mộng Cảnh, trị liệu thêm lượng HP bằng 10% giới hạn HP cho toàn bộ đồng minh.",
+                "en": "When Dream Echoes triggers dream consciousness, additionally restore HP equal to 10% of max HP for all allies.",
+                "zh": "「余音入梦」触发梦境意识时，额外为友方全体治疗生命上限10%的生命。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Dư Âm Nhập Mộng khi kích hoạt Ý Thức Mộng Cảnh, trị liệu thêm lượng HP bằng 20% giới hạn HP cho toàn bộ đồng minh.",
+                "en": "When Dream Echoes triggers dream consciousness, additionally restore HP equal to 10% of max HP for all allies.",
+                "zh": "「余音入梦」触发梦境意识时，额外为友方全体治疗生命上限10%的生命。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Dư Âm Nhập Mộng khi kích hoạt Ý Thức Mộng Cảnh, trị liệu thêm lượng HP bằng 30% giới hạn HP cho toàn bộ đồng minh.",
+                "en": "When Dream Echoes triggers dream consciousness, additionally restore HP equal to 10% of max HP for all allies.",
+                "zh": "「余音入梦」触发梦境意识时，额外为友方全体治疗生命上限10%的生命。"
+              }
+            }
+          ],
+          "iconFile": "77845.png"
+        },
+        {
+          "id": 77846,
+          "order": 7,
+          "name": {
+            "vi": "Thuật Ấn · Kinh Huyền",
+            "en": "Rune: Sonic Arrow",
+            "zh": "术印·惊弦"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Sau khi thi triển [Thần Điểu Kinh Huyền\", tăng 1 tầng Luật Âm.",
+                "en": "After casting Sonic Featherstring, gain 1 stack of Melodic Note.",
+                "zh": "施放「神鸟惊弦」后，增加1层律音。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Sau khi thi triển [Thần Điểu Kinh Huyền\", tăng 2 tầng Luật Âm.",
+                "en": "After casting Sonic Featherstring, gain 1 stack of Melodic Note.",
+                "zh": "施放「神鸟惊弦」后，增加1层律音。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Sau khi thi triển [Thần Điểu Kinh Huyền\", tăng 3tầng Luật Âm.",
+                "en": "After casting Sonic Featherstring, gain 1 stack of Melodic Note.",
+                "zh": "施放「神鸟惊弦」后，增加1层律音。"
+              }
+            }
+          ],
+          "iconFile": "77846.png"
+        },
+        {
+          "id": 77847,
+          "order": 8,
+          "name": {
+            "vi": "Thuật Ấn · Điều Luật",
+            "en": "Rune: Harmonious Tuning",
+            "zh": "术印·调律"
+          },
+          "levels": [
+            {
+              "level": 1,
+              "text": {
+                "vi": "Điều Luật Nhuận Tâm khi tiêu hao 1 tầng Luật Âm, có 33% xác suất khiến hiệu ứng tăng Thanh Hành Động tác động lên toàn bộ đồng minh.",
+                "en": "Harmonious Tuning has a 33% chance to apply the Move Bar boost to all allies when consuming 1 Melodic Note.",
+                "zh": "「调律润心」在消耗1层律音时，有33%的概率使提升行动条的效果作用于全体友方。"
+              }
+            },
+            {
+              "level": 2,
+              "text": {
+                "vi": "Điều Luật Nhuận Tâm khi tiêu hao 1 tầng Luật Âm, có 66% xác suất khiến hiệu ứng tăng Thanh Hành Động tác động lên toàn bộ đồng minh.",
+                "en": "Harmonious Tuning has a 33% chance to apply the Move Bar boost to all allies when consuming 1 Melodic Note.",
+                "zh": "「调律润心」在消耗1层律音时，有33%的概率使提升行动条的效果作用于全体友方。"
+              }
+            },
+            {
+              "level": 3,
+              "text": {
+                "vi": "Điều Luật Nhuận Tâm khi tiêu hao 1 tầng Luật Âm, có 100% xác suất khiến hiệu ứng tăng Thanh Hành Động tác động lên toàn bộ đồng minh.",
+                "en": "Harmonious Tuning has a 33% chance to apply the Move Bar boost to all allies when consuming 1 Melodic Note.",
+                "zh": "「调律润心」在消耗1层律音时，有33%的概率使提升行动条的效果作用于全体友方。"
+              }
+            }
+          ],
+          "iconFile": "77847.png"
+        }
+      ]
+    }
+  ]
+}

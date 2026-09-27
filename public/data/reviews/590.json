@@ -1,0 +1,91 @@
+{
+  "shikigamiId": 590,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Đấu sĩ PvP hậu thủ chuyên phản kích đội gây debuff, càng thức tỉnh đủ Miêu hộ giá càng khó khống chế và nguy hiểm",
+  "summary": "《Diệu Chủ Cửu Mệnh Miêu》 mở trận bằng [Quốc Vương Giá Đáo], nhận 40% giảm sát thương và chuyển Kháng hiệu ứng thành Sát thương bạo kích. Khi địch gây debuff lên đồng minh, cô lần lượt thức tỉnh các Âm Dương Sư Miêu rồi phản công bằng [Tốc Tốc Hộ Giá]. Cô có thể hóa giải khống chế bằng cách mất hai hộ giá và còn chặn sát thương chí mạng tối đa hai lần, nên mạnh nhất trong PvP kéo dài trước đội khống chế/debuff; PvE gần như không có việc làm nổi bật.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3.5,
+      "note": "Cơ chế thức tỉnh hộ giá phụ thuộc địch gây debuff, không hợp farm nhanh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 4.5,
+      "note": "Có nhiều hit và tự sống, nhưng boss thường không kích đúng điều kiện phản công."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Phản debuff, tự giải khống chế và hai lần chống chết tạo áp lực lớn cho đội kiểm soát."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Thiên PvP, cần đủ kỹ năng và bộ Kháng hiệu ứng tốt mới phát huy."
+    }
+  ],
+  "strengths": [
+    "{+Hình thái Quốc Vương} cho 40% giảm sát thương và đổi mỗi 1% Kháng hiệu ứng thành 1% Sát thương bạo kích, tối đa 300%.",
+    "Kẻ địch gây debuff lên đồng minh có thể làm cô thức tỉnh Âm Dương Sư Miêu và lập tức dùng [Tốc Tốc Hộ Giá].",
+    "Khi chịu khống chế, cô có thể mất hai hộ giá để hóa giải toàn bộ khống chế.",
+    "[Mèo Báo Thù] cho một lần chống sát thương chí mạng; nếu có ít nhất ba hộ giá, cô có thể kích hoạt lần thứ hai."
+  ],
+  "weaknesses": [
+    "Tốc độ tích hộ giá phụ thuộc hành động của đối thủ; đội ít debuff khiến cô vào trạng thái hoàn chỉnh chậm.",
+    "Tự giải khống chế tiêu hao hai hộ giá, làm giảm số đòn và hiệu ứng phụ của chuỗi phản công.",
+    "Các đòn [Tốc Tốc Hộ Giá] không kích hoạt hiệu ứng Ngự Hồn của bản thân lẫn mục tiêu.",
+    "Đầu tư Daruma Đen chủ yếu phục vụ PvP, không giúp tài khoản mở rộng farm PvE."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không nên xem cô là chủ lực farm. Sát thương và nhịp phản công phụ thuộc đối thủ gây debuff, trong khi phần lớn đội PvE cần hiệu quả ổn định ngay lượt đầu.",
+        "Nếu buộc dùng ở ải nhiều khống chế, ưu tiên sống sót và Kháng hiệu ứng; đây vẫn là lựa chọn đối sách chứ không phải đội hình tối ưu."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Cô phù hợp đội hậu thủ đối đầu khống chế. Seimei Miêu làm mục tiêu chịu thêm 30% sát thương, Kagura Miêu tăng 30% giảm sát thương cho cô, Hiromasa Miêu đánh hai lần và Yaobikuni Miêu giải hai hiệu ứng xấu/khống chế cho đồng minh.",
+        "Khi đủ cả bốn hộ giá, cô tăng 150 Tốc độ và miễn đẩy lùi thanh hành động. Vì Sát thương bạo kích đến từ Kháng hiệu ứng, cấu hình nên ưu tiên Kháng hiệu ứng và Tốc độ trước khi cố nhồi chỉ số tấn công."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP hậu thủ ổn định: 〈Cộng Tiềm〉 hoặc 〈Mộc Mị〉; Tốc độ – Kháng hiệu ứng – HP/Công. Chọn HP nếu cần sống để tích hộ giá, chọn Công khi đội đã đủ bảo kê.",
+        "Thiên sát thương: 〈Võng Thiết〉 hoặc 〈Thanh Nữ Phòng〉; Tốc độ/Công – Kháng hiệu ứng – Bạo kích/Sát thương bạo kích. Vẫn phải giữ Kháng hiệu ứng cao vì đây vừa là phòng thủ vừa được chuyển thành Sát thương bạo kích."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "妙主九命猫",
+      "publisher": "阴阳师灰机WIKI",
+      "url": "https://yys.huijiwiki.com/wiki/%E5%A6%99%E4%B8%BB%E4%B9%9D%E5%91%BD%E7%8C%AB",
+      "usedFor": "đối chiếu kỹ năng, thứ tự Âm Dương Sư Miêu và giới hạn kích hoạt"
+    },
+    {
+      "title": "SP妙主九命猫实战详细评测",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1Nyamz6EPv/",
+      "usedFor": "đối chiếu vai trò phản khống chế, hậu thủ và cấu hình PvP",
+      "publishedAt": "04/09/2025"
+    },
+    {
+      "title": "SP妙主九命猫强度解析与实战攻略",
+      "publisher": "233乐园",
+      "url": "https://www.233leyuan.com/post-detail/2059602977543372800",
+      "usedFor": "đối chiếu mức độ chuyên PvP và phạm vi sử dụng hiện tại",
+      "publishedAt": "27/05/2026"
+    }
+  ]
+}

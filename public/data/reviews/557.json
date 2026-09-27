@@ -1,0 +1,88 @@
+{
+  "shikigamiId": 557,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ giảm Phòng thủ và khống chế boss hàng đầu, đồng thời bảo kê một chủ lực bằng Hủy Diệt; cần đủ Chính xác và Bạo kích theo đội",
+  "summary": "《Y Tà Na Mỹ》 gắn {+Hủy Diệt} cho chủ lực Công cao nhất, giúp họ bỏ qua Phòng thủ ngày càng nhiều và sống sót ở 1 HP trước sát thương chí mạng. [Diệt Thế Chi Vũ] gây AoE, gắn {−Suy Tàn} giảm 100 Phòng thủ và khiến mục tiêu chỉ định nhận một lượt không thể hành động; khi Suy Tàn trúng còn áp {−Trầm Luân}. Cô vừa giảm Phòng thủ, vừa kích 〈Nguyên Hưng Tự〉, vừa tạo cửa sổ tăng sát thương cho đội PvE.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Mở trận tự gắn Hủy Diệt và có thể giảm Phòng thủ/khống chế quái ngay."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9.5,
+      "note": "Hủy Diệt tăng dần bỏ qua Phòng thủ, Suy Tàn và Trầm Luân hỗ trợ sát thương mạnh."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Có khống chế mạnh, giảm Phòng thủ và cơ chế giữ chủ lực ở 1 HP."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Hỗ trợ rất đáng đầu tư, nhưng yêu cầu bộ Chính xác/Bạo kích tốt."
+    }
+  ],
+  "strengths": [
+    "{+Hủy Diệt} tăng dần khả năng bỏ qua Phòng thủ và giữ chủ lực sống ở 1 HP trước đòn chí mạng.",
+    "{−Suy Tàn} giảm 100 Phòng thủ, gây sát thương gián tiếp và có tỷ lệ 80% cơ bản trên quái.",
+    "Đại chiêu tạo một lượt mục tiêu không thể hành động, kéo dài thêm nếu chịu {−Trầm Luân}."
+  ],
+  "weaknesses": [
+    "Chỉ một đồng minh trên sân có thể mang Hủy Diệt; phải kiểm soát Công cao nhất để chọn đúng chủ lực.",
+    "Cần đồng thời đủ Hiệu quả chính xác, Bạo kích và ngưỡng Tốc độ, gây áp lực lên Ngự Hồn.",
+    "Dùng lại [Thần Tứ Chi Hôn] lên cùng mục tiêu làm họ mất 50% HP tối đa, cần tránh thao tác sai."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Cấu hình phổ biến là 〈Nguyên Hưng Tự〉 để khuếch đại sát thương khi khống chế quái, ghép 〈Hoang Khô Lâu〉, 〈Quỷ Linh Ca Kỹ〉 hoặc bộ 2 món chỉ số theo màn. Đội cần khoảng 70–80% Hiệu quả chính xác, đủ 100% Bạo kích và Tốc độ theo quái; mốc 140–150 chỉ là tham khảo phổ biến, không thay cho bảng tốc độ phó bản.",
+        "Hủy Diệt ban đầu rơi vào đồng minh có Công cao nhất, vì vậy phải kiểm tra Công ban đầu toàn đội. Mỗi 100 Phòng thủ bị giảm bởi Hủy Diệt giúp người mang bỏ qua thêm 40 Phòng thủ, tối đa 200."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Đi nhanh để áp Suy Tàn/Trầm Luân lên mục tiêu then chốt hoặc dùng Hủy Diệt bảo kê chủ lực. 〈Chung Linh〉/〈Tuyết U Hồn〉 tận dụng AoE, còn 〈Chiêu Tài Miêu〉 hỗ trợ vận hành; nhưng độ chính xác và tốc độ thường quan trọng hơn sát thương."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE: 〈Nguyên Hưng Tự〉 + 〈Hoang Khô Lâu〉/〈Quỷ Linh Ca Kỹ〉 hoặc bộ 2 món chỉ số; Tốc độ – Hiệu quả chính xác – Bạo kích. Mục tiêu đủ 100% Bạo kích, khoảng 70–80% Chính xác và tốc độ vượt quái theo phó bản.",
+        "PvP: 〈Chung Linh〉, 〈Tuyết U Hồn〉 hoặc 〈Chiêu Tài Miêu〉; Tốc độ – Hiệu quả chính xác – HP/Bạo kích. Ưu tiên Tốc độ, Chính xác rồi độ bền."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "イザナミの評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/284121888064587698.html",
+      "usedFor": "đối chiếu Hủy Diệt, khống chế, bộ PvE/PvP và tương tác đội hình"
+    },
+    {
+      "title": "伊邪那美正式服御魂计算指南",
+      "publisher": "YouTube / 鸽海成路的鸽窝",
+      "url": "https://www.youtube.com/watch?v=9JeGoliGzxQ",
+      "usedFor": "đối chiếu Nguyên Hưng Tự, 70–80 Chính xác, đầy Bạo kích và ngưỡng Tốc độ",
+      "publishedAt": "17/10/2023"
+    },
+    {
+      "title": "新御魂与夜荒魂解析",
+      "publisher": "YouTube / 鸽海成路的鸽窝",
+      "url": "https://www.youtube.com/watch?v=6c7xq4VPUaQ",
+      "usedFor": "đối chiếu giá trị dài lượt và tương tác khống chế nhiều mục tiêu",
+      "publishedAt": "20/06/2024"
+    }
+  ]
+}

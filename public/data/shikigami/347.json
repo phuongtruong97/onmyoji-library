@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "我可以单身，但你们必须结缘！"
       },
       "description": {
-        "vi": "[tips_11].\nTrước khi lượt của đồng minh khác bắt đầu, ban cho kẻ đó 1 trong 4 loại kết duyên ngẫu nhiên, nếu kết duyên kẻ đó nhận được trùng khớp với đồng minh khác hành động trước đó, thì kết duyên thành công, lập tức nhận 1 điểm Quỷ Hỏa, đồng thời Duyên Kết Thần nhận 1 tầng [buff_3470_1]. Nếu không trùng khớp, thì kết duyên thất bại, Duyên Kết Thần nhận 1 tầng [buff_34726_1].",
-        "en": "[tips_11].\nAt the start of another ally's turn, grants them 1 Knot of a random type (4 in total). If the Knot they received is of the same type as the one granted to the last ally who performed an action (other than Enmusubi), a match is formed. You gain 1 orb immediately and Enmusubi gains a layer of [buff_3470_1]. If a match is not formed, Enmusubi gains a layer of [buff_34726_1].",
+        "vi": "[tips_11]\nTrước khi lượt của đồng minh khác bắt đầu, ban cho kẻ đó 1 trong 4 loại kết duyên ngẫu nhiên, nếu kết duyên kẻ đó nhận được trùng khớp với đồng minh khác hành động trước đó, thì kết duyên thành công, lập tức nhận 1 điểm Quỷ Hỏa, đồng thời Duyên Kết Thần nhận 1 tầng [buff_3470_1]. Nếu không trùng khớp, thì kết duyên thất bại, Duyên Kết Thần nhận 1 tầng [buff_34726_1].",
+        "en": "[tips_11]\nAt the start of another ally's turn, grants them 1 Knot of a random type (4 in total). If the Knot they received is of the same type as the one granted to the last ally who performed an action (other than Enmusubi), a match is formed. You gain 1 orb immediately and Enmusubi gains a layer of [buff_3470_1]. If a match is not formed, Enmusubi gains a layer of [buff_34726_1].",
         "zh": "[tips_11]。\n其他友方回合开始前，赐予其4种随机缘结之一，若其获得的缘结与上一个行动的其他友方相同，则结缘成功，立刻获得1点鬼火，同时缘结神获得1层[buff_3470_1]。若不相同，则结缘失败，缘结神获得1层[buff_34726_1]。"
       },
       "upgrades": [],

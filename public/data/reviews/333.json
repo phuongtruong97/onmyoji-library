@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 333,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Phong ấn một mục tiêu bằng Kiếm Ngục vẫn độc đáo, nhưng đội hình cần tranh tốc và anh đã rời nhóm PvP ưu tiên",
+  "summary": "《Đại Nhạc Hoàn》 dùng [Vô Tận Kiếm Ngục] để {−Lưu Đày} một kẻ địch, tạm loại mục tiêu khỏi trận và lấy một phần Công/Phòng thủ của họ. Khi Kiếm Ngục kết thúc, đá rơi gây sát thương lớn không thể đỡ thay, không kích hoạt ngự hồn/nội tại và kéo anh 70% thanh hành động. Khống chế này không dựa vào Hiệu quả chính xác, nhưng cần đi trước và đã có nhiều đối sách trong môi trường hiện tại.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4.5,
+      "note": "AoE và đá rơi dùng được nhưng không tối ưu farm hiện đại."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5,
+      "note": "Lưu đày hiếm hữu ích với boss; sát thương cần chu kỳ dài."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7,
+      "note": "Loại một mục tiêu khỏi trận vẫn mạnh, nhưng phụ thuộc lượt đầu và đội hình."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Không nên ưu tiên Daruma Đen nếu chưa có đội PvP cụ thể."
+    }
+  ],
+  "strengths": [
+    "[Vô Tận Kiếm Ngục] tạm loại một mục tiêu khỏi trận mà không cần Hiệu quả chính xác.",
+    "Đá rơi không thể gánh chịu thay và không kích hoạt ngự hồn/nội tại mục tiêu.",
+    "Sau khi phóng thích mục tiêu, ba lần hiệp chiến kế tiếp được nâng xác suất lên 100%."
+  ],
+  "weaknesses": [
+    "Cần đi trước mục tiêu quan trọng để lưu đày có ý nghĩa.",
+    "Không thể tái dùng đại chiêu khi Kiếm Ngục đang tồn tại.",
+    "Vai trò PvE nhỏ và đội PvP hiện đại có nhiều cách khắc chế/đi vòng cơ chế."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Có thể làm sát thương kết thúc hoặc AoE thay thế, nhưng chu kỳ lưu đày–đá rơi quá chậm cho farm. Boss thường không nhận đầy đủ giá trị của việc loại khỏi trận."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Lối 《Bát Kỳ Đại Xà》 cấp lượt cho anh từng nổi bật vì có thể lưu đày ngay một mắt xích chủ chốt. Hướng này vẫn vận hành được nhưng hiện được xem là lựa chọn phụ, không phải đội leo hạng phổ dụng.",
+        "Khi chơi tốc chiến, cần ưu tiên đủ Bạo kích và sát thương để đá rơi thật sự kết liễu; không cần xây Hiệu quả chính xác cho hiệu ứng lưu đày."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP tốc chiến: 〈Phá Thế〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích. Thứ tự thường để đồng đội cấp lượt đi trước anh.",
+        "Khống chế/tình huống: 〈Tuyết U Hồn〉; Tốc độ – Hiệu quả chính xác – HP/Bạo kích chỉ khi muốn tận dụng các đòn khác để khống chế thêm; Hiệu quả chính xác không làm Kiếm Ngục chắc hơn."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师萌新式神技能与就业攻略",
+      "publisher": "中关村在线",
+      "url": "https://m.zol.com.cn/article/11344927.html",
+      "usedFor": "đối chiếu vai trò PvP hiện tại và đội Xà–Nhạc",
+      "publishedAt": "2026"
+    },
+    {
+      "title": "SSR大岳丸看法与解读",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/362958531_120261599",
+      "usedFor": "đối chiếu Phá Thế, điều kiện lưu đày và vai trò kết liễu"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
   },
   "rarity": "SR",
   "tier": "SR",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,7 +125,7 @@
         "zh": "弱者，就只配在火焰中化为灰烬。"
       },
       "description": {
-        "vi": "Khi tấn công, đối với kẻ địch mang trạng thái giảm ích và [tips_3], có 50% [tips_2] khiến kẻ đó [tips_108], duy trì 1 lượt.",
+        "vi": "Khi tấn công, đối với kẻ địch mang trạng thái debuff và [tips_3], có 50% [tips_2] khiến kẻ đó [tips_108], duy trì 1 lượt.",
         "en": "When attacking, she has a 50% (+Effect HIT) chance of inflicting [tips_108] lasting 1 turn on enemies with a debuff of [tips_3].",
         "zh": "攻击时，对带有减益效果和[tips_3]的敌方，有50%（+效果命中）概率使其[tips_108]，持续1回合。"
       },

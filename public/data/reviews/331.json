@@ -1,0 +1,85 @@
+{
+  "shikigamiId": 331,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Khắc chế PvP chuyên phong ấn đồng thời nội tại và bộ Ngự Hồn toàn đội địch; cần tích đủ 9 Thù Hận và giữ kết giới đúng nhịp",
+  "summary": "《Ngự Oán Bát Nhã》 tích {+Thù Hận} khi kẻ địch gây bạo kích, khi dùng kỹ năng và khi đồng minh tử trận. Đủ 9 tầng, anh giải toàn bộ khống chế, đẩy 45% thanh và có thể dùng [Tích Trọng Nan Phản] mở {+Phong Ấn Kết Giới}, thay thế nội tại lẫn hiệu ứng bộ Ngự Hồn của toàn bộ phe địch. Đây là hiệu ứng khắc chế mạnh nhưng vô hiệu với quái vật; mỗi lượt kẻ địch làm vỡ một Quỷ Diện nên đội phải kiểm soát nhịp hành động để kéo dài kết giới.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3.5,
+      "note": "Phong Ấn Kết Giới vô hiệu với quái vật nên mất vai trò cốt lõi."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 4,
+      "note": "Có nhiều hit nhưng không cạnh tranh với chủ lực PvE chuyên dụng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Phong ấn đồng thời nội tại và bộ Ngự Hồn toàn đội địch, rất mạnh trước đội phụ thuộc cơ chế bị động."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Thiên hẳn PvP, cần hiểu đội hình và đầu tư Tốc độ/sinh tồn nên không phải ưu tiên sớm."
+    }
+  ],
+  "strengths": [
+    "{+Thù Hận} mỗi tầng cho 10% Kháng Hiệu Ứng và 5% giảm sát thương; đủ 9 tầng sẽ tự giải toàn bộ khống chế và đẩy 45% thanh.",
+    "{+Phong Ấn Kết Giới} áp {−Áp Chế} lên nội tại và {−Phong Ấn} lên bộ Ngự Hồn của toàn bộ phe địch, đồng thời bản thân tăng 30 Tốc.",
+    "[Dự Nguyện Bất Phản] có 3 hit đơn và ít nhất 1 hit AoE; mỗi đồng minh dưới 50% HP thêm một hit ngẫu nhiên."
+  ],
+  "weaknesses": [
+    "Cần đủ 9 tầng {+Thù Hận} mới mở kết giới; sát thương không bạo kích hoặc khống chế liên tục có thể trì hoãn nhịp này.",
+    "Mỗi kẻ địch không phải vật triệu hồi kết thúc lượt sẽ phá 1 Quỷ Diện, vì vậy kết giới không tồn tại lâu nếu đối thủ hành động nhiều.",
+    "{+Phong Ấn Kết Giới} vô hiệu với quái vật, khiến giá trị PvE rất thấp."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không nên đầu tư vì PvE: hiệu ứng phong ấn cốt lõi không tác dụng lên quái vật. Chuỗi đa hit có thể kích hoạt Ngự Hồn nhưng hệ số và điều kiện không đủ để thay thế chủ lực chuyên dụng."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Dùng để khóa đội phụ thuộc nội tại và hiệu ứng bộ Ngự Hồn. Đội kéo thanh cho phe ta hoặc hạn chế lượt đối thủ giúp giữ Quỷ Diện lâu hơn. Khi kết giới đóng, toàn đội địch nhận {−Thù Hận Lan Rộng} 1 lượt; đánh mục tiêu mang hiệu ứng này giúp tái tích {+Thù Hận}."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Khống chế thanh hành động: 〈Nhật Nữ Tỵ Thời〉; Tốc độ – Công/HP – HP, ưu tiên Tốc độ và sinh tồn. Nhiều hit giúp kích hoạt đẩy thanh nhiều lần.",
+        "Khắc chế tài nguyên: 〈Mộc Mị〉; Tốc độ – HP – HP. Nếu đội cần sát thương hơn có thể dùng 〈Châm Nữ〉 với Tốc độ – Công – Bạo kích, nhưng đây là phương án phụ và làm giảm độ bền PvP."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "御怨般若の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/御怨般若.html",
+      "usedFor": "đối chiếu vai trò PvP, cách duy trì kết giới và đội hình hiện đại"
+    },
+    {
+      "title": "复仇往复面千重——SP御怨般若看法与解读",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/368089131_120261599",
+      "usedFor": "đối chiếu số hit và Nhật Nữ/Mộc Mị"
+    },
+    {
+      "title": "斗技御魂搭配准则",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/412230611_100047734",
+      "usedFor": "đối chiếu Nhật Nữ cho bộ kỹ năng đa hit"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "shikigamiId": 605,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Hỗ trợ PvE ngắn lượt rất tiện nhờ tăng sát thương bạo kích không hoạt ảnh và bổ sung Quỷ Hỏa",
+  "summary": "《Lạc Thiên Y》 thiên về PvE. [Ngã Tâm Cộng Hưởng] mở trận với thêm Quỷ Hỏa, tạo các tầng tiếng hát và tăng 30% sát thương chí mạng toàn đội mà không cần một lượt chủ động riêng. [Thiên Y Vạn Tượng] duy trì hỗ trợ khi trận kéo dài hơn. Cô giúp giảm yêu cầu trang bị và tăng tốc đội farm, nhưng ảnh hưởng PvP hạn chế.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Tăng 30% sát thương chí mạng không hoạt ảnh và thêm lửa rất hợp đội tốc sát."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7.5,
+      "note": "Vẫn duy trì buff nhưng cạnh tranh với hỗ trợ boss chuyên dụng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 5.5,
+      "note": "Có buff và kéo lượt nhưng thiếu cơ chế phòng thủ/khống chế nổi bật."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8.5,
+      "note": "Giúp giảm yêu cầu mặt bảng và dễ ghép vào đội farm."
+    }
+  ],
+  "strengths": [
+    "[Ngã Tâm Cộng Hưởng] tăng 30% sát thương chí mạng toàn đội ngay từ đầu.",
+    "Nhận thêm 1 Quỷ Hỏa khi trận bắt đầu.",
+    "Hiệu ứng hỗ trợ mở trận không cần hoạt ảnh dài, phù hợp tối ưu thời gian.",
+    "Ngự Hồn khá linh hoạt vì phần tăng sát thương không phụ thuộc Khiên."
+  ],
+  "weaknesses": [
+    "Định vị chính là PvE, tác động PvP không cao.",
+    "Không thay thế hoàn toàn hỗ trợ tăng sát thương dài lượt.",
+    "Giá trị giảm nếu đội hình đã thừa sát thương chí mạng hoặc thiếu loại buff khác.",
+    "Là thức thần liên động, khả năng sở hữu có thể bị giới hạn theo thời gian."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "《Lạc Thiên Y》 đặc biệt hợp các đội cần hoàn tất trận trước khi hỗ trợ phải hành động. 30% sát thương chí mạng giúp hạ yêu cầu mặt bảng của chủ lực, còn 1 Quỷ Hỏa hỗ trợ nhịp mở kỹ năng.",
+        "Các nguồn cộng đồng xếp cô về phía PvE trong cặp liên động. Cô phù hợp hoạt động ngắn lượt và đua tốc; ở boss dài, cần so trực tiếp với hỗ trợ chuyên tăng sát thương theo cơ chế boss."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Buff mở đầu vẫn hữu ích nhưng bộ kỹ năng thiếu bảo kê, giải khống chế hoặc áp lực trực tiếp. Do đó cô chủ yếu xuất hiện vì chiến thuật cụ thể hơn là vị trí meta phổ dụng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "〈Hỏa Linh〉 là lựa chọn an toàn để tối ưu Quỷ Hỏa mở đầu. Có thể dùng Ngự Hồn chức năng khác nếu đội đã đủ lửa.",
+        "Ưu tiên tốc độ theo kịch bản, sau đó là HP và Kháng để sống sót; cô không cần tranh chỉ số sát thương với chủ lực."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "SSR洛天依PVE培养攻略",
+      "publisher": "新浪新闻",
+      "url": "https://www.sina.cn/news/detail/5333555318360483.html",
+      "usedFor": "tăng 30% sát thương chí mạng, Quỷ Hỏa và định vị PvE"
+    },
+    {
+      "title": "洛天依、言和技能评测",
+      "publisher": "YouTube",
+      "url": "https://www.youtube.com/watch?v=mhMAgnVdU3A",
+      "usedFor": "đối chiếu vai trò một PvE, một PvP",
+      "publishedAt": "12/08/2026"
+    },
+    {
+      "title": "魂土进入全民11秒时代",
+      "publisher": "什么值得买",
+      "url": "https://post.smzdm.com/p/ae6de35q/",
+      "usedFor": "ứng dụng đội farm và giảm yêu cầu cấu hình"
+    }
+  ]
+}

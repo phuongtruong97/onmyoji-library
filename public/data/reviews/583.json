@@ -1,0 +1,102 @@
+{
+  "shikigamiId": 583,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ nhịp lượt đặc thù: biến lượt đồng minh thành hành động ngoài lượt tăng 40% sát thương, hoặc khóa kéo thanh/phối hợp của địch",
+  "summary": "《Himiko》 dùng [Tố Hồi Thời Khích] theo hai hướng: đồng minh vào {+Khe Hở Thời Gian}, hành động ngoài lượt và tăng 40% sát thương; kẻ địch nhận {−Vết Nứt Thời Gian}, không thể bị đổi thanh và không thể dùng kỹ năng/đánh thường ngoài lượt. {+Ánh Sáng Thời Gian} tiếp tục chuyển lượt của một đồng minh thành hành động ngoài lượt sau khi Himiko dùng [Nhật Diệu Thời Huy]. Cô rất mạnh trong đội PvP tiên thủ và có việc làm PvE ngắn lượt nhờ hiệu ứng mở trận, nhưng tương tác “không tính lượt” có nhiều ngoại lệ cần xây đội đúng.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8,
+      "note": "Tiên Cơ cấp Ánh Sáng Thời Gian cho đơn vị Tấn công cao nhất và Khe Hở tăng 40% sát thương."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Tạo thêm nhịp ngoài lượt và tăng sát thương, nhưng tương tác buff/Quỷ Hỏa phức tạp và không hợp mọi chủ lực."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Điều khiển nhịp bằng Khe Hở: kéo chủ lực phe mình hành động ngoài lượt hoặc dùng {−Vết Nứt Thời Gian} khóa đội dựa vào kéo thanh và hiệp chiến."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6.5,
+      "note": "Có giá trị PvE từ Tiên Cơ nhưng cơ chế nhiều tương tác đặc thù; PvP còn cần bộ tốc rất cao."
+    }
+  ],
+  "strengths": [
+    "Đồng minh trong {+Khe Hở Thời Gian} tăng 40% sát thương và hành động được xem là ngoài lượt.",
+    "{−Vết Nứt Thời Gian} chặn mọi thay đổi thanh hành động và ngăn mục tiêu dùng kỹ năng/đánh thường ngoài lượt trong 2 lượt.",
+    "Tiên Cơ cấp 1 tầng {+Ánh Sáng Thời Gian} cho thức thần phe ta có Tấn công ban đầu cao nhất.",
+    "[Nhật Diệu Thời Huy] đánh AoE 2 hit, bỏ qua hiệu ứng ngự hồn; khi Vết Nứt bị xóa còn tự thi triển miễn phí với sát thương giảm 30%."
+  ],
+  "weaknesses": [
+    "Hành động trong Khe Hở không đẩy thanh Quỷ Hỏa và nhiều buff/debuff tính theo lượt không giảm thời hạn, gây lệch tương tác với một số đồng đội.",
+    "Đơn vị vừa ở Khe Hở vừa mang Vết Nứt có thể bị trắng lượt: hành động được tính ngoài lượt nhưng Vết Nứt cấm kỹ năng lẫn đánh thường ngoài lượt.",
+    "Kỹ năng 2 đặt lên địch cần vượt Kháng; nguồn thực chiến ghi nhận vẫn có thể bị kháng dù xác suất cơ bản cao.",
+    "Rất sợ khống chế, 〈Mộc Mị〉 làm hụt lửa và các phản ứng kích bởi AoE ngoài lượt; bản thân không có cơ chế miễn khống chế."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Ở đội tốc chiến, có thể dùng chỉ hiệu ứng Tiên Cơ để chủ lực Tấn công cao nhất nhận {+Ánh Sáng Thời Gian}. Một số đội Vĩnh Sinh Chi Hải dùng Himiko không mang ngự hồn, giữ hoạt ảnh/tốc độ tối thiểu rồi để chủ lực khai thác lượt ngoài lượt và tăng 40% sát thương.",
+        "Không phải chủ lực nào cũng hợp: đơn vị trong Khe Hở không chạy thanh Quỷ Hỏa; một số buff đi kèm “lượt thứ hai” hoặc cơ chế hành động thường sẽ không kích. Cần kiểm tra đội cụ thể thay vì coi 40% là buff phổ dụng vô điều kiện."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Himiko》 là bộ điều phối lượt có hai cách dùng rõ rệt. Đặt [Khe Hở Thời Gian] lên đồng minh giúp chủ lực hành động ngoài lượt và nhận tăng sát thương; trong đội Hỏa Sơn, cô thường đi sớm để trao lượt cho 《Bình Tướng Môn》, tạo áp lực trước khi đối phương dựng đủ phòng tuyến. Đặt lên kẻ địch tạo {−Vết Nứt Thời Gian}, đặc biệt khó chịu với đội cần kéo/đẩy thanh hoặc đánh phối hợp ngoài lượt.",
+        "Cơ chế này mạnh nhưng không phải kéo lượt phổ thông. Hành động trong Khe Hở không đẩy thanh Quỷ Hỏa và có thể làm lệch thời hạn buff/debuff; mục tiêu vừa ở Khe Hở vừa mang Vết Nứt còn có nguy cơ trắng lượt. Khi dùng kỹ năng lên địch vẫn phải qua Kháng hiệu ứng. Cô cũng không tự miễn khống chế, nên nếu bị khóa trước lượt đầu hoặc bị 〈Mộc Mị〉 làm hụt lửa, đội có thể mất toàn bộ chuỗi chủ động."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP tiên thủ: bộ rời Tốc độ nhanh nhất; Tốc độ – Chính xác/HP – HP. Chọn Chính xác nếu thường đặt kỹ năng 2 lên địch, chọn HP nếu chủ yếu kéo chủ lực phe mình.",
+        "PvP gây hiệu ứng bằng AoE miễn phí: 〈Mị Yêu〉, 〈Chung Linh〉 hoặc bộ khống chế phù hợp; Tốc độ – Chính xác – HP. Không dùng 〈Nhật Nữ Tỵ Thời〉 để phối hợp Vết Nứt vì mục tiêu mang dấu miễn nhiễm thay đổi thanh. PvE Tiên Cơ có thể để trống/bộ rời Tấn công theo yêu cầu đội, tránh thêm hoạt ảnh hoặc tranh chỉ số Tấn công cao nhất."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "卑弥呼",
+      "publisher": "阴阳师灰机Wiki",
+      "url": "https://yys.huijiwiki.com/wiki/卑弥呼",
+      "usedFor": "đối chiếu Khe Hở, Vết Nứt, Ánh Sáng Thời Gian và hệ số kỹ năng"
+    },
+    {
+      "title": "卑弥呼机制测试与永生之海P2",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1jZoNYZERQ/",
+      "usedFor": "đối chiếu tương tác thanh Quỷ Hỏa, buff, tự động và việc làm PvE"
+    },
+    {
+      "title": "卑弥呼技能升级说明",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1fWLxzdEwo/",
+      "usedFor": "đối chiếu ngự hồn khống chế, AoE ngoài lượt và cảnh báo Nhật Nữ/nhóm ngự hồn chức năng"
+    },
+    {
+      "title": "思金神火山队斗技攻略",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1Px98BxEKV/",
+      "usedFor": "xác nhận lối bộ rời Tốc độ nhanh nhất trong đội PvP hiện hành"
+    },
+    {
+      "title": "市加美版本卑茶挖土斗技实况",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1dRD7BKE6f/",
+      "usedFor": "đối chiếu cách Himiko điều phối lượt và biến trận",
+      "publishedAt": "09/04/2026"
+    }
+  ]
+}

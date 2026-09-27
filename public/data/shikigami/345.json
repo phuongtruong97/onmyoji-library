@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -66,8 +67,8 @@
         "zh": "这里是最好的猎场。"
       },
       "description": {
-        "vi": "[tips_11].\nDùng xích tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 50% Tấn công, có 100% xác suất đính kèm [buff_3452_1], duy trì 2 lượt; nếu kẻ địch đã có [buff_3452_1] thì xác suất giảm xuống 30%. \nKhi kẻ địch nhận được hiệu ứng tăng Thanh Hành Động đơn thể hoặc tăng tốc, Quỷ Đồng Hoàn thi triển [Hàng Chu] lên kẻ đó (trước khi bắt đầu lượt, hiệu ứng này cùng [Hàng Chu] do Hài Chi Tỏa kích hoạt thêm thi triển tối đa 5 lần, nếu kẻ địch đã nhận [buff_3452_1] sẽ không kích hoạt lần nữa).",
-        "en": "[Tips_11].\nAttacks an enemy target 2 times with chains, each hit dealing 50% ATK damage, with a 100% chance to inflict [buff_3452_1] for 2 turns. If the target is already afflicted with [buff_3452_1], the chance is reduced to 30%. When the enemy gains a single-target Move Bar boost or a SPD Up effect, Kidomaru casts Descending Judgment on them. (回合开始前，该效果和骸之锁额外触发的「降诛]至多施放5次，若敌方已获得「骸之锁]则不会再次触发）)",
+        "vi": "[tips_11]\nDùng xích tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 50% Tấn công, có 100% xác suất đính kèm [buff_3452_1], duy trì 2 lượt; nếu kẻ địch đã có [buff_3452_1] thì xác suất giảm xuống 30%. \nKhi kẻ địch nhận được hiệu ứng tăng Thanh Hành Động đơn thể hoặc tăng tốc, Quỷ Đồng Hoàn thi triển [Hàng Chu] lên kẻ đó (trước khi bắt đầu lượt, hiệu ứng này cùng [Hàng Chu] do Hài Chi Tỏa kích hoạt thêm thi triển tối đa 5 lần, nếu kẻ địch đã nhận [buff_3452_1] sẽ không kích hoạt lần nữa).",
+        "en": "[tips_11]\nAttacks an enemy target 2 times with chains, each hit dealing 50% ATK damage, with a 100% chance to inflict [buff_3452_1] for 2 turns. If the target is already afflicted with [buff_3452_1], the chance is reduced to 30%. When the enemy gains a single-target Move Bar boost or a SPD Up effect, Kidomaru casts Descending Judgment on them. (回合开始前，该效果和骸之锁额外触发的「降诛]至多施放5次，若敌方已获得「骸之锁]则不会再次触发）)",
         "zh": "[tips_11]。\n用锁链攻击敌方目标2次，每次造成攻击50%伤害，有100%概率附加[buff_3452_1]，持续2回合；若敌方已有[buff_3452_1]则概率降至30%。敌方获得单体行动条提升或加速效果时，鬼童丸对其施放「降诛](回合开始前，该效果和骸之锁额外触发的「降诛]至多施放5次，若敌方已获得「骸之锁]则不会再次触发）)。"
       },
       "upgrades": [
@@ -124,8 +125,8 @@
         "zh": "你也想被我穿在身上吗？"
       },
       "description": {
-        "vi": "[tips_11].\nKhi Quỷ Đồng Hoàn nhận 3 tầng [buff_3451_1], tiến vào trạng thái [buff_3453_1],\nTrong trạng thái [buff_3453_1], sau lượt kẻ địch, thi triển [skill_3454_1] lên kẻ địch.",
-        "en": "[tips_11].\nKidomaru enters the [buff_3453_1] state when he has 3 layers of [buff_3451_1].\nWhen he's in the [buff_3453_1] state, he uses [skill_3454_1] on all enemies at the end of an enemy's turn.",
+        "vi": "[tips_11]\nKhi Quỷ Đồng Hoàn nhận 3 tầng [buff_3451_1], tiến vào trạng thái [buff_3453_1],\nTrong trạng thái [buff_3453_1], sau lượt kẻ địch, thi triển [skill_3454_1] lên kẻ địch.",
+        "en": "[tips_11]\nKidomaru enters the [buff_3453_1] state when he has 3 layers of [buff_3451_1].\nWhen he's in the [buff_3453_1] state, he uses [skill_3454_1] on all enemies at the end of an enemy's turn.",
         "zh": "[tips_11]。\n当鬼童丸获得3层[buff_3451_1]时，进入[buff_3453_1]状态，\n[buff_3453_1]状态下，敌方回合后，对敌方施放[skill_3454_1]。"
       },
       "upgrades": [
@@ -240,8 +241,8 @@
         "zh": "锁链上有你的名字，直到海枯石烂也无法逃脱。"
       },
       "description": {
-        "vi": "[tips_11].\nQuỷ Đồng Hoàn tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 70% Tấn công và đính kèm [buff_3452_1], duy trì 2 lượt, và tiến vào [buff_3454_1], sau khi kết thúc lượt nhận 1 tầng [buff_3451_1], nếu đã ở trạng thái [buff_3454_1], thì không thể nhận lại [buff_3454_1].",
-        "en": "[tips_11].\nKidomaru launches a 3-strike attack on the enemy target, dealing damage equal to 70% of his ATK and inflicting [buff_3452_1] for 2 turns on each strike. Kidomaru then becomes [buff_3454_1] and gains a stack of [buff_3451_1] at the end of the turn. If Kidomaru is already in the [buff_3454_1] state, he cannot gain [buff_3454_1] again.",
+        "vi": "[tips_11]\nQuỷ Đồng Hoàn tấn công mục tiêu kẻ địch 3 lần, mỗi lần gây sát thương bằng 70% Tấn công và đính kèm [buff_3452_1], duy trì 2 lượt, và tiến vào [buff_3454_1], sau khi kết thúc lượt nhận 1 tầng [buff_3451_1], nếu đã ở trạng thái [buff_3454_1], thì không thể nhận lại [buff_3454_1].",
+        "en": "[tips_11]\nKidomaru launches a 3-strike attack on the enemy target, dealing damage equal to 70% of his ATK and inflicting [buff_3452_1] for 2 turns on each strike. Kidomaru then becomes [buff_3454_1] and gains a stack of [buff_3451_1] at the end of the turn. If Kidomaru is already in the [buff_3454_1] state, he cannot gain [buff_3454_1] again.",
         "zh": "[tips_11]。\n鬼童丸攻击敌方目标3次，每次造成攻击70%伤害并附加[buff_3452_1]，持续2回合，并进入[buff_3454_1]，回合结束后获得1层[buff_3451_1]，若已经处于[buff_3454_1]，则无法再次获得[buff_3454_1]。"
       },
       "upgrades": [

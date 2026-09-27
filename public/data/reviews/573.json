@@ -1,0 +1,103 @@
+{
+  "shikigamiId": 573,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực bùng nổ PvE/PvP biến sát thương thành Huyền Huyết rồi kết liễu bằng sát thương xuyên thủ–giảm sát thương",
+  "summary": "《Long Giác》 gây AoE 588% Tấn công rồi truy kích mục tiêu chỉ định 3 hit, mỗi hit 198%. Sát thương cô gây và nhận trước hết chuyển thành {−Huyền Huyết}; khi mục tiêu chỉ còn Huyền Huyết, Long Tức kích hoạt {−Sát thương Hình Hủy}, bỏ qua Phòng thủ và giảm sát thương. Với quái, hệ số Long Tức đạt 100% sát thương gốc, giúp cô có các đội farm chuyên biệt; trong PvP, khả năng xuyên lớp chống chịu và tự thanh lọc Huyền Huyết tạo sức ép kết liễu rất cao.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Hệ số kỹ năng 3 rất cao và Long Tức lên 100% với quái, đã có đội hình tốc chiến nhiều phó bản."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8,
+      "note": "Sát thương ổn định và có tự hồi/thanh lọc, nhưng cơ chế Huyền Huyết cần đúng nhịp đội hình."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Chủ lực phá lõi bằng {−Huyền Huyết}; đội tiên thủ dùng kéo lượt để cô đánh hai nhịp, còn bản thân có cơ chế hồi và thanh lọc khi HP thật cạn."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Là chủ lực mạnh và dùng được nhiều PvE, song một số đội tốc chiến đòi chỉ số, tốc độ và hỗ trợ cụ thể."
+    }
+  ],
+  "strengths": [
+    "[Phi Long Hành Đạo] có tổng hệ số rất cao: AoE 588% rồi 3 hit đơn mục tiêu, mỗi hit 198% Tấn công.",
+    "{−Sát thương Hình Hủy} bỏ qua Phòng thủ và hiệu ứng giảm sát thương của mục tiêu.",
+    "Đối với quái, hệ số Long Tức tăng lên 100% sát thương gốc, tạo sức bật PvE rõ rệt.",
+    "Khi bản thân chỉ còn {−Huyền Huyết}, cô tự kích [Long Tức Chi Lực], hồi 50% HP, kéo 50% thanh, thanh lọc Huyền Huyết và xua tan ngẫu nhiên 2 trạng thái xấu của đồng minh."
+  ],
+  "weaknesses": [
+    "Muốn kích Long Tức phải chuyển toàn bộ HP mục tiêu thành Huyền Huyết; ở PvP hệ số kích nổ chỉ bằng 30% sát thương gốc.",
+    "Đòn chính tiêu 3 Quỷ Hỏa và cần đội cấp lửa/kéo lượt để dồn hai lần liên tiếp.",
+    "Phòng thủ cơ bản thấp; nếu bị khóa kỹ năng hoặc dồn chết trước khi tự thanh lọc thì cơ chế hồi phục không cứu được.",
+    "Không phù hợp ngự hồn khống chế: phần chuyển HP thành Huyền Huyết không phải lúc nào cũng được tính như gây sát thương để kích hiệu ứng ngự hồn."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Cô có việc làm thực tế ở Ngự Linh, Nhật Luân, Hồn Hải và một số đội farm/sự kiện. Ở Ngự Linh, cấu hình đã được kiểm chứng dùng 〈Phá Thế〉 + 〈Hoang Khô Lâu〉 với Tốc độ – Tấn công – Bạo kích/Bạo thương cho bản 8 giây, hoặc Tấn công – Tấn công – Bạo kích/Bạo thương cho bản 9 giây.",
+        "Ở nội dung dài hơn hoặc lượng Quỷ Hỏa cao, 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉 khai thác toàn bộ chuỗi AoE và truy kích. Cần chỉnh cô đi trước chủ lực kết liễu nếu đội muốn Long Giác chuyển HP mục tiêu thành Huyền Huyết trước."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Long Giác》 gây sức ép theo hai nhịp: lượt đầu dùng [Phi Long Hành Đạo] chuyển HP mục tiêu thành {−Huyền Huyết} và phá mắt xích quan trọng, lượt sau kích Long Tức để xuyên Phòng thủ và hiệu ứng giảm sát thương. Các đội tiên thủ thường ghép 《Bát Kỳ Đại Xà》 hoặc 《Yêu Cầm Sư》 nhằm cho cô hành động liên tiếp; thực chiến gần đây vẫn cho thấy hướng này có thể kết thúc nhanh những đội chưa kịp dựng bảo hộ.",
+        "Cô không phải chủ lực tự vận hành. Kỹ năng chính tiêu 3 Quỷ Hỏa, cần người kéo lượt và nguồn lửa đủ chắc; nếu bị khóa kỹ năng, cắt chuỗi hoặc dồn chết trước ngưỡng tự kích [Long Tức Chi Lực], đội sẽ thiếu sát thương kết liễu. Cơ chế {−Huyền Huyết} giúp vượt nhiều lớp giảm sát thương, nhưng không đồng nghĩa miễn khống chế hay miễn mọi phản ứng phòng thủ."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE: 〈Phá Thế〉 + 〈Hoang Khô Lâu〉 cho tốc chiến, hoặc 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉 cho nội dung đủ lửa; Tốc độ/Tấn công – Tấn công – Bạo kích/Bạo thương, đủ 100% Bạo kích.",
+        "PvP bùng nổ: 〈Phá Thế〉 hoặc 〈Võng Thiết〉; Tấn công – Tấn công – Bạo kích/Bạo thương. PvP hậu thủ: 〈Luân Nhập Đạo〉 hoặc 〈Địa Tạng Tượng〉; Tốc độ – Tấn công – Bạo kích/Bạo thương, thường hướng tới trên 195–210 Tốc độ tùy đội."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "龙珏御灵通用八秒/九秒阵容",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1mRtFeVE6X/",
+      "usedFor": "đối chiếu việc làm Ngự Linh, Phá Thế + Hoang Khô Lâu, chỉ số và thứ tự tốc"
+    },
+    {
+      "title": "龙珏清屏流斗技攻略",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1uF4HeqEY6/",
+      "usedFor": "đối chiếu đội PvP kéo lượt, hướng Phá Thế và khả năng xuyên lớp chống chịu"
+    },
+    {
+      "title": "日轮之陨新御魂本：龙珏阵容",
+      "publisher": "YouTube",
+      "url": "https://www.youtube.com/watch?v=zd0shuzxAjI",
+      "usedFor": "xác nhận việc làm Nhật Luân và cấu hình Cuồng Cốt + Hoang Khô Lâu"
+    },
+    {
+      "title": "龙珏挖土：ban平版本实战",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1Zf5o6FEZ6/",
+      "usedFor": "đối chiếu sức ép PvP và chuỗi hành động của Long Giác",
+      "publishedAt": "18/05/2026"
+    },
+    {
+      "title": "龙珏机制详解：玄血与龙息",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1Hiw8emEgK/",
+      "usedFor": "đối chiếu cơ chế Huyền Huyết và điều kiện kích Long Tức",
+      "publishedAt": "21/01/2025"
+    }
+  ]
+}

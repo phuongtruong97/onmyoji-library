@@ -1,0 +1,88 @@
+{
+  "shikigamiId": 389,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực đơn thể hàng đầu với sáu hit và đòn Thiên Uy ngoài lượt; mạnh ở boss lẫn PvP nhưng đòi hỏi căn đội chính xác",
+  "summary": "《Tu Tá Chi Nam》 dùng [Thiên Lôi Vạn Tượng] đánh một mục tiêu sáu lần, càng mạnh khi HP tối đa của mục tiêu cao hơn anh. [Thần Chi Lĩnh Vực] còn cho đồng minh dùng [Thiên Uy] đầu lượt để anh đánh thay mà không tiêu lượt hay Quỷ Hỏa của mình. Cơ chế này tạo sát thương đơn thể dày đặc trong PvE và khả năng loại mục tiêu sớm trong PvP, nhưng cần chọn đúng đồng minh kích hoạt và bộ Ngự Hồn theo lượng Quỷ Hỏa thực tế.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Sáu hit hệ số cao và Thiên Uy tạo thêm đòn đánh không tốn lượt."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9,
+      "note": "Rất mạnh trước boss nhiều HP, tương thích nhiều bộ sát thương đơn thể."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Sát thương đơn mục tiêu theo lượt đồng minh với [Thiên Uy], có thể trấn áp mục tiêu đã hạ thành Lôi Trủng; vẫn nguy hiểm nhưng phụ thuộc mở đường và bảo vệ."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8.5,
+      "note": "Đầu tư đáng giá, nhưng cần đủ Bạo kích và đội cấp Quỷ Hỏa/căn tốc."
+    }
+  ],
+  "strengths": [
+    "[Thiên Lôi Vạn Tượng] đánh sáu lần và tăng sát thương trước mục tiêu có HP tối đa cao.",
+    "[Thiên Uy] cho phép tấn công trong lượt đồng minh mà không tiêu lượt hành động của anh.",
+    "Đòn Thiên Uy vẫn kích hoạt ngự hồn của Tu Tá Chi Nam, tạo nhiều cách phối bộ PvE."
+  ],
+  "weaknesses": [
+    "[Thiên Uy] làm đồng minh trong lượt đó không thể gây sát thương, cần chọn đúng hỗ trợ để kích hoạt.",
+    "Phụ thuộc đầy Bạo kích và bộ sát thương chất lượng cao.",
+    "Bị phong ấn nội tại sẽ mất Thiên Uy, Lôi Thuẫn và khả năng trấn áp thành Lôi Trủng."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Là chủ lực đơn thể cho Ngự Hồn, Thần Phạt, Ngự Linh, boss và sự kiện. Cho các hỗ trợ không cần gây sát thương dùng [Thiên Uy], còn anh giữ đại chiêu cho lượt chính để tăng tổng số đòn.",
+        "〈Ẩn Niệm〉 rất hợp sáu hit vào cùng mục tiêu vì tăng dần sát thương. 〈Hải Nguyệt Hỏa Ngọc〉 mạnh khi đội đầy Quỷ Hỏa; 〈Cuồng Cốt〉 dùng khi sau khi thi triển vẫn còn nhiều lửa. Hai món thường là 〈Quỷ Linh Ca Kỹ〉 hoặc 〈Hoang Khô Lâu〉 tùy phó bản."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Tu Tá Chi Nam》 gây áp lực trước cả lượt chính nhờ [Thiên Uy]: đồng minh hành động có thể gọi anh đánh mục tiêu đã chọn, giúp đội tiên thủ phá Khiên hoặc kết liễu lõi từ rất sớm. Khi hạ thức thần địch, cơ chế Lôi Trủng hạn chế nhiều cách hồi sinh và giữ vị trí mục tiêu, khiến một lần bắt đúng lõi có giá trị lâu dài. Anh hợp đội có 《Đế Thích Thiên》, người kéo lượt hoặc khống chế mở đường để chuỗi [Thiên Uy] không bị cắt.",
+        "Nhược điểm là sát thương tập trung vào một mục tiêu và bản thân không tự bảo đảm lượt. Khi bị khóa, giảm sát thương, bảo vệ bằng chia sẻ hoặc buộc đổi mục tiêu, áp lực giảm rõ. Đội hậu thủ nhiều lớp Khiên và giảm sát thương có thể sống qua chuỗi đầu rồi phản công vào thân hình tương đối mỏng của anh. Vì vậy anh vẫn là chủ lực mạnh, nhưng cần đội hình tạo khoảng trống thay vì tự giải quyết toàn bộ thế trận."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE sáu hit: 〈Ẩn Niệm〉 + 〈Quỷ Linh Ca Kỹ〉/〈Hoang Khô Lâu〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích.",
+        "PvE theo Quỷ Hỏa: 〈Hải Nguyệt Hỏa Ngọc〉 hoặc 〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích. PvP tốc chiến: 〈Phá Thế〉; Tốc độ/Công – Công – Bạo kích/Sát thương bạo kích."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "須佐之男の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/227192554876059984.html",
+      "usedFor": "đối chiếu sáu hit, Thiên Uy, Ẩn Niệm, Hải Nguyệt và các bộ sát thương"
+    },
+    {
+      "title": "最強周回式神ランキング",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/ランキング/最強周回式神ランキング.html",
+      "usedFor": "đối chiếu Cuồng Cốt/Hải Nguyệt/Tâm Nhãn và các nội dung PvE cụ thể"
+    },
+    {
+      "title": "须佐之男斗技养成：技能、配队与克制",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV17D421P7dr/",
+      "usedFor": "đối chiếu Thiên Uy, cách ghép đội và điểm bị khắc chế",
+      "publishedAt": "05/05/2024"
+    }
+  ]
+}

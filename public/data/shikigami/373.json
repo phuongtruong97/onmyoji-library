@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -149,8 +150,8 @@
         "zh": "七重落幕，七种终局。"
       },
       "description": {
-        "vi": "[tips_11]. Trước khi bắt đầu chiến đấu, sát thương nhận phải giảm 49%, đồng thời nhận 70% kháng hiệu ứng. \n[Thi triển] Tung ra 3 con dơi gây sát thương 270% cho mục tiêu kẻ địch đồng thời đính kèm [buff_3733_1].\nMục tiêu kẻ địch có thể chọn [buff_3733_1] cùng thời gian kết toán trước lượt của bản thân, nếu chọn kết toán trước lượt, sẽ trực tiếp kích hoạt hiệu ứng [buff_3733_1] và kết thúc lượt của mục tiêu, nếu chọn kết toán sau lượt, thì mục tiêu hoàn thành lượt rồi mới kích hoạt hiệu ứng [buff_3733_1].\nKhi [buff_3733_1] kích hoạt, sát thương nhận phải tăng 7%, kháng hiệu ứng giảm 10%, đồng thời gây cho toàn thể kẻ địch lượng sát thương chuẩn bằng 100% tấn công của Yatagarasu, sát thương này không kích hoạt Ngự Hồn của người mang và kẻ địch. Khi cả 7 hiệu ứng của [buff_3733_1] đều được kích hoạt, nếu không ở trạng thái [tips_17], gây 7 lần sát thương [tips_18] bằng 77% tấn công cho mục tiêu kẻ địch ngẫu nhiên và làm mới hiệu ứng [buff_3733_1], mỗi lần tấn công đẩy lùi 20% thanh hành động của kẻ địch; tiêu hao Quỷ Hỏa của kỹ năng giảm 1 điểm.",
-        "en": "[tips_11]. Gains 70% Effect RES and 49% damage taken reduction.\nReleases 3 bats and attack 1 enemy, dealing damage equal to 270% of his ATK and inflicting [buff_3733_1] on them.\nThe enemy can choose the type and trigger time of the [buff_3733_1].\nWhen [buff_3733_1] is triggered, increases his damage taken by 7% and reduces Effect RES by 10%. Dealing 100% true damage of his ATK to all enemies, which will not trigger Souls effect on both side. After [buff_3733_1]'s all 7 effects triggered, launches a 7-strike attack on random enemies, dealing [tips_18] equal to 77% of his ATK and lowers the enemy's Move Bar by 20% for each strike if he's not [tips_17]. Then [buff_3733_1]'s effects resets.",
+        "vi": "[tips_11] Trước khi bắt đầu chiến đấu, sát thương nhận phải giảm 49%, đồng thời nhận 70% kháng hiệu ứng. \n[Thi triển] Tung ra 3 con dơi gây sát thương 270% cho mục tiêu kẻ địch đồng thời đính kèm [buff_3733_1].\nMục tiêu kẻ địch có thể chọn [buff_3733_1] cùng thời gian kết toán trước lượt của bản thân, nếu chọn kết toán trước lượt, sẽ trực tiếp kích hoạt hiệu ứng [buff_3733_1] và kết thúc lượt của mục tiêu, nếu chọn kết toán sau lượt, thì mục tiêu hoàn thành lượt rồi mới kích hoạt hiệu ứng [buff_3733_1].\nKhi [buff_3733_1] kích hoạt, sát thương nhận phải tăng 7%, kháng hiệu ứng giảm 10%, đồng thời gây cho toàn thể kẻ địch lượng sát thương chuẩn bằng 100% tấn công của Yatagarasu, sát thương này không kích hoạt Ngự Hồn của người mang và kẻ địch. Khi cả 7 hiệu ứng của [buff_3733_1] đều được kích hoạt, nếu không ở trạng thái [tips_17], gây 7 lần sát thương [tips_18] bằng 77% tấn công cho mục tiêu kẻ địch ngẫu nhiên và làm mới hiệu ứng [buff_3733_1], mỗi lần tấn công đẩy lùi 20% thanh hành động của kẻ địch; tiêu hao Quỷ Hỏa của kỹ năng giảm 1 điểm.",
+        "en": "[tips_11] Gains 70% Effect RES and 49% damage taken reduction.\nReleases 3 bats and attack 1 enemy, dealing damage equal to 270% of his ATK and inflicting [buff_3733_1] on them.\nThe enemy can choose the type and trigger time of the [buff_3733_1].\nWhen [buff_3733_1] is triggered, increases his damage taken by 7% and reduces Effect RES by 10%. Dealing 100% true damage of his ATK to all enemies, which will not trigger Souls effect on both side. After [buff_3733_1]'s all 7 effects triggered, launches a 7-strike attack on random enemies, dealing [tips_18] equal to 77% of his ATK and lowers the enemy's Move Bar by 20% for each strike if he's not [tips_17]. Then [buff_3733_1]'s effects resets.",
         "zh": "[tips_11]。战斗开始前，受到的伤害降低49%，并获得70%效果抵抗。挥出3只蝙蝠对敌方目标造成攻击270%伤害并附加[buff_3733_1]。\n敌方目标可在自身回合前选择[buff_3733_1]以及结算时间，若是选择回合前结算，则直接触发[buff_3733_1]效果并结束目标回合，若是选择回合后结算，则目标完成回合后触发[buff_3733_1]效果。\n[buff_3733_1]触发时，受到伤害增加7%，降低10%效果抵抗，并对敌方全体造成夜刀神攻击100%的真实伤害，此伤害不触发携带者以及敌方的御魂。[buff_3733_1]7种效果全触发时，若未处于[tips_17]，对随机敌方目标造成7次攻击77%[tips_18]并重置[buff_3733_1]效果，每次攻击时击退敌方20%行动条；技能消耗鬼火减少1点。"
       },
       "upgrades": [
@@ -257,7 +258,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "Khi bắt đầu lượt của mục tiêu dính ấn, họ phải chọn kích hoạt một trong các hiệu ứng sau:\nBỏ qua lượt của bản thân: Gây cho toàn bộ kẻ địch một lượng sát thương chuẩn tương đương 100% Công của Dạ Đao Thần.\nKích hoạt khi kết thúc lượt: Gây cho toàn bộ kẻ địch một lượng sát thương chuẩn tương đương 200% Công của Dạ Đao Thần. Đồng thời hồi phục cho toàn bộ đồng minh lượng Máu bằng 80% tổng sát thương gây ra, lượng hồi phục này được chia đều cho tất cả đồng minh.",
+        "vi": "Khi bắt đầu lượt của mục tiêu dính ấn, họ phải chọn kích hoạt một trong các hiệu ứng sau:\nBỏ qua lượt của bản thân: Gây cho toàn bộ kẻ địch một lượng sát thương chuẩn tương đương 100% Tấn Công của Dạ Đao Thần.\nKích hoạt khi kết thúc lượt: Gây cho toàn bộ kẻ địch một lượng sát thương chuẩn tương đương 200% Tấn Công của Dạ Đao Thần. Đồng thời hồi phục cho toàn bộ đồng minh lượng Máu bằng 80% tổng sát thương gây ra, lượng hồi phục này được chia đều cho tất cả đồng minh.",
         "en": "",
         "zh": ""
       },

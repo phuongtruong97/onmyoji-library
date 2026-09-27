@@ -1,0 +1,87 @@
+{
+  "shikigamiId": 356,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ Quỷ Hỏa và khuếch đại sát thương mạnh trong trận dài; PvP còn khả năng trừ Quỷ Hỏa nhưng đã có nhiều lựa chọn mới cạnh tranh",
+  "summary": "《Thiên Cơ》 triệu hồi Hải Nguyên Bối Kích bằng [Hải Triều Nhập Mộng]. Đồng minh tiêu Quỷ Hỏa sẽ tích Triều Thanh; đủ tầng hoàn trả Quỷ Hỏa và tăng sát thương toàn đội theo thời gian, trong khi cây kích còn hồi lại một phần sát thương đồng minh phải chịu. Cô đặc biệt phù hợp boss dài lượt, nơi 〈Đồ Phật〉 bổ sung thêm tăng sát thương; ở PvP cô đi nhanh để đặt kích và dùng [Tịch Mộng] gây {−Tịch Mịch} nhằm can thiệp Quỷ Hỏa đối phương.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 6.5,
+      "note": "Cần tích Triều Thanh nên chưa phát huy đủ trong đội kết thúc tức thời."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Vừa hoàn trả Quỷ Hỏa vừa cộng dồn tăng sát thương cho toàn đội."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7.5,
+      "note": "Tốc độ cao, miễn khống chế trước khi đặt kích và có thể phá nhịp Quỷ Hỏa."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Hỗ trợ boss tốt, nhưng cần hiểu lúc nào không được rút Hải Nguyên Bối Kích."
+    }
+  ],
+  "strengths": [
+    "Hải Nguyên Bối Kích hoàn trả Quỷ Hỏa và cộng dồn tăng sát thương theo lượng Quỷ Hỏa đồng đội tiêu hao.",
+    "Trước khi triệu hồi kích, cô miễn nhiễm hiệu ứng khống chế nên thường đặt được vật triệu hồi đầu trận.",
+    "Sau lượt của mỗi kẻ địch không phải vật triệu hồi, cô tự kéo 10% thanh hành động."
+  ],
+  "weaknesses": [
+    "Rút Hải Nguyên Bối Kích bằng [Vĩnh Sinh Chi Tịch] sẽ tạm mất nguồn Quỷ Hỏa và hỗ trợ của vật triệu hồi.",
+    "Cần trận đủ dài để tích đủ các tầng tăng sát thương.",
+    "Ô vật triệu hồi có thể xung đột với cơ chế triệu hồi khác của đội."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Đặt Hải Nguyên Bối Kích rồi ưu tiên đánh thường để giữ vật triệu hồi trên sân. Khi đồng đội tiêu Quỷ Hỏa, đội vừa tích hoàn trả lửa vừa nhận tăng sát thương; vì vậy không nên để tự động dùng [Vĩnh Sinh Chi Tịch] và rút kích nếu mục tiêu là hỗ trợ boss.",
+        "〈Đồ Phật〉 là lựa chọn chuẩn cho hỗ trợ dài lượt vì cô thường đánh thường sau khi đặt kích. 〈Hỏa Linh〉 dùng khi đội cần Quỷ Hỏa mở màn; chỉ dùng 〈Cuồng Cốt〉 khi xây cô như sát thương phụ và chấp nhận rút kích."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Ưu tiên Tốc độ để đặt kích sớm. [Tịch Mộng] gắn {−Tịch Mịch} khi kích tồn tại, tạo sức ép lên Quỷ Hỏa mục tiêu; 〈Chiêu Tài Miêu〉 đảm bảo vận hành, còn 〈Mộc Mị〉 tăng khả năng phá lửa trong đội phản công.",
+        "Sau khi kích đã được triệu hồi, cô không còn miễn khống chế thường trực, do đó Kháng hiệu ứng hoặc đồng đội giải khống chế vẫn quan trọng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE hỗ trợ boss: 〈Đồ Phật〉; Công – Công – Bạo kích hoặc Tốc độ – Công – Bạo kích, đủ 100% Bạo kích nếu cần sát thương/hồi phục phụ. Có thể dùng 〈Hỏa Linh〉 khi đội thiếu lửa đầu trận.",
+        "PvP: 〈Chiêu Tài Miêu〉 hoặc 〈Mộc Mị〉; Tốc độ – Công/HP – Bạo kích/HP. Ưu tiên Tốc độ, sau đó Kháng hiệu ứng và độ bền; không cần Hiệu quả chính xác để vận hành Hải Nguyên Bối Kích."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "千姫の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/千姫.html",
+      "usedFor": "đối chiếu hoàn trả Quỷ Hỏa, tăng sát thương, hồi phục và bộ PvE/PvP"
+    },
+    {
+      "title": "式神进阶篇：携带式神推荐修补",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/103874768754707862",
+      "usedFor": "đối chiếu Đồ Phật, Hỏa Linh, Chiêu Tài và vị trí hỗ trợ PvE"
+    },
+    {
+      "title": "阴阳师攻略—式神御魂搭配篇SSR（千姬）",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/read/cv9026635/",
+      "usedFor": "đối chiếu cấu hình PvP Chiêu Tài/Mộc Mị và chỉ số Tốc độ"
+    }
+  ]
+}

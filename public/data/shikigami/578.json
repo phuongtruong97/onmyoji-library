@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,7 +125,7 @@
         "zh": "真是海量，海量啊！"
       },
       "description": {
-        "vi": "Giải trừ 2 hiệu ứng có lợi của mục tiêu kẻ địch chỉ định, và có 100% [tips_2] đính kèm [tips_105] lên mục tiêu đó, duy trì 2 lượt, đồng thời sai khiến mục tiêu phe ta khác không phải vật triệu hồi có Tấn công cao nhất cùng 1 kẻ địch không phải vật triệu hồi đang bị Hỗn Loạn (ưu tiên kẻ có Tấn công cao hơn) Đánh Thường vào mục tiêu kẻ địch đó; khi thi triển giải trừ 1 trạng thái tiêu cực cho toàn bộ phe ta (ưu tiên giải trừ hiệu ứng khống chế) và đính kèm [buff_5784_1] cho họ, duy trì 2 lượt.",
+        "vi": "Giải trừ 2 hiệu ứng có lợi của mục tiêu kẻ địch chỉ định, và có 100% [tips_2] đính kèm [tips_105] lên mục tiêu đó, duy trì 2 lượt, đồng thời sai khiến mục tiêu phe ta khác không phải vật triệu hồi có Tấn công cao nhất cùng 1 kẻ địch không phải vật triệu hồi đang bị Hỗn Loạn (ưu tiên kẻ có Tấn công cao hơn) Đánh Thường vào mục tiêu kẻ địch đó.\nKhi thi triển giải trừ 1 trạng thái tiêu cực cho toàn bộ phe ta (ưu tiên giải trừ hiệu ứng khống chế) và đính kèm [buff_5784_1] cho họ, duy trì 2 lượt.",
         "en": "Dispels 2 buffs from 1 enemy, with a 100% [tips_2] of inflicting [tips_105] lasting 2 turns on them. Also talks another non-summoned ally entity with the highest ATK and a non-summoned enemy entity with Confuse (prioritizing on the enemy with a higher ATK) into using a normal attack on the enemy. Using the skill dispels 1 debuff from each ally (prioritizing on controlling effects) and inflicts [buff_5784_1] lasting 2 turns on them.",
         "zh": "驱散指定敌方目标2个增益效果，并有100%[tips_2]对该目标施加[tips_105]，持续2回合，同时驱使攻击最高的其他非召唤物友方目标与1个被混乱的非召唤物敌方（攻击高者优先）普攻该敌方目标；施放时驱散友方全体1个减益状态（优先驱散控制效果）并为其施加[buff_5784_1]，持续2回合。"
       },
@@ -182,8 +183,8 @@
         "zh": "当心醉后吐真言哟。"
       },
       "description": {
-        "vi": "[tips_11]. Tạo ra Kết giới Tiệc Rượu Thần Ẩm tồn tại trong 2 lượt, trong thời gian này bản thân miễn nhiễm [tips_103]. Trong Kết giới, tất cả mục tiêu không phải vật triệu hồi của cả hai bên khi kết thúc lượt có 40% [tips_2] bị đính kèm [tips_103] (trước khi Thần Nhưỡng Tinh Hùng Đồng Tử bắt đầu lượt, mỗi mục tiêu tối đa 3 lần), khi mục tiêu phe ta bị đính kèm [tips_103], tăng 30% giảm sát thương, duy trì 2 lượt, khi [tips_103] của mục tiêu phe ta bị xóa bỏ, tăng 25% Thanh Hành Động (trước khi Thần Nhưỡng Tinh Hùng Đồng Tử bắt đầu lượt, mỗi đồng minh giới hạn 1 lần), khi mục tiêu phe địch bị đính kèm [tips_103], giảm 40% Sát Thương Bạo Kích, duy trì 2 lượt.\n[tips_7]: Thi triển [Uống Qua Ba Tuần].",
-        "en": "[tips_11]. Creates an Ambrosia Feast field that lasts 2 turns, during which he himself has immunity to [tips_103]. While the field is active, at the end of a non-summoned entity's turn (either ally's or enemy's), there's a 40% [tips_2] of inflicting [tips_103] on them. (Triggers up to 3 times for each entity before Ambrosial Hoshiguma Doji's next turn.) When an ally is inflicted with [tips_103], reduces their damage taken by 30% for 2 turns. When a [tips_103] on an ally is removed, raises their Move Bar by 25% (up to once for each ally before Ambrosial Hoshiguma Doji's next turn). When an enemy is inflicted with [tips_103], reduces their Crit DMG by 40% for 2 turns. Upper Hand: Uses Bottoms Up.",
+        "vi": "[tips_11] Tạo ra Kết giới Tiệc Rượu Thần Ẩm tồn tại trong 2 lượt, trong thời gian này bản thân miễn nhiễm [tips_103]. \nTrong Kết giới, tất cả mục tiêu không phải vật triệu hồi của cả hai bên khi kết thúc lượt có 40% [tips_2] bị đính kèm [tips_103] (trước khi Thần Nhưỡng Tinh Hùng Đồng Tử bắt đầu lượt, mỗi mục tiêu tối đa 3 lần).\nKhi mục tiêu phe ta bị đính kèm [tips_103], tăng 30% giảm sát thương, duy trì 2 lượt, khi [tips_103] của mục tiêu phe ta bị xóa bỏ, tăng 25% Thanh Hành Động (trước khi Thần Nhưỡng Tinh Hùng Đồng Tử bắt đầu lượt, mỗi đồng minh giới hạn 1 lần).\nKhi mục tiêu phe địch bị đính kèm [tips_103], giảm 40% Sát Thương Bạo Kích, duy trì 2 lượt.\n[tips_7]: Thi triển [Uống Qua Ba Tuần].",
+        "en": "[tips_11] Creates an Ambrosia Feast field that lasts 2 turns, during which he himself has immunity to [tips_103]. While the field is active, at the end of a non-summoned entity's turn (either ally's or enemy's), there's a 40% [tips_2] of inflicting [tips_103] on them. (Triggers up to 3 times for each entity before Ambrosial Hoshiguma Doji's next turn.) When an ally is inflicted with [tips_103], reduces their damage taken by 30% for 2 turns. When a [tips_103] on an ally is removed, raises their Move Bar by 25% (up to once for each ally before Ambrosial Hoshiguma Doji's next turn). When an enemy is inflicted with [tips_103], reduces their Crit DMG by 40% for 2 turns. Upper Hand: Uses Bottoms Up.",
         "zh": "[tips_11]。创造存在2回合的神饮之宴结界，期间自身免疫[tips_103]。结界中，敌我双方所有非召唤物目标在回合结束时有40%[tips_2]被施加[tips_103]（神酿星熊童子回合开始前每个目标至多3次），友方目标被施加[tips_103]时，提升30%减伤，持续2回合，友方目标的[tips_103]被移除时，提升25%行动条（神酿星熊童子回合开始前每个友方限1次），敌方目标被施加[tips_103]时，降低40%暴击伤害，持续2回合；先机：施放[饮过三巡]。"
       },
       "upgrades": [

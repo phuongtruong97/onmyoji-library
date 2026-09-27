@@ -7,6 +7,7 @@
   },
   "rarity": "R",
   "tier": "R",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -158,7 +159,7 @@
         "zh": "在我的茧里，不用害怕……"
       },
       "description": {
-        "vi": "Giải trừ 1 trạng thái giảm ích hoặc [tips_3] cho tối đa 4 mục tiêu đồng minh. Sau đó trị liệu cho toàn thể đồng minh 18% giới hạn HP, lượng trị liệu của đồng minh được giải trừ giảm 20%.",
+        "vi": "Giải trừ 1 trạng thái debuff hoặc [tips_3] cho tối đa 4 mục tiêu đồng minh. Sau đó trị liệu cho toàn thể đồng minh 18% giới hạn HP, lượng trị liệu của đồng minh được giải trừ giảm 20%.",
         "en": "为最多4个友方目标驱散1个减益状态或[tips_3]。然后为友方全体治疗生命上限18%的生命，受驱散的友方治疗量降低20%。",
         "zh": "为最多4个友方目标驱散1个减益状态或[tips_3]。然后为友方全体治疗生命上限18%的生命，受驱散的友方治疗量降低20%。"
       },

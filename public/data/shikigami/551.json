@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -46,7 +47,7 @@
   "secondaryStats": {
     "critDamage": "150%",
     "effectHit": "0%",
-    "effectRes": "0%"
+    "effectRes": "30%"
   },
   "skills": [
     {
@@ -124,8 +125,8 @@
         "zh": "我不会放弃，任何一位伙伴。"
       },
       "description": {
-        "vi": "[tips_11]. Mỗi khi tấn công mục tiêu kẻ địch, đính kèm [buff_5511_1], duy trì 1 lượt. Khi lượt của bản thân bắt đầu, hấp thụ Sâm Chi Linh mà kẻ địch mang theo, nhận số lượng [buff_5512_1] tương ứng, duy trì 2 lượt.",
-        "en": "[tips_11]. Whenever he attacks an enemy, inflicts [buff_5511_1] lasting 1 turn on them. At the start of his turn, absorbs the Sylvan Souls on enemies to gain an equal amount of [buff_5512_1]s that last 2 turns.",
+        "vi": "[tips_11] Mỗi khi tấn công mục tiêu kẻ địch, đính kèm [buff_5511_1], duy trì 1 lượt. Khi lượt của bản thân bắt đầu, hấp thụ Sâm Chi Linh mà kẻ địch mang theo, nhận số lượng [buff_5512_1] tương ứng, duy trì 2 lượt.",
+        "en": "[tips_11] Whenever he attacks an enemy, inflicts [buff_5511_1] lasting 1 turn on them. At the start of his turn, absorbs the Sylvan Souls on enemies to gain an equal amount of [buff_5512_1]s that last 2 turns.",
         "zh": "[tips_11]。每次攻击敌方目标时，附加[buff_5511_1]，持续1个回合。自身回合开始时，吸收敌方携带的森之灵，获得等量个数的[buff_5512_1]，持续2个回合。"
       },
       "upgrades": [

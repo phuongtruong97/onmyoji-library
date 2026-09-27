@@ -1,0 +1,93 @@
+{
+  "shikigamiId": 556,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực farm PvE hàng đầu nhờ AoE ba hit, đơn thể ba hit và sao chép đòn của đồng minh; yêu cầu căn Công ban đầu chính xác",
+  "summary": "《Thiên Chiếu》 dùng [Thần Thánh Phán Quyết] đánh toàn đội ba lần rồi truy kích mục tiêu chỉ định ba lần. Sau đó cô ban {+Thiên Huy} cho đồng minh có Công ban đầu cao nhất; khi người đó gây sát thương kỹ năng, cô sao chép 70% hệ số lên cùng mục tiêu. Cơ chế vừa dọn quái vừa xử lý mục tiêu sống sót, cùng hoạt ảnh nhanh, khiến cô vẫn là một trong những chủ lực farm PvE quan trọng nhất.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9.5,
+      "note": "Hoạt ảnh nhanh, vừa AoE vừa đơn thể và kéo đồng minh 20% thanh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Sao chép kỹ năng đồng minh tạo thêm lượng sát thương lớn, nhưng cần căn đội."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7,
+      "note": "Có thể dùng tốc chiến/đẩy thanh, nhưng thiếu miễn khống chế và dễ bị khóa."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 9,
+      "note": "Đầu tư rất đáng giá cho farm; cần đủ Bạo kích và một đội cấp Quỷ Hỏa."
+    }
+  ],
+  "strengths": [
+    "[Thần Thánh Phán Quyết] kết hợp ba hit AoE và ba hit đơn thể trong một kỹ năng.",
+    "{+Thiên Huy} kéo đồng minh 20% thanh và cho Thiên Chiếu sao chép đòn kỹ năng của họ.",
+    "Hoạt ảnh ngắn và dùng được trong nhiều tầng Ngự Hồn, Thám Hiểm, sự kiện và leo tháp."
+  ],
+  "weaknesses": [
+    "{+Thiên Huy} chọn đồng minh theo Công ban đầu cao nhất, nên sai chỉ số sẽ cấp nhầm mục tiêu.",
+    "[Thần Thánh Phán Quyết] cần 3 Quỷ Hỏa và yêu cầu đủ Bạo kích; 〈Cuồng Cốt〉 tính hiệu quả theo lượng Quỷ Hỏa còn lại sau khi đã trả 3 Quỷ Hỏa.",
+    "Không có miễn khống chế đáng tin cậy trong PvP."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Là chủ lực farm cho Ngự Hồn Bi Minh, Thần Phạt, leo tháp và nhiều sự kiện. Phải sắp Công ban đầu để {+Thiên Huy} rơi đúng chủ lực thứ hai; lưu ý người nhận bị giảm 15% Công nhưng được kéo 20% thanh.",
+        "〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉 phổ biến ở Bi Minh khi đội còn nhiều Quỷ Hỏa sau khi Thiên Chiếu trả chi phí 3 lửa; 〈Ẩn Niệm〉 + 〈Quỷ Linh Ca Kỹ〉 mạnh ở Thần Phạt và chuỗi hit; 〈Phá Thế〉 hoặc 〈Hải Nguyệt Hỏa Ngọc〉 phù hợp một số đội mở màn. Bộ chính xác luôn phụ thuộc HP, Quỷ Hỏa và thứ tự từng phó bản."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Có thể dùng 〈Nhật Nữ Tỵ Thời〉 với Tốc độ cao để vừa gây nhiều hit vừa đẩy thanh, hoặc bộ sát thương trong đội tốc chiến. Tuy nhiên cô dễ bị khống chế trước lượt nên PvP không phải lý do ưu tiên chính."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Bi Minh/farm: 〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích và đạt ngưỡng Tốc độ của đội (thường trên 158 ở đội Bi Minh cụ thể).",
+        "Thần Phạt/chuỗi hit: 〈Ẩn Niệm〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích, thường cần trên 152 Tốc độ theo đội. PvP: 〈Nhật Nữ Tỵ Thời〉; Tốc độ – Công – Bạo kích/HP."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "天照",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/天照/63477051?fromModule=lemma_inlink",
+      "usedFor": "đối chiếu đội Bi Minh/Thần Phạt, Cuồng Cốt/Ẩn Niệm và ngưỡng tốc độ"
+    },
+    {
+      "title": "天照の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/280385903245956736.html",
+      "usedFor": "đối chiếu sáu hit, Thiên Huy, sao chép kỹ năng và các bộ PvE"
+    },
+    {
+      "title": "最強周回式神ランキング",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/ランキング/最強周回式神ランキング.html",
+      "usedFor": "đối chiếu bộ theo từng phó bản PvE"
+    },
+    {
+      "title": "魂土双白蛋全自动13秒",
+      "publisher": "YouTube / 鸽海成路的鸽窝",
+      "url": "https://www.youtube.com/watch?v=p_kGiG1Gs0k",
+      "usedFor": "đối chiếu đội farm thực chiến và ngưỡng bộ Cuồng Cốt + Ca Kỹ",
+      "publishedAt": "15/07/2024"
+    }
+  ]
+}

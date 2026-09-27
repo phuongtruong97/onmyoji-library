@@ -1,0 +1,85 @@
+{
+  "shikigamiId": 358,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực PvP né lượt mở màn bằng Trầm Miên rồi phản công đa hit; mạnh khi giữ được Minh Chủng nhưng có khoảng trống phòng thủ sau khi thức dậy",
+  "summary": "《Dạ Mịch Bỉ Ngạn Hoa》 tiên cơ dùng [Xích Sắc Điêu Linh], mất 40% HP hiện tại, rải 6 {−Minh Chủng} và vào {+Trầm Miên}: không thể hành động nhưng miễn sát thương, debuff, khống chế và Trục Xuất. Đầu lượt, cô thu hồi hạt thành {+Minh Hoa}, hồi 10% HP tối đa mỗi tầng rồi rời Trầm Miên; đòn kế tiếp gọi thêm chuỗi tấn công. [Cực Tận Hoàng Tuyền] gây AoE 140%, giảm 30% tổng Công địch và tăng 50 Tốc bản thân, nhưng lúc đã thức cô có thể bị tập trung tiêu diệt.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "Có một số đội farm đặc thù, nhưng cơ chế ngủ–thức làm nhịp kém ổn định."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5.5,
+      "note": "Đa hit và tự hồi phục dùng được, song không phải DPS boss tối ưu."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Né đợt mở màn, ép đối thủ xử lý Minh Chủng và phản công đa hit rất nguy hiểm."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5.5,
+      "note": "Mạnh theo đội hình và cách điều tốc; không dễ vận hành như chủ lực PvE phổ thông."
+    }
+  ],
+  "strengths": [
+    "{+Trầm Miên} cho miễn sát thương, debuff, khống chế và Trục Xuất ngay từ tiên cơ.",
+    "6 {−Minh Chủng} gây sát thương cuối lượt mục tiêu; khi thu hồi tạo {+Minh Hoa}, mỗi tầng hồi 10% HP tối đa và tăng chuỗi tấn công sau đó.",
+    "[Cực Tận Hoàng Tuyền] vừa AoE vừa giảm 30% tổng Công toàn địch và tăng 50 Tốc bản thân trong 1 lượt."
+  ],
+  "weaknesses": [
+    "Địch có thể dùng hành động Hoa Tẫn để gỡ Minh Chủng; nếu hạt bị dọn hết khi cô chưa có Minh Hoa, Trầm Miên kết thúc sớm.",
+    "Sau khi thức dậy và tấn công, cô không còn miễn nhiễm từ {+Trầm Miên}; cần tái vào trạng thái hoặc được đồng đội bảo vệ.",
+    "[Cực Tận Hoàng Tuyền] cần 3 Quỷ Hỏa; tốc độ sai có thể khiến cô thức dậy ngoài nhịp tái hành động của đội."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Chỉ nên dùng ở ải có cơ chế cho phép Minh Chủng tồn tại và phát nổ ổn định. Nâng tối đa [Xích Sắc Điêu Linh] khiến kỹ năng Hoa Tẫn của địch tốn thêm 1 Quỷ Hỏa, nhưng PvE thường không tận dụng tốt áp lực tài nguyên này."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Thường chọn muộn để tránh bị đối thủ chuẩn bị khắc chế. Điều tốc để cô thức dậy, tung đại chiêu rồi được tái hành động hoặc nhanh chóng dùng [Xích Sắc Điêu Linh] trở lại Trầm Miên. Các hiệu ứng cưỡng chế đánh thường vẫn có thể phá nhịp dù cô đang không nhận sát thương."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Đa hit PvP: 〈Châm Nữ〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích và điều chỉnh Tốc độ theo người tái hành động.",
+        "Cuối trận: 〈Thương Hồn Điểu〉 hoặc 〈Tâm Nhãn〉; Công – Công – Bạo kích/Sát thương bạo kích. 〈Luân Nhập Đạo〉 có thể cho thêm lượt để tái vào Trầm Miên nhưng phụ thuộc xác suất, không phải lựa chọn ổn định."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "夜溟彼岸花の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/夜溟彼岸花.html",
+      "usedFor": "đối chiếu Trầm Miên, Minh Chủng/Minh Hoa, điểm yếu và các bộ Ngự Hồn"
+    },
+    {
+      "title": "SP夜溟彼岸花攻略式神御魂搭配篇",
+      "publisher": "17173",
+      "url": "https://news.17173.com/z/yys/content/11232021/144927252.shtml",
+      "usedFor": "đối chiếu Châm Nữ, cách điều tốc và nhịp thức–ngủ"
+    },
+    {
+      "title": "夜溟彼岸花御魂搭配推荐",
+      "publisher": "233乐园",
+      "url": "https://www.233leyuan.com/post-detail/1954229188523155139",
+      "usedFor": "đối chiếu Châm Nữ/Thương Hồn Điểu/Luân Nhập Đạo theo tình huống"
+    }
+  ]
+}

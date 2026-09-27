@@ -1,0 +1,96 @@
+{
+  "shikigamiId": 607,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "medium",
+  "verdict": "Chủ lực–hỗ trợ PvP hệ Hỏa có cơ chế tự thiêu và tái sinh, phù hợp đội nhiều lượt hơn là PvE farm",
+  "summary": "《Bách Vũ Phượng Hoàng Hỏa》 chủ động mất HP qua [Hoán Vũ], [Vị Tức Vũ] và [Bách Vũ Hàm Hoa] để tiến vào trạng thái tái sinh. Khi nhận sát thương chí mạng, cô gắn hiệu ứng lên toàn bộ địch rồi chuyển trạng thái thay vì vận hành như chủ lực thông thường. Cô phù hợp đội Hỏa Sơn PvP, tạo Khiên và dùng kỹ năng thường xuyên để hỗ trợ đồng đội tích tầng.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4.5,
+      "note": "Tự mất HP và chuyển trạng thái không mang lại tốc độ farm nổi bật."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5.5,
+      "note": "Có sát thương nhiều mục tiêu nhưng thiếu lợi thế boss rõ ràng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Lõi gây sát thương kiêm tạo Khiên cho đội Hỏa Sơn; càng phát huy khi đồng đội tận dụng được nhịp dùng kỹ năng liên tục và trạng thái tái sinh."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Cần đội hình chuyên dụng và hiểu cơ chế HP/tái sinh."
+    }
+  ],
+  "strengths": [
+    "[Vị Tức Vũ] biến sát thương chí mạng thành nhịp chuyển trạng thái thay vì chết thông thường.",
+    "[Bách Vũ Hàm Hoa] vừa gây sát thương đơn mục tiêu vừa đánh toàn bộ địch hai lần.",
+    "Tần suất dùng kỹ năng cao hỗ trợ đồng đội cần tích tầng theo số lần thi triển.",
+    "Có vị trí rõ trong đội Hỏa Sơn và đội hình PvP xoay quanh Khiên."
+  ],
+  "weaknesses": [
+    "HP không thể được hồi phục hoặc chữa trị theo cách thông thường.",
+    "Tự mất HP khiến việc quản lý trạng thái và thứ tự lượt phức tạp.",
+    "Giá trị PvE thấp và chưa có đội farm nổi bật.",
+    "Phụ thuộc đồng đội hệ Hỏa Sơn để phát huy đầy đủ."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Bộ kỹ năng tự giảm HP và chuyển trạng thái của 《Bách Vũ Phượng Hoàng Hỏa》 được thiết kế cho tương tác PvP nhiều hơn. Sát thương [Bách Vũ Hàm Hoa] không đủ để tự tạo vị trí trong các đội PvE tối ưu thời gian."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Các trận treo máy gần đây dùng 《Bách Vũ Phượng Hoàng Hỏa》 làm lõi trong đội Hỏa Sơn: cô vừa gây sát thương, vừa tạo Khiên và liên tục dùng kỹ năng để đẩy nhanh quá trình tích tầng của 《Vân Gian Bất Kiến Nhạc》. Khả năng chuyển trạng thái sau khi tự tiêu hao HP khiến đối thủ khó kết liễu cô theo cách thông thường.",
+        "Đây là thức thần phụ thuộc hệ thống đội hình. Cô không nhận hồi phục thông thường, nên nếu Khiên bị xuyên nhanh hoặc đồng đội không bảo vệ được giai đoạn tự thiêu thì sức ép giảm mạnh. Hiệu quả tốt nhất đến từ đội có kế hoạch rõ cho từng lần cô dùng kỹ năng, không phải ghép rời như một chủ lực AoE phổ thông."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP: ưu tiên bộ sinh tồn hoặc chức năng như 〈Địa Tạng Tượng〉, 〈Bạng Tinh〉, 〈Chiêu Tài Miêu〉 tùy lượng lửa của đội; dùng Tốc – Sinh – Sinh/Kháng.",
+        "Nếu đảm nhận sát thương, có thể bổ sung Bạo kích và Công, nhưng trước hết phải bảo đảm nhịp chuyển trạng thái không bị phá vỡ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "十周年SP百羽凤凰火机制解读",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1vEbp68E8s/",
+      "usedFor": "giải thích cơ chế và đánh giá ban đầu",
+      "publishedAt": "06/09/2026"
+    },
+    {
+      "title": "3000分斗技挂机阵容：百羽凤凰火火山队",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/847407026244947364",
+      "usedFor": "vai trò tạo Khiên và tích tầng trong đội Hỏa Sơn"
+    },
+    {
+      "title": "Hundred Plume Hououka Build",
+      "publisher": "Heian Tactics",
+      "url": "https://www.heiantactics.space/shikigami/hundred-plume-hououka",
+      "usedFor": "đối chiếu vai trò PvP và Ngự Hồn"
+    },
+    {
+      "title": "凤岳座摩吞：斗技挂机与变阵",
+      "publisher": "清流不加班 / Bilibili",
+      "url": "https://www.bilibili.com/video/BV14MYv68EfV/",
+      "usedFor": "đối chiếu vai trò thực chiến trong đội Hỏa Sơn và các nhánh thay quân",
+      "publishedAt": "13/09/2026"
+    }
+  ]
+}

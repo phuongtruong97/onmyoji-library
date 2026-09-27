@@ -1,0 +1,103 @@
+{
+  "shikigamiId": 606,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "medium",
+  "verdict": "Hỗ trợ PvP tích tầng mạnh, vừa hồi–giải debuff vừa đẩy lùi đối thủ; cần thời gian để đạt ngưỡng cao nhất",
+  "summary": "《Ngôn Hòa》 tích {+Phong Ngữ} sau lượt của mọi mục tiêu để tấu nhạc miễn phí. [Dục Thử Mộc Âm] hồi phục, hóa giải và thêm giảm sát thương; [Linh Thử Thanh Âm] gây sát thương gián tiếp, đẩy lùi Thanh Hành Động và tiếp tục hóa giải. Cô là hỗ trợ PvP dài hơi có giá trị cao, nhưng không phù hợp nhịp PvE ngắn.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4.5,
+      "note": "Phải tích số lần tấu nhạc nên không hợp farm nhanh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Hồi và giảm sát thương dùng được, nhưng thiếu tăng sát thương boss."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Hỗ trợ hậu thủ cần thời gian tích {+Phong Ngữ}; càng nhiều hành động diễn ra càng dễ phát động kỹ năng miễn phí và kéo trận về lợi thế dài hạn."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Rất đáng giá cho PvP, nhưng nên xây nền PvE trước."
+    }
+  ],
+  "strengths": [
+    "Nhận 40% giảm sát thương, giúp bản thân khó bị xử lý nhanh.",
+    "[Dục Thử Mộc Âm] hồi toàn đội, giải debuff/khống chế và cấp giảm sát thương.",
+    "[Linh Thử Thanh Âm] gây sát thương gián tiếp và đẩy lùi Thanh Hành Động toàn địch.",
+    "Có thể tấu nhạc miễn phí khi {+Phong Ngữ} đầy tầng."
+  ],
+  "weaknesses": [
+    "Cần tích tầng và số lần tấu để mở đủ hiệu quả.",
+    "Không cung cấp tăng sát thương PvE ngắn lượt.",
+    "Lựa chọn sai Mộc Chi Luật/Thanh Chi Luật có thể làm mất nhịp trận.",
+    "Giá trị cao nhất nằm ở PvP nên không phải ưu tiên đầu tiên của tài khoản mới."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Khả năng hồi phục và giảm sát thương giúp vượt nội dung khó, nhưng 《Ngôn Hòa》 cần nhiều lượt để tăng hiệu quả tấu nhạc. Vì vậy cô không cạnh tranh với hỗ trợ tăng sát thương hoặc xử lý không hoạt ảnh trong farm."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Video phân tích kỹ năng và thực chiến đội 《Tư Kim Thần》 – 《Ngôn Hòa》 – 《Thiên Hỏa Mệnh Linh Ngạn Cơ》 cho thấy 《Ngôn Hòa》 phù hợp đội đánh sau. Hành động của cả hai bên giúp tích {+Phong Ngữ}; khi đủ tầng, cô có thể tấu nhạc miễn phí và dần nâng hiệu quả qua nhiều lần dùng đại chiêu. Nhánh Mộc thiên về hồi phục, giải hiệu ứng; nhánh Thanh dùng sát thương gián tiếp và đẩy thanh để bào nhịp đối phương.",
+        "Điểm yếu là thời gian khởi động. Đội bị dồn sát thương hoặc khóa cô trước khi tích đủ tầng sẽ không nhận được giá trị dài hạn. Vì vậy cô cần đồng đội giữ trận và tạo nhiều lượt hành động; không phù hợp đội muốn kết thúc ngay ở vòng đầu."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Có thể dùng 〈Chiêu Tài Miêu〉, 〈Bạng Tinh〉, 〈Địa Tạng Tượng〉 hoặc 〈Cộng Tiềm〉 tùy vai trò. Chỉ số thường là Tốc – Sinh – Sinh hoặc Sinh – Sinh – Sinh.",
+        "Ưu tiên HP tối đa vì cả hai bài nhạc đều dùng HP của 《Ngôn Hòa》 để tính hiệu quả, sau đó cân bằng tốc độ và Kháng."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "言和是真PVP，洛天依是情怀位",
+      "publisher": "什么值得买",
+      "url": "https://post.smzdm.com/p/a5rd59o8/",
+      "usedFor": "tổng hợp thảo luận PvP, cách lên chỉ số và vị trí meta"
+    },
+    {
+      "title": "洛天依无动画增伤，言和叠层斗技详解",
+      "publisher": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_1817559703_m6c55c29703301hobc.html",
+      "usedFor": "cơ chế tích tầng và tấu nhạc"
+    },
+    {
+      "title": "洛天依、言和技能评测",
+      "publisher": "YouTube",
+      "url": "https://www.youtube.com/watch?v=mhMAgnVdU3A",
+      "usedFor": "đối chiếu định vị PvP",
+      "publishedAt": "12/08/2026"
+    },
+    {
+      "title": "思言铃：言和斗技实战",
+      "publisher": "夜神月Lwaite / Bilibili",
+      "url": "https://www.bilibili.com/video/BV1P88w6xEAz/",
+      "usedFor": "đối chiếu cách tích tầng và hiệu quả trong đội hậu thủ",
+      "publishedAt": "20/08/2026"
+    },
+    {
+      "title": "洛天依无动画增伤回火，言和叠层斗技",
+      "publisher": "鸽海成路的鸽窝 / YouTube",
+      "url": "https://www.youtube.com/watch?v=viPNYzgHVQY",
+      "usedFor": "đối chiếu cơ chế tích tầng và phát động đại chiêu miễn phí",
+      "publishedAt": "11/08/2026"
+    }
+  ]
+}

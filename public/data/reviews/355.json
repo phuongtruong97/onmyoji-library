@@ -1,0 +1,86 @@
+{
+  "shikigamiId": 355,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Đấu sĩ AoE công thủ toàn diện, có thể chuyển sang Quy Hài tự động đánh miễn lửa; mạnh khi đội hình chủ động tạo đủ ba ca tử trận",
+  "summary": "《Lộc Minh Đại Nhạc Hoàn》 dùng [Minh Hải Chi Chủ] để vào Ngự Hồn 3 lượt, tăng 100% Kháng Hiệu Ứng, giảm 50% sát thương đơn và hồi 30% HP tối đa mỗi khi một đơn vị hợp lệ tử trận. Sau 3 đơn vị không phải vật triệu hồi tử trận, anh vào Quy Hài: tăng 100 Tốc, giảm 50% sát thương, miễn debuff/Trục Xuất, có 12% hút máu và tự dùng [Nghịch Hồn Tận Đoạn] miễn lửa mỗi lượt. Trước đó, [Đoạn Mạt Vô Minh] là AoE 240% nhưng tốn 4 Quỷ Hỏa, được {+Lộc Trạch} giảm dần chi phí.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 6.5,
+      "note": "Có thể dùng đội vật hi sinh để sớm vào Quy Hài, nhưng farm hiện đại thường có lựa chọn nhanh hơn."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Quy Hài tự đánh miễn lửa, giảm sát thương và hút máu rất bền ở ải dài."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "AoE gắn debuff, chống chịu cao và trở thành mối đe dọa cuối trận sau đủ ca tử trận."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Đa dụng và tự sống tốt, nhưng đại chiêu 4 lửa và cơ chế Quy Hài cần đội phù hợp."
+    }
+  ],
+  "strengths": [
+    "Trong Ngự Hồn, bản thân tăng 100% Kháng Hiệu Ứng, giảm 50% sát thương đơn và hồi 30% HP tối đa khi đơn vị hợp lệ tử trận.",
+    "Quy Hài tăng 100 Tốc, giảm 50% sát thương, miễn debuff/Trục Xuất, có 12% hút máu và tự dùng [Nghịch Hồn Tận Đoạn] 5 hit × 240% miễn lửa.",
+    "[Đoạn Mạt Vô Minh] gây AoE 240%, xua tan 1 buff trước sát thương và gắn {−Lộc Thực} làm giảm Công cùng trị liệu nhận."
+  ],
+  "weaknesses": [
+    "[Đoạn Mạt Vô Minh] có chi phí gốc 4 Quỷ Hỏa; cần đồng minh dùng yêu thuật để tích {+Lộc Trạch} giảm chi phí.",
+    "Muốn vào Quy Hài cần 3 đơn vị không phải vật triệu hồi tử trận, nên có thể quá chậm nếu đội hình không chủ động tạo điều kiện.",
+    "Trước Quy Hài anh chỉ có 100% Kháng chứ không miễn khống chế tuyệt đối; debuff Chính Xác cao vẫn có thể xuyên qua."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Có thể mang thức thần mồi để ba đơn vị sớm tử trận, kích hoạt Quy Hài rồi tự động đánh miễn lửa. Cách này hợp một số Bí Văn hoặc farm cũ, nhưng cần kiểm tra cơ chế từng ải vì vật triệu hồi không được tính."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Ở giai đoạn đầu, dùng AoE để gắn {−Lộc Thực}; sau lượt mục tiêu, hiệu ứng chuyển thành Lộc Áp gây khống chế và giảm Tốc. Khi trận có đủ ca tử trận, Quy Hài biến anh thành chủ lực cuối trận khó kiểm soát.",
+        "Trong kèo Thần Vô Nguyệt + Bất Tương Hồ Thiền hoặc đội Báo–Aly–Hồ, nguồn dùng 《Lộc Minh Đại Nhạc Hoàn》 làm lựa chọn biến trận để chống câu kéo và tận dụng giao tranh dài. Anh phát huy tốt hơn khi đội đủ bền để chờ Quy Hài."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP đội kéo dài: 〈Thương Hồn Điểu〉; Tốc độ/Công – Công – Bạo kích/Sát thương bạo kích, tận dụng các ca tử trận để tăng sức mạnh và hồi phục.",
+        "PvE Quy Hài: 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉; Tốc độ/Công – Công – Bạo kích/Sát thương bạo kích. 〈Dơi Yêu〉 + 〈Hoang Khô Lâu〉 dùng khi cần tự hồi phục cao hơn, đổi lại sát thương thấp hơn."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "麓銘大嶽丸の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/麓銘大嶽丸.html",
+      "usedFor": "đối chiếu Ngự Hồn/Quy Hài, PvE vật hi sinh và vai trò PvP"
+    },
+    {
+      "title": "SP麓铭大岳丸PVE副本攻略",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2009/494761.html",
+      "usedFor": "đối chiếu Cuồng Cốt–Hoang Khô Lâu, Dơi Yêu và cách kích hoạt Quy Hài"
+    },
+    {
+      "title": "麓铭大岳丸",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/麓铭大岳丸/53667859",
+      "usedFor": "đối chiếu Thương Hồn Điểu, các bộ PvE/PvP và chỉ số"
+    }
+  ]
+}

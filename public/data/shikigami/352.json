@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,8 +125,8 @@
         "zh": "化为枯骨，也休想逃脱。"
       },
       "description": {
-        "vi": "Chọn 1 kẻ địch không phải vật triệu hồi, thi triển [buff_3522_1], và triệu hồi ra [tips_3522]. Mỗi đợt giới hạn thi triển 1 lần, [tips_11].\nKhi chịu sát thương chí mạng, lao về phía mục tiêu mang [buff_3522_1], khiến kẻ đó sau này khi chịu sát thương sẽ tổn thất giới hạn HP tương đương (giảm tối đa xuống 20%), sau đó cùng Xà Linh tử trận.",
-        "en": "Inflicts [buff_3522_1] on 1 non-summoned entity enemy and summons [tips_3522]. Can be only used up to once each round. [tips_11].\nWhen taking lethal damage, before she and Serpent are KO'd, pounces at an enemy with [buff_3522_1]. Next time this enemy takes damage, they will lose an amount of max HP equal to the damage (cannot be reduced below 20% of original max HP).",
+        "vi": "Chọn 1 kẻ địch không phải vật triệu hồi, thi triển [buff_3522_1], và triệu hồi ra [tips_3522]. Mỗi đợt giới hạn thi triển 1 lần, [tips_11]\nKhi chịu sát thương chí tử, lao về phía mục tiêu mang [buff_3522_1], khiến kẻ đó sau này khi chịu sát thương sẽ tổn thất giới hạn HP tương đương (giảm tối đa xuống 20%), sau đó cùng Xà Linh tử trận.",
+        "en": "Inflicts [buff_3522_1] on 1 non-summoned entity enemy and summons [tips_3522]. Can be only used up to once each round. [tips_11]\nWhen taking lethal damage, before she and Serpent are KO'd, pounces at an enemy with [buff_3522_1]. Next time this enemy takes damage, they will lose an amount of max HP equal to the damage (cannot be reduced below 20% of original max HP).",
         "zh": "选择一名非召唤物敌方，施加[buff_3522_1]，并召唤出[tips_3522]。每回目限施放1次，[tips_11]。\n受到致命伤害时，扑向带有[buff_3522_1]的目标，使其之后受到伤害时失去等量的生命上限（最多降低至20%），之后和蛇灵阵亡。"
       },
       "upgrades": [

@@ -1,0 +1,91 @@
+{
+  "shikigamiId": 603,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Đối sách PvP chống sát thương đơn mục tiêu tốt, có kéo lượt và tạo lửa nhưng yếu trước AoE và khống chế",
+  "summary": "《Bì Sa Môn Thiên》 dựng Trống Voi bằng [Giới · Định · Tuệ], gánh một phần sát thương đơn thể cho đồng minh, tạo Quỷ Hỏa và kéo Thanh Hành Động. [Hám Thiên Phục Ma Côn] có thể đánh lại khi sát thương bị hấp thụ, chia sẻ hoặc miễn nhiễm. Anh là quân bài PvP theo kèo, không phải chủ lực PvE phổ dụng.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "Có lửa và kéo lượt nhưng hoạt ảnh, điều kiện tích tầng không tối ưu farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Có tiện ích nhưng thiếu tăng sát thương boss ổn định."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Bảo vệ rất tốt trước sát thương đơn mục tiêu và hỗ trợ đội hậu thủ tích cơ chế, nhưng không chặn được AoE và bản thân dễ bị khống chế."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Nên nuôi sau các trụ cột PvE và hỗ trợ phổ dụng."
+    }
+  ],
+  "strengths": [
+    "[Giới · Định · Tuệ] tạo Quỷ Hỏa và kéo Thanh Hành Động toàn đội.",
+    "Gánh 30% sát thương đơn thể mà đồng minh phải chịu khi Trống Voi tồn tại.",
+    "[Hám Thiên Phục Ma Côn] có thể tái tấn công khi sát thương bị hấp thụ, chia sẻ hoặc miễn nhiễm.",
+    "Phối hợp được với những đội hình cần nhận/chia sẻ sát thương để tích tầng."
+  ],
+  "weaknesses": [
+    "Không bảo vệ tốt trước sát thương diện rộng.",
+    "Bản thân không có miễn khống chế và dễ mất nhịp.",
+    "Vai trò PvE chưa nổi bật.",
+    "Hiệu quả phụ thuộc đối thủ và trạng thái Trống Voi."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Các tiện ích tạo lửa và kéo lượt có thể dùng ở nội dung thường, nhưng 《Bì Sa Môn Thiên》 chưa cạnh tranh tốt với hỗ trợ PvE chuyên dụng. Hệ số [Hám Thiên Phục Ma Côn] cần tích tầng và điều kiện phản công nên khó tối ưu trong farm ngắn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Video đội hình treo máy cho thấy 《Bì Sa Môn Thiên》 đặc biệt hiệu quả trước các đội dồn sát thương đơn mục tiêu: sát thương nhận vào được truyền và chia cho đồng minh, vừa giữ mục tiêu sống sót vừa có thể nuôi các cơ chế cần đồng minh chịu sát thương. Anh phù hợp với đội hậu thủ muốn dựng bảo hộ sớm rồi phản công bằng nhịp tích lũy.",
+        "Điểm yếu được thể hiện rõ trong thực chiến: cơ chế bảo vệ không giải quyết sát thương toàn thể, còn bản thân anh không có miễn khống chế ổn định. Đội AoE hoặc đội khóa được anh trước khi dựng nhịp vẫn có thể xuyên qua lớp bảo hộ. Vì vậy đây là quân đối sách mạnh trước chủ lực đơn thể, không phải lá chắn vạn năng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "〈Hỏa Linh〉 là lựa chọn thực dụng để bảo đảm nhịp mở đầu; dùng Tốc – Công – Bạo kích nếu cần sát thương.",
+        "Có thể đổi sang bộ sinh tồn hoặc chức năng theo đội như〈Cộng Tiềm〉, nhưng cần giữ đủ tốc độ để kéo tốc sớm."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "毗沙门天挂机斗技",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1mU7L6iEt7/",
+      "usedFor": "đội hình, ngự hồn và điểm yếu trước AoE/khống chế",
+      "publishedAt": "27/06/2026"
+    },
+    {
+      "title": "毗沙门天版本斗技攻略",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1wFMw6hE3d/",
+      "usedFor": "vị trí trong meta PvP",
+      "publishedAt": "04/07/2026"
+    },
+    {
+      "title": "式神鉴赏：毗沙门天",
+      "publisher": "阴阳师官方",
+      "url": "https://www.bilibili.com/video/BV12rJG6aEyS/",
+      "usedFor": "đối chiếu danh tính và thời điểm phát hành",
+      "publishedAt": "15/06/2026"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "在此弃置爱见分别之心。"
       },
       "description": {
-        "vi": "[tips_11]. Lúc rút đao, mang theo tấm lòng nhân từ không thiên vị. Cầm Trì Mẫn Chi Nhận, nhận 60% Kháng Hiệu Ứng, 450 Phòng thủ; cầm Đoạn Tội Chi Nhận, nhận thêm 50% Bạo Kích, bỏ qua 350 Phòng thủ.\nKhi bước vào trận đấu, mang Trì Mẫn Chi Nhận. Khi thức thần kẻ địch hành động ngoài lượt, tiêu hao 1 lớp [buff_6003_1], giam cầm kẻ đó vào [buff_6004_1].\n[Thi triển] nhận 3 tầng [buff_6003_1], đồng thời tăng 100 điểm Tốc độ cho bản thân, duy trì 2 lượt.",
-        "en": "[tips_11]. When wielding the blade, do so with impartial mercy. Wielding the Blade of Mercy gains 60% Effect RES and 450 DEF; wielding the Blade of Sentence additionally gains 50% Crit and ignores 350 DEF.\nEnters battle wielding the Blade of Mercy. When an enemy shikigami acts outside their turn, consumes 1 stack of [buff_6003_1] to trap them in [buff_6004_1].\nActive skill: Gains 3 stacks of [buff_6003_1] and increases own SPD by 100 for 2 turns.",
+        "vi": "[tips_11] Lúc rút đao, mang theo tấm lòng nhân từ không thiên vị. Cầm Trì Mẫn Chi Nhận, nhận 60% Kháng Hiệu Ứng, 450 Phòng thủ; cầm Đoạn Tội Chi Nhận, nhận thêm 50% Bạo Kích, bỏ qua 350 Phòng thủ.\nKhi bước vào trận đấu, mang Trì Mẫn Chi Nhận. Khi thức thần kẻ địch hành động ngoài lượt, tiêu hao 1 lớp [buff_6003_1], giam cầm kẻ đó vào [buff_6004_1].\n[Thi triển] nhận 3 tầng [buff_6003_1], đồng thời tăng 100 điểm Tốc độ cho bản thân, duy trì 2 lượt.",
+        "en": "[tips_11] When wielding the blade, do so with impartial mercy. Wielding the Blade of Mercy gains 60% Effect RES and 450 DEF; wielding the Blade of Sentence additionally gains 50% Crit and ignores 350 DEF.\nEnters battle wielding the Blade of Mercy. When an enemy shikigami acts outside their turn, consumes 1 stack of [buff_6003_1] to trap them in [buff_6004_1].\nActive skill: Gains 3 stacks of [buff_6003_1] and increases own SPD by 100 for 2 turns.",
         "zh": "[tips_11]。出刀之时，怀着无偏私的仁慈之心。持垂悯之刃，获得60%效果抵抗、450防御；持断罪之刃，额外获得50%暴击、无视350防御。\n进入战斗时，持垂悯之刃。敌方式神回合外行动时，消耗1层[buff_6003_1]，将其困入[buff_6004_1]。\n【施放】获得3层[buff_6003_1]，并提升自身100点速度，持续2回合。"
       },
       "upgrades": [

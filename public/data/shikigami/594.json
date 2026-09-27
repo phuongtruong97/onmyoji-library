@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,7 +125,7 @@
         "zh": "我看见了，梦中的未来。"
       },
       "description": {
-        "vi": "Khi chịu hiệu ứng [tips_102] hoặc ở bất kỳ lượt nào Hồ Điệp Tinh chịu sát thương lớn hơn 20% HP ban đầu của bản thân, thi triển [skill_5942_1].\n[Thi triển] Nhận [buff_5942_1] bằng 15% giới hạn HP, duy trì 2 lượt.",
+        "vi": "Khi chịu hiệu ứng [tips_102] hoặc ở bất kỳ lượt nào Hồ Điệp Tinh chịu sát thương lớn hơn 20% HP ban đầu của bản thân, tự động thi triển [Linh Mộng].\n[Thi triển] Nhận [buff_5942_1] bằng 15% giới hạn HP, duy trì 2 lượt.",
         "en": "Triggered by [tips_102] effect or when Dreambound Chocho takes damage exceeding 20% of her max HP in any turn, casts [skill_5942_1].\nActive skill: Gains a [buff_5942_1] equal to 15% of her max HP for 2 turns.",
         "zh": "受到[tips_102]效果或任意回合蝴蝶精受到大于自身初始生命20%的伤害时，施放[skill_5942_1]。\n【施放】获得生命上限15%的[buff_5942_1]，持续2回合。"
       },
@@ -148,7 +149,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Bất kỳ lượt nào, khi bản thân chịu sát thương cộng dồn lớn hơn 20% HP ban đầu, thi triển [skill_5942_1]. (Trước khi lượt của bản thân bắt đầu giới hạn 1 lần)",
+            "vi": "Bất kỳ lượt nào, khi bản thân chịu sát thương cộng dồn lớn hơn 20% HP ban đầu, thi triển [Linh Mộng]. (Trước khi lượt của bản thân bắt đầu giới hạn 1 lần)",
             "en": "In any turn, when cumulative damage taken exceeds 20% of max HP, casts [skill_5942_1]. (Up to once before their next turn).",
             "zh": "任意回合，自身累计受到大于初始生命20%的伤害时，施放[skill_5942_1]。(自身回合开始前限1次）)"
           }

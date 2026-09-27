@@ -1,0 +1,87 @@
+{
+  "shikigamiId": 390,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực phản chế đội đánh thường trong PvP, tích tầng để tung AoE nhiều lần và tự giải khống chế; hiệu quả PvE thấp vì cần đối thủ không tiêu Quỷ Hỏa",
+  "summary": "《Thần Khải Hoang》 Tiên Cơ dựng Huyễn Cảnh bằng [Tinh La Vân Bố]. Khi lượt kẻ địch bắt đầu mà họ không tiêu Quỷ Hỏa, Tinh Bộc gây sát thương gián tiếp 72% Công lên toàn đội địch, hồi 8% HP tối đa cho anh và tạo 1 tầng {+Sức Mạnh Ánh Sao}. [Tinh Lưu Đình Kích] tốn 1 Quỷ Hỏa, gây AoE 139% rồi thêm một lần AoE 68% cho mỗi tầng đã tích; phần đánh thêm bỏ qua hiệu ứng Ngự Hồn.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4,
+      "note": "Khó tích Sức Mạnh Ánh Sao đủ nhanh và có nhiều chủ lực farm ổn định hơn."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5,
+      "note": "Có thể gây nhiều hit nhưng điều kiện đối thủ không tiêu lửa thiếu ổn định trong PvE."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Lõi phản chế đòn thường và đội bị ép không tiêu lửa: Huyễn Cảnh liên tục gọi Tinh Bộc, tăng sát thương theo chuỗi rồi có thể kết thúc bằng [Tinh Lưu Đình Kích]."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5.5,
+      "note": "Cơ chế thiên PvP và cần đội hình hỗ trợ ép đối thủ không tiêu Quỷ Hỏa."
+    }
+  ],
+  "strengths": [
+    "Tinh Bộc kích hoạt ngoài lượt, gây sát thương gián tiếp không kích hoạt nội tại địch, đồng thời hồi HP và tích {+Sức Mạnh Ánh Sao}.",
+    "[Tinh Lưu Đình Kích] có thể đạt 1 đòn chính cộng 6 đòn AoE bổ sung; các đòn thêm bỏ qua hiệu ứng Ngự Hồn.",
+    "Từ 3 tầng {+Sức Mạnh Ánh Sao}, anh có thể tiêu 3 tầng ở đầu lượt để giải trừ hoặc xua toàn bộ khống chế; trong Huyễn Cảnh còn giảm 40% sát thương bản thân phải chịu."
+  ],
+  "weaknesses": [
+    "Nếu kẻ địch đều dùng kỹ năng tiêu Quỷ Hỏa, Tinh Bộc không kích hoạt và anh thiếu tầng cho cả sát thương lẫn tự giải khống chế.",
+    "Bị khống chế sớm trước khi đủ 3 tầng {+Sức Mạnh Ánh Sao} là điểm yếu rõ rệt.",
+    "Tinh Bộc là sát thương gián tiếp nên không kích hoạt hiệu ứng Ngự Hồn gây sát thương/khống chế; không được cộng lợi ích của 〈Phá Thế〉 hay 〈Châm Nữ〉 cho phần này."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": []
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Thần Khải Hoang》 trừng phạt đội phải đánh thường hoặc không thể tiêu Quỷ Hỏa. Trong Huyễn Cảnh, các điều kiện này gọi Tinh Bộc; mỗi lần kích hoạt còn tăng sát thương cho lần kế tiếp, khiến đội dùng khiêu khích, câm lặng hoặc khóa lửa tạo áp lực theo cấp số. Anh thường đi cùng 《Ngôn Linh》 hoặc khống chế khác để buộc đối thủ rơi vào đúng điều kiện, sau đó dùng [Tinh Lưu Đình Kích] tiêu tầng và quét đội khi đã đủ ngưỡng.",
+        "Tầng sao vừa là sát thương vừa là tài nguyên tự bảo vệ. Dùng đại chiêu quá sớm có thể mất khả năng tự giải khống chế và khiến chuỗi sau yếu đi; giữ quá lâu lại bỏ lỡ cửa kết liễu. Đội phong ấn nội tại, xua Huyễn Cảnh, dồn chết anh trước khi tích tầng hoặc vẫn dùng kỹ năng bình thường mà không bị khóa lửa sẽ hạn chế Tinh Bộc. Anh là lõi mạnh nhưng cần cả đội chủ động tạo điều kiện."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP bền bỉ: 〈Thương Hồn Điểu〉, Công/HP – Công – Bạo kích/Sát Thương Bạo Kích, đủ 100% Bạo kích. Bộ này tăng khả năng sống và tích sát thương khi mục tiêu trên sân tử trận, hợp trận kéo dài.",
+        "Biến thể gây sát thương trực tiếp: 〈Châm Nữ〉 hoặc 〈Hải Nguyệt Hỏa Ngọc〉, Công – Công – Bạo kích/Sát Thương Bạo Kích. 〈Châm Nữ〉 chỉ tận dụng các hit trực tiếp của [Tinh Lưu Đình Kích], không kích hoạt từ Tinh Bộc gián tiếp; Hải Nguyệt yêu cầu đầy Quỷ Hỏa và trả thêm 1 lửa khi dùng kỹ năng.",
+        "Nếu đội cần tiện ích/sống sót hơn sát thương, có thể dùng 〈Địa Tạng Tượng〉 hoặc 〈Thanh Nữ Phòng〉 với đủ Bạo kích và thêm HP; đây là lựa chọn PvP theo đội, không phải cấu hình farm."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "神啓荒の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/227362328927074116.html",
+      "usedFor": "đối chiếu Tinh Bộc, tối đa bảy hit, tự giải khống chế, giới hạn Ngự Hồn và các bộ đề xuất"
+    },
+    {
+      "title": "阴阳师式神培养推荐—神启荒",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/578295385567530005",
+      "usedFor": "đối chiếu vai trò PvP, khắc chế đội không tiêu Quỷ Hỏa và yêu cầu kỹ năng",
+      "publishedAt": "29/08/2024"
+    },
+    {
+      "title": "神启荒式神讲解与实战",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1xESZBFEUN/",
+      "usedFor": "đối chiếu Tinh Bộc, tích tầng và thời điểm kết liễu",
+      "publishedAt": "06/04/2026"
+    }
+  ]
+}

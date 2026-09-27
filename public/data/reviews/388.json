@@ -1,0 +1,86 @@
+{
+  "shikigamiId": 388,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Đấu sĩ PvP đánh thường và phản công rất mạnh, vừa hạ chỉ số địch vừa chống đội kéo lượt; PvE chỉ thật sự nổi bật ở nội dung cho phép gắn debuff và sát thương gián tiếp",
+  "summary": "《Tâm Thú Quỷ Nữ Hồng Diệp》 vào trận bằng [Phong Khởi Chi Vũ], nhận 2 tầng {+Lâm Ẩn} và cho toàn đội {+Diệp Chi Hộ}. Đòn đánh của cô cùng các điều kiện phản ứng liên tục gắn {−Diệp Tẫn}: mỗi tầng gây sát thương gián tiếp trước lượt địch, kèm Độc cấp 3, tăng sát thương gián tiếp phải chịu và giảm 10% Công/Phòng thủ. Khi vượt mốc 5 tầng, mục tiêu nhận {−Hồng Thực}, bị giảm 50% hiệu quả kéo Thanh Hành Động và chịu thêm sát thương gián tiếp khi bị cô đánh.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "Cần thời gian tích Diệp Tẫn; không phù hợp farm một lượt phổ thông."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Có giá trị ở boss cho phép debuff/phá Phòng thủ, nhưng nhiều boss miễn dấu khiến hiệu quả giảm mạnh."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Đánh thường nhiều lần, tự giảm sát thương và khắc chế kéo lượt lẫn đội gắn debuff."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Mạnh nhưng thiên PvP, cần đủ kỹ năng và đội hiệp chiến/đánh thường phù hợp."
+    }
+  ],
+  "strengths": [
+    "{−Diệp Tẫn} tích tối đa 5 tầng; mỗi tầng kèm {−Trúng Độc} cấp 3, tăng sát thương gián tiếp phải chịu và giảm thêm 10% Công cùng Phòng thủ.",
+    "{−Hồng Thực} không thể giải trừ, giảm 50% hiệu quả tăng Thanh Hành Động và khiến mục tiêu chịu thêm sát thương gián tiếp bằng 80% Công của cô khi bị cô tấn công.",
+    "{+Lâm Ẩn} giúp đòn đánh bỏ qua thêm 200 Phòng thủ và giảm 30% sát thương không phải gián tiếp cô phải chịu; {+Diệp Chi Hộ} cho cả đội phản gắn {−Diệp Tẫn}."
+  ],
+  "weaknesses": [
+    "Sát thương kết liễu phụ thuộc tích đủ {−Diệp Tẫn}; đối thủ xua debuff nhanh hoặc chặn nội tại làm nhịp sức mạnh giảm rõ rệt.",
+    "{+Lâm Ẩn} làm cô chịu thêm 10% sát thương gián tiếp, nên yếu trước đội hình sát thương gián tiếp khác.",
+    "Nhiều boss PvE không nhận được dấu/debuff cốt lõi; không thể suy rộng hiệu quả từ Cực Thổ Tri Chu sang mọi nội dung boss."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Chỉ nên dùng khi mục tiêu nhận được {−Diệp Tẫn}, giảm Phòng thủ và sát thương gián tiếp. Ở nội dung phù hợp, cô vừa hỗ trợ phá Phòng thủ vừa gây sát thương; ở boss miễn debuff/dấu, phần lớn bộ kỹ năng không hoạt động đúng giá trị."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Ưu tiên đội hình tạo nhiều lần đánh thường hoặc hiệp chiến. Cô tự gắn {−Diệp Tẫn} khi tấn công; ngoài ra còn gắn lên nguồn debuff của đồng minh và kẻ địch tăng Thanh Hành Động đủ 30%. Khi {−Hồng Thực} được tạo ngoài lượt của cô, cô còn tăng 40% Thanh Hành Động.",
+        "Ở cấp kỹ năng tối đa, mỗi tầng {−Diệp Tẫn} trên kẻ đánh cô làm giảm thêm 20% Bạo kích của đòn đó; đủ 5 tầng có thể giảm 100%, giúp cô chống lại nguồn sát thương chí mạng trực tiếp rất tốt."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP chủ lực đánh thường: 〈Cuồng Cốt〉, Công – Công – Bạo kích/Sát Thương Bạo Kích, đủ Bạo kích; phù hợp đội duy trì nhiều Quỷ Hỏa và tạo hiệp chiến. 〈Võng Thiết〉 là lựa chọn xuyên Phòng thủ cho lối đánh trực tiếp.",
+        "PvP phản công: 〈Tranh〉 với Công/HP – Công – Bạo kích/Sát Thương Bạo Kích; dùng khi muốn biến việc bị đánh thành thêm lượt tích dấu. PvE đặc thù như Cực Thổ Tri Chu có thể dùng 〈Đồ Phật〉 để tăng sát thương đội qua đánh thường; đây không phải bộ mặc định cho mọi boss."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "心狩鬼女紅葉の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/219185033318022163.html",
+      "usedFor": "đối chiếu cách tích Diệp Tẫn, Hồng Thực, chống kéo lượt và điểm yếu trước sát thương gián tiếp"
+    },
+    {
+      "title": "SP心狩鬼女红叶御魂搭配推荐",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2208/888953.html",
+      "usedFor": "đối chiếu Tranh/Cuồng Cốt/Đồ Phật và phạm vi PvE đặc thù"
+    },
+    {
+      "title": "式神御魂搭配速成教学第11期",
+      "publisher": "17173 / 网易大神",
+      "url": "https://news.17173.com/z/yys/content/09152022/112432799.shtml",
+      "usedFor": "đối chiếu cấu hình nhanh/chậm và các lựa chọn Cuồng Cốt, Võng Thiết, Tranh, Đồ Phật"
+    }
+  ]
+}

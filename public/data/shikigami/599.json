@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -125,7 +126,7 @@
       },
       "description": {
         "vi": "[tips_11]\nMỗi khi nhận tăng giới hạn HP, Tốc độ tăng 20 điểm, sát thương gánh chịu giảm 8%, [tips_15] 1 lượt. (tối đa 5 tầng)\n[Thi triển] [tips_20] lượng HP bằng 200% Tấn công ban đầu và triệu hồi 2 con [tips_5991].",
-        "en": "[tips_11].\nEach time max HP increases, SPD increases by 20 and damage taken decreases by 8%, [tips_15] for 1 turn (up to 5 stacks).\n[Cast]: [tips_20] HP equal to 200% of starting ATK and summons 2 [tips_5991].",
+        "en": "[tips_11]\nEach time max HP increases, SPD increases by 20 and damage taken decreases by 8%, [tips_15] for 1 turn (up to 5 stacks).\n[Cast]: [tips_20] HP equal to 200% of starting ATK and summons 2 [tips_5991].",
         "zh": "[tips_11]。\n每次获得生命上限提升时，速度提升20点、受到伤害降低8%，[tips_15]1回合。(至多5层）)\n【施放】[tips_20]初始攻击200%的生命并召唤2只[tips_5991]。"
       },
       "upgrades": [

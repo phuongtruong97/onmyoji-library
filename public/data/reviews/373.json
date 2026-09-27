@@ -1,0 +1,87 @@
+{
+  "shikigamiId": 373,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Thức thần PvP thuần túy gây lựa chọn bất lợi và phong tỏa vật triệu hồi; gần như không có giá trị PvE",
+  "summary": "《Dạ Đao Thần》 dùng [Thất Dạ Bí Nghi] gắn một trong bảy loại {−Dạ Chi Tiết} lên mục tiêu. Trước lượt, đối thủ phải chọn bỏ lượt để chịu hiệu ứng nhẹ hơn hoặc vẫn hành động và chịu hiệu ứng nặng hơn. Sau mỗi con dơi phóng ra anh tự kéo thanh; đủ bảy tầng còn có thể phong tỏa vật triệu hồi. Cơ chế gây áp lực chiến thuật độc đáo nhưng cần hành động liên tục và thêm đồng đội khống chế để thật sự khóa trận.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 2,
+      "note": "Cơ chế lựa chọn và phong tỏa vật triệu hồi hầu như không phục vụ farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 2.5,
+      "note": "Sát thương thấp và dấu PvP không hiệu quả với boss."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7.5,
+      "note": "Gây áp lực lên lượt, Quỷ Hỏa, thanh hành động và vật triệu hồi."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 3,
+      "note": "Không hỗ trợ tiến độ PvE và cần đội PvP hoàn chỉnh."
+    }
+  ],
+  "strengths": [
+    "Bảy loại {−Dạ Chi Tiết} buộc mục tiêu lựa chọn giữa bỏ lượt và chịu hiệu ứng nặng hơn.",
+    "Mỗi con dơi phóng ra giúp tự kéo 10% thanh hành động.",
+    "Đủ bảy tầng có thể phong tỏa vật triệu hồi của đối phương trong 2 lượt."
+  ],
+  "weaknesses": [
+    "Hầu như không có việc làm PvE.",
+    "Một mình anh không đủ khóa đối phương; cần thêm khống chế hoặc kéo/đẩy thanh.",
+    "Bị phong ấn nội tại sẽ mất khả năng tự kéo thanh và phong tỏa vật triệu hồi."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không nên đầu tư anh cho PvE. Hệ số sát thương và cơ chế lựa chọn trước lượt được thiết kế cho đấu người, không cạnh tranh với chủ lực hoặc hỗ trợ boss chuyên dụng."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Đi nhanh để gắn {−Dạ Chi Tiết} liên tục. Các hiệu ứng có thể trừ Quỷ Hỏa, đẩy thanh, giảm Bạo kích, phong ấn ngự hồn/nội tại, hỗn loạn hoặc giảm HP tối đa; đối thủ phải hy sinh lượt nếu muốn nhận phiên bản nhẹ hơn.",
+        "〈Luân Nhập Đạo〉 tăng cơ hội có lượt mới để xoay vòng bảy dấu và đạt mốc phong tỏa vật triệu hồi. 〈Chiêu Tài Miêu〉 hoặc 〈Di Niệm Hỏa〉 ổn định hơn khi đội thiếu Quỷ Hỏa."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP chủ động: 〈Luân Nhập Đạo〉; Tốc độ – Công/HP – Công/HP. Ưu tiên Tốc độ cao nhất có thể, sau đó Công và độ bền.",
+        "PvP ổn định Quỷ Hỏa: 〈Chiêu Tài Miêu〉 hoặc 〈Di Niệm Hỏa〉; Tốc độ – HP/Công – HP/Công. Không cần Bạo kích cho sát thương chuẩn của các dấu."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师斗技上分攻略",
+      "publisher": "新浪财经 / 中关村在线",
+      "url": "https://finance.sina.com.cn/roll/2026-01-28/doc-inhivmmh4003037.shtml",
+      "usedFor": "đối chiếu vai trò PvP và Luân Nhập Đạo/Chiêu Tài hiện tại",
+      "publishedAt": "28/01/2026"
+    },
+    {
+      "title": "夜刀神の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/189216303133767180.html",
+      "usedFor": "đối chiếu bảy dấu, tự kéo thanh và giới hạn cơ chế"
+    },
+    {
+      "title": "夜刀神技能解读",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/222659143343802116",
+      "usedFor": "đối chiếu vai trò PvP thuần, chỉ số Tốc độ–Công–Công và sát thương chuẩn"
+    }
+  ]
+}

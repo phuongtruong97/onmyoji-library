@@ -16,7 +16,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Khi gây sát thương: 15% xác suất cơ bản đóng băng 1 lượt (30% nếu mục tiêu đang Giảm tốc). Khi bị đánh, giảm 30 Tốc của kẻ đánh trong 1 lượt.",
+        "vi": "Khi gây sát thương: 15% xác suất cơ bản đóng băng 1 lượt (30% nếu mục tiêu đang bị Giảm Tốc). Khi bị đánh, giảm 30 Tốc của kẻ đánh trong 1 lượt.",
         "en": "",
         "zh": ""
       },
@@ -136,7 +136,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Khi gây sát thương, 25% xác suất cơ bản đặt ngẫu nhiên một hiệu ứng xấu lên mục tiêu trong 1 lượt.",
+        "vi": "Khi gây sát thương, 25% xác suất cơ bản đặt ngẫu nhiên một hiệu ứng xấu lên mục tiêu trong 1 lượt. Bao gồm: Choáng, Câm Lặng, Giảm 40% Hồi Máu và Hỗn Loạn.",
         "en": "",
         "zh": ""
       },
@@ -304,7 +304,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Khi gây sát thương, 8% xác suất cơ bản gây Choáng 1 lượt (16% nếu mục tiêu đang Giảm tốc).",
+        "vi": "Khi gây sát thương, 10% xác suất cơ bản gây Choáng 1 lượt (nếu không có mục tiêu nào đang bị choáng, xác suất cơ bản tăng lên 20%).",
         "en": "",
         "zh": ""
       },
@@ -448,7 +448,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Khi đồng đội chịu sát thương, 25% xác suất làm mục tiêu mất 1 Quỷ hỏa; xác suất giảm 60% trước mục tiêu bị Khiêu khích; đòn nhiều hit không cộng dồn.",
+        "vi": "Khi đồng đội chịu sát thương, 25% xác suất làm mục tiêu mất 1 Quỷ hỏa; xác suất giảm 60% trước mục tiêu bị Khiêu khích; đòn nhiều đòn đánh không cộng dồn.",
         "en": "",
         "zh": ""
       },
@@ -496,7 +496,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Khi gây sát thương, 50% xác suất bỏ qua 45% DEF của mục tiêu.",
+        "vi": "Khi gây sát thương, 50% xác suất bỏ qua 45% Phòng Thủ của mục tiêu.",
         "en": "",
         "zh": ""
       },
@@ -592,7 +592,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Mỗi 1% HP đã mất tăng 0,6% Crit DMG.",
+        "vi": "Mỗi 1% HP đã mất tăng 0,6% Sát Thương Bạo Kích.",
         "en": "",
         "zh": ""
       },
@@ -640,7 +640,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Khi kháng hiệu ứng, phản công nguồn gây hiệu ứng với sát thương +50%; khi bị khống chế, tăng 25% thanh hành động.",
+        "vi": "Khi kháng hiệu ứng, phản công nguồn gây hiệu ứng với sát thương +50%. Khi bị khống chế, tăng 25% thanh hành động.",
         "en": "",
         "zh": ""
       },
@@ -712,7 +712,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Khi chí mạng, 40% xác suất gây thêm sát thương bằng 10% HP tối đa của mục tiêu, tối đa 120% ATK của người mang.",
+        "vi": "Khi chí mạng, 40% xác suất gây thêm sát thương chuẩn bằng 10% HP tối đa của mục tiêu (giới hạn 120% Tấn Công của người mang)",
         "en": "",
         "zh": ""
       },
@@ -760,7 +760,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Mỗi Quỷ hỏa đang có làm sát thương tăng 8%.",
+        "vi": "Mỗi Quỷ Hỏa đang có tăng 8% sát thương.",
         "en": "",
         "zh": ""
       },
@@ -803,8 +803,8 @@
         "zh": "土蜘蛛"
       },
       "set2": {
-        "vi": "Khi gây sát thương lên quái, đặt tối đa 3 tầng Ấn: mỗi tầng -10% Tốc và gây 10% sát thương gián tiếp trong 1 lượt.",
-        "en": "Khi gây sát thương lên quái, đặt tối đa 3 tầng Ấn: mỗi tầng -10% Tốc và gây 10% sát thương gián tiếp trong 1 lượt.",
+        "vi": "Khi gây sát thương lên quái, đặt tối đa 3 tầng Ấn: mỗi tầng -10% Tốc và tích lũy 10% sát thương thành sát thương gián tiếp trong 1 lượt.",
+        "en": "Khi gây sát thương lên quái, đặt tối đa 3 tầng Ấn: mỗi tầng -10% Tốc và tích lũy 10% sát thương thành sát thương gián tiếp trong 1 lượt.",
         "zh": ""
       },
       "set4": {
@@ -827,8 +827,8 @@
         "zh": "胧车"
       },
       "set2": {
-        "vi": "Khi bị quái tấn công, 50% xác suất tăng 30% thanh hành động; mỗi đòn chỉ kích hoạt một lần.",
-        "en": "Khi bị quái tấn công, 50% xác suất tăng 30% thanh hành động; mỗi đòn chỉ kích hoạt một lần.",
+        "vi": "Khi bị quái ATK, 50% xác suất tăng 30% thanh hành động; mỗi đòn chỉ kích hoạt một lần.",
+        "en": "Khi bị quái ATK, 50% xác suất tăng 30% thanh hành động; mỗi đòn chỉ kích hoạt một lần.",
         "zh": ""
       },
       "set4": {
@@ -976,7 +976,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Đầu trận nhận 2 tầng Linh Nguyên; mỗi tầng tăng 8% DEF toàn đội và có thể dùng thay Quỷ hỏa còn thiếu.",
+        "vi": "Đầu trận nhận 2 tầng Linh Nguyên; mỗi tầng tăng 8% Phòng Thủ toàn đội và có thể dùng thay Quỷ hỏa còn thiếu.",
         "en": "",
         "zh": ""
       },
@@ -1000,7 +1000,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Ngự hồn mới của ải 13; hiệu ứng bộ 4 đang được wiki đánh dấu là bản dịch/chưa phát hành GL, nên cần kiểm tra mô tả trong máy chủ đang chơi.",
+        "vi": "Hiệu ứng duy nhất. Khi một đồng minh không phải vật triệu hồi tử trận, nhận 30% Tấn Công, Phòng Thủ và Máu ban đầu của mục tiêu đó trong 2 lượt (tối đa 5 tầng, và không vượt quá 150% chỉ số ban đầu của bản thân).",
         "en": "",
         "zh": ""
       },
@@ -1024,7 +1024,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Lần đầu bị khống chế nhận 1 tầng Dạ Hành (+80% RES), tối đa 3; đầu lượt, nếu có thể hành động, xóa Dạ Hành.",
+        "vi": "Lần đầu bị khống chế nhận 1 tầng Dạ Hành (mỗi tầng  +80% Kháng), tối đa 3 tầng. \nĐầu lượt, nếu có thể hành động, xóa Dạ Hành.",
         "en": "",
         "zh": ""
       },
@@ -1038,7 +1038,7 @@
       "id": 44,
       "category": "normal",
       "name": {
-        "vi": "Vũ Hàng",
+        "vi": "Vũ Giáng",
         "en": "Amefurikozo",
         "zh": "雨降"
       },
@@ -1063,7 +1063,7 @@
       "category": "normal",
       "name": {
         "vi": "Phi Duyên Ma",
-        "en": "Hinoenma / Enshyoujo",
+        "en": "Enshyoujo",
         "zh": "飞缘魔"
       },
       "set2": {
@@ -1072,7 +1072,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Khi đặt debuff, bỏ qua 30% RES của mục tiêu.",
+        "vi": "Khi đặt debuff, bỏ qua 30% Kháng của mục tiêu.",
         "en": "",
         "zh": ""
       },
@@ -1096,7 +1096,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Cuối lượt nhận 1 tầng Xuyên Tiễn; mỗi tầng bỏ qua 75 DEF khi tấn công, tối đa 3 tầng.",
+        "vi": "Cuối lượt nhận 1 tầng Xuyên Tiễn; mỗi tầng bỏ qua 75 Phòng Thủ khi tấn công, tối đa 3 tầng.",
         "en": "",
         "zh": ""
       },
@@ -1120,7 +1120,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Lần đầu nhận đòn chí tử: xóa buff/debuff, hồi đầy HP và đóng băng 1 lượt; khi đóng băng +100% DEF, miễn debuff; sống sót thì lại hồi đầy HP. Một lần/trận.",
+        "vi": "Lần đầu nhận sát thương chí tử: xóa buff/debuff, hồi đầy HP và đóng băng 1 lượt; khi đóng băng +100% Phòng Thủ, miễn debuff; sống sót thì lại hồi đầy HP. Giới hạn kích hoạt 1 lần mỗi trận.",
         "en": "",
         "zh": ""
       },
@@ -1144,7 +1144,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Hiệu ứng duy nhất: cuối lượt sau khi đánh thường hoặc không thể hành động, toàn đội +15% RES và sát thương trong 2 lượt; người mang nhận gấp đôi.",
+        "vi": "Hiệu ứng duy nhất. Cuối lượt sau khi đánh thường hoặc không thể hành động, toàn đội +15% Kháng và sát thương trong 2 lượt; người mang nhận gấp đôi.",
         "en": "",
         "zh": ""
       },
@@ -1163,8 +1163,8 @@
         "zh": "鬼灵歌伎"
       },
       "set2": {
-        "vi": "Sau 5 lần gây sát thương lên quái, lần kế gây thêm 20% HP tối đa, bỏ qua DEF; trần 255% ATK người mang.",
-        "en": "Sau 5 lần gây sát thương lên quái, lần kế gây thêm 20% HP tối đa, bỏ qua DEF; trần 255% ATK người mang.",
+        "vi": "Sau 5 lần gây sát thương lên quái, lần kế gây thêm 20% HP tối đa, bỏ qua DEF (giới hạn 255% ATK người mang.)",
+        "en": "Sau 5 lần gây sát thương lên quái, lần kế gây thêm 20% HP tối đa, bỏ qua DEF (giới hạn 255% ATK người mang.)",
         "zh": ""
       },
       "set4": {
@@ -1192,7 +1192,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Đầu lượt nhận 1 tầng Niệm (+15% RES), tối đa 3; dùng kỹ năng sẽ tiêu Niệm trước Quỷ hỏa.",
+        "vi": "Đầu lượt nhận 1 tầng Niệm (mỗi tầng +15% Kháng), tối đa 3; dùng kỹ năng sẽ tiêu Niệm trước Quỷ hỏa.",
         "en": "",
         "zh": ""
       },
@@ -1336,7 +1336,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Hiệu ứng xoay quanh tăng thanh hành động/hồi phục sau khi đồng đội hành động; tên GL trên wiki còn thiếu thống nhất, nên đối chiếu mô tả trong máy chủ.",
+        "vi": "Nhận 1 tầng Hỏa Mộ khi kết thúc lượt của bản thân. Khi đạt 4 tầng, xóa toàn bộ số tầng để nhận thêm 1 lượt. Tiêu hao Quỷ Hỏa được giảm bớt 1 trong lượt hành động cộng thêm này.",
         "en": "",
         "zh": ""
       },
@@ -1360,7 +1360,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Sát thương +20%; khi liên tiếp đánh cùng mục tiêu, các hit sau lần lượt +40%, +60%, rồi lặp chu kỳ 20/40/60%.",
+        "vi": "Sát thương +20%; khi liên tiếp đánh cùng mục tiêu, các đòn đánh sau lần lượt +40%, +60%, rồi lặp chu kỳ 20/40/60%.",
         "en": "",
         "zh": ""
       },
@@ -1384,7 +1384,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Nếu Crit ban đầu trên 120%, toàn đội (trừ vật triệu hồi) giảm 15% sát thương chí mạng nhận vào.",
+        "vi": "Nếu Bạo Kích ban đầu trên 120%, toàn đội (trừ vật triệu hồi) giảm 15% sát thương bạo kích nhận vào.",
         "en": "",
         "zh": ""
       },
@@ -1456,7 +1456,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Cuối lượt, thanh Quỷ hỏa tiến thêm 1 ô và hồi cho đồng đội có tỷ lệ HP thấp nhất bằng 700% DEF của người mang.",
+        "vi": "Cuối lượt, thanh Quỷ hỏa tiến thêm 1 ô và hồi cho đồng đội có tỷ lệ HP thấp nhất bằng 700% Phòng Thủ của người mang.",
         "en": "",
         "zh": ""
       },
@@ -1475,8 +1475,8 @@
         "zh": "夜荒魂"
       },
       "set2": {
-        "vi": "Khi đặt khống chế/Trục xuất lên quái trong lượt, mỗi mục tiêu tăng 15 Tốc cho toàn đội, tối đa 90, trong 1 lượt.",
-        "en": "Khi đặt khống chế/Trục xuất lên quái trong lượt, mỗi mục tiêu tăng 15 Tốc cho toàn đội, tối đa 90, trong 1 lượt.",
+        "vi": "Khi đặt khống chế/trục xuất lên quái vật trong lượt, mỗi mục tiêu tăng 15 Tốc Độ cho toàn đội, tối đa 90, trong 1 lượt.",
+        "en": "Khi đặt khống chế/trục xuất lên quái vật trong lượt, mỗi mục tiêu tăng 15 Tốc Độ cho toàn đội, tối đa 90, trong 1 lượt.",
         "zh": ""
       },
       "set4": {
@@ -1528,7 +1528,7 @@
         "zh": ""
       },
       "set4": {
-        "vi": "Hiệu ứng duy nhất: khi đồng đội bị đánh, cho họ Hải Đồ Thủ Hộ 1 lượt, giảm 30% sát thương đòn đánh (trần 35% HP tối đa người mang) và ghi lại; khi hiệu ứng kết thúc, mất HP bằng phần đã ghi.",
+        "vi": "Hiệu ứng duy nhất: khi đồng đội bị đánh, cho họ Hải Đồ Thủ Hộ 1 lượt, giảm 30% sát thương đòn đánh (không vượt quá 35% HP tối đa người mang) và ghi lại; khi hiệu ứng kết thúc, mất HP bằng phần đã ghi.",
         "en": "",
         "zh": ""
       },
@@ -1547,8 +1547,8 @@
         "zh": "八咫镜"
       },
       "set2": {
-        "vi": "Đánh quái đặt Chước Quang; đặt lần nữa sẽ xóa dấu và tăng 20% sát thương.",
-        "en": "Đánh quái đặt Chước Quang; đặt lần nữa sẽ xóa dấu và tăng 20% sát thương.",
+        "vi": "Hiệu ứng duy nhất. Khi gây sát thương trong trận chiến với quái vật, gắn hiệu ứng Chước Quang. Gắn lại hiệu ứng Chước Quang sẽ giải trừ hiệu ứng này để tăng sát thương thêm 20%",
+        "en": "Hiệu ứng duy nhất. Khi gây sát thương trong trận chiến với quái vật, gắn hiệu ứng Chước Quang. Gắn lại hiệu ứng Chước Quang sẽ giải trừ hiệu ứng này để tăng sát thương thêm 20%",
         "zh": ""
       },
       "set4": {
@@ -1571,8 +1571,8 @@
         "zh": "天羽羽斩"
       },
       "set2": {
-        "vi": "Đầu trận với quái nhận hiệu ứng bỏ qua 50 DEF.",
-        "en": "Đầu trận với quái nhận hiệu ứng bỏ qua 50 DEF.",
+        "vi": "Nhận hiệu ứng bỏ qua 50 DEF khi bắt đầu trận chiến với quái vật.",
+        "en": "Nhận hiệu ứng bỏ qua 50 DEF khi bắt đầu trận chiến với quái vật.",
         "zh": ""
       },
       "set4": {
@@ -1595,8 +1595,8 @@
         "zh": "预言星盘"
       },
       "set2": {
-        "vi": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
-        "en": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
+        "vi": "Khi dùng kỹ năng trong trận chiến với quái vật, tăng Crit của Âm Dương Sư thêm một lượng bằng 15% Crit của bản thân.",
+        "en": "Khi dùng kỹ năng trong trận chiến với quái vật, tăng Crit của Âm Dương Sư thêm một lượng bằng 15% Crit của bản thân.",
         "zh": ""
       },
       "set4": {
@@ -1619,8 +1619,8 @@
         "zh": "月之石"
       },
       "set2": {
-        "vi": "Khi có vật triệu hồi đồng minh, giảm 30% tổng RES của quái, không vượt quá 50% RES ban đầu của người mang.",
-        "en": "Khi có vật triệu hồi đồng minh, giảm 30% tổng RES của quái, không vượt quá 50% RES ban đầu của người mang.",
+        "vi": "Khi có vật triệu hồi của phe đồng minh hiện diện, tổng RES Hiệu Ứng của quái vật địch bị giảm 30% (không vượt quá 50% RES Hiệu Ứng ban đầu của bản thân).",
+        "en": "Khi có vật triệu hồi của phe đồng minh hiện diện, tổng RES Hiệu Ứng của quái vật địch bị giảm 30% (không vượt quá 50% RES Hiệu Ứng ban đầu của bản thân).",
         "zh": ""
       },
       "set4": {
@@ -1643,8 +1643,8 @@
         "zh": "纺缘锤"
       },
       "set2": {
-        "vi": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
-        "en": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
+        "vi": "Khi bắt đầu trận chiến và khi bắt đầu mỗi lượt của bản thân, nhận Hộ Vệ Liên Kết\nHộ Vệ Liên Kết: Giảm 500 sát thương phải chịu khi bị quái vật ATK; biến mất sau khi đã chặn lượng sát thương tương đương 300% DEF ban đầu.",
+        "en": "Khi bắt đầu trận chiến và khi bắt đầu mỗi lượt của bản thân, nhận Hộ Vệ Liên Kết\nHộ Vệ Liên Kết: Giảm 500 sát thương phải chịu khi bị quái vật ATK; biến mất sau khi đã chặn lượng sát thương tương đương 300% DEF ban đầu.",
         "zh": ""
       },
       "set4": {
@@ -1667,8 +1667,8 @@
         "zh": "稻荷·穗箭"
       },
       "set2": {
-        "vi": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
-        "en": "Hiệu ứng chuyên dụng PvE của Thời Không Bí Cảnh; wiki chưa có mô tả ổn định để dịch chắc chắn.",
+        "vi": "Khi ATK quái vật, sau khi kết thúc lượt, tăng 10% Thanh Hành Động cho Âm Dương Sư",
+        "en": "Khi ATK quái vật, sau khi kết thúc lượt, tăng 10% Thanh Hành Động cho Âm Dương Sư",
         "zh": ""
       },
       "set4": {

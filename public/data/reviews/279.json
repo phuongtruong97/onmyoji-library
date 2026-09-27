@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 279,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Hồi phục bền bỉ, chống khống chế cho đội và vẫn có giá trị ở cả PvE lẫn PvP kéo dài",
+  "summary": "《Hoa Điểu Quyển》 chữa đồng minh thấp HP ngay trong đòn thường [Quy Điểu], còn [Hoa Điểu Tương Văn] hồi toàn đội ngay lập tức rồi tiếp tục hồi trong hai lượt. [Họa Cảnh] giúp cô tự kéo lượt và có xác suất dùng chim đỡ khống chế cho đồng minh. Bộ kỹ năng vẫn hữu dụng khi đội cần vừa hồi phục vừa chống khóa lượt, nhưng chi phí kỹ năng và nhịp trận dài khiến cô không phải lựa chọn farm nhanh.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "An toàn nhưng không giúp rút ngắn màn farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8,
+      "note": "Hồi ngay, hồi theo lượt và đòn thường hồi máu tạo độ bền cao."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Chống khống chế theo xác suất và tự kéo lượt hợp đội hậu thủ."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7.5,
+      "note": "Healer mạnh, nhưng cần nâng kỹ năng và thường dư thừa trong nội dung dễ."
+    }
+  ],
+  "strengths": [
+    "[Quy Điểu] vừa đánh nhiều lần vừa chữa đồng minh thấp HP.",
+    "[Họa Cảnh] có thể tiêu chim để chống đỡ khống chế cho cô hoặc đồng minh.",
+    "[Hoa Điểu Tương Văn] kết hợp hồi tức thời và hồi theo lượt."
+  ],
+  "weaknesses": [
+    "Khả năng đỡ khống chế chỉ có xác suất và tiêu tài nguyên chim.",
+    "Không cung cấp tăng sát thương mạnh cho đội farm tốc độ.",
+    "Cần HP, Bạo kích và cấp kỹ năng tốt để đạt hiệu quả cao."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Phù hợp nội dung dài hoặc khó sống sót: đòn thường vẫn hồi máu nên có thể tiết kiệm Quỷ Hỏa, còn đại chiêu xử lý tình huống cả đội mất HP."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Cô hợp đội hậu thủ: tự kéo thanh giúp quay vòng chữa trị, còn chim có thể chặn một số khống chế quan trọng. Hiệu quả cao nhất trong trận kéo dài, không phải lựa chọn để tranh lượt đầu."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Hồi phục chủ động: 〈Tranh〉; Tốc độ – HP – Bạo kích, ưu tiên đủ Bạo kích và HP. Phản kích giúp [Quy Điểu] tạo thêm lượt hồi.",
+        "Hỗ trợ đội: 〈Châm Nữ〉 cho đòn thường nhiều hit hoặc 〈Chiêu Tài Miêu〉 khi đội thiếu lửa; Tốc độ – HP – Bạo kích."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师：SP式神培养指南",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1134/11341535.html",
+      "usedFor": "đối chiếu độ ưu tiên và vai trò PvE/PvP",
+      "publishedAt": "18/02/2026"
+    },
+    {
+      "title": "阴阳师手游PVE式神梯度和资源分配",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/986743791_122628307",
+      "usedFor": "đối chiếu thứ tự healer hiện tại",
+      "publishedAt": "2026"
+    }
+  ]
+}

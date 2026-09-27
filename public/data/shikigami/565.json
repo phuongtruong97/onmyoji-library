@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,8 +125,8 @@
         "zh": "不要着急，错过的福运是会积存起来的。"
       },
       "description": {
-        "vi": "[tips_11].\nVận may trứng vặn hôm nay thế nào nhỉ? Mỗi khi mục tiêu phe ta khác tiêu hao 1 điểm Quỷ Hỏa, bản thân nhận 1 tầng [buff_5652_1].",
-        "en": "[tips_11].\nWhat's your gacha luck today? Whenever another ally uses 1 orb, grants her 1 [buff_5652_1] stack.",
+        "vi": "[tips_11]\nVận may trứng vặn hôm nay thế nào nhỉ? Mỗi khi mục tiêu phe ta khác tiêu hao 1 điểm Quỷ Hỏa, bản thân nhận 1 tầng [buff_5652_1].",
+        "en": "[tips_11]\nWhat's your gacha luck today? Whenever another ally uses 1 orb, grants her 1 [buff_5652_1] stack.",
         "zh": "[tips_11]。\n今天的扭蛋运势如何呢？其他友方目标每消耗1点鬼火，自身获得1层[buff_5652_1]。"
       },
       "upgrades": [
@@ -164,6 +165,131 @@
       ],
       "orbCost": 0,
       "iconFile": "5652.png"
+    },
+    {
+      "id": 5654,
+      "number": 2,
+      "variantOrder": 1,
+      "parentSkillId": 5652,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Chiêu Phúc Đạt Ma",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiệu ứng cơ bản bậc R. Tăng 30% giảm sát thương cho toàn bộ đồng minh, duy trì trong 2 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5652a.png"
+    },
+    {
+      "id": 5655,
+      "number": 2,
+      "variantOrder": 2,
+      "parentSkillId": 5652,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Bổng Vi Đạt Ma",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiệu ứng cơ bản bậc R. Tăng 15% sát thương gây ra và 15% giảm sát thương cho toàn bộ đồng minh, duy trì trong 2 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5652b.png"
+    },
+    {
+      "id": 5656,
+      "number": 2,
+      "variantOrder": 3,
+      "parentSkillId": 5652,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Đại Cát Đạt Ma",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiệu ứng cơ bản bậc R. Tăng Kháng cho toàn bộ đồng minh bằng 60% Kháng ban đầu của bản thân, duy trì trong 2 lượt. Nếu một đồng minh Kháng thành công hiệu ứng, tăng 30% thanh hành động cho mục tiêu đó (chỉ kích hoạt 1 lần).",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5652c.png"
+    },
+    {
+      "id": 5657,
+      "number": 2,
+      "variantOrder": 4,
+      "parentSkillId": 5652,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Ngự Hành Đạt Ma",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiệu ứng hiếm bậc SR với tỷ lệ xuất hiện 9%. Nhận toàn bộ hiệu ứng cơ bản bậc R, đồng thời tăng 30% sát thương gây ra cho toàn bộ đồng minh, duy trì trong 2 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5652d.png"
+    },
+    {
+      "id": 5658,
+      "number": 2,
+      "variantOrder": 5,
+      "parentSkillId": 5652,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Phúc Vận Đạt Ma",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiệu ứng cực hiếm bậc SSR với tỷ lệ xuất hiện 1%. Ngay lập tức nhận hiệu ứng hiếm bậc SR, đồng thời có 100% tỷ lệ cơ bản khiến toàn bộ kẻ địch chịu hiệu ứng Biến Hình, duy trì trong 2 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5652e.png"
     },
     {
       "id": 5653,

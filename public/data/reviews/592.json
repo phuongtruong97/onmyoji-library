@@ -1,0 +1,102 @@
+{
+  "shikigamiId": 592,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực PvP công–thủ linh hoạt: AoE ba hit kèm sát thương cố định, tự hồi theo Phòng thủ và tạo thêm hành động ngoài lượt",
+  "summary": "《Bình Tướng Môn》 tự chọn tư thế theo tỷ lệ Tấn công/Phòng thủ ban đầu: Tấn công cao hơn 700% Phòng thủ vào {+Tư thế tấn công}; ngược lại vào {+Tư thế phòng thủ}. [Kiêu Dương Trường Minh] đánh AoE 3 hit rồi gây sát thương cố định lên mục tiêu chọn bằng 18% tổng sát thương đợt đánh, kể cả phần bị lá chắn hấp thụ. Mỗi 3 lần cường hóa {+Bố Đô Ngự Hồn}, anh vào {+Khe Hở Thời Gian}; nhờ vậy có thể hành động thêm, giảm chi phí kỹ năng và rút ngắn debuff/khống chế. Đây là chủ lực PvP rất mạnh, có thể chơi bùng nổ hoặc hậu thủ tự hồi.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7,
+      "note": "AoE ba hit và hoàn 3 Quỷ Hỏa khi hạ mục tiêu dùng được, nhưng đội hình PvE chuyên biệt chưa phổ dụng bằng chủ lực farm chuẩn."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7.5,
+      "note": "Cường hóa Bố Đô, thêm hành động và sát thương cố định giúp duy trì đầu ra, nhưng cơ chế PvP chiếm phần lớn sức mạnh."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Có hai hướng công và thủ rõ rệt, tự tạo hành động ngoài lượt và gây áp lực diện rộng; mạnh khi đội nuôi được chu kỳ nhưng dễ bị khóa nhịp hoặc khắc chế hành động ngoài lượt."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Mạnh và có thể làm chủ lực, nhưng cần hiểu ngưỡng 7× Phòng thủ và bộ ngự phù hợp tư thế."
+    }
+  ],
+  "strengths": [
+    "[Kiêu Dương Trường Minh] gây AoE 3 hit 80% rồi thêm sát thương cố định bằng 18% tổng sát thương, tính cả phần bị lá chắn hấp thụ.",
+    "Khi gây hạ gục, nhận lại 3 Quỷ Hỏa và cường hóa {+Bố Đô Ngự Hồn}; mỗi 3 lần cường hóa lập tức vào {+Khe Hở Thời Gian}.",
+    "{+Tư thế phòng thủ} hồi HP khi bị đánh bằng 500% Phòng thủ ban đầu, bị chặn ở 70% Tấn công ban đầu; 70% lượng hồi còn áp dụng cho đồng minh.",
+    "Mỗi thức thần địch bị tiêu diệt giúp anh giảm 7% sát thương nhận và tăng 5% hệ số sát thương cố định, tối đa 5 lần."
+  ],
+  "weaknesses": [
+    "Sai ngưỡng Tấn công > 700% Phòng thủ sẽ khiến vào nhầm tư thế, làm hỏng toàn bộ mục đích bộ ngự.",
+    "Hướng phòng thủ phụ thuộc cả Phòng thủ lẫn Tấn công vì lượng hồi có trần theo Tấn công; dồn một chỉ số cực đoan có thể giảm hiệu suất.",
+    "Kỹ năng 3 giá 3 Quỷ Hỏa ngoài Khe Hở; nếu không hạ được mục tiêu thì không được hoàn lửa.",
+    "Có thể bị khắc chế bởi điều khiển ép dùng [Thời Khắc Luân Chuyển], khóa lượt hoặc cơ chế bảo vệ khiến đòn AoE không tạo hạ gục."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng như chủ lực AoE ở nội dung có nhiều mục tiêu để tận dụng hoàn 3 lửa sau hạ gục. Tuy nhiên phần tự hồi, giảm khống chế và tích sức mạnh theo số thức thần địch chết thiên về trận dài/PvP; người chơi chỉ PvE không cần ưu tiên anh trước các chủ lực farm chuyên dụng."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Bình Tướng Môn》 có thể xây theo hướng tấn công để dồn sát thương diện rộng hoặc hướng phòng thủ để tự hồi và kéo trận sang thế phản công. Video thực chiến gần đây tiếp tục khai thác anh cùng 《Bì Sa Môn Thiên》: lượng sát thương được chia giúp anh tích cơ chế và bước vào chu kỳ phản công nhanh hơn. Đây là chủ lực cần cả đội hình tạo điều kiện, không phải một nguồn sát thương hoạt động độc lập.",
+        "Điểm yếu chính là chuỗi hành động ngoài lượt có thể bị 《Thị Gia Mỹ》 làm gián đoạn. Khống chế, ép dùng sai kỹ năng hoặc ngăn anh hoàn tất lần cường hóa cũng làm giảm mạnh áp lực. Hướng phòng thủ rất lì nhưng có thể bị bào HP tối đa hoặc bỏ qua để đánh đồng đội; hướng tấn công kết thúc nhanh hơn nhưng kém an toàn khi không hạ được mục tiêu."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP bùng nổ: 〈Ẩn Niệm〉 hoặc 〈Võng Thiết〉; Tấn công/Phòng thủ – Tấn công/Phòng thủ – Bạo kích/Bạo thương, đủ Bạo kích. Giữ Tấn công ban đầu > 7× Phòng thủ nếu muốn Tư thế tấn công.",
+        "PvP hậu thủ: 〈Thương Hồn Điểu〉, 〈Thế Hồn〉 hoặc 〈Địa Tạng Tượng〉; Tấn công – Phòng thủ – Bạo kích/Bạo thương, thường đạt ít nhất khoảng 1.150–1.200 Phòng thủ và giữ Tấn công ≤ 7× Phòng thủ. Tốc độ quanh/trên 128 tùy đội; hướng Thương Hồn Điểu cần đủ Bạo kích."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "平将门冲浪挂机斗技攻略",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1pb44zaE34/",
+      "usedFor": "đối chiếu hướng Thương Hồn Điểu, ngưỡng Phòng thủ, Tốc độ và đội hậu thủ"
+    },
+    {
+      "title": "思金神火山队斗技攻略",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1Px98BxEKV/",
+      "usedFor": "đối chiếu hướng Ẩn Niệm/Võng Thiết, điều kiện Tấn công thấp hơn 7× Phòng thủ và đội Himiko"
+    },
+    {
+      "title": "平将门式神介绍",
+      "publisher": "酷7手游",
+      "url": "https://www.ku7.com/news/71947.html",
+      "usedFor": "đối chiếu phương án Địa Tạng/Thế Hồn và tư thế phòng thủ"
+    },
+    {
+      "title": "平将门1个回合，布都御魂从1到3？",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1aRTq62EMR/",
+      "usedFor": "đối chiếu tương tác với Bì Sa Môn Thiên và chu kỳ cường hóa trong PvP",
+      "publishedAt": "01/07/2026"
+    },
+    {
+      "title": "五分钟搞懂打不死的平将门",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1x943zFEqY/",
+      "usedFor": "đối chiếu cơ chế sinh tồn và phương án khắc chế",
+      "publishedAt": "12/10/2025"
+    }
+  ]
+}

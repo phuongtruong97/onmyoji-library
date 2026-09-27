@@ -1,64 +1,8 @@
 {
   "schema": 3,
   "source": "manual_excel",
-  "count": 270,
+  "count": 266,
   "heroes": [
-    {
-      "id": 10,
-      "name": {
-        "vi": "Seimei",
-        "en": "Seimei",
-        "zh": "晴明"
-      },
-      "rarity": "Onmyoji",
-      "tier": "Onmyoji",
-      "assets": {
-        "portraitFile": "10.png",
-        "headIconFile": "10a.png"
-      }
-    },
-    {
-      "id": 11,
-      "name": {
-        "vi": "Kagura",
-        "en": "Kagura",
-        "zh": "神乐"
-      },
-      "rarity": "Onmyoji",
-      "tier": "Onmyoji",
-      "assets": {
-        "portraitFile": "11.png",
-        "headIconFile": "11a.png"
-      }
-    },
-    {
-      "id": 12,
-      "name": {
-        "vi": "Yao Bikuni",
-        "en": "Yao Bikuni",
-        "zh": "八百比丘尼"
-      },
-      "rarity": "Onmyoji",
-      "tier": "Onmyoji",
-      "assets": {
-        "portraitFile": "12.png",
-        "headIconFile": "12a.png"
-      }
-    },
-    {
-      "id": 13,
-      "name": {
-        "vi": "Hiromasa",
-        "en": "Hiromasa",
-        "zh": "源博雅"
-      },
-      "rarity": "Onmyoji",
-      "tier": "Onmyoji",
-      "assets": {
-        "portraitFile": "13.png",
-        "headIconFile": "13a.png"
-      }
-    },
     {
       "id": 593,
       "name": {
@@ -68,6 +12,7 @@
       },
       "rarity": "UR",
       "tier": "UR",
+      "sex": "f",
       "assets": {
         "portraitFile": "593.png",
         "headIconFile": "593a.png"
@@ -82,6 +27,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "315.png",
         "headIconFile": "315a.png"
@@ -96,6 +42,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "322.png",
         "headIconFile": "322a.png"
@@ -110,6 +57,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "326.png",
         "headIconFile": "326a.png"
@@ -124,6 +72,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "327.png",
         "headIconFile": "327a.png"
@@ -138,6 +87,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "328.png",
         "headIconFile": "328a.png"
@@ -152,6 +102,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "331.png",
         "headIconFile": "331a.png"
@@ -166,6 +117,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "334.png",
         "headIconFile": "334a.png"
@@ -180,6 +132,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "339.png",
         "headIconFile": "339a.png"
@@ -188,12 +141,13 @@
     {
       "id": 341,
       "name": {
-        "vi": "Quỷ Vương Tửu Thốn Đồng Tử",
+        "vi": "Quỷ Vương Tửu Thôn Đồng Tử",
         "en": "Demoniac Shuten Doji",
         "zh": "鬼王酒吞童子"
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "341.png",
         "headIconFile": "341a.png"
@@ -208,6 +162,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "343.png",
         "headIconFile": "343a.png"
@@ -222,6 +177,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "346.png",
         "headIconFile": "346a.png"
@@ -236,6 +192,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "348.png",
         "headIconFile": "348a.png"
@@ -250,6 +207,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "352.png",
         "headIconFile": "352a.png"
@@ -264,6 +222,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "354.png",
         "headIconFile": "354a.png"
@@ -278,6 +237,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "355.png",
         "headIconFile": "355a.png"
@@ -292,6 +252,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "357.png",
         "headIconFile": "357a.png"
@@ -306,6 +267,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "358.png",
         "headIconFile": "358a.png"
@@ -320,6 +282,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "362.png",
         "headIconFile": "362a.png"
@@ -334,6 +297,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "366.png",
         "headIconFile": "366a.png"
@@ -348,6 +312,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "367.png",
         "headIconFile": "367a.png"
@@ -362,6 +327,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "372.png",
         "headIconFile": "372a.png"
@@ -376,6 +342,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "377.png",
         "headIconFile": "377a.png"
@@ -390,6 +357,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "383.png",
         "headIconFile": "383a.png"
@@ -404,6 +372,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "385.png",
         "headIconFile": "385a.png"
@@ -418,6 +387,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "388.png",
         "headIconFile": "388a.png"
@@ -432,6 +402,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "390.png",
         "headIconFile": "390a.png"
@@ -446,6 +417,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "393.png",
         "headIconFile": "393a.png"
@@ -460,6 +432,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "395.png",
         "headIconFile": "395a.png"
@@ -474,6 +447,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "396.png",
         "headIconFile": "396a.png"
@@ -488,6 +462,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "551.png",
         "headIconFile": "551a.png"
@@ -502,6 +477,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "554.png",
         "headIconFile": "554a.png"
@@ -516,6 +492,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "555.png",
         "headIconFile": "555a.png"
@@ -530,6 +507,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "559.png",
         "headIconFile": "559a.png"
@@ -538,12 +516,13 @@
     {
       "id": 562,
       "name": {
-        "vi": "Kính Tịch Thiên Cơ",
+        "vi": "Kình Tịch Thiên Cơ",
         "en": "Senhime Resurgent",
         "zh": "鲸汐千姬"
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "562.png",
         "headIconFile": "562a.png"
@@ -558,6 +537,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "565.png",
         "headIconFile": "565a.png"
@@ -572,6 +552,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "566.png",
         "headIconFile": "566a.png"
@@ -586,6 +567,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "568.png",
         "headIconFile": "568a.png"
@@ -600,6 +582,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "572.png",
         "headIconFile": "572a.png"
@@ -614,6 +597,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "574.png",
         "headIconFile": "574a.png"
@@ -628,6 +612,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "578.png",
         "headIconFile": "578a.png"
@@ -642,6 +627,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "579.png",
         "headIconFile": "579a.png"
@@ -656,6 +642,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "580.png",
         "headIconFile": "580a.png"
@@ -670,6 +657,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "584.png",
         "headIconFile": "584a.png"
@@ -684,6 +672,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "586.png",
         "headIconFile": "586a.png"
@@ -698,6 +687,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "590.png",
         "headIconFile": "590a.png"
@@ -712,6 +702,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "594.png",
         "headIconFile": "594a.png"
@@ -726,6 +717,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "m",
       "assets": {
         "portraitFile": "595.png",
         "headIconFile": "595a.png"
@@ -740,6 +732,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "598.png",
         "headIconFile": "598a.png"
@@ -754,6 +747,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "599.png",
         "headIconFile": "599a.png"
@@ -768,6 +762,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "602.png",
         "headIconFile": "602a.png"
@@ -782,6 +777,7 @@
       },
       "rarity": "SP",
       "tier": "SP",
+      "sex": "f",
       "assets": {
         "portraitFile": "607.png",
         "headIconFile": "607a.png"
@@ -796,6 +792,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "217.png",
         "headIconFile": "217a.png"
@@ -810,6 +807,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "mm",
       "assets": {
         "portraitFile": "219.png",
         "headIconFile": "219a.png"
@@ -824,6 +822,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "248.png",
         "headIconFile": "248a.png"
@@ -838,6 +837,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "255.png",
         "headIconFile": "255a.png"
@@ -852,6 +852,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "258.png",
         "headIconFile": "258a.png"
@@ -866,6 +867,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "259.png",
         "headIconFile": "259a.png"
@@ -880,6 +882,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "265.png",
         "headIconFile": "265a.png"
@@ -894,6 +897,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "266.png",
         "headIconFile": "266a.png"
@@ -908,6 +912,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "269.png",
         "headIconFile": "269a.png"
@@ -922,6 +927,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "272.png",
         "headIconFile": "272a.png"
@@ -936,6 +942,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "279.png",
         "headIconFile": "279a.png"
@@ -950,6 +957,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "280.png",
         "headIconFile": "280a.png"
@@ -964,6 +972,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "283.png",
         "headIconFile": "283a.png"
@@ -978,6 +987,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "288.png",
         "headIconFile": "288a.png"
@@ -992,6 +1002,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "292.png",
         "headIconFile": "292a.png"
@@ -1006,6 +1017,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "296.png",
         "headIconFile": "296a.png"
@@ -1020,6 +1032,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "300.png",
         "headIconFile": "300a.png"
@@ -1034,6 +1047,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "304.png",
         "headIconFile": "304a.png"
@@ -1048,6 +1062,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "305.png",
         "headIconFile": "305a.png"
@@ -1062,6 +1077,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "308.png",
         "headIconFile": "308a.png"
@@ -1076,6 +1092,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "311.png",
         "headIconFile": "311a.png"
@@ -1090,6 +1107,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "312.png",
         "headIconFile": "312a.png"
@@ -1104,6 +1122,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "313.png",
         "headIconFile": "313a.png"
@@ -1118,6 +1137,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "314.png",
         "headIconFile": "314a.png"
@@ -1132,6 +1152,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "316.png",
         "headIconFile": "316a.png"
@@ -1146,6 +1167,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "319.png",
         "headIconFile": "319a.png"
@@ -1160,6 +1182,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "325.png",
         "headIconFile": "325a.png"
@@ -1174,6 +1197,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "330.png",
         "headIconFile": "330a.png"
@@ -1188,6 +1212,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "333.png",
         "headIconFile": "333a.png"
@@ -1202,6 +1227,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "338.png",
         "headIconFile": "338a.png"
@@ -1216,6 +1242,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "344.png",
         "headIconFile": "344a.png"
@@ -1230,6 +1257,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "345.png",
         "headIconFile": "345a.png"
@@ -1244,6 +1272,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "347.png",
         "headIconFile": "347a.png"
@@ -1258,6 +1287,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "351.png",
         "headIconFile": "351a.png"
@@ -1272,6 +1302,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "353.png",
         "headIconFile": "353a.png"
@@ -1286,6 +1317,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "356.png",
         "headIconFile": "356a.png"
@@ -1300,6 +1332,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "363.png",
         "headIconFile": "363a.png"
@@ -1314,6 +1347,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "364.png",
         "headIconFile": "364a.png"
@@ -1328,6 +1362,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "369.png",
         "headIconFile": "369a.png"
@@ -1342,6 +1377,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "370.png",
         "headIconFile": "370a.png"
@@ -1356,6 +1392,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "373.png",
         "headIconFile": "373a.png"
@@ -1370,6 +1407,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "376.png",
         "headIconFile": "376a.png"
@@ -1384,6 +1422,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "379.png",
         "headIconFile": "379a.png"
@@ -1398,6 +1437,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "389.png",
         "headIconFile": "389a.png"
@@ -1412,6 +1452,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "391.png",
         "headIconFile": "391a.png"
@@ -1426,6 +1467,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "392.png",
         "headIconFile": "392a.png"
@@ -1440,6 +1482,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "394.png",
         "headIconFile": "394a.png"
@@ -1454,6 +1497,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "399.png",
         "headIconFile": "399a.png"
@@ -1468,6 +1512,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "550.png",
         "headIconFile": "550a.png"
@@ -1482,6 +1527,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "556.png",
         "headIconFile": "556a.png"
@@ -1496,6 +1542,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "557.png",
         "headIconFile": "557a.png"
@@ -1510,6 +1557,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "561.png",
         "headIconFile": "561a.png"
@@ -1524,6 +1572,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "563.png",
         "headIconFile": "563a.png"
@@ -1538,6 +1587,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "564.png",
         "headIconFile": "564a.png"
@@ -1552,6 +1602,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "569.png",
         "headIconFile": "569a.png"
@@ -1566,6 +1617,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "570.png",
         "headIconFile": "570a.png"
@@ -1580,6 +1632,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "573.png",
         "headIconFile": "573a.png"
@@ -1594,6 +1647,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "575.png",
         "headIconFile": "575a.png"
@@ -1608,6 +1662,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "577.png",
         "headIconFile": "577a.png"
@@ -1622,6 +1677,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "581.png",
         "headIconFile": "581a.png"
@@ -1636,6 +1692,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "582.png",
         "headIconFile": "582a.png"
@@ -1650,6 +1707,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "583.png",
         "headIconFile": "583a.png"
@@ -1664,6 +1722,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "585.png",
         "headIconFile": "585a.png"
@@ -1678,6 +1737,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "591.png",
         "headIconFile": "591a.png"
@@ -1692,6 +1752,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "592.png",
         "headIconFile": "592a.png"
@@ -1706,6 +1767,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "596.png",
         "headIconFile": "596a.png"
@@ -1720,6 +1782,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "597.png",
         "headIconFile": "597a.png"
@@ -1734,6 +1797,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "600.png",
         "headIconFile": "600a.png"
@@ -1748,6 +1812,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "601.png",
         "headIconFile": "601a.png"
@@ -1762,6 +1827,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "603.png",
         "headIconFile": "603a.png"
@@ -1776,6 +1842,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "m",
       "assets": {
         "portraitFile": "604.png",
         "headIconFile": "604a.png"
@@ -1790,6 +1857,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "605.png",
         "headIconFile": "605a.png"
@@ -1804,6 +1872,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "606.png",
         "headIconFile": "606a.png"
@@ -1818,6 +1887,7 @@
       },
       "rarity": "SSR",
       "tier": "SSR",
+      "sex": "f",
       "assets": {
         "portraitFile": "608.png",
         "headIconFile": "608a.png"
@@ -1832,6 +1902,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "200.png",
         "headIconFile": "200a.png"
@@ -1846,6 +1917,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "201.png",
         "headIconFile": "201a.png"
@@ -1860,6 +1932,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "210.png",
         "headIconFile": "210a.png"
@@ -1874,6 +1947,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "211.png",
         "headIconFile": "211a.png"
@@ -1888,6 +1962,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "215.png",
         "headIconFile": "215a.png"
@@ -1902,6 +1977,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "220.png",
         "headIconFile": "220a.png"
@@ -1916,6 +1992,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "223.png",
         "headIconFile": "223a.png"
@@ -1930,6 +2007,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "231.png",
         "headIconFile": "231a.png"
@@ -1944,6 +2022,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "233.png",
         "headIconFile": "233a.png"
@@ -1958,6 +2037,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "242.png",
         "headIconFile": "242a.png"
@@ -1972,6 +2052,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "247.png",
         "headIconFile": "247a.png"
@@ -1986,6 +2067,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "251.png",
         "headIconFile": "251a.png"
@@ -2000,6 +2082,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "252.png",
         "headIconFile": "252a.png"
@@ -2014,6 +2097,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "253.png",
         "headIconFile": "253a.png"
@@ -2028,6 +2112,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "254.png",
         "headIconFile": "254a.png"
@@ -2042,6 +2127,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "256.png",
         "headIconFile": "256a.png"
@@ -2056,6 +2142,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "257.png",
         "headIconFile": "257a.png"
@@ -2070,6 +2157,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "260.png",
         "headIconFile": "260a.png"
@@ -2084,6 +2172,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "261.png",
         "headIconFile": "261a.png"
@@ -2098,6 +2187,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "262.png",
         "headIconFile": "262a.png"
@@ -2112,6 +2202,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "263.png",
         "headIconFile": "263a.png"
@@ -2126,6 +2217,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "264.png",
         "headIconFile": "264a.png"
@@ -2140,6 +2232,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "267.png",
         "headIconFile": "267a.png"
@@ -2154,6 +2247,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "268.png",
         "headIconFile": "268a.png"
@@ -2168,6 +2262,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "270.png",
         "headIconFile": "270a.png"
@@ -2182,6 +2277,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "271.png",
         "headIconFile": "271a.png"
@@ -2196,6 +2292,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "273.png",
         "headIconFile": "273a.png"
@@ -2210,6 +2307,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "275.png",
         "headIconFile": "275a.png"
@@ -2224,6 +2322,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "276.png",
         "headIconFile": "276a.png"
@@ -2238,6 +2337,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "277.png",
         "headIconFile": "277a.png"
@@ -2252,6 +2352,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "278.png",
         "headIconFile": "278a.png"
@@ -2266,6 +2367,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "281.png",
         "headIconFile": "281a.png"
@@ -2280,6 +2382,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "282.png",
         "headIconFile": "282a.png"
@@ -2294,6 +2397,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "285.png",
         "headIconFile": "285a.png"
@@ -2308,6 +2412,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "286.png",
         "headIconFile": "286a.png"
@@ -2322,6 +2427,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "287.png",
         "headIconFile": "287a.png"
@@ -2336,6 +2442,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "290.png",
         "headIconFile": "290a.png"
@@ -2350,6 +2457,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "291.png",
         "headIconFile": "291a.png"
@@ -2364,6 +2472,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "293.png",
         "headIconFile": "293a.png"
@@ -2378,6 +2487,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "295.png",
         "headIconFile": "295a.png"
@@ -2392,6 +2502,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "297.png",
         "headIconFile": "297a.png"
@@ -2406,6 +2517,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "298.png",
         "headIconFile": "298a.png"
@@ -2420,6 +2532,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "303.png",
         "headIconFile": "303a.png"
@@ -2434,6 +2547,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "307.png",
         "headIconFile": "307a.png"
@@ -2448,6 +2562,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "309.png",
         "headIconFile": "309a.png"
@@ -2462,6 +2577,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "317.png",
         "headIconFile": "317a.png"
@@ -2476,6 +2592,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "318.png",
         "headIconFile": "318a.png"
@@ -2490,6 +2607,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "320.png",
         "headIconFile": "320a.png"
@@ -2504,6 +2622,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "321.png",
         "headIconFile": "321a.png"
@@ -2518,6 +2637,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "324.png",
         "headIconFile": "324a.png"
@@ -2532,6 +2652,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "329.png",
         "headIconFile": "329a.png"
@@ -2546,6 +2667,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "332.png",
         "headIconFile": "332a.png"
@@ -2560,6 +2682,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "335.png",
         "headIconFile": "335a.png"
@@ -2574,6 +2697,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "340.png",
         "headIconFile": "340a.png"
@@ -2588,6 +2712,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "342.png",
         "headIconFile": "342a.png"
@@ -2602,6 +2727,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "349.png",
         "headIconFile": "349a.png"
@@ -2616,6 +2742,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "350.png",
         "headIconFile": "350a.png"
@@ -2630,6 +2757,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "365.png",
         "headIconFile": "365a.png"
@@ -2644,6 +2772,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "368.png",
         "headIconFile": "368a.png"
@@ -2658,6 +2787,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "371.png",
         "headIconFile": "371a.png"
@@ -2672,6 +2802,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "378.png",
         "headIconFile": "378a.png"
@@ -2686,6 +2817,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "382.png",
         "headIconFile": "382a.png"
@@ -2700,6 +2832,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "384.png",
         "headIconFile": "384a.png"
@@ -2714,6 +2847,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "398.png",
         "headIconFile": "398a.png"
@@ -2728,6 +2862,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "552.png",
         "headIconFile": "552a.png"
@@ -2742,6 +2877,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "558.png",
         "headIconFile": "558a.png"
@@ -2756,6 +2892,7 @@
       },
       "rarity": "SR",
       "tier": "SR",
+      "sex": "",
       "assets": {
         "portraitFile": "571.png",
         "headIconFile": "571a.png"
@@ -2770,6 +2907,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "202.png",
         "headIconFile": "202a.png"
@@ -2784,6 +2922,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "205.png",
         "headIconFile": "205a.png"
@@ -2798,6 +2937,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "206.png",
         "headIconFile": "206a.png"
@@ -2812,6 +2952,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "207.png",
         "headIconFile": "207a.png"
@@ -2826,6 +2967,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "208.png",
         "headIconFile": "208a.png"
@@ -2840,6 +2982,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "209.png",
         "headIconFile": "209a.png"
@@ -2854,6 +2997,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "212.png",
         "headIconFile": "212a.png"
@@ -2868,6 +3012,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "213.png",
         "headIconFile": "213a.png"
@@ -2882,6 +3027,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "214.png",
         "headIconFile": "214a.png"
@@ -2896,6 +3042,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "216.png",
         "headIconFile": "216a.png"
@@ -2910,6 +3057,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "218.png",
         "headIconFile": "218a.png"
@@ -2924,6 +3072,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "221.png",
         "headIconFile": "221a.png"
@@ -2938,6 +3087,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "222.png",
         "headIconFile": "222a.png"
@@ -2952,6 +3102,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "224.png",
         "headIconFile": "224a.png"
@@ -2966,6 +3117,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "225.png",
         "headIconFile": "225a.png"
@@ -2980,6 +3132,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "226.png",
         "headIconFile": "226a.png"
@@ -2994,6 +3147,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "227.png",
         "headIconFile": "227a.png"
@@ -3008,6 +3162,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "228.png",
         "headIconFile": "228a.png"
@@ -3022,6 +3177,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "230.png",
         "headIconFile": "230a.png"
@@ -3036,6 +3192,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "232.png",
         "headIconFile": "232a.png"
@@ -3050,6 +3207,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "234.png",
         "headIconFile": "234a.png"
@@ -3064,6 +3222,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "236.png",
         "headIconFile": "236a.png"
@@ -3078,6 +3237,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "237.png",
         "headIconFile": "237a.png"
@@ -3092,6 +3252,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "238.png",
         "headIconFile": "238a.png"
@@ -3106,6 +3267,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "241.png",
         "headIconFile": "241a.png"
@@ -3120,6 +3282,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "243.png",
         "headIconFile": "243a.png"
@@ -3134,6 +3297,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "244.png",
         "headIconFile": "244a.png"
@@ -3148,6 +3312,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "249.png",
         "headIconFile": "249a.png"
@@ -3162,6 +3327,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "250.png",
         "headIconFile": "250a.png"
@@ -3176,6 +3342,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "274.png",
         "headIconFile": "274a.png"
@@ -3190,6 +3357,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "289.png",
         "headIconFile": "289a.png"
@@ -3204,6 +3372,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "301.png",
         "headIconFile": "301a.png"
@@ -3218,6 +3387,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "302.png",
         "headIconFile": "302a.png"
@@ -3232,6 +3402,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "306.png",
         "headIconFile": "306a.png"
@@ -3246,6 +3417,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "310.png",
         "headIconFile": "310a.png"
@@ -3260,6 +3432,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "323.png",
         "headIconFile": "323a.png"
@@ -3274,6 +3447,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "361.png",
         "headIconFile": "361a.png"
@@ -3288,6 +3462,7 @@
       },
       "rarity": "R",
       "tier": "R",
+      "sex": "",
       "assets": {
         "portraitFile": "375.png",
         "headIconFile": "375a.png"
@@ -3302,6 +3477,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "203.png",
         "headIconFile": "203a.png"
@@ -3316,6 +3492,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "245.png",
         "headIconFile": "245a.png"
@@ -3330,6 +3507,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "246.png",
         "headIconFile": "246a.png"
@@ -3344,6 +3522,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "400.png",
         "headIconFile": "400a.png"
@@ -3358,6 +3537,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "401.png",
         "headIconFile": "401a.png"
@@ -3372,6 +3552,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "403.png",
         "headIconFile": "403a.png"
@@ -3386,6 +3567,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "404.png",
         "headIconFile": "404a.png"
@@ -3400,6 +3582,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "405.png",
         "headIconFile": "405a.png"
@@ -3414,6 +3597,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "406.png",
         "headIconFile": "406a.png"
@@ -3428,6 +3612,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "407.png",
         "headIconFile": "407a.png"
@@ -3442,6 +3627,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "408.png",
         "headIconFile": "408a.png"
@@ -3456,6 +3642,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "409.png",
         "headIconFile": "409a.png"
@@ -3470,6 +3657,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "410.png",
         "headIconFile": "410a.png"
@@ -3484,6 +3672,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "411.png",
         "headIconFile": "411a.png"
@@ -3498,6 +3687,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "412.png",
         "headIconFile": "412a.png"
@@ -3512,6 +3702,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "413.png",
         "headIconFile": "413a.png"
@@ -3526,6 +3717,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "414.png",
         "headIconFile": "414a.png"
@@ -3540,6 +3732,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "415.png",
         "headIconFile": "415a.png"
@@ -3554,6 +3747,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "416.png",
         "headIconFile": "416a.png"
@@ -3568,6 +3762,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "417.png",
         "headIconFile": "417a.png"
@@ -3582,6 +3777,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "418.png",
         "headIconFile": "418a.png"
@@ -3596,6 +3792,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "419.png",
         "headIconFile": "419a.png"
@@ -3610,6 +3807,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "420.png",
         "headIconFile": "420a.png"
@@ -3624,6 +3822,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "421.png",
         "headIconFile": "421a.png"
@@ -3638,6 +3837,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "422.png",
         "headIconFile": "422a.png"
@@ -3652,6 +3852,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "423.png",
         "headIconFile": "423a.png"
@@ -3666,6 +3867,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "424.png",
         "headIconFile": "424a.png"
@@ -3680,6 +3882,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "425.png",
         "headIconFile": "425a.png"
@@ -3694,6 +3897,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "426.png",
         "headIconFile": "426a.png"
@@ -3708,6 +3912,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "427.png",
         "headIconFile": "427a.png"
@@ -3722,6 +3927,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "428.png",
         "headIconFile": "428a.png"
@@ -3736,6 +3942,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "429.png",
         "headIconFile": "429a.png"
@@ -3750,6 +3957,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "430.png",
         "headIconFile": "430a.png"
@@ -3764,6 +3972,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "433.png",
         "headIconFile": "433a.png"
@@ -3778,6 +3987,7 @@
       },
       "rarity": "N",
       "tier": "N",
+      "sex": "",
       "assets": {
         "portraitFile": "499.png",
         "headIconFile": "499a.png"

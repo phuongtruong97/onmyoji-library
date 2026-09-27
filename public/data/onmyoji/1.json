@@ -1,0 +1,503 @@
+{
+  "id": 1,
+  "kind": "Onmyoji",
+  "name": {
+    "vi": "Seimei",
+    "en": "Seimei",
+    "zh": "晴明"
+  },
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "MAX_LEVEL",
+  "reviewStatus": "CAN_KIEM_TRA",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 6382,
+      "grade": ""
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 27140,
+      "grade": ""
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 1051,
+      "grade": ""
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 128,
+      "grade": ""
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "20%",
+      "grade": ""
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "assets": {
+    "portraitFile": "seimei.png",
+    "headIconFile": "10a.png"
+  },
+  "skills": [
+    {
+      "id": 1003,
+      "number": 1,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cơ Sở Thuật Thức",
+        "en": "基础术式",
+        "zh": "基础术式"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Sử dụng bùa chú tấn công mục tiêu, gây sát thương bằng 120%, khi gây sát thương đính kèm hiệu ứng [Phù Chú • Loạn] cho mục tiêu, khiến sát thương gây ra giảm 40%, duy trì 2 lượt.",
+        "en": "Uses an amulet to attack the target. Deals damage equal to 120% of his ATK. When damage is dealt, the target is inflicted with the Amulet: Chaos effect. This decreases the damage it deals by 40%. Lasts 2 turns.",
+        "zh": "使用符咒攻击目标，造成攻击120%的伤害，造成伤害时为目标附加[符咒·乱]效果，使其造成的伤害减少40%，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Có 50% [tips_2] đính kèm hiệu ứng [Phù Chú • Loạn] cho mục tiêu, khiến sát thương gây ra giảm 20%, duy trì 2 lượt",
+            "en": "Has a 50% (+ Effect HIT: Effect HIT) chance of inflicting the Amulet: Chaos effect on the target. This decreases the damage it deals by 20%. Lasts 2 turns.",
+            "zh": "有50%（+效果命中：效果命中）的概率为目标附加[符咒·乱]效果，使其造成的伤害减少20%，持续2回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất đính kèm hiệu ứng [Phù Chú • Loạn] tăng lên 100% [tips_2] ",
+            "en": "The chance of inflicting the Amulet: Chaos effect increases to 100% (+ Effect HIT: Effect HIT)",
+            "zh": "[符咒·乱]效果的附加概率增至100%（+效果命中：效果命中）"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Phù Chú • Loạn]: sát thương gây ra giảm 40%",
+            "en": "Amulet: Chaos effect enhancement: Damage dealt decreases by 40%.",
+            "zh": "[符咒·乱]效果强化：造成的伤害降低40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương kỹ năng tăng lên 120%",
+            "en": "Skill damage increases by 20%.",
+            "zh": "技能伤害额外+20%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1003.png"
+    },
+    {
+      "id": 1004,
+      "number": 2,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phù Chú · Sinh",
+        "en": "Amulet: Life",
+        "zh": "符咒·生"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Dán [Phù Chú · Sinh] cho tất cả đồng đội, khiến sát thương họ gánh chịu giảm 30%, duy trì 3 lần hành động.",
+        "en": "Gives all allies Amulet: Life. This decreases the damage they take by 30%. Lasts 3 moves.",
+        "zh": "为所有队友贴上符咒·生，使其受到的伤害降低30%，持续3次行动。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Số lượt duy trì [Phù Chú · Sinh] +1",
+            "en": "Increases duration of \"Amulet: Life\" by 1 turn.",
+            "zh": "[符咒·生]持续回合数+1"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Phù Chú · Sinh]: Sát thương gánh chịu giảm 20%",
+            "en": "Amulet: Life effect enhancement: Damage taken decreases by 20%.",
+            "zh": "[符咒·生]效果强化：受到的伤害降低20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Phù Chú · Sinh]: Sát thương gánh chịu giảm 30%",
+            "en": "Amulet: Life effect enhancement: Damage taken decreases by 30%.",
+            "zh": "[符咒·生]效果强化：受到的伤害降低30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng của [Phù Chú · Sinh] đồng thời tác dụng lên Âm Dương Sư",
+            "en": "The Amulet: Life effect also applies to the onmyoji.",
+            "zh": "[符咒·生]的效果同时作用于阴阳师"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1004.png"
+    },
+    {
+      "id": 1005,
+      "number": 3,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phù Chú · Diệt",
+        "en": "Amulet: Death",
+        "zh": "符咒·灭"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Dán [Phù Chú · Diệt] cho toàn bộ phe địch, khiến sát thương mục tiêu gánh chịu tăng 30%, hiệu ứng biến mất sau khi mục tiêu hành động 3 lần.",
+        "en": "Inflicts Amulet: Death on all enemies. This increases the damage the target takes by 30%. The effect disappears after the target moves 3 times.",
+        "zh": "为敌方全体贴上[符咒·灭]，使目标受到的伤害增加30%，效果在目标行动3次后消失。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Phù Chú · Diệt]: Khiến sát thương mục tiêu gánh chịu tăng 20%",
+            "en": "Amulet: Death effect enhancement: Increases the damage the target takes by 20%.",
+            "zh": "[符咒·灭]效果强化：使目标受到的伤害增加20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Phù Chú · Diệt]: Khiến sát thương mục tiêu gánh chịu tăng 25%",
+            "en": "Amulet: Death effect enhancement: Increases the damage the target takes by 25%.",
+            "zh": "[符咒·灭]效果强化：使目标受到的伤害增加25%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Phù Chú · Diệt]: Khiến sát thương mục tiêu gánh chịu tăng 30%",
+            "en": "Amulet: Death effect enhancement: Increases the damage the target takes by 30%.",
+            "zh": "[符咒·灭]效果强化：使目标受到的伤害增加30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Số lượt duy trì [Phù Chú · Diệt] +1",
+            "en": "Increases duration of \"Amulet: Death\" by 1 turn.",
+            "zh": "[符咒·灭]持续回合数+1"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1005.png"
+    },
+    {
+      "id": 1007,
+      "number": 4,
+      "defaultEquipped": false,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Ngôn Linh · Nhất Thức",
+        "en": "Spell: Purge",
+        "zh": "言灵·一式"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Kích nổ tất cả phù chú trong chiến trường và xóa hiệu quả của chúng, phù chú trên người mỗi đồng đội sẽ hồi phục 10% HP của bản thân cho người đó, phù chú trên người mỗi quân địch sẽ gây sát thương chuẩn bằng 10% Tấn Công của Seimei lên kẻ đó.",
+        "en": "Explodes all amulets on the battlefield and eliminates their effects. Each amulet on an ally restores their HP by 10% of their HP. Each amulet on an enemy deals true damage to them equal to 10% of Seimei's ATK.",
+        "zh": "引爆战场内所有符咒并清除其效果，每个队友身上的符咒会为其恢复自身生命的10%，每个敌军身上的符咒会对其造成晴明攻击10%的真实伤害。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "1007.png"
+    },
+    {
+      "id": 1008,
+      "number": 5,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ngôn Linh · Tinh",
+        "en": "Spell: Star",
+        "zh": "言灵·星"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Dùng linh lực vẽ kết giới hình ngôi sao năm cánh, tăng 30% sát thương cho toàn bộ đồng đội, duy trì 2 lượt.",
+        "en": "Forms a pentagram that increases the damage all allies deal by 30%. Lasts 2 turns.",
+        "zh": "以灵力划出五芒星结界，提升全体队友30%的伤害，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Tinh]: sát thương gây ra tăng 20%",
+            "en": "Spell: Star effect enhancement: Damage dealt increases by 20%.",
+            "zh": "[言灵·星]效果强化：造成的伤害增加20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Tinh]: sát thương gây ra tăng 25%",
+            "en": "Spell: Star effect enhancement: Damage dealt increases by 25%.",
+            "zh": "[言灵·星]效果强化：造成的伤害增加25%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Tinh]: sát thương gây ra tăng 30%",
+            "en": "Spell: Star effect enhancement: Damage dealt increases by 30%.",
+            "zh": "[言灵·星]效果强化：造成的伤害增加30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Số lượt duy trì của [Ngôn Linh • Tinh] +1",
+            "en": "Increases duration of \"Spell: Star\" by 1 turn.",
+            "zh": "[言灵·星]持续回合数+1"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1008.png"
+    },
+    {
+      "id": 1009,
+      "number": 6,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ngôn Linh · Trói",
+        "en": "Spell: Bind",
+        "zh": "言灵·缚"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Tạo kết giới trói buộc mục tiêu, khiến sát thương mục tiêu phải gánh chịu tăng 40%, đồng thời có 50% [tips_2] [tips_110] kẻ địch. Đơn vị bị [tips_110] có thể sử dụng đòn đánh thường để phá vỡ trói buộc giải trừ khống chế. \nKết giới kế thừa 10% lượng máu của Âm Dương Sư, thời gian hồi chiêu kỹ năng là 2 lượt.",
+        "en": "以结界束缚目标，使目标受到的伤害增加40%，并有50%（+Effect HIT）的概率束缚敌人，被束缚的单位可以通过使用普通攻击打破束缚解除控制。结界继承阴阳师10%的生命值，技能冷却2回合。",
+        "zh": "以结界束缚目标，使目标受到的伤害增加40%，并有50%（+效果命中）的概率束缚敌人，被束缚的单位可以通过使用普通攻击打破束缚解除控制。结界继承阴阳师10%的生命值，技能冷却2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Trói]: sát thương gánh chịu tăng 20%",
+            "en": "Spell: Bind effect enhancement: Increases the damage taken by 20%.",
+            "zh": "[言灵·缚]效果强化：受到的伤害增加20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Phược]: sát thương gánh chịu tăng 30%",
+            "en": "Spell: Bind effect enhancement: Increases the damage taken by 30%.",
+            "zh": "[言灵·缚]效果强化：受到的伤害增加30%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Cường hóa hiệu ứng [Ngôn Linh • Phược]: sát thương gánh chịu tăng 40%",
+            "en": "Spell: Bind effect enhancement: Increases the damage taken by 40%.",
+            "zh": "[言灵·缚]效果强化：受到的伤害增加40%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Lượng HP kết giới kế thừa tăng lên 10% của Âm Dương Sư",
+            "en": "HP inherited by the energy barrier is equal to 10% of Seimei's HP.",
+            "zh": "结界继承的生命值增至阴阳师的10%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1009.png"
+    },
+    {
+      "id": 1011,
+      "number": 7,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ngôn Linh · Thủ",
+        "en": "言灵·守",
+        "zh": "言灵·守"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Dùng linh lực kết thành một kết giới phòng thủ khổng lồ, khiến kẻ địch không thể làm tổn thương đồng đội, kết giới vô hiệu hóa sau khi Âm Dương Sư hành động 2 lần hoặc gánh chịu sát thương bằng 14% giới hạn HP, thời gian hồi kỹ năng 3 lượt.",
+        "en": "Forms a large defensive barrier to protect allies. Barrier is broken after Seimei moves 2 times or it has taken damage equal to [z_生命继承比_per] of Seimei's max HP. CD: 3 turns.",
+        "zh": "以灵力结出一个巨大的防守结界，使敌人无法伤害队友，结界在阴阳师行动2次或承受阴阳师生命上限[z_生命继承比_per]的伤害后失效，技能冷却3回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Lượng hấp thu tăng lên đến 11% giới hạn HP của Âm Dương Sư",
+            "en": "The damage absorbed increases to 11% of the onmyoji's max HP.",
+            "zh": "吸收量增至阴阳师生命上限的[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng hấp thu tăng lên đến 12% giới hạn HP của Âm Dương Sư",
+            "en": "The damage absorbed increases to [z_生命继承比_per] of the onmyoji's max HP.",
+            "zh": "吸收量增至阴阳师生命上限的[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Lượng hấp thu tăng lên đến 13% giới hạn HP của Âm Dương Sư",
+            "en": "The damage absorbed increases to [z_生命继承比_per] of the onmyoji's max HP.",
+            "zh": "吸收量增至阴阳师生命上限的[z_生命继承比_per]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Lượng hấp thu tăng lên đến 14% giới hạn HP của Âm Dương Sư",
+            "en": "The damage absorbed increases to [z_生命继承比_per] of the onmyoji's max HP.",
+            "zh": "吸收量增至阴阳师生命上限的[z_生命继承比_per]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1011.png"
+    },
+    {
+      "id": 1013,
+      "number": 8,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Lôi Đế Chiêu Lai",
+        "en": "Divine Lightning",
+        "zh": "雷帝召来"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khi Seimei chịu đòn đánh, có 10% tỷ lệ triệu hồi Thần Long. Thần Long giáng sấm sét tấn công toàn bộ kẻ địch, gây sát thương tương đương 100% sức tấn công của Seimei.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Có 10% tỷ lệ cơ bản khiến mục tiêu choáng trong 1 lượt.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tỷ lệ cơ bản tăng lên 20%.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 120%.",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1013.png"
+    },
+    {
+      "id": 1110,
+      "number": 9,
+      "defaultEquipped": false,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Hồ Ngôn Nhất Thức",
+        "en": "Fox Whispers: Purge",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Mở khóa kỹ năng này bằng cách vượt qua các ải cốt truyện tương ứng trong [Cửu Vĩ Chi Ký] để nâng cấp và thay thế kỹ năng [Ngôn Linh: Nhất Thức] thành [Hồ Ngữ: Nhất Thức]\n\nMở khóa sau khi Seimei thi triển kỹ năng 5 lần. Khi Seimei sử dụng đòn đánh thường hoặc kỹ năng trong lượt của mình, ông sẽ phóng thêm 3 bùa chú vào 1 mục tiêu kẻ địch ngẫu nhiên, áp dụng hiệu ứng [Phù Chú: Loạn], [Phù Chú: Diệt] và hiệu ứng [Phù Chú: Trói] với tỷ lệ cơ bản 100%, kéo dài trong 1 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "1110.png"
+    }
+  ]
+}

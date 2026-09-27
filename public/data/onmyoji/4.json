@@ -1,0 +1,479 @@
+{
+  "id": 4,
+  "kind": "Onmyoji",
+  "name": {
+    "vi": "Hiromasa",
+    "en": "Hiromasa",
+    "zh": "源博雅"
+  },
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "MAX_LEVEL",
+  "reviewStatus": "CAN_KIEM_TRA",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 6382,
+      "grade": ""
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 27140,
+      "grade": ""
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 1051,
+      "grade": ""
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 128,
+      "grade": ""
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "20%",
+      "grade": ""
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "assets": {
+    "portraitFile": "hiromasa.png",
+    "headIconFile": "13a.png"
+  },
+  "skills": [
+    {
+      "id": 1301,
+      "number": 1,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phá Ma Tiễn",
+        "en": "Celestial Arrow ",
+        "zh": "破魔矢"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiromasa giương cung bắn ra một mũi tên ma thuật tấn công mục tiêu chỉ định, gây sát thương bằng 140% Tấn Công của bản thân.",
+        "en": "Hiromasa draws back his bowstring and releases a magical arrow to attack a single target, dealing damage equal to 100% of his ATK.",
+        "zh": "源博雅拉满弓弦，射出带有灵力的箭，攻击敌方目标，造成攻击140%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Sát thương tăng lên 110%",
+            "zh": "Sát thương tăng lên 110%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 120%",
+            "en": "Increases damage to 120%.",
+            "zh": "Sát thương tăng lên 120%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 130%",
+            "en": "Increases damage to 130%.",
+            "zh": "Sát thương tăng lên 130%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 140%",
+            "en": "Increases damage to 140%.",
+            "zh": "Sát thương tăng lên 140%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1301.png"
+    },
+    {
+      "id": 1302,
+      "number": 2,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Đa Trọng Tiễn",
+        "en": "Double Release",
+        "zh": "多重箭"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiromasa giương cung bắn ra 2 mũi tên ma thuật vào 1 kẻ địch chỉ định và 1 kẻ địch ngẫu nhiên, gây sát thương bằng 130% Tấn Công của bản thân.",
+        "en": "Hiromasa draws back his bowstring and releases 2 magical arrows at 1 targeted enemy and 1 random enemy, dealing damage equal to 100% of his ATK.",
+        "zh": "源博雅拉满弓弦，同时射出带有灵力的3发箭，对指定敌方目标和2个随机敌方目标造成攻击130%的伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 10%",
+            "en": "Sát thương tăng lên 110%",
+            "zh": "Sát thương tăng lên 110%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 120%",
+            "en": "Increases damage to 120%.",
+            "zh": "Sát thương tăng lên 120%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 130%",
+            "en": "Increases damage to 130%.",
+            "zh": "Sát thương tăng lên 130%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tấn công thêm 1 mục tiêu",
+            "en": "Deals damage to 1 more target.",
+            "zh": "对额外1个目标造成伤害"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1302.png"
+    },
+    {
+      "id": 1303,
+      "number": 3,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tru Tà Tiễn",
+        "en": "Rapid Release",
+        "zh": "诛邪箭"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiromasa nhanh chóng giương cung bắn ra 3 mũi tên ma thuật tấn công một mục tiêu, mỗi đòn đánh gây sát thương bằng 100% Tấn Công của bản thân. Sát thương gây ra bởi mỗi mũi tên tăng thêm 10%.",
+        "en": "Hiromasa rapidly draws back his bowstring and releases 3 magical arrows to attack a single target, each hit deals damage equal to 80% of his ATK. Damage dealt by each arrow increases by 10%.",
+        "zh": "战斗开始和回合结束后，获得3层[buff_1306_1]，自身外友方回合内普攻时，消耗1层[buff_1306_1]进行协战，并提升自身10%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương mỗi tên tăng lên 85%",
+            "en": "Each arrow's damage increases to 55%",
+            "zh": "每箭Sát thương tăng lên 55%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương mỗi tên tăng lên 90%",
+            "en": "Each arrow's damage increases to 60%",
+            "zh": "每箭Sát thương tăng lên 60%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương mỗi tên tăng lên 95%",
+            "en": "Each arrow's damage increases to 65%",
+            "zh": "每箭Sát thương tăng lên 65%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương mỗi tên tăng lên 100%",
+            "en": "Each arrow's damage increases to 70%",
+            "zh": "每箭Sát thương tăng lên 70%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1303.png"
+    },
+    {
+      "id": 1304,
+      "number": 4,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bí Thuật · Báo Nhãn",
+        "en": "Occult: Panther Eyes",
+        "zh": "秘术·豹眼"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hắc Báo tham chiến và vận dụng linh lực gia tăng 30% Sát Thương Chí Mạng cho toàn bộ đồng đội, kéo dài 3 lượt. Khi đồng đội nhận được bùa lợi này tấn công, có 50% tỷ lệ Hắc Báo sẽ thi triển Bí Thuật: Truy Kích lên một kẻ địch ngẫu nhiên.",
+        "en": "Panther joins the battle and uses its spiritual powers to increase Crit DMG for all allies by 15%, lasts for 2 turns. When an ally with this buff attacks, there is a 20% chance that Panther will cast Occult: Pursuit on a random enemy.",
+        "zh": "黑豹协助作战，使用灵力增加友方全体30%的暴击伤害，持续2回合，期间队友进行攻击时，黑豹有50%的概率对一个随机敌方施放「秘术·穷追」。影分身存在时，额外提升友方全体15%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tăng sát thương bạo kích tăng lên 20%.",
+            "en": "Increases the Crit DMG boost to 20%.",
+            "zh": "暴击伤害增加提升至20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Xác suất kích hoạt của [Bí Thuật·Cùng Truy] tăng thành 50%.",
+            "en": "Increases the trigger chance of Occult: Pursuit to 50%.",
+            "zh": "「秘术·穷追」的触发概率增加为50%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tăng sát thương bạo kích tăng lên 30%.",
+            "en": "Increases the Crit DMG boost to 30%",
+            "zh": "暴击伤害增加提升至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Thời gian duy trì tăng 1 lượt",
+            "en": "When shadow clones exist, additionally raises all allies' Move Bar by 15%.",
+            "zh": "影分身存在时，额外提升友方全体15%行动条"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1304.png"
+    },
+    {
+      "id": 1305,
+      "number": 5,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bí Thuật · Ảnh Phân Thân",
+        "en": "Occult: Shadow Double",
+        "zh": "秘术·影分身"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiromasa tạo một phân thân bóng tối tồn tại trong 2 lượt và không thể bị tấn công. Mỗi khi đồng đội hành động, phân thân sẽ sử dụng [Phá Ma Tiễn] tấn công một kẻ địch ngẫu nhiên, gây sát thương bằng 70% Tấn Công của bản thân.",
+        "en": "Hiromasa creates a shadow clone that lasts for 2 turns and cannot be attacked. Each time an ally takes an action, the shadow double will use Celestial Arrow to attack a random enemy dealing damage equal to 30% of his ATK.",
+        "zh": "制造出一个继承自身100%的属性且不可被攻击的影分身，源博雅每攻击3次，影分身将对同一目标施放源博雅上次攻击相同的技能。施放后提升自身30%暴击、30点速度和70%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 40%",
+            "en": "Each arrow's damage increases to 55%",
+            "zh": "每箭Sát thương tăng lên 55%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 50%",
+            "en": "Each arrow's damage increases to 60%",
+            "zh": "每箭Sát thương tăng lên 60%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 60%",
+            "en": "Each arrow's damage increases to 65%",
+            "zh": "每箭Sát thương tăng lên 65%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 70%",
+            "en": "Raises Move Bar by 70% after using the skill.",
+            "zh": "施放后提升自身70%行动条"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1305.png"
+    },
+    {
+      "id": 1306,
+      "number": 6,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bí Thuật · Báo Kích",
+        "en": "Occult: Panther Maul",
+        "zh": "秘术·豹袭"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khi bắt đầu trận chiến, Hắc Báo sẽ tự động vồ lấy 1 kẻ địch ngẫu nhiên, gây sát thương bằng 140% Tấn Công của Hiromasa. Sát thương không kích hoạt hiệu quả Ngự Hồn và Nội Tại của kẻ địch.",
+        "en": "Panther will automatically pounce on 1 random enemy dealing damage equal to 100% of Hiromasa's ATK at the start of battle.",
+        "zh": "战斗开始和回合结束后，获得3层[buff_1306_1]，自身外友方回合内普攻时，消耗1发[buff_1306_1]进行协战，并提升自身10%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Each arrow's damage increases to 55%",
+            "zh": "每箭Sát thương tăng lên 55%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 120%",
+            "en": "Each arrow's damage increases to 60%",
+            "zh": "每箭Sát thương tăng lên 60%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 130%",
+            "en": "Each arrow's damage increases to 65%",
+            "zh": "每箭Sát thương tăng lên 65%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 140%. Không kích hoạt hiệu quả Ngự Hồn và Nội Tại của kẻ địch.",
+            "en": "Each arrow's damage increases to 70%",
+            "zh": "每箭Sát thương tăng lên 70%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1306.png"
+    },
+    {
+      "id": 1307,
+      "number": 7,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bi Thanh Ai Hào",
+        "en": "Roar of Grief",
+        "zh": "悲声哀嚎"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khi Hiromasa bị hạ gục, Hắc Báo sẽ gầm thét đau đớn, giúp tăng 80% Tấn Công và 40 Tốc cho toàn bộ đồng minh, kéo dài 2 lượt..",
+        "en": "When Hiromasa is KO'd, Panther will roar with grief and increase the ATK andSPD for all allies by 60% and 20, lasts for 1 turn.\n\n",
+        "zh": "源博雅快速拉弓，连续射出3发箭，攻击1名敌人，每箭造成攻击100%的伤害，每箭伤害递增10%，技能冷却2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tốc độ tăng lên 30",
+            "en": "技能伤害额外+10%",
+            "zh": "技能伤害额外+10%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tấn công tăng lên 80%",
+            "en": "技能伤害额外+10%",
+            "zh": "技能伤害额外+10%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tốc độ tăng lên 40",
+            "en": "技能伤害额外+10%",
+            "zh": "技能伤害额外+10%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Thời gian duy trì tăng 1 lượt",
+            "en": "技能伤害额外+10%",
+            "zh": "技能伤害额外+10%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1307.png"
+    },
+    {
+      "id": 1308,
+      "number": 8,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Bí Thuật · Cùng Truy",
+        "en": "Occult: Pursuit",
+        "zh": "秘术·穷追"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khi Hiromasa sử dụng Phá Ma Tiễn, Hắc Báo có 30% tỷ lệ phối hợp tấn công, gây sát thương bằng 100% Tấn Công của bản thân. Mỗi khi Hiromasa hoặc phân thân tấn công sẽ nhận được một tầng [Tụ Lực].",
+        "en": "When Hiromasa uses Celestial Arrow, the Panther has a 30% chance of attacking alongside him, dealing damage equal to 100% of his ATK. Each time Hiromasa or his shadow double attacks, he gains a stack of Charged Force.\n\n",
+        "zh": "制造出一个持续2回合不可被攻击的影分身，每个友方单位行动时影分身都会对随机目标使用「破魔矢」，优先攻击友方选择的目标，造成源博雅攻击[z_攻击继承比_per]的伤害。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "1308.png"
+    }
+  ]
+}

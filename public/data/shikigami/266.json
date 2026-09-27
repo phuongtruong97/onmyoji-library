@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -125,7 +126,7 @@
       },
       "description": {
         "vi": "[tips_11]\nKhi lượt của Thức Thần phe ta khác bắt đầu, có 40% xác suất (mỗi khi sở hữu 1 điểm Quỷ Hỏa làm xác suất này giảm 3%) giúp họ nhận [buff_2663_1] cho đến khi kết thúc lượt. [buff_2663_1] sẽ khiến thi triển kỹ năng không tiêu hao Quỷ Hỏa, và mỗi khi thừa 1 điểm Quỷ Hỏa giúp sát thương kỹ năng lần đó tăng 5%.",
-        "en": "[tips_11].\nAt the start of an allied shikigami's turn, has a 40% chance (reduced by 3% for each orb you have) of granting a [buff_2663_1] on the ally until the end of their turn. Using skills under the [buff_2663_1] effect costs no orbs. Each orb you have increases the skill's damage by 5%.",
+        "en": "[tips_11]\nAt the start of an allied shikigami's turn, has a 40% chance (reduced by 3% for each orb you have) of granting a [buff_2663_1] on the ally until the end of their turn. Using skills under the [buff_2663_1] effect costs no orbs. Each orb you have increases the skill's damage by 5%.",
         "zh": "[tips_11]。\n其他友方式神的回合开始时，有40%概率（每拥有1点鬼火使此概率降低3%）使其获得[buff_2663_1]直到回合结束。[buff_2663_1]将使施放技能无需消耗鬼火，且每余1点鬼火使该次技能伤害提升5%。"
       },
       "upgrades": [

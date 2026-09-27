@@ -1,0 +1,78 @@
+{
+  "shikigamiId": 396,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Thức thần khống chế PvP có khả năng ép mục tiêu đánh thường, miễn khống chế theo tầng và gây AoE ngoài lượt; gần như không có giá trị PvE vì Thất Hồn vô hiệu với quái",
+  "summary": "《Tu La Quỷ Đồng Hoàn》 dùng [Cốt Tỏa Dung Hồn] tốn 2 Quỷ Hỏa để gắn {−Thất Hồn} lên một kẻ địch và nhận 3 tầng {+Hồn Võng}. Ở cấp tối đa, {−Thất Hồn} có 80% xác suất cơ bản ép mục tiêu đánh thường một đồng minh ngẫu nhiên khi bắt đầu lượt. {+Hồn Võng} cho anh miễn khống chế và mỗi tầng giảm 30% sát thương; khi mất tổng cộng 2 tầng, anh tự tung hai lần AoE 49% nếu vẫn có thể hành động.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 2.5,
+      "note": "Thất Hồn vô hiệu với quái và sát thương không đủ thay chủ lực farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 3,
+      "note": "Có hút máu và AoE nhưng cơ chế chính không hoạt động trên boss/quái."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Ép đánh thường, khóa thay đổi Thanh Hành Động và rải khống chế ngoài lượt rất khó chịu."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Thuần PvP, cần Tốc độ và Chính Xác Hiệu Ứng cao nên khó trang bị."
+    }
+  ],
+  "strengths": [
+    "{−Thất Hồn} ở cấp tối đa có 80% xác suất cơ bản ép mục tiêu đánh thường đồng minh ngẫu nhiên và chỉ cần gắn lên mục tiêu chủ chốt.",
+    "{+Hồn Võng} tối đa 3 tầng, duy trì hiệu ứng ẩn mục tiêu, miễn khống chế và giảm 30% sát thương cho mỗi tầng.",
+    "[Mê Tích Quỷ Thành] đánh 3 lần, hút máu 50%, khóa mục tiêu khỏi hiệu ứng thay đổi Thanh Hành Động trong 2 lượt; khi có {+Hồn Võng} chuyển thành AoE."
+  ],
+  "weaknesses": [
+    "{−Thất Hồn} vô hiệu với quái, khiến anh hầu như không có vị trí trong PvE.",
+    "Cần vừa đủ Tốc độ để có lượt vừa đủ Chính Xác Hiệu Ứng cho xác suất cơ bản; yêu cầu Ngự Hồn cao.",
+    "{+Hồn Võng} giảm một tầng khi kết thúc lượt hoặc khi nhận khống chế; hết tầng thì mất miễn khống chế và khả năng giảm sát thương."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": []
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Ưu tiên dùng [Cốt Tỏa Dung Hồn] lên thức thần phụ thuộc kỹ năng. Khi thi triển trong lúc không có {+Hồn Võng}, anh còn tăng 40% Thanh Hành Động; sau đó 3 tầng mới giúp anh sống sót và tạo điều kiện cho AoE ngoài lượt khi tầng bị tiêu hao.",
+        "[Mê Tích Quỷ Thành] hiện tốn 3 Quỷ Hỏa. Hiệu ứng khóa thay đổi Thanh Hành Động kéo dài 2 lượt, hữu ích để cô lập mục tiêu khỏi kéo/đẩy lượt; AoE truy kích khi giảm 2 tầng không kích hoạt hiệu ứng Ngự Hồn của mục tiêu nhưng vẫn có thể kích hoạt Ngự Hồn khống chế của chính anh."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Ưu tiên 〈Tuyết U Hồn〉: Tốc độ – Chính Xác Hiệu Ứng – HP/Công; lấy Tốc độ và Chính Xác phụ. Nhiều hit từ kỹ năng và AoE ngoài lượt tạo nhiều lần thử Đóng Băng.",
+        "〈Mị Yêu〉 hoặc 〈Chung Linh〉 là lựa chọn khống chế thay thế với cùng cấu hình Tốc – Chính Xác – HP/Công. Dùng HP nếu cần sống để duy trì Hồn Võng; dùng Công chỉ khi đội đã bảo vệ tốt và muốn tăng áp lực sát thương."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "SP鬼童丸御魂搭配",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2302/1015767.html",
+      "usedFor": "đối chiếu vai trò PvP, yêu cầu Tốc/Chính Xác và các bộ Tuyết U Hồn, Mị Yêu, Chung Linh"
+    },
+    {
+      "title": "修罗鬼童丸",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/修罗鬼童丸/62684732",
+      "usedFor": "đối chiếu phạm vi sử dụng PvP, ưu/nhược điểm và yêu cầu trang bị"
+    }
+  ]
+}

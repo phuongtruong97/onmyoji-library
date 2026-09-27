@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 339,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực PvE 12 hit rất mạnh trên ít mục tiêu, tự hút Công toàn sân; vẫn hữu dụng ở nội dung đa hit nhưng cần xây đội và Quỷ Hỏa chính xác",
+  "summary": "《Tẫn Thiên Ngọc Tảo Tiền》 trước mỗi lần dùng [Tẫn Thiên Cửu Vĩ] đánh cắp 6% Công của mọi đơn vị trên sân, tối đa bằng 100% Công ban đầu của bản thân, rồi tung 12 hit ngẫu nhiên, mỗi hit đạt 104% Công. Khi ít mục tiêu, chuỗi hit tập trung và kích hoạt tốt 〈Quỷ Linh Ca Kỹ〉; khi nhiều mục tiêu, sát thương bị phân tán. Anh vẫn là chủ lực PvE đa hit có giá trị, nhưng đội phải chừa 3 Quỷ Hỏa và có thể xếp đồng minh Công cao để tăng lượng Công bị đánh cắp.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8,
+      "note": "Hoạt ảnh nhanh, 12 hit và hút Công rất mạnh ở màn ít mục tiêu."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7.5,
+      "note": "Đa hit kích hoạt Ca Kỹ tốt, nhưng giảm dần trên cùng mục tiêu và phụ thuộc bộ/đội."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 4,
+      "note": "Hit ngẫu nhiên, không có tự bảo vệ hay kháng khống chế; khó vận hành trong PvP."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Dùng PvE tốt nhưng cần đủ Bạo kích, nguồn Quỷ Hỏa và Hắc Đản cho kỹ năng chính."
+    }
+  ],
+  "strengths": [
+    "[Tẫn Thiên Cửu Vĩ] hiện gây 12 hit ngẫu nhiên, mỗi hit 104% Công khi nâng tối đa.",
+    "[Thấu Hồn] đánh cắp 6% Công của mọi đơn vị trên sân trước khi tung đại chiêu, tổng cộng tối đa 100% Công ban đầu của bản thân.",
+    "Chuỗi hit dài phối hợp rất tốt với 〈Quỷ Linh Ca Kỹ〉 và các bộ tăng sát thương đa hit."
+  ],
+  "weaknesses": [
+    "[Tẫn Thiên Cửu Vĩ] cần 3 Quỷ Hỏa; 〈Cuồng Cốt〉 phụ thuộc lượng lửa còn lại sau khi trả chi phí.",
+    "Mỗi lần hit lặp trên cùng mục tiêu bị giảm tiếp 15% sát thương kỹ năng, và nhiều mục tiêu khiến chuỗi đánh bị phân tán.",
+    "Đánh cắp cả Công đồng minh nên có thể làm giảm sát thương của họ; khi tử trận phải hoàn trả toàn bộ Công đã lấy."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Phù hợp Ngự Hồn, sự kiện và boss có ít mục tiêu. Có thể cho đồng minh hỗ trợ mang chỉ số Công cao để [Thấu Hồn] sớm đạt trần, nhưng phải kiểm tra thứ tự và ngưỡng sống còn của họ thay vì tăng Công máy móc.",
+        "Dữ liệu hiện tại là 12 hit, khác các hướng dẫn cũ còn ghi 9 hit. Các con số đánh giá ở đây lấy JSON kỹ năng hiện hành làm chuẩn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Không được ưu tiên vì mục tiêu ngẫu nhiên, thiếu tự bảo vệ và dễ bị khóa nội tại hoặc khống chế. Giá trị chính vẫn là PvE ít mục tiêu."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Ít mục tiêu/chuỗi hit: 〈Ẩn Niệm〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích, đạt 100% Bạo kích.",
+        "Đội dư lửa: 〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích. Phương án phổ thông khác là 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉 khi sát thương phụ theo HP mục tiêu có giá trị; chọn theo phó bản, không mặc định một bộ cho mọi nơi."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "燼天玉藻前の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/燼天玉藻前.html",
+      "usedFor": "đối chiếu vai trò ít mục tiêu, hút Công, Châm Nữ/Cuồng Cốt/Ẩn Niệm và Ca Kỹ"
+    },
+    {
+      "title": "烬天玉藻前",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/烬天玉藻前/24118563",
+      "usedFor": "đối chiếu đội hình farm và Cuồng Cốt"
+    }
+  ]
+}

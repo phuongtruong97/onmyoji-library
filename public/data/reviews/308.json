@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 308,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Khống chế đơn thể kiêm giải khống chế cứng cho đồng đội, cơ chế hiếm nhưng hiện chỉ phù hợp PvP ngách",
+  "summary": "《Quỷ Đăng》 có 22% xác suất cơ bản gây {−Choáng} trên mỗi lần tấn công và chắc chắn Bạo Kích vào mục tiêu đã choáng. Giá trị đặc biệt nằm ở [Chưởng Khống]: khi bản thân không bị khống chế, cuối lượt anh đánh nhẹ một đồng minh đang chịu khống chế hai lần, sau đó xua tan hoặc giải toàn bộ hiệu ứng khống chế và kéo họ 30% thanh hành động. Anh có thể đảo chiều đội bị khóa cứng, nhưng bản thân cần đủ Kháng hiệu ứng và hiện không có việc làm PvE đáng kể.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 2.5,
+      "note": "Khống chế và giải khống chế không giúp tối ưu farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 4,
+      "note": "Có thể cứu đội ở bí cảnh đặc thù nhưng không phải lựa chọn phổ dụng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6.5,
+      "note": "Giải được nhiều dạng khống chế cứng và kéo đồng minh, nhưng rất ngách."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 3,
+      "note": "Crossover khó sở hữu và không đáng ưu tiên tài nguyên."
+    }
+  ],
+  "strengths": [
+    "[Chưởng Khống] có thể giải toàn bộ khống chế trên một đồng minh sau lượt của anh.",
+    "Đồng minh được giải còn tăng 30% thanh hành động.",
+    "Đòn nhiều hit tạo nhiều lần kiểm tra {−Choáng}; đánh mục tiêu choáng chắc chắn Bạo Kích."
+  ],
+  "weaknesses": [
+    "Anh phải ở trạng thái không bị khống chế khi kết thúc lượt mới cứu được đồng minh.",
+    "Mục tiêu được giải là đồng minh ngẫu nhiên nếu nhiều người cùng bị khóa.",
+    "Gần như không có việc làm PvE và đã rời meta PvP phổ biến."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Chỉ cân nhắc ở bí cảnh hoặc màn đặc thù có khống chế khó giải. Sát thương đơn thể và xác suất choáng không đủ để cạnh tranh với đội farm/boss hiện đại."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Anh là quân bài chống đội khống chế: cần tự kháng được hiệu ứng, hành động rồi dùng [Chưởng Khống] cứu một đồng minh. Vì vậy Tốc độ và Kháng hiệu ứng thường quan trọng hơn sát thương.",
+        "Cơ chế này vẫn hữu dụng về mặt chiến thuật nhưng dữ liệu việc làm hiện đại còn hạn chế, nên bài được giữ ở độ tin cậy Trung bình và không xếp anh vào nhóm nên nuôi chung."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Giải khống chế: 〈Xúc Xắc Quỷ〉 hoặc 〈Chiêu Tài Miêu〉; Tốc độ – Kháng hiệu ứng – HP, ưu tiên Tốc độ và Kháng hiệu ứng.",
+        "Tăng số lượt hành động: 〈Luân Nhập Đạo〉; Tốc độ – Kháng hiệu ứng/Hiệu quả chính xác – HP. Chỉ dùng khi đội đủ Quỷ Hỏa và chấp nhận xác suất kích hoạt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "鬼灯（ほおずき）の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/%E9%99%B0%E9%99%BD%E5%B8%AB/%E5%BC%8F%E7%A5%9E/%E9%AC%BC%E7%81%AF.html",
+      "usedFor": "đối chiếu đánh giá PvP/PvE và vai trò giải debuff"
+    },
+    {
+      "title": "SSR式神御魂配置與角色簡易分析",
+      "publisher": "巴哈姆特",
+      "url": "https://forum.gamer.com.tw/G2.php?bsn=31078&sn=733",
+      "usedFor": "đối chiếu Xúc Xắc Quỷ, Luân Nhập Đạo, Chiêu Tài và chỉ số"
+    }
+  ]
+}

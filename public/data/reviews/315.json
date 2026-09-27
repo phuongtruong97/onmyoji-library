@@ -1,0 +1,86 @@
+{
+  "shikigamiId": 315,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Sát thương đa hit linh hoạt theo số mục tiêu nhưng đã rời meta chính; phù hợp nội dung đặc thù hơn là ưu tiên nuôi sớm",
+  "summary": "《Thiếu Vũ Đại Thiên Cẩu》 dùng [Vũ Nhẫn Chi Phong] đánh mục tiêu chính 5 lần và phân tách tối đa 2 cuồng phong sang kẻ địch khác. Khi kẻ địch không phải vật triệu hồi ngã xuống, số hit ban đầu tăng dần tới 9, nên anh phát huy tốt nhất ở màn có ít mục tiêu hoặc có quái phụ để kích hoạt. Cơ chế đa hit phối hợp tốt với 〈Châm Nữ〉 và 〈Quỷ Linh Ca Kỹ〉, nhưng sát thương phụ thuộc bố cục địch và hiện không còn là lựa chọn PvE phổ thông hàng đầu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 6.5,
+      "note": "Có thể dồn nhiều hit vào mục tiêu chính, nhưng hoạt ảnh và điều kiện số mục tiêu kém ổn định hơn chủ lực mới."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6.5,
+      "note": "Nhiều hit kích hoạt Châm Nữ/Ca Kỹ tốt, song hiệu quả giảm nếu không có quái phụ hoặc cơ chế phù hợp."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 4.5,
+      "note": "Có tăng Tốc độ sau khi chịu khống chế nhưng vẫn thiếu tự bảo vệ và áp lực tức thời của meta hiện tại."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5,
+      "note": "Dùng được khi thiếu chủ lực đa hit, nhưng không nên ưu tiên Hắc Đản trước các SP/SSR đa dụng hơn."
+    }
+  ],
+  "strengths": [
+    "[Vũ Nhẫn Chi Phong] gây 5 hit lên mục tiêu chính và có thể phân tách sát thương sang tối đa 2 kẻ địch khác.",
+    "Mỗi kẻ địch không phải vật triệu hồi tử trận tăng 2 hit ban đầu, tối đa thêm 4 hit.",
+    "[Ấu Vũ] tăng dần 10% sát thương kỹ năng khi liên tiếp đánh cùng mục tiêu; chịu hiệu ứng khống chế còn nhận {+Xuyên Vân} tăng 100% Tốc độ trong 2 lượt."
+  ],
+  "weaknesses": [
+    "[Vũ Nhẫn Chi Phong] cần 3 Quỷ Hỏa và phân tách hit theo số kẻ địch, vì vậy sát thương vào một mục tiêu thay đổi theo bố cục trận.",
+    "Muốn đạt tối đa 9 hit ban đầu phải có 2 kẻ địch không phải vật triệu hồi tử trận trước đó.",
+    "Không có miễn khống chế, xuyên phòng thủ hay cơ chế sống sót; PvP dễ bị vô hiệu hóa trước khi hành động."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Phù hợp các màn có 1–3 mục tiêu, Địa Vực Quỷ Vương hoặc sự kiện mà số hit mang giá trị. Trên mục tiêu đơn, toàn bộ chuỗi chính tập trung tốt; khi có nhiều địch, các cuồng phong nhỏ bị phân tán ngẫu nhiên nên cần kiểm tra thực tế từng ải.",
+        "〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉 là lựa chọn an toàn nhất cho chuỗi đa hit. 〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉 chỉ nên dùng khi đội duy trì nhiều Quỷ Hỏa sau khi trả 3 lửa và sát thương kỹ năng trực tiếp đủ mạnh."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "{+Xuyên Vân} giúp anh có cơ hội quay lại lượt sau khi chịu khống chế, nhưng không ngăn hiệu ứng đang áp dụng. Vì thiếu miễn khống chế và phòng thủ, anh chủ yếu là lựa chọn tình huống chứ không phải chủ lực PvP ổn định."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE đa hit: 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích, đạt 100% Bạo kích trước khi dồn Sát thương bạo kích.",
+        "PvE có nguồn lửa dư: 〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích. Chỉ dùng khi thứ tự đội bảo đảm lượng Quỷ Hỏa còn lại sau chi phí kỹ năng."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "少羽大天狗",
+      "publisher": "Âm Dương Sư — trang chính thức",
+      "url": "https://www.onmyojigame.com/zh/m/role/315.html",
+      "usedFor": "đối chiếu hồ sơ và kỹ năng nhân vật"
+    },
+    {
+      "title": "少羽大天狗の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/少羽大天狗.html",
+      "usedFor": "đối chiếu vai trò, ưu nhược điểm và ngự hồn"
+    },
+    {
+      "title": "SP少羽大天狗全解",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/341266661_120261599",
+      "usedFor": "đối chiếu cơ chế theo số mục tiêu, nơi sử dụng và Châm Nữ/Cuồng Cốt/Ca Kỹ"
+    }
+  ]
+}

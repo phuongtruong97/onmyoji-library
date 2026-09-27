@@ -1,0 +1,79 @@
+{
+  "shikigamiId": 383,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực AoE bùng nổ rất mạnh cho PvE ngắn lượt và đội PvP tốc công; tự bảo vệ tốt trong tư thế Xà Thần nhưng nhịp gây sát thương liên tục không cao",
+  "summary": "《Thần Đọa Bát Kỳ Đại Xà》 dùng [Thần Đọa Chi Lực] để vào tư thế {+Xà Thần}, miễn bất lợi và trục xuất, rồi [Thẩm Phán Nghi Thức] gây AoE 188% Công. Mỗi 20% HP Xà Thần còn lại giúp lần đánh này hồi 12% HP, tăng 8% Thanh Hành Động và cộng 25% hệ số; kỹ năng còn rút phần Công đã phong ấn từ đồng minh, tối đa 100% Công ban đầu của anh. Sức mạnh nổi bật ở cú đánh đầu cực lớn, nhưng chu kỳ Xà Thần rồi mới AoE khiến sát thương duy trì kém hơn các chủ lực đánh mỗi lượt.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9.5,
+      "note": "Một cú AoE hệ số cao, phù hợp farm và đội kết thúc trận ngay lượt đầu."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Có dạng cuối trận mạnh nhưng cần nhiều lượt phá kiếm; nhịp AoE ban đầu chỉ khoảng mỗi hai lượt."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Đe dọa quét đội hình tốc công và khó bị khống chế khi đang ở dạng Xà Thần."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Mạnh và dễ thấy hiệu quả ở PvE, nhưng cần max [Thần Đọa Chi Lực] và bộ sát thương tốt."
+    }
+  ],
+  "strengths": [
+    "{+Xà Thần} miễn bất lợi và trục xuất; chịu sát thương chí mạng chỉ làm bản thể trở lại sân, tạo một lớp sống sót đáng kể.",
+    "[Thẩm Phán Nghi Thức] có hệ số nền 188%, được tăng theo HP còn lại của Xà Thần và hút Công đã phong ấn từ đồng minh.",
+    "{+Đọa Hóa} tăng 40% Tốc độ cho một đồng minh; khi người mang tử trận, anh tăng 40% Thanh Hành Động và tiến thêm quá trình phá phong ấn."
+  ],
+  "weaknesses": [
+    "Giai đoạn đầu phải luân phiên vào {+Xà Thần} và dùng [Thẩm Phán Nghi Thức], nên AoE không xuất hiện ở mọi lượt.",
+    "Để mở hoàn toàn sức mạnh cuối trận cần phá 5 thanh Ame no Habakiri; hướng này chậm nếu không có hỗ trợ cho hành động thêm.",
+    "[Thần Đọa Chi Lực] liên tiếp tăng dần chi phí Quỷ Hỏa và còn phong ấn 6% Công ban đầu của các đồng minh khác mỗi lần."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng anh như chủ lực kết thúc nhanh: max [Thần Đọa Chi Lực] để Tiên Cơ vào {+Xà Thần}, giữ HP của dạng này càng cao càng tốt trước [Thẩm Phán Nghi Thức]. Đội nên dồn tăng Công, Sát Thương Bạo Kích và cho anh hành động đúng nhịp; nội dung kéo dài cần cân nhắc khoảng trống giữa các lần AoE."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Tư thế {+Xà Thần} giúp tránh bị khóa bằng bất lợi trước cú đánh chính. Đội tốc công ưu tiên đưa anh tới lượt và khuếch đại một cú quét; đội trung tốc có thể tận dụng {+Đọa Hóa}, nhưng phải tính 24% HP hiện tại bị ăn mòn ở đầu lượt người mang."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Đánh nhanh: 〈Phá Thế〉, Công – Công – Bạo kích/Sát Thương Bạo Kích, đủ 100% Bạo kích. Đây là lựa chọn ổn định khi mục tiêu còn trên 70% HP ở cú quét đầu.",
+        "Nếu đội giữ nhiều Quỷ Hỏa sau khi trả chi phí, 〈Cuồng Cốt〉 cho trần sát thương cao; 〈Hải Nguyệt Hỏa Ngọc〉 phù hợp khi vào lượt với đầy Quỷ Hỏa và có thể trả thêm 1 lửa. Không dùng hai lựa chọn này máy móc: phải tính lượng Quỷ Hỏa thật còn lại đúng thời điểm gây sát thương."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "神堕オロチの評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/209481676068251086.html",
+      "usedFor": "đối chiếu vai trò PvE/PvP, nhịp hai lượt, dạng cuối trận và Phá Thế/Cuồng Cốt/Hải Nguyệt"
+    },
+    {
+      "title": "神堕八岐大蛇御魂搭配",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/458589222941493633",
+      "usedFor": "đối chiếu hướng xây dựng PvP và các biến thể Ngự Hồn"
+    }
+  ]
+}

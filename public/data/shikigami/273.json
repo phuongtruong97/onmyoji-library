@@ -7,6 +7,7 @@
   },
   "rarity": "SR",
   "tier": "SR",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "化为尘土，落叶归根吧。"
       },
       "description": {
-        "vi": "[tips_11].\nKhi bắt đầu trận đấu, nhận 1 tầng [buff_2732_1], giới hạn 6 tầng, tối thiểu 1 tầng, duy trì đến khi trận đấu kết thúc.\nMỗi khi phe ta bị [tips_3], nhận 1 tầng [buff_2732_1]; khi kết thúc lượt, mất 1 tầng [buff_2732_1].",
-        "en": "[tips_11].\nGains a layer of [buff_2732_1] (limited to 6 layers; at least 1 layer is active) at the start of battle until the end of battle.\nWhen an ally is affected by a [tips_3], gains a layer of [buff_2732_1]. [buff_2732_1] decreases by 1 layer at the end of his turns.",
+        "vi": "[tips_11]\nKhi bắt đầu trận đấu, nhận 1 tầng [buff_2732_1], giới hạn 6 tầng, tối thiểu 1 tầng, duy trì đến khi trận đấu kết thúc.\nMỗi khi phe ta bị [tips_3], nhận 1 tầng [buff_2732_1]; khi kết thúc lượt, mất 1 tầng [buff_2732_1].",
+        "en": "[tips_11]\nGains a layer of [buff_2732_1] (limited to 6 layers; at least 1 layer is active) at the start of battle until the end of battle.\nWhen an ally is affected by a [tips_3], gains a layer of [buff_2732_1]. [buff_2732_1] decreases by 1 layer at the end of his turns.",
         "zh": "[tips_11]。\n战斗开始时，获得1层[buff_2732_1]，上限6层，最少1层，持续到战斗结束。\n每当友方受到[tips_3]时，获得1层[buff_2732_1]；回合结束时，失去1层[buff_2732_1]。"
       },
       "upgrades": [],

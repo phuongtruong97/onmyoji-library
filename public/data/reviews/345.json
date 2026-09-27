@@ -1,0 +1,88 @@
+{
+  "shikigamiId": 345,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Khống chế ngách chuyên khóa mục tiêu được kéo lượt hoặc tăng tốc đơn thể; có giá trị đối sách trong PvP nhưng gần như không có việc làm PvE",
+  "summary": "《Quỷ Đồng Hoàn》 dùng nhiều đòn đánh để đặt {−Hài Chi Tỏa}. Khi kẻ địch mang dấu được tăng thanh hành động hoặc tăng Tốc độ theo kiểu đơn mục tiêu, [Hàng Chu] có thể chen vào trước lượt của họ và tiếp tục gây áp lực khống chế. Sau khi tích đủ tầng, anh vào trạng thái Tu La và dùng [Liệp Hồn Cuồng Sát] đánh toàn đội mà không kích hoạt ngự hồn của mục tiêu. Cơ chế đối sách vẫn riêng biệt, nhưng phụ thuộc đối thủ và thua nhiều lựa chọn PvP mới về độ ổn định.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 2.5,
+      "note": "Sát thương và chu kỳ tích tầng không phù hợp farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 3,
+      "note": "Dấu khóa ít giá trị với boss và không cạnh tranh được chủ lực chuyên dụng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7.5,
+      "note": "Quân khống chế–sát thương theo kèo, dùng {−Hài Chi Tỏa} và [Hàng Chu] để trừng phạt mục tiêu được kéo lượt hoặc tăng Tốc độ đơn thể."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4,
+      "note": "Không nên ưu tiên Daruma Đen khi chưa có đội PvP và bộ khống chế đủ tốt."
+    }
+  ],
+  "strengths": [
+    "[Hàng Chu] có thể chen đánh trước lượt của mục tiêu nhận tăng thanh hoặc Tốc độ đơn thể.",
+    "Nhiều lần ra đòn tạo nhiều cơ hội kích hoạt hiệu ứng khống chế từ ngự hồn.",
+    "[Liệp Hồn Cuồng Sát] không kích hoạt ngự hồn của mục tiêu."
+  ],
+  "weaknesses": [
+    "Giá trị giảm mạnh nếu đối thủ không dùng cơ chế kéo lượt/tăng tốc mà anh khắc chế.",
+    "Cần Tốc độ và Hiệu quả chính xác tốt để làm khống chế đáng tin cậy.",
+    "Hầu như không có vai trò đáng kể trong PvE hiện tại."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không nên nuôi anh làm chủ lực PvE. Sát thương nền và thời gian tích trạng thái Tu La không bù được việc dấu khóa gần như không tạo lợi thế trước quái hoặc boss."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Quỷ Đồng Hoàn》 trở lại như một quân nửa khống chế nửa sát thương trong các đội cần khóa đúng mục tiêu. Gắn {−Hài Chi Tỏa} lên người được đối phương kéo lượt hoặc tăng Tốc độ giúp anh chen [Hàng Chu], gây nhiều lần đánh và mang theo hiệu ứng Ngự Hồn khống chế. Video thực chiến tháng 6/2026 cho thấy lối đánh này vẫn có thể tạo chuỗi áp lực liên tục khi chọn đúng mục tiêu và được đồng đội mở đường.",
+        "Anh không phải khống chế diện rộng dùng mù. Nếu đối thủ không dựa vào tăng Tốc độ đơn thể, xua được dấu hoặc khóa anh trước khi chuỗi [Hàng Chu] bắt đầu, giá trị giảm nhanh. Sát thương cần tích nhịp và hiệu ứng Ngự Hồn vẫn phụ thuộc xác suất/Kháng hiệu ứng. Hãy xem anh là quân phản chế cơ động của đối thủ, không phải lõi phổ dụng cho tài khoản mới."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Khống chế PvP mặc định: 〈Tuyết U Hồn〉; Tốc độ – Hiệu quả chính xác – HP/Công. Ưu tiên Tốc độ để đặt dấu sớm, sau đó Hiệu quả chính xác và độ bền.",
+        "Thay thế theo đội hình: 〈Chung Linh〉 hoặc 〈Mị Yêu〉 với cùng hướng Tốc độ – Hiệu quả chính xác – HP. 〈Thế Hồn〉 chỉ là phương án bảo hộ phụ khi đội cần gánh sát thương, không phải bộ khóa mục tiêu ổn định nhất."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师萌新式神技能与就业攻略",
+      "publisher": "中关村在线",
+      "url": "https://m.zol.com.cn/article/11344927.html",
+      "usedFor": "đối chiếu vai trò khóa thanh PvP, mục tiêu đối sách và mức ưu tiên hiện tại",
+      "publishedAt": "2026"
+    },
+    {
+      "title": "鬼童丸御魂搭配与评价",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/鬼童丸.html",
+      "usedFor": "đối chiếu Tuyết U Hồn, Chung Linh, Mị Yêu, Thế Hồn và hướng chỉ số"
+    },
+    {
+      "title": "半控制半输出鬼童丸斗技实战",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1deEx6SEdG/",
+      "usedFor": "đối chiếu chuỗi khống chế–sát thương trong thực chiến",
+      "publishedAt": "07/06/2026"
+    }
+  ]
+}

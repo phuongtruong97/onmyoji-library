@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,8 +125,8 @@
         "zh": "有风，有云，还有彩虹，是最适合踏青的日子！"
       },
       "description": {
-        "vi": "[tips_11]. Khi đồng minh khác gây sát thương, tích trữ lượng [tips_5802] tương đương 35% sát thương. Trước khi bắt đầu lượt của bản thân, nếu tồn tại đồng minh không phải vật triệu hồi có tỷ lệ HP dưới 70%, tiêu hao lượng [tips_5802] bằng 120% tấn công ban đầu để trị liệu đồng minh đó, tối đa trị liệu 3 người. Khi bản thân và đồng minh không phải vật triệu hồi có tấn công ban đầu cao nhất chịu thương tổn, bản thân tối đa tiêu hao năng lượng cầu vồng bằng 90% tấn công ban đầu để đỡ đòn lượng sát thương tương đương, đồng minh tối đa tiêu hao năng lượng cầu vồng bằng 60% tấn công ban đầu để đỡ đòn lượng sát thương tương đương.",
-        "en": "[tips_11]. When another ally deals damage, stores [tips_5802] equal to 35% of the damage. At the start of her turn, if a non-summoned ally entity's HP is below 70%, spends [tips_5802] equal to 120% of her starting ATK to heal the ally, up to 3 allies can be healed. Whenever she or the non-summoned ally entity with the highest starting ATK takes damage, she spends rainbow energy up to 90% of her starting ATK to block equal amount of damage, while allies spend rainbow energy up to 60% of their starting ATK to block equal amount of damage.",
+        "vi": "[tips_11] Khi đồng minh khác gây sát thương, tích trữ lượng [tips_5802] tương đương 30% sát thương. Trước khi bắt đầu lượt của bản thân, nếu tồn tại đồng minh không phải vật triệu hồi có tỷ lệ HP dưới 70%, tiêu hao lượng [tips_5802] bằng 120% tấn công ban đầu để trị liệu đồng minh đó, tối đa trị liệu 3 người. \nKhi bản thân và đồng minh không phải vật triệu hồi có tấn công ban đầu cao nhất chịu thương tổn, bản thân tối đa tiêu hao [tips_5802] bằng 90% tấn công ban đầu để đỡ đòn lượng sát thương tương đương, đồng minh tối đa tiêu hao [tips_5802] bằng 60% tấn công ban đầu để đỡ đòn lượng sát thương tương đương.",
+        "en": "[tips_11] When another ally deals damage, stores [tips_5802] equal to 35% of the damage. At the start of her turn, if a non-summoned ally entity's HP is below 70%, spends [tips_5802] equal to 120% of her starting ATK to heal the ally, up to 3 allies can be healed. Whenever she or the non-summoned ally entity with the highest starting ATK takes damage, she spends rainbow energy up to 90% of her starting ATK to block equal amount of damage, while allies spend rainbow energy up to 60% of their starting ATK to block equal amount of damage.",
         "zh": "[tips_11]。其他友方造成伤害时，储存等同于35%伤害的[tips_5802]。自身回合开始前，若存在非召唤物友方生命比例低于70%，消耗初始攻击120%的[tips_5802]治疗该友方，至多治疗3名。自身和初始攻击最高的非召唤物友方受伤时，自身至多消耗初始攻击90%的彩虹能量抵挡等量的伤害，友方至多消耗初始攻击60%的彩虹能量抵挡等量的伤害。"
       },
       "upgrades": [
@@ -182,7 +183,7 @@
         "zh": "别害怕，光会驱散黑暗。"
       },
       "description": {
-        "vi": "[tips_7]: Thi triển [Tình Nhật Hoa Quang] lên đồng minh có tấn công ban đầu cao nhất. \nXua tan u ám, cầu vồng rợp trời, khiến 1 đồng minh ngoài bản thân nhận [buff_5803_1], duy trì 1 lượt, đồng thời tích trữ [tips_5802] tương đương 720% tấn công ban đầu. Cứ nhận được 600% tấn công ban đầu của năng lượng cầu vồng sẽ nhận được 1 [buff_5804_1]. Sau khi đồng minh mang [buff_5803_1] gây sát thương hoặc chịu sát thương, trị liệu tỷ lệ HP bằng 120% tấn công ban đầu cho 3 mục tiêu đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất (giới hạn 4 lần trước khi bắt đầu lượt bản thân).",
+        "vi": "[tips_7]: Thi triển [Tình Nhật Hoa Quang] lên đồng minh có tấn công ban đầu cao nhất. \nXua tan u ám, cầu vồng rợp trời, khiến 1 đồng minh ngoài bản thân nhận [buff_5803_1], duy trì 1 lượt, đồng thời tích trữ [tips_5802] tương đương 720% tấn công ban đầu. Cứ nhận được 600% tấn công ban đầu của năng lượng cầu vồng sẽ nhận được 1 [buff_5804_1]. \nSau khi đồng minh mang [buff_5803_1] gây sát thương hoặc chịu sát thương, trị liệu tỷ lệ HP bằng 120% tấn công ban đầu cho 3 mục tiêu đồng minh không phải vật triệu hồi có tỷ lệ HP thấp nhất (giới hạn 4 lần trước khi bắt đầu lượt bản thân).",
         "en": "Upper Hand: Casts Sunny Radiance on the ally with the highest starting ATK. Dispels dark clouds to let the rainbow shine. Grants [buff_5803_1] to another ally (excluding self). Sustainable for 1 turn. Stores [tips_5802] equal to 720% of starting ATK. For every 600% of starting ATK stored as rainbow energy, gains 1 [buff_5804_1]. When an ally with [buff_5803_1] deals or takes damage, heals 3 non-summoned allies with the lowest HP percentage by 120% of starting ATK (max 4 times before her next turn).",
         "zh": "先机：对初始攻击最高的友方施放「晴日华光]。驱散阴霾，彩虹当空，使1位除自身外的友方获得[buff_5803_1]，维持1回合，并储存等同于初始攻击720%的[tips_5802]。每获得600%初始攻击的彩虹能量，获得1个[buff_5804_1]。带有[buff_5803_1]的友方造成伤害或受到伤害后，为3名生命比例最低的非召唤物友方目标治疗初始攻击120%的生命比例（自身回合开始前限4次）。"
       },

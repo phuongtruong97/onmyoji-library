@@ -1,0 +1,85 @@
+{
+  "shikigamiId": 366,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Một trong các kéo thanh 1 tốc linh hoạt nhất, đồng thời ghi sát thương gián tiếp lên mục tiêu; PvE chuyển sang chủ lực ghi nợ với Hải Nguyệt",
+  "summary": "《Không Tương Diện Linh Khí》 dùng [Mộng Hư Không Cảnh] tốn 3 Quỷ Hỏa để gắn {−Nhất Tuyến Mục} và kéo 25% thanh toàn đội. Ấn giảm 20% Phòng thủ, ghi 131% Công bản thân mỗi lượt, 20% sát thương đồng minh gây ra và 30% sát thương cô nhận; khi tái gắn hoặc hết 3 lượt sẽ phát nổ thành sát thương gián tiếp. Khi thu đủ 4 {+Vị Diện} hoặc chịu chí mạng, cô vào {+Hắc Quang}, hồi đầy HP và chuyển sang chuỗi tối đa 8 hit có hút máu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 6.5,
+      "note": "Kéo 25% thanh dùng được nhưng không tối ưu farm ngắn so với đội chuyên dụng."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9,
+      "note": "Nhất Tuyến Mục ghi sát thương đồng đội và phát nổ rất mạnh ở boss/sự kiện dài lượt."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Tốc cơ bản cao, kéo thanh mỗi lượt, giảm Phòng thủ và phong ấn bị động khi tái gắn."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Đa dụng cả PvP lẫn boss, đáng đầu tư nhưng cần bộ Tốc hoặc Hải Nguyệt riêng."
+    }
+  ],
+  "strengths": [
+    "[Mộng Hư Không Cảnh] kéo 25% Thanh Hành Động toàn đội mỗi lượt và gắn {−Nhất Tuyến Mục} giảm 20% Phòng thủ.",
+    "{−Nhất Tuyến Mục} ghi 20% sát thương đồng minh gây ra, phát nổ thành sát thương gián tiếp và khi tái gắn còn phong ấn bị động không thể giải trừ đến hết lượt kế tiếp của cô.",
+    "{+Hắc Quang} xóa debuff, hồi 100% HP, bỏ qua thêm 200 Phòng thủ, có 15% hút máu và đánh tối đa 1 + 7 hit theo số {+Vị Diện}."
+  ],
+  "weaknesses": [
+    "Kéo thanh chỉ 25%; để đồng minh thứ hai không bị chen lượt cần Tốc độ ít nhất bằng 75% Tốc của cô.",
+    "Sát thương chính là gián tiếp nên không kích hoạt Phá Thế, Châm Nữ, Võng Thiết hoặc Ngự Hồn debuff thông thường.",
+    "Đại chiêu cần 3 Quỷ Hỏa; 〈Hải Nguyệt Hỏa Ngọc〉 có thể tiêu hao thêm 1 lửa nên đội phải bảo đảm tài nguyên."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Ở boss dài lượt, gắn {−Nhất Tuyến Mục} lên mục tiêu chính rồi để đồng minh dồn sát thương trước lần phát nổ. Khi có nguồn giảm Phòng thủ đủ để sát thương gián tiếp chí mạng chắc chắn, có thể xây thuần Sát thương bạo kích thay vì đủ Bạo kích."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Dùng bộ nhanh nhất để giành lượt đầu, kéo đội 25% và phong ấn bị động mục tiêu quan trọng bằng lần tái gắn. Chuyển {+Hắc Quang} là thay đổi vai trò từ hỗ trợ sang chủ lực; không nên kích hoạt quá sớm nếu đội vẫn cần kéo thanh."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP 1 tốc: sáu món lẻ nhanh nhất hoặc 〈Chiêu Tài Miêu〉; Tốc độ – tự do – tự do, ưu tiên tuyệt đối Tốc độ. 〈Hỏa Linh〉/〈Bạng Tinh〉 chỉ dùng nếu vẫn giữ được ngưỡng Tốc đội.",
+        "PvE ghi sát thương: 〈Hải Nguyệt Hỏa Ngọc〉; Công – Công – Sát thương bạo kích khi đội đã giảm đủ Phòng thủ, nếu không phải đạt Bạo kích theo yêu cầu. Không dùng các bộ kích hoạt khi gây sát thương trực tiếp cho phần sát thương gián tiếp."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "空相面霊気の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/166125022895734285.html",
+      "usedFor": "đối chiếu kéo thanh, Nhất Tuyến Mục, Hắc Quang, giới hạn Ngự Hồn và cách tính tốc độ"
+    },
+    {
+      "title": "空相面灵气",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/空相面灵气/57973891",
+      "usedFor": "đối chiếu bộ nhanh/Chiêu Tài PvP và Hải Nguyệt PvE"
+    },
+    {
+      "title": "空相面灵气御魂配置",
+      "publisher": "小米游戏中心",
+      "url": "https://game.xiaomi.com/viewpoint/1359077112_1660893069332_9",
+      "usedFor": "đối chiếu Công–Công–Sát thương bạo kích khi có giảm Phòng thủ"
+    }
+  ]
+}

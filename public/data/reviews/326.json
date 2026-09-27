@@ -1,0 +1,85 @@
+{
+  "shikigamiId": 326,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Hỗ trợ PvP hai kết giới linh hoạt: một bên đẩy thanh–giải hiệu ứng, một bên tăng công thủ–phản kích khóa kỹ năng; mạnh theo tình huống nhưng tốn lửa",
+  "summary": "《Đạo Hà Thần Ngự Soạn Tân》 chọn giữa [Hồ Thụ · Nhật Diệu Giới] để tăng Tốc độ, Kháng Hiệu Ứng, đẩy thanh và giải hiệu ứng; hoặc [Hồ Thụ · Nguyệt Ảnh Giới] để tăng Công–Phòng thủ rồi phản kích bằng [Hồ Linh] sau lượt địch. Đòn cáo có thể gắn ngẫu nhiên {−Câm Lặng}, {−Phong Ấn}, {−Áp Chế} hoặc {−Trói Chân}, khiến cô là quân bài chống đội kéo thanh và khóa kỹ năng/Ngự Hồn, nhưng cả hai kết giới đều cần 3 Quỷ Hỏa và chỉ tồn tại 1 hiệp.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4.5,
+      "note": "Tăng Công/Tốc và giải hiệu ứng dùng được, nhưng nhiều hỗ trợ PvE mới cho hiệu quả ổn định hơn."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5,
+      "note": "Có thể duy trì kết giới nếu đủ lửa, song sát thương và hỗ trợ không tối ưu cho boss dài lượt."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7,
+      "note": "Hai kết giới xử lý được nhiều thế trận, đặc biệt đẩy thanh, giải khống chế và phản kích khóa kỹ năng."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5,
+      "note": "Cần hiểu nhịp kết giới, Chính Xác/Kháng và quản lý Quỷ Hỏa; không phải ưu tiên đầu game."
+    }
+  ],
+  "strengths": [
+    "[Hồ Thụ · Nhật Diệu Giới] cho toàn đội 20 Tốc, 20% Kháng Hiệu Ứng; cuối lượt đồng minh còn đẩy 25% thanh cho đồng minh đầu thanh và giải 1 hiệu ứng.",
+    "[Hồ Thụ · Nguyệt Ảnh Giới] cho toàn đội 30% Công và 30% Phòng thủ, đồng thời phản kích sau lượt địch bằng [Hồ Linh].",
+    "[Hồ Linh] có 100% tỷ lệ cơ bản gắn ngẫu nhiên {−Câm Lặng}, {−Phong Ấn}, {−Áp Chế} hoặc {−Trói Chân}; {−Trói Chân} không thể giải trừ và chặn thay đổi Thanh Hành Động."
+  ],
+  "weaknesses": [
+    "Cả hai kết giới đều cần 3 Quỷ Hỏa và tồn tại 1 hiệp, nên đội thiếu lửa khó duy trì nhịp hỗ trợ.",
+    "Debuff của [Hồ Linh] là ngẫu nhiên và tỷ lệ cơ bản chịu ảnh hưởng Chính Xác Hiệu Ứng/Kháng Hiệu Ứng.",
+    "Phản kích của Nguyệt Ảnh không kích hoạt Ngự Hồn và nội tại của mục tiêu; cô cũng không có hồi máu hoặc lá chắn trực tiếp."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Nhật Diệu có thể hỗ trợ các ải cần xoay lượt và giải debuff, còn Nguyệt Ảnh bổ sung 30% Công/Phòng thủ. Tuy vậy, chi phí duy trì cao và tính ngẫu nhiên của [Hồ Linh] khiến cô chủ yếu là lựa chọn cơ chế, không phải hỗ trợ farm chuẩn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Dùng Nhật Diệu khi cần tăng Tốc, Kháng, đẩy thanh và giải hiệu ứng; dùng Nguyệt Ảnh khi cần áp lực phản kích, khóa kỹ năng/nội tại/Ngự Hồn hoặc đối phó đội thao túng thanh bằng {−Trói Chân}. Cần chọn kết giới theo lượt đấu, vì thi triển kết giới còn lại sẽ thay thế kết giới hiện có."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Hỗ trợ xoay lượt: 〈Chiêu Tài Miêu〉; Tốc độ – Kháng Hiệu Ứng/Chính Xác Hiệu Ứng – HP, ưu tiên Tốc độ rồi điều chỉnh Kháng hoặc Chính Xác theo vai trò.",
+        "Khắc chế tài nguyên: 〈Mộc Mị〉; Tốc độ – Kháng Hiệu Ứng – HP. Các lựa chọn tình huống gồm 〈Phản Hồn Hương〉 để phản khống chế hoặc 〈Địa Tạng Tượng〉 để tăng sống sót; không có một bộ duy nhất đúng cho mọi đội."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "稻荷神御馔津",
+      "publisher": "Âm Dương Sư — trang chính thức",
+      "url": "https://www.onmyojigame.com/zh/m/role/326.html",
+      "usedFor": "đối chiếu hồ sơ và bộ kỹ năng"
+    },
+    {
+      "title": "稻荷神御馔津技能及御魂阵容搭配详解",
+      "publisher": "九游",
+      "url": "https://www.9game.cn/yys/11443772.html",
+      "usedFor": "đối chiếu vai trò và hướng xây dựng PvP"
+    },
+    {
+      "title": "无视回合多功能辅助稻荷神御馔津",
+      "publisher": "17173",
+      "url": "https://news.17173.com/z/yys/content/08162020/142648108.shtml",
+      "usedFor": "đối chiếu Chiêu Tài, Mộc Mị, Phản Hồn Hương, Địa Tạng và áp lực Quỷ Hỏa"
+    }
+  ]
+}

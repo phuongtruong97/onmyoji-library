@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -156,7 +157,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi chịu sát thương chí mạng, thay thế kỹ năng thành [Tâm Hỏa Vĩnh Minh].",
+            "vi": "Khi chịu sát thương chí tử, thay thế kỹ năng thành [Tâm Hỏa Vĩnh Minh].",
             "en": "When taking lethal damage, changes the skill to Undying Flame.",
             "zh": "受到致命伤害时，将技能替换为[心火永明]"
           }

@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,8 +125,8 @@
         "zh": "我会带着属于曾存在的日月的光明，继续前行。"
       },
       "description": {
-        "vi": "[tips_11]. Mỗi khi mất cộng dồn 25% HP, tiêu hao 1 tầng [buff_5842_1]. Mỗi khi tiêu hao 1 tầng Hồi Tố, sát thương gánh chịu giảm 25%, Tốc độ tăng 25 điểm, cộng dồn tối đa 3 tầng, [tips_15] 1 lượt.\n[Thi triển] Băng qua dòng sông thời gian, tiến vào [tips_5832] và nhận 3 tầng Hồi Tố.",
-        "en": "[tips_11]. For every cumulative 25% HP lost, consumes 1 stack of [buff_5842_1]. For each stack of Retrace consumed, damage taken is reduced by 25% and SPD increases by 25, up to 3 stacks, [tips_15] for 1 turn.\nTravels through the river of time to enter [tips_5832] and gain 3 stacks of Retrace.",
+        "vi": "[tips_11] Mỗi khi mất cộng dồn 25% HP, tiêu hao 1 tầng [buff_5842_1]. Mỗi khi tiêu hao 1 tầng Hồi Tố, sát thương gánh chịu giảm 25%, Tốc độ tăng 25 điểm, cộng dồn tối đa 3 tầng, [tips_15] 1 lượt.\n[Thi triển] Băng qua dòng sông thời gian, tiến vào [tips_5832] và nhận 3 tầng Hồi Tố.",
+        "en": "[tips_11] For every cumulative 25% HP lost, consumes 1 stack of [buff_5842_1]. For each stack of Retrace consumed, damage taken is reduced by 25% and SPD increases by 25, up to 3 stacks, [tips_15] for 1 turn.\nTravels through the river of time to enter [tips_5832] and gain 3 stacks of Retrace.",
         "zh": "[tips_11]。每累计减少25%生命，消耗1层[buff_5842_1]。每消耗1层回溯，受到伤害减少25%，速度提升25点，至多叠加3层，[tips_15]1个回合。\n【施放】穿梭在时间长河中，进入[tips_5832]并获得3层回溯。"
       },
       "upgrades": [
@@ -182,7 +183,7 @@
         "zh": "夜与日，昨与明，正是编织命运的因果。"
       },
       "description": {
-        "vi": "Triệu hồi Nhật Luân Diệu Hoa tấn công kẻ địch chỉ định 3 lần, mỗi lần gây sát thương bằng 82% Tấn công. Sau đó tiêu hao 1 tầng [buff_5842_1] tấn công lại toàn bộ kẻ địch 3 lần, lần lượt gây sát thương bằng 12%, 24%, 186% Tấn công. Khi thi triển trong Khe Hở Thời Gian, sát thương tăng 45%, trong thời gian đó tất cả mục tiêu ngoại trừ bản thân rơi vào Thời Tịch Chi Khắc.",
+        "vi": "Triệu hồi Nhật Luân Diệu Hoa tấn công kẻ địch chỉ định 3 lần, mỗi lần gây sát thương bằng 82% Tấn công. Sau đó tiêu hao 1 tầng [buff_5842_1] tấn công lại toàn bộ kẻ địch 3 lần, lần lượt gây sát thương bằng 12%, 24%, 186% Tấn công. Khi thi triển trong Khe Hở Thời Gian, sát thương tăng 45%, trong thời gian đó tất cả mục tiêu ngoại trừ bản thân rơi vào [buff_5841_2].",
         "en": "Summons the power of sunlight to launch a 3-strike attack on a designated enemy, dealing 82% damage on each strike. Then consumes 1 stack of [buff_5842_1] to launch a 3-strike attack on all enemies, dealing 12%, 24%, and 186% damage in sequence. When used in Rift in Time, damage increases by 45%; all other targets enter Timeless Silence during this period.",
         "zh": "召唤日轮曜华攻击指定敌方3次，每次造成攻击82%伤害。之后消耗1层[buff_5842_1]再攻击全体敌方3次，依次造成攻击12%、24%、186%伤害。在时之隙施放，伤害提升45%，期间自身外的所有目标陷入时寂之刻。"
       },
@@ -214,7 +215,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi thi triển trong Khe Hở Thời Gian, trong thời gian đó tất cả mục tiêu ngoại trừ bản thân rơi vào Thời Tịch Chi Khắc",
+            "vi": "Khi thi triển trong Khe Hở Thời Gian, trong thời gian đó tất cả mục tiêu ngoại trừ bản thân rơi vào [buff_5841_2]",
             "en": "When used in the Rift in Time, all targets except the caster enter Timeless Silence.",
             "zh": "在时之隙施放，期间自身外的所有目标陷入时寂之刻"
           }

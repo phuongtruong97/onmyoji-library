@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 562,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ đa dụng cho PvE dài lượt và PvP nhờ giảm 1 Quỷ Hỏa toàn đội, tích sát thương gián tiếp và chuyển khống chế thành trạng thái phòng thủ; cần chọn đúng đồng minh nhận Chúc Phúc",
+  "summary": "《Kình Tịch Thiên Cơ》 Tiên Cơ mở Vĩnh Sinh Hải Huyễn Cảnh trong 2 lượt: đồng minh dùng kỹ năng giảm 1 Quỷ Hỏa, còn sát thương không truyền dẫn lên kẻ địch không phải vật triệu hồi tích {−Hải Ngưng} bằng 30% lượng sát thương. Khi Kình Cực Trú hành động, lượng đã tích được gây lại dưới dạng sát thương gián tiếp. [Giao Nhân Ca] tốn 1 Quỷ Hỏa, chia sẻ Chúc Phúc Triều Lưu cho một đồng minh; khống chế có thể giải được sẽ chuyển thành {+Băng Miên}, tránh hiệu lực khống chế và tạo lá chắn khi chịu sát thương.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8,
+      "note": "Giảm 1 lửa ngay đầu trận và tích thêm 30% sát thương, nhưng Kình Cực Trú cần hành động để kết toán."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9,
+      "note": "Giảm chi phí toàn đội, sát thương gián tiếp tích lũy và gọi thêm cá voi khi mở lại Huyễn Cảnh."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Vừa tiết kiệm Quỷ Hỏa, chống khống chế, tạo lá chắn vừa gây áp lực sát thương ngoài lượt."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8.5,
+      "note": "Rất đa dụng và chi phí kỹ năng thấp; cần hiểu Băng Miên làm mục tiêu tạm thời không hành động."
+    }
+  ],
+  "strengths": [
+    "Vĩnh Sinh Hải Huyễn Cảnh giảm 1 Quỷ Hỏa cho mỗi kỹ năng đồng minh và tích {−Hải Ngưng} bằng 30% sát thương hợp lệ.",
+    "{−Hải Ngưng} tối đa 9 tầng, mỗi tầng lưu tối đa 5000% Công ban đầu của cô; Kình Cực Trú kích nổ dưới dạng sát thương gián tiếp.",
+    "Chúc Phúc Triều Lưu chuyển khống chế có thể giải thành {+Băng Miên}; khi HP mục tiêu dưới 80% cũng lập tức vào trạng thái này và nhận lá chắn bằng lượng sát thương phải chịu."
+  ],
+  "weaknesses": [
+    "{+Băng Miên} khiến mục tiêu không thể hành động cho tới đầu lượt; gắn lên thức thần cần hiệp chiến hoặc phản công ngoài lượt có thể tự khóa cơ chế của họ.",
+    "{−Hải Ngưng} không gây sát thương ngay mà chờ Kình Cực Trú hành động; kẻ địch có thể gián đoạn hoặc kết thúc trận trước lúc kết toán.",
+    "Huyễn Cảnh chỉ tồn tại 2 lượt của cô; phải mở lại để duy trì giảm chi phí, dù lần mở lại có lợi ích gọi thêm Kình Cực Trú."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Đặt cô trước các chủ lực để Huyễn Cảnh giảm chi phí kỹ năng. Sát thương đồng đội không phải truyền dẫn tích thêm 30% vào {−Hải Ngưng}; đội dồn nhiều sát thương trước lượt Kình Cực Trú sẽ tạo một lần kết toán lớn.",
+        "[Kình Tức Hồi Mộng] hiện chỉ tốn 1 Quỷ Hỏa, nên dễ làm mới. Khi mở lại Huyễn Cảnh, cô gọi thêm Kình Cực Trú tồn tại 2 lượt; tối đa có hai con, giúp tăng tần suất gắn và kích nổ Hải Ngưng."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Dùng [Giao Nhân Ca] lên đồng minh cần chống khống chế hoặc sắp bị dồn sát thương. Không nên gắn mặc định lên chủ lực đánh ngoài lượt: trong {+Băng Miên}, họ không thể hành động dù hiệu ứng giúp tránh khống chế.",
+        "Nếu cô hoặc mục tiêu được chúc phúc tử trận, Vĩnh Dạ Kình xuất hiện 2 lượt; mỗi lần hành động cấp 1 Quỷ Hỏa và lá chắn toàn đội bằng 98% Công của cô, giúp đội còn lại có cơ hội xoay trận."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE/PvP đa dụng: 〈Hỏa Linh〉, Tốc độ/Công – Công/HP – Bạo kích/HP; ưu tiên Tốc độ phù hợp đội. Hỏa Linh bổ sung lửa mở trận dù Huyễn Cảnh đã giảm chi phí.",
+        "PvP: 〈Di Niệm Hỏa〉 để có tài nguyên riêng và Kháng, hoặc 〈Cộng Tiềm〉 để xua debuff sau lượt; Tốc độ – HP/Công – HP. PvE thiên sát thương có thể dùng bộ Công/Bạo kích rời nếu đội đã có người mang Hỏa Linh, vì Hải Ngưng và lá chắn cá voi đều phụ thuộc Công của cô."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "盈虚千姫の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/300668922623992624.html",
+      "usedFor": "đối chiếu giảm Quỷ Hỏa, Hải Ngưng, Băng Miên, hai loại cá voi và các bộ hỗ trợ"
+    },
+    {
+      "title": "SP鲸汐千姬技能解析就业定位御魂推荐",
+      "publisher": "抖音",
+      "url": "https://www.douyin.com/shipin/7299092854919202857",
+      "usedFor": "đối chiếu phạm vi PvE/PvP và hướng xây dựng"
+    }
+  ]
+}

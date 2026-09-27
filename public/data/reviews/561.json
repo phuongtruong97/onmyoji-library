@@ -1,0 +1,88 @@
+{
+  "shikigamiId": 561,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ PvP phòng thủ dựa trên Phòng thủ ban đầu, giảm chi phí kỹ năng đồng minh và phản công bằng sát thương chuẩn",
+  "summary": "《Lung》 tích {+Cảnh Giới} để khi đồng minh chịu bạo kích, giảm Sát thương bạo kích của kẻ tấn công và tạo lá chắn. [Lung Chi Quyết Đãng] cấp {+Hộ Hàng} cho một đồng minh, giảm 2 Quỷ Hỏa khi họ dùng kỹ năng; nếu họ không tiêu lửa, Lung kích [Thời Khắc Quyết Đãng] gây AoE sát thương chuẩn bằng 150% Phòng thủ ban đầu. Anh là hỗ trợ PvP bền bỉ, đặc biệt hợp đồng minh dùng kỹ năng 2 lửa hoặc đánh thường.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4.5,
+      "note": "Giảm chi phí có thể dùng tình huống, nhưng sát thương và Cảnh Giới không hiệu quả với quái."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5,
+      "note": "Có hỗ trợ Quỷ Hỏa nhưng thiếu khuếch đại sát thương boss đáng kể."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Hỗ trợ–phản công dựa trên Phòng thủ: cấp {+Hộ Hàng}, tự kéo thanh khi đồng minh dùng kỹ năng và phản AoE chuẩn khi kỹ năng không tốn lửa."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Thiên PvP và cần Phòng thủ cao; không nên ưu tiên trước đội farm."
+    }
+  ],
+  "strengths": [
+    "{+Hộ Hàng} giảm 2 Quỷ Hỏa cho kỹ năng của một đồng minh trong 2 lượt.",
+    "{+Cảnh Giới} giảm mạnh Sát thương bạo kích của kẻ tấn công và tạo lá chắn không thể giải trừ.",
+    "[Thời Khắc Quyết Đãng] gây sát thương chuẩn theo Phòng thủ ban đầu, không kích hoạt ngự hồn/nội tại hai bên."
+  ],
+  "weaknesses": [
+    "Cơ chế giảm Sát thương bạo kích của Cảnh Giới không có hiệu lực với quái.",
+    "Sát thương chuẩn không bạo kích và không kích hoạt ngự hồn của chính anh.",
+    "Cần dồn Phòng thủ nhưng lá chắn lại dựa trên HP tối đa ban đầu, tạo bài toán cân chỉ số."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Có thể dùng để giảm chi phí kỹ năng cho một đồng minh 2 lửa và kích AoE miễn phí, nhưng phần giảm Sát thương bạo kích không hoạt động với quái. Vì vậy anh chỉ là lựa chọn cơ chế, không phải hỗ trợ boss phổ thông."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Lung》 bảo vệ một đồng minh bằng {+Hộ Hàng}; mỗi lần người mang dùng kỹ năng, anh tự kéo thanh, và nếu kỹ năng không tiêu Quỷ Hỏa thì phản công AoE bằng sát thương chuẩn. Cơ chế này ghép tốt với đồng minh dùng kỹ năng 0–2 lửa hoặc được giảm chi phí, biến hành động của chủ lực thành thêm lượt và thêm áp lực từ Lung. Anh còn tăng độ bền cho đội nhờ Phòng thủ cao và có thể mang bộ hỗ trợ mở màn khi cần.",
+        "Đội hình phải chọn đúng người mang {+Hộ Hàng}. Nếu đồng minh tiêu nhiều lửa, bị khóa kỹ năng hoặc chết sớm, Lung mất cả nguồn kéo thanh lẫn phản công. Sát thương chuẩn không Bạo kích nên không hưởng lợi từ mọi dạng tăng sát thương như chủ lực thông thường; đội phá Phòng thủ, đổi thuộc tính hoặc khống chế liên tục cũng làm anh khó tích nhịp. Anh mạnh trong đội đã thiết kế quanh chuỗi kỹ năng, không phải xe tăng độc lập."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP chỉ số tối đa: ba bộ 2 món Phòng thủ hoặc hai bộ Phòng thủ + một bộ Bạo kích; Tốc độ/Phòng thủ – Phòng thủ – Phòng thủ. Ưu tiên Phòng thủ, Tốc độ và mốc Bạo kích phục vụ số tầng Cảnh Giới.",
+        "PvP vận hành: 〈Di Niệm Hỏa〉, 〈Hỏa Linh〉, 〈Chiêu Tài Miêu〉 hoặc 〈Địa Tạng Tượng〉; Tốc độ – Phòng thủ – Phòng thủ. Chọn bộ theo nguồn Quỷ Hỏa và nhu cầu chống sát thương của đội."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "瀧の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/297037632263749250.html",
+      "usedFor": "đối chiếu giảm Quỷ Hỏa, sát thương chuẩn theo Phòng thủ, Cảnh Giới và các bộ ngự hồn"
+    },
+    {
+      "title": "阴阳师泷最新御魂搭配与培养指南",
+      "publisher": "18183 / 代练通",
+      "url": "https://m.dailiantong.com/news/content_330668.html",
+      "usedFor": "đối chiếu vai trò PvP và các bộ Chiêu Tài Miêu, Hỏa Linh, Mộc Mị, Di Niệm Hỏa",
+      "publishedAt": "29/09/2024"
+    },
+    {
+      "title": "SSR泷技能与斗技定位",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1Pp4y1d7CV/",
+      "usedFor": "đối chiếu Hộ Hàng, phản công và giới hạn PvP",
+      "publishedAt": "03/01/2024"
+    }
+  ]
+}

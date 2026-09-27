@@ -1,0 +1,87 @@
+{
+  "shikigamiId": 353,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực đơn thể đa năng cho boss dài lượt, đổi lại cần thời gian diễn đủ năm luật âm và không hợp farm ngắn",
+  "summary": "《Khẩn Na La》 lần lượt diễn năm luật âm để tích hợp gây sát thương, giảm Phòng thủ, kéo thanh, hồi máu, tăng Sát thương bạo kích, giải hiệu ứng và tạo Quỷ Hỏa. [Cấp] đánh đơn thể năm lần rồi phát lại toàn bộ luật âm đã diễn, vì vậy sức mạnh tăng rõ theo thời gian. Cô vẫn hữu dụng ở boss và phó bản dài, nhưng cần ít nhất vài lượt khởi động nên đã nhường nhiều đội tối ưu ngắn lượt cho các chủ lực mới.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "Chưa kịp diễn đủ luật âm nên sát thương và hỗ trợ bị thiếu."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Năm hit cộng toàn bộ luật âm tạo sát thương và tiện ích rất cao."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6,
+      "note": "Đa năng nhưng lựa chọn luật âm ngẫu nhiên và cần nhiều lượt để hoàn thiện."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5.5,
+      "note": "Cần đầy kỹ năng 2 và 3, bộ Ngự Hồn tốt và đội boss đúng cấu trúc."
+    }
+  ],
+  "strengths": [
+    "Sau khi khởi động, [Cấp] vừa đánh năm hit vừa phát lại tất cả luật âm đã diễn.",
+    "Bộ luật âm bao gồm giảm Phòng thủ, kéo thanh, hồi máu, tăng Sát thương bạo kích, giải hiệu ứng và tạo Quỷ Hỏa.",
+    "[Thương: Sơn Xuy] không kích hoạt ngự hồn của kẻ địch."
+  ],
+  "weaknesses": [
+    "Cần diễn đủ nhiều luật âm nên khởi động chậm, không hợp nội dung farm vài lượt.",
+    "Hai luật âm xuất hiện đầu lượt có tính ngẫu nhiên, đôi lúc không có đúng hiệu ứng đang cần.",
+    "Muốn làm chủ lực phải đầu tư đầy [Phá] và [Cấp], tiêu tốn nhiều Daruma Đen."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Vai trò chính là sát thương đơn thể dài lượt trong Phùng Ma, Kỳ Lân hoặc sự kiện boss. Những lượt đầu ưu tiên diễn các luật âm chưa có; sau khi bộ luật hoàn chỉnh, dùng [Cấp] để phát lại toàn bộ hiệu ứng mỗi lượt.",
+        "〈Cuồng Cốt〉 + 〈Thổ Tri Thù〉 là cấu hình boss mặc định khi đội giữ được nhiều Quỷ Hỏa. 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉 phù hợp màn cần tận dụng số hit hoặc cơ chế sát thương cố định, nhưng không mặc định mạnh hơn Cuồng Cốt ở boss dài."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Cô có thể vừa gây sát thương vừa giải hiệu ứng, hồi máu và kéo thanh, song cần hành động nhiều lần. Nếu dùng PvP, Tốc độ quan trọng hơn sát thương thuần; 〈Luân Nhập Đạo〉 hoặc 〈Chiêu Tài Miêu〉 giúp tăng nhịp diễn luật âm, nhưng đây là lựa chọn ngách."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Boss dài lượt: 〈Cuồng Cốt〉 + 〈Thổ Tri Thù〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích. Có thể dùng Tốc độ ở vị trí 2 khi đội hình yêu cầu cô diễn luật sớm.",
+        "Nhiều hit/tình huống đặc biệt: 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉; Công/Tốc độ – Công – Bạo kích/Sát thương bạo kích. PvP ngách: 〈Luân Nhập Đạo〉 hoặc 〈Chiêu Tài Miêu〉; Tốc độ – Công – Bạo kích."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师手游打什么式神：全场景选择指南",
+      "publisher": "尼游网",
+      "url": "https://www.neeu.com/news/4430.html",
+      "usedFor": "đối chiếu vị trí boss hiện tại và bộ Cuồng Cốt + Thổ Tri Chu",
+      "publishedAt": "2026"
+    },
+    {
+      "title": "緊那羅の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/緊那羅.html",
+      "usedFor": "đối chiếu năm luật âm, nhịp khởi động và lối PvP"
+    },
+    {
+      "title": "紧那罗御魂推荐",
+      "publisher": "切游网",
+      "url": "https://www.qieyou.com/content/94233",
+      "usedFor": "so sánh Cuồng Cốt + Thổ Tri Chu với Châm Nữ + Ca Kỹ"
+    }
+  ]
+}

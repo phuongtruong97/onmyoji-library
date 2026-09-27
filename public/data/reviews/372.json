@@ -1,0 +1,87 @@
+{
+  "shikigamiId": 372,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ cấp tài nguyên và khuếch đại Sát Thương Bạo Kích hàng đầu; mạnh ở cả PvE lẫn PvP nhưng cần ưu tiên chỉ số và quản lý Nguyện Lực đúng cách",
+  "summary": "《Nhân Phiên Huy Dạ Cơ》 mở Huyễn Cảnh bằng [Nguyện Mãn Dạ] với 2 Quỷ Hỏa, nhận 3 điểm {+Nguyện Lực} và cho đồng minh dùng Nguyện Lực thay Quỷ Hỏa khi thiếu. Trong Huyễn Cảnh, đồng minh dùng kỹ năng nhận {+Nguyện Hựu}: 30% Sát Thương Bạo Kích và Phòng thủ của cô, tối đa 120% Sát Thương Bạo Kích và 200 Phòng thủ. Đây là bộ khuếch đại rất mạnh, nhưng Nguyện Lực không phải Quỷ Hỏa thực nên không được tính cho điều kiện sát thương của 〈Cuồng Cốt〉.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Cấp tài nguyên ngay đầu trận và truyền Sát Thương Bạo Kích lớn cho chủ lực."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9.5,
+      "note": "Duy trì tài nguyên ổn định; mốc tiêu 12/24 Nguyện Lực tăng mạnh giá trị khi trận kéo dài."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Kho {+Nguyện Lực} và {+Nguyện Hựu} giúp đội chủ động dùng kỹ năng, tăng Bạo thương và Phòng thủ; vẫn có mặt trong đội tiên thủ nhưng phải giữ lửa thật cho chủ lực 〈Cuồng Cốt〉."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8.5,
+      "note": "Dễ ghép đội và dùng được rộng, nhưng cần bộ Ngự Hồn có Sát Thương Bạo Kích cao."
+    }
+  ],
+  "strengths": [
+    "{+Nguyện Lực} lưu trữ tối đa 8 điểm và tự bù phần Quỷ Hỏa còn thiếu khi đồng minh dùng kỹ năng.",
+    "{+Nguyện Hựu} truyền 30% Sát Thương Bạo Kích và Phòng thủ của cô, với trần lần lượt 120% và 200.",
+    "[Tịch Quang Ánh Nguyệt] gọi đồng minh đang có {+Nguyện Hựu} hiệp chiến; sau khi đã cấp 12 Nguyện Lực còn bỏ qua Ngự Hồn và nội tại của địch, mốc 24 gây thêm một lần AoE 138%."
+  ],
+  "weaknesses": [
+    "Cần tích nhiều Sát Thương Bạo Kích và vẫn phải đủ sống; trang bị trung bình khó chạm giá trị khuếch đại cao.",
+    "Nguyện Lực chỉ thay chi phí, không được tính là Quỷ Hỏa còn lại cho 〈Cuồng Cốt〉; dùng hết lửa thật có thể làm chủ lực Cuồng Cốt mất sát thương.",
+    "Huyễn Cảnh kéo dài 2 lượt của cô nên phải làm mới đúng nhịp; nếu bị ngắt vận hành, tài nguyên và {+Nguyện Hựu} đều giảm."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Ưu tiên mở [Nguyện Mãn Dạ] trước lượt chủ lực. Tăng Sát Thương Bạo Kích từ {+Nguyện Hựu} phù hợp với đội hình cần trần sát thương cao, còn kho Nguyện Lực giúp đội dùng kỹ năng ổn định. Với chủ lực 〈Cuồng Cốt〉, phải giữ Quỷ Hỏa thật vì phần Nguyện Lực thay thế không làm tăng hệ số của bộ này."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Nhân Phiên Huy Dạ Cơ》 là trạm tài nguyên kiêm khuếch đại cho đội tiên thủ: mở [Nguyện Mãn Dạ] trước chủ lực để cấp {+Nguyện Lực}, sau đó người dùng kỹ năng nhận {+Nguyện Hựu}. Video đội hình thực chiến cho thấy cô vẫn ghép tốt với các chủ lực cần Bạo thương lớn và nhiều lần dùng kỹ năng; khả năng tự có Kháng hiệu ứng trong Huyễn Cảnh cũng giúp cô ít bị ngắt hơn hỗ trợ mỏng thông thường.",
+        "Điểm cần quản lý là Nguyện Lực chỉ bù chi phí, không phải Quỷ Hỏa thật. Nếu chủ lực dùng 〈Cuồng Cốt〉, tiêu cạn lửa thật trước lượt đánh sẽ làm mất hệ số dù kỹ năng vẫn thi triển được. Huyễn Cảnh cũng phải được làm mới đúng nhịp; đội ép lượt, khóa kỹ năng hoặc buộc cô chết sớm sẽ cắt cả tài nguyên lẫn phần truyền chỉ số."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Phổ thông: 〈Hỏa Linh〉; ưu tiên Sát Thương Bạo Kích cao, sau đó là HP/Phòng thủ và Tốc độ phù hợp thứ tự đội. Bộ này bảo đảm Quỷ Hỏa mở trận và hợp với vai trò hỗ trợ đa dụng.",
+        "PvP theo đội: 〈Cộng Tiềm〉 để hỗ trợ xua hiệu ứng khi dùng kỹ năng, hoặc 〈Bạng Tinh〉 để có lá chắn đầu trận. Chọn HP – HP – Sát Thương Bạo Kích hay Tốc – HP – Sát Thương Bạo Kích tùy yêu cầu thứ tự; cô không cần đủ Bạo kích chỉ để truyền chỉ số từ {+Nguyện Hựu}."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "因幡かぐや姫の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/184411768183871589.html",
+      "usedFor": "đối chiếu cơ chế Nguyện Lực, Nguyện Hựu, mốc 12/24 và tương tác với Cuồng Cốt"
+    },
+    {
+      "title": "因幡辉夜姬全方位攻略",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/280752226668907867",
+      "usedFor": "đối chiếu vai trò, chỉ số và lựa chọn Ngự Hồn"
+    },
+    {
+      "title": "油赤子因番辉夜姬挖土：实战阵容与行动节奏",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1S4ntzcEue/",
+      "usedFor": "đối chiếu vai trò cấp tài nguyên và vận hành đội tiên thủ",
+      "publishedAt": "25/09/2025"
+    }
+  ]
+}

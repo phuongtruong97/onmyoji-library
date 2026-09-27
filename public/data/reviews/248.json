@@ -1,0 +1,82 @@
+{
+  "shikigamiId": 248,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Sát thương đơn thể PvP có chỗ dùng trở lại trong đội hậu thủ, nhưng phụ thuộc đội hình và không phải thức thần phổ dụng",
+  "summary": "《Hoang Xuyên Chi Chủ》 dùng [Thôn Phệ] đánh đơn thể hai lần: hit đầu gắn hiệu ứng trong hai lượt, hit sau có hệ số lớn. [Trục Lưu] tăng thêm sát thương khi Bạo Kích và cho hút máu, giúp anh hợp vai trò điểm sát thương trong đội PvP kéo dài. Tư liệu thực chiến cuối năm 2025 ghi nhận lối 〈Thương Hồn Điểu〉 trong đội hậu thủ, nhưng đây là lựa chọn theo hệ thống đội hình, không phải chủ lực độc lập.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5,
+      "note": "Có burst đơn thể nhưng thiếu cơ chế giúp vượt các đội farm tối ưu."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5.5,
+      "note": "Hút máu và sát thương chí mạng giúp tự duy trì, song đóng góp đội thấp."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7,
+      "note": "Có lối dùng hậu thủ thực tế với Thương Hồn Điểu, nhưng cần đúng khung đội và bộ ngự hồn mạnh."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Không đa dụng; chỉ nên đầu tư sau khi đã có đội hình mục tiêu rõ ràng."
+    }
+  ],
+  "strengths": [
+    "[Thôn Phệ] có hit kết thúc hệ số cao, thích hợp ép một mục tiêu.",
+    "[Trục Lưu] tăng thêm sát thương Bạo Kích và cho hút máu.",
+    "Có lối dùng PvP hậu thủ được ghi nhận trong thực chiến gần đây."
+  ],
+  "weaknesses": [
+    "Thiên hoàn toàn về đơn thể và gần như không hỗ trợ đồng đội.",
+    "Cần bộ ngự hồn sát thương rất tốt và đội hình nuôi nhịp mới phát huy.",
+    "PvE không có vị trí bắt buộc; các khuyến nghị 〈Phá Thế〉 cũ không phản ánh đầy đủ lối dùng PvP mới."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Có thể dùng làm sát thương đơn thể nếu tài khoản thiếu lựa chọn, nhưng không có lợi thế đủ lớn về thời gian, tài nguyên hay tiện ích để trở thành ưu tiên farm/boss.",
+        "〈Phá Thế〉 là cấu hình burst truyền thống, phù hợp đánh mục tiêu còn nhiều HP; không nên hiểu đây là bộ tối ưu cho mọi nội dung hiện tại."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Video thực chiến tháng 10/2025 dùng 《Hoang Xuyên Chi Chủ》 trong đội hậu thủ với 〈Thương Hồn Điểu〉, cấu hình Tốc độ – Công – Bạo kích hoặc Công – Công – Bạo kích. Mục tiêu là tạo burst đơn thể, tận dụng khả năng tự hồi và nhịp đội kéo dài.",
+        "Đánh giá này chỉ áp dụng cho khung đội hậu thủ tương thích. Nếu tách khỏi đội nuôi nhịp hoặc bộ ngự hồn chưa đủ mạnh, hiệu quả giảm rõ rệt."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP hậu thủ hiện đại: 〈Thương Hồn Điểu〉; Tốc độ – Công – Bạo kích/Sát thương bạo kích hoặc Công – Công – Bạo kích/Sát thương bạo kích, đủ Bạo kích. Chọn Tốc độ khi cần chủ động xoay lượt.",
+        "Burst truyền thống/PvE thay thế: 〈Phá Thế〉; Công – Công – Bạo kích/Sát thương bạo kích. Chỉ dùng khi mục tiêu thường xuyên ở ngưỡng HP cao."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "封骨平体系中后手大名士",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1djs3zqEwt/",
+      "usedFor": "xác nhận vai trò hậu thủ, Thương Hồn Điểu và cấu hình chỉ số",
+      "publishedAt": "20/10/2025"
+    },
+    {
+      "title": "SSR荒川之主全解",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/opus/280886368626811035",
+      "usedFor": "đối chiếu lối burst Phá Thế/Võng Thiết truyền thống"
+    }
+  ]
+}

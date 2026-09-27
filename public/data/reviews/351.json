@@ -1,0 +1,87 @@
+{
+  "shikigamiId": 351,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Đối sách PvP độc đáo nhờ cưỡng chế mục tiêu đánh thường; dạng AoE năm hit vẫn dùng được nhưng không còn là chủ lực PvE hàng đầu",
+  "summary": "《Linh Lộc Ngự Tiền》 có hai hướng rõ rệt. [Lộc Hồn · Cực] ép một mục tiêu nhận lượt mới rồi đánh thường vào cô, qua đó làm mất nhịp kỹ năng, phá thứ tự tốc độ và bảo vệ đồng đội bằng {+Nghĩa Lý Chi Tâm}. [Vạn Vũ Lãng Hành] đánh toàn đội năm lần và mạnh dần theo lượng Quỷ Hỏa đồng minh tiêu hao. Cơ chế cưỡng chế vẫn đáng giá trong PvP, nhưng sát thương PvE hiện chủ yếu là phương án thay thế.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 6.5,
+      "note": "AoE năm hit kích hoạt tốt Châm Nữ, nhưng cần 4 Quỷ Hỏa."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Tích Công/Phòng thủ theo Quỷ Hỏa đã dùng, song không còn đứng đầu meta boss."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Cưỡng chế đánh thường có thể vô hiệu lượt kỹ năng và phá đội hình đối thủ."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Đa dụng nhưng tốn Quỷ Hỏa và cần hiểu khi nào dùng kỹ năng đơn thể hay AoE."
+    }
+  ],
+  "strengths": [
+    "[Lộc Hồn · Cực] cưỡng chế mục tiêu dùng đòn đánh thường thay cho lượt kỹ năng.",
+    "Sau khi thi triển kỹ năng đơn thể, toàn đội được kéo 10% thanh hành động.",
+    "[Vạn Vũ Lãng Hành] có năm hit và tăng dần Công/Phòng thủ theo lượng Quỷ Hỏa phe ta tiêu hao."
+  ],
+  "weaknesses": [
+    "Đại chiêu AoE tốn 4 Quỷ Hỏa, gây áp lực lớn lên đội hình.",
+    "Sát thương ngẫu nhiên kém hiệu quả khi có quá nhiều mục tiêu hoặc cần tập trung một boss.",
+    "Cần Tốc độ cao trong PvP để khống chế mục tiêu chủ chốt trước khi họ hành động."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng [Vạn Vũ Lãng Hành] làm sát thương nhiều hit, hợp 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉. Cô phát huy hơn ở nội dung có ít mục tiêu và trận đủ dài để đồng đội tiêu Quỷ Hỏa, nhưng không nên ưu tiên hơn các chủ lực PvE mới nếu tài nguyên hạn chế."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Hướng phổ biến là đi nhanh và dùng [Lộc Hồn · Cực] lên mắt xích sắp thi triển kỹ năng. Lượt cưỡng chế có thể làm gián đoạn kết giới, cấp lượt hoặc combo đã căn tốc; đồng thời cô nhận Kháng hiệu ứng và Kháng bạo kích trong thời gian phòng thủ.",
+        "〈Chiêu Tài Miêu〉 giúp bù chi phí kỹ năng và phù hợp lối hỗ trợ tốc độ. Nếu dùng cô làm sát thương, cần cân bằng Tốc độ với 100% Bạo kích thay vì chỉ đẩy Công."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP hỗ trợ/khống chế nhịp: 〈Chiêu Tài Miêu〉 hoặc 〈Di Niệm Hỏa〉; Tốc độ – Công/HP – Bạo kích/HP. Ưu tiên Tốc độ cao nhất có thể rồi mới đến độ bền hoặc sát thương.",
+        "PvE nhiều hit: 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích. 〈Phá Thế〉 chỉ phù hợp khi đánh nội dung ngắn và mục tiêu còn nhiều HP."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师：铃鹿御前全面解析",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1167/11672656.html",
+      "usedFor": "đối chiếu vị trí sử dụng và giới hạn chi phí Quỷ Hỏa hiện tại",
+      "publishedAt": "23/04/2026"
+    },
+    {
+      "title": "武之义理 海之意志：SSR铃鹿御前式神攻略",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/15229928370864985",
+      "usedFor": "đối chiếu lối PvP tốc độ, cưỡng chế đánh thường và bộ PvE"
+    },
+    {
+      "title": "鈴鹿御前の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/鈴鹿御前.html",
+      "usedFor": "đối chiếu Chiêu Tài, Di Niệm Hỏa, Châm Nữ và hướng chỉ số"
+    }
+  ]
+}

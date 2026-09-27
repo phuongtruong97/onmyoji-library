@@ -1,8 +1,8 @@
 'use client';
 
-import { ArrowLeft, Search, X } from 'lucide-react';
-import Link from 'next/link';
+import { ListFilter, Search, X } from 'lucide-react';
 import { useEffect, useMemo, useState } from 'react';
+import DonateButton from '../donate-button';
 
 type Language = 'vi' | 'en' | 'zh';
 type Text3 = Record<Language, string>;
@@ -79,17 +79,18 @@ export default function SoulView() {
     window.history.replaceState({}, '', url);
   };
 
-  return <main className="soul-shell">
+  return <main className="soul-shell ui-asset-preview">
     <div className="soul-scene" aria-hidden="true" />
-    <header className="soul-topbar">
-      <Link className="soul-back" href="/" aria-label="Về thư viện thức thần"><ArrowLeft size={20} /></Link>
-      <div className="soul-brand"><span>ONMYOJI • THƯ VIỆN NGỰ HỒN</span><strong>{catalog?.count || 70} Ngự hồn</strong></div>
-      <label className="soul-search"><Search size={18} /><input value={query} onChange={event => setQuery(event.target.value)} placeholder="Tìm tên Việt, Anh hoặc Trung" /></label>
-      <div className="language-tabs">{languages.map(item => <button key={item.id} className={language === item.id ? 'active' : ''} onClick={() => setLanguage(item.id)}>{item.label}</button>)}</div>
+    <header className="topbar soul-topbar">
+      <button className="icon-button" onClick={() => document.getElementById('soul-catalog')?.scrollIntoView({ behavior: 'smooth' })} aria-label="Đi đến danh sách Ngự hồn"><ListFilter /></button>
+      <div className="brand-lockup soul-brand"><span>ONMYOJI • THƯ VIỆN NGỰ HỒN</span><strong>{catalog?.count || 70} Ngự hồn</strong></div>
+      <nav className="section-nav"><a className="section-link" href="/">Thức thần</a><a className="section-link" href="/onmyoji">Âm Dương Sư</a><a className="section-link active" href="/ngu-hon">Ngự hồn</a><a className="section-link" href="/bondling">Khiết Linh</a></nav>
+      <label className="searchbox soul-search"><Search size={18} /><input value={query} onChange={event => setQuery(event.target.value)} placeholder="Tìm tên Việt, Anh hoặc Trung" /></label>
+      <div className="language-tabs">{languages.map(item => <button key={item.id} className={language === item.id ? 'active' : ''} onClick={() => setLanguage(item.id)}>{item.label}</button>)}</div><DonateButton />
     </header>
 
     <section className={`soul-browser${selected ? ' detail-open' : ''}`}>
-      <aside className="soul-grid-panel">
+      <aside className="soul-grid-panel" id="soul-catalog">
         <div className="soul-grid-heading">
           <div><span>DANH MỤC</span><strong>{souls.length} kết quả</strong></div>
           <div className="soul-filter-stack">

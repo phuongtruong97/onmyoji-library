@@ -1,0 +1,82 @@
+{
+  "shikigamiId": 593,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Sát thương đơn mục tiêu mạnh, có Cô Lập và phá phòng thủ; đáng dùng nhưng cần đội hình tạo điều kiện săn mục tiêu",
+  "summary": "《Yêu Đao Cơ · Phi Dạ Liệp Nhận》 đánh dấu con mồi qua [Giai Điệu Rạng Động], biến sát thương thành {+Cô Lập} và tăng tốc khi mục tiêu giảm HP. [Khúc Ca Nửa Đêm] đánh sáu lần, có thể lan sang con mồi và tái thi triển sau khi hạ gục. Đây là chủ lực đơn thể tốt cho PvP lẫn một số PvE, nhưng không phải lựa chọn dọn quái nhanh nhất.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7.5,
+      "note": "Sát thương đơn thể cao nhưng nhiều đoạn và hoạt ảnh không tối ưu mọi màn farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8,
+      "note": "Nhiều đoạn, tăng hệ số theo số mục tiêu bị hạ và khả năng săn con mồi."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Cô Lập, phá phòng thủ và cơ chế liên kết tạo áp lực lên mục tiêu chủ chốt."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Mạnh nhưng UR và vai trò đơn thể khiến chi phí/độ ưu tiên cần cân nhắc."
+    }
+  ],
+  "strengths": [
+    "[Khúc Ca Nửa Đêm] gây sáu lần sát thương và có thể đánh bổ sung con mồi.",
+    "{+Cô Lập} giúp bỏ qua nhiều cơ chế chia sẻ/bảo vệ sát thương.",
+    "[Truy Liệp Tân Chương] cho giảm sát thương và cơ hội miễn khống chế, phản công.",
+    "Có thể tái thi triển miễn phí sau khi hạ mục tiêu, tạo khả năng kết liễu dây chuyền."
+  ],
+  "weaknesses": [
+    "Thiên về đơn mục tiêu, không phải chủ lực AoE phổ dụng.",
+    "Cần đưa con mồi xuống các ngưỡng HP để nhận đủ tốc độ và hiệu quả săn đuổi.",
+    "Nhiều đoạn tấn công kéo dài hoạt ảnh trong farm.",
+    "Hiệu quả tối đa phụ thuộc cơ chế liên kết và thứ tự hạ mục tiêu."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": []
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Cộng đồng tập trung vào khả năng đơn thể, {+Cô Lập} và bỏ qua phòng thủ để ép chủ lực đối phương. Khi con mồi xuống thấp, tốc độ và hiệu quả [Truy Liệp Tân Chương] tăng rõ rệt.",
+        "Cô vẫn cần đồng đội mở đường hoặc giảm HP mục tiêu; nếu không đạt ngưỡng, áp lực sẽ thấp hơn kỳ vọng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE nhiều đoạn: 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích.",
+        "PvP: 〈Võng Thiết〉, 〈Phá Thế〉 hoặc bộ sát thương phù hợp đội; cân bằng tốc độ, Công và Bạo kích."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "UR妖刀姬·绯夜猎刃实战详细评测",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1pRs4zoETn/",
+      "usedFor": "đánh giá đơn thể, Cô Lập và phá phòng thủ",
+      "publishedAt": "22/10/2025"
+    },
+    {
+      "title": "UR妖刀姬实战详细评测",
+      "publisher": "YouTube",
+      "url": "https://www.youtube.com/watch?v=yrWgkmelspI",
+      "usedFor": "đối chiếu nội dung thử nghiệm và vai trò",
+      "publishedAt": "21/10/2025"
+    }
+  ]
+}

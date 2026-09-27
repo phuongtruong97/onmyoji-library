@@ -1,0 +1,105 @@
+{
+  "shikigamiId": 602,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Quân bài phản khống chế PvP kiêm chủ lực nhiều hit dài lượt; gom Tâm Hỏa để tự giải khống chế và mở đại chiêu mạnh",
+  "summary": "《Thiên Hỏa Mệnh Linh Ngạn Cơ》 mở trận cho mỗi đồng minh một tầng {+Tâm Hỏa}, tăng 12% sát thương và 12% giảm sát thương. Khi khống chế trên người mang biến mất hoặc họ tử trận, Tâm Hỏa chuyển sang cô; [Cùng Ta Bùng Cháy] cũng có thể chủ động thu hồi một tầng và kéo đồng minh 20% thanh. Khi không còn đồng minh khác giữ Tâm Hỏa, kỹ năng đổi vĩnh viễn thành [Thiên Hỏa Phá Vọng], lập tức kéo cô 100%, giải toàn bộ khống chế rồi gây bốn hit AoE bỏ qua hiệu ứng Ngự Hồn của địch.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7,
+      "note": "Buff 12% không phải Tiên Cơ nên cần nhịp hành động; sát thương đầu trận chưa đạt dạng mạnh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Nhiều hit, lá chắn nổ và dạng cường hóa phù hợp trận dài; đã có đội boss dùng Cuồng Cốt–Thổ Nhện."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Quân đối sách chống đội nhiều khống chế: giải khóa cho đồng minh và phản công sau khi hiệu ứng khống chế kết thúc; không nổi bật nếu đối thủ ít khống chế."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6.5,
+      "note": "Có cả PvE lẫn PvP nhưng cần đủ kỹ năng và hiểu cách thu hồi Tâm Hỏa."
+    }
+  ],
+  "strengths": [
+    "{+Tâm Hỏa} cho mỗi người mang 12% tăng sát thương và 12% giảm sát thương.",
+    "Khi khống chế của đồng minh biến mất, Tâm Hỏa chuyển sang cô; cô nhận {+Hỏa Mạc} và được kéo 30% thanh hành động.",
+    "[Cùng Ta Bùng Cháy] kéo mục tiêu đồng minh 20% thanh và gây ba hit AoE bỏ qua hiệu ứng Ngự Hồn địch.",
+    "Mở khóa [Thiên Hỏa Phá Vọng] kéo cô 100%, giải toàn bộ khống chế và gây ba hit 50% cộng một hit 240% lên toàn đội địch."
+  ],
+  "weaknesses": [
+    "Buff {+Tâm Hỏa} không phải Tiên Cơ; cô phải hành động hoặc đi qua đúng chuỗi cơ chế mới tạo đủ giá trị.",
+    "Muốn mở dạng mạnh phải thu hết Tâm Hỏa khỏi các đồng minh khác, nên nhịp bùng nổ phụ thuộc thứ tự hành động và tình huống khống chế.",
+    "[Thiên Hỏa Phá Vọng] tốn 3 Quỷ Hỏa, còn [Cùng Ta Bùng Cháy] tốn 2; đội phải duy trì nguồn lửa ổn định.",
+    "Sau khi dùng đại chiêu cường hóa cô nhận {−Choáng} 1 lượt, tạo cửa sổ để đối thủ phản công."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Cô phù hợp boss dài lượt hơn farm cực ngắn. Một đội sự kiện đã dùng 〈Cuồng Cốt〉 + 〈Thổ Tri Thù〉 với Công – Công – Bạo kích/Sát thương bạo kích và để cô đi cuối; đây là cấu hình có thực chiến, không nên áp máy móc sang mọi phó bản.",
+        "{+Hỏa Mạc} đầu trận bằng 280% Tấn công tồn tại tới hành động kế tiếp. Lá chắn nhận lại sau khi dùng yêu thuật không phải từ Tiên Cơ sẽ nổ ở lượt kế, gây AoE bằng 65% phần lá chắn còn lại, nên Công vừa tăng sát thương vừa tăng lá chắn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Thiên Hỏa Mệnh Linh Ngạn Cơ》 giải quyết một điểm yếu cụ thể của đội Hỏa Sơn: mất lượt vì khống chế. Cô có thể dùng kỹ năng chủ động để giải toàn bộ trạng thái khống chế trên một đồng minh quan trọng; khi khống chế trên đồng minh kết thúc, cơ chế Tâm Hỏa giúp dựng Khiên, tăng thanh và chuẩn bị phản công. Bản cập nhật sau thử nghiệm còn cho cô tự kéo thanh khi khống chế của bản thân biến mất, giúp chuỗi phản công ổn định hơn bản đầu.",
+        "Cô là quân chọn theo kèo, không phải mảnh ghép bắt buộc. Trước đội ít khống chế, phần giải khóa khó tạo đủ giá trị và nhịp gây sát thương cần thời gian khởi động. Bản thân cô cũng không có lớp tự giải khống chế lặp lại đáng tin cậy; nếu bị khóa liên tục hoặc bị hạ trước khi làm mới Tâm Hỏa, đội vẫn mất nhịp. Sát thương bỏ qua hiệu ứng Ngự Hồn của mục tiêu không đồng nghĩa bỏ qua Phòng thủ hay mọi nội tại."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE boss dài lượt: 〈Cuồng Cốt〉 + 〈Thổ Tri Thù〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích. Chỉ dùng khi đội bảo đảm Quỷ Hỏa sau khi trả chi phí kỹ năng.",
+        "PvP chủ lực: 〈Võng Thiết〉 hoặc 〈Thanh Nữ Phòng〉; Tốc độ/Công – Công – Bạo kích/Sát thương bạo kích. Chọn Tốc độ để sớm chuyển Tâm Hỏa, chọn Công khi đội có kéo lượt và bảo kê tốt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "天火命铃彦姬",
+      "publisher": "阴阳师灰机WIKI",
+      "url": "https://yys.huijiwiki.com/wiki/%E5%A4%A9%E7%81%AB%E5%91%BD%E9%93%83%E5%BD%A6%E5%A7%AC",
+      "usedFor": "đối chiếu Tâm Hỏa, Hỏa Mạc, kỹ năng và hồ sơ hiện hành"
+    },
+    {
+      "title": "天火命铃彦姬技能介绍",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2605/1774825.html",
+      "usedFor": "đối chiếu cơ chế phản khống chế, kéo thanh và mở đại chiêu",
+      "publishedAt": "21/05/2026"
+    },
+    {
+      "title": "寒山断祟SP铃彦姬二阶段阵容",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2606/1778691.html",
+      "usedFor": "xác nhận việc làm PvE và bộ Cuồng Cốt–Thổ Nhện Công–Công–Bạo",
+      "publishedAt": "06/2026"
+    },
+    {
+      "title": "SP天火命铃彦姬初版PVP分析",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1hpLm6oE6Y/",
+      "usedFor": "đối chiếu vai trò đối sách đội nhiều khống chế",
+      "publishedAt": "20/05/2026"
+    },
+    {
+      "title": "天火命铃彦姬二版加强解析",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1AUGv66EpG/",
+      "usedFor": "đối chiếu thay đổi tự kéo thanh và kỹ năng sau thử nghiệm",
+      "publishedAt": "23/05/2026"
+    }
+  ]
+}

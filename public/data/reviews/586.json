@@ -1,0 +1,105 @@
+{
+  "shikigamiId": 586,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Lõi hỗ trợ–hồi phục cho đội hệ Hỏa, giảm chi phí kỹ năng, gắn dễ tổn thương theo tầng và tích đủ để gây AoE cùng buff sát thương vĩnh viễn",
+  "summary": "《Vân Gian Bất Kiến Nhạc》 mở trận bằng [Viên Nhai], tạo Ngự Thần Hỏa Giới 3 lượt và đặt 3 tầng {−Chích Hỏa} lên toàn bộ địch. Trong kết giới, đồng minh dùng yêu thuật được tăng 25% sát thương trong lượt; Thức thần hệ Hỏa còn giảm 1 Quỷ Hỏa chi phí. Mỗi lần đồng minh hệ Hỏa dùng yêu thuật, anh nhận một {+Nóng Chảy}, lập tức hồi mục tiêu thấp HP nhất. Đủ 8 tầng sẽ tự dùng [Băng Sơn Chích Lạc]: đánh toàn thể 3 lần theo Phòng thủ, gắn 5 tầng {−Chích Hỏa} và lần đầu còn tăng vĩnh viễn 30% sát thương toàn đội.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8.5,
+      "note": "Tiên Cơ tăng 25% sát thương, giảm 1 lửa cho hệ Hỏa và gắn sẵn ba tầng dễ tổn thương."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9,
+      "note": "Tích đủ Nóng Chảy để hồi liên tục, gây AoE và mở buff 30% sát thương vĩnh viễn."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Trụ cột đội Hỏa Sơn: giảm chi phí kỹ năng, hồi phục và chuyển Phòng thủ thành sức ép; mạnh khi đội có nhiều thức thần hệ Hỏa nhưng kém linh hoạt ngoài hệ."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6.5,
+      "note": "Mạnh nếu đã có chủ lực hệ Hỏa; kém phổ dụng hơn hỗ trợ không giới hạn đội hình."
+    }
+  ],
+  "strengths": [
+    "[Viên Nhai] có Tiên Cơ, tăng 25% sát thương yêu thuật trong lượt và giảm 1 Quỷ Hỏa cho đồng minh hệ Hỏa.",
+    "{−Chích Hỏa} khiến đòn của Thức thần hệ Hỏa tăng 16% sát thương, tiêu một tầng và kích thêm sát thương bằng 300% Phòng thủ của anh.",
+    "Mỗi tầng {+Nóng Chảy} hồi mục tiêu thấp HP nhất bằng 200% Phòng thủ ban đầu; [Quy Sơn Chi Lộ] còn hồi toàn đội bằng 240% Phòng thủ.",
+    "[Băng Sơn Chích Lạc] đánh toàn thể ba lần bằng 600% Phòng thủ mỗi hit, gắn 5 tầng {−Chích Hỏa}; lần đầu thi triển tăng vĩnh viễn 30% sát thương toàn đội."
+  ],
+  "weaknesses": [
+    "Giảm chi phí, tích {+Nóng Chảy} tự động và kích {−Chích Hỏa} mạnh nhất đều phụ thuộc đồng minh thuộc danh sách hệ Hỏa.",
+    "Cần đủ 8 tầng {+Nóng Chảy} mới tự tung [Băng Sơn Chích Lạc]; nếu đội ít lượt dùng yêu thuật hệ Hỏa, khởi động rất chậm.",
+    "Kết giới chỉ duy trì 3 lượt của nguồn và cần được triển khai lại trong trận kéo dài.",
+    "Sát thương và hồi phục dựa trên Phòng thủ, nên bộ Ngự Hồn phải đạt cả Phòng thủ, Tốc độ và đôi khi Bạo kích theo yêu cầu đội."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Anh đã có việc làm thực tế trong đội Ngự Hồn mới, nơi đi đầu với Tốc độ trên ngưỡng đội, Phòng thủ cao và đủ Bạo kích. Tiên Cơ đặt sẵn {−Chích Hỏa}; chủ lực hệ Hỏa sau đó vừa giảm chi phí vừa kích thêm sát thương theo Phòng thủ của anh.",
+        "Ở trận dài, mục tiêu quan trọng là đạt 8 tầng {+Nóng Chảy} lần đầu để mở buff 30% sát thương vĩnh viễn. [Quy Sơn Chi Lộ] chủ động cho 2 tầng và hồi toàn đội, còn mỗi lần chủ lực hệ Hỏa dùng yêu thuật cho thêm một tầng."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Vân Gian Bất Kiến Nhạc》 tạo nền vận hành cho đội Hỏa Sơn bằng kết giới giảm tiêu hao Quỷ Hỏa, hồi phục và khuếch đại chỉ số dựa trên Phòng thủ. Giá trị lớn nhất không nằm ở một lượt bùng nổ mà ở việc cho các đồng minh như 《Bách Vũ Phượng Hoàng Hỏa》 và 《Tư Kim Thần》 dùng kỹ năng liên tục, tích cơ chế rồi thắng bằng nhịp dài. Video phân tích còn chỉ ra tương tác kỹ năng 0 lửa với 《Diêm Ma》 và 《Dạ Ma Thiên Diêm Ma》, mở thêm hướng khống chế chủ động.",
+        "Đổi lại, anh phụ thuộc mạnh vào cấu trúc đội. Khi thiếu đồng minh hệ Hỏa, phần giảm chi phí và chuỗi tích tầng không đủ để bù cho một hỗ trợ đa dụng khác. Đội xua kết giới, khóa anh trước khi dựng nhịp hoặc ép chết chủ lực sớm có thể làm bộ máy Hỏa Sơn chưa kịp tăng tiến. Vì vậy đây là lõi chiến thuật mạnh, không phải quân cắm tự do vào mọi đội."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE cần hành động sớm: 〈Chiêu Tài Miêu〉 hoặc bộ rời; Tốc độ – Phòng thủ – Bạo kích/Phòng thủ, đạt ngưỡng Tốc của đội rồi ưu tiên Phòng thủ và đủ Bạo kích nếu đội cần hồi/sát thương ổn định.",
+        "Hồi phục dài lượt: 〈Thụ Yêu〉; Tốc độ/Phòng thủ – Phòng thủ – Bạo kích/Phòng thủ. Hỗ trợ mở trận: 〈Hỏa Linh〉; cùng trục chỉ số. 〈Đồ Phật〉 chỉ phù hợp khi anh thực sự được xếp đánh thường trước chủ lực, không dùng mặc định cho cấu hình Tiên Cơ rồi đứng sau."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "云间不见岳技能介绍",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2507/1675347.html",
+      "usedFor": "đối chiếu đầy đủ Viên Nhai, Chích Hỏa, Nóng Chảy và Băng Sơn Chích Lạc",
+      "publishedAt": "09/07/2025"
+    },
+    {
+      "title": "云间不见岳",
+      "publisher": "阴阳师灰机WIKI",
+      "url": "https://yys.huijiwiki.com/wiki/云间不见岳",
+      "usedFor": "đối chiếu hồ sơ, kỹ năng hiện hành và kỹ năng phụ bị thiếu khỏi danh sách kỹ năng chính"
+    },
+    {
+      "title": "云间不见岳版本9秒魂海P2阵容",
+      "publisher": "Bilibili / 在下小贱哥哥",
+      "url": "https://www.bilibili.com/video/BV1q7uxzuEEN/",
+      "usedFor": "đối chiếu việc làm PvE thực tế trong Vĩnh Sinh Hải",
+      "publishedAt": "16/07/2025"
+    },
+    {
+      "title": "虚无大蛇27秒速刷阵容",
+      "publisher": "233乐园",
+      "url": "https://www.233leyuan.com/post-detail/2057832437282959360",
+      "usedFor": "đối chiếu cấu hình Tốc độ cao, Phòng thủ và Bạo kích trong đội Ngự Hồn hiện tại",
+      "publishedAt": "22/05/2026"
+    },
+    {
+      "title": "SP云间不见岳机制：0火技能与火山体系",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1qkG4zQEya/",
+      "usedFor": "đối chiếu giảm chi phí kỹ năng và vận hành đội Hỏa Sơn",
+      "publishedAt": "09/07/2025"
+    }
+  ]
+}

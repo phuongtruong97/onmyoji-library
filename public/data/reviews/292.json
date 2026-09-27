@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 292,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Đơn thể ba hit kết hợp đóng băng và phá băng, dùng được ở nội dung ngách nhưng chưa đáng ưu tiên tài nguyên",
+  "summary": "《Tuyết Đồng Tử》 dùng [Lung Nguyệt Tuyết Hoa Trảm] đánh ba lần và tăng mạnh Hiệu quả chính xác trong lượt. Mỗi hit có thể gây {−Đóng Băng}; nếu mục tiêu đã bị đóng băng, sương giá hoặc đóng băng sâu, hit đó chuyển thành phá băng với sát thương tới 300% gốc. Anh có cả sát thương lẫn khống chế, nhưng phụ thuộc trạng thái mục tiêu và hiện chỉ được xếp mức ưu tiên trung bình.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5,
+      "note": "Ba hit mạnh khi có sẵn đóng băng nhưng thiếu ổn định."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Có thể vừa khóa vừa gây sát thương trong nội dung cho phép đóng băng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6,
+      "note": "Đóng băng và hoàn lửa có tiềm năng, song dễ bị kháng hoặc giải."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Cần đội hỗ trợ trạng thái và ngự hồn tốt mới phát huy."
+    }
+  ],
+  "strengths": [
+    "Đại chiêu đánh ba lần và tăng 200% Hiệu quả chính xác trong lượt.",
+    "Phá băng có thể nâng sát thương hit lên 300% gốc.",
+    "Sau khi gây đóng băng thành công sẽ hoàn lại 1 Quỷ Hỏa."
+  ],
+  "weaknesses": [
+    "Sát thương cao nhất cần mục tiêu mang trạng thái băng.",
+    "Khống chế cơ bản chỉ 15% mỗi hit trước hiệu quả chính xác.",
+    "Boss miễn khống chế và đội giải hiệu ứng làm giảm mạnh giá trị."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng được trong màn cho phép đóng băng hoặc đội có đồng minh đặt sẵn trạng thái băng. Trước boss miễn khống chế, phần phá băng và hoàn lửa khó kích hoạt nên anh trở thành chủ lực ba hit bình thường."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Ba lần kiểm tra đóng băng tạo khả năng khóa mục tiêu, đồng thời lớp tuyết ngoài lượt đỡ một lần đóng băng hoặc phong ấn. Tuy nhiên hiệu quả không đủ ổn định để làm trung tâm đội hình hiện tại."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Kết hợp sát thương và đóng băng: 〈Minh Ốc〉 hoặc 〈Võng Thiết〉; Tốc độ/Công – Hiệu quả chính xác/Công – Bạo kích, chọn theo vai trò.",
+        "Thiên khống chế: 〈Mị Yêu〉 hoặc 〈Tuyết U Hồn〉; Tốc độ – Hiệu quả chính xác – HP/Bạo kích. Không dùng cấu hình này trước mục tiêu miễn khống chế."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师：SP式神培养指南",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1134/11341535.html",
+      "usedFor": "đối chiếu độ ưu tiên và phạm vi PvE/PvP",
+      "publishedAt": "18/02/2026"
+    },
+    {
+      "title": "阴阳师SSR式神简要分析",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/225355021_421894",
+      "usedFor": "đối chiếu vai trò sát thương/khống chế"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "shikigamiId": 604,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "medium",
+  "verdict": "Thức thần PvP thuần túy với đổi thuộc tính, hồi–trừ máu và sát thương theo HP; không có giá trị PvE đáng kể",
+  "summary": "《Bất Tương Hồ Thiền》 dùng [Thời Dã Vận Dã] duy trì {+Xí Ngầu Ảo Tượng}, hồi máu phe ta, làm đối phương mất HP và trao đổi thuộc tính với mục tiêu. [Hồ Ảnh Hí Pháp] lựa chọn cách tính sát thương theo Tấn công hoặc HP tối đa. Sau điều chỉnh, anh là quân bài PvP dùng được nhưng không vượt trội tuyệt đối và hầu như không có việc làm trong PvE.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3,
+      "note": "Không cung cấp tăng sát thương hoặc cơ chế farm cạnh tranh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 3.5,
+      "note": "Hồi máu có tồn tại nhưng không đủ để tạo vị trí boss."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Quân bài PvP đổi thuộc tính và gây sức ép bằng sát thương không kích hoạt Ngự Hồn/nội tại; cần đọc đúng mục tiêu, còn hiệu quả thực tế không áp đảo như dự đoán ban đầu."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5,
+      "note": "Chỉ ưu tiên nếu tài khoản đã có nền PvE và muốn đầu tư Đấu Kỹ."
+    }
+  ],
+  "strengths": [
+    "[Thời Dã Vận Dã] kết hợp hồi máu phe ta và làm phe địch mất HP.",
+    "Có thể gắn hiệu ứng trao đổi thuộc tính chắc chắn lên mục tiêu.",
+    "[Hồ Ảnh Hí Pháp] tự chọn công thức theo Tấn công hoặc HP để tận dụng chỉ số cao hơn.",
+    "Phối hợp đáng chú ý với 《Bì Sa Môn Thiên》 trong một số đội PvP."
+  ],
+  "weaknesses": [
+    "Thuần PvP, gần như không có chỗ trong PvE.",
+    "Bản thử nghiệm ban đầu từng cho hiệu quả áp chế và sát thương thấp hơn kỳ vọng.",
+    "Tương tác buff/debuff phức tạp và từng phát sinh lỗi, cần theo dõi bản vá.",
+    "Sức mạnh phụ thuộc meta và mục tiêu trao đổi thuộc tính."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Các nguồn hướng dẫn đều xếp 《Bất Tương Hồ Thiền》 vào nhóm thuần Đấu Kỹ. Hồi phục và mất HP không chuyển hóa thành lợi thế farm hoặc boss đủ lớn để cạnh tranh với đội hình PvE hiện hành."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Thử nghiệm thực chiến cho thấy [Hồ Ảnh Hí Pháp] và cơ chế trao đổi thuộc tính tạo ra những kèo khắc chế rất cụ thể, đặc biệt khi lấy đúng thuộc tính then chốt của chủ lực hoặc hỗ trợ đối phương. Sát thương không kích hoạt Ngự Hồn và nội tại cũng giúp anh tránh một số phản ứng phòng thủ.",
+        "Tuy nhiên video sau thử nghiệm ghi nhận mức áp chế thuộc tính và sát thương thấp hơn kỳ vọng. Bản điều chỉnh giữ Tốc độ cùng cơ chế chính nhưng giảm Khiên, hồi phục và lượng HP làm mất, nên anh vẫn dùng được chứ không tự động thắng kèo. Giá trị phụ thuộc mạnh vào việc nhận diện đúng mục tiêu để đổi thuộc tính; chọn sai mục tiêu hoặc bị ép dùng kỹ năng sớm sẽ làm giảm đáng kể tác dụng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP hỗ trợ: 〈Luân Đạo〉 hoặc bộ sinh tồn; ưu tiên Tốc – Công – Công"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "SSR不相狐禅抽卡与式神简评",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1Y8Nd6ZEvA/",
+      "usedFor": "xác nhận định vị thuần PvP"
+    },
+    {
+      "title": "不相狐禅调整削弱",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1STKs6KEHy/",
+      "usedFor": "thay đổi chỉ số và đánh giá sau điều chỉnh"
+    },
+    {
+      "title": "不相狐禅斗技，比想象中弱",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV13BNq66Ebe",
+      "usedFor": "thử nghiệm PvP và hạn chế ban đầu",
+      "publishedAt": "15/07/2026"
+    }
+  ]
+}

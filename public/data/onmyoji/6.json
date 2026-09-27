@@ -1,0 +1,479 @@
+{
+  "id": 6,
+  "kind": "Champion",
+  "name": {
+    "vi": "Fujiwara no Michinaga",
+    "en": "Fujiwara no Michinaga",
+    "zh": "藤原道长"
+  },
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "MAX_LEVEL",
+  "reviewStatus": "CAN_KIEM_TRA",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 6382,
+      "grade": ""
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 20826,
+      "grade": ""
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 806,
+      "grade": ""
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 142,
+      "grade": ""
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "20%",
+      "grade": ""
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "assets": {
+    "portraitFile": "fujiwara.png",
+    "headIconFile": "16a.png"
+  },
+  "skills": [
+    {
+      "id": 1601,
+      "number": 1,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Huấn Giới Chi Âm",
+        "en": "Admonition Notes",
+        "zh": "训诫之音"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Không được thất lễ! Nốt nhạc hóa thành chim trắng bay đến mục tiêu địch, gây sát thương bằng 125% Công.",
+        "en": "No discourtesy allowed! Musical notes transform into white melo-birds that fly toward an enemy target, dealing damage equal to 125% of ATK.",
+        "zh": "不可失礼！音符化作白色的律鸟飞向敌方目标，造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Sát thương tăng lên 105%",
+            "zh": "Sát thương tăng lên 105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Sát thương tăng lên 110%",
+            "zh": "Sát thương tăng lên 110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Sát thương tăng lên 115%",
+            "zh": "Sát thương tăng lên 115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Sát thương tăng lên 125%",
+            "zh": "Sát thương tăng lên 125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1601.png"
+    },
+    {
+      "id": 1602,
+      "number": 2,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vịnh Thán Xảo Vận",
+        "en": "Elegant Chant",
+        "zh": "咏叹巧韵"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Bình tĩnh chớ vội, nghe đàn thưởng trà. Bước vào [buff_1602_1] tập trung, tăng 30% Tấn Công cho toàn bộ đồng minh, duy trì 5 hiệp.",
+        "en": "Be at ease; enjoy the music and savor the tea. Enters a focused [buff_1602_1], increasing all allies' ATK by 30% for 5 turns.",
+        "zh": "稍安勿躁，听琴品茶。进入专注的[buff_1602_1]，提升友方全体30%攻击，维持5回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Số hiệp duy trì tăng đến 4 hiệp.",
+            "en": "Increases duration to 4 turns.",
+            "zh": "维持回合增至4回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tấn công tăng đến 20%",
+            "en": "Increases the ATK boost to 20%.",
+            "zh": "攻击提升增至20%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Số hiệp duy trì tăng đến 5 hiệp.",
+            "en": "Increases duration to 5 turns.",
+            "zh": "维持回合增至5回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tấn công tăng đến 30%",
+            "en": "Increases the ATK boost to 30%.",
+            "zh": "攻击提升增至30%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1602.png"
+    },
+    {
+      "id": 1603,
+      "number": 3,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Cầm Nguyệt Tề Minh",
+        "en": "Moontune Resonance",
+        "zh": "琴月齐鸣"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "[tips_1603]\nBách điểu triều nguyệt, ánh trăng vẹn toàn. Tiêu hao toàn bộ [buff_1601_1], mỗi tiêu hao 1 tầng tăng 20% Tấn Công cho toàn bộ đồng minh (cộng dồn tối đa 10 tầng), duy trì 2 lượt. Khi số [buff_1601_1] tiêu hao không dưới 6 tầng, giải trừ [tips_3] cho toàn bộ đồng minh.",
+        "en": "[tips_1603]. Birds pay homage to the moon of incredible radiance. Consumes all [buff_1601_1], increasing all allies' ATK by 20% per stack consumed (up to 10 stacks) for 2 turns. When 6 or more stacks of [buff_1601_1] are consumed, removes [tips_3] from all allies.",
+        "zh": "[tips_1603]。百鸟朝月，皎光满盈。消耗所有[buff_1601_1]，每消耗1层提升友方全体20%攻击(（至多叠加10层）)，持续2回合。当消耗的[buff_1601_1]不少于6层时，解除友方全体[tips_3]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tăng Tấn Công tăng lên 13%",
+            "en": "Increases the ATK by 13%.",
+            "zh": "攻击提升增至13%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Tăng Tấn Công tăng lên 16%",
+            "en": "Increases the ATK by 16%.",
+            "zh": "攻击提升增至16%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tấn công tăng đến 20%",
+            "en": "Increases the ATK boost to 20%.",
+            "zh": "攻击提升增至20%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Số hiệp duy trì tăng lên 2",
+            "en": "Increases duration to 2 turns.",
+            "zh": "持续回合增至2"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1603.png"
+    },
+    {
+      "id": 1604,
+      "number": 4,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phá Trận Tấu Khúc",
+        "en": "Frontbreach Prelude",
+        "zh": "破阵奏曲"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Linh lực ngón tay rót vào dây đàn, huyễn hóa thành âm nhẫn. Tấn công mục tiêu kẻ địch 2 lần, mỗi lần gây sát thương bằng 80% Tấn công và đẩy lùi 5% Thanh Hành Động của kẻ đó; sau đó phát động tấn công vận lực lên mục tiêu, gây sát thương bằng 240% Tấn công và đẩy lùi 20% Thanh Hành Động của kẻ đó. Khi thi triển nhận 1 tầng [buff_1601_1].",
+        "en": "Channel spiritual energy into the strings—manifesting sonic blades. Attacks an enemy target 2 times, each dealing damage equal to 80% of ATK and lowering the target's Move Bar by 5%; then launches a Charged Attack against the target, dealing damage equal to 240% of ATK and lowering their Move Bar by 20%. Gains 1 stack of [buff_1601_1] when cast.",
+        "zh": "指尖灵力注入琴弦，幻化音刃。攻击敌方目标2次，每次造成攻击80%伤害并击退其5%行动条；随后对目标发动蓄力攻击，造成攻击240%伤害并击退其20%行动条。施放时获得1层[buff_1601_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tấn công vận lực tăng lên 200%",
+            "en": "Increases Charged Attack damage to 200%.",
+            "zh": "蓄力攻击Sát thương tăng lên 200%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi thi triển nhận 1 tầng [buff_1601_1]",
+            "en": "Gains 1 stack of [buff_1601_1] when cast.",
+            "zh": "施放时获得1层[buff_1601_1]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tấn công vận lực tăng lên 240%",
+            "en": "Increases Charged Attack damage to 240%.",
+            "zh": "蓄力攻击Sát thương tăng lên 240%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Hiệu ứng đẩy lùi Thanh Hành Động của tấn công vận lực tăng lên 20%",
+            "en": "Charged Attack lowers the target's Move Bar by 20%.",
+            "zh": "蓄力攻击击退行动条效果增至20%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1604.png"
+    },
+    {
+      "id": 1605,
+      "number": 5,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Chư Luật Tinh Thông",
+        "en": "Rhythm Mastery",
+        "zh": "诸律精通"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Thuật pháp nương theo âm luật bao quanh bên người. Miễn nhiễm hiệu ứng đẩy lùi Thanh Hành Động. Khi lượt của bản thân bắt đầu nhận 1 tầng [buff_1601_1], mỗi khi nhận 1 tầng [buff_1601_1], tăng vĩnh viễn 8 điểm Tốc độ cho bản thân và 8% Sát Thương Bạo Kích cho toàn bộ phe ta, giới hạn cộng dồn bằng giới hạn số tầng [buff_1601_1]. \nKhi chịu hiệu ứng đẩy lùi Thanh Hành Động trước khi lượt của bản thân bắt đầu, lần lượt nhận 1, 2, 3 tầng [buff_1601_1] (tối đa 3 lần).",
+        "en": "Spells dance to the rhythm around him. Immune to Move Bar lowering effects. At the start of his own turn, gains 1 stack of [buff_1601_1]. For each stack of [buff_1601_1] gained, permanently increases his own SPD by 8 and all allies' Crit DMG by 8%, with stacking limit equal to [buff_1601_1]'s max stacks. Before his turn starts, when inflicted by Move Bar lowering effects, gains 1/2/3 stacks of [buff_1601_1] in sequence (up to 3 times).",
+        "zh": "术法随音律环绕身侧。免疫行动条击退效果。自身回合开始时获得1层[buff_1601_1]，每获得1层[buff_1601_1]，永久提升自身8点速度与友方全体8%暴击伤害，叠加上限等同于[buff_1601_1]层数上限。自身回合开始前受到行动条击退效果时，依次获得1、2、3层[buff_1601_1]（至多3次）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tốc độ tăng thêm tăng lên 8 điểm",
+            "en": "Increases the SPD by 8.",
+            "zh": "提升的速度增至8点"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi chịu hiệu ứng đẩy lùi Thanh Hành Động trước khi lượt của bản thân bắt đầu, lần lượt nhận 1, 2, 3 tầng [buff_1601_1] (tối đa 3 lần)",
+            "en": "Before his turn starts, when inflicted by Move Bar lowering effects, gains 1/2/3 stacks of [buff_1601_1] in sequence (up to 3 times).",
+            "zh": "自身回合开始前受到行动条击退效果时，依次获得1、2、3层[buff_1601_1]（至多3次）"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát Thương Bạo Kích tăng thêm tăng lên 8%",
+            "en": "Increases the Crit DMG by 8%.",
+            "zh": "提升的暴击伤害增至8%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Giới hạn Luật Âm tăng lên 10",
+            "en": "Increases the Melodic Note max stacks to 10.",
+            "zh": "律音上限增至10"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1605.png"
+    },
+    {
+      "id": 1606,
+      "number": 6,
+      "defaultEquipped": false,
+      "maxLevel": 6,
+      "name": {
+        "vi": "Dư Âm Nhập Mộng",
+        "en": "Dream Echoes",
+        "zh": "余音入梦"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Đã đến lúc bước vào giấc mơ để phó ước rồi. Sau khi chịu sát thương chí tử, gỡ bỏ toàn bộ trạng thái bất lợi của bản thân và hóa thành [tips_1606] lưu lại trên sân, số hiệp duy trì bằng với số Thức thần đồng minh còn sống trên sân hiện tại. Khi kích hoạt nhận 6 tầng [buff_1601_1].",
+        "en": "Time to fulfill the promise in the dream. Upon receiving lethal damage, removes all debuffs and transforms into [tips_1606] remaining on the field for a number of turns equal to the current number of surviving allied shikigami. Gains 6 stacks of [buff_1601_1] when triggered.",
+        "zh": "该去梦境之中赴约了。受到致命伤害后，移除自身所有减益并化为[tips_1606]留存于场上，持续回合数等同于当前场上存活友方式神数。 触发时获得6层[buff_1601_1]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi kích hoạt nhận 1 tầng [buff_1601_1]",
+            "en": "Gains 1 stack of [buff_1601_1] when triggered.",
+            "zh": "触发时获得1层[buff_1601_1]"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi kích hoạt nhận 2 tầng [buff_1601_1]",
+            "en": "Gains 2 stacks of [buff_1601_1] when triggered.",
+            "zh": "触发时获得2层[buff_1601_1]"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi kích hoạt nhận 3 tầng [buff_1601_1]",
+            "en": "Gains 3 stacks of [buff_1601_1] when triggered.",
+            "zh": "触发时获得3层[buff_1601_1]"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi kích hoạt nhận 4 tầng [buff_1601_1]",
+            "en": "Gains 4 stacks of [buff_1601_1] when triggered.",
+            "zh": "触发时获得4层[buff_1601_1]"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1606.png"
+    },
+    {
+      "id": 1607,
+      "number": 7,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thần Điểu Kinh Huyền",
+        "en": "Sonic Featherstring",
+        "zh": "神鸟惊弦"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "[tips_1603] \nBát Chỉ Ô hiển thần uy, tiêu hao 3 tầng [buff_1601_1], đẩy lùi 50% Thanh Hành Động của mục tiêu kẻ địch chỉ định và đính kèm [tips_114], duy trì 1 lượt, giảm thêm 50% Tấn công ban đầu và Phòng thủ ban đầu của mục tiêu, duy trì 2 lượt.",
+        "en": "[tips_1603]. Yatagarasu displays its divine might, consuming 3 stacks of [buff_1601_1], lowering the selected enemy target's Move Bar by 50% and inflicting [tips_114] for 1 turn. Additionally reduces the target's starting ATK and DEF by 50% for 2 turns.",
+        "zh": "[tips_1603]。八咫乌尽显神威，消耗3层[buff_1601_1]，击退指定敌方目标50%行动条并施加[tips_114]，持续1回合，额外降低目标50%初始攻击与初始防御，持续2回合。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Giảm thêm 25% Tấn công ban đầu của mục tiêu, duy trì 2 lượt",
+            "en": "Additionally reduces the target's starting ATK by 25% for 2 turns.",
+            "zh": "额外降低目标25%初始攻击，持续2回合"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Giảm thêm 25% Phòng thủ ban đầu của mục tiêu, duy trì 2 lượt",
+            "en": "Additionally reduces the target's starting DEF by 25% for 2 turns.",
+            "zh": "额外降低目标25%初始防御，持续2回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Giảm Tấn công ban đầu tăng lên 50%",
+            "en": "Reduces the starting ATK by 50%.",
+            "zh": "初始攻击降低增至50%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Giảm Phòng thủ ban đầu tăng lên 50%",
+            "en": "Reduces the starting DEF by 50%.",
+            "zh": "初始防御降低增至50%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1607.png"
+    },
+    {
+      "id": 1608,
+      "number": 8,
+      "defaultEquipped": false,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Điều Luật Nhuận Tâm",
+        "en": "Harmonious Tuning",
+        "zh": "调律润心"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Khúc nhạc êm dịu có công dụng an thần. Cứ tiêu hao 1 tầng [buff_1601_1], tăng 5% thanh hành động cho bản thân và thức thần đồng minh ở vị trí đầu tiên của thanh hành động.\nKhi thức thần địch thi triển yêu thuật, tăng 10% thanh hành động cho bản thân.",
+        "en": "The pleasant melody has a soothing effect. For each stack of [buff_1601_1] consumed, raises the Move Bar of his own and the allied shikigami at the top of the turn order by 5%; when an enemy shikigami casts a skill, raises his own Move Bar by 10%.",
+        "zh": "怡人乐曲有着安神功效。每消耗1层[buff_1601_1]，提升自身以及行动条最前端的友方式神5%行动条；敌方式神施放妖术时，提升自身10%行动条。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "1608.png"
+    }
+  ]
+}

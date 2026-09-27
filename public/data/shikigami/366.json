@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,7 +125,7 @@
         "zh": "我再也不会把自己弄丢了。"
       },
       "description": {
-        "vi": "Khi mục tiêu không phải vật triệu hồi tử trận, ngưng tụ linh hồn của chúng hóa thành [buff_3661_1]. Khi chịu sát thương chí mạng, bước vào tư thế [buff_3664_1].\n[Thi triển] Có thể [Thi Triển] khi tích lũy thu thập không ít hơn 4 tấm [buff_3661_1], gỡ bỏ Nhất Tuyến Mục của mục tiêu kẻ địch, bước vào tư thế [buff_3664_1]. Sau khi [Thi Triển] nhận lượt mới.",
+        "vi": "Khi mục tiêu không phải vật triệu hồi tử trận, ngưng tụ linh hồn của chúng hóa thành [buff_3661_1]. Khi chịu sát thương chí tử, bước vào tư thế [buff_3664_1].\n[Thi triển] Có thể [Thi Triển] khi tích lũy thu thập không ít hơn 4 tấm [buff_3661_1], gỡ bỏ Nhất Tuyến Mục của mục tiêu kẻ địch, bước vào tư thế [buff_3664_1]. Sau khi [Thi Triển] nhận lượt mới.",
         "en": "When a non-summoned entity is KO'd, converges their soul into a [buff_3661_1]. When she takes lethal damage, she becomes [buff_3664_1].\nActive skill: Can use when she has collected at least 4 [buff_3661_1]s. Removes the Watchful Eye on the enemy and she becomes [buff_3664_1]. Grants a new turn after using the skill.",
         "zh": "非召唤物的目标阵亡时，凝聚其灵魂化作[buff_3661_1]。受到致命伤害时，进入[buff_3664_1]姿态。\n【施放】累计收集不少于4张[buff_3661_1]时可施放，移除敌方目标的一线目，进入[buff_3664_1]姿态。施放后获得新回合。"
       },

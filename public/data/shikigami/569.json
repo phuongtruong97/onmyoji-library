@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,7 +125,7 @@
         "zh": "欢迎光临。"
       },
       "description": {
-        "vi": "Khi đồng minh đi qua [tips_5691] tận hưởng trị liệu suối nước nóng: Hồi phục lượng HP bằng 98% Tấn công của Miêu Xuyên và có 100% xác suất xua tan 1 trạng thái giảm ích hoặc [tips_3], ưu tiên xua tan hiệu ứng khống chế. Khi bản thân đi qua suối nước nóng, lượng hồi phục nhận được tăng gấp đôi.",
+        "vi": "Khi đồng minh đi qua [tips_5691] tận hưởng trị liệu suối nước nóng: Hồi phục lượng HP bằng 98% Tấn công của Miêu Xuyên và có 100% xác suất xua tan 1 trạng thái debuff hoặc [tips_3], ưu tiên xua tan hiệu ứng khống chế. Khi bản thân đi qua suối nước nóng, lượng hồi phục nhận được tăng gấp đôi.",
         "en": "When an ally passes through the [tips_5691], they enjoy healing from the hot spring: Recovers their HP by 98% of Nekogawa's ATK, with a 100% chance of dispelling 1 debuff or [tips_3] from them, prioritizing the controlling effect. When Nekogawa himself passes through the hot spring, doubles the recovery he receives instead.",
         "zh": "友方经过[tips_5691]时享受温泉疗愈：恢复猫川攻击98%的生命并有100%概率驱散1个减益状态或[tips_3]，优先驱散控制效果。自身经过温泉时，获得的恢复量翻倍。"
       },

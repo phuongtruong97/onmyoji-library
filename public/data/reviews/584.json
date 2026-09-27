@@ -1,0 +1,105 @@
+{
+  "shikigamiId": 584,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực PvP có miễn khống chế mở trận, tự tăng tốc–giảm sát thương và khóa toàn trường trong lúc tung đại chiêu ngoài lượt",
+  "summary": "《Thời Diệu Lang Dạ Xoa Cơ》 bắt đầu với 3 tầng {+Hồi Tố}; khi đủ 3 tầng, cô miễn khống chế và Trục Xuất. Mỗi khi tổng HP đã mất chạm thêm 25%, cô tiêu một tầng, nhận 25% giảm sát thương và 25 Tốc độ trong 1 lượt; sau khi đã tiêu tổng cộng 3 tầng, cô hồi đầy HP và khi đánh quái còn tự dùng thêm [Diệu Thời Chi Lữ]. [Tẫn Thời Chi Trảm] tốn 3 Quỷ Hỏa, đánh đơn mục tiêu 3 lần rồi tiêu một tầng để đánh toàn thể 3 lần. Nếu thi triển trong {+Khe Hở Thời Gian}, sát thương tăng 45% và mọi đơn vị khác bị đặt vào {−Thời Tịch Chi Khắc} trong thời gian ra chiêu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4.5,
+      "note": "Hoạt ảnh dài và sát thương ngoài lượt không tận dụng được nhiều buff PvE thông thường."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5.5,
+      "note": "Có tự hồi và nhiều hit nhưng hiệu suất thấp hơn chủ lực boss chuyên dụng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Chủ lực tăng tiến dùng {+Hồi Tố} để mở {+Khe Hở Thời Gian}, vừa bền vừa khóa phản kích; sợ sát thương bùng nổ vượt mốc trước khi tích đủ phòng thủ."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Thiên PvP và đòi hỏi bộ Ngự Hồn, tốc độ cùng quản lý Quỷ Hỏa tốt."
+    }
+  ],
+  "strengths": [
+    "Ba tầng {+Hồi Tố} mở trận giúp cô miễn hiệu ứng khống chế và Trục Xuất trước khi tầng bị tiêu hao.",
+    "Mỗi tầng bị tiêu tăng 25 Tốc độ và 25% giảm sát thương, tối đa 3 tầng; tiêu tổng cộng 3 tầng còn hồi đầy HP.",
+    "[Tẫn Thời Chi Trảm] kết hợp 3 hit đơn mục tiêu với 3 hit toàn thể, tạo áp lực cả lên chủ lực lẫn toàn đội địch.",
+    "Trong {+Khe Hở Thời Gian}, đại chiêu tăng 45% sát thương và {−Thời Tịch Chi Khắc} khiến mọi mục tiêu khác không hành động, không gây sát thương và mất hiệu ứng Ngự Hồn trong lúc chiêu diễn ra."
+  ],
+  "weaknesses": [
+    "Đại chiêu tốn 3 Quỷ Hỏa; hành động trong {+Khe Hở Thời Gian} được tính ngoài lượt nên không đẩy thanh Quỷ Hỏa.",
+    "Khi các tầng {+Hồi Tố} bị tiêu, cô dần mất điều kiện miễn khống chế và Trục Xuất.",
+    "Sát thương ngoài lượt không nhận mọi loại buff giới hạn trong lượt, nên phải kiểm tra tương tác từng đội thay vì cộng máy móc.",
+    "PvE có hoạt ảnh dài và hiện không có việc làm nổi bật so với các chủ lực farm/boss chuyên dụng."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Bộ kỹ năng có nhiều hit và khả năng tự hồi, nhưng mục tiêu chính vẫn là PvP. Nguồn tổng hợp nuôi dưỡng năm 2026 ghi nhận cô không nổi bật ở cả PvE ngắn lẫn dài vì hoạt ảnh, hệ số thực chiến và hạn chế của sát thương ngoài lượt.",
+        "Nếu dùng ở màn đặc thù cho phép hành động ngoài lượt, phải bảo đảm còn 3 Quỷ Hỏa khi cô vào {+Khe Hở Thời Gian}; nguồn lửa thông qua thanh hành động sẽ không tự tiến trong lượt ngoài lượt này."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Thời Diệu Lang Dạ Xoa Cơ》 xoay quanh {+Hồi Tố}. [Diệu Thời Chi Lữ] làm mới tài nguyên, còn [Tẫn Thời Chi Trảm] trong {+Khe Hở Thời Gian} gây sát thương mà {−Thời Tịch Chi Khắc} ngăn phản kích, phản sát thương và nhiều hiệu ứng Ngự Hồn từ các mục tiêu khác. Điều này giúp cô đánh vào đội phản công hoặc đội dựa vào hiệu ứng bị động an toàn hơn chủ lực thông thường. Video phân tích năm 2026 tiếp tục nhấn mạnh khả năng vừa gây sát thương vừa tự duy trì qua nhiều chu kỳ.",
+        "Độ bền của cô tăng theo quá trình bị bào máu, không phải miễn chết tuyệt đối. Một đòn bùng nổ vượt qua các mốc trước khi cô tích đủ giảm sát thương vẫn có thể hạ cô. Nếu bị khóa [Diệu Thời Chi Lữ], ép tiêu {+Hồi Tố} sai nhịp hoặc cô không vào được Khe Hở, sát thương và phòng thủ cùng giảm. Đội dùng cô cần chấp nhận lối đánh nhiều lượt thay vì mong một lần đại chiêu kết thúc trận."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP sát thương tăng dần: 〈Ẩn Niệm〉; Tốc độ – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích. Cấu hình nhanh thường nhắm trên 200 Tốc; cấu hình sát thương có thể giảm tốc tùy đội kéo lượt.",
+        "Phá Lá chắn/bùng nổ: 〈Hải Nguyệt Hỏa Ngọc〉 hoặc 〈Võng Thiết〉; Tốc độ/Công – Công – Bạo kích/Sát thương bạo kích. 〈Hải Nguyệt Hỏa Ngọc〉 có thể làm tổng chi phí tăng thêm 1 Quỷ Hỏa, nên chỉ dùng khi đội bảo đảm lửa. Phòng thủ đối sách: 〈Ác Lâu〉 hoặc 〈Thanh Nữ Phòng〉."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "时曜泷夜叉姬",
+      "publisher": "阴阳师灰机WIKI",
+      "url": "https://yys.huijiwiki.com/wiki/时曜泷夜叉姬",
+      "usedFor": "đối chiếu Hồi Tố, Khe Hở Thời Gian, số hit và trị số kỹ năng hiện hành"
+    },
+    {
+      "title": "时曜泷夜叉姬强度与御魂",
+      "publisher": "700G手游网",
+      "url": "https://www.700g.com/zixun03/222328.html",
+      "usedFor": "đối chiếu vận hành PvP, giới hạn Quỷ Hỏa ngoài lượt và các bộ Ẩn Niệm/Hải Nguyệt/Võng Thiết/Ác Lâu/Thanh Nữ Phòng",
+      "publishedAt": "14/09/2025"
+    },
+    {
+      "title": "时曜泷夜叉姬首周斗技实战",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1qRjxzbEWY/",
+      "usedFor": "đối chiếu thực chiến đội hậu thủ và cấu hình phòng thủ PvP",
+      "publishedAt": "24/05/2025"
+    },
+    {
+      "title": "网易游戏大全与式神培养建议",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2608/1797493.html",
+      "usedFor": "đối chiếu việc làm PvP/Đạo Quán và mức ưu tiên thấp cho người mới/PvE",
+      "publishedAt": "2026"
+    },
+    {
+      "title": "时曜泷夜叉姬机制与实战解析",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV11GGN6XEuM/",
+      "usedFor": "đối chiếu Hồi Tố, Khe Hở Thời Gian và độ bền PvP",
+      "publishedAt": "31/07/2026"
+    }
+  ]
+}

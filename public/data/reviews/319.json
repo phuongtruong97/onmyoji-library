@@ -1,0 +1,79 @@
+{
+  "shikigamiId": 319,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Đơn thể burst kèm cấm nhận buff và phong ấn, có cơ chế hay nhưng hiện chỉ là lựa chọn PvP ngách",
+  "summary": "《Cát Cánh》 dùng [Phá Ma Chi Tiễn] gây sát thương đơn thể hệ số 302% và gắn {−Phá Ma}, khiến mục tiêu không thể nhận buff/dấu ấn; đòn tiếp theo lên cùng mục tiêu được tăng 100% sát thương. Nếu Phá Ma bị xua tan, mục tiêu nhận {−Phong Ấn Tứ Hồn}, vô hiệu ngự hồn và nội tại hai lượt. Cô có thể ép đối thủ chọn giữa giữ debuff và giải để bị phong ấn, nhưng cần hai lượt tấn công và hiện không còn việc làm ổn định.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4.5,
+      "note": "Burst đơn thể tốt nhưng phần cấm buff/phong ấn ít giá trị."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5,
+      "note": "Đòn thứ hai mạnh hơn nhưng thiếu tăng tiến cho boss."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6,
+      "note": "Cấm nhận buff và trừng phạt giải hiệu ứng tạo áp lực chiến thuật."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 3,
+      "note": "Crossover khó sở hữu và không nên ưu tiên tài nguyên."
+    }
+  ],
+  "strengths": [
+    "[Phá Ma Chi Tiễn] có hệ số cao và tăng gấp đôi sát thương lên mục tiêu đang mang {−Phá Ma}.",
+    "{−Phá Ma} ngăn mục tiêu nhận buff hoặc dấu ấn mới.",
+    "Nếu Phá Ma bị xua tan, mục tiêu bị vô hiệu ngự hồn và nội tại hai lượt."
+  ],
+  "weaknesses": [
+    "Cần đánh lại cùng mục tiêu để tận dụng tăng 100% sát thương.",
+    "Debuff chịu kiểm tra Hiệu quả chính xác và có thể bị kháng.",
+    "Lá chắn cá nhân dựa trên Tấn công không đủ thay thế bảo vệ từ đồng đội."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Có thể làm sát thương đơn thể chuyển tiếp, nhưng boss thường không cho phần khống chế cơ chế phát huy. Không có lý do đầu tư cô trước chủ lực PvE hiện đại."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Cô gây áp lực lên đội phụ thuộc buff: giữ {−Phá Ma} thì không nhận được buff mới, còn xua tan sẽ bị phong ấn ngự hồn/nội tại. Cần đồng đội kéo lượt hoặc cho hành động lại để tận dụng đòn thứ hai tăng sát thương."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Burst mục tiêu đầy HP: 〈Phá Thế〉; Công/Tốc độ – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích.",
+        "Đánh mục tiêu phòng thủ cao hoặc cần hành động lại: 〈Võng Thiết〉 hoặc 〈Luân Nhập Đạo〉; Tốc độ/Công – Công – Bạo kích. Nếu ưu tiên debuff, phản thêm Hiệu quả chính xác."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "桔梗の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/%E9%99%B0%E9%99%BD%E5%B8%AB/%E5%BC%8F%E7%A5%9E/%E6%A1%94%E6%A2%97.html",
+      "usedFor": "đối chiếu vai trò, Phá Thế/Võng Thiết/Luân Nhập Đạo và giới hạn hiện tại"
+    },
+    {
+      "title": "体验服10.10更新内容介绍",
+      "publisher": "九游",
+      "url": "https://www.9game.cn/news/2544351.html",
+      "usedFor": "đối chiếu thay đổi tăng sát thương lên mục tiêu Phá Ma"
+    }
+  ]
+}

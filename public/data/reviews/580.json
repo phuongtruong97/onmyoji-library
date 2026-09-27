@@ -1,0 +1,97 @@
+{
+  "shikigamiId": 580,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ chuyên đội sát thương gián tiếp, vừa nhân thêm sát thương cho chủ lực Công cao nhất vừa dùng Năng Lượng Cầu Vòng để đỡ đòn và hồi đội",
+  "summary": "《Tình Tư Nhật Hòa Phường》 không có cơ chế hồi sinh của bản thường. Cô tích {+Năng Lượng Cầu Vòng} bằng 30% sát thương đồng minh gây ra, tối đa 2400% Công ban đầu; nguồn năng lượng này tự đỡ sát thương cho cô và đồng minh Công cao nhất, đồng thời hồi tối đa 3 đồng minh dưới 70% HP trước lượt của cô. [Tình Nhật Hoa Quang] tốn 2 Quỷ Hỏa và có Tiên Cơ lên đồng minh Công cao nhất, cấp {+Búp Bê Cầu Mưa}: mỗi lần người đó gây sát thương gián tiếp sẽ phát sinh thêm một đòn gián tiếp bằng 15% sát thương vừa gây.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7,
+      "note": "Tiên Cơ cấp ngay hiệu ứng nhân sát thương gián tiếp, nhưng chỉ hợp đúng loại chủ lực."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Tích năng lượng nhanh trong đội gây nhiều sát thương, vừa tăng damage vừa duy trì hồi phục."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6.5,
+      "note": "Bảo vệ chủ lực và hồi đội tốt, nhưng hiệu ứng chính phụ thuộc sát thương gián tiếp."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5.5,
+      "note": "Không phải hồi sinh phổ dụng; chỉ đáng ưu tiên khi đã có đội sát thương gián tiếp phù hợp."
+    }
+  ],
+  "strengths": [
+    "[Tình Nhật Hoa Quang] có Tiên Cơ, tự chọn đồng minh Công ban đầu cao nhất và cấp ngay {+Búp Bê Cầu Mưa} cùng 720% Công ban đầu năng lượng.",
+    "{+Búp Bê Cầu Mưa} tạo thêm sát thương gián tiếp bằng 15% đòn vừa gây, giới hạn 4000% Công ban đầu của cô cho mỗi lần.",
+    "{+Năng Lượng Cầu Vòng} tự đỡ tối đa 90% Công ban đầu sát thương cho cô và 60% cho đồng minh Công cao nhất mỗi lần chịu đòn.",
+    "Khi mục tiêu mang Búp Bê gây hoặc chịu sát thương, cô hồi ba đồng minh thấp HP nhất bằng 120% Công ban đầu, tối đa 4 lần trước lượt kế tiếp."
+  ],
+  "weaknesses": [
+    "Không hồi sinh đồng minh; người chơi không nên áp dụng cách dùng của 《Nhật Hòa Phường》 thường cho phiên bản này.",
+    "Giá trị tăng sát thương chỉ xuất hiện khi mục tiêu được chọn gây sát thương gián tiếp; đội sát thương trực tiếp hưởng chủ yếu phần hồi và đỡ đòn.",
+    "Tiên Cơ chọn theo Công ban đầu cao nhất, nên sai chỉ số sẽ đặt {+Búp Bê Cầu Mưa} nhầm mục tiêu.",
+    "Đỡ sát thương, hồi máu và đòn phụ đều tiêu hoặc phụ thuộc lượng {+Năng Lượng Cầu Vòng}; nguồn tích không đủ sẽ làm toàn bộ bộ kỹ năng yếu đi."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Cô là mảnh ghép cho đội sát thương gián tiếp, đặc biệt khi đồng minh Công cao nhất là chủ lực như 《Không Tương Diện Linh Khí》. Tiên Cơ không tốn lượt mở màn và đòn phụ 15% được tính từ sát thương gián tiếp thực tế, nên giá trị tăng theo chất lượng chủ lực.",
+        "Cứ tích đủ 600% Công ban đầu năng lượng, cô nhận một {+Búp Bê Cầu Nắng}, tối đa 3. Trước lượt của hai phe, mỗi búp bê có thể giải một hiệu ứng Đóng Băng cho đồng minh; đây là tiện ích tình huống, không phải giải khống chế toàn diện."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Khả năng lấy năng lượng để đỡ đòn cho chính mình và chủ lực Công cao nhất giúp chống dồn sát thương, còn các lần hồi ba mục tiêu tạo độ bền cho đội. Tuy nhiên cô không có hồi sinh và không tự giải đa số khống chế, nên không thay thế trực tiếp vai trò cứu người của Nhật Hòa Phường thường."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE hỗ trợ sát thương gián tiếp: 〈Hỏa Linh〉 hoặc ba bộ 2 món tăng Công; Công – Công – Công, ưu tiên Công ban đầu vì giới hạn đòn phụ, lượng năng lượng, đỡ đòn và hồi máu đều quy đổi theo chỉ số này.",
+        "Trận dài cần thêm lửa: 〈Chiêu Tài Miêu〉; Tốc độ/Công – Công – Công. PvP phòng thủ: 〈Mộc Mị〉; Tốc độ/Công – Công – HP/Công. Không dùng cấu hình HP–Bạo kích của 《Nhật Hòa Phường》 thường vì kỹ năng SP không hồi theo HP và không nêu cơ chế hồi chí mạng."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "晴思日和坊",
+      "publisher": "阴阳师WIKI_BWIKI",
+      "url": "https://wiki.biligame.com/yys/晴思日和坊",
+      "usedFor": "đối chiếu hồ sơ và bộ kỹ năng sau các đợt chỉnh sửa",
+      "publishedAt": "07/08/2026 cập nhật"
+    },
+    {
+      "title": "7月23日体验服更新：晴思日和坊技能调整",
+      "publisher": "17173",
+      "url": "https://news.17173.com/content/07232025/183302043.shtml",
+      "usedFor": "xác nhận các thay đổi đối với đỡ sát thương và Búp Bê Cầu Nắng",
+      "publishedAt": "23/07/2025"
+    },
+    {
+      "title": "SP晴思日和坊：PVE套娃队又一员",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1KVc6enEsx/",
+      "usedFor": "đối chiếu vai trò thực chiến trong đội sát thương gián tiếp và tương tác với Không Tương Diện Linh Khí"
+    },
+    {
+      "title": "晴思日和坊技能介绍",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2501/1597975.html",
+      "usedFor": "đối chiếu nền tảng cơ chế Năng Lượng Cầu Vòng và Búp Bê Cầu Mưa trước điều chỉnh",
+      "publishedAt": "15/01/2025"
+    }
+  ]
+}

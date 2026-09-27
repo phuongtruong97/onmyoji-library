@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 563,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ đa dụng thiên PvE: tăng công, kéo thanh/tăng tốc hoặc cấp Quỷ Hỏa theo từng đội hình",
+  "summary": "《Hatsune Miku》 là hỗ trợ linh hoạt, chọn một trong ba biến thể của [Âm Chi Vũ Khúc]: tăng 39% Tấn công ban đầu, kéo 25% thanh hành động kèm 39 Tốc độ, hoặc nhận 8 Quỷ Hỏa. Đồng minh dùng kỹ năng còn khiến cô biểu diễn, đổi 1 Quỷ Hỏa lấy 10% tăng sát thương kỹ năng. Cô đặc biệt mạnh trong đội PvE cần vượt ngưỡng sát thương hoặc tối ưu lượt, nhưng phải chọn đúng khúc nhạc và kiểm soát Quỷ Hỏa.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Ba chế độ hỗ trợ giải trực tiếp bài toán sát thương, tốc độ hoặc Quỷ Hỏa của đội hình tốc chiến."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8,
+      "note": "Khuếch đại kỹ năng ổn định và Tiết Tấu giúp giảm áp lực tài nguyên, nhưng Biểu Diễn tiêu lửa liên tục."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7,
+      "note": "Có kéo thanh, tăng tốc và cấp lửa linh hoạt, song thiếu giải khống chế và dễ bị khóa nhịp bởi khống chế."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Dễ ghép vào nhiều đội PvE; cần nâng đủ kỹ năng 3 để đạt đúng các mốc 39%/39 Tốc độ/8 lửa."
+    }
+  ],
+  "strengths": [
+    "[Âm Chi Vũ Khúc · Tự Mạc] tăng 39% Tấn công ban đầu cho toàn đội trong 2 lượt.",
+    "[Âm Chi Vũ Khúc · Trung Mạc] kéo 25% thanh hành động và cấp 39 Tốc độ trong 1 lượt.",
+    "[Âm Chi Vũ Khúc · Thịnh Mạc] cung cấp 8 Quỷ Hỏa; từ cấp 5 ưu tiên dùng {+Tiết Tấu} thay Quỷ Hỏa khi thi triển.",
+    "[Biểu Diễn] tăng 10% sát thương kỹ năng của đồng minh mỗi lần kích hoạt."
+  ],
+  "weaknesses": [
+    "[Biểu Diễn] tiêu 1 Quỷ Hỏa mỗi lần đồng minh dùng kỹ năng, có thể phá vòng lửa nếu đội không đủ nguồn cung.",
+    "Ba hiệu ứng của kỹ năng 3 loại trừ nhau ở mỗi lần dùng; chọn sai khúc nhạc làm giảm mạnh hiệu quả đội hình.",
+    "Bị khống chế sẽ không thể biểu diễn; giá trị PvP phụ thuộc nhiều vào tốc độ và khả năng bảo vệ của đội."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Trong đội tốc chiến, chọn [Âm Chi Vũ Khúc · Tự Mạc] khi thiếu ngưỡng sát thương, [Âm Chi Vũ Khúc · Trung Mạc] khi cần vượt tốc/kéo lượt, hoặc [Âm Chi Vũ Khúc · Thịnh Mạc] khi vòng kỹ năng thiếu Quỷ Hỏa. Đây là ba công cụ khác nhau, không nên mặc định một chế độ cho mọi phó bản.",
+        "Mỗi lần đồng minh dùng kỹ năng, [Biểu Diễn] tăng 10% sát thương nhưng lấy 1 Quỷ Hỏa. Hãy tính cả chi phí này khi thiết kế đội tự động; {+Tiết Tấu} tích từ đánh thường vừa tăng Tốc độ bản thân vừa có thể thay lửa cho kỹ năng 3 sau khi nâng tối đa."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Khúc Trung Mạc tạo nhịp mở giao tranh bằng kéo thanh và tăng tốc; Thịnh Mạc cứu vòng tài nguyên; Tự Mạc hỗ trợ dồn sát thương. Tuy nhiên cô không tự giải khống chế, nên cần đội hình bảo vệ hoặc kháng khống chế đủ tốt."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE tốc chiến: 〈Hỏa Linh〉 hoặc bộ hỗ trợ theo yêu cầu đội; Tốc độ – Tấn công – Tấn công, chỉnh tốc để cô hành động trước chủ lực. Nếu chỉ cần chỉ số và đội đã đủ lửa, có thể dùng ba bộ 2 món Tấn công.",
+        "PvP: 〈Chiêu Tài Miêu〉, 〈Hỏa Linh〉 hoặc 〈Cộng Tiềm〉; Tốc độ – HP/Kháng – HP. Ưu tiên Tốc độ, HP và Kháng hiệu ứng; chọn bộ theo nguồn lửa và nhu cầu giải debuff của đội."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "初音ミクの評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/304583391569784696.html",
+      "usedFor": "đối chiếu ba biến thể kỹ năng 3, các mốc tăng công, kéo thanh/tăng tốc và 8 Quỷ Hỏa"
+    },
+    {
+      "title": "阴阳师初音未来技能、就业及御魂分析",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1EZ42127Bc/",
+      "usedFor": "đối chiếu vai trò tăng sát thương PvE và tính đa dụng trong PvP"
+    }
+  ]
+}

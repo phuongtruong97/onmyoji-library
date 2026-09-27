@@ -1,0 +1,88 @@
+{
+  "shikigamiId": 369,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ cốt lõi cho sát thương ngoài lượt và đội hiệp chiến; PvE lẫn PvP đều có giá trị nhưng phụ thuộc đúng đồng đội",
+  "summary": "《Thực Linh》 tăng 50% sát thương gây ngoài lượt cho toàn đội bằng [Nhiệt Lãng], đồng thời cho đồng minh có Sát thương bạo kích ban đầu cao nhất thêm xác suất hiệp chiến. [Mơ Ước Mỹ Vị] đặt một đồng minh vào trạng thái dùng bữa, sau đó hồi phục cả đội và phát nổ lượng sát thương đã ghi nhận. Anh đặc biệt mạnh khi ghép với chủ lực phản kích, hiệp chiến hoặc tự gây sát thương ngoài lượt; nếu đội chỉ đánh trong lượt, phần lớn giá trị bị bỏ phí.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8.5,
+      "note": "Khuếch đại sát thương ngoài lượt và hỗ trợ các đội Ngự Hồn tốc chiến."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8,
+      "note": "Ghi nhận sát thương, hồi đội và khuếch đại hiệp chiến ổn định."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Là lõi của một số đội hiệp chiến, phản kích và đánh thường."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Rất mạnh khi đã có chủ lực tương thích; tự đứng riêng không giải quyết việc farm."
+    }
+  ],
+  "strengths": [
+    "[Nhiệt Lãng] tăng 50% sát thương ngoài lượt cho toàn đội.",
+    "Tăng 30% xác suất hiệp chiến cho đồng minh có Sát thương bạo kích ban đầu cao nhất.",
+    "[Mơ Ước Mỹ Vị] vừa giảm sát thương gánh chịu, hồi đội, vừa tạo đòn nổ bỏ qua Phòng thủ."
+  ],
+  "weaknesses": [
+    "Phụ thuộc chủ lực có hiệp chiến, phản kích hoặc sát thương ngoài lượt để phát huy đầy đủ.",
+    "Nội tại bị phong ấn sẽ mất phần tăng sát thương và hiệp chiến quan trọng nhất.",
+    "Cần căn Sát thương bạo kích ban đầu để hiệu ứng hiệp chiến chọn đúng đồng minh."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Anh thường đứng sau chủ lực và dùng [Mơ Ước Mỹ Vị] lên đơn vị gây lượng sát thương lớn trong lượt. Đòn nổ sau đó bỏ qua Phòng thủ, không bạo kích và không kích hoạt ngự hồn/nội tại hai bên, nên đội cần căn chính xác mục tiêu được cho ăn.",
+        "Trong đội hiện đại có nguồn lửa ổn định, 〈Đồ Phật〉 với Công cao vừa bổ sung tăng sát thương toàn đội vừa nâng phần sát thương của anh. 〈Hỏa Linh〉 dùng khi đội cần lửa mở màn; một số đội tốc chiến chỉ cần đúng bộ hỗ trợ, không cần anh gây sát thương."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Phù hợp đội hiệp chiến/đánh thường như Ô Thiên Cẩu, Quỷ Thiết hoặc các chủ lực gây sát thương ngoài lượt. 〈Bạng Tinh〉 bảo vệ mở trận; 〈Chiêu Tài Miêu〉, 〈Di Niệm Hỏa〉 và 〈Hỏa Linh〉 giải quyết Quỷ Hỏa theo đội hình.",
+        "Có thể xây Tốc độ để chủ động cho ăn hoặc xây độ bền nếu chỉ dùng nội tại. Không cần Hiệu quả chính xác cho các hiệu ứng hỗ trợ chính."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE hỗ trợ sát thương: 〈Đồ Phật〉 hoặc 〈Hỏa Linh〉; Công – Công – Công. Căn Tốc độ theo chủ lực và ưu tiên tổng Công nếu cần tăng phần sát thương của [Mơ Ước Mỹ Vị].",
+        "PvP: 〈Bạng Tinh〉, 〈Chiêu Tài Miêu〉, 〈Di Niệm Hỏa〉 hoặc 〈Hỏa Linh〉; Tốc độ – Công/HP – HP/Công. Chọn bộ theo nhu cầu bảo vệ và Quỷ Hỏa của đội."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "食霊の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/174413901402796145.html",
+      "usedFor": "đối chiếu tăng sát thương ngoài lượt, hiệp chiến, hồi phục và bộ PvP"
+    },
+    {
+      "title": "阴阳师：2026新式神就业解析",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/1004999959_122509332",
+      "usedFor": "đối chiếu cấu hình Đồ Phật Công–Công–Công trong đội PvE hiện tại",
+      "publishedAt": "2026"
+    },
+    {
+      "title": "式神御魂搭配速成教学（第九期）",
+      "publisher": "小米游戏中心",
+      "url": "https://game.xiaomi.com/viewpoint/1392357417_1644766193838_13",
+      "usedFor": "đối chiếu Hỏa Linh, Bạng Tinh, Chiêu Tài và Di Niệm Hỏa"
+    }
+  ]
+}

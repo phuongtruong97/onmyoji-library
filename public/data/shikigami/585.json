@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "绝无背弃！"
       },
       "description": {
-        "vi": "[tips_11]. Hoang Khô Lâu thắp lên đóa hoa màu máu trên chiến trường, khi trận đấu bắt đầu, giúp thức thần đồng minh có Tấn công cao nhất nhận [buff_5852_1]. Khi lượt người sở hữu [buff_5852_1] kết thúc, Hoang Khô Lâu lập tức tiến vào Khe Hở Thời Gian. (Hoang Khô Lâu trước khi mỗi lượt bắt đầu kích hoạt tối đa 1 lần) Hoang Khô Lâu khi [tips_21] HP sẽ không Tử Trận và lưu trữ năng lượng tương đương vào [tips_5851].\n[Thi triển] Chuyển dịch [buff_5852_1] sang mục tiêu đồng minh không phải vật triệu hồi.",
-        "en": "[tips_11]. Odokuro Ignites Crimson Blossom on the battlefield. At the start of battle, the allied shikigami with the highest attack gains [buff_5852_1]. When the carrier of [buff_5852_1] ends their turn, Odokuro immediately enters the Rift in Time. (Triggers at most once before each of Odokuro's turns). Odokuro will not die when his HP drops to [tips_21] and stores an equal amount of energy in [tips_5851].\nTransfers [buff_5852_1] to a non-summon allied target.",
+        "vi": "[tips_11] Hoang Khô Lâu thắp lên đóa hoa màu máu trên chiến trường, khi trận đấu bắt đầu, giúp thức thần đồng minh có Tấn công cao nhất nhận [buff_5852_1]. Khi lượt người sở hữu [buff_5852_1] kết thúc, Hoang Khô Lâu lập tức tiến vào Khe Hở Thời Gian. (Hoang Khô Lâu trước khi mỗi lượt bắt đầu kích hoạt tối đa 1 lần) Hoang Khô Lâu khi [tips_21] HP sẽ không Tử Trận và lưu trữ năng lượng tương đương vào [tips_5851].\n[Thi triển] Chuyển dịch [buff_5852_1] sang mục tiêu đồng minh không phải vật triệu hồi.",
+        "en": "[tips_11] Odokuro Ignites Crimson Blossom on the battlefield. At the start of battle, the allied shikigami with the highest attack gains [buff_5852_1]. When the carrier of [buff_5852_1] ends their turn, Odokuro immediately enters the Rift in Time. (Triggers at most once before each of Odokuro's turns). Odokuro will not die when his HP drops to [tips_21] and stores an equal amount of energy in [tips_5851].\nTransfers [buff_5852_1] to a non-summon allied target.",
         "zh": "[tips_11]。荒骷髅于战场上点燃血色之花，战斗开始时，使攻击最高的友方式神获得[buff_5852_1]。[buff_5852_1]携带者回合结束时，荒骷髅立即进入时之隙。(荒骷髅每个回合开始前至多触发1次）)荒骷髅[tips_21]生命时不会阵亡并将等量能量存于[tips_5851]中。\n【施放】转移[buff_5852_1]至友方非召唤物目标。"
       },
       "upgrades": [
@@ -140,7 +141,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Huyết Sắc Chi Hoa khi miễn nhiễm sát thương chí mạng, người sở hữu nhận thêm Bình Thị Thiết Bích bằng tổng lượng HP đã mất của Hoang Khô Lâu",
+            "vi": "Huyết Sắc Chi Hoa khi miễn nhiễm sát thương chí tử, người sở hữu nhận thêm Bình Thị Thiết Bích bằng tổng lượng HP đã mất của Hoang Khô Lâu",
             "en": "When Crimson Blossom prevents lethal damage, the carrier additionally gains a Taira Iron Wall equal to the total HP lost by Odokuro.",
             "zh": "血色之花免疫致命伤害时，携带者额外获得等同于荒骷髅失去生命总量的平氏铁壁"
           }

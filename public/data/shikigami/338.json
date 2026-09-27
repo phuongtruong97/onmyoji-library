@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -240,7 +241,7 @@
         "zh": "向着永劫之风岚，进军！"
       },
       "description": {
-        "vi": "Tập trung linh lực và tung ra một Nguyệt Trảm tấn công 5 lần vào một kẻ địch, mỗi đòn gây sát thương tương đương 63% công kích của Lang Dạ Xoa Cơ.",
+        "vi": "Tập trung linh lực và tung ra một Nguyệt Trảm tấn công 5 lần vào một kẻ địch, mỗi đòn gây sát thương tương đương 63% Tấn Công kích của Lang Dạ Xoa Cơ.",
         "en": "One of the Moon's Secrets. Takiyasha Hime focuses her spiritual power and launches a Moon Slash to inflict 5 hits on an enemy, dealing damage equal to 50% of her attack with each hit.\n",
         "zh": "号令鬼灵骑士发起冲锋，对敌方全体造成分别为攻击12%、攻击24%和攻击136%的连续3次伤害。"
       },

@@ -1,0 +1,91 @@
+{
+  "shikigamiId": 367,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ PvE đa mục tiêu xuất sắc nhờ truyền sát thương sang mục tiêu chính, tăng AoE và HP tối đa; giảm mạnh giá trị khi chỉ còn một kẻ địch",
+  "summary": "《Họa Thế Hoa Điểu Quyển》 cho toàn đội {+Mặc Oanh}: tăng trị liệu nhận, 20% Kháng Hiệu Ứng và vĩnh viễn tăng 10% HP tối đa lúc bắt đầu trận. [Họa Mộng Phù Sinh] tốn 2 Quỷ Hỏa, triệu hồi {+Phù Sinh Họa Ảnh} trong 4 lượt và gắn {−Trục Mặc} lên mục tiêu chính. Mỗi khi kẻ địch khác chịu sát thương, Họa Ảnh truyền 20% lượng đó sang mục tiêu Trục Mặc; đồng thời tăng 20% sát thương AoE của toàn đội. Cơ chế cực mạnh khi boss đi cùng nhiều quái phụ nhưng gần như mất phần truyền dẫn ở trận đơn mục tiêu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7.5,
+      "note": "Tăng HP/AoE và truyền sát thương giúp hạ mục tiêu chính nhanh khi có quái phụ."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9,
+      "note": "Là hỗ trợ chủ lực cho sự kiện/boss nhiều mục tiêu nhờ truyền 20% và tăng AoE 20%."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 5.5,
+      "note": "Có tăng HP, Kháng và truyền sát thương nhưng vật triệu hồi dễ làm đội hình kém linh hoạt."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7.5,
+      "note": "Rất đáng giá cho PvE sự kiện, nhưng cần hiểu rằng hiệu quả phụ thuộc số mục tiêu."
+    }
+  ],
+  "strengths": [
+    "{+Mặc Oanh} tăng trị liệu nhận 30%, Kháng Hiệu Ứng 20% và tăng vĩnh viễn 10% HP tối đa cho đồng minh không phải vật triệu hồi.",
+    "{+Phù Sinh Họa Ảnh} tồn tại 4 lượt, truyền 20% sát thương từ kẻ địch khác sang mục tiêu mang {−Trục Mặc}.",
+    "Khi Họa Ảnh tồn tại, sát thương AoE toàn đội tăng 20%; bản thân còn có {+Che Chắn} đỡ một lần khống chế từ đòn đánh thường."
+  ],
+  "weaknesses": [
+    "Khi chỉ còn một kẻ địch, {−Trục Mặc} không có nguồn sát thương từ mục tiêu khác để truyền dẫn, làm mất phần lớn giá trị tấn công.",
+    "{+Phù Sinh Họa Ảnh} chiếm vị trí vật triệu hồi của đội và chỉ tồn tại 4 lượt; không phối hợp trực tiếp với các vật triệu hồi khác.",
+    "Sát thương truyền dẫn có thể kích hoạt Ngự Hồn phản ứng của mục tiêu như Kính Cơ/Phản Hồn Hương trong PvP."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Tốt nhất ở sự kiện có một mục tiêu tinh anh/boss và nhiều quái phụ: gắn {−Trục Mặc} lên mục tiêu chính rồi dùng AoE đánh toàn sân. Khi quái phụ chết hết, nên đánh giá lại việc giữ cô trong đội vì truyền dẫn không còn nguồn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Tăng HP tối đa và Kháng giúp đội cứng hơn, nhưng Họa Ảnh chiếm vị trí triệu hồi và có thể kéo theo hiệu ứng Ngự Hồn của mục tiêu qua sát thương truyền. Vì vậy cô là lựa chọn theo đội, không phải hỗ trợ PvP phổ thông."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE nhiều mục tiêu: 〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉; HP – HP – Bạo kích, đủ Bạo kích để tối ưu trị liệu và sát thương liên quan. Chỉ dùng khi đội duy trì đủ Quỷ Hỏa sau chi phí 2 lửa.",
+        "Một số sự kiện dùng 〈Tâm Nhãn〉 + 〈Quỷ Linh Ca Kỹ〉 hoặc bộ Công theo cơ chế riêng để kết liễu mục tiêu thấp HP; không thay thế mặc định cho Cuồng Cốt. Chỉ số và thứ tự phải theo đội/boss cụ thể."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "絵世花鳥風月の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/171200776037759428.html",
+      "usedFor": "đối chiếu truyền sát thương, tăng AoE, hồi phục và hạn chế PvP"
+    },
+    {
+      "title": "绘世花鸟卷",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/绘世花鸟卷/58306099",
+      "usedFor": "đối chiếu Cuồng Cốt–Ca Kỹ, chỉ số HP–HP–Bạo kích và đội PvE nhiều mục tiêu"
+    },
+    {
+      "title": "SP花鸟卷御魂搭配",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1127/11277861.html",
+      "usedFor": "đối chiếu vai trò truyền sát thương và cấu hình PvE"
+    },
+    {
+      "title": "寻世香行超鬼王攻略",
+      "publisher": "NBE游戏工作室",
+      "url": "https://m.nbegame.com/post/11481.html",
+      "usedFor": "đối chiếu Tâm Nhãn–Ca Kỹ trong một số boss sự kiện"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 288,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Khống chế ngoài lượt chuyên trị đội tốc độ, vẫn có giá trị PvP nhưng phụ thuộc xác suất và dễ bị khắc chế",
+  "summary": "《Bỉ Ngạn Hoa》 tạo sẵn ba tầng biển hoa và gây sát thương trước khi từng kẻ địch bắt đầu lượt. Vì sát thương ngoài lượt có thể kích hoạt hiệu ứng ngự hồn, cô thường mang bộ khống chế để phá nhịp đội nhanh mà không cần tranh tốc. Nguồn năm 2026 vẫn ghi nhận cô trong PvP, nhưng hiệu quả phụ thuộc Hiệu quả chính xác, xác suất ngự hồn và khả năng đối thủ giải/miễn khống chế.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3.5,
+      "note": "Sát thương chờ lượt địch nên không hợp farm nhanh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 4.5,
+      "note": "Có sát thương liên tục nhưng thiếu giá trị trước boss miễn khống chế."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Cô thường được giấu ở lượt chọn cuối để khiến đội tranh tốc của đối phương phải đối mặt với khống chế trước khi hành động."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5.5,
+      "note": "Dễ tạo áp lực ở hạng thấp nhưng cần bộ chính xác tốt để ổn định."
+    }
+  ],
+  "strengths": [
+    "Biển hoa gây sát thương trước lượt kẻ địch, không cần tự giành lượt đầu.",
+    "Kích hoạt được ngự hồn khống chế như 〈Mị Yêu〉 hoặc 〈Chung Linh〉.",
+    "Số tầng biển hoa tăng khi HP giảm và đại chiêu tự tạo lá chắn."
+  ],
+  "weaknesses": [
+    "Khống chế phụ thuộc xác suất của ngự hồn và Hiệu quả chính xác.",
+    "Bị giảm giá trị bởi miễn khống chế, giải hiệu ứng hoặc phong ấn nội tại.",
+    "Gần như không có vị trí trong đội PvE tối ưu."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không khuyến nghị làm chủ lực PvE: sát thương chỉ xảy ra khi kẻ địch bắt đầu lượt, trong khi đội farm thường muốn kết thúc trước lúc đó. Chỉ dùng ở màn đặc thù cần sát thương ngoài lượt."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Cô thường được giấu ở lượt chọn cuối để khiến đội tranh tốc của đối phương phải đối mặt với khống chế trước khi hành động. Đây là công cụ gây nhiễu, không phải khóa chắc chắn.",
+        "Không cần ưu tiên Tốc độ ở cấu hình truyền thống; tập trung Hiệu quả chính xác và khả năng sống sót để biển hoa tiếp tục tồn tại."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Khống chế phổ dụng: 〈Chung Linh〉 hoặc 〈Mị Yêu〉; HP/Công – Hiệu quả chính xác – HP, ưu tiên Hiệu quả chính xác rồi HP.",
+        "Sát thương tình huống: 〈Tâm Nhãn〉, 〈Cuồng Cốt〉 hoặc 〈Trấn Mộ Thú〉; Công – Công – Bạo kích/Sát thương bạo kích. Chỉ dùng khi đội và đối thủ phù hợp, không phải cấu hình mặc định."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "SSR式神携带推荐",
+      "publisher": "新浪财经 / 中关村在线",
+      "url": "https://finance.sina.com.cn/roll/2026-03-04/doc-inhpvpqr3887930.shtml",
+      "usedFor": "xác nhận vai trò PvP và bộ ngự hồn hiện tại",
+      "publishedAt": "04/03/2026"
+    },
+    {
+      "title": "同一个式神的不同御魂搭配有奇效",
+      "publisher": "17173",
+      "url": "https://news.17173.com/z/yys/content/06172020/165357509.shtml",
+      "usedFor": "đối chiếu cơ chế khống chế trước lượt"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "纵宿命使然，仍不可屈服，光的眷顾从不迟来。"
       },
       "description": {
-        "vi": "[tips_11]. Nếu bản thân trong [tips_27], Thức Thần phe ta mang [buff_5561_1] trong lượt của bản thân khi gây sát thương kỹ năng, Thái Dương Thần dùng hình thức tương đồng gây cho mục tiêu kẻ địch tương đồng lượng sát thương bằng 70% hệ số sát thương kỹ năng này. Khi chịu tấn công từ kẻ địch, đính kèm [buff_5562_1] cho nguồn gây sát thương, duy trì 1 lượt.",
-        "en": "[tips_11]. If she's under [tips_27], when the ally with [buff_5561_1] deals Skill damage on their turn, Amaterasu deals damage to the same enemies. The damage is dealt in the same way and has the same types as the Skill damage, except its multipliers are 70% of the Skill damage's multipliers. When she's attacked, inflicts [buff_5562_1] lasting 1 turn on the source of the damage.",
+        "vi": "[tips_11] Nếu bản thân trong [tips_27], Thức Thần phe ta mang [buff_5561_1] trong lượt của bản thân khi gây sát thương kỹ năng, Thái Dương Thần dùng hình thức tương đồng gây cho mục tiêu kẻ địch tương đồng lượng sát thương bằng 70% hệ số sát thương kỹ năng này. Khi chịu tấn công từ kẻ địch, đính kèm [buff_5562_1] cho nguồn gây sát thương, duy trì 1 lượt.",
+        "en": "[tips_11] If she's under [tips_27], when the ally with [buff_5561_1] deals Skill damage on their turn, Amaterasu deals damage to the same enemies. The damage is dealt in the same way and has the same types as the Skill damage, except its multipliers are 70% of the Skill damage's multipliers. When she's attacked, inflicts [buff_5562_1] lasting 1 turn on the source of the damage.",
         "zh": "[tips_11]。若自身处于[tips_27]，携带[buff_5561_1]的友方式神在自身回合内造成技能伤害时，天照以相同形式对相同敌方目标造成此技能伤害系数70%的伤害。受到敌方攻击时，为伤害来源附加[buff_5562_1]，持续1个回合。"
       },
       "upgrades": [

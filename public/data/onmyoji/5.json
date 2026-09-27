@@ -1,0 +1,479 @@
+{
+  "id": 5,
+  "kind": "Champion",
+  "name": {
+    "vi": "Minamoto no Yorimitsu",
+    "en": "Minamoto no Yorimitsu",
+    "zh": "源赖光"
+  },
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "MAX_LEVEL",
+  "reviewStatus": "CAN_KIEM_TRA",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 6382,
+      "grade": ""
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 20826,
+      "grade": ""
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 806,
+      "grade": ""
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 142,
+      "grade": ""
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "20%",
+      "grade": ""
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "assets": {
+    "portraitFile": "minamoto.png",
+    "headIconFile": "15a.png"
+  },
+  "skills": [
+    {
+      "id": 1501,
+      "number": 1,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Kiếm",
+        "en": "Heavenly Blade",
+        "zh": "天剑"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Tâm kiếm hợp nhất. Vung đao đeo bên mình chém linh hoạt, gây cho mục tiêu kẻ địch sát thương bằng 125% Tấn công.",
+        "en": "Becomes one with his blade. Nimbly slashes 1 enemy with his blade, dealing damage equal to 125% of his ATK.",
+        "zh": "心剑合一。挥动佩刀灵巧地斩击，对敌方目标造成攻击125%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "Sát thương tăng lên 105%",
+            "zh": "Sát thương tăng lên 105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "Sát thương tăng lên 110%",
+            "zh": "Sát thương tăng lên 110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "Sát thương tăng lên 115%",
+            "zh": "Sát thương tăng lên 115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "Sát thương tăng lên 125%",
+            "zh": "Sát thương tăng lên 125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1501.png"
+    },
+    {
+      "id": 1502,
+      "number": 2,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Trảm • Bát Hoa Trảm",
+        "en": "Heavenly Purge",
+        "zh": "天诛·八华斩"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Lấy ác trị ác, lấy sát cản sát. Gây cho mục tiêu chỉ định 3 đòn sát thương bằng 76% Tấn công, sau đó phóng ra 5 luồng kiếm khí, mỗi lần tấn công 1 mục tiêu kẻ địch ngẫu nhiên, gây sát thương bằng 132% Tấn công, kiếm khí ưu tiên tấn công kẻ địch chưa chịu sát thương, tấn công lặp lại cùng một mục tiêu sát thương giảm dần 50%.",
+        "en": "To end evil with evil, to end killing with killing. Launches a 3-strike attack on 1 enemy, dealing damage equal to 76% of his ATK. Then releases 5 waves of energy, each dealing damage equal to 132% of his ATK to 1 random enemy, prioritizing on those who haven't been damaged. Damage dealt is reduced by 50% for each subsequent strike on the same enemy.",
+        "zh": "以恶制恶，以杀止杀。对指定目标造成3段攻击76%的伤害，之后再发出5段剑气，每次攻击1名随机敌方目标，造成攻击132%伤害，剑气优先攻击未受到伤害的敌方，重复攻击同一目标时伤害递减50%。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương lên mục tiêu chỉ định tăng lên 72%",
+            "en": "Increases damage dealt to the first enemy to 72%.",
+            "zh": "对指定目标造成伤害提升至72%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương lên mục tiêu ngẫu nhiên tăng lên 126%",
+            "en": "Increases the damage dealt to the random enemy to 126%.",
+            "zh": "对随机目标造成伤害提升至126%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương lên mục tiêu chỉ định tăng lên 76%",
+            "en": "Increases damage dealt to the first enemy to 76%.",
+            "zh": "对指定目标造成伤害提升至76%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương lên mục tiêu ngẫu nhiên tăng lên 132%",
+            "en": "Increases the damage dealt to the random enemy to 132%.",
+            "zh": "对随机目标造成伤害提升至132%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1502.png"
+    },
+    {
+      "id": 1503,
+      "number": 3,
+      "defaultEquipped": true,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Quỷ Thần Chi Sách",
+        "en": "Weaponized Demon",
+        "zh": "鬼神之策"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Lấy chí hướng của ta, hiệu lệnh quỷ thần. Chỉ huy Quỷ Binh Bộ vung kiếm khí về phía trước, giảm 175 điểm phòng thủ của địch, duy trì 2 lượt. Đồng thời tạo 2 tầng [buff_1503_2] lên toàn bộ kẻ địch.",
+        "en": "Ghost Armory, heed my command. Commands Ghost Armory to release a wave of energy, reducing the enemy's DEF by 175 for 2 turns and inflicting 2 [buff_1503_2] stacks on all enemies.",
+        "zh": "以我之志，策令鬼神。指挥鬼兵部向前挥出剑气，降低敌方175点防御，持续2个回合。并对敌方全体造成2层[buff_1503_2]。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Gắn 2 tầng [buff_1503_2] lên toàn bộ kẻ địch",
+            "en": "Inflicts 2 Blade Wound stacks on all enemies.",
+            "zh": "对敌方全体附加2层剑伤"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Hiệu quả giảm phòng thủ duy trì 2 lượt",
+            "en": "Increases the DEF reduction duration to 2 turns.",
+            "zh": "减防效果持续2个回合"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hệ số [buff_1503_2] tăng lên 90% Tấn Công",
+            "en": "Increases Blade Wound's damage multiplier to 90% of his ATK.",
+            "zh": "剑伤系数提升至攻击90%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Giảm 175 điểm phòng thủ của địch",
+            "en": "Reduces the enemy's DEF by 175.",
+            "zh": "降低敌方175点防御"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1503.png"
+    },
+    {
+      "id": 1504,
+      "number": 4,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thiên Hạ Bố Vũ",
+        "en": "Armor the World",
+        "zh": "天下布武"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Ba lưỡi đao cùng vang lên như tiếng trống trận rền vang, chém ra 3 luồng kiếm khí gây cho một mục tiêu 3 đòn sát thương bằng 112%.\nĐồng thời gây thêm 1 lần [tips_18] bằng 25% HP đã tổn thất của mục tiêu, không vượt quá 350% Tấn công ban đầu của Minamoto no Yorimitsu. Khi mục tiêu kẻ địch chịu sát thương, nếu HP thấp hơn 30% tự động thi triển lên mục tiêu này (ngoại trừ quái vật, giới hạn tối đa 1 lần trước khi lượt bắt đầu).",
+        "en": "The three blades sound like the drums of war. Releases 3 waves of energy to attack 1 enemy, dealing damage equal to 112% of his ATK for each wave.\nThen follows up with 1 additional strike, inflicting [tips_18] equal to 25% of HP the enemy has lost (max 350% of Minamoto no Yorimitsu's starting ATK.) When an enemy takes damage, if their HP is below 30%, automatically uses the skill on them (up to once before his next turn, ineffective against monsters.)",
+        "zh": "三刃齐鸣声如奏响战鼓，斩出3道剑气对一个目标造成3次112%伤害。\n并造成1次目标已损失生命25%的[tips_18]，不超过源赖光初始攻击的350%。敌方目标受到伤害时，生命低于30%自动对此目标施放（怪物除外，每回合开始前，至多1次）。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương gây ra cho mục tiêu kẻ địch tăng lên 106%",
+            "en": "Increases damage dealt to the enemy to 106%.",
+            "zh": "对敌方目标造成伤害提升至106%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương truy kích tăng lên 25% HP đã tổn thất",
+            "en": "Increases the follow-up damage to 25% of HP the enemy has lost.",
+            "zh": "追击伤害提升至已损失生命的25%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương gây ra cho mục tiêu kẻ địch tăng lên 112%",
+            "en": "Increases damage dealt to the enemy to 112%.",
+            "zh": "对敌方目标造成伤害提升至112%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi mục tiêu kẻ địch chịu sát thương, nếu HP thấp hơn 30% tự động thi triển lên mục tiêu này (ngoại trừ quái vật, giới hạn tối đa 1 lần trước khi lượt bắt đầu)",
+            "en": "When an enemy takes damage, if their HP is below 30%, automatically uses the skill on them (up to once before his next turn, ineffective against monsters.)",
+            "zh": "敌方目标受到伤害时，若生命低于30%自动对此目标施放（怪物除外，每回合开始前，至多1次）"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1504.png"
+    },
+    {
+      "id": 1505,
+      "number": 5,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vô Úy",
+        "en": "Fearless",
+        "zh": "无畏"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Mỗi khi địch nhận 1 trạng thái bất lợi, bản thân nhận 1 tầng [buff_1505_5], duy trì 3 lượt. Khi địch tử trận, tăng 30% Thanh Hành Động cho bản thân.",
+        "en": "When an enemy is inflicted with a debuff, grants him 1 [buff_1505_5] stack, lasting 3 turns. When an enemy is KO'd, raises his Move Bar by 30%.",
+        "zh": "敌方每受到1个减益效果时，自身获得1层[buff_1505_5]，持续3回合。敌方阵亡时，提升自身30%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi tầng tăng 1% bạo kích.",
+            "en": "Each stack increases his Crit by 1%.",
+            "zh": "每层使暴击提升1%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Kiếm Ý cộng dồn tối đa 18 tầng.",
+            "en": "Increases Sharpened Blade's max stacks to 18.",
+            "zh": "剑意至多叠加18层"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Mỗi tầng tăng 2% Tốc độ.",
+            "en": "Each stack increases his SPD by 2%.",
+            "zh": "每层使速度提升2%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Kiếm Ý cộng dồn tối đa 24 tầng.",
+            "en": "Increases Sharpened Blade's max stacks to 24.",
+            "zh": "剑意至多叠加24层"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1505.png"
+    },
+    {
+      "id": 1506,
+      "number": 6,
+      "defaultEquipped": false,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Quỷ Trụ",
+        "en": "Ghost Garb",
+        "zh": "鬼胄"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Quỷ Binh Bộ bám lên người Minamoto no Yorimitsu. Mỗi lần chịu tấn công, hấp thụ lượng sát thương bằng 30% Tấn Công của Minamoto no Yorimitsu thay cho ngài. Hấp thụ tối đa sát thương bằng 600% Tấn Công ban đầu của Minamoto no Yorimitsu.",
+        "en": "Attaches Ghost Armory to Minamoto no Yorimitsu. Whenever he's attacked, absorbs damage equal to 30% of Minamoto no Yorimitsu's ATK, up to 600% of his starting ATK.",
+        "zh": "鬼兵部附身在源赖光身上。每次受到攻击时，为其吸收源赖光攻击30%的伤害。至多吸收源赖光初始攻击600%伤害。"
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "1506.png"
+    },
+    {
+      "id": 1507,
+      "number": 7,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Huyết Khế",
+        "en": "Blood Pact",
+        "zh": "血之契"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Chỉ huy [buff_1507_2] đồng thời phụ thân lên một mục tiêu đồng minh khác và tăng cho bản thân 30% Bạo Kích.",
+        "en": "策令鬼兵部同时附身给另一友方目标，并提升自身22%暴击。",
+        "zh": "策令鬼兵部同时附身给另一友方目标，并提升自身22%暴击。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tăng bạo kích tăng đến 26%",
+            "en": "Increases the Crit boost to 26%.",
+            "zh": "提升暴击增至26%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sau khi thi triển, nâng hệ số hấp thụ sát thương của Quỷ Binh Bộ lên 40% Tấn công ban đầu",
+            "en": "Using the skill increases Ghost Armory's damage absorbed to 40% of his starting ATK.",
+            "zh": "施放后，将鬼兵部伤害吸收系数提升至初始攻击40%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tăng bạo kích tăng đến 30%",
+            "en": "Increases the Crit boost to 30%.",
+            "zh": "提升暴击增至30%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi thi triển, nâng hệ số hấp thụ sát thương của Quỷ Binh Bộ lên 50% Tấn công ban đầu",
+            "en": "Using the skill increases Ghost Armory's damage absorbed to 50% of his starting ATK.",
+            "zh": "施放后，将鬼兵部伤害吸收系数提升至初始攻击50%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1507.png"
+    },
+    {
+      "id": 1508,
+      "number": 8,
+      "defaultEquipped": false,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kiếm Chi Lũy",
+        "en": "Blade Bastion",
+        "zh": "剑之垒"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Giáp trụ làm ngục, cắt đứt ác niệm. Khi mục tiêu do Quỷ Binh Bộ ám thân bị tấn công nhưng không chịu sát thương, Quỷ Binh Bộ chém mục tiêu gây ra sát thương bằng 150% Tấn công (giới hạn 5 lần trước khi bắt đầu lượt bản thân), mỗi lần chém hệ số sát thương tăng 20%, có thể tiến hóa 2 lần, hiệu quả tiến hóa chém duy trì 2 lượt. Ở lần chém thứ 3, các đợt chém tiếp theo tiến hóa thành gây sát thương cho toàn bộ kẻ địch.",
+        "en": "With this weaponized armor as the cage, I shall end all evil thoughts. When the unit attached by Ghost Armory takes no damage from an attack, Ghost Armory slashes the source of the attack (up to 5 times before his next turn), dealing damage equal to 150% of his ATK. Each slash increases the damage multiplier by 20%. The boost evolves up to 2 times and lasts 2 turns. After the 3rd slash, the next slash evolves into attacking all enemies.",
+        "zh": "剑胄为牢，绝断恶念。鬼兵部附身的目标受到攻击但未受到伤害时，鬼兵部劈斩目标来源造成攻击150%伤害（自身回合开始前限5次），每次劈斩伤害系数增加20%，可进化2次，劈斩进化效果持续2回合。第3次劈斩，接下来的劈斩进化成对敌方全体造成伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi lần chém khiến hệ số sát thương lần chém tiếp theo tăng 20%",
+            "en": "Each slash increases the next slash's damage multiplier by 20%.",
+            "zh": "每次劈斩使下次劈斩伤害系数提升20%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lần chém thứ 3 tiến hóa thành tấn công toàn bộ mục tiêu phe địch",
+            "en": "The 3rd slash evolves the strike to attack all enemies.",
+            "zh": "第3次劈斩进化为攻击敌方全体目标"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Hiệu ứng tiến hóa chém duy trì 2 lượt",
+            "en": "Increases the slash's evolution duration to 2 turns.",
+            "zh": "劈斩进化效果持续2个回合"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương ban đầu của chém tăng lên 150%",
+            "en": "Increases his slash's initial damage to 150%.",
+            "zh": "劈斩初始伤害提升至150%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "1508.png"
+    }
+  ]
+}

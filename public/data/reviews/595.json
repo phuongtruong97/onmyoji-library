@@ -1,0 +1,90 @@
+{
+  "shikigamiId": 595,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ PvP chuyên bảo vệ chủ lực và tăng nhịp cho Âm Dương Sư, mạnh nhất khi đi cùng Seimei",
+  "summary": "《Mộng Sơn Bạch Tàng Chủ》 dùng [Bạch Hồ Chú] để hồi 20% HP đã mất, đặt {+Thủ Hộ Chi Ấn} lên đồng minh và kéo 30% thanh hành động cho Âm Dương Sư. Người mang ấn miễn sát thương trong lúc hành động; kẻ tấn công họ bị {−Phù Chú · Phá}, giảm 30% sát thương gây ra. Khi đi với Seimei, anh còn xóa hồi chiêu, liên tục đẩy thanh và tự dùng [Trảm Mộng Đao] sau mỗi yêu thuật của Seimei, tạo một lõi bảo kê–phản công rất riêng nhưng kém linh hoạt nếu đổi Âm Dương Sư.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4.5,
+      "note": "Không có buff sát thương mở trận đủ cạnh tranh với các hỗ trợ farm chuyên dụng."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Hồi HP đã mất và giảm sát thương địch có ích ở ải khó, nhưng sát thương bị giới hạn."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6.5,
+      "note": "Hỗ trợ gắn [Bạch Hồ Chú] để bảo vệ chủ lực và kéo lượt cho Âm Dương Sư; có ý tưởng đội hình riêng nhưng hiện phụ thuộc mạnh vào đồng đội và nhịp kỹ năng."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5.5,
+      "note": "Có thể giúp vượt ải khó nhưng chuyên PvP và cần đội Seimei để đạt đủ giá trị."
+    }
+  ],
+  "strengths": [
+    "{+Thủ Hộ Chi Ấn} hồi 20% HP đã mất sau khi Âm Dương Sư dùng yêu thuật và cho người mang miễn sát thương trong lúc hành động.",
+    "Kẻ tấn công người mang ấn nhận {−Phù Chú · Phá}, giảm 30% sát thương gây ra trong 2 lượt.",
+    "[Bạch Hồ Chú] kéo 30% thanh hành động cho Âm Dương Sư; với Seimei còn xóa hồi chiêu và có thêm các lần kéo thanh.",
+    "Sau khi Seimei dùng yêu thuật, anh tự tung [Trảm Mộng Đao] miễn phí, vừa gây sát thương theo HP vừa hồi 20% HP đã mất cho toàn đội."
+  ],
+  "weaknesses": [
+    "Phần mạnh nhất của bộ kỹ năng bị ràng buộc với Seimei; đổi Âm Dương Sư làm mất xóa hồi chiêu và chuỗi đại chiêu miễn phí.",
+    "Trên sân chỉ tồn tại tối đa một {+Thủ Hộ Chi Ấn}, nên không thể đồng thời che chắn nhiều chủ lực.",
+    "Bản thân không có miễn khống chế hoặc Kháng hiệu ứng nội tại, có thể bị khóa trước khi duy trì chuỗi bảo hộ.",
+    "Sát thương theo HP tối đa bị giới hạn ở 1600% Tấn công ban đầu, không phải lựa chọn boss PvE tối ưu."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Anh có thể dùng ở Bí Văn hoặc ải sống sót để hồi theo HP đã mất và giảm sát thương nguồn địch. Tuy nhiên, đội farm ngắn thường không cần tăng nhịp cho Seimei và có hỗ trợ tăng sát thương hiệu quả hơn.",
+        "Nếu không dùng Seimei, kỹ năng chuyển thành [Mộng Sơn Thệ], tự gọi các yêu thuật tương ứng của Seimei ở cấp hiện tại nhưng mất chuỗi [Trảm Mộng Đao] miễn phí sau mỗi lần Seimei hành động."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Mộng Sơn Bạch Tàng Chủ》 liên kết đội hình với Âm Dương Sư. [Bạch Hồ Chú] đặt lên chủ lực cần bảo vệ, còn các lần dùng tiếp theo kéo thanh cho Âm Dương Sư, giúp Seimei lặp [Ngôn Linh · Thủ] hoặc dùng kỹ năng tình huống sớm hơn. {−Phù Chú · Phá} giảm sát thương của kẻ tấn công và gây sát thương gián tiếp theo HP tối đa của anh khi mục tiêu bắt đầu lượt, tạo lối chơi bào mòn thay vì chỉ chịu đòn.",
+        "Đánh giá thực chiến ban đầu cho thấy vị trí của anh khá hẹp. Giá trị phụ thuộc việc Âm Dương Sư và người mang [Bạch Hồ Chú] sống đủ lâu; bị xua dấu, khóa lượt hoặc dồn nhiều mục tiêu cùng lúc sẽ làm chuỗi bảo vệ đứt. Anh cũng không tạo lớp giảm sát thương tức thời rộng như 《Bạch Tàng Chủ》 thường. Đây là quân chiến thuật cần đội riêng, chưa nên xem là hỗ trợ phòng thủ phổ dụng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP vận hành chủ động: 〈Chiêu Tài Miêu〉; Tốc độ – HP – HP, ưu tiên Tốc độ rồi HP và Kháng hiệu ứng.",
+        "Chống dồn sát thương: 〈Thế Hồn〉 hoặc 〈Địa Tạng Tượng〉; Tốc độ – HP – HP. Đối đội tiêu nhiều Quỷ Hỏa có thể dùng 〈Mộc Mị〉, nhưng chỉ khi đội đã có nguồn lửa ổn định."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "梦山白藏主",
+      "publisher": "阴阳师灰机WIKI",
+      "url": "https://yys.huijiwiki.com/wiki/%E6%A2%A6%E5%B1%B1%E7%99%BD%E8%97%8F%E4%B8%BB",
+      "usedFor": "đối chiếu kỹ năng, hồ sơ và liên kết với Seimei"
+    },
+    {
+      "title": "梦山白藏主",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/%E6%A2%A6%E5%B1%B1%E7%99%BD%E8%97%8F%E4%B8%BB/67100986",
+      "usedFor": "đối chiếu vai trò PvP, điểm yếu và Chiêu Tài/Thế Hồn/Địa Tạng/Mộc Mị"
+    },
+    {
+      "title": "SP梦山白藏主登场！强度定位与阵容测试",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1b2m8BJEAC/",
+      "usedFor": "đối chiếu giới hạn meta và đội hình Seimei thực chiến",
+      "publishedAt": "10/12/2025"
+    }
+  ]
+}

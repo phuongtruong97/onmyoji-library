@@ -1,0 +1,83 @@
+{
+  "shikigamiId": 255,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chuyên gia tranh tốc và khóa một mục tiêu trong PvP; rất đáng giữ cho đấu kỹ, gần như không có vai trò PvE thường nhật",
+  "summary": "《Diêm Ma》 có tốc độ cơ bản rất cao và dùng [Oán Hồn Trùng Áp] để gây {−Câm Lặng} hai lượt, đồng thời [Đoạt Hồn] có xác suất biến mục tiêu thành hắc tiểu quỷ. Vai trò hiện tại vẫn rõ ràng: mang tán kiện tốc độ cao, đi trước và khóa mắt xích quan trọng của đối phương. Cô không phải sát thương chính và hầu như không nên đầu tư vì PvE.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 2.5,
+      "note": "Khống chế đơn mục tiêu không giúp tối ưu phần lớn nội dung farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 3,
+      "note": "Chỉ có giá trị cơ chế ở vài màn đặc thù, không phải lựa chọn boss phổ dụng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Lựa chọn tranh tốc và khóa đơn mục tiêu rất đáng tin cậy; mạnh khi đi trước và chọn đúng mắt xích, nhưng hiệu quả giảm mạnh nếu thua tốc hoặc đối phương có phương án giải khóa."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Rất tốt khi bắt đầu chơi PvP, nhưng đòi hỏi bộ tốc cao và kỹ năng đầy đủ để ổn định."
+    }
+  ],
+  "strengths": [
+    "Tốc độ cơ bản cao, phù hợp tranh lượt đầu bằng tán kiện.",
+    "[Oán Hồn Trùng Áp] gây {−Câm Lặng} hai lượt với xác suất cơ bản 100% cộng Hiệu quả chính xác.",
+    "[Đoạt Hồn] bổ sung biến hình và chiếm vị trí kẻ địch đã tử trận, cản hồi sinh.",
+    "Có bằng chứng sử dụng trong đội hình PvP năm 2026."
+  ],
+  "weaknesses": [
+    "Rất phụ thuộc chất lượng ngự hồn tốc độ; chậm hơn đối thủ có thể mất phần lớn giá trị.",
+    "Tiêu Quỷ Hỏa để khóa từng mục tiêu và không tạo giá trị PvE đáng kể.",
+    "Hiệu quả biến hình cần Hiệu quả chính xác và vẫn chịu kiểm tra kháng hiệu ứng."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không có vị trí trong đội farm hay đánh boss thông thường. Một vài màn đặc thù có thể cần phong ấn/khống chế, nhưng đó là ngoại lệ và không đủ để xếp cô vào nhóm nên nuôi vì PvE."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Diêm Ma》 giữ vai trò rõ ràng: dùng Tốc độ cơ bản cao để giành lượt, sau đó đặt {−Câm Lặng} hai lượt lên bộ kéo thanh, hỗ trợ giải khống chế hoặc chủ lực cần dùng kỹ năng. Đây là công cụ cắt đúng một mắt xích, đặc biệt hữu ích khi đội đối phương phụ thuộc chuỗi hành động chặt chẽ. [Đoạt Hồn] còn bổ sung biến hình và chiếm vị trí của mục tiêu đã chết, gây khó cho hồi sinh.",
+        "Sức mạnh của cô phụ thuộc trực tiếp vào bộ Tốc độ. Nếu không đi trước, cô ít tạo giá trị phòng thủ và không giúp đội sống sót như các hỗ trợ đa dụng. Biến hình vẫn chịu kiểm tra Kháng hiệu ứng; do đó nên đánh giá cô bằng khả năng khóa kỹ năng chắc chắn của [Oán Hồn Trùng Áp], không phóng đại phần biến hình như một hiệu ứng bảo đảm."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP tranh tốc: tán kiện có tổng Tốc độ cao nhất; vị trí 2 Tốc độ, vị trí 4 ưu tiên Hiệu quả chính xác nếu chênh lệch tốc cho phép, vị trí 6 HP/Công tùy viên có tốc tốt.",
+        "Nếu vẫn giữ được ngưỡng tốc cần thiết: 〈Chiêu Tài Miêu〉 là lựa chọn giàu giá trị hơn cho đội dài hơi. 〈Hỏa Linh〉 chỉ dùng khi đội thiếu bộ mở đầu và không làm mất lợi thế tốc độ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "斗技翻牌思路：SP空面+辉夜姬",
+      "publisher": "新浪财经 / 中关村在线",
+      "url": "https://finance.sina.com.cn/roll/2026-01-27/doc-inhitszv9781167.shtml",
+      "usedFor": "xác nhận vị trí tranh tốc, tán kiện và Hiệu quả chính xác",
+      "publishedAt": "27/01/2026"
+    },
+    {
+      "title": "半小时12个星直接大名士",
+      "publisher": "233乐园",
+      "url": "https://www.233leyuan.com/post-detail/2050894722262372352",
+      "usedFor": "đối chiếu việc Diêm Ma vẫn được dùng trong đội hình PvP hiện tại",
+      "publishedAt": "03/05/2026"
+    }
+  ]
+}

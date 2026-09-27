@@ -1,0 +1,82 @@
+{
+  "shikigamiId": 569,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ đội đánh thường: tăng 50% sát thương, hồi–giải hiệu ứng và góp sát thương nhiều hit",
+  "summary": "《Miêu Xuyên》 mở trận bằng [Tẩy Cân Phạt Tủy], gọi {+Biệt Quán Tư Thang} tại mốc 70% thanh hành động. Đồng minh đi qua suối được hồi HP và giải một debuff/khống chế; trong khi suối tồn tại, toàn đội tăng 50% sát thương đánh thường. Sau mỗi 6 lần đánh thường của đồng minh, suối tấn công ngẫu nhiên 6 hit rồi được gọi lại, qua đó hồi cả đội. Anh mạnh nhất trong đội đánh thường, đặc biệt đi cùng 《Bất Tri Hỏa》, nhưng không phải hỗ trợ đa dụng cho mọi đội PvE.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 6.5,
+      "note": "Không hợp farm một lượt; cần tích đủ 6 đánh thường mới phát huy đòn phụ và hồi toàn đội."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8,
+      "note": "Tăng 50% sát thương đánh thường, hồi–giải hiệu ứng và nhiều hit tốt trong boss/ải dài phù hợp."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Tăng sức mạnh đội đánh thường, giải khống chế và có nhịp hành động đặc biệt qua mốc 70%."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Bền và đa dụng trong đúng đội hình, nhưng cần đồng đội đánh thường chuyên dụng và kỹ năng 3 tối đa."
+    }
+  ],
+  "strengths": [
+    "{+Biệt Quán Tư Thang} giúp đồng minh đi qua được hồi bằng 98% Tấn công và giải 1 debuff/khống chế với xác suất 100%.",
+    "Tăng 50% sát thương đánh thường cho toàn đội; đòn đánh thường của bản thân được gấp đôi hệ số khi suối tồn tại.",
+    "Sau 6 lần đánh thường của đồng minh, Suối Nước Hóa Mèo đánh ngẫu nhiên 6 hit, không kích hoạt ngự hồn của địch, rồi gọi lại suối để hồi cả đội.",
+    "Khi bản thân đi qua suối ở mốc 70%, được xem như tới cuối thanh hành động nên có thể quay vòng nhanh với cách chỉnh tốc phù hợp."
+  ],
+  "weaknesses": [
+    "Phụ thuộc đội đánh thường; gần như không khuếch đại chủ lực dùng kỹ năng.",
+    "Sáu hit bổ sung chọn mục tiêu ngẫu nhiên, kém ổn định khi có nhiều kẻ địch hoặc vật triệu hồi.",
+    "{+Biệt Quán Tư Thang} có thể bị tấn công và phá hủy dù miễn nhiễm debuff/khống chế.",
+    "Cần [Tẩy Cân Phạt Tủy] cấp 5 để có hiệu ứng mở trận và cấp 4 để đạt mức tăng 50%."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng ở boss đơn mục tiêu hoặc ải dài khi đội có nhiều lượt đánh thường. Đòn phụ ngẫu nhiên trở nên ổn định hơn nếu sân chỉ còn boss; ở màn nhiều mục tiêu, sát thương dễ bị phân tán.",
+        "Hướng sát thương dùng 〈Cuồng Cốt〉; hướng hỗ trợ dùng 〈Đồ Phật〉 để đòn đánh thường vừa kích bộ ngự vừa nhận hệ số gấp đôi. Có thể ghép ngự hồn boss 2 món tùy nội dung."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Ghép với 《Bất Tri Hỏa》 và các thức thần đánh thường/liên kích. Mốc tốc thực dụng là xấp xỉ 0,69–0,70 tốc độ đơn vị nhanh nhất để sau lượt mở màn của đồng đội, Miêu Xuyên đi qua suối 70% và lập tức tới lượt; không nên hạ thấp quá mức khiến chuỗi lượt bị đứt."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE sát thương: 〈Cuồng Cốt〉 hoặc 〈Binh Chủ Bộ〉; Tấn công/Tốc độ – Tấn công – Bạo kích/Bạo thương, đủ 100% Bạo kích. 〈Đồ Phật〉 phù hợp khi dùng anh như hỗ trợ đánh thường.",
+        "PvP: 〈Ứng Thanh Trùng〉, 〈Đồ Phật〉, 〈Luân Nhập Đạo〉 hoặc bộ tấn công theo đội; Tốc độ/Tấn công – Tấn công – Bạo kích/Bạo thương. Chỉnh Tốc độ theo mốc suối thay vì mặc định càng nhanh càng tốt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "猫川の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/320539203597276470.html",
+      "usedFor": "đối chiếu mốc suối 70%, cơ chế hồi–giải, 6 đánh thường, nhịp tốc và các bộ ngự hồn"
+    },
+    {
+      "title": "SSR猫川技能详细解析！御魂就业定位推荐！",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1Zw4m1v7o3/",
+      "usedFor": "đối chiếu vai trò đội đánh thường, hồi–giải và hướng dùng PvP/PvE"
+    }
+  ]
+}

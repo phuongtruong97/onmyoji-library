@@ -7,6 +7,7 @@
   },
   "rarity": "SR",
   "tier": "SR",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -148,7 +149,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi chịu [tips_3], đính kèm [buff_5583_1] cho thức thần gây ra khống chế. Nếu Độ Ly chưa ở thời gian hồi chiêu, liền xóa bỏ giảm ích của bản thân và độ ly khỏi chiến trường.",
+            "vi": "Khi chịu [tips_3], đính kèm [buff_5583_1] cho thức thần gây ra khống chế. Nếu Độ Ly chưa ở thời gian hồi chiêu, liền xóa bỏ debuff của bản thân và độ ly khỏi chiến trường.",
             "en": "When he's inflicted with a [tips_3], inflicts [buff_5583_1] on the shikigami who inflicted the effect. If his Phased Out is not in cooldown, removes debuffs on him and he phases out.",
             "zh": "受到[tips_3]时，对造成控制的式神施加[buff_5583_1]。若遁离未处于冷却，则会移除自身减益并遁离战场。"
           }

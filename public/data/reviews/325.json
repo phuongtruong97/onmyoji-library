@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 325,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Công cụ cấp lượt và bất tử rất linh hoạt, vẫn hữu ích ở bí cảnh, PvP tốc chiến và đội hình biến Xà Ma",
+  "summary": "《Bát Kỳ Đại Xà》 dùng [Bất Khiết Chi Lực] cho đồng minh một lượt mới, trạng thái bất tử hai lượt và tăng sức mạnh trước khi biến họ thành Xà Ma. Khi chỉ còn mình anh, [Bát Kỳ Chi Ảnh] thay thế Âm Dương Sư, cho lượt mới và mở đại chiêu tiêu toàn bộ Quỷ Hỏa để sai khiến Xà Ma đánh liên tục. Giá trị chính hiện nay là cấp lượt/bảo vệ chủ lực và giải các nội dung dài bằng đội Xà Ma, hơn là sát thương AoE thuần.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7,
+      "note": "Cấp lượt ngay và bất tử giúp chủ lực thực hiện chuỗi tấn công."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Đội biến Xà Ma vẫn rất an toàn cho bí cảnh và nội dung khó."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7,
+      "note": "Lối phổ biến là tán kiện tốc độ cao hoặc 〈Chiêu Tài Miêu〉 để đi trước, cấp lượt cho chủ lực và tạo hai lượt bất tử."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Đa dụng, giúp vượt nhiều nội dung dù không còn là lựa chọn meta tối cao."
+    }
+  ],
+  "strengths": [
+    "[Bất Khiết Chi Lực] vừa cấp lượt mới vừa cho đồng minh bất tử hai lượt.",
+    "Mỗi Xà Ma tăng Phòng thủ, Kháng hiệu ứng và Tốc độ cho anh cùng các Xà Ma.",
+    "Dạng cuối có thể chuyển toàn bộ Quỷ Hỏa thành nhiều lượt Xà Ma tấn công."
+  ],
+  "weaknesses": [
+    "Biến đủ đội thành Xà Ma cần nhiều lượt và không hợp nội dung tốc độ.",
+    "Cấp lượt sai mục tiêu hoặc sai thứ tự có thể làm hỏng chuỗi kỹ năng.",
+    "Trong PvP hiện đại, bài tranh tốc phụ thuộc bộ tốc rất cao và dễ bị khóa người cấp lượt."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng [Bất Khiết Chi Lực] để cho chủ lực hành động thêm và sống qua đòn nguy hiểm. Trong bí cảnh dài, lần lượt biến đồng minh thành Xà Ma rồi để anh thay Âm Dương Sư là chiến thuật chậm nhưng an toàn.",
+        "Nguồn tháng 3/2026 vẫn ghi nhận 〈Hỏa Linh〉/〈Chiêu Tài Miêu〉 cho bí cảnh và 〈Bạng Tinh〉/〈Thương Hồn Điểu〉 ở Chân Xà; lựa chọn phụ thuộc mục tiêu cấp lửa, bảo vệ hay tự gánh sát thương cuối trận."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Lối phổ biến là tán kiện tốc độ cao hoặc 〈Chiêu Tài Miêu〉 để đi trước, cấp lượt cho chủ lực và tạo hai lượt bất tử. Xây quanh việc biến toàn đội thành Xà Ma chỉ khả thi ở trận đủ dài."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Hỗ trợ cấp lượt: tán kiện Tốc độ cao nhất hoặc 〈Chiêu Tài Miêu〉; vị trí 2 Tốc độ, vị trí 4/6 HP hoặc Công tùy đội.",
+        "PvE biến Xà Ma/tự kết thúc: 〈Thương Hồn Điểu〉; Tốc độ – Công – Bạo kích/Sát thương bạo kích. Bí cảnh cần lửa ổn định có thể dùng 〈Hỏa Linh〉; Chân Xà cần lá chắn mở đầu dùng 〈Bạng Tinh〉."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "八岐大蛇一周年使用指南",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1148/11480359.html",
+      "usedFor": "đối chiếu việc làm và các bộ ngự hồn theo nội dung",
+      "publishedAt": "22/03/2026"
+    },
+    {
+      "title": "八岐大蛇降临一周年使用手册",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/15210142547054315",
+      "usedFor": "đối chiếu bí cảnh, PvP và Chân Xà"
+    }
+  ]
+}

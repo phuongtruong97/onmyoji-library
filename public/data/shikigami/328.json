@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -190,7 +191,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Khi hạ gục kẻ địch không phải vật triệu hồi, nhận Hơi Thở Xích Ảnh (Tăng Ích, Trạng Thái), tăng 15% sát thương, giới hạn 0%",
+            "vi": "Khi hạ gục kẻ địch không phải vật triệu hồi, nhận Hơi Thở Xích Ảnh (buff, Trạng Thái), tăng 15% sát thương, giới hạn 0%",
             "en": "When the attack KO's a non-summoned enemy entity, she gains Crimson Breath (buff, status), increasing her damage by 15% to a max of 0% increased.",
             "zh": "击败非召唤物的敌人时，获得赤影之息（增益，状态），提升15%伤害，上限0%"
           }

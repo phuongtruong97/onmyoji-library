@@ -1,0 +1,105 @@
+{
+  "shikigamiId": 565,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ phòng thủ tích lũy nhiều hiệu ứng nhưng khởi động chậm, phụ thuộc đồng đội tiêu lửa và hiện chỉ phù hợp đội hình ngách",
+  "summary": "《Phúc Duyệt Tọa Phu Đồng Tử》 tích {+Phúc Vận} mỗi khi đồng minh khác tiêu Quỷ Hỏa; đủ mỗi 15 tầng sẽ quay để nhận một hiệu ứng Đạt Ma chưa xuất hiện. Cô có thể tăng giảm sát thương, Kháng Hiệu Ứng, kéo thanh và ở mốc tối đa bảo đảm nhận hiệu ứng mạnh nhất. Tuy vậy, cần tới 75 tầng để bảo đảm kết quả, các lần quay trước đó còn ngẫu nhiên và [Hồn Hỏa Trừ Ách] có thể tự tiêu thêm tối đa 3 Quỷ Hỏa, khiến cô quá chậm cho phần lớn nội dung hiện tại.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3.5,
+      "note": "Không kịp tích đủ {+Phúc Vận} trước khi đội farm kết thúc trận."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Có thể tích nhiều buff nếu đội tiêu lửa liên tục, nhưng hiệu quả đầu trận thiếu ổn định."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6.5,
+      "note": "Hỗ trợ hậu thủ dựa trên Kháng hiệu ứng: bảo vệ đội bằng {+Phúc Vận · Thủ}, kéo thanh khi kháng thành công và có khả năng biến địch thành Daruma sau khi tích đủ tầng."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 3,
+      "note": "Không nên ưu tiên Daruma Đen khi các nguồn cấp lửa và hỗ trợ rẻ hơn ổn định hơn."
+    }
+  ],
+  "strengths": [
+    "{+Phúc Vận · Thủ} giảm 35% đòn vượt quá 30% HP tối đa, tăng 30% Kháng Hiệu Ứng và kéo mục tiêu 30% thanh khi bị tiêu hao.",
+    "[Đại Cát Đạt Ma] chia sẻ lượng Kháng bằng 60% Kháng ban đầu của cô và kéo đồng minh khi kháng thành công.",
+    "Ở 75 tầng {+Phúc Vận}, [Vòng Quay Trứng May Mắn] bảo đảm [Phúc Vận Đạt Ma], nhận toàn bộ buff bậc thấp hơn và có 100% tỷ lệ cơ bản Biến Hình toàn bộ địch trong 2 lượt."
+  ],
+  "weaknesses": [
+    "Mỗi 15 tầng mới quay một lần và cần 75 tầng để bảo đảm hiệu ứng mạnh nhất; trận ngắn gần như không khai thác được.",
+    "Các lần quay trước mốc tối đa phụ thuộc ngẫu nhiên; hiệu ứng đã xuất hiện không lặp lại nhưng thứ tự vẫn khó kiểm soát.",
+    "[Hồn Hỏa Trừ Ách] có chi phí cơ bản 0 nhưng có thể tự tiêu thêm tối đa 3 Quỷ Hỏa; dùng tự động có thể tranh tài nguyên với chủ lực.",
+    "Nếu bị khống chế hoặc trục xuất ở thời điểm đủ tầng, cô không thể lập tức quay."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không phù hợp đội farm ngắn vì cơ chế cần đồng minh khác tiêu nhiều Quỷ Hỏa mới khởi động. Trong trận dài, cô có thể gom nhiều lớp tăng sát thương, giảm sát thương và Kháng, nhưng tốc độ tích lũy cùng tính ngẫu nhiên khiến đội khó đạt thời gian ổn định.",
+        "Nếu dùng, cần kiểm soát [Hồn Hỏa Trừ Ách] để việc đổi tối đa 3 Quỷ Hỏa lấy 6 tầng {+Phúc Vận} không làm chủ lực thiếu lửa. Đây là hỗ trợ tình huống, không phải nguồn cấp Quỷ Hỏa thay thế trực tiếp cho 《Tọa Phu Đồng Tử》 thường."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Phúc Duyệt Tọa Phu Đồng Tử》 phù hợp đội muốn thắng bằng Kháng hiệu ứng và phản nhịp. Khi ưu tiên [Đại Cát Đạt Ma], cô tăng Kháng cho đồng minh; mỗi lần phe ta kháng thành công lại tạo cơ hội kéo thanh. {+Phúc Vận · Thủ} chặn một đòn lớn và giúp chủ lực sống qua lượt dồn sát thương. Khi tích đủ Phúc Vận, khả năng biến mục tiêu thành Daruma Đen có thể phá hẳn lượt của đối thủ; video thực chiến năm 2026 cho thấy cơ chế này có thể lặp lại nếu trận kéo dài.",
+        "Điểm yếu là khởi động chậm và phụ thuộc đối phương đánh hiệu ứng vào đội. Xác suất biến hình tự nhiên rất thấp trước khi đủ tầng, nên cô không phải khống chế mở trận đáng tin cậy. Đội sát thương thuần, giảm Kháng hoặc khóa cô trước khi đồng minh kháng đủ lần sẽ làm giá trị giảm mạnh. Đây là quân hậu thủ theo kèo, không phải máy cấp lửa thay thế Tọa Phu Đồng Tử thông thường."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP ưu tiên giải hiệu ứng: 〈Cộng Tiềm〉; Tốc độ – Kháng Hiệu Ứng – HP, giữ Kháng ban đầu trên 50% để [Đại Cát Đạt Ma] được ưu tiên.",
+        "Cần thêm Quỷ Hỏa: 〈Chiêu Tài Miêu〉; Tốc độ – Kháng Hiệu Ứng/HP – HP. 〈Hỏa Linh〉 chỉ dùng khi đội cần lửa mở trận; nó không giải quyết được nhược điểm tích {+Phúc Vận} chậm."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "福悦座敷童子技能资料",
+      "publisher": "Guidemyoji",
+      "url": "https://guidemyoji.com/sp-zashiki/",
+      "usedFor": "đối chiếu cơ chế tích tầng, xác suất và các hiệu ứng Đạt Ma hiện hành",
+      "publishedAt": "10/09/2026 cập nhật"
+    },
+    {
+      "title": "阴阳师萌新养成攻略：低段位斗技式神推荐",
+      "publisher": "新浪 / 中关村在线",
+      "url": "https://finance.sina.cn/2026-04-27/detail-inhvxxxe7803009.d.html?wm=3049_0015",
+      "usedFor": "đối chiếu mức độ sử dụng hiện tại, tốc độ khởi động và ưu tiên đầu tư",
+      "publishedAt": "27/04/2026"
+    },
+    {
+      "title": "福悦座敷童子御魂搭配2024",
+      "publisher": "3DM手游",
+      "url": "https://shouyou.3dmgame.com/gl/494073.html",
+      "usedFor": "đối chiếu 〈Cộng Tiềm〉, 〈Chiêu Tài Miêu〉 và trục chỉ số; không dùng phần kỹ năng bị gắn nhầm",
+      "publishedAt": "26/02/2024"
+    },
+    {
+      "title": "福运座敷童子：不止是变蛋",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1ukKozkEqq/",
+      "usedFor": "đối chiếu Kháng hiệu ứng, Phúc Vận và cơ chế Daruma",
+      "publishedAt": "26/06/2025"
+    },
+    {
+      "title": "福运座敷童子斗技实战：三次达摩",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV11wLJ6qECL/",
+      "usedFor": "đối chiếu khả năng biến hình trong trận kéo dài",
+      "publishedAt": "17/05/2026"
+    }
+  ]
+}

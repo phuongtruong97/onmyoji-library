@@ -1,0 +1,96 @@
+{
+  "shikigamiId": 570,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ lá chắn–tăng sát thương đầu trận chuyển thành phản sát thương chuẩn theo HP ở cuối trận",
+  "summary": "《Họa Tân Thần》 khởi đầu với 7 tầng {+Chú Sa}. [Đảo Ngôn] dùng tầng này để cấp lá chắn không thể xua tan, tăng 40% sát thương toàn đội trong 2 lượt và cho đồng minh có lá chắn thêm 27% Sát thương bạo kích. Khi {+Chú Sa} về 0, cô chuyển sang [Họa Chú]: gây AoE theo HP tối đa, đặt {−Chú Thực} phản lại sát thương/mất HP và làm cả hai phe mất 10% HP. Cô vừa là hỗ trợ tốc chiến PvE có hoạt ảnh ngắn, vừa là quân bài PvP chống dồn đơn mục tiêu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8.5,
+      "note": "40% tăng sát thương và 27% Sát thương bạo kích từ lá chắn giúp hạ yêu cầu chỉ số cho đội tốc chiến."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6.5,
+      "note": "Sau khi Chú Sa cạn sẽ mất lá chắn/buff hỗ trợ và chuyển sang cơ chế hao HP hai phe."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Hỗ trợ hậu thủ vừa gánh sát thương đơn thể vừa phản sát thương chuẩn qua {−Chú Thực}; có khả năng lật thế nhưng cần quản lý HP toàn đội."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Có giá trị PvE rõ ràng với kỹ năng 2 cấp 4; để dùng PvP đầy đủ cần nâng tối đa và bộ HP tốt."
+    }
+  ],
+  "strengths": [
+    "[Đảo Ngôn] cấp lá chắn không thể xua tan và tăng 40% sát thương toàn đội trong 2 lượt.",
+    "Khi {+Chú Sa} còn trên 3 tầng, cô miễn nhiễm khống chế/đẩy lùi và mọi đồng minh có lá chắn nhận thêm 27% Sát thương bạo kích.",
+    "Đồng minh chịu một đòn vượt 10% HP tối đa được tự động cấp lá chắn miễn phí, mỗi lượt hành động tối đa một lần.",
+    "{+Chú Sa} phản 45% sát thương đơn thể cô nhận thành sát thương chuẩn AoE; {−Chú Thực} tiếp tục phản lượng sát thương và HP cô mất lên mục tiêu."
+  ],
+  "weaknesses": [
+    "{+Chú Sa} là tài nguyên hữu hạn, không thể hồi lại; khi hết tầng, kỹ năng hỗ trợ lá chắn và buff không còn dùng được.",
+    "Phản sát thương giai đoạn đầu cần cô thực sự nhận đòn đơn thể; AoE không kích hoạt phần phản này.",
+    "[Họa Chú] làm cả đồng minh mất 10% HP mỗi lần dùng, có thể khiến đội tự xuống máu quá nhanh.",
+    "Hiệu quả sát thương phụ thuộc HP tối đa, nhưng lượng giảm HP gây ra vẫn bị giới hạn theo Tấn công ban đầu."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Trong đội farm ngắn lượt, chỉ cần đồng minh có lá chắn — kể cả từ 〈Bạng Tinh〉 — là nhận 27% Sát thương bạo kích khi {+Chú Sa} còn đủ tầng. Kết hợp buff 40% sát thương và hoạt ảnh nhanh, cô có thể hạ yêu cầu mặt ngự của chủ lực; một cấu hình Ngự Hồn tầng 10 dùng cô cùng 《Thiên Chiếu》 đã được cộng đồng kiểm chứng.",
+        "Mốc kỹ năng tối thiểu cho vai trò PvE tăng bạo thương là 1–4–5 hoặc ít nhất kỹ năng 2 cấp 4 tùy đội; nâng 1–5–5 để có đầy đủ lá chắn tự động. Không nên đánh giá cô như chủ lực boss dài vì Chú Sa không tái tạo."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Họa Tân Thần》 bảo vệ đồng minh bằng cách nhận/chia sẻ sát thương, đặc biệt hiệu quả trước đội dồn đơn mục tiêu. Mỗi lần mất {+Chú Sa}, cô tiến gần nhịp phản công; khi cạn tầng, cô nhận Kháng hiệu ứng, kéo thanh và hồi HP trước khi chuyển sang [Họa Chú]. Đặt {−Chú Thực} lên chủ lực nguy hiểm khiến sát thương hoặc mất HP mà cô chịu trong thời hạn dấu được phản lại thành sát thương chuẩn, buộc đối thủ cân nhắc trước khi dồn đánh.",
+        "Sức mạnh này đi kèm rủi ro quản lý máu. [Họa Chú] có thể liên tục rút HP cả đội, nên cô cần hồi phục hoặc cân bằng HP để không tự đưa đồng minh vào ngưỡng kết liễu. Đội AoE nhiều nhịp, phong ấn nội tại hoặc khóa cô trước khi cạn {+Chú Sa} có thể vượt qua cơ chế lật thế. Cô mạnh trong đội hậu thủ được xây quanh trao đổi HP, không phải lá chắn cắm độc lập."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE tốc chiến: 〈Bạng Tinh〉; HP – HP – Bạo kích/Bạo thương, đủ Bạo kích nếu cần lá chắn lớn. Mục tiêu là có lá chắn ngay đầu trận để kích 27% Sát thương bạo kích mà không tốn lượt.",
+        "PvP: 〈Thế Hồn〉 ưu tiên, hoặc 〈Địa Tạng Tượng〉/〈Xuất Thế Loa〉; Tốc độ/HP – HP – HP hoặc Bạo kích/Bạo thương. Ưu tiên HP và khả năng sống sót; chọn Tốc độ nếu cần chủ động dựng lá chắn sớm."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "禍津神の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/324425686737522949.html",
+      "usedFor": "đối chiếu hai giai đoạn Chú Sa/Họa Chú, phản sát thương, điểm yếu và các bộ ngự hồn"
+    },
+    {
+      "title": "阴阳师式神培养推荐—祸津神",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/568344453551490012",
+      "usedFor": "đối chiếu việc làm PvP, đội Ngự Hồn PvE và cấu hình Thế Hồn/Bạng Tinh"
+    },
+    {
+      "title": "魂土双白蛋全自动13秒：祸津神+天照",
+      "publisher": "YouTube",
+      "url": "https://www.youtube.com/watch?v=p_kGiG1Gs0k",
+      "usedFor": "xác nhận ứng dụng buff 27% Sát thương bạo kích trong đội Thiên Chiếu tốc chiến"
+    },
+    {
+      "title": "祸津神技能解析",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1BDPizfE7B/",
+      "usedFor": "đối chiếu Chú Sa, Chú Thực và quản lý HP",
+      "publishedAt": "04/03/2026"
+    }
+  ]
+}

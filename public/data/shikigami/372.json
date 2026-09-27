@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,8 +125,8 @@
         "zh": "长明如愿。"
       },
       "description": {
-        "vi": "[tips_11]. Tạo ra Huyễn Cảnh tồn tại 2 lượt và nhận 3 điểm [buff_3722_1]. Trong Huyễn Cảnh Kháng Hiệu Ứng bản thân tăng 80%, Thức Thần phe ta ngoại trừ bản thân khi thi triển kỹ năng, nhận [buff_3723_1], duy trì 1 lượt; nếu không đủ Quỷ Hỏa, dùng Nguyện Lực tương đương thay thế.",
-        "en": "[tips_11]. Creates a field that lasts 2 turns and gains 3 points of [buff_3722_1]. In the field, she gains 80% Effect RES and other allies gain [buff_3723_1] that's sustainable for 1 turn whenever they use a skill. If you don't have enough orbs, you can use an equal amount of Wish Power.",
+        "vi": "[tips_11] Tạo ra Huyễn Cảnh tồn tại 2 lượt và nhận 3 điểm [buff_3722_1]. Trong Huyễn Cảnh Kháng Hiệu Ứng bản thân tăng 80%, Thức Thần phe ta ngoại trừ bản thân khi thi triển kỹ năng, nhận [buff_3723_1], duy trì 1 lượt; nếu không đủ Quỷ Hỏa, dùng Nguyện Lực tương đương thay thế.",
+        "en": "[tips_11] Creates a field that lasts 2 turns and gains 3 points of [buff_3722_1]. In the field, she gains 80% Effect RES and other allies gain [buff_3723_1] that's sustainable for 1 turn whenever they use a skill. If you don't have enough orbs, you can use an equal amount of Wish Power.",
         "zh": "[tips_11]。创造存在2回合的幻境并获得3点[buff_3722_1]。幻境中自身效果抵抗增加80%，除自身外的友方式神施放技能时，获得[buff_3723_1]，维持1回合；若鬼火不足，则使用等量的愿力代替。"
       },
       "upgrades": [

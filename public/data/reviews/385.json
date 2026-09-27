@@ -1,0 +1,85 @@
+{
+  "shikigamiId": 385,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Khống chế PvP tốc độ cao có khả năng phản công miễn phí khi đội chịu sát thương lớn; rất ít giá trị trong PvE vì cơ chế khóa kỹ năng không tác dụng lên quái",
+  "summary": "《Dạ Ma Thiên Diêm Ma》 dùng [An Hồn Quỷ Vực] tốn 3 Quỷ Hỏa để gây 256% Công, có 70% xác suất cơ bản gây {−Biến Hình} một lượt và 60% xác suất gắn 2 tầng {−Mắt Của Enma} lên toàn bộ địch. Đủ 3 tầng sẽ chuyển thành {−Ác Linh Hình Kỳ}, khiến kỹ năng của mục tiêu vào hồi chiêu một lượt khi bắt đầu lượt. [Luân Hồi Chi Phổ] còn cho cô tự tung đại chiêu miễn phí vào nguồn sát thương khi sổ HP cạn hoặc đồng minh tử trận.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 2.5,
+      "note": "Khóa kỹ năng không tác dụng lên quái và sát thương không phải thế mạnh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 3,
+      "note": "Phản công có thể xuất hiện nhưng cơ chế chính bị vô hiệu trước boss/quái."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Người mở giao tranh hàng đầu: vừa áp {−Biến Hình}/{−Ác Linh Hình Kỳ}, vừa ghi HP cho đồng minh để chống đội quét AoE một nhịp."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Chuyên PvP, cần Tốc độ và Chính Xác Hiệu Ứng cao nên khá khó trang bị."
+    }
+  ],
+  "strengths": [
+    "[An Hồn Quỷ Vực] vừa thử gây {−Biến Hình} mục tiêu chính vừa rải 2 tầng {−Mắt Của Enma} lên toàn đội địch.",
+    "Nếu {−Biến Hình} không hiệu lực, kỹ năng cấp tối đa thử gắn thêm 1 tầng {−Mắt Của Enma} với xác suất cơ bản 100%, có thể lập tức tạo {−Ác Linh Hình Kỳ}.",
+    "Khi phần HP ghi bởi [Luân Hồi Chi Phổ] bị tiêu hao hết hoặc đồng minh không phải vật triệu hồi tử trận, cô có thể tự giải/miễn khống chế, đẩy 30% Thanh Hành Động và phản [An Hồn Quỷ Vực] miễn phí; tối đa 5 lần trong hiệp đầu."
+  ],
+  "weaknesses": [
+    "{−Ác Linh Hình Kỳ} không có hiệu lực với quái, nên gần như toàn bộ giá trị khóa kỹ năng chỉ dành cho PvP.",
+    "Các lần gắn {−Mắt Của Enma} chịu ảnh hưởng của Chính Xác Hiệu Ứng và có thể bị xua tan; cần đồng thời đạt Tốc độ cao và đủ Chính Xác.",
+    "Mỗi {−Ác Linh Hình Kỳ} trên địch làm cô giảm 5% Tốc độ, khiến ưu thế lượt suy giảm khi trận kéo dài."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": []
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Dạ Ma Thiên Diêm Ma》 có hai vai trò PvP cùng lúc. [An Hồn Quỷ Vực] nhắm vào mắt xích chủ chốt; ngay cả khi {−Biến Hình} bị miễn hoặc kháng, tầng {−Mắt Của Enma} vẫn có thể chuyển thành {−Ác Linh Hình Kỳ} và khóa kỹ năng ở đầu lượt mục tiêu. Sau lượt của cô, [Luân Hồi Chi Phổ] ghi lại một phần HP ban đầu của đồng minh, tạo lớp bảo hiểm đặc biệt khó chịu trước đội muốn quét cả đội bằng AoE.",
+        "Cô cần đi trước hoặc ít nhất chen được vào đúng thời điểm. Nếu thua tranh tốc, bị khóa trước lượt hoặc đối phương dùng sát thương đơn mục tiêu để tiêu phần HP ghi có kiểm soát, khả năng cứu đội giảm. Cơ chế nhiều tầng cũng đòi hỏi chọn mục tiêu chính xác; đặt dấu lên quân phụ sẽ bỏ lỡ cơ hội khóa chủ lực. Dù vậy, tổ hợp mở giao tranh và chống bùng nổ khiến cô vẫn là quân PvP có giá trị cao."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Ưu tiên bộ rời có Tốc độ cao nhất nếu nhiệm vụ là giành lượt đầu: vị trí 2 Tốc độ, vị trí 4 Chính Xác Hiệu Ứng hoặc HP, vị trí 6 HP/Phòng thủ; lấy Tốc độ và Chính Xác ở thuộc tính phụ.",
+        "Theo nhu cầu đội có thể dùng 〈Chiêu Tài Miêu〉 hoặc 〈Hỏa Linh〉 để hỗ trợ Quỷ Hỏa, 〈Phản Hồn Hương〉 để thêm khống chế khi bị đánh, hay 〈Phi Duyên Ma〉 nếu cần xuyên Kháng. Không hy sinh quá nhiều Tốc độ chỉ để hoàn thành bộ 4 món."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "大夜摩天閻魔の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/214433625788169832.html",
+      "usedFor": "đối chiếu cơ chế khóa kỹ năng, phản công, điểm yếu giảm Tốc và các bộ hỗ trợ"
+    },
+    {
+      "title": "大夜摩天阎魔斗技阵容推荐",
+      "publisher": "17173",
+      "url": "https://news.17173.com/z/yys/content/06242022/155636103.shtml",
+      "usedFor": "đối chiếu vai trò PvP, yêu cầu Tốc độ và vận hành đội hình"
+    },
+    {
+      "title": "SP大夜摩天阎魔PVP技能讲解",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1zu81ebE9o/",
+      "usedFor": "đối chiếu Ác Linh Hình Kỳ và cơ chế ghi HP",
+      "publishedAt": "21/07/2024"
+    }
+  ]
+}

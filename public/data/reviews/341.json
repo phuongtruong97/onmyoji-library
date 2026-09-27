@@ -1,0 +1,93 @@
+{
+  "shikigamiId": 341,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "medium",
+  "verdict": "Hỗ trợ công thủ đa dụng: tăng sát thương theo HP đã mất, miễn khống chế bản thân, đẩy lùi toàn đội địch và tạo nhịp bất tử một lượt",
+  "summary": "《Quỷ Vương Tửu Thốn Đồng Tử》 cho toàn đội {+Đại Yêu Chi Lực}: càng mất HP càng tăng sát thương và giảm sát thương nhận vào, còn hiệu quả trên bản thân gấp đôi. [Thiên Hỏa Nộ Diễm] đẩy lùi 40% thanh toàn đội địch, giải 2 buff rồi mở {+Tư thế Quỷ Vương}; đầu lượt đồng minh bị đốt 24% HP hiện tại nhưng miễn sát thương tới đầu lượt sau. Anh vừa hỗ trợ PvP, vừa là mắt xích trong một số đội PvE cần chủ động hạ HP, nhưng giảm 30% trị liệu nhận vào và đại chiêu cần 3 Quỷ Hỏa.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7,
+      "note": "Tăng sát thương theo HP mất và hỗ trợ các đội cần hạ máu chủ động, nhưng vai trò phụ thuộc đội hình."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Có giảm sát thương và hồi đội khi trạng thái kết thúc, song giảm trị liệu nhận vào cần được tính trước."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Trụ cột xoay lượt cho đội Thiền–Thôn và nhiều đội hậu thủ: đẩy thanh địch, tạo nhịp miễn sát thương và khuếch đại đồng minh thấp HP; cần quản lý Quỷ Hỏa và lượng HP rất chặt."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Giá trị lâu dài cao nhưng cần hiểu cơ chế đốt HP và nâng kỹ năng 2–3."
+    }
+  ],
+  "strengths": [
+    "[Hồng Liên] giúp bản thân miễn hiệu ứng khống chế và Trục Xuất; {+Đại Yêu Chi Lực} tăng cả sát thương lẫn giảm sát thương theo HP đã mất.",
+    "[Thiên Hỏa Nộ Diễm] đẩy lùi 40% Thanh Hành Động toàn bộ địch và giải 2 buff trước khi mở trạng thái.",
+    "{+Tư thế Quỷ Vương} đốt 24% HP hiện tại đầu lượt đồng minh nhưng cho miễn sát thương đến đầu lượt kế tiếp; dưới 30% HP còn giải/xóa toàn bộ khống chế sau khi bị đốt."
+  ],
+  "weaknesses": [
+    "Bản thân nhận trị liệu giảm 30%; quản lý HP sai có thể khiến anh khó hồi phục dù càng thấp máu càng mạnh.",
+    "[Thiên Hỏa Nộ Diễm] cần 3 Quỷ Hỏa và chỉ dùng được khi chưa ở {+Tư thế Quỷ Vương}.",
+    "Hiệu ứng đốt HP có thể đưa đồng minh vào ngưỡng nguy hiểm nếu đội không tận dụng được miễn sát thương hoặc bị hiệu ứng xuyên qua bảo hộ."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng trong đội cần chủ động hạ HP để khuếch đại sát thương, đặc biệt khi đồng đội có cơ chế phát huy ở máu thấp. Ở đội farm cố định, có thể xây Công cao để vừa tăng sát thương vừa phục vụ ngưỡng đội; không nên sao chép chỉ số tốc độ từ đội khác vì thứ tự hành động là điều kiện riêng từng phó bản."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Quỷ Vương Tửu Thôn Đồng Tử》 vẫn được dùng như mắt xích tạo nhịp trong các đội Thiền–Thôn và đội hậu thủ. [Thiên Hỏa Nộ Diễm] đẩy lùi toàn đội địch, giải buff rồi mở một khoảng an toàn để đồng minh hành động; cơ chế tăng sát thương theo HP đã mất giúp các chủ lực đánh mạnh hơn khi trận kéo dài. Bản thân anh miễn khống chế, nên có thể duy trì vận hành ngay cả khi đội bị gây nhiễu.",
+        "Anh không cấp miễn khống chế thường trực cho toàn đội. Đồng minh chỉ được giải trạng thái theo đúng điều kiện HP của cơ chế thiêu đốt, và việc chủ động giảm HP có thể phản tác dụng trước sát thương xuyên bảo hộ hoặc đòn kết liễu. Đội cũng phải dành đủ Quỷ Hỏa cho đại chiêu; nếu bị phá lửa hoặc ép mở trạng thái sai thời điểm, chuỗi phản công dễ bị đứt."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP xoay lượt: 〈Chiêu Tài Miêu〉; Tốc độ – Công/HP – HP/Bạo kích, ưu tiên Tốc độ rồi cân bằng sống sót và sát thương theo đội.",
+        "Đội cần lửa mở màn: 〈Hỏa Linh〉; Tốc độ – HP/Công – HP. PvE đội hình cố định có thể dùng bộ 2 món Công hoặc Ngự Hồn theo yêu cầu ngưỡng, nhưng phải căn thứ tự và Công thực tế thay vì dùng một cấu hình chung."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "SP鬼王酒吞童子看法与解读",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/354207516_120099903",
+      "usedFor": "đối chiếu Đại Yêu Chi Lực, vai trò PvE/PvP và hướng Ngự Hồn"
+    },
+    {
+      "title": "鬼王酒吞童子斗技阵容与御魂搭配",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/360163000_120099889",
+      "usedFor": "đối chiếu cơ chế đốt HP, hồi phục và vận hành PvP"
+    },
+    {
+      "title": "SP鬼王酒吞童子御魂跟阵容",
+      "publisher": "Dcard 陰陽師板",
+      "url": "https://www.dcard.tw/f/onmyoji/p/233707791",
+      "usedFor": "đối chiếu Chiêu Tài và cách dùng trong đội PvE cố định"
+    },
+    {
+      "title": "离封体系对战神龙平实战",
+      "publisher": "小狐狸鸡 / Bilibili",
+      "url": "https://www.bilibili.com/video/BV1EUhv6LEdD/",
+      "usedFor": "đối chiếu vai trò hiện hành của lõi Ly–Phong và Thiền–Thôn",
+      "publishedAt": "21/09/2026"
+    }
+  ]
+}

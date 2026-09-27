@@ -1,13 +1,16 @@
 'use client';
 
-import { ChevronLeft, ChevronRight, Flame, ListFilter, Search, X } from 'lucide-react';
-import Link from 'next/link';
+import { ChevronDown, ChevronLeft, ChevronRight, ChevronUp, Flame, ListFilter, Search, X } from 'lucide-react';
 import { useEffect, useMemo, useState } from 'react';
+import DonateButton from './donate-button';
+import ShikigamiReview from './shikigami-review';
+import SoulRecommendationBuilder from './soul-recommendation-builder';
+import SkillReportButton from './skill-report-button';
 
 type Language = 'vi' | 'en' | 'zh';
 type Text3 = Record<Language, string>;
 type Assets = { portraitFile: string; headIconFile: string };
-type CatalogHero = { id: number; name: Text3; rarity: string; tier?: string; assets: Assets };
+type CatalogHero = { id: number; name: Text3; rarity: string; tier?: string; sex?: 'm' | 'f' | ''; assets: Assets };
 type Skill = { id: number | string; number: number; variantOrder?: number; parentSkillId?: number | string | null; maxLevel: number; name: Text3; intro: Text3; description: Text3; upgrades: { level: number; text: Text3 }[]; orbCost: number; iconFile: string };
 type Hero = CatalogHero & { level: number; maxLevel: number; statState: string; reviewStatus: string; stats: { key: string; label: string; value: number | string; grade: string }[]; secondaryStats: Record<string, string>; skills: Skill[] };
 type GlossaryEntry = { kind: string; title: Text3; description: Text3; iconFile?: string };
@@ -60,6 +63,7 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
   const [activeSlot, setActiveSlot] = useState(0);
   const [activeVariants, setActiveVariants] = useState<Record<number, number>>({});
   const [showVariants, setShowVariants] = useState(false);
+  const [showShikigamiExtras, setShowShikigamiExtras] = useState(false);
   const [language, setLanguage] = useState<Language>('vi');
   const [query, setQuery] = useState('');
   const [rarity, setRarity] = useState('Tất cả');
@@ -71,7 +75,7 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
   const currentIndex = catalog?.heroes.findIndex(h => h.id === selectedId) ?? -1;
 
   useEffect(() => {
-    fetch('/data/shikigami_catalog.json')
+    fetch('/data/shikigami_catalog.json', { cache: 'no-store' })
       .then(r => r.json())
       .then(c => {
         setCatalog(c);
@@ -81,22 +85,34 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
         setSelectedId(requestedHero?.id ?? newestHero?.id ?? null);
       })
       .catch(() => setLoading(false));
-    fetch('/data/glossary.json').then(r => r.json()).then(setGlossary).catch(() => {});
+    fetch('/data/glossary.json', { cache: 'no-store' }).then(r => r.json()).then(setGlossary).catch(() => {});
   }, []);
   useEffect(() => {
     if (selectedId === null) return;
     const controller = new AbortController();
     setLoading(true);
-    fetch(`/data/shikigami/${selectedId}.json`, { signal: controller.signal }).then(r => { if (!r.ok) throw Error(); return r.json(); })
-      .then(d => { setHero(d); setActiveSlot(0); setActiveVariants({}); setShowVariants(false); setActiveToken(null); setAnimationKey(k => k + 1); setLoading(false); history.replaceState(null, '', `?hero=${selectedId}`); })
+    fetch(`/data/shikigami/${selectedId}.json`, { signal: controller.signal, cache: 'no-store' }).then(r => { if (!r.ok) throw Error(); return r.json(); })
+      .then(d => { setHero(d); setActiveSlot(0); setActiveVariants({}); setShowVariants(false); setShowShikigamiExtras(false); setActiveToken(null); setAnimationKey(k => k + 1); setLoading(false); history.replaceState(null, '', `?hero=${selectedId}`); })
       .catch(error => { if (error?.name !== 'AbortError') setLoading(false); });
     return () => controller.abort();
   }, [selectedId]);
   useEffect(() => {
+    if (!showShikigamiExtras) return;
+    const closeWhenOutside = (event: PointerEvent) => {
+      const target = event.target as Element | null;
+      if (!target || target.closest('.shikigami-extra-panel') || target.closest('.shikigami-extra-handle')) return;
+      setShowShikigamiExtras(false);
+      setShowVariants(false);
+      setActiveToken(null);
+    };
+    document.addEventListener('pointerdown', closeWhenOutside);
+    return () => document.removeEventListener('pointerdown', closeWhenOutside);
+  }, [showShikigamiExtras]);
+  useEffect(() => {
     if (!catalog || selectedId === null || currentIndex < 0) return;
     const warmHero = (item: CatalogHero | undefined) => {
       if (!item) return;
-      fetch(`/data/shikigami/${item.id}.json`).catch(() => {});
+      fetch(`/data/shikigami/${item.id}.json`, { cache: 'no-store' }).catch(() => {});
       if (item.assets.portraitFile) {
         const image = new Image();
         image.src = `/portraits/${item.assets.portraitFile}`;
@@ -148,9 +164,9 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
     <header className="topbar">
       <button className="icon-button" onClick={() => setShowLibrary(v => !v)} aria-label="Mở thư viện"><ListFilter /></button>
       <div className="brand-lockup"><span>ONMYOJI • THƯ VIỆN THỨC THẦN</span><strong>{catalog?.count || 266} thức thần</strong></div>
-      <Link className="section-link" href="/ngu-hon">Ngự hồn</Link>
+      <nav className="section-nav"><a className="section-link active" href="/">Thức thần</a><a className="section-link" href="/onmyoji">Âm Dương Sư</a><a className="section-link" href="/ngu-hon">Ngự Hồn</a><a className="section-link" href="/bondling">Khế Linh</a></nav>
       <label className="searchbox"><Search size={18} /><input value={query} onChange={e => { setQuery(e.target.value); setShowLibrary(true); }} placeholder="Tìm tên Việt, Anh hoặc Trung" /></label>
-      <div className="language-tabs">{languages.map(l => <button key={l.id} className={language === l.id ? 'active' : ''} onClick={() => { setLanguage(l.id); setActiveToken(null); }}>{l.label}</button>)}</div>
+      <div className="language-tabs">{languages.map(l => <button key={l.id} className={language === l.id ? 'active' : ''} onClick={() => { setLanguage(l.id); setActiveToken(null); }}>{l.label}</button>)}</div><DonateButton />
     </header>
     <aside className={`library-drawer ${showLibrary ? 'open' : ''}`}>
       <div className="library-heading"><div><b>Danh sách thức thần</b><small>{filtered.length} kết quả</small></div><button onClick={() => setShowLibrary(false)}><X /></button></div>
@@ -169,7 +185,7 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
           <div className="identity-copy"><span>Thức thần #{hero.id}</span><h1>{hero.name[language]}</h1><p>{language === 'vi' ? hero.name.en : hero.name.vi}</p></div>
           <button className="switch-arrow left" onClick={() => moveHero(-1)}><ChevronLeft /></button><button className="switch-arrow right" onClick={() => moveHero(1)}><ChevronRight /></button>
         </aside>
-        <section className="info-card">
+        <section className={`info-card shikigami-extra-host ${showShikigamiExtras ? 'tray-open' : ''}`}>
           <div className="card-heading"><div><span>THÔNG TIN THỨC THẦN</span><h2>Lv. <strong>{hero.level}</strong>/{hero.maxLevel}</h2></div><span className="status-chip">{hero.statState === 'EVOLVED' ? 'Evolved Lv.40' : hero.statState === 'SP_NO_EVO' ? 'SP · Lv.40' : 'Lv.40'}</span></div>
           <div className="stats-grid">{hero.stats.map(s => <div className="stat-row" key={s.key}><UiIcon kind="grades" name={String(s.grade)} className={`grade grade-${String(s.grade).toLowerCase()}`} /><span>{statLabels[s.key]?.[language] || s.label}</span><strong>{s.value}</strong></div>)}{Object.entries(hero.secondaryStats || {}).map(([k, v]) => <div className="stat-row secondary" key={k}><span>{secondaryLabels[k]?.[language] || k}</span><strong>{v}</strong></div>)}</div>
           {currentSlot?.variants.length > 1 && showVariants && <div className="skill-variant-picker">
@@ -181,11 +197,21 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
               <SkillIcon skill={variant} className="variant-glyph" fallback={currentSlot.slot} />
             </button>)}</div>
           </div>}
+          <div className={`shikigami-extra-panel soul-recommendation-panel ${showShikigamiExtras ? 'open' : ''}`} aria-hidden={!showShikigamiExtras}>
+            <div className="shikigami-extra-title">{language === 'vi' ? 'Ngự Hồn Đề Xuất' : language === 'en' ? 'Recommended Souls' : '推荐御魂'}</div>
+            {showShikigamiExtras && <SoulRecommendationBuilder shikigamiId={hero.id} language={language} />}
+          </div>
+          <button className="skill-tray-handle shikigami-extra-handle" onClick={() => { setShowShikigamiExtras(value => !value); setShowVariants(false); setActiveToken(null); }} aria-expanded={showShikigamiExtras} aria-label={showShikigamiExtras ? 'Thu gọn giao diện Thức Thần 2' : 'Mở giao diện Thức Thần 2'}>{showShikigamiExtras ? <ChevronDown /> : <ChevronUp />}</button>
           <div className="skills-dock">{skillSlots.map((group, i) => { const selectedVariant = group.variants[Math.min(activeVariants[group.slot] || 0, group.variants.length - 1)]; return <button key={group.slot} className={i === activeSlot ? 'selected' : ''} onClick={() => { if (i === activeSlot && group.variants.length > 1) setShowVariants(v => !v); else { setActiveSlot(i); setShowVariants(group.variants.length > 1); } setActiveToken(null); }}><SkillIcon skill={selectedVariant} className={`skill-glyph glyph-${i % 3 + 1}`} fallback={group.slot} /><b>{selectedVariant.maxLevel}</b><small>{selectedVariant.name[language]}</small>{group.variants.length > 1 && <em className="variant-count">+{group.variants.length - 1}</em>}</button>})}</div>
         </section>
-        <article className="skill-scroll">
+        <article className="skill-scroll shikigami-extra-host">
+          <SkillReportButton shikigamiId={hero.id} skillId={skill.id} skillName={skill.name[language]} />
           <header className="skill-heading"><SkillIcon skill={skill} className={`large-glyph glyph-${activeSlot % 3 + 1}`} fallback={currentSlot?.slot || activeSlot + 1} /><div><span>KỸ NĂNG CẤP TỐI ĐA • Lv.{skill.maxLevel}</span><h2>{skill.name[language]}</h2><p>{skill.intro[language]}</p></div>{skill.orbCost > 0 && <div className="orb-cost"><Flame size={18} />{skill.orbCost}</div>}</header>
           <div className="skill-body"><div className="skill-tags"><span>Chiến đấu</span><span>{skill.maxLevel > 1 ? 'Có thể nâng cấp' : 'Kỹ năng đặc biệt'}</span></div><p className="description"><RichText text={skill.description[language]} language={language} glossary={glossary} onToken={setActiveToken} /></p>{displayedUpgrades.length > 0 && <div className="upgrade-list"><h3>{language === 'vi' ? 'Hiệu quả nâng cấp' : language === 'en' ? 'Upgrade effects' : '升级效果'}</h3><p className="upgrade-note">{language === 'vi' ? 'Mô tả kỹ năng phía trên đã bao gồm tất cả các hiệu quả nâng cấp.' : language === 'en' ? 'The skill description above already includes all upgrade effects.' : '上方技能描述已包含全部升级效果。'}</p>{displayedUpgrades.map((u, index) => <div key={`${u.level}-${u.text.vi}-${u.text.en}-${u.text.zh}-${index}`}><b>Lv.{u.level}</b><p><RichText text={u.text[language]} language={language} glossary={glossary} onToken={setActiveToken} /></p></div>)}</div>}</div>
+          <div className={`shikigami-extra-panel shikigami-review-panel ${showShikigamiExtras ? 'open' : ''}`} aria-hidden={!showShikigamiExtras}>
+            <div className="shikigami-extra-title">{language === 'vi' ? 'Đánh Giá Thức Thần' : language === 'en' ? 'Shikigami Review' : '式神评价'}</div>
+            {showShikigamiExtras && <ShikigamiReview shikigamiId={hero.id} language={language} />}
+          </div>
           {activeToken && glossary[activeToken] && <aside className="glossary-popover"><button className="close-popover" onClick={() => setActiveToken(null)}><X size={16} /></button><span className={`glossary-kind ${glossary[activeToken].kind}`}>{glossary[activeToken].kind === 'buff' ? 'BUFF / DẤU ẤN' : 'THUẬT NGỮ'}</span><div className="glossary-title">{glossary[activeToken].iconFile && <img src={`/buff-icons/${glossary[activeToken].iconFile}`} alt="" onError={e => { e.currentTarget.style.display = 'none'; }} />}<h3>{glossary[activeToken].title[language] || `[${activeToken}]`}</h3></div><p><RichText text={glossary[activeToken].description[language]} language={language} glossary={glossary} onToken={setActiveToken} /></p></aside>}
         </article>
       </section>}

@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -182,15 +183,15 @@
         "zh": "不能摧毁我的，都将令我更加强大。"
       },
       "description": {
-        "vi": "[tips_11] Khi trận đấu bắt đầu và sau khi lượt bản thân kết thúc, nhận 1 tầng [buff_5503_1]; khi nhận [buff_5503_1], xua tan 1 trạng thái tiêu cực cho toàn bộ phe ta. Khi lượt bản thân bắt đầu, nếu số tầng [buff_5503_1] đạt 5 tầng, tiêu hao toàn bộ số tầng tiến vào tư thế [buff_5504_1], duy trì 3 lượt, khi thời gian duy trì kết thúc nhận 1 tầng [buff_5503_1]. \nKhi tiến vào tư thế [buff_5504_1], loại bỏ toàn bộ trạng thái giảm ích của bản thân; nếu loại bỏ [tips_3], thời gian duy trì [buff_5504_1] giảm xuống 1 lượt.",
-        "en": "[tips_11]. At the start of battle and after this unit's turn ends, gain 1 stack of [buff_5503_1]; whenever [buff_5503_1] is gained, dispel 1 debuff from all allies. At the start of this unit's turn, if [buff_5503_1] reaches 5 stacks, consume all stacks to enter [buff_5504_1] stance for 3 turns, and gain 1 stack of [buff_5503_1] when the duration ends. Upon entering [buff_5504_1] stance, remove all debuffs from this unit; if [tips_3] is removed, the duration of [buff_5504_1] is reduced to 1 turn.",
+        "vi": "[tips_11] Khi trận đấu bắt đầu và sau khi lượt bản thân kết thúc, nhận 1 tầng [buff_5503_1]; khi nhận [buff_5503_1], xua tan 1 trạng thái tiêu cực cho toàn bộ phe ta. Khi lượt bản thân bắt đầu, nếu số tầng [buff_5503_1] đạt 5 tầng, tiêu hao toàn bộ số tầng tiến vào tư thế [buff_5504_1], duy trì 3 lượt, khi thời gian duy trì kết thúc nhận 1 tầng [buff_5503_1]. \nKhi tiến vào tư thế [buff_5504_1], loại bỏ toàn bộ trạng thái debuff của bản thân; nếu loại bỏ [tips_3], thời gian duy trì [buff_5504_1] giảm xuống 1 lượt.",
+        "en": "[tips_11] At the start of battle and after this unit's turn ends, gain 1 stack of [buff_5503_1]; whenever [buff_5503_1] is gained, dispel 1 debuff from all allies. At the start of this unit's turn, if [buff_5503_1] reaches 5 stacks, consume all stacks to enter [buff_5504_1] stance for 3 turns, and gain 1 stack of [buff_5503_1] when the duration ends. Upon entering [buff_5504_1] stance, remove all debuffs from this unit; if [tips_3] is removed, the duration of [buff_5504_1] is reduced to 1 turn.",
         "zh": "[tips_11]。战斗开始时与自身回合结束后，获得1层[buff_5503_1]；获得[buff_5503_1]时，驱散友方全体1个负面状态。自身回合开始时，若[buff_5503_1]层数到达5层，消耗全部层数进入[buff_5504_1]姿态，持续3回合，持续时间结束时获得1层[buff_5503_1]。进入[buff_5504_1]姿态时，移除自身所有减益；若移除了[tips_3]，则[buff_5504_1]持续时间降至1回合。"
       },
       "upgrades": [
         {
           "level": 2,
           "text": {
-            "vi": "Khi tiến vào tư thế [buff_5504_1], loại bỏ toàn bộ trạng thái giảm ích của bản thân; nếu loại bỏ [tips_3], thời gian duy trì [buff_5504_1] giảm xuống 1 lượt",
+            "vi": "Khi tiến vào tư thế [buff_5504_1], loại bỏ toàn bộ trạng thái debuff của bản thân; nếu loại bỏ [tips_3], thời gian duy trì [buff_5504_1] giảm xuống 1 lượt",
             "en": "When she starts performing a [buff_5504_1], removes all debuffs from her. If a [tips_3] is removed this way, the duration of her [buff_5504_1] is reduced to 1 turn.",
             "zh": "进入[buff_5504_1]姿态时，移除自身所有减益；若移除了[tips_3]，则[buff_5504_1]持续时间降至1回合"
           }
@@ -198,7 +199,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Khi ở tư thế [buff_5504_1], trong lượt bản thân miễn nhiễm giảm ích cùng sát thương",
+            "vi": "Khi ở tư thế [buff_5504_1], trong lượt bản thân miễn nhiễm debuff cùng sát thương",
             "en": "While she's performing a [buff_5504_1], grants her immunity to debuffs and damage on her turn.",
             "zh": "处于[buff_5504_1]姿态时，自身回合内免疫减益与伤害"
           }
@@ -241,7 +242,7 @@
       },
       "description": {
         "vi": "[tips_11] Tạo ra Tước Vũ Kết Giới 2 lượt và nhận 1 tầng [buff_5503_1], trong kết giới Kháng Hiệu Ứng của phe địch giảm 30%, sát thương đơn thể gây ra giảm 30%, sát thương đơn thể bản thân gánh chịu giảm 20%. Khi thi triển có 40% xác suất cơ bản đính kèm [tips_114] cho toàn bộ phe địch, duy trì 1 lượt. Khi mục tiêu phe ta không phải vật triệu hồi có HP thấp nhất trong kết giới chịu sát thương, có 40% [tips_2] đính kèm [tips_114] cho nguồn gây sát thương, duy trì 1 lượt. \n[tips_7]: Tạo ra Tước Vũ Kết Giới 2 lượt. Khi ở tư thế [buff_5504_1] đổi thành [skill_5505_1], cấp độ tăng theo sự cường hóa kỹ năng [Mê Ly Chi Cảnh].",
-        "en": "[tips_11]. Creates Plume Field for 2 turns and gains 1 stack of [buff_5503_1]. Enemies inside the field lose 30% Effect RES and deal 30% less single-target damage, and self takes 20% less single-target damage. On cast, has a 40% base chance to inflict [tips_114] on all enemies for 1 turn. While the field is active, when the non-summoned entity ally with the lowest HP takes damage, has a 40% [tips_2] to inflict [tips_114] on the damage source for 1 turn. [tips_7]: Creates Plume Field for 2 turns. While in [buff_5504_1] stance, this skill is replaced with [skill_5505_1], and its level scales with Alluring Realm.",
+        "en": "[tips_11] Creates Plume Field for 2 turns and gains 1 stack of [buff_5503_1]. Enemies inside the field lose 30% Effect RES and deal 30% less single-target damage, and self takes 20% less single-target damage. On cast, has a 40% base chance to inflict [tips_114] on all enemies for 1 turn. While the field is active, when the non-summoned entity ally with the lowest HP takes damage, has a 40% [tips_2] to inflict [tips_114] on the damage source for 1 turn. [tips_7]: Creates Plume Field for 2 turns. While in [buff_5504_1] stance, this skill is replaced with [skill_5505_1], and its level scales with Alluring Realm.",
         "zh": "[tips_11]。创造2回合的雀羽结界并获得1层[buff_5503_1]，结界中敌方效果抵抗降低30%，造成单体伤害降低30%，自身受到的单体伤害降低20%。施放时有40%基础概率为敌方全体施加[tips_114]，持续1回合。结界中生命最低的非召唤物友方受到伤害时，有40%[tips_2]为伤害来源施加[tips_114]，持续1回合。[tips_7]：创造2回合的雀羽结界。处于[buff_5504_1]姿态时替换为[[skill_5505_1]，等级随[迷离之境]技能强化。"
       },
       "upgrades": [

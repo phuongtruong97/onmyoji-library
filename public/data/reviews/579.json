@@ -1,0 +1,96 @@
+{
+  "shikigamiId": 579,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực đơn thể PvE sáu hit chỉ tốn 1 Quỷ Hỏa, có thêm ba đòn hiệp chiến và hệ số tăng mạnh khi đánh quái",
+  "summary": "《Dao Âm Khẩn Na La》 đánh thức Genjo ngay đầu trận và sau mỗi lượt. Khi hoạt động, Genjo hiệp chiến tối đa 3 lần trong lượt của đồng minh có Công ban đầu cao nhất, mỗi lần gây 62% Công; đồng thời cô nhận 100% Kháng Bạo kích, 100% Kháng Hiệu Ứng và toàn đội nhận 160 Phòng thủ. [Thế Gian Chi Khúc] chỉ tốn 1 Quỷ Hỏa, đánh một mục tiêu 6 lần; khi đánh quái, hệ số các hit của cô và Genjo tăng dần 23%, biến cô thành chủ lực/đòn bổ sung rất mạnh cho Ngự Hồn và boss PvE.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Sáu hit giá 1 lửa cùng ba đòn Genjo phù hợp kết liễu boss Ngự Hồn."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9.5,
+      "note": "Hệ số tăng theo từng hit khi đánh quái và tiếp tục tăng qua đòn Genjo."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 5.5,
+      "note": "Có kháng và Phòng thủ đội, nhưng mất phần tăng hệ số chuyên đánh quái."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Chủ lực PvE đáng đầu tư, nhưng cần kỹ năng 2–3 tối đa và bộ sát thương tốt."
+    }
+  ],
+  "strengths": [
+    "[Thế Gian Chi Khúc] đánh đơn mục tiêu 6 lần nhưng chỉ tiêu hao 1 Quỷ Hỏa.",
+    "Genjo hiệp chiến tối đa 3 lần trong lượt của đồng minh có Công ban đầu cao nhất, tạo thêm sát thương ngoài lượt mà cô không cần tự hành động.",
+    "Khi đánh quái, hệ số từng hit của cô và Genjo tăng dần 23%; sau mỗi đòn Genjo còn tăng hệ số [Thế Gian Chi Khúc] 12%, tối đa 24% trong lượt.",
+    "Khi Genjo được đánh thức, cô có 100% Kháng Bạo kích và Kháng Hiệu Ứng, còn toàn đội được thêm 160 Phòng thủ trong 2 lượt."
+  ],
+  "weaknesses": [
+    "Cần bảo đảm đúng đồng minh có Công ban đầu cao nhất để ba đòn hỗ trợ của Genjo xảy ra trong lượt chủ lực mong muốn.",
+    "Phần tăng hệ số 23% chỉ áp dụng khi đánh quái, khiến sức ép PvP thấp hơn rất nhiều so với PvE.",
+    "Là chủ lực đơn thể; không tự giải quyết các đợt quái nhiều mục tiêu.",
+    "Đòn nhiều hit phụ thuộc Bạo kích và chất lượng Ngự Hồn; thiếu 100% Bạo kích làm kết quả farm kém ổn định."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Cô có hai cách tạo sát thương trong cùng chu kỳ: tự dùng [Thế Gian Chi Khúc] sáu hit và để Genjo đánh thêm ba lần trong lượt đồng minh Công ban đầu cao nhất. Vì vậy phải căn Công ban đầu để Genjo đi cùng đúng chủ lực, tương tự các đội yêu cầu khóa mục tiêu hỗ trợ theo chỉ số.",
+        "Nguồn thực chiến ghi nhận cô trong đội Ngự Hồn Bi Minh/Ngự Hồn Vĩnh Sinh, dùng để bù ngưỡng sát thương hoặc làm chủ lực đơn thể. Hệ số tăng dần theo hit khiến cô đặc biệt hợp mục tiêu nhiều HP hơn là dọn quái mỏng."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Kháng Bạo kích, Kháng Hiệu Ứng và 160 Phòng thủ toàn đội giúp cô không hoàn toàn yếu ở PvP, nhưng đại chiêu mất phần tăng hệ số chuyên đánh quái. Cô chủ yếu là lựa chọn đội hình ngách có chủ lực Công cao để tận dụng Genjo, không phải chủ lực đấu kỹ mặc định."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE ổn định nhiều hit: 〈Ẩn Niệm〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích trước rồi tối ưu Công và Sát thương bạo kích.",
+        "Đội giữ nhiều Quỷ Hỏa: 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉; Công – Công – Bạo kích/Sát thương bạo kích. Chỉ chọn khi sau khi trả 1 Quỷ Hỏa cho [Thế Gian Chi Khúc], đội vẫn còn lượng lửa cao. 〈Tâm Nhãn〉 là phương án đánh cuối khi mục tiêu đã mất nhiều HP."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "SP瑶音紧那罗评测",
+      "publisher": "什么值得买 / cộng đồng Âm Dương Sư",
+      "url": "https://post.m.smzdm.com/zz/p/anm64vpp/",
+      "usedFor": "đối chiếu hệ số, vị trí kết liễu Ngự Hồn, 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉 và giới hạn PvP"
+    },
+    {
+      "title": "魂海101，瑶音紧那罗入队",
+      "publisher": "Bilibili / 术介爱喝茶",
+      "url": "https://www.bilibili.com/video/BV1KxP9e8EYf/",
+      "usedFor": "đối chiếu đội PvE thực chiến và điều kiện khóa đồng minh Công cao nhất cho Genjo",
+      "publishedAt": "03/02/2025"
+    },
+    {
+      "title": "瑶音紧那罗培养与御魂",
+      "publisher": "九游",
+      "url": "https://www.9game.cn/yys/11261437.html",
+      "usedFor": "đối chiếu 〈Ẩn Niệm〉, 〈Tâm Nhãn〉, 〈Quỷ Linh Ca Kỹ〉 và trục chỉ số"
+    },
+    {
+      "title": "2025年PVE必养式神推荐",
+      "publisher": "新浪 / 中关村在线",
+      "url": "https://finance.sina.cn/tech/2025-07-27/detail-infhxqvn0662066.d.html?wm=3049_0015",
+      "usedFor": "đối chiếu mức ưu tiên PvE và yêu cầu kỹ năng 155",
+      "publishedAt": "27/07/2025"
+    }
+  ]
+}

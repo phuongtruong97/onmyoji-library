@@ -1,0 +1,109 @@
+{
+  "shikigamiId": 608,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "medium",
+  "verdict": "Đáng nuôi cho PvE ngắn lượt và có giá trị chiến thuật cao trong PvP",
+  "summary": "《Thạch Trường Cơ》 là chủ lực diện rộng thiên về kết thúc trận nhanh. Điểm khác biệt lớn nhất nằm ở [Bàn Trường Kỷ] và cơ chế {+Hoàn Nguyên}: vừa giữ bộ chỉ số thuận lợi cho bản thân, vừa có thể phá những đội hình phụ thuộc vào biến thân, bảo hộ hoặc tích tầng. Cô mạnh theo tình huống, không phải bản thay thế tuyệt đối cho 《Thiên Chiếu》 hay 《Tuyết Ngự Tiền》.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Sát thương đơn đoạn lớn, tốc độ cơ bản cao và hoạt ảnh gọn."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6.5,
+      "note": "Không tận dụng tốt cơ chế cần nhiều hit hoặc trận đánh kéo dài."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Hai hướng dùng rõ rệt: bản sát thương đánh nhanh hoặc bản tốc độ hỗ trợ kích hoạt đội; mạnh khi giành được nhịp nhưng sợ khóa kỹ năng và áp lực đơn mục tiêu."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 9,
+      "note": "Dễ đưa vào đội hình farm và có giá trị lâu dài ở nhiều chế độ."
+    }
+  ],
+  "strengths": [
+    "[Vĩnh Hằng Hồi Hưởng] gây sát thương diện rộng đơn đoạn lớn, phù hợp đội hình đánh nhanh.",
+    "Tốc độ cơ bản 120 và chỉ số Công cao giúp giảm áp lực trang bị.",
+    "{+Hoàn Nguyên} có thể xử lý một số lớp bảo hộ, trạng thái biến thân và tầng hiệu ứng."
+  ],
+  "weaknesses": [
+    "Không có truy kích để tự dọn mục tiêu còn ít máu.",
+    "Tương đối mỏng trong PvP; dễ bị 《Tu Tá Chi Nam》 gây áp lực nếu thiếu bảo vệ.",
+    "Dùng [Bàn Trường Kỷ] không đúng thời điểm có thể làm đội hình tự động kém ổn định."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Cộng đồng Trung Quốc nhìn chung xếp 《Thạch Trường Cơ》 vào nhóm chủ lực short-run: thích hợp Ngự Hồn, Bi Minh, Nghiệp Nguyên Hỏa và các màn cần kết thúc trong một hoặc vài lượt. [Vĩnh Hằng Hồi Hưởng] đánh mục tiêu chính mạnh hơn phần còn lại, nên đội hình vẫn cần tính toán người dọn cuối nếu sát thương không đồng đều.",
+        "Ở nội dung dài lượt, đội hình xoay quanh 《Tuyết Ngự Tiền》, 《Bình Tướng Môn》 hoặc 《Cát Diệp》 thường ổn định hơn. Khi chạy tự động nên ưu tiên khóa [Vĩnh Hằng Hồi Hưởng], chỉ dùng [Bàn Trường Kỷ] khi đội hình thật sự cần {+Hoàn Nguyên}."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Video thực chiến sau khi ra mắt cho thấy 《Thạch Trường Cơ》 không chỉ là chủ lực diện rộng. Bản sát thương có thể đi cùng 《Quỷ Vương Tửu Thốn Đồng Tử》 để tạo áp lực rất sớm, còn bản tốc độ cao dùng [Bàn Trường Kỷ] như một công cụ mở nhịp cho đội hình 《Tư Kim Thần》 – 《Thiên Hỏa Mệnh Linh Ngạn Cơ》. Điểm mạnh của cô là buộc đối thủ phải đoán hướng xây dựng ngay từ giai đoạn chọn đội.",
+        "Giá trị của {+Hoàn Nguyên} nằm ở việc phá trạng thái đã tích lũy hoặc đưa mục tiêu trở lại mốc bất lợi, nhưng không phải hiệu ứng xóa mọi cơ chế. Khi bị khóa kỹ năng, ép đơn mục tiêu hoặc không thể chen lượt, cô khá mỏng và dễ mất tác dụng. Vì vậy nên xem cô là quân đánh nhanh/đối sách có trần cao, không phải lựa chọn an toàn cho mọi đội hình."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE: 〈Phiến Diệp Chi Vi〉 + 〈Hoang Khô Lâu〉; có thể dùng 〈Hải Nguyệt Hỏa Ngọc〉 hoặc 〈Phá Thế〉 nếu bộ chỉ số tốt hơn. Chỉ số thường dùng là Công – Công – Bạo kích/Sát thương bạo kích.",
+        "PvP sát thương: 〈Phá Thế〉 hoặc 〈Võng Thiết〉 với Tốc – Công – Bạo kích. Bản thiên về cơ chế có thể dùng 〈Chiêu Tài Miêu〉 hoặc 〈Luân Nhập Đạo〉, ưu tiên tốc độ và khả năng sống sót."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "周年庆版本ban须思铃导图分享",
+      "publisher": "NGA",
+      "url": "https://bbs.nga.cn/read.php?tid=47589208",
+      "usedFor": "trải nghiệm đội hình PvP và kèo đấu"
+    },
+    {
+      "title": "石长姬版本挖土初试",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1N7Yx6YETQ/",
+      "usedFor": "thử nghiệm PvP, điểm mạnh và độ mỏng",
+      "publishedAt": "09/09/2026"
+    },
+    {
+      "title": "石长姬配队篇",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1DNYx6rEry/",
+      "usedFor": "phối đội ngắn lượt và dài lượt",
+      "publishedAt": "09/09/2026"
+    },
+    {
+      "title": "石长姬培养建议",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2609/1807679.html",
+      "usedFor": "tổng hợp PvE, PvP và ngự hồn",
+      "publishedAt": "10/09/2026"
+    },
+    {
+      "title": "十周年平安京石长姬转火土过渡思路",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/847846872415471644?group_id=71",
+      "usedFor": "lộ trình nuôi dành cho người mới"
+    },
+    {
+      "title": "石长姬挖土体系乱杀吸血姬，配合思铃能快速启动秒天秒地！",
+      "publisher": "冰七喜Den / Bilibili",
+      "url": "https://www.bilibili.com/video/BV1NqY46BE95/",
+      "usedFor": "đối chiếu hai hướng sát thương và hỗ trợ tốc độ, điểm yếu trước khóa kỹ năng và đơn mục tiêu",
+      "publishedAt": "09/09/2026"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 395,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ Quỷ Hỏa và tăng Công/Tốc rất toàn diện cho cả PvE lẫn PvP, đặc biệt mạnh khi chống đội khấu trừ Quỷ Hỏa; cần đủ Lưu Quang và tốc độ vận hành để duy trì cơ chế",
+  "summary": "《Lưu Quang Truy Nguyệt Thần》 Tiên Cơ đẩy 4 ô Thanh Hành Động Quỷ Hỏa; sau mỗi lượt của cô đẩy thêm 3 ô và cho toàn đội 2 tầng {+Chiếu Quân}. Mỗi tầng tăng 10% Công và 3 Tốc độ ở cấp kỹ năng tối đa, tối đa 10 tầng. [Phi Thải Ngưng Huy] tốn 2 Quỷ Hỏa, gắn {+Tập Lạc Quang}: nếu lửa phe ta bị khấu trừ, hoàn lại tiến độ Thanh Hành Động Quỷ Hỏa tương ứng và gắn {−Thất Thải} lên kẻ địch đứng đầu lượt.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8.5,
+      "note": "Cấp tiến độ Quỷ Hỏa ngay đầu trận và tích tăng Công/Tốc mạnh cho đội."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9,
+      "note": "Duy trì lửa, tăng tối đa 100% Công và 30 Tốc độ, dùng được ở nhiều đội boss/sự kiện."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Vừa cấp lửa và buff, vừa phản khấu trừ Quỷ Hỏa, khóa tiến độ lửa và xua debuff."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 9,
+      "note": "Hỗ trợ đa dụng cho nhiều nội dung, trang bị chủ yếu cần Tốc độ và chống chịu."
+    }
+  ],
+  "strengths": [
+    "{+Chiếu Quân} tối đa 10 tầng; ở cấp tối đa mỗi tầng tăng 10% Công và 3 Tốc độ, tương ứng trần 100% Công và 30 Tốc độ.",
+    "Nếu đồng minh bắt đầu lượt với dưới 3 Quỷ Hỏa, cô tiêu 1 tầng {+Lưu Quang} để đẩy thêm 1 ô Thanh Hành Động Quỷ Hỏa.",
+    "{+Tập Lạc Quang} chống khấu trừ lửa bằng cách đẩy lại số ô tương ứng; nếu không bị tiêu hao, khi hết hạn còn xua một debuff/khống chế và cho 30% Công cùng 30 Tốc độ trong 2 lượt."
+  ],
+  "weaknesses": [
+    "Mỗi lần {+Tập Lạc Quang} hoặc cơ chế thiếu lửa kích hoạt đều cần tiêu {+Lưu Quang}; hết 3 tầng thì các phản ứng quan trọng không hoạt động.",
+    "Không có hồi sinh hay lá chắn; nếu bị dồn sát thương, cô cần một hỗ trợ bảo vệ khác.",
+    "Hiệu ứng tích {+Chiếu Quân} có hoạt ảnh, có thể làm chậm thời gian farm dù sức mạnh đội hình vẫn cao."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng cô làm nguồn Quỷ Hỏa và buff Công/Tốc. Tiên Cơ đẩy 4 ô, sau lượt cô thêm 3 ô nên thứ tự Tốc độ phải được tính để chủ lực có lửa đúng lượt. Ở đội farm tối ưu thời gian, cần kiểm tra hoạt ảnh {+Chiếu Quân} thay vì chỉ nhìn sát thương."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "[Phi Thải Ngưng Huy] giúp đội chống khấu trừ Quỷ Hỏa. Khi dấu bị kích hoạt, mục tiêu địch đang đứng đầu Thanh Hành Động nhận {−Thất Thải} trong 2 lượt ở cấp tối đa và không thể đẩy Thanh Hành Động Quỷ Hỏa sau lượt, tạo lợi thế tài nguyên hai chiều.",
+        "Cô nhận 3 tầng {+Lưu Quang} khi bắt đầu trận và sau mỗi lượt của mình; vì vậy nên có đủ Tốc độ để bổ sung tầng đều, nhưng không nhất thiết phải là thức thần nhanh nhất đội."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Đa dụng: 〈Hỏa Linh〉, Tốc độ/HP – HP – HP/Phòng thủ; ưu tiên Tốc độ và chống chịu. Bộ này bổ sung 3 Quỷ Hỏa đầu trận, bảo đảm đội mở kỹ năng ổn định.",
+        "PvE dài lượt: 〈Điếu Bình Hỏa〉 nếu muốn thêm tiến độ Quỷ Hỏa và hồi phục theo Phòng thủ; dùng Tốc độ/Phòng thủ – Phòng thủ – Phòng thủ/HP. 〈Đồ Phật〉 phù hợp đội cho cô đánh thường để tăng sát thương và Kháng toàn đội.",
+        "PvP: 〈Cộng Tiềm〉 để bổ sung xua debuff, hoặc 〈Hỏa Linh〉 nếu đội thiếu lửa mở trận. Không dùng bộ Công thuần: giá trị chính của cô không phụ thuộc Công bản thân."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "流光追月神の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/245035020173974554.html",
+      "usedFor": "đối chiếu tiến độ Quỷ Hỏa, trần buff, phản khấu trừ lửa, điểm yếu Lưu Quang và các bộ PvE"
+    },
+    {
+      "title": "流光追月神",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/流光追月神/62539848",
+      "usedFor": "đối chiếu vận hành Tốc độ và vai trò hỗ trợ"
+    }
+  ]
+}

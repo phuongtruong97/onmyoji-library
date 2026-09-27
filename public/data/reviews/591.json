@@ -1,0 +1,96 @@
+{
+  "shikigamiId": 591,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực đơn mục tiêu nhiều hit cho PvE, có vật triệu hồi kết liễu và trạng thái miễn sát thương khi vật triệu hồi còn tồn tại",
+  "summary": "《Tuyết Ngự Tiền》 mở trận triệu hồi {+Long Đảm Lam Ly}; khi vật triệu hồi còn trên sân, cô miễn nhiễm sát thương nhận vào. [Thiên Tuyết · Trảm] chém 9 hit và chuyển mục tiêu sang kẻ địch ít HP nhất nếu hạ được mục tiêu; các lần tấn công đơn thể tích {+Vu Linh Tuyết Nhận}, biến đao quang kế tiếp thành Tuyết Bộc AoE. Long Đảm Lam Ly còn tự đánh mục tiêu ít HP bằng 50% HP hiện tại của nó và chiếm vị trí thanh của kẻ địch bị cô hạ. Đây là chủ lực PvE mạnh, đặc biệt ở các phó bản ngự hồn mới.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "9 hit, chuyển mục tiêu và vật triệu hồi kết liễu giúp giảm yêu cầu mặt ngự trong nhiều đội farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Tích Tuyết Nhận, gọi lại vật triệu hồi tăng HP và duy trì sát thương đơn mục tiêu tốt."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7,
+      "note": "Chủ lực bùng nổ có Long Đảm Lam Ly che một lần sát thương và tạo nhịp kết liễu; mạnh về số liệu nhưng thiếu miễn khống chế và xuyên cơ chế phòng thủ."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8.5,
+      "note": "Chủ lực PvE mạnh, dễ hiểu và có khả năng sống sót; vẫn cần nâng kỹ năng 2 cấp 5 để mở trận tự triệu hồi."
+    }
+  ],
+  "strengths": [
+    "[Thiên Tuyết · Trảm] gây 9 hit đơn mục tiêu và tự chuyển sang kẻ địch ít HP nhất nếu mục tiêu chết giữa chuỗi.",
+    "Mỗi lần tấn công đơn thể tích {+Vu Linh Tuyết Nhận}; tiêu 2 tầng khiến đao quang tiếp theo thành Tuyết Bộc AoE 108% Tấn công, mục tiêu chỉ định chịu thêm 50%.",
+    "{+Long Đảm Lam Ly} có HP bằng 360% Tấn công ban đầu khi nâng tối đa, kế thừa Bạo kích/Bạo thương/Phòng thủ và 95% Tốc độ của cô.",
+    "Khi Long Đảm Lam Ly tồn tại, Tuyết Ngự Tiền miễn nhiễm sát thương nhận vào; vật triệu hồi còn đánh mục tiêu ít HP bằng 50% HP hiện tại của chính nó."
+  ],
+  "weaknesses": [
+    "Sự sống còn của cô phụ thuộc Long Đảm Lam Ly; vật triệu hồi bị phá khiến cô mất miễn sát thương và một nguồn kết liễu.",
+    "Kỹ năng 3 tiêu 3 Quỷ Hỏa, nhiều hit nên phụ thuộc nguồn lửa và thời gian hoạt ảnh hơn chủ lực một hit.",
+    "Sức mạnh mở trận cần [Long Đảm · Nở] cấp 5; nếu chưa đủ kỹ năng phải tự dùng lượt để triệu hồi.",
+    "Trong PvP, sát thương tập trung vào một mục tiêu trước khi lan; có thể bị khắc chế bởi bảo vệ vật triệu hồi, chia sẻ sát thương hoặc khóa kỹ năng."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Cô đã có đội hình thực chiến ở Hồn Thổ, Hư Vô Đại Xà, Chân Xà và Nghiệp Nguyên Hỏa. Khả năng chuyển mục tiêu của 9 hit giúp không lãng phí phần đòn còn lại khi kẻ địch đầu tiên chết, còn Long Đảm Lam Ly bổ sung đòn kết liễu theo HP.",
+        "〈Phiến Diệp Chi Vi〉 đặc biệt hợp vì khi Long Đảm Lam Ly tồn tại, cô miễn sát thương và thường giữ được điều kiện đầy HP để nhận tăng sát thương. Ở đội có nhiều Quỷ Hỏa, 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉 cho trần sát thương boss cao hơn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Tuyết Ngự Tiền》 tạo áp lực bằng sát thương lớn và Long Đảm Lam Ly. Vật triệu hồi này vừa chặn một lần sát thương cho cô vừa tấn công theo HP hiện tại; khi cô hạ một thức thần không phải vật triệu hồi, Long Đảm chuyển tới vị trí thanh hành động của mục tiêu đó, tạo cơ hội nối tiếp lượt kết liễu. Đội kéo lượt và cấp lửa giúp cô tung kỹ năng chủ lực trước khi đối phương dựng phòng tuyến.",
+        "Cơ chế của cô tương đối thẳng: không có miễn khống chế ổn định, không bỏ qua Ngự Hồn và không tự xuyên mọi lớp giảm sát thương. Đối thủ có thể khóa cô, dùng 〈Địa Tạng Tượng〉, Khiên hoặc giảm sát thương để sống qua nhịp đầu rồi phản công. Nếu Long Đảm bị xử lý hoặc lượt kết liễu không đạt ngưỡng, cô khó lấy lại ưu thế. Vì vậy cô mạnh khi đội bảo đảm được lượt đánh, nhưng không phải lựa chọn an toàn để chọn sớm trong mọi kèo."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE tốc chiến: 〈Phiến Diệp Chi Vi〉 + ngự hồn boss phù hợp; Tốc độ/Tấn công – Tấn công – Bạo kích/Bạo thương, đủ Bạo kích. Chọn Tốc độ theo mốc đội hình cụ thể.",
+        "PvE đủ Quỷ Hỏa/boss: 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉; Tấn công – Tấn công – Bạo kích/Bạo thương. Nếu đội cần nhiều lần kích theo 9 hit, 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉 là phương án thay thế nhưng phải kiểm tra giới hạn sát thương của phó bản."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "雪御前魂本就业：魂土、虚无大蛇、真蛇",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1DFakzNEMD/",
+      "usedFor": "đối chiếu việc làm phó bản ngự hồn, đội tốc chiến và giảm yêu cầu mặt ngự"
+    },
+    {
+      "title": "雪御前培养与御魂",
+      "publisher": "700G手游网",
+      "url": "https://www.700g.com/zixun03/225101.html",
+      "usedFor": "đối chiếu 〈Phiến Diệp Chi Vi〉 với cơ chế miễn sát thương khi đầy HP"
+    },
+    {
+      "title": "雪御前",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/雪御前/66757177",
+      "usedFor": "đối chiếu phương án Cuồng Cốt + Hoang Khô Lâu cho nội dung đủ tài nguyên"
+    },
+    {
+      "title": "后手反打雪御前斗技实战",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1i4nizAE7C/",
+      "usedFor": "đối chiếu điểm mạnh sát thương và các đối sách khống chế/giảm sát thương",
+      "publishedAt": "29/09/2025"
+    }
+  ]
+}

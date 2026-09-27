@@ -1,0 +1,87 @@
+{
+  "shikigamiId": 316,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Lá chắn phòng thủ chuyên chống sát thương đơn thể, vẫn dùng được trong PvP nhưng đã có nhiều đối thủ cạnh tranh",
+  "summary": "《Bạch Tàng Chủ》 mở [Mộng Sơn Hồ Ảnh] để giảm 50% sát thương đơn thể và sát thương gián tiếp mà đồng minh nhận. Đầu mỗi lượt, anh chọn đồng minh có tỷ lệ HP thấp nhất và có thể chịu thay toàn bộ sát thương cho người đó nếu bản thân không bị khống chế. [Thệ Ước Bảo Vệ] còn cho tốc độ/kháng lớn và lá chắn sau lượt, khiến anh phù hợp đội hậu thủ cần bảo vệ chủ lực mỏng.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3.5,
+      "note": "Phòng thủ tốt nhưng không giúp rút ngắn farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Giảm sát thương hữu ích trong bí cảnh hoặc thử thách sống sót."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7.5,
+      "note": "Hộ vệ hậu thủ chống dồn đơn mục tiêu: dựng kết giới và chịu thay cho đồng minh thấp HP, đặc biệt hữu ích trước chủ lực bắt một mục tiêu."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Giúp đội sống sót nhưng cần cấp kỹ năng và bộ HP/Tốc độ tốt."
+    }
+  ],
+  "strengths": [
+    "[Mộng Sơn Hồ Ảnh] giảm 50% sát thương đơn thể và sát thương gián tiếp cho đồng minh.",
+    "Tự tăng vĩnh viễn 60 Tốc độ và 60% Kháng hiệu ứng trước khi trừ theo đồng minh được bảo vệ.",
+    "Có thể chịu thay toàn bộ sát thương cho đồng minh thấp HP trong lượt."
+  ],
+  "weaknesses": [
+    "Không thể chịu thay nếu đang bị khống chế.",
+    "Bảo vệ thiên về đơn thể; áp lực AoE liên tục vẫn có thể xuyên qua đội.",
+    "Hiệu quả ngự hồn cần chịu sát thương có thể giảm vì đối thủ thường đánh vào đồng minh được anh bảo vệ."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng trong bí cảnh hoặc thử thách nơi một đồng minh thường xuyên bị điểm sát thương. Ở nội dung farm, một hỗ trợ tăng sát thương hoặc kéo lượt sẽ hiệu quả hơn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Bạch Tàng Chủ》 vẫn có vai trò rõ trước đội đánh đơn mục tiêu. [Mộng Sơn Hồ Ảnh] dựng kết giới giảm sát thương và nội tại giúp anh chịu thay cho đồng minh thấp HP, khiến đối thủ khó kết liễu chủ lực bằng một chuỗi đánh. Video phân tích tháng 9/2026 tiếp tục xem anh là quân bảo vệ thực dụng trước các chủ lực bắt mục tiêu như 《Quỷ Thiết》.",
+        "Anh cần có lượt dựng kết giới và phải giữ điều kiện chịu thay. Khống chế, phong ấn nội tại hoặc sát thương AoE liên tục có thể đi vòng qua lớp bảo vệ; khi bản thân bị bào thấp, việc gánh thêm sát thương nhanh chóng trở thành điểm yếu. 〈Địa Tạng Tượng〉 cũng không luôn kích như mong đợi vì đòn chí mạng có thể đánh vào người được bảo vệ thay vì trực tiếp lên anh. Đây là đối sách đơn thể, không phải phòng tuyến toàn năng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Phòng thủ phổ dụng: 〈Mộc Mị〉 hoặc 〈Chiêu Tài Miêu〉; Tốc độ – HP – HP, ưu tiên Tốc độ, HP và Kháng hiệu ứng.",
+        "Chống AoE chí mạng: 〈Địa Tạng Tượng〉; Tốc độ – HP – HP. Chỉ chọn khi đội hình đối phương thực sự tạo nhiều lần kích hoạt lên anh/đội."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "白藏主只能带地藏？看了高端斗技",
+      "publisher": "小米游戏中心",
+      "url": "https://game.xiaomi.com/viewpoint/1127866428_1594557072301_16",
+      "usedFor": "đối chiếu Địa Tạng và Mộc Mị theo tình huống"
+    },
+    {
+      "title": "新SSR白藏主斗技与御魂推荐",
+      "publisher": "YouTube · 林公子",
+      "url": "https://www.youtube.com/watch?v=e-lgL1kdkUM",
+      "usedFor": "đối chiếu vai trò PvP, Địa Tạng và Chiêu Tài"
+    },
+    {
+      "title": "白藏主单体守护与减伤机制",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1FYYD6bEYV/",
+      "usedFor": "đối chiếu bảo vệ đơn mục tiêu và kèo sử dụng hiện tại",
+      "publishedAt": "12/09/2026"
+    }
+  ]
+}

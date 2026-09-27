@@ -1,12 +1,13 @@
 {
   "id": 562,
   "name": {
-    "vi": "Kính Tịch Thiên Cơ",
+    "vi": "Kình Tịch Thiên Cơ",
     "en": "Senhime Resurgent",
     "zh": "鲸汐千姬"
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,8 +125,8 @@
         "zh": "潮汐，倾听我的约定吧！"
       },
       "description": {
-        "vi": "[tips_11]. Khi trận đấu bắt đầu, nhận Chúc Phúc Triều Lưu: Chuyển hóa [tips_3] khác của bản thân thành [buff_5621_1]; khi tử trận, gọi tới 1 con [tips_5622], tồn tại 2 lượt.\n[Thi triển] Chúc phúc 1 mục tiêu đồng minh ngoài bản thân không phải vật triệu hồi, chia sẻ Chúc Phúc Triều Lưu với kẻ đó, duy trì 2 lượt.",
-        "en": "[tips_11]. At the start of battle, gains her Tidal Blessing: Converts all other [tips_3]s inflicted to [buff_5621_1]. Summons 1 [tips_5622] that lasts 2 turns upon being KO'd.\nActive skill: Shares Tidal Blessing (lasts 2 turns) with another non-summoned ally entity.",
+        "vi": "[tips_11] Khi trận đấu bắt đầu, nhận Chúc Phúc Triều Lưu: Chuyển hóa [tips_3] khác của bản thân thành [buff_5621_1]; khi tử trận, gọi tới 1 con [tips_5622], tồn tại 2 lượt.\n[Thi triển] Chúc phúc 1 mục tiêu đồng minh ngoài bản thân không phải vật triệu hồi, chia sẻ Chúc Phúc Triều Lưu với kẻ đó, duy trì 2 lượt.",
+        "en": "[tips_11] At the start of battle, gains her Tidal Blessing: Converts all other [tips_3]s inflicted to [buff_5621_1]. Summons 1 [tips_5622] that lasts 2 turns upon being KO'd.\nActive skill: Shares Tidal Blessing (lasts 2 turns) with another non-summoned ally entity.",
         "zh": "[tips_11]。战斗开始时，获得汐流祝福：将自身携带的其他[tips_3]转化成[buff_5621_1]；阵亡时，唤来1只[tips_5622]，存在2个回合。\n【施放】祝福1个自身外非召唤物的友方目标，与其共享汐流祝福，持续2个回合。"
       },
       "upgrades": [
@@ -182,8 +183,8 @@
         "zh": "鲸歌不会停歇，潮汐永恒奔流，这便是永生之海。"
       },
       "description": {
-        "vi": "[tips_11]. Ý chí tiếp nối, chính là sự bất tử mới. Mở ra Vĩnh Sinh Hải Huyễn Cảnh tồn tại 2 lượt, trong huyễn cảnh, khi đồng minh thi triển kỹ năng, tiêu hao Quỷ Hỏa giảm 1 điểm; khi gây sát thương không phải [tips_12] cho kẻ địch ngoài vật triệu hồi, đính kèm [buff_5622_1] bằng 30% sát thương này. Khi triển khai lại huyễn cảnh, gọi tới 1 con [tips_5621], tồn tại 2 lượt. \n[tips_7]: Triển khai [Vĩnh Sinh Hải Huyễn Cảnh]",
-        "en": "[tips_11]. A new form of eternity is born when the legacy carries on. Creates the Sea of Eternity realm that lasts 2 turns. While the realm is active, for all allies, reduces their skill orb cost by 1 orb, and whenever they deal non-[tips_12] to enemies other than summoned entities, inflicts [buff_5622_1] equal to 30% of the damage. When the realm is created again, summons 1 [tips_5621] that lasts 2 turns. Upper Hand: Creates the Sea of Eternity realm.",
+        "vi": "[tips_11] Ý chí tiếp nối, chính là sự bất tử mới. Mở ra Vĩnh Sinh Hải Huyễn Cảnh tồn tại 2 lượt, trong huyễn cảnh, khi đồng minh thi triển kỹ năng, tiêu hao Quỷ Hỏa giảm 1 điểm; khi gây sát thương không phải [tips_12] cho kẻ địch ngoài vật triệu hồi, đính kèm [buff_5622_1] bằng 30% sát thương này. Khi triển khai lại huyễn cảnh, gọi tới 1 con [tips_5621], tồn tại 2 lượt. \n[tips_7]: Triển khai [Vĩnh Sinh Hải Huyễn Cảnh]",
+        "en": "[tips_11] A new form of eternity is born when the legacy carries on. Creates the Sea of Eternity realm that lasts 2 turns. While the realm is active, for all allies, reduces their skill orb cost by 1 orb, and whenever they deal non-[tips_12] to enemies other than summoned entities, inflicts [buff_5622_1] equal to 30% of the damage. When the realm is created again, summons 1 [tips_5621] that lasts 2 turns. Upper Hand: Creates the Sea of Eternity realm.",
         "zh": "[tips_11]。意志延续，便是新的永生。展开存在2个回合的永生之海幻境，幻境中，友方施放技能时，消耗鬼火减少1点；对召唤物外的敌方造成非[tips_12]时，附加此伤害30%的[buff_5622_1]。重复展开幻境时，唤来1只[tips_5621]，存在2个回合。先机：施放永生之海幻境。"
       },
       "upgrades": [

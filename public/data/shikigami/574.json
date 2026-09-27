@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -46,7 +47,7 @@
   "secondaryStats": {
     "critDamage": "150%",
     "effectHit": "0%",
-    "effectRes": "0%"
+    "effectRes": "30%"
   },
   "skills": [
     {
@@ -108,6 +109,64 @@
       "iconFile": "5741.png"
     },
     {
+      "id": 5744,
+      "number": 1,
+      "variantOrder": 1,
+      "parentSkillId": 5741,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tước Linh · Thiên Tâm Trảm",
+        "en": "Spirit Sparrow: Divine Heart Strike",
+        "zh": "雀霊・天心斬"
+      },
+      "intro": {
+        "vi": "Nhìn thấu sơ hở của kẻ địch là ngón nghề cơ bản của những kẻ lãng du như ta.",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Tâm Hữu Khuyển Thần tấn công mục tiêu chỉ định 5 lần, mỗi đòn gây sát thương tương đương 80% Tấn Công của bản thân.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 65%",
+            "en": "伤害增加至105%",
+            "zh": "伤害增加至105%"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 70%",
+            "en": "伤害增加至110%",
+            "zh": "伤害增加至110%"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 75%",
+            "en": "伤害增加至115%",
+            "zh": "伤害增加至115%"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 60%",
+            "en": "伤害增加至125%",
+            "zh": "伤害增加至125%"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "5744.png"
+    },
+    {
       "id": 5742,
       "number": 2,
       "variantOrder": 0,
@@ -124,8 +183,8 @@
         "zh": "洞悉敌人破绽，是浪客的基本素养。"
       },
       "description": {
-        "vi": "[tips_11]. Khi Đánh Thường đính kèm [buff_5742_1] cho mục tiêu kẻ địch. Khi chuyển đổi mục tiêu Đánh Thường, [buff_5742_1] sẽ chuyển dời theo. Khi người mang tử vong, [buff_5742_1] sẽ chuyển dời cho mục tiêu kẻ địch khác có tỷ lệ HP thấp nhất. Khi bản thân Đánh Thường vào mục tiêu mang [buff_5742_1], tăng 20% Tấn công, 20% Chính Xác Hiệu Ứng (tối đa cộng dồn 3 tầng) và 10% Thanh Hành Động cho Âm Dương Sư. Khi Âm Dương Sư gây sát thương lên mục tiêu mang [buff_5742_1], Tâm Hữu Khuyển Thần dùng Đánh Thường để Hợp Chiến.",
-        "en": "[tips_11]. Normal attacks inflict [buff_5742_1] to the enemy. When he switches his normal attack target, [buff_5742_1] is also transferred to the new target. When the unit with the mark is KO'd, transfers [buff_5742_1] to another enemy with the lowest proportion of HP. When he uses a normal attack on a unit with [buff_5742_1], increases the onmyoji's ATK and Effect HIT by 20% (max 3 stacks), and raises their Move Bar by 10%. When the onmyoji deals damage to an enemy with [buff_5742_1], Bosombuddy Inugami assists with a normal attack.",
+        "vi": "[tips_11] Khi Đánh Thường đính kèm [buff_5742_1] cho mục tiêu kẻ địch. Khi chuyển đổi mục tiêu Đánh Thường, [buff_5742_1] sẽ chuyển dời theo. Khi người mang tử vong, [buff_5742_1] sẽ chuyển dời cho mục tiêu kẻ địch khác có tỷ lệ HP thấp nhất. Khi bản thân Đánh Thường vào mục tiêu mang [buff_5742_1], tăng 20% Tấn công, 20% Chính Xác Hiệu Ứng (tối đa cộng dồn 3 tầng) và 10% Thanh Hành Động cho Âm Dương Sư. Khi Âm Dương Sư gây sát thương lên mục tiêu mang [buff_5742_1], Tâm Hữu Khuyển Thần dùng Đánh Thường để Hợp Chiến.",
+        "en": "[tips_11] Normal attacks inflict [buff_5742_1] to the enemy. When he switches his normal attack target, [buff_5742_1] is also transferred to the new target. When the unit with the mark is KO'd, transfers [buff_5742_1] to another enemy with the lowest proportion of HP. When he uses a normal attack on a unit with [buff_5742_1], increases the onmyoji's ATK and Effect HIT by 20% (max 3 stacks), and raises their Move Bar by 10%. When the onmyoji deals damage to an enemy with [buff_5742_1], Bosombuddy Inugami assists with a normal attack.",
         "zh": "[tips_11]。普攻时为敌方目标施加[buff_5742_1]。切换普攻目标时，[buff_5742_1]随之转移。携带者阵亡时，[buff_5742_1]将转移给生命比例最低的其他敌方目标。自身普攻携带[buff_5742_1]的目标时，提升阴阳师20%攻击、20%效果命中（至多叠加3次）与10%行动条。阴阳师对携带[buff_5742_1]目标造成伤害时，心友犬神使用普攻进行助战。"
       },
       "upgrades": [
@@ -182,8 +241,8 @@
         "zh": "以心作刃，为君拔刀！"
       },
       "description": {
-        "vi": "[tips_11]. Giúp bản thân, Âm Dương Sư và Thức Thần phe ta có tỷ lệ HP thấp nhất nhận [tips_6] có thể hấp thụ sát thương bằng 120% Tấn công của Tâm Hữu Khuyển Thần, bản thân tiến vào [buff_5744_1], duy trì 2 lượt. Nếu Âm Dương Sư trong lượt không gây sát thương, khi kết thúc lượt Tâm Hữu Khuyển Thần thi triển [Nhất Thệ Quy Tâm]. \n[tips_7]: Thi triển [Lãng Khách Quy Đao].",
-        "en": "[tips_11]. Creates a [tips_6] to protect himself, the onmyoji, and the shikigami ally with the lowest proportion of HP, absorbing damage equal to 120% of Bosombuddy Inugami's ATK. Grants himself [buff_5744_1] lasting for 2 turns. If the onmyoji deals no damage on their turn, at the end of their turn, Bosombuddy Inugami uses Promised Return. Upper Hand: Uses Wanderer's Return.",
+        "vi": "[tips_11] Giúp bản thân, Âm Dương Sư và Thức Thần phe ta có tỷ lệ HP thấp nhất nhận [tips_6] có thể hấp thụ sát thương bằng 120% Tấn công của Tâm Hữu Khuyển Thần, bản thân tiến vào [buff_5744_1], duy trì 2 lượt. Nếu Âm Dương Sư trong lượt không gây sát thương, khi kết thúc lượt Tâm Hữu Khuyển Thần thi triển [Nhất Thệ Quy Tâm]. \n[tips_7]: Thi triển [Lãng Khách Quy Đao].",
+        "en": "[tips_11] Creates a [tips_6] to protect himself, the onmyoji, and the shikigami ally with the lowest proportion of HP, absorbing damage equal to 120% of Bosombuddy Inugami's ATK. Grants himself [buff_5744_1] lasting for 2 turns. If the onmyoji deals no damage on their turn, at the end of their turn, Bosombuddy Inugami uses Promised Return. Upper Hand: Uses Wanderer's Return.",
         "zh": "[tips_11]。使自身、阴阳师与生命比例最低的友方式神获得可吸收心友犬神攻击120%伤害的[tips_6]，自身进入[buff_5744_1]，维持2回合。若阴阳师在回合内未造成伤害，回合结束时心友犬神施放[一誓归心]。先机：施放[浪客归刀]。"
       },
       "upgrades": [
@@ -222,6 +281,31 @@
       ],
       "orbCost": 3,
       "iconFile": "5743.png"
+    },
+    {
+      "id": 5745,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 5743,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Nhất Thệ Quy Tâm",
+        "en": "Homeward Vow",
+        "zh": "一誓帰心"
+      },
+      "intro": {
+        "vi": "Lấy tâm làm đao, vì ngài tuốt kiếm!",
+        "en": "With my heart as the blade, I unsheathe my weapon for you!",
+        "zh": "以心作刃，为君拔刀！"
+      },
+      "description": {
+        "vi": "Tâm Hữu Khuyển Thần tấn công toàn bộ kẻ địch, gây sát thương tương đương 80% Tấn Công của bản thân, không kích hoạt Ngự Hồn của mục tiêu. Nếu trên sân không có kẻ địch mang Dấu Ấn Chim Sẻ, gắn Dấu Ấn Chim Sẻ lên kẻ địch có tỷ lệ Máu thấp nhất.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5745.png"
     }
   ],
   "assets": {

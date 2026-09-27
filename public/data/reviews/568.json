@@ -1,0 +1,105 @@
+{
+  "shikigamiId": 568,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ tăng Công mở trận rất mạnh sau điều chỉnh 2026, đồng thời là chủ lực ba hit giá rẻ chuyên phá đội có Lá chắn",
+  "summary": "《Long Ngâm Linh Lộc Ngự Tiền》 đã được làm lại [Lộc Hồn · Cộng Phó] vào tháng 7/2026. Từ đầu trận và mỗi khi cô bắt đầu lượt, toàn bộ đồng minh khác nhận 3 tầng {+Lộc Hồn}; mỗi lần tấn công tiêu một tầng và nâng Công lên 155% Công ban đầu. Bản thân cô có [Lộc Hồn · Viễn Chinh] tốn đúng 2 Quỷ Hỏa, đánh toàn thể 3 lần và tự tăng 100% Sát thương bạo kích. Khi sát thương của cô bị Lá chắn hấp thụ, cô còn gây sát thương cố định bằng 10% HP tối đa của mục tiêu, có giới hạn theo Công ban đầu và bỏ qua Lá chắn.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9.5,
+      "note": "Cấp sẵn ba đòn tăng Công cho mọi đồng minh và không cần tích lũy."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Làm mới {+Lộc Hồn} mỗi lượt của cô, đồng thời có thể tự gây sát thương ba hit."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Chủ lực khắc chế Lá chắn: giảm sát thương nhận khi địch có Khiên và gây thêm sát thương cố định xuyên Khiên khi đòn đánh bị hấp thụ."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8.5,
+      "note": "Hỗ trợ sát thương dễ dùng sau khi nâng [Lộc Hồn · Cộng Phó], nhưng vẫn cần Daruma Đen."
+    }
+  ],
+  "strengths": [
+    "{+Lộc Hồn} cấp sẵn 3 tầng cho toàn đội trừ bản thân; mỗi đòn nâng Công của người tấn công lên 155% Công ban đầu.",
+    "[Lộc Hồn · Viễn Chinh] chỉ tốn 2 Quỷ Hỏa, đánh toàn thể 3 lần và tăng 100% Sát thương bạo kích trong lượt thi triển.",
+    "Khi sát thương bị hấp thụ, cô gây thêm sát thương cố định bằng 10% HP tối đa, tối đa 120% Công ban đầu và bỏ qua Lá chắn.",
+    "Nếu bất kỳ kẻ địch nào có Lá chắn, cô giảm 50% sát thương phải chịu; lúc tấn công còn miễn hiệu ứng bất lợi phát sinh trong quá trình đánh."
+  ],
+  "weaknesses": [
+    "{+Lộc Hồn} chỉ có 3 tầng và mỗi lần tấn công tiêu một tầng, nên chủ lực nhiều lượt đánh sẽ hết buff.",
+    "Sát thương cố định chống Lá chắn có giới hạn 120% Công ban đầu của cô và chỉ phát sinh khi sát thương thực sự bị hấp thụ.",
+    "Hiệu ứng [Lộc Hồn · Cộng Phó] là duy nhất, không thể cộng nhiều bản sao để nhân số tầng.",
+    "Các hướng dẫn trước tháng 7/2026 mô tả cơ chế tích Công cũ và không còn dùng được để tính đội hình hiện tại."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Sau điều chỉnh 2026, cô không còn phải tự bạo kích để tích Công rồi chuyển cho đội. [Lộc Hồn · Cộng Phó] hiện cấp trực tiếp 3 tầng {+Lộc Hồn}; vì vậy giá trị hỗ trợ xuất hiện ngay từ đầu trận và không phụ thuộc chỉ số Công của cô.",
+        "Ở vai trò hỗ trợ ngắn lượt, cho cô đi trước chủ lực và dùng đánh thường với 〈Đồ Phật〉 để thêm tăng sát thương. Nếu đội chỉ cần hiệu ứng tiên cơ, có thể để cô đi sau hoặc khóa đánh thường tùy yêu cầu hoạt ảnh. Khi dùng làm chủ lực, [Lộc Hồn · Viễn Chinh] là ba hit AoE 2 lửa với lượng Sát thương bạo kích tự cấp rất lớn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Long Ngâm Linh Lộc Ngự Tiền》 gây áp lực trực tiếp lên đội dựa vào Khiên. Khi phía địch có Lá chắn, cô giảm mạnh sát thương nhận; nếu đòn của cô bị Khiên hấp thụ, phần sát thương bổ sung vẫn xuyên qua lớp bảo vệ. [Lộc Hồn · Viễn Chinh] đánh AoE ba lần với chi phí thấp, vừa kích Ngự Hồn tấn công vừa ép toàn đội, vì vậy cô hợp đội tiên thủ có người cấp lửa/kéo lượt hoặc đội cần phá lớp bảo hộ trước khi chủ lực thứ hai kết liễu.",
+        "Miễn hiệu ứng bất lợi chỉ tồn tại trong lúc cô đang thực hiện đòn tấn công, không phải miễn khống chế thường trực. Đối thủ vẫn có thể khóa cô trước lượt, giảm sát thương hoặc dùng bảo vệ không dựa hoàn toàn vào Khiên. Nếu kẻ địch không dựng Lá chắn, cô mất một phần lớn lợi thế phòng thủ và xuyên bảo hộ. Cô mạnh nhất như quân phản chế Khiên, không phải chủ lực AoE đồng đều trong mọi kèo."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Hỗ trợ PvE: 〈Đồ Phật〉; Tốc độ – HP/Công – HP/Công, chỉnh tốc để đánh thường trước chủ lực. Nếu chỉ lấy ba tầng {+Lộc Hồn} tiên cơ, có thể dùng 〈Hỏa Linh〉 hoặc bộ rời ưu tiên Tốc độ/sống sót theo đội.",
+        "Chủ lực PvE/PvP: 〈Ẩn Niệm〉 hoặc 〈Châm Nữ〉; Tốc độ/Công – Công – Bạo kích, đủ 100% Bạo kích. Do kỹ năng đã tự cộng 100% Sát thương bạo kích, ưu tiên Công và Bạo kích trước khi tiếp tục dồn Sát thương bạo kích."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Draconic Suzuka Gozen Skill Description",
+      "publisher": "Guidemyoji",
+      "url": "https://guidemyoji.com/sp-suzuka-gozen/",
+      "usedFor": "đối chiếu bộ kỹ năng hiện hành sau điều chỉnh, chi phí 2 lửa và trị số {+Lộc Hồn}",
+      "publishedAt": "20/09/2026 cập nhật"
+    },
+    {
+      "title": "20260714 Test: Skill Adjustments",
+      "publisher": "Guidemyoji / dữ liệu máy chủ thử nghiệm chính thức",
+      "url": "https://guidemyoji.com/14-07-test-server-skill-adjustments/",
+      "usedFor": "xác nhận cơ chế cũ đã được thay bằng cấp 3 tầng cho đồng minh và điều kiện đại chiêu đã được bỏ",
+      "publishedAt": "27/08/2026 cập nhật"
+    },
+    {
+      "title": "龍吟鈴鹿御前の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/316469777331713472.html",
+      "usedFor": "đối chiếu vai trò phá Lá chắn, hướng 〈Đồ Phật〉 và chủ lực nhiều hit; chỉ dùng phần còn phù hợp sau điều chỉnh"
+    },
+    {
+      "title": "式神养成指南：龙吟铃鹿御前",
+      "publisher": "17173",
+      "url": "https://news.17173.com/content/07072025/160003277.shtml",
+      "usedFor": "đối chiếu cách dùng 〈Đồ Phật〉 và yêu cầu tốc độ trong vai trò hỗ trợ; không dùng cơ chế kỹ năng cũ",
+      "publishedAt": "07/07/2025"
+    },
+    {
+      "title": "龙吟铃鹿御前技能与破盾机制",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1sJ4m1G7Vd/",
+      "usedFor": "đối chiếu xuyên Khiên, giảm sát thương và giới hạn miễn hiệu ứng",
+      "publishedAt": "02/06/2024"
+    }
+  ]
+}

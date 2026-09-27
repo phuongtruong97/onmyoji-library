@@ -1,0 +1,97 @@
+{
+  "shikigamiId": 598,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hồi sinh PvP rất ổn định với ba lần tự động cứu đồng đội, tự chống chết và buff lớn sau khi hồi sinh",
+  "summary": "《Chước Hoa Đào Yêu》 kết hợp hồi máu Bạo kích với {+Tân Nhụy}: người mang được hồi theo HP tối đa của cô mỗi khi bắt đầu hành động, đủ ba lần sẽ nhận {+Nở Rộ} tăng 50% Công, Phòng thủ và Tốc độ. [Tỉnh Thời Hoa] có thể chủ động hồi sinh, kéo 50% thanh hành động và cấp buff; quan trọng hơn, sau lượt địch nếu đồng minh tử trận, cô tự động hồi sinh miễn phí tối đa ba lần mỗi trận. Khi đủ 100% Bạo kích ban đầu, cô còn giảm 35% sát thương gánh chịu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4.5,
+      "note": "Hồi sinh và tích ba lần Tân Nhụy quá chậm cho farm tốc độ."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Hồi máu, chống chết và hồi sinh giúp vượt ải khó nhưng không tăng tốc farm."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Ba lần hồi sinh phản ứng không tốn lửa cùng kéo 50% thanh biến một lần hạ gục của đối thủ thành cơ hội phản công; cần sống đủ lâu và tránh đối sách cấm hồi sinh."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Hữu ích cho Bí Văn và PvP, nhưng cần 100% Bạo kích cùng kỹ năng tối đa."
+    }
+  ],
+  "strengths": [
+    "Sau lượt của địch, nếu đồng minh bị hạ gục, cô có thể tự dùng [Tỉnh Thời Hoa] miễn phí tối đa ba lần mỗi trận.",
+    "Đồng minh được hồi sinh nhận 50% thanh hành động, hồi thêm 10% HP tối đa của cô và có {+Nở Rộ} trong 3 lượt.",
+    "{+Nở Rộ} tăng 50% Công, Phòng thủ và Tốc độ; {+Tân Nhụy} tạo hồi phục lặp lại theo lượt người mang.",
+    "Khi có đồng minh mang {+Tân Nhụy}, cô miễn một đòn chí mạng bằng cách xóa toàn bộ ấn; đủ 100% Bạo kích ban đầu còn được 35% giảm sát thương."
+  ],
+  "weaknesses": [
+    "Phải đạt đủ 100% Bạo kích ban đầu để nhận 35% giảm sát thương; thiếu Bạo kích làm độ bền giảm rõ rệt.",
+    "Tự cứu đồng đội chỉ kiểm tra sau khi lượt địch kết thúc, không ngăn các đòn nối tiếp trong cùng lượt quét thêm mục tiêu.",
+    "Tự chống chết tiêu hao toàn bộ {+Tân Nhụy}, làm mất chuỗi hồi phục và buff đang tích.",
+    "Nhiều bản sao không thể luân phiên kích hoạt cơ chế hồi sinh để tạo vòng lặp vô hạn."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Cô hợp Bí Văn hoặc ải có nguy cơ mất quân hơn là Ngự Hồn tốc chiến. [Huề Phương Ý] trị liệu theo 15% HP tối đa; khi Bạo kích còn hồi thêm đồng minh thấp HP nhất, vì vậy HP và đủ Bạo kích là hai yêu cầu cốt lõi.",
+        "{+Tân Nhụy} cần kích hoạt ba lần mới chuyển thành {+Nở Rộ}, nên không nên tính buff 50% vào đội hình kết thúc ngay lượt đầu."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Chước Hoa Đào Yêu》 phù hợp đội PvP muốn biến phòng thủ thành phản công. Sau khi lượt địch kết thúc, cô có thể tự dùng [Tỉnh Thời Hoa] miễn phí để hồi sinh đồng minh, kéo 50% thanh và cấp {+Nở Rộ}; vì vậy đối thủ không chỉ phải hạ mục tiêu mà còn phải chuẩn bị cách kết liễu lần hai trước khi người vừa sống lại chen lượt. Ba lần kích hoạt mỗi trận tạo độ bền đáng kể cho đội đánh dài hơi.",
+        "Cơ chế cứu người chỉ kiểm tra sau khi lượt địch kết thúc, nên chuỗi sát thương trong cùng lượt vẫn có thể quét thêm mục tiêu. Cô cũng phải còn sống và không bị khóa để phản ứng; hiệu ứng cấm hồi sinh hoặc kiểm soát kéo dài trực tiếp làm giảm vai trò. Việc đủ 100% Bạo kích ban đầu quan trọng vì gắn với giảm sát thương của bản thân, nhưng nội dung đánh giá đội hình nên ưu tiên khả năng giữ cô sống qua lượt dồn đầu hơn là coi hồi sinh như bảo hiểm tuyệt đối."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP phổ dụng: 〈Địa Tạng Tượng〉 hoặc 〈Mộc Mị〉; Tốc độ – HP – Bạo kích, đạt 100% Bạo kích ban đầu rồi ưu tiên HP và Kháng hiệu ứng.",
+        "Chống dồn đơn thể: 〈Thế Hồn〉; Tốc độ – HP – Bạo kích. Hướng hồi/lá chắn: 〈Trân Châu〉; HP/Tốc độ – HP – Bạo kích, phù hợp khi đội cần lớp bảo vệ sau trị liệu hơn là phá Quỷ Hỏa."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "灼华桃花妖",
+      "publisher": "阴阳师灰机WIKI",
+      "url": "https://yys.huijiwiki.com/wiki/%E7%81%BC%E5%8D%8E%E6%A1%83%E8%8A%B1%E5%A6%96",
+      "usedFor": "đối chiếu hồ sơ và kỹ năng hiện hành"
+    },
+    {
+      "title": "灼华桃花妖值得培养吗",
+      "publisher": "52下载站",
+      "url": "https://www.52xz.com/information03/479584.html",
+      "usedFor": "đối chiếu cách vận hành, yêu cầu Bạo kích và các bộ Địa Tạng/Thế Hồn/Mộc Mị"
+    },
+    {
+      "title": "SP灼华桃花妖：纯PVP式神",
+      "publisher": "YouTube",
+      "url": "https://www.youtube.com/watch?v=q1gcrf7kJu4",
+      "usedFor": "đối chiếu vai trò PvP, hồi sinh nối tiếp và độ bền thực chiến",
+      "publishedAt": "09/02/2026"
+    },
+    {
+      "title": "SP灼华桃花妖：复活、群疗与生存机制",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1W5foBjEAm/",
+      "usedFor": "đối chiếu hồi sinh phản ứng và giới hạn vận hành PvP",
+      "publishedAt": "04/02/2026"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
 {
   "id": 341,
   "name": {
-    "vi": "Quỷ Vương Tửu Thốn Đồng Tử",
+    "vi": "Quỷ Vương Tửu Thôn Đồng Tử",
     "en": "Demoniac Shuten Doji",
     "zh": "鬼王酒吞童子"
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -182,7 +183,7 @@
         "zh": "这无穷无尽的烈火，将吞噬我最后的动摇！"
       },
       "description": {
-        "vi": "Giải phóng yêu lực mạnh mẽ gầm lên giận dữ, đẩy lùi 40% Thanh Hành Động của toàn bộ phe địch và giải trừ 2 hiệu ứng tăng ích, sau đó bản thân tiến vào [buff_3413_3] 2 lượt. Khi trạng thái Quỷ Vương kết thúc, hồi phục cho toàn bộ phe ta lượng HP bằng 20% sát thương bản thân gây ra trong thời gian đó.\nChỉ có thể thi triển kỹ năng này khi không ở trong [buff_3413_1]. Phe ta sau khi bị thiêu đốt, nếu tỷ lệ HP thấp hơn 30%, giải trừ hoặc [tips_1] tất cả [tips_3]",
+        "vi": "Giải phóng yêu lực mạnh mẽ gầm lên giận dữ, đẩy lùi 40% Thanh Hành Động của toàn bộ phe địch và giải trừ 2 hiệu ứng buff, sau đó bản thân tiến vào [buff_3413_3] 2 lượt. Khi trạng thái Quỷ Vương kết thúc, hồi phục cho toàn bộ phe ta lượng HP bằng 20% sát thương bản thân gây ra trong thời gian đó.\nChỉ có thể thi triển kỹ năng này khi không ở trong [buff_3413_1]. Phe ta sau khi bị thiêu đốt, nếu tỷ lệ HP thấp hơn 30%, giải trừ hoặc [tips_1] tất cả [tips_3]",
         "en": "Unleashes a powerful demonic force with a thundering roar, lowering the Move Bar of all enemies by 40% and dispelling 2 buffs from them. Enters the [buff_3413_3] for 2 turns. When his Demoniac State ends, recovers the HP of all allies by 20% of the damage he dealt while in this state.\nThis skill can only be used when he has not entered [buff_3413_1]. If an ally's HP falls below 30% after being burned, dispels or [tips_1]s all [tips_3].",
         "zh": "释放强大的妖力发出震怒咆哮，击退敌方全体40%行动条并驱散2个增益效果，然后自身进入[buff_3413_3]2回合。鬼王姿态结束时，为友方全体恢复自身在期间造成伤害20%的生命。\n仅在非[buff_3413_1]下可施放此技能。友方受到灼烧后，若生命比例低于30%，驱散或[tips_1]所有[tips_3]"
       },
@@ -190,7 +191,7 @@
         {
           "level": 2,
           "text": {
-            "vi": "Số lượng hiệu ứng tăng ích giải trừ tăng lên 2",
+            "vi": "Số lượng hiệu ứng buff giải trừ tăng lên 2",
             "en": "Increases dispelled buffs to 2.",
             "zh": "驱散增益数量增至2个"
           }

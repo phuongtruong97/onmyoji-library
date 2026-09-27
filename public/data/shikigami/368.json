@@ -7,6 +7,7 @@
   },
   "rarity": "SR",
   "tier": "SR",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "不用担心我"
       },
       "description": {
-        "vi": "[tips_11].\nSiro đường ấm áp luôn bảo vệ đồng đội. Chịu thay 30% sát thương cho mục tiêu phe ta có tỷ lệ HP hiện tại thấp nhất.",
-        "en": "[tips_11].\nWarm liquid sugar keeps watch over allies. Takes 30% damage for the ally with the lowest HP proportion.",
+        "vi": "[tips_11]\nSiro đường ấm áp luôn bảo vệ đồng đội. Chịu thay 30% sát thương cho mục tiêu phe ta có tỷ lệ HP hiện tại thấp nhất.",
+        "en": "[tips_11]\nWarm liquid sugar keeps watch over allies. Takes 30% damage for the ally with the lowest HP proportion.",
         "zh": "[tips_11]。\n温暖的糖液一直守护着同伴。替当前血量百分比最低的友方目标承受30%的伤害。"
       },
       "upgrades": [

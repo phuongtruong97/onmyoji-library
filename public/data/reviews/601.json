@@ -1,0 +1,88 @@
+{
+  "shikigamiId": 601,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ hệ Hỏa đa dụng, tăng sát thương tốt nhưng không tự giải quyết các điểm yếu về cơ động và giải khống chế",
+  "summary": "《Tư Kim Thần》 dùng [Trí Hỏa Trường Minh] gắn {+Trí Thức Chi Hỏa}, tạo Khiên và cung cấp Quỷ Hỏa; sau đó [Khai Sáng] liên tục trợ chiến theo đòn đánh của chủ lực. Anh có việc làm trong PvE ngắn lượt và bổ sung sát thương cho hệ Hỏa ở PvP, nhưng đội vẫn cần nguồn cơ động, giải khống chế và bảo kê khác.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8.5,
+      "note": "Trợ chiến nhiều lần và cấp Quỷ Hỏa giúp tối ưu một số đội farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8,
+      "note": "Theo sát chủ lực tốt nhưng giới hạn hệ số và điều kiện đội hình cần được tính toán."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Trục cấp Quỷ Hỏa, tăng sát thương và rải khống chế trong đội Hỏa Sơn; sức mạnh cao nhưng đòi hỏi đội hình hoàn chỉnh và khả năng giành nhịp."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7.5,
+      "note": "Đáng nuôi khi đã có chủ lực phù hợp; không phải hỗ trợ nền tảng đầu tiên."
+    }
+  ],
+  "strengths": [
+    "[Khai Sáng] trợ chiến theo yêu thuật của người mang {+Trí Thức Chi Hỏa}.",
+    "[Trí Hỏa Trường Minh] cấp 3 Quỷ Hỏa và Khiên không thể xua tan.",
+    "Có thể mang Ngự Hồn khống chế để truyền áp lực qua những lần trợ chiến.",
+    "Có đội hình PvE ngắn lượt đã được cộng đồng kiểm chứng."
+  ],
+  "weaknesses": [
+    "Tiêu hao 24% HP hiện tại khi dùng kỹ năng chủ động.",
+    "Không cung cấp giải khống chế hoặc xua tan đáng kể.",
+    "Giá trị giảm nếu chủ lực không đánh thường xuyên hoặc không tương thích hệ Hỏa.",
+    "Đội hình cần tính ngưỡng Tấn công để gắn hiệu ứng đúng mục tiêu."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "[Khai Sáng] có thể kích hoạt nhiều lần trong một hành động, khiến 《Tư Kim Thần》 phù hợp với chủ lực đánh nhiều đoạn hoặc nhiều lần. Một số đội Hồn Vương dùng anh như nguồn sát thương phụ và Quỷ Hỏa để rút ngắn thời gian."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Hướng PvP rõ nhất của 《Tư Kim Thần》 là đội Hỏa Sơn đánh chủ động. Video hướng dẫn dùng anh để cung cấp Quỷ Hỏa, tăng sát thương cho 《Bình Tướng Môn》 và tận dụng các lần trợ chiến để mang theo hiệu ứng Ngự Hồn khống chế. Nhờ đó anh không chỉ là máy cấp lửa mà còn góp phần khóa nhịp trước khi chủ lực kết thúc trận.",
+        "Đội hình này cần nhiều mảnh ghép chuyên dụng và chất lượng tốc độ tốt. Khi mất lượt đầu, bị Câm Lặng hoặc chủ lực bị khóa trước lúc nhận đủ tăng cường, giá trị của anh giảm nhanh. Anh mạnh trong một hệ thống đã hoàn thiện; người chưa có khung Hỏa Sơn không nên đánh giá anh như hỗ trợ cắm vào mọi đội."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE: 〈Ẩn Niệm〉 hoặc 〈Cuồng Cốt〉, ghép 〈Quỷ Linh Ca Kỹ〉 khi nội dung hưởng lợi từ nhiều lần gây sát thương.",
+        "PvP: 〈Mị Yêu〉 hoặc Ngự Hồn khống chế theo đội hình; ưu tiên Chính Xác và tốc độ đủ dùng."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "全新SSR思金神表现意外不错",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1mooxBbEkD/",
+      "usedFor": "đánh giá PvE/PvP và hạn chế của hệ Hỏa"
+    },
+    {
+      "title": "思金神定位分析",
+      "publisher": "新浪新闻",
+      "url": "https://www.sina.cn/news/detail/5290535692009740.html",
+      "usedFor": "vai trò hỗ trợ, Ngự Hồn khống chế và chỉ số"
+    },
+    {
+      "title": "思金神上线即封神？",
+      "publisher": "什么值得买",
+      "url": "https://post.smzdm.com/p/ak82kpke/",
+      "usedFor": "đội hình Hồn Vương và cấu hình PvE"
+    }
+  ]
+}

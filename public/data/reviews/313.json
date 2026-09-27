@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 313,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Chủ lực nhiều hit có thể tiến hóa qua phản kích, mạnh trong trận kéo dài nhưng khởi động chậm và đã rời meta",
+  "summary": "《Inuyasha》 tích {+Phong Kình} mỗi lượt; khi kẻ địch tiêu Quỷ Hỏa, [Bộc Lưu Phá] có xác suất phản kích tăng theo số tầng rồi tiến hóa [Thiết Toái Nha] qua bốn cấp. Đại chiêu đánh bảy lần vào mục tiêu ngẫu nhiên và mỗi hit có 80% cơ hội đánh thêm, đạt tối đa 14 hit khi có từ hai mục tiêu. Trần sát thương nhiều hit cao nhưng cần thời gian phản kích để tiến hóa, dễ bị phong ấn nội tại và không còn việc làm ổn định.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4.5,
+      "note": "Chưa kịp tiến hóa vũ khí và đòn đánh phân tán ngẫu nhiên."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6.5,
+      "note": "Nhiều hit và tiến hóa qua phản kích có thể tăng mạnh theo thời gian."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 4.5,
+      "note": "Phản kích gây áp lực nhưng khởi động chậm, sợ khống chế và phong ấn nội tại."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 3,
+      "note": "Crossover khó sở hữu và không đáng ưu tiên tài nguyên."
+    }
+  ],
+  "strengths": [
+    "[Thiết Toái Nha] có thể tạo tối đa 14 hit khi sân có ít nhất hai mục tiêu.",
+    "Mỗi lần [Bộc Lưu Phá] kích hoạt sẽ tiến hóa vũ khí, tăng sức mạnh cuối trận.",
+    "Đánh nhiều hit tận dụng tốt 〈Châm Nữ〉 và 〈Quỷ Linh Ca Kỹ〉."
+  ],
+  "weaknesses": [
+    "Mục tiêu các hit là ngẫu nhiên nên sát thương dễ bị phân tán.",
+    "Phải phản kích nhiều lần mới đạt dạng vũ khí cuối.",
+    "Rất sợ khống chế và phong ấn nội tại; hiện không có vị trí meta ổn định."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Ở mục tiêu đơn, bảy hit chính tập trung nhưng không có hit phụ vì điều kiện cần nhiều mục tiêu. Khi có hình nhân hoặc nhiều kẻ địch, số lần đánh tăng mạnh và phù hợp cơ chế kích hoạt theo hit.",
+        "Vấn đề là tiến hóa vũ khí cần [Bộc Lưu Phá] phản kích, nên trận ngắn thường kết thúc trước khi anh đạt trần sức mạnh."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Lối phản kích có thể trừng phạt đội tiêu nhiều Quỷ Hỏa, nhưng xác suất ban đầu thấp và anh không có bảo vệ chống khống chế. Đây là lối chơi hoài niệm/ngách, không phải lựa chọn leo hạng ổn định."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE nhiều hit: 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích.",
+        "Đội phản kích: 〈Tranh〉; Công – Công/Kháng hiệu ứng – Bạo kích/Sát thương bạo kích. 〈Xúc Xắc Quỷ〉 chỉ dùng nếu xây Kháng hiệu ứng và muốn phản khi kháng khống chế."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "犬夜叉の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/%E9%99%B0%E9%99%BD%E5%B8%AB/%E5%BC%8F%E7%A5%9E/%E7%8A%AC%E5%A4%9C%E5%8F%89.html",
+      "usedFor": "đối chiếu tiến hóa, số hit, Châm Nữ và đội phản kích"
+    },
+    {
+      "title": "联动式神SSR犬夜叉解析",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/340786424_120261599",
+      "usedFor": "đối chiếu tốc độ khởi động và yêu cầu kỹ năng"
+    }
+  ]
+}

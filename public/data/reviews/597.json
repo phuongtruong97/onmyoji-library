@@ -1,0 +1,103 @@
+{
+  "shikigamiId": 597,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "medium",
+  "verdict": "Chủ lực–hỗ trợ PvE rất mạnh, đồng thời có đội hình PvP riêng nhưng đòi hỏi vận hành chính xác",
+  "summary": "《Cát Diệp》 kết hợp bảo kê, kéo lượt và sát thương thông qua [Độ Linh], [Quy Nguyên Thuật] và trạng thái hợp thể. Khi tích đủ điều kiện, [Chung Thức · Phá Không] vừa hồi phục vừa gây lượng sát thương lớn. Cô mạnh ở PvE dài lượt và các đội hình được xây riêng, nhưng cơ chế hợp thể có thể xóa trạng thái có lợi nên không ghép máy móc với mọi hỗ trợ.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8.5,
+      "note": "Có sát thương cao và khả năng rút ngắn lượt khi đội hình được tối ưu."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9,
+      "note": "Hợp thể, hồi phục và hệ số tăng dần giúp cô phát huy tốt trong trận kéo dài."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Hỗ trợ đa dụng có thể kéo và bảo vệ đồng minh trong nhiều biến thể đội; không bắt buộc tranh tốc tuyệt đối nhưng đòi hỏi người chơi hiểu thứ tự hợp thể và mục tiêu ưu tiên."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Giá trị cao, song cần đồng đội và hiểu cơ chế để khai thác hết sức mạnh."
+    }
+  ],
+  "strengths": [
+    "[Quy Nguyên Thuật] có thể loại bỏ debuff, hợp thể và tạo lượt mới.",
+    "[Độ Linh] hỗ trợ kéo Thanh Hành Động và tăng tốc mạnh cho bản thân.",
+    "[Chung Thức · Phá Không] vừa hồi phục vừa gây sát thương diện rộng nhiều lần.",
+    "Có chỗ đứng trong cả PvE dài lượt lẫn một số hệ PvP."
+  ],
+  "weaknesses": [
+    "Hợp thể có thể làm mất buff của đồng minh và gây xung đột với đội hình hiện có.",
+    "Cần chọn đúng mục tiêu hợp thể và thời điểm giải thể.",
+    "Hiệu quả giảm nếu đội hình không được thiết kế xoay quanh cơ chế huyễn hóa.",
+    "Không phải lựa chọn cắm vào mọi đội hình tự động."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "《Cát Diệp》 được cộng đồng sử dụng ở cả nội dung nhanh và boss dài lượt. [Chung Thức · Phá Không] tăng phần sát thương cuối theo số thức thần đã huyễn hóa, vì vậy giá trị lớn nhất xuất hiện khi đội hình có đủ thời gian hoàn thiện trạng thái."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Các video thực chiến cho thấy 《Cát Diệp》 hoạt động được cả trong đội không giành tốc đầu, miễn là bộ Ngự Hồn và thứ tự đồng đội cho phép cô dùng [Quy Nguyên Thuật] đúng lúc. Cô có thể ghép với nhiều lõi khác nhau, dùng hợp thể để bảo vệ quân quan trọng rồi tạo lượt cho mắt xích cần hành động.",
+        "Sức mạnh của cô đến từ độ linh hoạt, đồng thời đây cũng là điểm khó: chọn sai mục tiêu hợp thể hoặc kéo sai thứ tự có thể làm mất cả chuỗi vận hành. Một số đội còn có thể khóa nhịp bằng khống chế đơn mục tiêu hoặc gây áp lực trước khi cô hoàn tất thiết lập. Cô đáng đầu tư cho người chơi PvP có đội hình rõ ràng, nhưng không phải hỗ trợ tự động dễ dùng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE sát thương: 〈Cuồng Cốt〉, 〈Phá Thế〉 hoặc 〈Châm Nữ〉; Công – Công – Bạo kích/Sát thương bạo kích.",
+        "PvP thiên hỗ trợ: 〈Chiêu Tài Miêu〉 hoặc 〈Cộng Tiềm〉; ưu tiên tốc độ, bạo kích và khả năng sống sót theo đội hình."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "新春式神葛叶初版斗技测评",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1UQffBZEFr/",
+      "usedFor": "thử nghiệm PvP và đội hình Thần Hoang"
+    },
+    {
+      "title": "式神养成指南：葛叶",
+      "publisher": "17173",
+      "url": "https://news.17173.com/content/06152026/161250728.shtml",
+      "usedFor": "cơ chế, ngự hồn và cách vận hành",
+      "publishedAt": "15/06/2026"
+    },
+    {
+      "title": "葛叶强度解析",
+      "publisher": "代练通",
+      "url": "https://m.dailiantong.com/news/content_424440.html",
+      "usedFor": "đối chiếu vai trò PvE và hạn chế PvP"
+    },
+    {
+      "title": "葛叶体系实录：不吃一速的打法分享",
+      "publisher": "yys痕酱 / Bilibili",
+      "url": "https://www.bilibili.com/video/BV1ZaPxzcEzm/",
+      "usedFor": "đối chiếu các biến thể đội, cách dùng bộ hoàn chỉnh và yêu cầu thao tác",
+      "publishedAt": "06/03/2026"
+    },
+    {
+      "title": "葛蝉吞骷髅小赛季斗技实战",
+      "publisher": "枫之残月ljy / Bilibili",
+      "url": "https://www.bilibili.com/video/BV1qCMp6DEo9/",
+      "usedFor": "đối chiếu vận hành Cát Diệp trong trận PvP thực tế",
+      "publishedAt": "10/07/2026"
+    }
+  ]
+}

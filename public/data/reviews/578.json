@@ -1,0 +1,105 @@
+{
+  "shikigamiId": 578,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Khống chế PvP đa chức năng có Kết giới mở trận, vừa gây Hỗn Loạn hai phía vừa giải hiệu ứng và ép các mục tiêu đánh thường",
+  "summary": "《Thần Nhưỡng Tinh Hùng Đồng Tử》 mở trận bằng [Uống Qua Ba Tuần], tạo Kết giới 2 lượt khiến mọi đơn vị không phải vật triệu hồi có 40% tỷ lệ cơ bản nhận {−Hỗn Loạn} sau khi kết thúc lượt. Đồng minh bị Hỗn Loạn được giảm 30% sát thương và kéo 25% thanh khi hiệu ứng biến mất; kẻ địch bị giảm 40% Sát thương bạo kích. [Chủ Khách Cùng Vui] tốn 2 Quỷ Hỏa, xóa buff và đặt {−Phong Ấn} lên một địch, giải một debuff toàn đội, cấp {+Hào Đảm} chống Hỗn Loạn và kéo cả đồng minh lẫn kẻ địch đang Hỗn Loạn đánh thường mục tiêu chỉ định.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3,
+      "note": "Bộ kỹ năng kiểm soát hai phía không giúp đội farm kết thúc nhanh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 4,
+      "note": "Có giảm sát thương và giải hiệu ứng nhưng boss thường miễn Hỗn Loạn."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Khống chế đa chức năng: kết giới rải {−Hỗn Loạn}, [Chủ Khách Cùng Vui] giải khóa cho phe ta, xóa buff/phong ấn Ngự Hồn và ép đánh thường."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4,
+      "note": "Thuần PvP, cần tốc độ/chính xác tốt và không hỗ trợ tiến độ PvE ban đầu."
+    }
+  ],
+  "strengths": [
+    "[Uống Qua Ba Tuần] có Tiên Cơ, tạo Kết giới ngay đầu trận và bản thân miễn {−Hỗn Loạn} trong thời gian kết giới.",
+    "{−Hỗn Loạn} trên đồng minh biến thành công cụ phòng thủ: giảm 30% sát thương và kéo 25% thanh khi bị xóa.",
+    "[Chủ Khách Cùng Vui] vừa xóa 2 buff và đặt {−Phong Ấn} 100% tỷ lệ cơ bản lên mục tiêu, vừa giải một debuff toàn đội.",
+    "Có thể sai khiến đồng minh Công cao nhất và một kẻ địch đang {−Hỗn Loạn} cùng đánh thường mục tiêu chỉ định."
+  ],
+  "weaknesses": [
+    "Kết giới cũng có thể đặt {−Hỗn Loạn} lên phe mình; cần {+Hào Đảm}, giải hiệu ứng và thứ tự hành động để biến rủi ro thành lợi thế.",
+    "Hiệu ứng Hỗn Loạn trong Kết giới chỉ có 40% tỷ lệ cơ bản và vẫn chịu Kháng/Hiệu quả chính xác.",
+    "Nếu bị khóa trước khi dùng [Chủ Khách Cùng Vui], anh khó giải khống chế và bảo vệ nhịp đội dù Kết giới đã tồn tại.",
+    "Boss PvE thường miễn khống chế, khiến phần lớn giá trị của bộ kỹ năng biến mất."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không phải hỗ trợ PvE đáng đầu tư. Kết giới làm trận đấu nhiều biến số nhưng không tăng sát thương trực tiếp, còn {−Phong Ấn} và {−Hỗn Loạn} thường không áp dụng được lên boss. Chỉ dùng ở màn đặc thù cần giải hiệu ứng hoặc giảm sát thương."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Thần Nhưỡng Tinh Hùng Đồng Tử》 gây khó cho đội nhiều lượt nhờ kết giới Tiên Cơ: mỗi lần một đơn vị kết thúc lượt lại có cơ hội nhận {−Hỗn Loạn}, tối đa ba lần trước lượt của anh. [Chủ Khách Cùng Vui] là nút chiến thuật chính: có thể ưu tiên giải khống chế cho đồng minh, cấp {+Hào Đảm}, đồng thời xóa hiệu ứng có lợi, phong ấn Ngự Hồn và ép mục tiêu đánh thường. Nhờ vậy anh vừa bảo vệ đội trước khống chế vừa biến chủ lực đối phương thành nguồn gây hại.",
+        "Khống chế vẫn phải vượt Kháng hiệu ứng và cần chọn mục tiêu đúng. Đội miễn khống chế, giải dấu nhanh hoặc không phụ thuộc nhiều lượt sẽ giảm số lần kết giới phát huy. Ép đánh thường sai mục tiêu còn có thể kích nội tại/hiệp chiến có lợi cho đối thủ. Anh mạnh vì nhiều công cụ trong một ô đội hình, nhưng đòi hỏi đọc thế trận chứ không vận hành hoàn toàn tự động."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Phổ dụng PvP: 〈Chiêu Tài Miêu〉 hoặc 〈Hỏa Linh〉; Tốc độ – Hiệu quả chính xác – HP, ưu tiên đủ Tốc độ để dùng [Chủ Khách Cùng Vui] trước khi đội bị khóa.",
+        "Đối sách: 〈Mộc Mị〉 để gây áp lực Quỷ Hỏa, hoặc 〈Cộng Tiềm〉 để tăng khả năng giải debuff; vẫn dùng Tốc độ – Hiệu quả chính xác – HP. Chọn theo phần Ngự Hồn hỗ trợ còn thiếu của đội, không có một bộ duy nhất cho mọi trận."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "SP神酿星熊童子御魂搭配",
+      "publisher": "九游 / 游侠网",
+      "url": "https://www.9game.cn/yys/10707335.html",
+      "usedFor": "đối chiếu vai trò trung tốc/phản công, các bộ hỗ trợ và trục Tốc độ–Chính xác–HP",
+      "publishedAt": "17/12/2024"
+    },
+    {
+      "title": "神酿星熊童子阵容推荐",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2412/1576161.html",
+      "usedFor": "đối chiếu đội PvP thực chiến, thứ tự tốc độ và tương tác kéo thanh khi Hỗn Loạn bị xóa",
+      "publishedAt": "17/12/2024"
+    },
+    {
+      "title": "SP神酿星熊童子实战详细评测",
+      "publisher": "YouTube / 小琨爱小蛊",
+      "url": "https://www.youtube.com/watch?v=XxCd2PRHiig",
+      "usedFor": "đối chiếu vận hành khống chế hai phía, giải khống chế và mời đánh thường",
+      "publishedAt": "19/12/2024"
+    },
+    {
+      "title": "网易游戏大全与式神培养建议",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2608/1797493.html",
+      "usedFor": "đối chiếu vị trí thuần PvP và mức ưu tiên thấp cho người mới",
+      "publishedAt": "2026"
+    },
+    {
+      "title": "SP神酿星熊童子技能与实战详细评测",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV14tBQYFER3/",
+      "usedFor": "đối chiếu Hỗn Loạn, giải khống chế, kéo thanh và ép đánh thường",
+      "publishedAt": "27/11/2024"
+    }
+  ]
+}

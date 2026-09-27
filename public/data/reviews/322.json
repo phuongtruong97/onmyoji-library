@@ -1,0 +1,92 @@
+{
+  "shikigamiId": 322,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Chủ lực dọn màn một lượt kiểu AoE rồi kết liễu đơn mục tiêu; mạnh khi đòn đầu hạ được quái phụ nhưng đã bị nhiều lựa chọn farm mới vượt qua",
+  "summary": "《Luyện Ngục Tỳ Mộc Đồng Tử》 dùng [Luyện Ngục Chi Môn] gây một đòn AoE rồi một đòn đơn mục tiêu, mỗi đòn đạt 164% Công khi nâng tối đa. [Cuồng Ý] tăng sát thương AoE theo số kẻ địch thêm, tối đa 50%; nếu AoE hạ kẻ địch không phải vật triệu hồi, sát thương dư được cộng vào đòn đơn tiếp theo. Anh vẫn hữu ích để kéo thức thần và dọn các màn có quái phụ yếu, nhưng cơ chế mất nhiều giá trị trước boss đơn hoặc kẻ địch quá khỏe để đòn đầu kết liễu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7.5,
+      "note": "AoE nối đơn mục tiêu và sát thương dư rất hợp dọn màn có quái phụ yếu."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5.5,
+      "note": "Không hạ được quái phụ thì mất phần sát thương dư; kém phù hợp boss đơn dài lượt."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 4.5,
+      "note": "Sát thương mở màn cao nhưng thuần tấn công, dễ bị khống chế, giảm sát thương hoặc chặn đòn đơn."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Dễ dùng để kéo cấp và farm cơ bản, song cần đủ Bạo kích và kỹ năng 2–3 để phát huy."
+    }
+  ],
+  "strengths": [
+    "[Luyện Ngục Chi Môn] kết hợp AoE và đòn đơn trong cùng một lượt, mỗi phần đạt 164% Công khi nâng tối đa.",
+    "[Cuồng Ý] tăng sát thương quỷ diệm 10% cho mỗi kẻ địch thêm, tối đa 50%.",
+    "Nếu AoE hạ kẻ địch không phải vật triệu hồi, tổng sát thương dư được cộng thành một đoạn sát thương bổ sung cho đòn đơn."
+  ],
+  "weaknesses": [
+    "[Luyện Ngục Chi Môn] cần 3 Quỷ Hỏa; các hướng dẫn cũ ghi 4 lửa không còn khớp dữ liệu kỹ năng hiện tại.",
+    "Sát thương kết liễu giảm mạnh khi đòn AoE không hạ được quái phụ, đặc biệt trước boss đơn hoặc mục tiêu đồng đều HP cao.",
+    "Thuần gây sát thương, không có miễn khống chế hay cơ chế tự bảo vệ; đòn thứ hai là đơn mục tiêu nên còn chịu các cơ chế bảo hộ/phân chia phù hợp."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Tốt nhất ở Thám Hiểm, kéo cấp và các màn nhiều quái nơi đòn AoE đủ giết mục tiêu máu thấp để dồn sát thương dư vào mục tiêu còn lại. Cần chọn mục tiêu chính và căn ngưỡng sát thương; nếu đòn AoE giết mục tiêu đã chọn, quỷ thủ chuyển sang kẻ địch có HP cao nhất.",
+        "〈Phá Thế〉 + 〈Hoang Khô Lâu〉 ưu tiên cú mở màn khi địch còn nhiều HP. 〈Tâm Nhãn〉 + 〈Hoang Khô Lâu〉 phù hợp vị trí kết liễu sau một chủ lực ép máu. 〈Cuồng Cốt〉 chỉ tốt khi đội còn đủ Quỷ Hỏa sau khi trả 3 lửa; không nên mặc định dùng nếu chuỗi hành động làm cạn lửa."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Có thể tạo áp lực trong đội tốc chiến nhờ AoE được tăng theo số địch rồi nối đòn đơn, nhưng bộ kỹ năng không có khống chế hoặc sinh tồn. Khi không đủ sát thương kết liễu ngay lượt đầu, giá trị giảm rõ rệt."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Dọn màn/mở đầu: 〈Phá Thế〉 + 〈Hoang Khô Lâu〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích.",
+        "Kết liễu sau chủ lực đầu: 〈Tâm Nhãn〉 + 〈Hoang Khô Lâu〉; Công – Công – Bạo kích/Sát thương bạo kích. Đội dư lửa có thể dùng 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉 sau khi tính chính xác 3 Quỷ Hỏa của kỹ năng."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "煉獄茨木童子",
+      "publisher": "Âm Dương Sư — trang chính thức",
+      "url": "https://www.onmyojigame.com/zh/m/role/322.html",
+      "usedFor": "đối chiếu hồ sơ và kỹ năng nhân vật"
+    },
+    {
+      "title": "煉獄茨木童子の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/煉獄茨木童子.html",
+      "usedFor": "đối chiếu cơ chế AoE–đơn mục tiêu, sát thương dư, vai trò farm và các bộ ngự hồn"
+    },
+    {
+      "title": "SP炼狱茨木童子全解",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/343138774_120261599",
+      "usedFor": "đối chiếu cách kết toán Phá Thế/Tâm Nhãn và điều kiện sát thương dư"
+    },
+    {
+      "title": "御魂ダンジョン10階の攻略とおすすめ式神",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/攻略ガイド/御魂ダンジョン10階の攻略とおすすめ式神.html",
+      "usedFor": "đối chiếu ví dụ đội Phá Thế–Tâm Nhãn và thứ tự hành động"
+    }
+  ]
+}

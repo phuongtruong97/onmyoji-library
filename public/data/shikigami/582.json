@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "音符会驱散悲伤~"
       },
       "description": {
-        "vi": "[tips_11]. Nhè nhẹ cất tiếng hát, hòa âm vang lên, mỗi khi đồng minh không phải vật triệu hồi chịu 3 trạng thái giảm ích hoặc [tips_3], tăng 1 tầng [buff_5821_1] (trước khi lượt bắt đầu, tăng tối đa 5 tầng). Bản thân sau khi thoát khỏi [tips_3], tăng 60 điểm Tốc độ, duy trì 1 lượt. Mỗi khi có 40% Kháng Hiệu Ứng ban đầu, tăng 10% giảm sát thương. Khi tiêu hao [buff_5821_1] xua tan, khiến mục tiêu nhận [buff_5822_1], [tips_15] 1 lượt.",
-        "en": "[tips_11]. Softly hums to create a sonority. Whenever an non-summoned ally entity's debuffs or [tips_3]s reach 3 stacks, increases her [buff_5821_1] by 1 stack(max 5 stacks increased before her next turn). When she herself is out of [tips_3]s, increases her SPD by 60 for 1 turn. Increases her own damage reduction by 10% for each 40% starting Effect RES she has. When a [buff_5821_1] stack is used to dispel, increases the ally's [buff_5822_1] stack [tips_15] for 1 turn).",
+        "vi": "[tips_11] Nhè nhẹ cất tiếng hát, hòa âm vang lên, mỗi khi đồng minh không phải vật triệu hồi chịu 3 trạng thái debuff hoặc [tips_3], tăng 1 tầng [buff_5821_1] (trước khi lượt bắt đầu, tăng tối đa 5 tầng). Bản thân sau khi thoát khỏi [tips_3], tăng 60 điểm Tốc độ, duy trì 1 lượt. Mỗi khi có 40% Kháng Hiệu Ứng ban đầu, tăng 10% giảm sát thương. Khi tiêu hao [buff_5821_1] xua tan, khiến mục tiêu nhận [buff_5822_1], [tips_15] 1 lượt.",
+        "en": "[tips_11] Softly hums to create a sonority. Whenever an non-summoned ally entity's debuffs or [tips_3]s reach 3 stacks, increases her [buff_5821_1] by 1 stack(max 5 stacks increased before her next turn). When she herself is out of [tips_3]s, increases her SPD by 60 for 1 turn. Increases her own damage reduction by 10% for each 40% starting Effect RES she has. When a [buff_5821_1] stack is used to dispel, increases the ally's [buff_5822_1] stack [tips_15] for 1 turn).",
         "zh": "[tips_11]。轻轻哼唱，和音响起，非召唤物友方每受到3个减益或[tips_3]，提升1层[buff_5821_1](回合开始前，至多提升5层）)。自身脱离[tips_3]后，提升60点速度，持续1回合。每有40%初始效果抵抗，提升10%减伤。消耗[buff_5821_1]驱散时，使目标提升[buff_5822_1]，[tips_15]1回合。"
       },
       "upgrades": [
@@ -182,7 +183,7 @@
         "zh": "舞台中心，属于我。"
       },
       "description": {
-        "vi": "Âm luật tuần du trên sân khấu, xua tan 1 trạng thái giảm ích hoặc [tips_3] của toàn bộ đồng minh, và giúp họ nhận [buff_5822_1], duy trì 2 lượt. Sau khi thi triển, nhận 2 tầng [buff_5821_1], nếu mục tiêu đồng minh vẫn đang chịu [tips_3], tăng thêm 30% Thanh Hành Động cho kẻ đó.",
+        "vi": "Âm luật tuần du trên sân khấu, xua tan 1 trạng thái debuff hoặc [tips_3] của toàn bộ đồng minh, và giúp họ nhận [buff_5822_1], duy trì 2 lượt. Sau khi thi triển, nhận 2 tầng [buff_5821_1], nếu mục tiêu đồng minh vẫn đang chịu [tips_3], tăng thêm 30% Thanh Hành Động cho kẻ đó.",
         "en": "Music takes a tour on the stage, dispelling 1 debuff or [tips_3] from each ally and granting them [buff_5822_1] lasting 2 turns. Using the skill grants herself 2 [buff_5821_1] stacks. If an ally is still under a [tips_3] after the skill is used, additionally raises their Move Bar by 30%.",
         "zh": "音律巡游舞台之上，驱散全体友方1个减益或[tips_3]，并使其获得[buff_5822_1]，持续2回合。施放后，获得2层[buff_5821_1]，若友方目标仍承受[tips_3]，额外增加其30%行动条。"
       },

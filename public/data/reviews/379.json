@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 379,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ tăng Công theo Phòng thủ rất mạnh cho PvE và phòng thủ chống bạo kích trong PvP; cần dồn Phòng thủ thay vì chỉ số tấn công thông thường",
+  "summary": "《Bất Kiến Nhạc》 mở [Thủy Túc Sơn Hành], tăng Công đồng minh dựa trên 50% Phòng thủ ban đầu của anh, tăng sát thương không bạo kích và giảm Sát thương bạo kích phe ta phải chịu. Vì hiệu quả hỗ trợ được xác định ngay từ Phòng thủ ban đầu, cấu hình PvE thường dùng ba bộ 2 món Phòng thủ với Phòng thủ – Phòng thủ – Phòng thủ. Anh vẫn là hỗ trợ phổ biến trong nhiều đội PvE, đồng thời có giá trị chống đội bạo kích ở PvP.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Tăng Công ngay từ đầu và không cần hành động trong nhiều đội tốc chiến."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Kết giới vừa tăng sát thương vừa bổ sung độ bền, có thể duy trì lại."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Giảm Sát thương bạo kích, hạ Bạo kích của đối thủ và tăng sát thương không bạo kích."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Hỗ trợ nhiều nội dung, nhưng cần bộ Phòng thủ cao để đạt giá trị tối đa."
+    }
+  ],
+  "strengths": [
+    "Tăng Công cho đồng minh dựa trên Phòng thủ ban đầu của bản thân ngay khi mở kết giới.",
+    "Tăng 25% sát thương không bạo kích và giảm 25% Sát thương bạo kích phe ta phải chịu.",
+    "Không cần Bạo kích, Sát thương bạo kích hay Công, nên có hướng xây chỉ số rất rõ ràng."
+  ],
+  "weaknesses": [
+    "Mức tăng Công bị giới hạn ở 20% Công ban đầu của từng đồng minh.",
+    "Hoạt ảnh mở kết giới làm chậm một số đội farm tối ưu từng giây.",
+    "Giảm Sát thương bạo kích không bảo vệ tốt trước sát thương chuẩn hoặc sát thương không bạo kích."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Nhiều đội chỉ cần hiệu ứng mở đầu từ [Thủy Túc Sơn Hành], vì vậy anh có thể đứng cuối tốc độ và dồn toàn bộ Phòng thủ. Ba bộ 2 món Phòng thủ thường cho tổng chỉ số cao hơn ép một bộ 4 món không cần thiết.",
+        "Nếu kịch bản cần anh hành động và đánh thường, 〈Đồ Phật〉 bổ sung 15% sát thương toàn đội. 〈Hỏa Linh〉 chỉ dùng khi đội thiếu Quỷ Hỏa mở màn và vẫn phải ưu tiên Phòng thủ ở thuộc tính chính/phụ."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Kết giới chống đội bạo kích tốt, đồng thời khuếch đại các nguồn sát thương không bạo kích. Có thể dùng 〈Mộc Mị〉 để phá lửa, 〈Kính Cơ〉 để phản sát thương hoặc 〈Chiêu Tài Miêu〉 để vận hành; cần cân bằng Tốc độ/Kháng hiệu ứng với Phòng thủ."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE tăng Công tối đa: ba bộ 2 món Phòng thủ; Phòng thủ – Phòng thủ – Phòng thủ. Ưu tiên tổng Phòng thủ cao nhất, thường không cần Tốc độ.",
+        "PvE cần đánh thường: 〈Đồ Phật〉 + bộ 2 món Phòng thủ; Phòng thủ – Phòng thủ – Phòng thủ. PvP: 〈Mộc Mị〉, 〈Kính Cơ〉 hoặc 〈Chiêu Tài Miêu〉; Tốc độ/Phòng thủ – Phòng thủ – Phòng thủ, thêm Kháng hiệu ứng theo đội."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "不见岳培养攻略与技能调整解析",
+      "publisher": "233乐园",
+      "url": "https://www.233leyuan.com/post-detail/2057826565007671296",
+      "usedFor": "đối chiếu độ phủ PvE và sức mạnh sau điều chỉnh",
+      "publishedAt": "22/05/2026"
+    },
+    {
+      "title": "不見岳の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/199317957296280917.html",
+      "usedFor": "đối chiếu bộ Phòng thủ, Đồ Phật và các bộ PvP"
+    }
+  ]
+}

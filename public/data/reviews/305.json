@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 305,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "medium",
+  "verdict": "Đòn kết liễu xuyên lá chắn và không thể chia sẻ rất đặc biệt, nhưng cần chuẩn bị dấu ấn và hiện không có việc làm ổn định",
+  "summary": "《Mại Dược Lang》 tích tối đa ba {−Thiên Bình} sau lượt kẻ địch. Khi HP mục tiêu xuống dưới ngưỡng tương ứng, các dấu chuyển thành {−Nhìn Thấu}; lúc đó [Thoái Ma] gây sát thương theo 300% HP hiện tại của mục tiêu, bỏ qua lá chắn, không thể chia sẻ và không kích hoạt ngự hồn/nội tại. Cơ chế kết liễu mạnh trên giấy nhưng cần đồng đội hạ HP trước, phải chờ dấu và hiện gần như không có vị trí PvE/PvP ổn định.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3,
+      "note": "Cần chờ lượt địch và hạ HP để mở Nhìn Thấu."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 4,
+      "note": "Đòn theo HP bị giới hạn bởi 600% Công và thiếu giá trị đội."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 5,
+      "note": "Có thể kết liễu xuyên lá chắn/chia sẻ nhưng điều kiện quá chậm."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 2.5,
+      "note": "Nhân vật crossover khó kiếm và không đáng ưu tiên tài nguyên."
+    }
+  ],
+  "strengths": [
+    "[Thoái Ma] dưới {−Nhìn Thấu} bỏ qua lá chắn và không thể bị chia sẻ sát thương.",
+    "Đòn kết liễu không kích hoạt ngự hồn hoặc nội tại của mục tiêu.",
+    "Mỗi {−Thiên Bình} tăng 33% sát thương khi anh đánh mục tiêu."
+  ],
+  "weaknesses": [
+    "Phải chờ sau lượt kẻ địch để tích dấu với xác suất 50%.",
+    "Cần đồng đội hạ HP mục tiêu xuống ngưỡng trước khi có {−Nhìn Thấu}.",
+    "Không có việc làm ổn định trong PvE hay PvP hiện tại."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không phù hợp farm hoặc boss thông thường. Điều kiện chờ lượt, tích dấu rồi hạ HP mục tiêu khiến chu trình quá dài so với chủ lực hiện đại."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Có thể dùng như quân bài bất ngờ để xử lý mục tiêu có lá chắn hoặc cơ chế chia sẻ sát thương. Tuy nhiên đội phải có nguồn sát thương khác mở ngưỡng HP và bảo vệ anh đủ lâu để tích {−Thiên Bình}."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Kết liễu mục tiêu thấp HP: 〈Tâm Nhãn〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích.",
+        "Đánh mở ngưỡng HP: 〈Phá Thế〉; Công – Công – Bạo kích/Sát thương bạo kích. Bộ này hỗ trợ cú đầu nhưng thường không cộng sức mạnh cho đòn {−Nhìn Thấu} khi mục tiêu đã thấp HP."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师最没有存在感的联动式神卖药郎",
+      "publisher": "17173",
+      "url": "https://news.17173.com/z/yys/content/10162020/175108976.shtml",
+      "usedFor": "đối chiếu việc làm, điều kiện Nhìn Thấu và lựa chọn ngự hồn",
+      "publishedAt": "16/10/2020"
+    },
+    {
+      "title": "卖药郎式神技能与御魂解析",
+      "publisher": "4399阴阳师",
+      "url": "https://news.4399.com/yyssy/shishen/m/826885.html",
+      "usedFor": "đối chiếu Nhìn Thấu, giới hạn kết liễu và bộ Phá Thế"
+    }
+  ]
+}

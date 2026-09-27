@@ -1,0 +1,82 @@
+{
+  "shikigamiId": 265,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Burst đơn thể kèm sát thương tràn dễ hiểu, vẫn dùng được để chuyển tiếp nhưng không còn đáng ưu tiên hơn chủ lực hiện đại",
+  "summary": "《Tỳ Mộc Đồng Tử》 dùng [Địa Ngục Chi Thủ] dồn sát thương vào một mục tiêu; nếu hạ gục, [Chuyển Nộ] biến sát thương thặng dư thành sát thương toàn đội địch. Nếu chưa hạ được, anh tích {+Nộ Khí} để tăng sức mạnh cho lần sau. Cơ chế vẫn hiệu quả khi có thể chọn mục tiêu yếu làm điểm nổ, nhưng yêu cầu ngự hồn cao và đã bị nhiều chủ lực mới vượt qua.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 6.5,
+      "note": "Có thể dọn một đợt bằng sát thương tràn nếu đủ chỉ số."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5.5,
+      "note": "Tích Nộ Khí giúp đánh lại mục tiêu lớn, nhưng thiếu lợi thế trong đội boss hiện đại."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 3.5,
+      "note": "Dễ bị bảo vệ, khống chế và không tạo áp lực nếu cú đầu không hạ mục tiêu."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Dễ dùng làm chủ lực chuyển tiếp, nhưng không nên đầu tư quá mức."
+    }
+  ],
+  "strengths": [
+    "Burst đơn thể cao và có thể quét cả đợt bằng sát thương thặng dư.",
+    "Không hạ mục tiêu sẽ tích {+Nộ Khí}; [Địa Ngục Chi Thủ] còn hoàn lại Quỷ Hỏa theo số tầng.",
+    "Cách vận hành đơn giản trong màn có mục tiêu yếu để chọn làm điểm nổ."
+  ],
+  "weaknesses": [
+    "Phụ thuộc mạnh vào khả năng hạ mục tiêu ngay cú đầu.",
+    "Cần đủ 100% Bạo kích và Sát thương bạo kích cao.",
+    "Độ ưu tiên hiện tại thấp hơn các chủ lực farm/boss mới."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Phù hợp màn nhiều mục tiêu có một đơn vị dễ hạ: đánh vào mục tiêu đó để [Chuyển Nộ] lan sát thương thặng dư. Nếu không thể hạ trong một lượt, tốc độ farm giảm mạnh.",
+        "Các bảng ưu tiên gần đây xem anh là lựa chọn chuyển tiếp hoặc tình huống, không còn là chủ lực bắt buộc."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Lối một đòn kết liễu quá dễ bị lá chắn, giảm sát thương hoặc bảo vệ hóa giải. Chỉ nên dùng trong đội tốc độ cao khi đã chắc chắn đủ sát thương."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Dọn quái/burst đầu trận: 〈Phá Thế〉 + 〈Hoang Khô Lâu〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích.",
+        "Trận giữ được lượng Quỷ Hỏa cao: 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉; cùng bộ chỉ số trên. Chỉ chọn khi thứ tự hành động bảo đảm còn nhiều Quỷ Hỏa lúc anh ra tay."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师新区式神强度排名指南",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1046/10460966.html",
+      "usedFor": "đối chiếu độ ưu tiên và vai trò chuyển tiếp",
+      "publishedAt": "2025"
+    },
+    {
+      "title": "茨木童子带什么御魂好",
+      "publisher": "指南生活",
+      "url": "https://www.zhinanshenghuo.com/article/54b6b9c037344c6c593b473c.html",
+      "usedFor": "đối chiếu Phá Thế, Cuồng Cốt và điều kiện Quỷ Hỏa",
+      "publishedAt": "30/05/2026"
+    }
+  ]
+}

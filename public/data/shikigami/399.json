@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -125,7 +126,7 @@
       },
       "description": {
         "vi": "Ngôn Hải trầm mặc không nói, nhưng dõi theo vạn vật, miễn nhiễm [tips_104].\n[tips_11] Sau khi trận đấu bắt đầu, mỗi khi phe địch nhận lớn hơn 3 điểm Quỷ Hỏa, Ngôn Linh tăng 2 tầng [buff_3991_1]. Khi lượt mục tiêu kẻ địch không phải vật triệu hồi kết thúc, Ngôn Linh tăng 1 tầng [buff_3991_1].\n[tips_7]: Nhận 3 tầng [buff_3991_1]",
-        "en": "The Sea of Words is silent as it watches the world. Grants immunity to [tips_104]s.\n[tips_11]. After battle starts, whenever the enemy gains more than 3 orbs, Kotodama gains 2 [buff_3991_1] stacks. At the end of a non-summoned enemy entity's turn, Kotodama gains 1 Inkling stack. [tips_7]: Gains 3 [buff_3991_1] stacks.",
+        "en": "The Sea of Words is silent as it watches the world. Grants immunity to [tips_104]s.\n[tips_11] After battle starts, whenever the enemy gains more than 3 orbs, Kotodama gains 2 [buff_3991_1] stacks. At the end of a non-summoned enemy entity's turn, Kotodama gains 1 Inkling stack. [tips_7]: Gains 3 [buff_3991_1] stacks.",
         "zh": "言海沉默不语，却注视一切，免疫[tips_104]。\n[tips_11]。战斗开始后，敌方每次获得大于3点鬼火时，言灵增加2层[buff_3991_1]。非召唤物的敌方目标回合结束时，言灵增加1层墨灵。[tips_7]：获得3层[buff_3991_1]"
       },
       "upgrades": [

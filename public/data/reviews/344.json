@@ -1,0 +1,95 @@
+{
+  "shikigamiId": 344,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hai trạng thái cho phép vừa làm hỗ trợ giải hiệu ứng vừa gây sát thương, nhưng cách vận hành phức tạp và mỗi lần đổi trạng thái làm đại chiêu đắt hơn",
+  "summary": "《Vân Ngoại Kính》 chia sinh mệnh giữa Âm và Dương. Dạng Dương thiên về hỗ trợ: [Khổ Hải Phù Sinh] cấp {+Kính Hựu} để xua hiệu ứng khống chế cho đồng đội và kéo 20% thanh hành động toàn đội. Dạng Âm dùng [Vân Ngạn Tịnh Không] gây AoE rồi truy kích theo lượng sinh mệnh Âm đã mất. Điểm mạnh là đổi vai trò ngay trong trận; điểm yếu là phải kiểm soát sinh mệnh, tốc độ và quỷ hỏa vì chi phí đổi trạng thái tăng vĩnh viễn sau mỗi lần dùng.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7,
+      "note": "Dạng Âm có AoE và truy kích, dùng được trong một số đội farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6.5,
+      "note": "Có sát thương theo nhịp mất HP nhưng không còn là chủ lực boss phổ dụng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Hỗ trợ dạng Dương linh hoạt: {+Kính Hựu} giải khống chế cho chủ lực, tăng Kháng và kéo thanh; dạng Âm chỉ dùng khi đội thật sự cần sát thương theo Phòng thủ."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Đa dụng nhưng cơ chế hai trạng thái khó dùng và cần nâng kỹ năng đúng vai trò."
+    }
+  ],
+  "strengths": [
+    "Dạng Dương vừa cấp {+Kính Hựu} vừa kéo 20% thanh hành động cho toàn đội.",
+    "Có thể đổi giữa hỗ trợ và sát thương trong cùng trận đấu.",
+    "Dạng Âm có AoE kèm các đòn truy kích khi sinh mệnh Âm giảm."
+  ],
+  "weaknesses": [
+    "Mỗi lần dùng kỹ năng đổi trạng thái làm chi phí quỷ hỏa tăng thêm 2 vĩnh viễn.",
+    "Đảo sinh mệnh Âm/Dương khiến cách vận hành khó hơn thức thần chuyên một vai trò.",
+    "Dạng sát thương đã bị nhiều chủ lực PvE mới vượt về hiệu suất."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dạng Âm phù hợp hơn khi cần sát thương: [Vân Ngạn Tịnh Không] đánh toàn đội địch rồi truy kích theo các mốc sinh mệnh Âm đã mất. Ở nội dung ngắn có thể dùng 〈Phá Thế〉; trong phó bản có điều kiện sinh mệnh phù hợp, 〈Trấn Mộ Thú〉 kết hợp 〈Hoang Khô Lâu〉 tận dụng lượng HP hiển thị thấp của cơ chế Âm/Dương.",
+        "Không nên tự động đổi trạng thái liên tục. Chi phí kỹ năng tăng dần có thể phá nhịp quỷ hỏa của cả đội, vì vậy cần khóa kỹ năng hoặc xác định trước dạng dùng trong từng phó bản."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Vân Ngoại Kính》 trong PvP chủ yếu dùng dạng Dương. {+Kính Hựu} bảo vệ một đồng minh quan trọng khỏi chuỗi khống chế, còn [Đàm Vô] vừa gây sát thương theo Phòng thủ vừa đẩy thanh cho đồng minh đang đứng đầu, giúp đội lấy lại lượt. Khả năng tăng Kháng toàn đội khiến anh hợp đội trung tốc hoặc hậu thủ muốn sống qua lần khóa đầu rồi phản công.",
+        "Điểm yếu là chi phí kỹ năng và phụ thuộc thứ tự lượt. Nếu thiếu Quỷ Hỏa, đặt {+Kính Hựu} sai mục tiêu hoặc bị khóa trước khi chuyển dạng, anh khó phát huy đủ bộ công cụ. Dạng Âm không tự nhiên mạnh chỉ vì có sát thương: chuyển sai thời điểm sẽ mất phần bảo vệ cần thiết. Đối thủ có phong ấn nội tại, xua buff hoặc dồn nhiều mục tiêu cùng lúc có thể vượt qua lớp giải khống chế đơn mục tiêu."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Dương/hỗ trợ PvP: 〈Cộng Tiềm〉, 〈Chiêu Tài Miêu〉 hoặc 〈Hỏa Linh〉; Tốc độ – Phòng thủ – Phòng thủ/HP. Ưu tiên Tốc độ, Phòng thủ và Kháng hiệu ứng theo nhu cầu đội hình.",
+        "Âm/sát thương PvE: 〈Trấn Mộ Thú〉 + 〈Hoang Khô Lâu〉 hoặc 〈Phá Thế〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích. Chỉ dùng bộ này khi xác định giữ dạng Âm để gây sát thương."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "云外镜御魂搭配与阵容分析",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/486654028_120467523",
+      "usedFor": "đối chiếu bộ hỗ trợ, bộ sát thương và các tình huống PvE"
+    },
+    {
+      "title": "新区斗技阵容分享",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/850187312414328970",
+      "usedFor": "đối chiếu Cộng Tiềm và ưu tiên tốc độ trong PvP hiện tại",
+      "publishedAt": "2026"
+    },
+    {
+      "title": "云外镜",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/云外镜/24251431?fromModule=lemma_inlink",
+      "usedFor": "đối chiếu hướng chỉ số trắng/đen và các bộ ngự hồn"
+    },
+    {
+      "title": "云外镜配合神乐道馆防守机制",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1FDa1zZEMP/",
+      "usedFor": "đối chiếu dạng Dương, giảm sát thương và thứ tự hành động",
+      "publishedAt": "2025"
+    }
+  ]
+}

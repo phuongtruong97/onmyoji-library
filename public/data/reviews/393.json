@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 393,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ PvP toàn diện về Kháng, giảm thời gian debuff, kéo lượt, chia lại HP và tạo lá chắn; rất mạnh nhưng việc cân bằng HP có thể vô tình làm đồng minh đang khỏe yếu đi",
+  "summary": "《Thiền Tâm Vân Ngoại Kính》 tăng sẵn 25% Kháng Hiệu Ứng cho toàn đội không phải vật triệu hồi. [Tâm Tịnh Minh] tốn tối đa 3 Quỷ Hỏa, giảm một lượt của toàn bộ trạng thái tiêu cực/hiệu ứng/dấu trên một đồng minh, truyền 30% Kháng ban đầu của anh và kéo 30% Thanh Hành Động; nếu không có hiệu ứng nào giảm được thì kéo thẳng 100%. [Vạn Pháp Giai Không] hiện tốn 1 Quỷ Hỏa, đổi 50% HP hiện tại của đội thành lá chắn {+Thần Kính Tí Hựu} bằng 50% HP tối đa và tăng 25% Tốc độ cả đội trong thời gian hồi chiêu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "Không tăng sát thương trực tiếp đủ mạnh cho farm, nhưng có vài đội hình kéo lượt chuyên biệt."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Lá chắn, chia HP và giảm thời gian debuff hữu ích ở nội dung khó, không phải lựa chọn boss tối ưu phổ thông."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9.5,
+      "note": "Dùng [Tâm Tịnh Minh] lên đồng minh bị khống chế hoặc cần giành lượt."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Bảo vệ đội rất tốt nhưng cần nâng đủ kỹ năng và hiểu cơ chế Hoán đổi HP."
+    }
+  ],
+  "strengths": [
+    "[Tâm Tịnh Minh] có thể rút ngắn cả trạng thái tiêu cực, hiệu ứng và dấu; nếu không giảm được gì thì tăng 100% Thanh Hành Động cho mục tiêu.",
+    "{+Thần Kính Tí Hựu} là lá chắn không thể giải trừ, tăng 60% Kháng Hiệu Ứng ở cấp tối đa và khi biến mất chuyển tối đa 75% lá chắn còn lại thành HP.",
+    "Mỗi lần anh hành động sẽ phân phối lại tổng HP hiện tại để tỷ lệ HP của các đồng minh không phải vật triệu hồi bằng nhau; giúp cứu một mục tiêu thấp HP bằng lượng HP dư của cả đội."
+  ],
+  "weaknesses": [
+    "Cân bằng tỷ lệ HP cũng rút HP từ đồng minh đang khỏe sang đồng minh yếu, có thể khiến nhiều mục tiêu cùng rơi vào tầm kết liễu.",
+    "[Vạn Pháp Giai Không] chủ động khấu trừ 50% HP hiện tại; không hợp với đồng minh cần duy trì HP cao để tối đa kỹ năng.",
+    "[Tâm Tịnh Minh] chỉ giảm 1 lượt: debuff nhiều tầng/nhiều lượt vẫn có thể tồn tại, khiến điều kiện kéo 100% không xuất hiện."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Anh có thể bảo vệ đội ở phó bản khó hoặc ghép lối chơi giảm HP, nhưng không cung cấp khuếch đại sát thương trực tiếp như hỗ trợ boss chuyên dụng. Vì vậy nên xem là lựa chọn cơ chế, không phải hỗ trợ PvE mặc định."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Dùng [Tâm Tịnh Minh] lên đồng minh bị khống chế hoặc cần giành lượt. Nếu mục tiêu sạch hiệu ứng, kỹ năng trở thành kéo lượt 100%; nếu đang bị debuff, kỹ năng vừa rút ngắn toàn bộ hiệu ứng một lượt vừa kéo 30%, nên phải chọn mục tiêu theo tình trạng thực tế.",
+        "[Vạn Pháp Giai Không] tạo lá chắn lớn và trong hai lượt hồi chiêu tăng 25% Tốc độ cả đội. Sau hai lượt của anh, HP hiện tại và HP đã mất được Hoán đổi, với sàn sau hoán đổi không thấp hơn 20%; cần tính trước nhịp sát thương và hồi phục để tránh kết quả ngược ý."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP phổ thông: 〈Cộng Tiềm〉, Tốc độ – Kháng Hiệu Ứng/HP – HP/Phòng thủ; ưu tiên Tốc độ, Kháng và HP phụ. Bộ này bổ sung xua debuff sau lượt, rất hợp vai trò chống khống chế.",
+        "〈Chiêu Tài Miêu〉 hỗ trợ Quỷ Hỏa; 〈Di Niệm Hỏa〉 cho Kháng và tài nguyên riêng để dùng kỹ năng; 〈Hỏa Linh〉 dùng khi đội cần lửa mở trận. Bộ rời Tốc độ cao chỉ nên dùng khi việc giành thứ tự lượt quan trọng hơn hiệu ứng 4 món."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "禅心雲外鏡の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/240944759240163518.html",
+      "usedFor": "đối chiếu giảm thời gian debuff, kéo lượt, cân bằng HP, lá chắn và các lựa chọn Ngự Hồn"
+    },
+    {
+      "title": "禅心云外镜最新御魂搭配方案2024",
+      "publisher": "18183",
+      "url": "https://m.18183.com/yys/202409/4915693.html",
+      "usedFor": "đối chiếu vai trò PvP và cấu hình Tốc–HP–HP/Phòng thủ"
+    }
+  ]
+}

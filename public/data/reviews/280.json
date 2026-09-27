@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 280,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Nguồn Quỷ Hỏa phòng thủ ổn định, tăng phòng và kháng; vẫn dùng được nhưng đã có nhiều lựa chọn thay thế",
+  "summary": "《Huy Dạ Cơ》 mở [Long Thủ Chi Ngọc] để tăng 25% Phòng thủ, 20% Kháng hiệu ứng và cho đồng minh cơ hội nhận Quỷ Hỏa trước lượt. Trong huyễn cảnh, đội còn có thể dùng kỹ năng khi thiếu lửa bằng cách tiêu toàn bộ phần còn lại và đổi bằng HP cùng thời lượng kết giới. Cô phù hợp đội PvP hoặc màn dài cần độ bền, nhưng khả năng cấp lửa có xác suất và không đem lại mức tăng sát thương của các hỗ trợ mới.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "Có Hỏa Linh và kết giới nhưng thiếu tăng sát thương mạnh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Cấp lửa, tăng phòng và kháng giúp đội vận hành an toàn."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7.5,
+      "note": "Huyễn cảnh phòng thủ vẫn hữu ích trong đội cần chống khống chế."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Nguồn lửa dễ dùng, nhưng cần hiểu cơ chế vay lửa bằng HP."
+    }
+  ],
+  "strengths": [
+    "[Long Thủ Chi Ngọc] đồng thời cấp lửa, tăng Phòng thủ và Kháng hiệu ứng.",
+    "Cho phép thi triển kỹ năng khi thiếu Quỷ Hỏa trong huyễn cảnh.",
+    "[Hỏa Thử Cừu] có thể sinh lửa khi đồng minh bị đánh."
+  ],
+  "weaknesses": [
+    "Nguồn lửa trước lượt chỉ có xác suất 67%.",
+    "Cơ chế dùng kỹ năng khi thiếu lửa làm cô mất HP và rút ngắn huyễn cảnh.",
+    "Ít tăng sát thương hơn các hỗ trợ Quỷ Hỏa đời mới."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Là nguồn lửa an toàn cho đội mới hoặc nội dung dài, đặc biệt khi cần Phòng thủ và Kháng hiệu ứng. Trong đội farm tối ưu, lựa chọn tăng sát thương trực tiếp thường tốt hơn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Kết giới giúp cả đội cứng hơn và giảm rủi ro bị khống chế. Cơ chế vay lửa cứu được lượt quan trọng, nhưng phải theo dõi HP của cô và thời lượng huyễn cảnh."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Mặc định: 〈Hỏa Linh〉; Tốc độ – HP/Kháng hiệu ứng – HP, bảo đảm Quỷ Hỏa đầu trận.",
+        "Đội đã có Hỏa Linh: 〈Bạng Tinh〉 hoặc 〈Cộng Tiềm〉; Tốc độ – HP – Bạo kích/HP tùy nhu cầu lá chắn và giải hiệu ứng."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师：SP式神培养指南",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1134/11341535.html",
+      "usedFor": "đối chiếu độ ưu tiên và phạm vi PvE/PvP",
+      "publishedAt": "18/02/2026"
+    },
+    {
+      "title": "阴阳师2026式神培养优先级",
+      "publisher": "布乐秀",
+      "url": "https://www.bulexiu.com/yx/88.html",
+      "usedFor": "đối chiếu vị trí tương đối hiện tại",
+      "publishedAt": "10/09/2026"
+    }
+  ]
+}

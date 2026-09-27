@@ -1,0 +1,91 @@
+{
+  "shikigamiId": 352,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Khắc chế đơn mục tiêu hàng đầu nhờ hạ Công, tăng sát thương nhận, khóa hồi máu/kéo thanh và giảm HP tối đa; rất mạnh PvP, còn PvE là hỗ trợ giảm Phòng thủ theo đội",
+  "summary": "《Phược Cốt Thanh Cơ》 dùng [Thực Cốt] tốn 1 Quỷ Hỏa để gắn {−Oán} và triệu hồi Xà Linh khóa một mục tiêu. Mục tiêu càng mất HP càng bị giảm Công và tăng sát thương nhận; Xà Linh cho cô 40% giảm sát thương và kéo 30% thanh sau mỗi lần đánh. [Hàng Cổ Chi Đồng] gắn {−Đồng Cổ}, vô hiệu từng lần hồi máu hoặc kéo thanh và giảm HP tối đa. Khi mục tiêu Oán chết, cô giải khống chế/trục xuất, hút 40% thuộc tính rồi nâng cấp đại chiêu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "Giảm Phòng thủ vĩnh viễn có ích nhưng cần thời gian đánh nhiều lần."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7,
+      "note": "Giảm Phòng thủ, hạ Công và tăng sát thương boss nhận rất tốt trong đội phù hợp."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Khóa một chủ lực bằng Oán, chặn hồi máu/kéo thanh và giảm HP tối đa với nhịp hành động cao."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Mạnh nhưng thiên PvP/boss, cần Tốc độ và chọn đúng mục tiêu Oán."
+    }
+  ],
+  "strengths": [
+    "Mỗi lần tấn công gắn {−Trúng Độc} cấp 5 và giảm vĩnh viễn 50 Phòng thủ, tối đa 500 điểm theo dữ liệu hiện tại.",
+    "{−Oán} giảm 30% tổng Công; mỗi 1% HP đã mất giảm thêm 0,5% Công và tăng 1% sát thương phải chịu.",
+    "{−Đồng Cổ} vô hiệu hồi máu hoặc kéo thanh từng tầng và mỗi lần kích hoạt giảm 8% HP tối đa; Xà Linh còn cho bản thân 40% giảm sát thương."
+  ],
+  "weaknesses": [
+    "Xà Linh chiếm vị trí vật triệu hồi phe ta và sẽ xóa vật triệu hồi đang có; cần đặc biệt chú ý khi đi cùng 《Thiên Cơ》 hoặc thức thần dùng vật triệu hồi.",
+    "Chỉ được dùng [Thực Cốt] một lần mỗi đợt, nên chọn sai mục tiêu {−Oán} rất khó sửa.",
+    "Trước khi Xà Linh trở về, cô không có miễn khống chế thường trực và có thể bị khóa hành động."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Ở boss dài lượt, đánh thường nhiều lần để giảm Phòng thủ rồi dùng Xà Linh hạ Công/tăng sát thương nhận. Nếu đi cùng thức thần có vật triệu hồi, phải hoàn tất tích buff của vật đó trước khi gọi Xà Linh vì hai bên không cùng tồn tại."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Ưu tiên gắn {−Oán} lên chủ lực hoặc trụ cột cần vô hiệu hồi máu/kéo thanh. Mục tiêu Oán càng nhanh càng cho Xà Linh nhiều lượt, kéo thanh bản thân nhiều hơn; sau khi mục tiêu chết, việc hút thuộc tính giúp cô trở thành chủ lực cuối trận."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP tốc độ: 〈Chiêu Tài Miêu〉 hoặc 〈Mộc Mị〉; Tốc độ – Công/HP – Công/HP, ưu tiên Tốc độ. Chiêu Tài nuôi nhịp kỹ năng, Mộc Mị phá tài nguyên đối thủ.",
+        "Boss hỗ trợ: 〈Đồ Phật〉 hoặc 〈Chiêu Tài Miêu〉; Công/Tốc độ – Công – Bạo kích/Sát thương bạo kích tùy yêu cầu đội. Dùng đánh thường để giảm Phòng thủ và kích hoạt Đồ Phật; không mặc định bộ sát thương nếu vai trò chính là hỗ trợ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "縛骨清姫の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/縛骨清姫.html",
+      "usedFor": "đối chiếu vai trò PvP/PvE, Xà Linh, Đồng Cổ và nhịp kéo thanh"
+    },
+    {
+      "title": "缚骨清姬",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/缚骨清姬/50805173",
+      "usedFor": "đối chiếu Chiêu Tài/Mộc Mị, chỉ số Tốc độ và các hướng sống sót"
+    },
+    {
+      "title": "SP缚骨清姬值得培养吗",
+      "publisher": "TapTap 阴阳师论坛",
+      "url": "https://www.taptap.cn/moment/280738536322236658",
+      "usedFor": "đối chiếu cơ chế Oán/Xà Linh/Đồng Cổ và cách chọn Ngự Hồn"
+    },
+    {
+      "title": "レイドボス最強式神ランキング",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/ランキング/最強レイドボス式神ランキング.html",
+      "usedFor": "đối chiếu Đồ Phật/Chiêu Tài và xung đột vị trí vật triệu hồi trong boss"
+    }
+  ]
+}

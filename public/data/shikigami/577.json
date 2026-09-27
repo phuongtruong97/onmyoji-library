@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -125,7 +126,7 @@
       },
       "description": {
         "vi": "[tips_11] Mỗi khi kẻ địch giảm 1 điểm [tips_26], nhận 1 tầng [buff_5772_1].\n[Thi triển] Thi triển thuật che mắt. Khấu trừ tối đa 2 điểm [tips_26] của phe ta và hồi phục lượng Quỷ Hỏa tương ứng. Đồng thời trộm 1 điểm Quỷ Hỏa của kẻ địch.",
-        "en": "[tips_11]. For each 1 [tips_26] lessened from the enemy, grants him 1 [buff_5772_1] stack.\nActive skill: Uses a sleigh of hand to deduct up to 2 [tips_26]s from you, recovering equal amount of orbs. Also, steals 1 orb from the enemy.",
+        "en": "[tips_11] For each 1 [tips_26] lessened from the enemy, grants him 1 [buff_5772_1] stack.\nActive skill: Uses a sleigh of hand to deduct up to 2 [tips_26]s from you, recovering equal amount of orbs. Also, steals 1 orb from the enemy.",
         "zh": "[tips_11]敌方每减少1点[tips_26]，获得1层[buff_5772_1]。\n【施放】施展障眼法。至多扣除友方2点[tips_26]并恢复等量鬼火。同时偷取敌方1点鬼火。"
       },
       "upgrades": [
@@ -182,8 +183,8 @@
         "zh": "世间的谜题，总是充斥着致命的危险。"
       },
       "description": {
-        "vi": "[tips_11]. Khởi động Trường Tinh Tỏa, giảm 30% Chính Xác Hiệu Ứng của toàn bộ kẻ địch, duy trì 1 lượt. Đối với mục tiêu được chọn có 75% [tips_2] đính kèm [buff_5771_1]. Sau khi thi triển, lượt của đồng minh không phải vật triệu hồi tiếp theo ngoại trừ bản thân tiêu hao Quỷ Hỏa giảm 3 điểm.",
-        "en": "[tips_11]. Constellation Puzzle gets into action, reducing all enemies' Effect HIT by 30% for 1 turn, with a 75% [tips_2] of inflicting [buff_5771_1] on the selected enemy. Using the skill reduces the orb cost of the next non-summoned ally entity other than himself by 3 orbs.",
+        "vi": "[tips_11] Khởi động Trường Tinh Tỏa, giảm 30% Chính Xác Hiệu Ứng của toàn bộ kẻ địch, duy trì 1 lượt. Đối với mục tiêu được chọn có 75% [tips_2] đính kèm [buff_5771_1]. Sau khi thi triển, lượt của đồng minh không phải vật triệu hồi tiếp theo ngoại trừ bản thân tiêu hao Quỷ Hỏa giảm 3 điểm.",
+        "en": "[tips_11] Constellation Puzzle gets into action, reducing all enemies' Effect HIT by 30% for 1 turn, with a 75% [tips_2] of inflicting [buff_5771_1] on the selected enemy. Using the skill reduces the orb cost of the next non-summoned ally entity other than himself by 3 orbs.",
         "zh": "[tips_11]，长星锁运转，降低敌方群体30%效果命中，持续1回合。对选中的目标有75%[tips_2]附加[buff_5771_1]。施放后，下个其他友方非召唤物回合消耗鬼火减少3点。"
       },
       "upgrades": [

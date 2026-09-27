@@ -1,0 +1,106 @@
+{
+  "shikigamiId": 599,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực PvP hậu thủ chuyên bào HP tối đa và khóa hồi sinh; cần tích Dơi để bước vào trạng thái kết liễu",
+  "summary": "《Thực Nguyệt Hấp Huyết Cơ》 đánh cắp 6% HP tối đa của mục tiêu qua mỗi tầng {−Thôn Phệ}, đồng thời tích Dơi từ đòn đánh, khi bị tấn công, khi đồng minh tử trận hoặc khi HP địch giảm mạnh. Đủ 12 Dơi, cô vào {+Hóa Thân Đêm Tối}, tự giải toàn bộ khống chế và tung [Thực Nguyệt Vi Miện] miễn phí. Kẻ địch bị hạ bởi tiến trình của cô được thay bằng Phi Duyên Ma, chiếm chỗ và ngăn hồi sinh; vì vậy cô là quân bài PvP chống đội nhiều HP/hồi sinh, không phải chủ lực farm PvE.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3.5,
+      "note": "Phải tích 12 Dơi và cơ chế Phi Duyên Ma hầu như không tạo lợi ích trong farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5.5,
+      "note": "Hút máu và tăng sát thương theo chênh lệch HP giúp tự duy trì, nhưng boss hạn chế nhiều cơ chế PvP."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Chủ lực hậu thủ tăng tiến bằng Dơi, đánh cắp HP tối đa và cản hồi sinh; mạnh trong trận kéo dài nhưng dễ bị khóa trước khi hoàn tất chu kỳ."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4,
+      "note": "Rất chuyên PvP, cần đủ kỹ năng, đội bảo kê và hiểu nhịp tích Dơi."
+    }
+  ],
+  "strengths": [
+    "Mỗi tầng {−Thôn Phệ} đánh cắp 6% HP tối đa của Thức thần hoặc Âm Dương Sư địch, tối đa 10 tầng.",
+    "Đủ 12 Dơi sẽ tự giải toàn bộ khống chế và dùng [Thực Nguyệt Vi Miện] miễn phí; các chu kỳ sau cần thêm 16 Dơi.",
+    "Mỗi lần nhận tăng giới hạn HP, cô được 20 Tốc độ và 8% giảm sát thương trong 1 lượt, tối đa 5 tầng.",
+    "Phi Duyên Ma chiếm vị trí kẻ địch đã chết, không hành động và khiến đối phương không thể hồi sinh vào ô đó."
+  ],
+  "weaknesses": [
+    "Cần thời gian tích đủ Dơi; trước khi biến đổi, áp lực diện rộng và khả năng tự giải khống chế còn hạn chế.",
+    "{−Thôn Phệ} chỉ kéo dài 2 lượt, nên nhịp tấn công bị gián đoạn có thể làm mất lượng HP tối đa đã đánh cắp.",
+    "[Tẩm Tức] chỉ hồi theo Tấn công ban đầu; khả năng sống sót vẫn phụ thuộc đội hình bảo kê trước khi đủ tầng.",
+    "Vai trò gần như thuần PvP, không đáng ưu tiên Daruma Đen nếu mục tiêu là farm hoặc boss."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Các đòn đều có hút máu cao và trạng thái cuối tăng sát thương khi HP địch thấp hơn HP của cô. Tuy nhiên thời gian tích Dơi, cơ chế chiếm vị trí và đánh cắp HP tối đa không tạo lợi thế đủ lớn trước boss so với chủ lực PvE chuyên dụng.",
+        "Không nên đầu tư chỉ để PvE. Nếu dùng thử ở trận dài, cần bảo đảm cô liên tục được đánh hoặc có đồng minh tạo điều kiện để tích Dơi nhanh."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Thực Nguyệt Hấp Huyết Cơ》 là chủ lực phản công thiên về trận dài. Dơi giúp cô tăng HP tối đa, nhận thêm Tốc độ và giảm sát thương; việc đánh cắp HP tối đa vừa làm cô cứng hơn vừa bào mòn các đội chống chịu. Phi Duyên Ma chiếm vị trí của mục tiêu đã chết, tạo đối sách trực tiếp với đội hồi sinh. Khi đủ tài nguyên, đại chiêu miễn phí cho phép cô lật thế mà không phụ thuộc hoàn toàn vào Quỷ Hỏa.",
+        "Điểm yếu là giai đoạn khởi động. Sau điều chỉnh, cô cần nhiều Dơi hơn mới quay lại đại chiêu miễn phí, nên đội phải bảo vệ cô qua các lượt đầu. Cô không có miễn khống chế mở màn; khóa kỹ năng, biến hình hoặc dồn sát thương trước khi HP tối đa tăng đủ đều có thể chặn vòng tăng tiến. Ghép 《Cát Diệp》 hoặc hỗ trợ giải khống chế giúp che điểm yếu này, nhưng không biến cô thành chủ lực dùng mù trước mọi đội."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP hậu thủ sát thương: 〈Thương Hồn Điểu〉; Tốc độ/Công – Công/HP – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích. Hợp trận kéo dài có ca tử trận để tăng sức mạnh và hồi phục.",
+        "PvP chủ động/bùng nổ: 〈Cuồng Cốt〉 hoặc 〈Võng Thiết〉; Tốc độ/Công – Công – Bạo kích/Sát thương bạo kích. 〈Cuồng Cốt〉 chỉ phù hợp khi đội giữ nhiều Quỷ Hỏa; 〈Võng Thiết〉 ổn định hơn trước mục tiêu Phòng thủ cao."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Moonclipse Vampira Skill Description",
+      "publisher": "GUIDEMYOJI",
+      "url": "https://guidemyoji.com/sp-vampira/",
+      "usedFor": "đối chiếu kỹ năng và các lần điều chỉnh tới tháng 9/2026",
+      "publishedAt": "03/03/2026"
+    },
+    {
+      "title": "SP吸血姬强在哪？实战与配队",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1E9c6zaEcG/",
+      "usedFor": "đối chiếu vai trò PvP, đội hình và cách tích trạng thái",
+      "publishedAt": "12/03/2026"
+    },
+    {
+      "title": "SP蚀月吸血姬全面解析",
+      "publisher": "什么值得买",
+      "url": "https://post.smzdm.com/p/avg8oglm/",
+      "usedFor": "đối chiếu nuôi dưỡng, Ngự Hồn và đội hình",
+      "publishedAt": "10/04/2026"
+    },
+    {
+      "title": "蚀月吸血姬初版斗技强度测试",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1zYPqzFE5o/",
+      "usedFor": "đối chiếu chống hồi sinh, đánh cắp HP tối đa và điểm yếu trước khống chế",
+      "publishedAt": "05/03/2026"
+    },
+    {
+      "title": "SP吸血姬正式服前数值回调分析",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1STKs6KEHy/",
+      "usedFor": "đối chiếu chu kỳ Dơi và điều chỉnh sát thương hiện hành",
+      "publishedAt": "20/07/2026"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 259,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Khống chế thanh hành động theo tình huống, nhưng cơ chế chậm và thiếu ổn định nên không còn là lựa chọn PvP ưu tiên",
+  "summary": "《Tiểu Lộc Nam》 tự kéo 20% thanh hành động mỗi khi đối phương dùng kỹ năng tốn Quỷ Hỏa. Sau khi tích {+Sinh Sinh Bất Tức}, [Lộc Giác Trùng Khúc] có thể đẩy lùi nhiều mục tiêu và gây {−Choáng} nếu đẩy chạm cuối thanh. Cơ chế có chiều sâu nhưng phụ thuộc đối thủ tiêu lửa, cần tích tầng và cạnh tranh kém với các bộ khống chế hiện đại.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 2.5,
+      "note": "Đẩy thanh và phản khống chế hiếm khi giúp tối ưu farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 3,
+      "note": "Không có sát thương hay hỗ trợ cần thiết cho phần lớn boss."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 5,
+      "note": "Có thể phá nhịp đội tiêu nhiều lửa, nhưng khởi động chậm và khống chế có điều kiện."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 3,
+      "note": "Không nên ưu tiên Daruma Đen hoặc bộ ngự hồn tốt."
+    }
+  ],
+  "strengths": [
+    "Tự kéo thanh khi kẻ địch dùng kỹ năng Quỷ Hỏa.",
+    "[Lộc Giác Trùng Khúc] có thể đẩy nhiều mục tiêu khi đã tích tầng.",
+    "Có xác suất phản lại hiệu ứng khống chế nhận phải."
+  ],
+  "weaknesses": [
+    "Cần tích {+Sinh Sinh Bất Tức} trước khi đại chiêu đạt đủ hiệu quả.",
+    "{−Choáng} chỉ xuất hiện khi mục tiêu bị đẩy tới cuối thanh hành động.",
+    "Yếu trước đội hình không tốn Quỷ Hỏa và gần như không có việc làm PvE."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không có vị trí ổn định trong farm, boss hoặc sự kiện hiện tại. Chỉ cân nhắc ở màn đặc thù cho phép đẩy thanh và cần nhiều mục tiêu bị trì hoãn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Anh phản ứng tốt hơn trước đội liên tục tiêu Quỷ Hỏa: mỗi lần đối thủ dùng kỹ năng tốn lửa sẽ giúp anh tiến lượt. Khi đủ tầng, [Lộc Giác Trùng Khúc] có thể phá thứ tự hành động của nhiều mục tiêu.",
+        "Đây là lựa chọn khắc chế tình huống, không phải phương án khống chế phổ dụng. Khuyến nghị hiện đại xếp anh vào nhóm cơ chế đã tụt lại và không nên ưu tiên nuôi."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP hỗ trợ: 〈Chiêu Tài Miêu〉; Tốc độ – Kháng hiệu ứng – HP, ưu tiên Tốc độ và Kháng hiệu ứng.",
+        "Lối tăng tần suất hành động: 〈Luân Nhập Đạo〉; Tốc độ – Kháng hiệu ứng – HP. Chỉ dùng khi đội có nguồn Quỷ Hỏa ổn định và chấp nhận tính ngẫu nhiên."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师新区式神强度排名指南",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1046/10460966.html",
+      "usedFor": "đối chiếu vị trí PvP và độ ưu tiên hiện tại",
+      "publishedAt": "2025"
+    },
+    {
+      "title": "萌新入门指南——SSR/SP式神简介",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/opus/375079932054164278",
+      "usedFor": "đối chiếu cơ chế tự kéo, đẩy thanh và phản khống chế"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "shikigamiId": 363,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ đơn mục tiêu rất mạnh ở cả PvE và PvP: PvE thêm sát thương cố định, PvP điều khiển lượt đối phương",
+  "summary": "《Đế Thích Thiên》 áp đặt {−Kim Liên} bằng [Vô Cấu Liên Hoa]. Trên quái PvE, mỗi lần mục tiêu chịu sát thương sẽ nhận thêm sát thương cố định bằng 40% Công của anh; trong PvP, anh có thể điều khiển hành động của mục tiêu khi đến lượt. Hai cơ chế này khiến anh vẫn có việc làm riêng biệt: xây Công tối đa cho boss, hoặc xây Tốc độ và Hiệu quả chính xác để khống chế trong PvP.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8,
+      "note": "Đặt Kim Liên nhanh để khuếch đại mọi lần đánh vào mục tiêu."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9,
+      "note": "Sát thương cố định theo mỗi lần trúng đòn đặc biệt mạnh với đội nhiều hit."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Quân khống chế đơn mục tiêu linh hoạt cho cả tiên thủ lẫn hậu thủ: khóa mắt xích bằng {−Kim Liên}, ép hành động sai và tạo nhịp chen lượt cho phe mình."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Có ích từ PvE đến PvP, nhưng cần hai bộ Ngự Hồn khác nhau."
+    }
+  ],
+  "strengths": [
+    "{−Kim Liên} trên quái tạo thêm sát thương cố định mỗi lần mục tiêu bị đánh.",
+    "Trong PvP có thể chọn kỹ năng và mục tiêu thay cho kẻ địch mang {−Kim Liên}.",
+    "[Vương Chi Thịnh Yến] kéo 30% thanh cho đồng minh đứng đầu mỗi khi địch bắt đầu lượt."
+  ],
+  "weaknesses": [
+    "Chỉ áp đặt {−Kim Liên} lên một mục tiêu, kém hiệu quả khi phải xử lý nhiều quái cùng lúc.",
+    "Cấu hình PvE cần Công tối đa, trong khi PvP cần Tốc độ và Hiệu quả chính xác; khó dùng chung một bộ.",
+    "Điều khiển PvP có thể bị Kháng hiệu ứng và cần đi đủ nhanh để đặt dấu trước mục tiêu."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Đặt {−Kim Liên} lên boss rồi chuyển sang đánh thường hoặc hỗ trợ theo kịch bản. Sát thương cộng thêm dựa trên Công của Đế Thích Thiên và không kích hoạt ngự hồn của anh, vì vậy ưu tiên Công thuần thay vì Bạo kích hay Hiệu quả chính xác.",
+        "〈Đồ Phật〉 hợp đội dài lượt khi anh đánh thường để tăng sát thương toàn đội. 〈Hỏa Linh〉 dùng cho đội một lượt hoặc thiếu Quỷ Hỏa mở màn; 〈Chiêu Tài Miêu〉 là phương án vận hành phổ thông."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Đế Thích Thiên》 vẫn có giá trị PvP cao vì [Vô Cấu Liên Hoa] biến một mục tiêu quan trọng thành điểm yếu chiến thuật. Khi mục tiêu mang {−Kim Liên} đến lượt, anh có thể ép nó đánh thường, tiêu Quỷ Hỏa sai chỗ hoặc dùng kỹ năng vào mục tiêu bất lợi; điều này đặc biệt hiệu quả để ngắt người kéo lượt, giải khống chế hoặc chủ lực đang chuẩn bị bùng nổ. [Vương Chi Thịnh Yến] còn kéo đồng minh đầu thanh mỗi khi địch bắt đầu lượt, nên anh dùng được trong cả đội chủ động lẫn đội chờ phản công.",
+        "Anh chỉ khống chế trực tiếp một mục tiêu và phải đặt dấu thành công. Đội có Kháng hiệu ứng cao, miễn khống chế, xua dấu hoặc nhiều mối đe dọa song song sẽ làm giá trị kiểm soát giảm. Nếu đi quá chậm, mục tiêu có thể hoàn thành lượt quan trọng trước khi bị gắn {−Kim Liên}; vì vậy vai trò của anh là khóa đúng mắt xích, không phải thay thế một bộ khống chế diện rộng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE: 〈Đồ Phật〉, 〈Hỏa Linh〉 hoặc 〈Chiêu Tài Miêu〉; Công – Công – Công. Ưu tiên tổng Công cao nhất, căn Tốc độ theo đội hình.",
+        "PvP: 〈Chiêu Tài Miêu〉, 〈Di Niệm Hỏa〉, 〈Chung Linh〉 hoặc 〈Mộc Mị〉; Tốc độ – Hiệu quả chính xác – HP/Phòng thủ. Ưu tiên Tốc độ và Hiệu quả chính xác."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "帝釈天の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/152502024921978683.html",
+      "usedFor": "đối chiếu cơ chế PvE/PvP và các bộ ngự hồn"
+    },
+    {
+      "title": "帝释天",
+      "publisher": "阴阳师灰机Wiki",
+      "url": "https://yys.huijiwiki.com/wiki/帝释天",
+      "usedFor": "xác minh sát thương cố định 40%, điều khiển lượt và huyễn cảnh"
+    },
+    {
+      "title": "帝释天御魂搭配推荐",
+      "publisher": "可凡资讯",
+      "url": "https://www.kfcrm.com/news/992.htm",
+      "usedFor": "đối chiếu cấu hình Công thuần PvE và bộ hỗ trợ",
+      "publishedAt": "30/08/2026"
+    },
+    {
+      "title": "帝释天先后手斗技定位与控核",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1KXYv68EqX/",
+      "usedFor": "đối chiếu vai trò khóa lõi và tăng sát thương trong PvP hiện tại",
+      "publishedAt": "13/09/2026"
+    }
+  ]
+}

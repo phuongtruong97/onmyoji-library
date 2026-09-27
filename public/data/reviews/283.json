@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 283,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Chủ lực tiêu lửa nhiều hit có tiềm năng kết liễu, nhưng yêu cầu đội hình cấp lửa và đã mất phần lớn vị trí meta",
+  "summary": "《Hoang》 tạo [Tinh Thần Chi Cảnh] chắc chắn khi phe ta có ít nhất 4 Quỷ Hỏa, tự giải một debuff/khống chế khi bắt đầu lượt và có thể hiệp chiến theo đòn thường của đồng minh. [Thiên Phạt·Nguyệt] tiêu toàn bộ Quỷ Hỏa để đánh số lần tương ứng, giảm chi phí theo {−Tinh Ngân}. Cơ chế cho trần sát thương cao nhưng cần quản lý lửa chặt và bị nhiều chủ lực mới thay thế.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "Có thể burst nếu chuẩn bị đủ lửa nhưng không tối ưu tốc độ chung."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Hiệp chiến và nhiều hit có giá trị, đổi lại tiêu thụ tài nguyên lớn."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 5,
+      "note": "Có tự giải hiệu ứng và kết liễu, nhưng phụ thuộc đội bảo vệ/cấp lửa."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4,
+      "note": "Khó vận hành và không đáng ưu tiên Daruma Đen."
+    }
+  ],
+  "strengths": [
+    "[Thiên Phạt·Nguyệt] chuyển toàn bộ Quỷ Hỏa thành nhiều lần tấn công.",
+    "Huyễn cảnh cho tự giải một debuff hoặc khống chế khi bắt đầu lượt.",
+    "Có thể hiệp chiến theo đòn thường của đồng minh trong huyễn cảnh."
+  ],
+  "weaknesses": [
+    "Cần ít nhất 4 Quỷ Hỏa để bảo đảm huyễn cảnh.",
+    "Đại chiêu có thể rút sạch lửa và làm đứt chuỗi kỹ năng của đội.",
+    "Vai trò hiện tại bị nhiều chủ lực đơn thể/multi-hit mới thay thế."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Chỉ nên dùng khi đội được xây quanh nguồn Quỷ Hỏa và có thứ tự hành động rõ ràng. Đòn nhiều hit tận dụng được ngự hồn theo hit, nhưng chi phí lửa khiến anh khó chen vào đội tối ưu."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Tự giải một hiệu ứng khi vào lượt giúp giảm rủi ro bị khóa, còn đại chiêu có thể kết liễu rồi chuyển các sao băng còn lại sang toàn đội. Tuy nhiên anh cần đồng đội giữ sống và cung cấp lửa."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Sát thương nhiều hit: 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích.",
+        "Burst mục tiêu nhiều HP: 〈Cuồng Cốt〉 + 〈Hoang Khô Lâu〉 chỉ khi đội bảo đảm lượng lửa cao trước lượt của anh."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师2026式神培养优先级",
+      "publisher": "布乐秀",
+      "url": "https://www.bulexiu.com/yx/88.html",
+      "usedFor": "đối chiếu việc không còn thuộc nhóm ưu tiên",
+      "publishedAt": "10/09/2026"
+    },
+    {
+      "title": "萌新入门指南——SSR/SP式神简介",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/opus/375079932054164278",
+      "usedFor": "đối chiếu vai trò truyền thống và điều kiện Quỷ Hỏa"
+    }
+  ]
+}

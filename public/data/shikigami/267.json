@@ -7,6 +7,7 @@
   },
   "rarity": "SR",
   "tier": "SR",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "初春田野霁，山樱正繁时。"
       },
       "description": {
-        "vi": "[tips_11].\nNếu bản thân không ở trong [tips_17], sau khi các đồng minh khác không phải vật triệu hồi kết thúc lượt, trị liệu cho họ lượng HP bằng 6% giới hạn HP; nếu là sau khi kết thúc lượt của bản thân, đổi thành trị liệu lượng HP bằng 9% giới hạn HP cho họ, đồng thời Sakura no Sei trị liệu cho bản thân lượng HP bằng 4% giới hạn HP.\n[Thi triển] Nhận [buff_2672_1], duy trì 2 lượt.",
-        "en": "[tips_11].\nIf she's not [tips_17], at the end of other non-summoned entity ally's action, heals their HP by 6% of her max HP; at the end of a turn, heals their HP by 9% of her max HP. Also heals her own HP by 4% of her max HP. \nUsing the skill gains her a [buff_2672_1] stack for 2 turn(s).",
+        "vi": "[tips_11]\nNếu bản thân không ở trong [tips_17], sau khi các đồng minh khác không phải vật triệu hồi kết thúc lượt, trị liệu cho họ lượng HP bằng 6% giới hạn HP; nếu là sau khi kết thúc lượt của bản thân, đổi thành trị liệu lượng HP bằng 9% giới hạn HP cho họ, đồng thời Sakura no Sei trị liệu cho bản thân lượng HP bằng 4% giới hạn HP.\n[Thi triển] Nhận [buff_2672_1], duy trì 2 lượt.",
+        "en": "[tips_11]\nIf she's not [tips_17], at the end of other non-summoned entity ally's action, heals their HP by 6% of her max HP; at the end of a turn, heals their HP by 9% of her max HP. Also heals her own HP by 4% of her max HP. \nUsing the skill gains her a [buff_2672_1] stack for 2 turn(s).",
         "zh": "[tips_11]。\n若自身未处于[tips_17]，则其他非召唤物的友方行动结束后，为其治疗生命上限6%的生命；若为回合结束后，则改为为其治疗生命上限9%生命，并同时樱花妖治疗自身生命上限4%生命。\n【施放】获得[buff_2672_1]，持续2回合。"
       },
       "upgrades": [
@@ -182,7 +183,7 @@
         "zh": "半山春樱一帘风。"
       },
       "description": {
-        "vi": "Giáng hoa anh đào tấn công toàn bộ kẻ địch, xua tan 3 hiệu ứng tăng ích cho mỗi kẻ địch, đồng thời có 100% [tips_2] giảm trị liệu 50%, duy trì 2 lượt; đồng thời đính kèm [buff_2674_1], gây [tips_5] bằng 15% giới hạn HP (không vượt quá 76% Tấn công), duy trì 2 lượt.",
+        "vi": "Giáng hoa anh đào tấn công toàn bộ kẻ địch, xua tan 3 hiệu ứng buff cho mỗi kẻ địch, đồng thời có 100% [tips_2] giảm trị liệu 50%, duy trì 2 lượt; đồng thời đính kèm [buff_2674_1], gây [tips_5] bằng 15% giới hạn HP (không vượt quá 76% Tấn công), duy trì 2 lượt.",
         "en": "Makes cherry blossoms fall from above to attack all enemies, dispelling 3 buffs from each enemy with a 100% (+Effect HIT) chance of inflicting a 50% Heal Down lasting 2 turns on them. Also inflicts a [buff_2674_1] lasting 2 turns on them, dealing [tips_5] equal to 15% of her max HP (up to a max of 76% of her ATK).",
         "zh": "降下落樱攻击敌方全体，对每个敌方驱散3个增益状态，并且100%（+效果命中）概率减疗50%，持续2回合；同时附加[buff_2674_1]，造成生命上限15%[tips_5]（不超过攻击76%），持续2回合。"
       },
@@ -214,7 +215,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Nếu không xua tan bất kỳ hiệu ứng tăng ích nào, hoàn trả 1 điểm Quỷ Hỏa",
+            "vi": "Nếu không xua tan bất kỳ hiệu ứng buff nào, hoàn trả 1 điểm Quỷ Hỏa",
             "en": "If no buffs are dispelled, 1 orbs are refunded.",
             "zh": "若没有驱散任何增益，返还1点鬼火"
           }

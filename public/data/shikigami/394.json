@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "群星已然归位，虚假的月亮将再度坠落。"
       },
       "description": {
-        "vi": "Hư thực khó phân, địch ta không kẽ hở. Triệu hồi [tips_3942], khi [tips_3942] tồn tại, nếu kẻ địch sử dụng đòn đánh thường và kỹ năng tấn công phe ta, có xác suất 70% chuyển hướng đòn tấn công đơn thể cùng trạng thái giảm ích và [tips_3] đi kèm sang [tips_3942]; nếu kẻ địch thi triển đòn đánh thường và kỹ năng đơn thể lên phe ta mà không gây ra hiệu quả tấn công, thì cũng có xác suất 70% chuyển hướng trạng thái giảm ích và [tips_3] đó, cứ mỗi 30% HP tối đa của [tips_3942], xác suất trên được tăng thêm 10%. \n[tips_11], sau khi kết thúc lượt của kẻ địch không phải vật triệu hồi, Nguyệt Độc tăng 10% thanh hành động cho bản thân cho đến lần triệu hồi [tips_3942] đầu tiên.",
-        "en": "There's a fine line between illusion and reality, friend and foe. Conjures the [tips_3942]. While the [tips_3942] exists, when an enemy uses a normal attack or a skill to attack one or more allies, there's a 70% chance of redirecting the single-target attack and the debuffs and [tips_3]s it inflicts to the Illusory Moon; when an enemy uses a normal attack or a single-target skill on one or more allies and fails to land an attacking effect, there's also a 70% chance of redirecting its debuffs and [tips_3]s. For every 30% of the Illusory Moon's max HP, the above chance increases by an additional 10%. When summoning [tips_3942], immediately applies 2 stacks of [buff_3941_1] to all enemies. [tips_11]. At the end of a non-summoned enemy entity's turn, Tsukuyomi raises his own Move Bar by 10% until he conjures the [tips_3942] for the first time.",
+        "vi": "Hư thực khó phân, địch ta không kẽ hở. Triệu hồi [tips_3942], khi [tips_3942] tồn tại, nếu kẻ địch sử dụng đòn đánh thường và kỹ năng tấn công phe ta, có xác suất 70% chuyển hướng đòn tấn công đơn thể cùng trạng thái debuff và [tips_3] đi kèm sang [tips_3942]; nếu kẻ địch thi triển đòn đánh thường và kỹ năng đơn thể lên phe ta mà không gây ra hiệu quả tấn công, thì cũng có xác suất 70% chuyển hướng trạng thái debuff và [tips_3] đó, cứ mỗi 30% HP tối đa của [tips_3942], xác suất trên được tăng thêm 10%. \n[tips_11], sau khi kết thúc lượt của kẻ địch không phải vật triệu hồi, Nguyệt Độc tăng 10% thanh hành động cho bản thân cho đến lần triệu hồi [tips_3942] đầu tiên.",
+        "en": "There's a fine line between illusion and reality, friend and foe. Conjures the [tips_3942]. While the [tips_3942] exists, when an enemy uses a normal attack or a skill to attack one or more allies, there's a 70% chance of redirecting the single-target attack and the debuffs and [tips_3]s it inflicts to the Illusory Moon; when an enemy uses a normal attack or a single-target skill on one or more allies and fails to land an attacking effect, there's also a 70% chance of redirecting its debuffs and [tips_3]s. For every 30% of the Illusory Moon's max HP, the above chance increases by an additional 10%. When summoning [tips_3942], immediately applies 2 stacks of [buff_3941_1] to all enemies. [tips_11] At the end of a non-summoned enemy entity's turn, Tsukuyomi raises his own Move Bar by 10% until he conjures the [tips_3942] for the first time.",
         "zh": "虚实难分，敌我无间。召唤[tips_3942]，[tips_3942]存在时，若敌方使用普攻和技能攻击友方，有70%的概率将其中的单体攻击及其附带的减益和[tips_3]转移至虚假之月；若敌方对友方施放普攻和单体技能未造成攻击效果，则同样有70%的概率转移其减益和[tips_3]，虚假之月每有30%最大血量，以上概率额外提升10%。召唤[tips_3942]时，立即为全体敌方附加2层[buff_3941_1]。[tips_11]，非召唤物的敌方回合结束后，月读增加自身10%行动条直至首次召唤[tips_3942]。"
       },
       "upgrades": [

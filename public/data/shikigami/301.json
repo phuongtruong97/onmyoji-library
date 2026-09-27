@@ -7,6 +7,7 @@
   },
   "rarity": "R",
   "tier": "R",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -182,7 +183,7 @@
         "zh": "诸法因缘生……诶，后一句是什么来着？"
       },
       "description": {
-        "vi": "Ngồi thiền 2 lượt, trong thời gian này nếu bản thân không ở trạng thái [tips_17]: Đồng minh trước khi bắt đầu lượt, có 40% xác suất (mỗi hạt phật châu tăng thêm 10%) giải trừ 3 trạng thái giảm ích hoặc [tips_3], mỗi giải trừ thành công có thể trị liệu cho họ 5% giới hạn HP, đồng thời tiêu hao 1 hạt phật châu để tăng 30% Thanh Hành Động cho mục tiêu sau lượt của họ; nếu giải trừ không thành công, tăng cho mục tiêu 40% Kháng Hiệu Ứng, duy trì 1 lượt.",
+        "vi": "Ngồi thiền 2 lượt, trong thời gian này nếu bản thân không ở trạng thái [tips_17]: Đồng minh trước khi bắt đầu lượt, có 40% xác suất (mỗi hạt phật châu tăng thêm 10%) giải trừ 3 trạng thái debuff hoặc [tips_3], mỗi giải trừ thành công có thể trị liệu cho họ 5% giới hạn HP, đồng thời tiêu hao 1 hạt phật châu để tăng 30% Thanh Hành Động cho mục tiêu sau lượt của họ; nếu giải trừ không thành công, tăng cho mục tiêu 40% Kháng Hiệu Ứng, duy trì 1 lượt.",
         "en": "打坐2回合，此期间若自身未处于[tips_17]：友方在回合开始前，有40%概率（每颗佛珠额外提升10%）驱散3个减益状态或[tips_3]，每个成功驱散可为其治疗生命上限5%的生命，并消耗1颗佛珠在目标回合后增加其30%行动条；若未成功驱散，则提升目标40%效果抵抗，持续1回合。",
         "zh": "打坐2回合，此期间若自身未处于[tips_17]：友方在回合开始前，有40%概率（每颗佛珠额外提升10%）驱散3个减益状态或[tips_3]，每个成功驱散可为其治疗生命上限5%的生命，并消耗1颗佛珠在目标回合后增加其30%行动条；若未成功驱散，则提升目标40%效果抵抗，持续1回合。"
       },

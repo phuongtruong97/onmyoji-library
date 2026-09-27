@@ -1,0 +1,90 @@
+{
+  "shikigamiId": 594,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ PvE mở trận rất mạnh: tự hồi toàn đội, tăng sát thương và bảo vệ chủ lực bằng lá chắn không thể xua tan",
+  "summary": "《Mộng Dẫn Hồ Điệp Tinh》 dùng Tiên Cơ của [Mộng Dẫn Chi Thanh] lên đồng minh có Công ban đầu cao nhất: hồi toàn đội 15% HP tối đa, hồi riêng mục tiêu 30%, tăng 20% sát thương toàn đội và thêm 20% trong một lượt, đồng thời cấp {+Mộng Kén}. Lá chắn này không thể xua tan và ở cấp tối đa còn tăng 20% sát thương cho người mang. Cô hiện có việc làm rõ trong Ngự Hồn nhờ tạo toàn bộ giá trị ngay đầu trận mà không tốn lượt.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 9,
+      "note": "Tiên Cơ tăng sát thương, hồi máu và bảo vệ đúng chủ lực có Công ban đầu cao nhất."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7.5,
+      "note": "Hồi toàn đội và lá chắn tái tạo tốt, nhưng không có cơ chế tích lũy trần sát thương dài hạn."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7,
+      "note": "Lá chắn không thể xua tan và phản ứng khi ngủ/chịu sát thương lớn, nhưng thiếu giải khống chế toàn đội."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Dễ vận hành và hạ yêu cầu sát thương cho đội farm, dù vẫn cần nâng kỹ năng 3 tối đa để có Tiên Cơ."
+    }
+  ],
+  "strengths": [
+    "[Mộng Dẫn Chi Thanh] cấp ngay 20% tăng sát thương toàn đội, thêm 20% trong một lượt và nâng riêng mục tiêu chọn lên mức tăng 30% cơ bản.",
+    "{+Mộng Kén} hấp thụ 20% HP tối đa, không thể xua tan; khi vỡ còn miễn phần sát thương dư.",
+    "Người mang {+Mộng Kén} gây thêm 20% sát thương ở cấp kỹ năng tối đa.",
+    "[Linh Mộng] tự kích hoạt khi cô bị Ngủ hoặc chịu lượng sát thương cộng dồn vượt 20% HP ban đầu trước lượt kế tiếp."
+  ],
+  "weaknesses": [
+    "Tiên Cơ chọn theo Công ban đầu cao nhất; căn sai Công sẽ bảo vệ và tăng sát thương nhầm mục tiêu.",
+    "Phần tăng sát thương mạnh nhất ngắn hạn chỉ kéo dài một lượt, nên phải căn đúng thứ tự hành động.",
+    "Tự kích hoạt [Linh Mộng] chủ yếu bảo vệ bản thân, không thay thế một kỹ năng giải khống chế cho cả đội.",
+    "Cần kỹ năng 3 cấp 5 để có Tiên Cơ; bản 1–1–1 mất phần lớn giá trị farm nhanh."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Ứng dụng đã được kiểm chứng ở Ngự Hồn Thần Phạt: cô mang 〈Hỏa Linh〉 và dùng Tiên Cơ để hạ yêu cầu mặt của 《Thiên Chiếu》 cùng chủ lực thứ hai. Phải bảo đảm chủ lực muốn nhận {+Mộng Kén} có Công ban đầu cao nhất.",
+        "Ở trận dài, cô vẫn có thể chủ động dùng [Mộng Dẫn Chi Thanh] với giá 2 Quỷ Hỏa để hồi máu và làm mới buff. Tuy nhiên giá trị nổi bật nhất vẫn là tốc chiến nhờ không chiếm lượt mở màn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Lá chắn không thể xua tan, miễn sát thương tràn khi vỡ và khả năng tự dựng lá chắn khi bị Ngủ giúp cô chống dồn sát thương khá tốt. Dù vậy, cô không tự giải các khống chế khác và không kéo thanh toàn đội, nên phải ghép cùng mắt xích giải khống chế/tạo lượt."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Ngự Hồn tốc chiến: 〈Hỏa Linh〉; HP – HP – Bạo kích/HP, không cần Tốc độ nếu chỉ lấy Tiên Cơ. Ưu tiên HP để tăng trị liệu và lá chắn.",
+        "PvE/PvP cần chủ động hành động: 〈Chiêu Tài Miêu〉 hoặc 〈Thụ Yêu〉; Tốc độ – HP – Bạo kích/HP. 〈Thụ Yêu〉 chỉ chọn khi cần hồi phục, còn 〈Chiêu Tài Miêu〉 an toàn hơn cho vòng Quỷ Hỏa."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "梦引蝴蝶精",
+      "publisher": "阴阳师灰机WIKI",
+      "url": "https://yys.huijiwiki.com/wiki/%E6%A2%A6%E5%BC%95%E8%9D%B4%E8%9D%B6%E7%B2%BE",
+      "usedFor": "đối chiếu hồ sơ và kỹ năng hiện hành"
+    },
+    {
+      "title": "梦引蝴蝶精提速魂王，片歌照带低速源神21S",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1b2CNBBEHM/",
+      "usedFor": "xác nhận việc làm Ngự Hồn, bộ Hỏa Linh, thứ tự Công và đội hình thực chiến",
+      "publishedAt": "14/11/2025"
+    },
+    {
+      "title": "SP梦引蝴蝶精强度详解指南",
+      "publisher": "九游",
+      "url": "https://www.9game.cn/yys/11572907.html",
+      "usedFor": "đối chiếu vai trò PvE/PvP, hồi phục, lá chắn và tăng sát thương",
+      "publishedAt": "09/12/2025"
+    }
+  ]
+}

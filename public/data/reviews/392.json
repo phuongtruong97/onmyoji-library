@@ -1,0 +1,92 @@
+{
+  "shikigamiId": 392,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực không bạo kích đa dụng, có sát thương ngoài lượt và bốn mùa để đổi công–thủ; đặc biệt mạnh trong PvE chuyên dụng",
+  "summary": "《Quý》 không thể bạo kích. Mỗi 1% Sát thương bạo kích vượt mức cơ bản được chuyển thành 1% tăng sát thương không bạo kích và 0,5% Kháng bạo kích, vì vậy cô dùng Công – Công – Sát thương bạo kích nhưng không lấy Bạo kích. [Hoa Lạc Tứ Thời Sinh] đổi giữa Xuân hồi máu, Hạ phong ấn, Thu tăng sát thương Quý Linh và Đông phòng thủ; Quý Linh còn tấn công ngoài lượt mỗi khi một đơn vị hành động.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8.5,
+      "note": "Có bộ Tâm Nhãn/Ca Kỹ kết liễu tốt và không phải cân Bạo kích."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Quý Linh gây sát thương ngoài lượt liên tục, bốn mùa thích nghi nhiều cơ chế."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7.5,
+      "note": "Mùa Hạ cho Quý Linh xác suất phong ấn nội tại và ngự hồn, hợp các bộ debuff; mùa Đông tăng 50% Kháng hiệu ứng cho toàn đội và giảm tổng Sát thương bạo kích của kẻ tấn công."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7.5,
+      "note": "Có thể kéo đội vượt Bí Văn/PvE khó, nhưng cần hiểu cách đổi mùa và bộ không Bạo kích."
+    }
+  ],
+  "strengths": [
+    "Không thể bạo kích nhưng chuyển Sát thương bạo kích thành tăng sát thương trực tiếp và Kháng bạo kích.",
+    "Quý Linh gây sát thương ngoài lượt khi bất kỳ đơn vị nào hành động, tối đa tồn tại trên ba mục tiêu.",
+    "Bốn mùa cung cấp hồi máu, phong ấn, tăng sát thương hoặc Kháng hiệu ứng tùy tình huống."
+  ],
+  "weaknesses": [
+    "Không nhận lợi ích từ Bạo kích; mọi dòng Bạo kích trên Ngự Hồn gần như lãng phí.",
+    "Tự tiêu 24% HP tối đa khi đổi mùa và bị hạn chế hồi máu ngoài mùa Xuân.",
+    "Cần chọn đúng mùa và đôi khi phải điều khiển thủ công thay vì để tự động hoàn toàn."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng mùa Thu khi cần sát thương Quý Linh, mùa Xuân khi cần tự duy trì. Trong đội kết liễu, 〈Tâm Nhãn〉 + 〈Quỷ Linh Ca Kỹ〉 đánh tốt mục tiêu thấp HP; đội còn nhiều Quỷ Hỏa có thể dùng 〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉; nội dung cần sống lâu có thể dùng 〈Trấn Mộ Thú〉.",
+        "Không cộng Bạo kích. Thuộc tính đúng là Công – Công – Sát thương bạo kích, sau đó tiếp tục ưu tiên Công, Sát thương bạo kích và Tốc độ theo kịch bản."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Mùa Hạ cho Quý Linh xác suất phong ấn nội tại và ngự hồn, hợp các bộ debuff; mùa Đông tăng 50% Kháng hiệu ứng cho toàn đội và giảm tổng Sát thương bạo kích của kẻ tấn công. Cơ chế Tứ Thời Chi Tuần còn giúp chống một lần sát thương chí mạng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE kết liễu: 〈Tâm Nhãn〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Sát thương bạo kích, không lấy Bạo kích. PvE dài lượt: 〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉 hoặc 〈Trấn Mộ Thú〉 + 〈Quỷ Linh Ca Kỹ〉; cùng cấu hình.",
+        "PvP sát thương/khống chế: 〈Nhật Nữ Tỵ Thời〉 hoặc 〈Mị Yêu〉; Tốc độ – Công – Sát thương bạo kích/HP. Ưu tiên Tốc độ và Hiệu quả chính xác nếu dùng mùa Hạ để khống chế."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "季の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/236868461546991717.html",
+      "usedFor": "đối chiếu bốn mùa, Quý Linh, chuyển đổi Sát thương bạo kích và vai trò PvP"
+    },
+    {
+      "title": "季萌新向技能详解及就业",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/231114/205555.html",
+      "usedFor": "đối chiếu sát thương chuẩn không thể bạo kích và khả năng vượt PvE khó"
+    },
+    {
+      "title": "天照魂王低面板阵容",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1Fu4y167h6/",
+      "usedFor": "đối chiếu Tâm Nhãn + Ca Kỹ, Công–Công–Sát thương bạo kích và không cần Bạo kích"
+    },
+    {
+      "title": "鲸汐永歌活动阵容推荐",
+      "publisher": "17173",
+      "url": "https://news.17173.com/z/yys/content/02072024/200914574.shtml",
+      "usedFor": "đối chiếu Cuồng Cốt + Ca Kỹ trong đội PvE"
+    }
+  ]
+}

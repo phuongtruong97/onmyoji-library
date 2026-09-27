@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 266,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Hỗ trợ Quỷ Hỏa và sát thương chuẩn mang tính ngách; cơ chế thú vị nhưng không đủ ổn định để ưu tiên",
+  "summary": "《Thanh Hành Đăng》 hút Quỷ Hỏa bằng [Hấp Hồn Đăng] và có thể cấp {+Minh Đăng}, cho đồng đội dùng kỹ năng miễn phí đồng thời tăng sát thương theo lượng lửa còn dư. Đại chiêu còn truy kích sát thương chuẩn trong PvP khi phe ta có nhiều Quỷ Hỏa hơn. Tuy vậy, xác suất {+Minh Đăng} giảm khi đang giữ nhiều lửa và cô chỉ còn xuất hiện ở một số đội tốc chiến hoặc chiến thuật đặc thù.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5,
+      "note": "Minh Đăng có thể tạo lượt miễn phí nhưng phụ thuộc xác suất."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 4,
+      "note": "Không cạnh tranh với nguồn lửa và hỗ trợ ổn định hiện đại."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 5,
+      "note": "Hút lửa và sát thương chuẩn có giá trị tình huống nhưng thiếu ổn định."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 3.5,
+      "note": "Không nên nuôi làm nguồn Quỷ Hỏa chính."
+    }
+  ],
+  "strengths": [
+    "{+Minh Đăng} có thể cho đồng đội thi triển kỹ năng miễn Quỷ Hỏa.",
+    "[Hấp Hồn Đăng] vừa đánh toàn thể vừa có cơ hội hút lửa từng mục tiêu.",
+    "Chênh lệch Quỷ Hỏa tạo truy kích sát thương chuẩn trong PvP."
+  ],
+  "weaknesses": [
+    "Xác suất {+Minh Đăng} giảm 3% theo mỗi điểm Quỷ Hỏa đang có.",
+    "Hút lửa chỉ có 30% cơ bản cho từng mục tiêu.",
+    "Sát thương chuẩn bổ sung không có hiệu lực với quái vật."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Có thể dùng trong một số bài tốc chiến nơi người chơi tận dụng lượt kỹ năng miễn phí từ {+Minh Đăng}. Đây là chiến thuật cần tính toán xác suất, không phải nguồn lửa ổn định cho tài khoản mới.",
+        "Phần sát thương chuẩn theo chênh lệch Quỷ Hỏa không áp dụng cho quái vật, vì vậy không nên cộng điểm PvE dựa trên cơ chế đó."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Hút lửa làm lệch nhịp đối thủ và chênh lệch lửa kích hoạt truy kích sát thương chuẩn. Tuy nhiên, tính xác suất và độ bền kém khiến cô khó cạnh tranh với các hỗ trợ hiện đại."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Hỗ trợ mở trận: 〈Hỏa Linh〉; Tốc độ – HP/Hiệu quả chính xác – HP, dùng khi đội thiếu bộ cấp lửa đầu trận.",
+        "Xoay vòng kỹ năng: 〈Chiêu Tài Miêu〉; Tốc độ – HP/Hiệu quả chính xác – HP. Lối gây sát thương 〈Phá Thế〉 chỉ nên dùng cho bài tốc chiến đã tính đủ sát thương."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师新区式神强度排名指南",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1046/10460966.html",
+      "usedFor": "đối chiếu việc làm ngách và độ ưu tiên hiện tại",
+      "publishedAt": "2025"
+    },
+    {
+      "title": "萌新入门指南——SSR/SP式神简介",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/opus/375079932054164278",
+      "usedFor": "đối chiếu Minh Đăng và vai trò Quỷ Hỏa"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
   },
   "rarity": "SR",
   "tier": "SR",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -149,7 +150,7 @@
         "zh": "心明则灯明。"
       },
       "description": {
-        "vi": "Thân thanh lòng tĩnh đèn đuốc sáng, Tuệ Minh Đăng tụng đọc kinh văn, triệu hồi [tips_5523], xua tan 2 trạng thái giảm ích hoặc hiệu ứng khống chế mang trên người toàn bộ thức thần đồng minh, khi [tips_5523] có mặt trên sân, tăng 40% Phòng thủ cho mục tiêu đồng minh ngoài vật triệu hồi, đồng thời khiến kẻ địch mang 3 tầng [buff_5522_1] rơi vào [tips_115]. Khi lượt bắt đầu, thu hồi [tips_5523] và xóa bỏ [buff_5522_1].",
+        "vi": "Thân thanh lòng tĩnh đèn đuốc sáng, Tuệ Minh Đăng tụng đọc kinh văn, triệu hồi [tips_5523], xua tan 2 trạng thái debuff hoặc hiệu ứng khống chế mang trên người toàn bộ thức thần đồng minh, khi [tips_5523] có mặt trên sân, tăng 40% Phòng thủ cho mục tiêu đồng minh ngoài vật triệu hồi, đồng thời khiến kẻ địch mang 3 tầng [buff_5522_1] rơi vào [tips_115]. Khi lượt bắt đầu, thu hồi [tips_5523] và xóa bỏ [buff_5522_1].",
         "en": "With her body cleansed, her mind calmed, and the lanterns shining brightly, Miakashi chants a sutra, conjuring a [tips_5523] and dispelling 2 debuffs or controlling effect from each of her allies. While the [tips_5523] is on the battlefield, increases the DEF of all non-summoned ally entities by 40% and causes enemies with 3 [buff_5522_1] stacks to become [tips_115]. At the start of her turn, withdraws the [tips_5523] and removes all [buff_5522_1] stacks.",
         "zh": "身清心宁灯火明，慧明灯诵读经文，召唤[tips_5523]，驱散全体友方式神带有的2个减益状态或控制效果，[tips_5523]在场时，提升除召唤物外友方目标40%防御，并使携带3层[buff_5522_1]的敌方陷入[tips_115]。回合开始时，收回[tips_5523]并移除[buff_5522_1]。"
       },
@@ -173,7 +174,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi triệu hồi [tips_5523], xua tan 1 trạng thái giảm ích hoặc hiệu ứng khống chế mang trên người toàn bộ thức thần đồng minh.",
+            "vi": "Khi triệu hồi [tips_5523], xua tan 1 trạng thái debuff hoặc hiệu ứng khống chế mang trên người toàn bộ thức thần đồng minh.",
             "en": "When a [tips_5523] is conjured, also dispels 1 debuff or controlling effect from each of all allies.",
             "zh": "召唤[tips_5523]时，驱散全体友方式神带有的1个减益状态或控制效果。"
           }
@@ -181,7 +182,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi triệu hồi [tips_5523], xua tan 2 trạng thái giảm ích hoặc hiệu ứng khống chế mang trên người toàn bộ thức thần đồng minh.",
+            "vi": "Khi triệu hồi [tips_5523], xua tan 2 trạng thái debuff hoặc hiệu ứng khống chế mang trên người toàn bộ thức thần đồng minh.",
             "en": "When a [tips_5523] is conjured, also dispels 2 debuffs or controlling effect from each of all allies.",
             "zh": "召唤[tips_5523]时，驱散全体友方式神带有的2个减益状态或控制效果。"
           }

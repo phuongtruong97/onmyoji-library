@@ -1,0 +1,87 @@
+{
+  "shikigamiId": 376,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực AoE nhiều hit kết hợp hồi máu để đánh hai lần liên tiếp; mạnh trong PvE chuyên dụng nhưng phụ thuộc người hồi máu và lượng HP",
+  "summary": "《Linh Ngạn Cơ》 dùng [Ngũ Sơn Hỏa Tế] tiêu HP và Quỷ Hỏa để đánh AoE tối đa năm lần. Khi được hồi vượt tới đầy HP trong trạng thái Thần Hỏa, cô tự tung lại đại chiêu không tốn Quỷ Hỏa, tạo chuỗi mười hit rất mạnh với người hồi máu phù hợp. Cô còn có cơ chế ở lại sân và hồi sinh khi được hồi đầy, nhưng sát thương sẽ giảm nếu bị đánh trước lượt hoặc không được hồi đủ.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8,
+      "note": "Hai lượt AoE năm hit liên tiếp có thể dọn màn rất nhanh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 7.5,
+      "note": "Nhiều hit và tự hồi sinh hữu ích, nhưng cần duy trì hồi máu chính xác."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6.5,
+      "note": "Có thể đánh/đẩy thanh nhiều lần nhưng dễ bị ngăn hồi phục hoặc bào HP trước lượt."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Cần người hồi máu phù hợp và bộ Ngự Hồn tốt mới vận hành ổn định."
+    }
+  ],
+  "strengths": [
+    "[Ngũ Sơn Hỏa Tế] đánh AoE tối đa năm lần và mỗi năm hit bỏ qua thêm Phòng thủ.",
+    "Được hồi tới đầy HP có thể tự tung đại chiêu năm hit lần nữa mà không tốn Quỷ Hỏa.",
+    "Khi chịu sát thương chí mạng có thể ở lại chiến trường và hồi sinh nếu được hồi đầy."
+  ],
+  "weaknesses": [
+    "Đại chiêu tiêu tối đa 52% HP; thiếu hồi máu sẽ không kích hoạt được lần đánh miễn phí.",
+    "Sát thương giảm nếu bị bào xuống dưới 50% HP trước khi thi triển.",
+    "Bị cấm hồi phục hoặc giảm trần HP sẽ phá trực tiếp chuỗi kỹ năng và khả năng hồi sinh."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Ghép người hồi máu hành động ngay sau cô, thường là 《Anh Hoa Yêu》 hoặc hỗ trợ có lượng hồi đủ lớn. Lượt đầu dùng [Ngũ Sơn Hỏa Tế], người hồi đưa cô về đầy HP, sau đó cô tự đánh thêm năm hit không tốn Quỷ Hỏa.",
+        "〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉 tận dụng lần đánh miễn phí và số hit lớn; 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉 dùng khi cơ chế màn ưu tiên sát thương theo nhiều hit. Cần căn Tốc độ để người hồi đi ngay sau cô."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "〈Nhật Nữ Tỵ Thời〉 biến nhiều hit thành công cụ đẩy thanh trong đội bảo kê/hồi máu. Hướng sát thương dùng 〈Châm Nữ〉 nhưng dễ bị khắc chế bởi cấm hồi phục, giảm trần HP hoặc sát thương chèn trước lượt."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE: 〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉 hoặc 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉; Công/Tốc độ – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích. Chọn Tốc độ vị trí 2 khi phó bản yêu cầu ngưỡng hành động.",
+        "PvP đẩy thanh: 〈Nhật Nữ Tỵ Thời〉; Tốc độ – Công – HP/Bạo kích. PvP sát thương: 〈Châm Nữ〉; Tốc độ/Công – Công – Bạo kích."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "铃彦姬值得培养吗",
+      "publisher": "52下载站",
+      "url": "https://www.52xz.com/information06/486387.html",
+      "usedFor": "đối chiếu vị trí PvE hiện tại và AoE năm hit bỏ qua ngự hồn",
+      "publishedAt": "25/06/2026"
+    },
+    {
+      "title": "鈴彦姫の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/192948331045992077.html",
+      "usedFor": "đối chiếu tiêu HP, hồi đầy để đánh miễn phí, hồi sinh và bộ ngự hồn"
+    },
+    {
+      "title": "铃彦姬",
+      "publisher": "百度百科",
+      "url": "https://wapbaike.baidu.com/item/铃彦姬/59932637",
+      "usedFor": "đối chiếu Cuồng Cốt/Ca Kỹ, Châm Nữ và Nhật Nữ Tị Thời"
+    }
+  ]
+}

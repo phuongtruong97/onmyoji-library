@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,8 +125,8 @@
         "zh": "无数次的凋零，会带来更美丽的盛放。"
       },
       "description": {
-        "vi": "[tips_11].\n[tips_21] 40% HP hiện tại của bản thân, rải 6 [buff_3582_1] về phía phe địch, ưu tiên chọn mục tiêu mang ít [buff_3582_1], bản thân tiến vào [tips_35831]. Khi lượt bắt đầu, nếu đang ở [tips_35831], thu hồi tất cả [buff_3582_1] và nhận [buff_3581_1] số lượng tương đương, tối đa nhận 3 tầng, sau đó rời khỏi [tips_35831].\nKhi mang [buff_3581_1] không thể thi triển.",
-        "en": "[tips_11].\n[tips_21]s 40% of her current HP to cast 6 [buff_3582_1]s at all enemies, prioritizing targets with fewer [buff_3582_1]s. Then she becomes [tips_35831]. At the start of her turn, if she's [tips_35831], she collects all the [buff_3582_1]s (maxed at 3 stacks collected) and gains an equal amount of [buff_3581_1]s. Then she leaves [tips_35831].\nCannot use the skill if she has [buff_3581_1].",
+        "vi": "[tips_11]\n[tips_21] 40% HP hiện tại của bản thân, rải 6 [buff_3582_1] về phía phe địch, ưu tiên chọn mục tiêu mang ít [buff_3582_1], bản thân tiến vào [tips_35831]. Khi lượt bắt đầu, nếu đang ở [tips_35831], thu hồi tất cả [buff_3582_1] và nhận [buff_3581_1] số lượng tương đương, tối đa nhận 3 tầng, sau đó rời khỏi [tips_35831].\nKhi mang [buff_3581_1] không thể thi triển.",
+        "en": "[tips_11]\n[tips_21]s 40% of her current HP to cast 6 [buff_3582_1]s at all enemies, prioritizing targets with fewer [buff_3582_1]s. Then she becomes [tips_35831]. At the start of her turn, if she's [tips_35831], she collects all the [buff_3582_1]s (maxed at 3 stacks collected) and gains an equal amount of [buff_3581_1]s. Then she leaves [tips_35831].\nCannot use the skill if she has [buff_3581_1].",
         "zh": "[tips_11]。\n[tips_21]自身当前40%生命，向敌方撒出6个[buff_3582_1]，优先选择携带[buff_3582_1]较少的目标，自身进入[tips_35831]。回合开始时，若处于[tips_35831]，回收所有[buff_3582_1]并获得等量[buff_3581_1]，最多获得3层，然后离开[tips_35831]。\n携带[buff_3581_1]时无法施放。"
       },
       "upgrades": [

@@ -7,6 +7,7 @@
   },
   "rarity": "R",
   "tier": "R",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "多久没洗澡了？嗯？"
       },
       "description": {
-        "vi": "[tips_11].\nNếu bản thân không trong trạng thái [tips_17] và [buff_3612_1] trên người chưa đủ 4 tầng, sau lượt hành động của mỗi đơn vị phe địch, giải trừ ngẫu nhiên tối đa 3 trạng thái tiêu cực hoặc [tips_3] cho 1 đơn vị phe ta, sau đó nhận 1 tầng ấn ký [buff_3612_1].\nKhi kết thúc lượt của bản thân, loại bỏ toàn bộ [buff_3612_1] trên người.",
-        "en": "[tips_11].\nIf he's not [tips_17] and he has less than 4 [buff_3612_1]s, dispels up to 3 debuffs and [tips_3]s from a random ally at the end of each enemy's action turn. Then he gains a [buff_3612_1] mark.\nAt the end of his turn, removes all [buff_3612_1]s on him.",
+        "vi": "[tips_11]\nNếu bản thân không trong trạng thái [tips_17] và [buff_3612_1] trên người chưa đủ 4 tầng, sau lượt hành động của mỗi đơn vị phe địch, giải trừ ngẫu nhiên tối đa 3 trạng thái tiêu cực hoặc [tips_3] cho 1 đơn vị phe ta, sau đó nhận 1 tầng ấn ký [buff_3612_1].\nKhi kết thúc lượt của bản thân, loại bỏ toàn bộ [buff_3612_1] trên người.",
+        "en": "[tips_11]\nIf he's not [tips_17] and he has less than 4 [buff_3612_1]s, dispels up to 3 debuffs and [tips_3]s from a random ally at the end of each enemy's action turn. Then he gains a [buff_3612_1] mark.\nAt the end of his turn, removes all [buff_3612_1]s on him.",
         "zh": "[tips_11]。\n若自身未处于[tips_17]且身上的[buff_3612_1]不足4层，每个敌方单位行动回合后，随机驱散1个友方单位的最多3个减益状态或[tips_3]，之后获得1层[buff_3612_1]印记。\n自身回合结束后，去除身上所有的[buff_3612_1]。"
       },
       "upgrades": [],

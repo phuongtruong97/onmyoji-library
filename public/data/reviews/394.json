@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 394,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Đối sách PvP bảo vệ đội khỏi kỹ năng đơn thể bằng Hư Giả Chi Nguyệt; có sát thương nhiều hit nhưng PvE chỉ ở mức phụ",
+  "summary": "《Nguyệt Độc》 triệu hồi Hư Giả Chi Nguyệt bằng [Hư Đản Nguyệt Lạc]. Khi vật triệu hồi tồn tại, kỹ năng hoặc đòn đánh đơn thể của địch có xác suất bị chuyển hướng sang nó, bao gồm cả debuff và hiệu ứng khống chế đi kèm. [Nguyệt Tẫn Thiên Cực] đánh AoE bốn lần và gắn {−Hoặc Tinh}; khi Hoặc Tinh bị kích nổ sẽ gây thêm sát thương không kích hoạt ngự hồn địch. Giá trị chính của anh là phá kế hoạch đơn mục tiêu trong PvP.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "AoE bốn hit dùng được nhưng hoạt ảnh triệu hồi và sát thương không tối ưu."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Bỏ qua 100 Phòng thủ quái và Hoặc Tinh có ích nhưng không phải lõi boss."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Chuyển hướng kỹ năng đơn thể và tạo nhiều lần kích hoạt ngự hồn khống chế/đẩy thanh."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Thiên PvP, không giải quyết nhu cầu farm cơ bản."
+    }
+  ],
+  "strengths": [
+    "Hư Giả Chi Nguyệt có thể chuyển hướng sát thương, debuff và khống chế đơn thể khỏi đồng minh.",
+    "[Nguyệt Tẫn Thiên Cực] đánh toàn đội bốn lần, phù hợp ngự hồn khống chế hoặc đẩy thanh.",
+    "{−Hoặc Tinh} có thể bị đồng minh kích nổ và sát thương nổ không kích hoạt ngự hồn địch."
+  ],
+  "weaknesses": [
+    "Hư Giả Chi Nguyệt chỉ kế thừa 45% HP của anh và có thể bị phá nhanh bởi đội sát thương cao.",
+    "Chuyển hướng dựa trên xác suất, không bảo vệ tuyệt đối trước mọi kỹ năng đơn thể.",
+    "PvE không cạnh tranh tốt với chủ lực hoặc hỗ trợ chuyên dụng."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Khi Hư Giả Chi Nguyệt tồn tại, đòn của anh bỏ qua 100 Phòng thủ quái; Hoặc Tinh cũng có hệ số cao hơn trên quái. Dù vậy, thời gian triệu hồi và hiệu suất sát thương khiến anh chủ yếu là phương án tình huống ở Bí Văn/Chân Xà, không phải lựa chọn farm mặc định."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Đi nhanh để triệu hồi Hư Giả Chi Nguyệt trước khi đối phương đặt khống chế hoặc dồn sát thương đơn thể. Vật triệu hồi đặc biệt hữu ích trước Kim Liên, Kết Sương và các kỹ năng nhắm một mục tiêu, nhưng phải đầu tư HP để nó không bị phá ngay.",
+        "Bốn hit AoE cho phép 〈Nhật Nữ Tỵ Thời〉 đẩy thanh hoặc 〈Chung Linh〉/〈Mị Yêu〉 khống chế. Chọn bộ theo nhiệm vụ, không xây vừa sát thương vừa chống chịu nửa vời."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP bảo hộ/đẩy thanh: 〈Nhật Nữ Tỵ Thời〉; Tốc độ – HP – HP. Ưu tiên Tốc độ và HP để Hư Giả Chi Nguyệt bền hơn.",
+        "PvP khống chế: 〈Chung Linh〉 hoặc 〈Mị Yêu〉; Tốc độ – Hiệu quả chính xác – HP. Có thể dùng bộ rời Tốc độ cao nhất khi cần triệu hồi trước mọi đối thủ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "月読の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/244728567395581712.html",
+      "usedFor": "đối chiếu chuyển hướng, Hoặc Tinh, Nhật Nữ và các bộ khống chế"
+    },
+    {
+      "title": "月读强度及就业分析",
+      "publisher": "5566安卓网",
+      "url": "https://www.525566.com/gonglue/2038.htm",
+      "usedFor": "đối chiếu vai trò đối sách PvP và giới hạn PvE"
+    }
+  ]
+}

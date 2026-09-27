@@ -1,0 +1,97 @@
+{
+  "shikigamiId": 572,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ PvP vừa chắn một kỹ năng trọn vẹn vừa tạo Lá chắn và Biến Hình đơn mục tiêu, nhưng gần như không có việc làm PvE",
+  "summary": "《Dao Niệm Yên Yên La》 vào trận với {+Yên Vụ Vô Hình}, cho phép cô chặn toàn bộ sát thương, debuff và khống chế của một kỹ năng địch rồi tự kéo 15% thanh. Trong khi trạng thái này tồn tại, đồng minh chịu sát thương sẽ nhận Lá chắn bằng 15% lượng sát thương vừa gánh; cô cũng có thể dùng [Như Ảnh] tốn 1 Quỷ Hỏa để làm mới trạng thái và tạo Lá chắn toàn đội bằng 25% HP tối đa. [Dạ Mạc Hoa Thái] là kỹ năng khống chế PvP: đòn cuối có tối đa 72% tỷ lệ cơ bản biến mục tiêu thành {−Yên Chi Quỷ}, đồng thời bỏ qua Ngự Hồn và nội tại.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3,
+      "note": "Thiếu tăng sát thương và cơ chế phòng thủ thường không cần trong đội farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 4.5,
+      "note": "Có Lá chắn tốt nhưng boss thường miễn Biến Hình và có hỗ trợ PvE hiệu quả hơn."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8.5,
+      "note": "Chặn kỹ năng, tạo Lá chắn và khống chế xuyên Ngự Hồn/nội tại tạo giá trị đối sách cao."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5.5,
+      "note": "Có ích nếu tập trung PvP; không giúp nhiều cho tiến độ farm ban đầu."
+    }
+  ],
+  "strengths": [
+    "{+Yên Vụ Vô Hình} chặn trọn toàn bộ sát thương, debuff và khống chế của một kỹ năng địch rồi kéo cô 15% thanh.",
+    "[Như Ảnh] chỉ tốn 1 Quỷ Hỏa, làm mới trạng thái bảo vệ và tạo Lá chắn toàn đội bằng 25% HP tối đa của cô.",
+    "Khi cô còn {+Yên Vụ Vô Hình}, đồng minh chịu sát thương nhận thêm Lá chắn bằng 15% lượng sát thương vừa gánh.",
+    "Đòn cuối của [Dạ Mạc Hoa Thái] bỏ qua Ngự Hồn và nội tại, có thể đặt {−Yên Chi Quỷ} không thể giải trừ và vô hiệu nội tại mục tiêu."
+  ],
+  "weaknesses": [
+    "{+Yên Vụ Vô Hình} biến mất sau khi chặn một kỹ năng, buộc người chơi chọn giữa làm mới bảo vệ và dùng đại chiêu khống chế.",
+    "Tỷ lệ cơ bản của {−Yên Chi Quỷ} là 58%, chỉ tăng lên 72% khi cô còn Yên Vụ và phía địch chưa có Yên Chi Quỷ.",
+    "Đại chiêu tốn 3 Quỷ Hỏa và phần khống chế chỉ nhắm một mục tiêu; cần nhiều Hiệu quả chính xác để ổn định.",
+    "Giá trị PvE thấp vì boss thường không nhận Biến Hình và đội farm không cần lớp phòng thủ kéo dài."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Chỉ cân nhắc ở nội dung sinh tồn đặc thù cần Lá chắn lớn hoặc chặn một kỹ năng nguy hiểm. Cô không tăng sát thương đội, không cấp Quỷ Hỏa và phần {−Yên Chi Quỷ} thường vô dụng trước boss, nên không phải mục tiêu đầu tư cho PvE."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Lượt đầu đã có {+Yên Vụ Vô Hình}, giúp cô hấp thụ một kỹ năng mở màn và có thể bảo vệ đội trước các đợt sát thương kế tiếp bằng Lá chắn. Trước khi dùng chiêu, cần quyết định giữ nhịp phòng thủ với [Như Ảnh] hay tận dụng trạng thái hiện có để [Dạ Mạc Hoa Thái] đạt 72% tỷ lệ cơ bản.",
+        "{−Yên Chi Quỷ} không thể giải trừ, khiến mục tiêu không hành động và mất nội tại trong 1 lượt; khi hết còn gây sát thương toàn thể. Tuy nhiên đây vẫn là hiệu ứng cần kiểm tra Kháng, nên bộ Hiệu quả chính xác quan trọng hơn sát thương cá nhân."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Khống chế ổn định: 〈Tuyết U Hồn〉, 〈Mị Yêu〉, 〈Chung Linh〉 hoặc 〈Võng Lượng Chi Hạp〉; Tốc độ – Hiệu quả chính xác – HP, ưu tiên Tốc độ và Hiệu quả chính xác.",
+        "Phá nhịp thanh hành động: 〈Nhật Nữ Tỵ Thời〉; Tốc độ – Hiệu quả chính xác/HP – HP. Đây là cấu hình đối sách; nếu cần cô sống lâu để làm mới Lá chắn, đổi ô 4 sang HP và bù chính xác bằng thuộc tính phụ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nostalgic Enenra Skill Description",
+      "publisher": "Guidemyoji",
+      "url": "https://guidemyoji.com/sp-enenra/",
+      "usedFor": "đối chiếu kỹ năng hiện hành, Lá chắn, Yên Vụ và tỷ lệ Biến Hình",
+      "publishedAt": "10/09/2026 cập nhật"
+    },
+    {
+      "title": "遥念煙々羅の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/328653141190919981.html",
+      "usedFor": "đối chiếu vai trò PvP, các bộ khống chế và trục chỉ số"
+    },
+    {
+      "title": "SP烟烟罗御魂搭配",
+      "publisher": "游侠手游",
+      "url": "https://m.ali213.net/news/gl2408/1476217.html",
+      "usedFor": "đối chiếu 〈Mị Yêu〉, 〈Chung Linh〉, 〈Võng Lượng Chi Hạp〉, 〈Nhật Nữ Tỵ Thời〉 và 〈Tuyết U Hồn〉",
+      "publishedAt": "17/08/2024"
+    },
+    {
+      "title": "SP遥念烟烟罗养成攻略",
+      "publisher": "Bilibili / 清流不加班",
+      "url": "https://www.bilibili.com/video/BV1FhYyeTE9y/",
+      "usedFor": "đối chiếu quyết định giữa duy trì Yên Vụ và dùng đại chiêu trong PvP",
+      "publishedAt": "13/08/2024"
+    }
+  ]
+}

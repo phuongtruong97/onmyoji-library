@@ -1,0 +1,85 @@
+{
+  "shikigamiId": 354,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "medium",
+  "verdict": "Chủ lực AoE nối ba hit đơn và hiệp chiến chắc chắn; dễ vận hành nhưng đã bị các DPS farm mới vượt về hiệu suất",
+  "summary": "《Đãi Tiêu Cô Hoạch Điểu》 dùng [Mặc Ảnh Kiếm Quang] gây AoE 130% Công rồi đánh mục tiêu chỉ định 3 lần, mỗi hit 74%. Mỗi bạo kích và mạng hạ từ phần AoE tăng tiếp sát thương ba hit đơn. Đầu lượt cô nhận 2 tầng {+Vũ Thụ}, bảo đảm hiệp chiến với hai đồng minh đánh thường đầu tiên; cứ sau 3 đòn đánh thường, đòn kế tiếp tự đổi thành đại chiêu. Cô có đầu ra miễn lửa nhờ hiệp chiến nhưng hiện chủ yếu là phương án thay thế, không phải ưu tiên tối cao.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7,
+      "note": "AoE nối đơn mục tiêu và đại chiêu miễn lửa đầu chuỗi hợp kéo cấp/farm cơ bản."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Hiệp chiến tạo thêm lượt đánh nhưng phụ thuộc đồng đội dùng đánh thường."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 5.5,
+      "note": "Có áp lực hiệp chiến, song thiếu tự bảo vệ và bị khống chế cứng khắc chế rõ."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7,
+      "note": "Dễ dùng và đa dụng khi thiếu DPS, nhưng không nên ưu tiên hơn chủ lực farm mới."
+    }
+  ],
+  "strengths": [
+    "[Mặc Ảnh Kiếm Quang] kết hợp AoE 130% với 3 hit đơn 74%; mỗi bạo kích AoE tăng 10% và mỗi mạng hạ tăng 15% sát thương kiếm khí.",
+    "Đầu lượt nhận 2 tầng {+Vũ Thụ}, bảo đảm hiệp chiến với hai đồng minh đầu tiên dùng đánh thường trong lượt của họ.",
+    "Trận bắt đầu được tính như đã đánh thường 2 lần, nên đòn đánh thường kế tiếp giúp lần sau chuyển thành [Mặc Ảnh Kiếm Quang]."
+  ],
+  "weaknesses": [
+    "Hiệp chiến chỉ có 2 tầng mỗi lượt và phụ thuộc đồng minh dùng đánh thường; đội thuần kỹ năng không tận dụng tốt.",
+    "Đại chiêu chủ động cần 3 Quỷ Hỏa; phương án 〈Cuồng Cốt〉 phụ thuộc lượng lửa còn lại sau chi phí.",
+    "Không có miễn khống chế hoặc cơ chế sống sót; hiệu suất farm hiện thua nhiều chủ lực mới có hoạt ảnh/ngưỡng sát thương tốt hơn."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng kéo cấp, Thám Hiểm và các màn có quái phụ để phần AoE tăng sát thương cho ba hit kết liễu. Đội đánh thường/hiệp chiến giúp tích bộ đếm nhanh, nhưng phải tính thời gian hoạt ảnh nếu mục tiêu là farm tốc độ."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Có thể đi cùng đội đánh thường để tạo nhiều lần hiệp chiến và đại chiêu miễn lửa. Câm Lặng/Khiêu Khích không vô hiệu hoàn toàn vì cô vẫn đánh thường, nhưng Choáng, Đóng Băng hoặc Biến Hình sẽ khóa hành động hiệu quả hơn."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Dọn màn mở đầu: 〈Phá Thế〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích, đủ 100% Bạo kích để tăng ổn định phần kiếm khí.",
+        "Đội dư lửa hoặc hiệp chiến: 〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉; Công – Công – Bạo kích/Sát thương bạo kích. Chỉ dùng Cuồng Cốt khi chuỗi hành động duy trì lửa; 〈Hải Nguyệt Hỏa Ngọc〉 phù hợp đại chiêu chủ động nhưng không tăng các đòn đánh thường miễn lửa."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "待宵姑獲鳥の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/待宵姑獲鳥.html",
+      "usedFor": "đối chiếu AoE–đơn mục tiêu, hiệp chiến, Phá Thế/Cuồng Cốt/Hải Nguyệt và vai trò farm"
+    },
+    {
+      "title": "SP姑获鸟实战评测分析",
+      "publisher": "18183",
+      "url": "https://www.18183.com/yys/202009/3060438.html",
+      "usedFor": "đối chiếu ngưỡng farm và vị thế so với chủ lực cùng loại"
+    },
+    {
+      "title": "SP待宵姑获鸟技能讲解",
+      "publisher": "17173",
+      "url": "https://news.17173.com/z/yys/content/11132020/153657976.shtml",
+      "usedFor": "đối chiếu đại chiêu miễn lửa qua chuỗi đánh thường và giới hạn ứng dụng"
+    }
+  ]
+}

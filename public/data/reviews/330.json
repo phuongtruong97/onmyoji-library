@@ -1,0 +1,90 @@
+{
+  "shikigamiId": 330,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hạt nhân đội đánh thường và hiệp chiến trong PvP, cơ chế độc đáo vẫn giữ giá trị lâu dài",
+  "summary": "《Bất Tri Hỏa》 tạo [Tinh Hỏa Mãn Thiên] để toàn đội tăng sát thương, Tốc độ, giảm sát thương và thực hiện thêm một đòn thường sau đòn thường chủ động. Đòn bổ sung bỏ qua 200 Phòng thủ, hút máu và không kích hoạt nội tại của người đánh hay ngự hồn/nội tại mục tiêu. Nhờ biến mỗi lượt đánh thường thành hai lần, cô vẫn là lõi của nhiều đội hiệp chiến/PvP, dù đội 《Tửu Thôn Đồng Tử》 PvE cổ điển không còn luôn tối ưu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 6,
+      "note": "Cần dựng kết giới và thường không tối ưu cho farm rất nhanh."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8,
+      "note": "Nhân đôi đòn thường tạo giá trị lớn cho đội không tốn lửa."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Lõi đội đánh thường/hiệp chiến: kết giới cho đòn thường bổ sung và tăng độ bền; vẫn xuất hiện trong đội phản công nhưng phụ thuộc đồng đội tận dụng đòn đánh cơ bản."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8,
+      "note": "Đáng nuôi nếu muốn PvP, nhưng cần đúng đồng đội để phát huy."
+    }
+  ],
+  "strengths": [
+    "Kết giới cho đồng minh đánh thường thêm một lần với xuyên Phòng thủ và hút máu.",
+    "Tăng đồng thời sát thương, Tốc độ và giảm sát thương toàn đội.",
+    "Khi chịu sát thương chí mạng có thể chuyển sang hình thái thứ hai thay vì bị hạ ngay."
+  ],
+  "weaknesses": [
+    "Đòi hỏi đội hình có đòn thường hoặc hiệp chiến đủ mạnh.",
+    "Tự tiêu 5% HP hiện tại khi khiêu vũ hỗ trợ đồng minh.",
+    "Kết giới chỉ kéo dài hai lượt và việc vào hình thái thứ hai làm mất vai trò hỗ trợ ban đầu."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Phù hợp boss dài với chủ lực đánh thường như 《Tửu Thôn Đồng Tử》. Tuy nhiên các đội PvE mới có thể nhanh và ít phụ thuộc khởi động hơn, nên cần kiểm tra bài tối ưu của từng sự kiện.",
+        "Ở đội đánh thường, cô có thể mang 〈Đồ Phật〉 và chủ yếu dùng đòn thường để cung cấp tăng sát thương cho đội."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Bất Tri Hỏa》 định hình đội hình quanh [Tinh Hỏa Mãn Thiên]: đồng minh đánh thường chủ động được thêm một đòn, đồng thời nhận Tốc độ, tăng sát thương và giảm sát thương. Nhờ đó cô vẫn là lõi của đội hiệp chiến hoặc phản công dùng những thức thần có đòn thường giá trị cao. Thực chiến gần đây cho thấy khung này vẫn có thể đối đầu các đội mới khi chọn đúng quân bảo vệ và mục tiêu phản công.",
+        "Sức mạnh của cô nằm ở hệ thống chứ không phải một lượt bùng nổ riêng lẻ. Đội phải giữ cô trên ngưỡng HP để duy trì hình thái hỗ trợ; khi chuyển sang hình thái thứ hai, kết giới và vai trò khuếch đại ban đầu mất đi. Đội khóa đánh thường, vô hiệu hóa hiệp chiến, dồn AoE liên tục hoặc buộc cô biến hình sớm đều làm khung đội suy yếu. Vì vậy chỉ nên chấm cô cao khi người chơi có sẵn các đồng đội thực sự hưởng lợi từ đòn đánh bổ sung."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP hậu thủ: 〈Địa Tạng Tượng〉 hoặc 〈Kính Cơ〉; HP – HP – Bạo kích/HP, ưu tiên HP và Phòng thủ, thường không cần chạy nhanh.",
+        "PvP hỗ trợ tài nguyên: 〈Hỏa Linh〉 hoặc 〈Bạng Tinh〉; HP – HP – Bạo kích/HP. PvE đánh thường: 〈Đồ Phật〉; Công/HP – Công/HP – Bạo kích tùy yêu cầu sống sót."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "不知火阵容搭配2023（更新于2026）",
+      "publisher": "可凡资讯",
+      "url": "https://www.kfcrm.com/news/993.htm",
+      "usedFor": "đối chiếu đội hiệp chiến/PvP và các bộ phòng thủ",
+      "publishedAt": "30/08/2026"
+    },
+    {
+      "title": "离吞吞阵容介绍",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/534747319577346349",
+      "usedFor": "đối chiếu cơ chế đội đánh thường PvE",
+      "publishedAt": "01/05/2024"
+    },
+    {
+      "title": "离封体系对战神龙平实战",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1EUhv6LEdD/",
+      "usedFor": "đối chiếu vị trí Bất Tri Hỏa trong đội phản công hiện tại",
+      "publishedAt": "21/09/2026"
+    }
+  ]
+}

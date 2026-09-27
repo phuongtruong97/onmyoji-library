@@ -1,0 +1,95 @@
+{
+  "shikigamiId": 550,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Đa dụng giữa AoE nhiều hit và khống chế Tước Vũ; sau tăng cường có giá trị cao nhưng cần cân đúng Bạo kích–Chính xác",
+  "summary": "《Khổng Tước Minh Vương》 tích {+Khổng Tước Linh}; đủ năm tầng chuyển sang tư thế Xòe Cánh, tự giải debuff và nhận thêm 40% Bạo kích cùng 75% Hiệu quả chính xác. [Tước Vũ Phá Gai] đánh AoE bốn lần rồi hai nhát chém bỏ qua Phòng thủ, lần đầu trong tư thế còn nhân đôi số đòn. Cô đồng thời áp {−Giải Trừ Vũ Trang}, cấm đánh thường và vô hiệu ngự hồn mục tiêu, nên có thể xây sát thương PvE hoặc khống chế PvP.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7,
+      "note": "Cần tích đủ lông vũ để vào tư thế, không hợp mọi đội một lượt."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "AoE nhiều hit, xuyên Phòng thủ và tự tăng chỉ số mạnh khi đã Xòe Cánh."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Khống chế–đấu sĩ đa dụng sau tăng cường: [Mê Ly Chi Cảnh] giảm Kháng hiệu ứng, xua hiệu ứng có lợi và áp Giải Trừ Vũ Trang trong khi bản thân vẫn đủ bền để đánh dài."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6.5,
+      "note": "Mạnh nhưng cần bộ vừa đủ Bạo kích, Chính xác và Tốc độ theo vai trò."
+    }
+  ],
+  "strengths": [
+    "{−Giải Trừ Vũ Trang} cấm đánh thường và làm mất hiệu lực ngự hồn của mục tiêu.",
+    "Tư thế Xòe Cánh cộng 40% Bạo kích và 75% Hiệu quả chính xác, giúp giảm yêu cầu từ Ngự Hồn.",
+    "Đại chiêu nhiều hit, có phần bỏ qua 240 Phòng thủ và lần đầu trong tư thế nhân đôi số đòn."
+  ],
+  "weaknesses": [
+    "Cần tích năm tầng trước khi đạt trạng thái tấn công mạnh nhất.",
+    "Nếu bị khống chế đúng lúc vào tư thế, thời gian Xòe Cánh bị rút xuống còn một lượt.",
+    "Bộ PvE sát thương và bộ PvP khống chế dùng thuộc tính khác nhau, khó dùng chung."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng trong sự kiện, Ám Vực và nội dung nhiều mục tiêu đủ dài để vào Xòe Cánh. Vì tư thế tự cộng 40% Bạo kích, cấu hình thường chỉ cần 60% Bạo kích hiển thị; phần còn lại dồn Công, Sát thương bạo kích và một lượng Chính xác theo cơ chế màn.",
+        "〈Châm Nữ〉/〈Ẩn Niệm〉/〈Cuồng Cốt〉 ghép 〈Quỷ Linh Ca Kỹ〉 hoặc 〈Thổ Tri Thù〉 tùy phó bản. 〈Châm Nữ〉 + 〈Quỷ Linh Ca Kỹ〉 là lựa chọn dễ hiểu cho số hit cao; 〈Ẩn Niệm〉 mạnh khi các hit tập trung cùng mục tiêu."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Khổng Tước Minh Vương》 hiện là quân PvP đa chức năng hơn bản cũ. [Mê Ly Chi Cảnh] hạ Kháng hiệu ứng của địch, giúp các lần áp {−Giải Trừ Vũ Trang} ổn định hơn; chuỗi nhiều hit vừa gây sát thương vừa xua hiệu ứng có lợi và mang theo Ngự Hồn khống chế. Video thực chiến sau tăng cường tháng 6/2026 cho thấy cô có thể đảm nhiệm đồng thời chống chịu, kiểm soát và bào sát thương thay vì chỉ chờ Xòe Cánh để kết liễu.",
+        "Cô vẫn cần có lượt mở cảnh giới và tích đủ nhịp. Đội tranh tốc có thể khóa cô trước khi [Mê Ly Chi Cảnh] hoạt động; đội miễn khống chế hoặc xua dấu liên tục làm phần Giải Trừ Vũ Trang kém ổn định. Nếu xây hoàn toàn theo sát thương, cô mất độ bền và độ chính xác cần cho vai trò kiểm soát; nếu xây thuần hỗ trợ, áp lực kết liễu giảm. Điểm mạnh của cô nằm ở khả năng ép đối thủ bằng nhiều lớp tiện ích, không phải một đại chiêu đơn lẻ."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE: 〈Châm Nữ〉/〈Ẩn Niệm〉/〈Cuồng Cốt〉 + 〈Quỷ Linh Ca Kỹ〉 hoặc 〈Thổ Tri Thù〉; Công/Tốc độ – Công/Hiệu quả chính xác – Sát thương bạo kích. Mục tiêu 60% Bạo kích hiển thị khi vận hành được Xòe Cánh.",
+        "PvP khống chế: 〈Chung Linh〉, 〈Mị Yêu〉, 〈Tuyết U Hồn〉 hoặc 〈Phản Hồn Hương〉; Tốc độ – Hiệu quả chính xác – HP/Phòng thủ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "孔雀明王加强后强度与御魂攻略",
+      "publisher": "233乐园",
+      "url": "https://www.233leyuan.com/post-detail/2065354270519455744",
+      "usedFor": "đối chiếu sức mạnh sau tăng cường và hướng chỉ số hiện tại",
+      "publishedAt": "12/06/2026"
+    },
+    {
+      "title": "孔雀明王の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/262562942820600594.html",
+      "usedFor": "đối chiếu Giải Trừ Vũ Trang, ngưỡng 60% Bạo kích và bộ PvP"
+    },
+    {
+      "title": "孔雀明王",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/孔雀明王/63093321?fromModule=lemma_inlink",
+      "usedFor": "đối chiếu các bộ PvE, Ca Kỹ/Thổ Tri Chu và cấu hình Chính xác"
+    },
+    {
+      "title": "加强后孔雀明王斗技实战",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1LpE66sEvu/",
+      "usedFor": "đối chiếu khả năng chống chịu, xua hiệu ứng và khống chế sau tăng cường",
+      "publishedAt": "12/06/2026"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,8 +125,8 @@
         "zh": "命由天定，运在人为。"
       },
       "description": {
-        "vi": "[tips_11].\nTạo ảo cảnh Vận Mệnh Tinh Hà, khi lượt của mục tiêu kẻ địch trong ảo cảnh bắt đầu tiến hành phán đoán dự ngôn, nếu kẻ địch không phải Âm Dương Sư không tiêu hao Quỷ Hỏa, liền kích hoạt Tinh Bộc, gây cho toàn bộ phe địch Sát Thương Gián Tiếp bằng 72% Tấn công, và hồi phục lượng HP bằng 8% giới hạn HP của bản thân; sát thương Đánh Thường phe ta chịu phải giảm 20%. Mỗi khi kích hoạt Tinh Bộc Hoang nhận 1 tầng [buff_3903_1], sau khi kích hoạt Tinh Bộc 6 lần ảo cảnh kết thúc. Khi ảo cảnh kết thúc Thần Khải Hoang tăng 30% Thanh Hành Động.",
-        "en": "[tips_11].\nCreates the Galaxy of Fate field. While the field is active, at the start of a non-onmyoji enemy's turn, checks the prophecy of the enemy. If the enemy spends no orbs, triggers a Star Burst, inflicting indirect damage equal to 72% of his ATK on all enemies and recovering his HP by 8% of his max HP. Reduces allies' normal attack damage taken by 20%. Each time a Star Burst is triggered, Susabi gains 1 [buff_3903_1] stack. The field ends after 6 Star Burst triggers. When the field ends, raises Divine Prophet Susabi's Move Bar by 30%.",
+        "vi": "[tips_11]\nTạo ảo cảnh Vận Mệnh Tinh Hà, khi lượt của mục tiêu kẻ địch trong ảo cảnh bắt đầu tiến hành phán đoán dự ngôn, nếu kẻ địch không phải Âm Dương Sư không tiêu hao Quỷ Hỏa, liền kích hoạt Tinh Bộc, gây cho toàn bộ phe địch Sát Thương Gián Tiếp bằng 72% Tấn công, và hồi phục lượng HP bằng 8% giới hạn HP của bản thân; sát thương Đánh Thường phe ta chịu phải giảm 20%. Mỗi khi kích hoạt Tinh Bộc Hoang nhận 1 tầng [buff_3903_1], sau khi kích hoạt Tinh Bộc 6 lần ảo cảnh kết thúc. Khi ảo cảnh kết thúc Thần Khải Hoang tăng 30% Thanh Hành Động.",
+        "en": "[tips_11]\nCreates the Galaxy of Fate field. While the field is active, at the start of a non-onmyoji enemy's turn, checks the prophecy of the enemy. If the enemy spends no orbs, triggers a Star Burst, inflicting indirect damage equal to 72% of his ATK on all enemies and recovering his HP by 8% of his max HP. Reduces allies' normal attack damage taken by 20%. Each time a Star Burst is triggered, Susabi gains 1 [buff_3903_1] stack. The field ends after 6 Star Burst triggers. When the field ends, raises Divine Prophet Susabi's Move Bar by 30%.",
         "zh": "[tips_11]。\n创造命运星河幻境，在幻境中敌方目标回合开始时进行预言判定，若非阴阳师的敌方不消耗鬼火，则触发星爆，对敌方全体造成攻击72%的间接伤害，并恢复自身生命上限8%的生命；友方受到的普通攻击伤害降低20%。每次触发星爆时荒获得1层[buff_3903_1]，触发6次星爆后幻境结束。幻境结束时神启荒增加30%的行动条。"
       },
       "upgrades": [

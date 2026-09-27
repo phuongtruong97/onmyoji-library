@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -125,7 +126,7 @@
       },
       "description": {
         "vi": "[tips_11]\nSau khi lượt kẻ địch kết thúc, có 50% xác suất dùng [buff_3052_2] đánh dấu kẻ đó, giới hạn 3 [buff_3052_2]. Khi tấn công kẻ địch mang [buff_3052_2], mỗi [buff_3052_2] tăng 33% sát thương.\nKẻ địch mang 1, 2, 3 [buff_3052_2] với HP thấp hơn 30%, 40%, 60%, sẽ chuyển hóa tất cả Thiên Bình thành [buff_3052_1], duy trì 2 lượt.",
-        "en": "[tips_11].\nAfter an enemy takes a turn, has a 50% chance of marking them with a Scale. Scales can stack up to 3 layers. When attacking an enemy with Scales, each Scale increases damage taken by 33%.\nWhen the HP of an enemy with 1/2/3 Scales drops below 30%/40%/60%, all Scales will be [buff_3052_1] for 2 turn(s).",
+        "en": "[tips_11]\nAfter an enemy takes a turn, has a 50% chance of marking them with a Scale. Scales can stack up to 3 layers. When attacking an enemy with Scales, each Scale increases damage taken by 33%.\nWhen the HP of an enemy with 1/2/3 Scales drops below 30%/40%/60%, all Scales will be [buff_3052_1] for 2 turn(s).",
         "zh": "[tips_11]。\n敌方回合结束后，有50%概率使用天平将之标记，上限3个天平。攻击带有天平的敌方时，每个天平提升33%伤害。\n带有1、2、3个天平的敌方，在生命低于30%、40%、60%时，将会把所有天平转化为[buff_3052_1]，持续2回合。"
       },
       "upgrades": [],

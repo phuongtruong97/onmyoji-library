@@ -7,6 +7,7 @@
   },
   "rarity": "R",
   "tier": "R",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "在这里就安心吧！"
       },
       "description": {
-        "vi": "[tips_11].\nYêu Quái Ốc phát ra linh lực kỳ diệu, khiến toàn thể đồng minh không phải vật triệu hồi tăng 25% kháng hiệu ứng, bản thân tăng gấp đôi. Khi đồng minh không phải vật triệu hồi bắt đầu lượt, trị liệu lượng HP bằng 5% giới hạn HP.",
-        "en": "[tips_11].\nGhoul House releases a magical charm, increasing the Effect RES of all non-summoned ally entities by 25%. The effect is doubled on herself. At the beginning of a non-summoned ally entity's turn, heals their HP by 5% of their max HP.",
+        "vi": "[tips_11]\nYêu Quái Ốc phát ra linh lực kỳ diệu, khiến toàn thể đồng minh không phải vật triệu hồi tăng 25% kháng hiệu ứng, bản thân tăng gấp đôi. Khi đồng minh không phải vật triệu hồi bắt đầu lượt, trị liệu lượng HP bằng 5% giới hạn HP.",
+        "en": "[tips_11]\nGhoul House releases a magical charm, increasing the Effect RES of all non-summoned ally entities by 25%. The effect is doubled on herself. At the beginning of a non-summoned ally entity's turn, heals their HP by 5% of their max HP.",
         "zh": "[tips_11]。\n妖怪屋散发出神奇的灵力，使非召唤物的友方全体提升25%效果抵抗，自身提升双倍。非召唤物的友方回合开始时，治疗等同其生命上限5%的生命。"
       },
       "upgrades": [

@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -125,7 +126,7 @@
       },
       "description": {
         "vi": "[tips_11] Khi trận đấu bắt đầu nhận 7 tầng [buff_5702_1]; khi [buff_5702_1] cao hơn 3 tầng, bản thân miễn nhiễm [tips_3] cùng [tips_109] và tăng 27% Sát Thương Bạo Kích cho đồng minh sở hữu Lá chắn.\n[Thi triển] Giảm 1 tầng [buff_5702_1], giúp mục tiêu đồng minh nhận [tips_6] không thể xua tan, có thể hấp thụ lượng sát thương bằng 10% giới hạn HP của Họa Tân Thần, đồng thời tăng thêm 40% sát thương cho toàn bộ phe ta, duy trì 2 lượt. Khi thi triển trong lượt bản thân, giảm thêm 1 tầng Trú Sa và gấp đôi lượng Lá chắn nhận được. Khi bất kỳ đồng minh nào không phải vật triệu hồi chịu sát thương vượt quá 10% HP tối đa, lập tức thi triển miễn phí [skill_5702_1] lên kẻ đó. (Giới hạn 1 lần mỗi lượt hành động)",
-        "en": "[tips_11]. At the start of the battle, grants her 7 [buff_5702_1] stacks. Grants her immunity to [tips_3] and [tips_109] when she has 3 or more [buff_5702_1] stacks. Also increases the Crit DMG of allies with a shield by 27%.\nActive skill: Creates a [tips_6] (cannot be dispelled) to protect 1 ally at the cost of 1 [buff_5702_1] stack, absorbing damage equal to 10% of Magatsuhi's max HP and increasing all allies' damage by 40% for 2 turns. When she uses the skill on her turn, increases the cost by 1 additional Veil of Curse stack to double the shield capacity. When a non-summoned ally entity takes damage that exceeds 10% of their max HP, immediately uses [skill_5702_1] on them, free of orb cost. (Triggers up to once for each action.)",
+        "en": "[tips_11] At the start of the battle, grants her 7 [buff_5702_1] stacks. Grants her immunity to [tips_3] and [tips_109] when she has 3 or more [buff_5702_1] stacks. Also increases the Crit DMG of allies with a shield by 27%.\nActive skill: Creates a [tips_6] (cannot be dispelled) to protect 1 ally at the cost of 1 [buff_5702_1] stack, absorbing damage equal to 10% of Magatsuhi's max HP and increasing all allies' damage by 40% for 2 turns. When she uses the skill on her turn, increases the cost by 1 additional Veil of Curse stack to double the shield capacity. When a non-summoned ally entity takes damage that exceeds 10% of their max HP, immediately uses [skill_5702_1] on them, free of orb cost. (Triggers up to once for each action.)",
         "zh": "[tips_11]。战斗开始时获得7层[buff_5702_1]；[buff_5702_1]高于3层时，自身免疫[tips_3]与[tips_109]并提升拥有护盾的友方27%暴击伤害。\n【施放】减少1层[buff_5702_1]，使友方目标获得不可驱散的[tips_6]，能吸收祸津神10%生命上限的伤害，并额外提升友方全体40%伤害，持续2回合。在自身回合内施放时，额外减少1层咒纱并使获得的护盾量加倍。任意非召唤物友方受到超过最大生命10%的伤害时，立即无消耗对其施放[[skill_5702_1]。（每次行动限1次）"
       },
       "upgrades": [

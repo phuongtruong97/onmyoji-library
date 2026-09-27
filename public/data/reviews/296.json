@@ -1,0 +1,82 @@
+{
+  "shikigamiId": 296,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Chủ lực kết liễu không cần Bạo kích, hiện có việc làm rõ nhất ở vị trí đánh cuối một số đội Ngự Hồn",
+  "summary": "《Sơn Phong》 dùng [Trảm] đánh hai mục tiêu, chắc chắn Bạo Kích và gắn sát thương gián tiếp theo HP hiện tại của kẻ địch; khi hiệu ứng biến mất còn đặt {−Cấm Hồi Máu}. [Liệt] giúp anh tự kéo 35% thanh hành động sau khi hết khống chế và tăng sát thương theo lượng HP mục tiêu đã mất. Điểm mạnh thực tế là có thể dồn toàn bộ chỉ số vào Công/Sát thương bạo kích mà không cần Bạo kích, nhưng phạm vi sử dụng hiện khá hẹp.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7,
+      "note": "Có đội Ngự Hồn dùng anh làm đòn kết thúc không cần Bạo kích."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5.5,
+      "note": "Tăng sát thương theo HP đã mất nhưng thiếu cơ chế hỗ trợ đội."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 4.5,
+      "note": "Tự kéo sau khống chế có ích, nhưng SSR Sơn Phong không còn là lựa chọn meta."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5,
+      "note": "Dễ đạt Bạo kích nhưng chỉ nên nuôi khi có đội hình mục tiêu cụ thể."
+    }
+  ],
+  "strengths": [
+    "[Trảm] chắc chắn Bạo Kích nên có thể bỏ hoàn toàn chỉ số Bạo kích.",
+    "Sát thương tăng theo phần trăm HP mục tiêu đã mất, hợp vai trò kết liễu.",
+    "Có sát thương gián tiếp và {−Cấm Hồi Máu} 100%."
+  ],
+  "weaknesses": [
+    "Việc làm PvE chủ yếu là vị trí đánh cuối trong một số đội cụ thể.",
+    "Đại chiêu chia sang hai mục tiêu, khó kiểm soát khi cần dồn hoàn toàn một đích.",
+    "Độ ưu tiên hiện tại thấp và gần như không có vai trò PvP phổ dụng."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Đội Ngự Hồn 10 với 《Thiên Chiếu》 đã dùng anh khóa đánh thường để kết liễu đợt cuối. Cấu hình thực chiến dùng 〈Tâm Nhãn〉 + 〈Hoang Khô Lâu〉, Công – Công – Sát thương bạo kích và không cần Bạo kích.",
+        "Đây là việc làm theo đội hình, không phải lý do để nuôi anh trước các chủ lực đa dụng. Chỉ đầu tư sau khi đã xác nhận tốc độ và ngưỡng sát thương của đội."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "[Liệt] cho phép tăng thanh sau khi khống chế được giải hoặc hết hạn, nhưng anh vẫn có thể bị khóa nhiều hiệu ứng liên tiếp. Khả năng kết liễu và cấm hồi máu chỉ mang tính bất ngờ, không đủ để cạnh tranh ổn định."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Đánh cuối Ngự Hồn: 〈Tâm Nhãn〉 + 〈Hoang Khô Lâu〉; Công – Công – Sát thương bạo kích, không cần Bạo kích.",
+        "Nếu dùng [Trảm] trong PvP: 〈Thanh Nữ Phòng〉 hoặc 〈Võng Thiết〉; Tốc độ/Công – Công – Sát thương bạo kích. Đây là lối ngách, không nên lấy bộ tốt khỏi chủ lực chính."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "11s魂十天照阵容带3狗粮",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1qH4y1G7kA/",
+      "usedFor": "xác nhận đội hình, Tâm Nhãn + Hoang Khô Lâu và việc không cần Bạo kích",
+      "publishedAt": "08/05/2024"
+    },
+    {
+      "title": "阴阳师：SP式神培养指南",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1134/11341535.html",
+      "usedFor": "đối chiếu độ ưu tiên và phạm vi sử dụng hiện tại",
+      "publishedAt": "18/02/2026"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": 1,
+  "count": 6,
+  "characters": [
+    {
+      "id": 1,
+      "kind": "Onmyoji",
+      "name": {
+        "vi": "Seimei",
+        "en": "Seimei",
+        "zh": "晴明"
+      },
+      "assets": {
+        "portraitFile": "seimei.png",
+        "headIconFile": "10a.png"
+      }
+    },
+    {
+      "id": 2,
+      "kind": "Onmyoji",
+      "name": {
+        "vi": "Kagura",
+        "en": "Kagura",
+        "zh": "神乐"
+      },
+      "assets": {
+        "portraitFile": "kagura.png",
+        "headIconFile": "11a.png"
+      }
+    },
+    {
+      "id": 3,
+      "kind": "Onmyoji",
+      "name": {
+        "vi": "Yao Bikuni",
+        "en": "Yao Bikuni",
+        "zh": "八百比丘尼"
+      },
+      "assets": {
+        "portraitFile": "yaobikuni.png",
+        "headIconFile": "12a.png"
+      }
+    },
+    {
+      "id": 4,
+      "kind": "Onmyoji",
+      "name": {
+        "vi": "Hiromasa",
+        "en": "Hiromasa",
+        "zh": "源博雅"
+      },
+      "assets": {
+        "portraitFile": "hiromasa.png",
+        "headIconFile": "13a.png"
+      }
+    },
+    {
+      "id": 5,
+      "kind": "Champion",
+      "name": {
+        "vi": "Minamoto no Yorimitsu",
+        "en": "Minamoto no Yorimitsu",
+        "zh": "源赖光"
+      },
+      "assets": {
+        "portraitFile": "minamoto.png",
+        "headIconFile": "15a.png"
+      }
+    },
+    {
+      "id": 6,
+      "kind": "Champion",
+      "name": {
+        "vi": "Fujiwara no Michinaga",
+        "en": "Fujiwara no Michinaga",
+        "zh": "藤原道长"
+      },
+      "assets": {
+        "portraitFile": "fujiwara.png",
+        "headIconFile": "16a.png"
+      }
+    }
+  ]
+}

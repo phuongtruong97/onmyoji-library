@@ -1,0 +1,94 @@
+{
+  "shikigamiId": 399,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Khống chế Quỷ Hỏa và kỹ năng rất mạnh trong PvP; PvE chủ yếu là hỗ trợ Quỷ Hỏa/đánh thường theo cơ chế riêng",
+  "summary": "《Ngôn Linh》 dùng [Bí Mật Chân Ngôn] gây AoE và đưa {−Nghĩa Hỏa} vào thanh Quỷ Hỏa đối phương. Nghĩa Hỏa được tiêu trước Quỷ Hỏa thật; nếu một kỹ năng chỉ dùng Nghĩa Hỏa, kỹ năng đó bị thay bằng [Cuống Mặc]. Khi địch nhận nhiều Quỷ Hỏa hoặc kết thúc lượt, cô tích {+Mặc Linh}; đủ tám tầng tự dùng [Ngôn Hiện] và tiếp tục thêm Nghĩa Hỏa. Đây là cơ chế khóa kỹ năng đặc biệt mạnh trong PvP.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "Có AoE truy kích và cấp Quỷ Hỏa, nhưng không tối ưu farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Tăng Công đánh thường và cấp lửa có thể dùng trong đội đặc thù."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Khống chế nhịp Quỷ Hỏa bằng Nghĩa Hỏa, buộc kỹ năng địch biến thành [Cuống Mặc] hoặc kích Câm Lặng/AoE; đặc biệt hợp đội 《Thần Khải Hoang》 và phản công."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5,
+      "note": "Rất mạnh PvP nhưng không phải ưu tiên trước đội PvE nền tảng."
+    }
+  ],
+  "strengths": [
+    "{−Nghĩa Hỏa} chiếm thanh Quỷ Hỏa và có thể biến kỹ năng đối phương thành [Cuống Mặc].",
+    "Tự tích {+Mặc Linh} theo lượt địch và lượng Quỷ Hỏa họ nhận, đủ tầng tự đánh AoE.",
+    "Miễn nhiễm Câm Lặng và tăng sát thương đòn đánh thường cho phe ta."
+  ],
+  "weaknesses": [
+    "Tốc độ cơ bản không cao, cần bộ Tốc độ tốt để chủ động áp Nghĩa Hỏa.",
+    "Đối thủ dùng kỹ năng 0 Quỷ Hỏa, Niệm Hỏa hoặc đánh thường có thể đi vòng cơ chế.",
+    "Vai trò PvE hạn chế so với các hỗ trợ Quỷ Hỏa/tăng sát thương chuyên dụng."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Trên quái, [Bí Mật Chân Ngôn] truy kích thêm một lần và chuyển Nghĩa Hỏa thành hai Quỷ Hỏa cho phe ta; đồng thời tăng 55% Công khi đánh thường cho mục tiêu phe ta. Cơ chế này dùng được ở đội đánh thường chuyên biệt nhưng không đủ để biến cô thành hỗ trợ PvE phổ dụng."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Ngôn Linh》 tạo áp lực ngay lên thanh Quỷ Hỏa đối phương. Nếu kẻ địch không đủ lửa thật và phải tiêu Nghĩa Hỏa, kỹ năng bị đổi thành [Cuống Mặc]; nếu Nghĩa Hỏa không bị nhiễm đủ, cô tự đánh và áp Câm Lặng lên đơn vị đứng đầu thanh. Những lần AoE chủ động lẫn tự động còn mang theo Ngự Hồn khống chế, nên cô vừa làm méo tài nguyên vừa tạo điều kiện Tinh Bộc cho 《Thần Khải Hoang》.",
+        "Cô cần đi đủ sớm để đặt Nghĩa Hỏa trước chuỗi kỹ năng quan trọng và bản thân khá dễ bị dồn chết. Đội có nguồn lửa dư dả, giải khống chế hoặc hạ cô trước khi cơ chế tự động kích hoạt sẽ giảm đáng kể áp lực. Khi gặp đội phản ứng theo AoE, mỗi lần tự đánh cũng có thể kích cơ chế đối phương. Vì vậy phải cân nhắc kèo, thay vì mặc định càng nhiều lần AoE càng tốt."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP khống chế: 〈Chung Linh〉, 〈Tuyết U Hồn〉 hoặc 〈Mị Yêu〉; Tốc độ – Hiệu quả chính xác – HP. Ưu tiên Tốc độ trên 210 khi bộ hiện có cho phép, sau đó Hiệu quả chính xác và Kháng hiệu ứng.",
+        "PvP hỗ trợ Quỷ Hỏa: 〈Chiêu Tài Miêu〉 hoặc 〈Hỏa Linh〉; Tốc độ – Kháng hiệu ứng/HP – HP. Chọn bộ theo nguồn lửa của cả đội, không cần xây sát thương."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "言灵斗技阵容与御魂配置",
+      "publisher": "233乐园",
+      "url": "https://www.233leyuan.com/post-detail/2062756276131205120",
+      "usedFor": "đối chiếu Chung Linh/Mị Yêu, Tốc độ–Chính xác–HP và ngưỡng tốc độ hiện tại",
+      "publishedAt": "2026"
+    },
+    {
+      "title": "言霊の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/255040143738596777.html",
+      "usedFor": "đối chiếu Nghĩa Hỏa, Cuống Mặc, đội đánh thường và các đối sách"
+    },
+    {
+      "title": "言灵版本全自动挂机名仕阵容",
+      "publisher": "17173",
+      "url": "https://news.17173.com/z/yys/content/04032023/102734835.shtml",
+      "usedFor": "đối chiếu bộ khống chế, Chiêu Tài và hướng Tốc độ–Kháng/Chính xác–HP"
+    },
+    {
+      "title": "言灵配合荒骷髅斗技实战",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1sgKpziEWQ/",
+      "usedFor": "đối chiếu Nghĩa Hỏa và vai trò khống chế nhịp",
+      "publishedAt": "23/06/2025"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "一炷明香去，八方引魂归。"
       },
       "description": {
-        "vi": "[tips_11]. Hương âm trong ký ức xa xưa lan tỏa từ trong thần hương lư, mở ra [Minh Hương Cảnh] duy trì 4 lượt. Trong [Minh Hương Cảnh], sau khi lượt của đồng minh không phải vật triệu hồi ngoại trừ bản thân kết thúc, Tầm Hương Hành nhận 1 tầng [buff_3912_1]; đòn tấn công của Tầm Hương Hành lên kẻ địch có 40% [tips_2] đính kèm [buff_3913_1]. \n[tips_7]: Thi triển [Phược Mộng Minh Hương]. Đồng thời Phòng thủ của kẻ địch mỗi khi thấp hơn Tầm Hương Hành 1%, sát thương Tầm Hương Hành gây ra tăng 1%.",
-        "en": "[tips_11]. The echoes of the incense from a distant memory drift out from the divine censer to create a Scented Realm that [tips_15]s for 4 turns. While the Scented Realm is active, at the end of each other non-summoned ally entity's turn, Jinkougyou gains 1 [buff_3912_1] stack. Jinkougyou has a 40% [tips_2] of applying [buff_3913_1] when attacking enemies.[tips_7]: Casts Dream Binder. Additionally, for every 1% the enemy's DEF is lower than Jinkougyou's, his damage dealt increases by 1%.",
+        "vi": "[tips_11] Hương âm trong ký ức xa xưa lan tỏa từ trong thần hương lư, mở ra [Minh Hương Cảnh] duy trì 4 lượt. Trong [Minh Hương Cảnh], sau khi lượt của đồng minh không phải vật triệu hồi ngoại trừ bản thân kết thúc, Tầm Hương Hành nhận 1 tầng [buff_3912_1]; đòn tấn công của Tầm Hương Hành lên kẻ địch có 40% [tips_2] đính kèm [buff_3913_1]. \n[tips_7]: Thi triển [Phược Mộng Minh Hương]. Đồng thời Phòng thủ của kẻ địch mỗi khi thấp hơn Tầm Hương Hành 1%, sát thương Tầm Hương Hành gây ra tăng 1%.",
+        "en": "[tips_11] The echoes of the incense from a distant memory drift out from the divine censer to create a Scented Realm that [tips_15]s for 4 turns. While the Scented Realm is active, at the end of each other non-summoned ally entity's turn, Jinkougyou gains 1 [buff_3912_1] stack. Jinkougyou has a 40% [tips_2] of applying [buff_3913_1] when attacking enemies.[tips_7]: Casts Dream Binder. Additionally, for every 1% the enemy's DEF is lower than Jinkougyou's, his damage dealt increases by 1%.",
         "zh": "[tips_11]。久远记忆中的香音自神香炉中弥散，开启[tips_15]4回合的「明香境]。 在「明香境]中，除自身外非召唤物友方回合结束后，寻香行获得1层[buff_3912_1]；寻香行对敌方的攻击有40%[tips_2]附加[buff_3913_1]。[tips_7]：施放「缚梦明香]。且敌方防御每比寻香行低1%，寻香行造成的伤害提升1%。"
       },
       "upgrades": [

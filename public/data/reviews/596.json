@@ -1,0 +1,103 @@
+{
+  "shikigamiId": 596,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ chiến thuật cấp lửa–giảm chi phí, giảm sát thương toàn đội và bảo đảm một lần kích bộ 4 ngự hồn ở xác suất 100%",
+  "summary": "《Thần Vô Nguyệt》 tạo Huyễn Cảnh 2 lượt và đặt 2 tầng {+Nhập Mộng} lên một đồng minh: trước lượt của cô và người mang nhận 1 Quỷ Hỏa, còn mỗi kỹ năng của người mang được giảm 3 lửa bằng một tầng Nhập Mộng. Cô và người mang giảm 40% sát thương, các đồng minh khác giảm 20%. Quan trọng nhất, {+Mộng Đẹp Tất Thành} nâng xác suất và xác suất cơ bản của hiệu ứng bộ 4 ngự hồn ban đầu lên 100% cho một lần kích. Cô là hỗ trợ PvP/PvE rất mạnh khi đội được xây quanh đúng một chủ lực hoặc ngự hồn xác suất.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8.5,
+      "note": "Mở trận có Mộng Thần, giảm chi phí và bảo đảm hiệu ứng bộ 4 giúp nhiều đội tốc chiến ổn định."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 9,
+      "note": "Huyễn Cảnh cung cấp lửa, giảm chi phí, giảm sát thương và tích tối đa 90% tăng sát thương cho người trong cảnh."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Hỗ trợ cấp lửa, giảm chi phí và khuếch đại một lần kích hoạt Ngự Hồn quan trọng; mạnh khi đặt đúng người {+Nhập Mộng}, nhưng khống chế vẫn phải qua kiểm tra Kháng hiệu ứng."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 8.5,
+      "note": "Hỗ trợ cực đa dụng, nhưng cần hiểu chọn người Nhập Mộng và bộ ngự nào đáng bảo đảm kích hoạt."
+    }
+  ],
+  "strengths": [
+    "Trong Huyễn Cảnh, cô và người mang {+Nhập Mộng} nhận 40% giảm sát thương; các đồng minh khác nhận 20%.",
+    "Trước lượt bản thân và người mang, nhận 1 Quỷ Hỏa; mỗi tầng Nhập Mộng giảm 3 Quỷ Hỏa cho lần dùng kỹ năng rồi bị tiêu hao.",
+    "{+Mộng Đẹp Tất Thành} nâng xác suất và xác suất cơ bản của bộ 4 ngự hồn ban đầu lên 100% cho lần kích kế tiếp.",
+    "Mỗi lần tạo Huyễn Cảnh nhận 1 tầng {+Mộng Thần}; tối đa 5 tầng, mỗi tầng tăng 18% sát thương cho đồng minh trong Huyễn Cảnh."
+  ],
+  "weaknesses": [
+    "Chỉ tối đa một đồng minh khác có {+Nhập Mộng}; chọn sai mục tiêu làm lãng phí giảm chi phí và giảm sát thương.",
+    "Mộng Đẹp Tất Thành bị xóa sau khi có hiệu lực và không phải mọi bộ ngự đều hưởng lợi tương đương từ xác suất 100%.",
+    "Tốc độ cơ bản chỉ 110, muốn đi trước chủ lực cần đầu tư nhiều Tốc độ.",
+    "Không trực tiếp hồi máu hay giải khống chế; đội vẫn cần nguồn hồi phục/giải hiệu ứng khi đánh dài."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Đặt {+Nhập Mộng} lên chủ lực tiêu nhiều Quỷ Hỏa hoặc cần bảo đảm kích hoạt bộ 4. Mỗi lần tái tạo Huyễn Cảnh tăng thêm một tầng Mộng Thần, nên giá trị tăng sát thương leo dần trong boss dài; ở tốc chiến, hiệu ứng Tiên Cơ đã cho sẵn một tầng.",
+        "Một số đội boss dùng cô ở Tốc độ trên 240 để mở cảnh và đưa chủ lực vào vòng giảm lửa trước khi các đơn vị chậm hành động. Chọn ngự hồn chức năng theo đội; không cần cố ép cô gây sát thương vì Tấn công cơ bản thấp."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Trong PvP, 《Thần Vô Nguyệt》 tập trung tài nguyên vào một đồng minh: giảm chi phí kỹ năng, cấp Quỷ Hỏa và tăng khả năng kích hoạt bộ bốn Ngự Hồn cho lần quan trọng. Sau điều chỉnh, hiệu ứng đưa xác suất và xác suất cơ bản lên 100%, nhưng Ngự Hồn khống chế vẫn phải vượt qua Kháng hiệu ứng của mục tiêu. Vì vậy không được mô tả cô như một nguồn khống chế chắc chắn.",
+        "Cô phù hợp đội cần một chủ lực dùng kỹ năng liên tục hoặc cần bảo đảm hiệu ứng như 〈Luân Nhập Đạo〉, 〈Nhật Nữ Tỵ Thời〉 hay Ngự Hồn chức năng không phụ thuộc Chính xác. Điểm yếu là Tốc độ cơ bản đã bị giảm, chỉ một đồng minh khác được giữ {+Nhập Mộng}, và cô không tự hồi máu hay giải khống chế. Chọn sai người nhận hiệu ứng sẽ lãng phí gần như toàn bộ lượt thiết lập."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP chủ động: 〈Luân Nhập Đạo〉; Tốc độ – HP/Kháng – HP, ưu tiên Tốc độ cao nhất có thể rồi đến Kháng và HP.",
+        "PvP/PvE chức năng: 〈Cộng Tiềm〉, 〈Mộc Mị〉, 〈Chiêu Tài Miêu〉 hoặc 〈Hỏa Linh〉; Tốc độ – Kháng/HP – HP. Chọn bộ theo nhu cầu giải debuff, phá lửa hoặc cấp lửa; trong đội boss có thể dùng bộ rời Tốc độ để đạt đúng mốc hành động."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "周年庆新区斗技阵容推荐",
+      "publisher": "TapTap",
+      "url": "https://www.taptap.cn/moment/850187312414328970",
+      "usedFor": "đối chiếu Luân Nhập Đạo, Tốc độ–HP–HP và vai trò trong đội PvP"
+    },
+    {
+      "title": "2026新式神与神无月阵容解析",
+      "publisher": "搜狐",
+      "url": "https://www.sohu.com/a/1004999959_122509332",
+      "usedFor": "đối chiếu Cộng Tiềm, Tốc độ/Kháng và đội boss/PvP"
+    },
+    {
+      "title": "神无月强度评测",
+      "publisher": "代练通",
+      "url": "https://www.dailiantong.com/news/content_421211.html",
+      "usedFor": "đối chiếu định vị tăng sát thương–cấp lửa ở PvE/PvP"
+    },
+    {
+      "title": "神无月光速削弱，御魂不再必定触发控制",
+      "publisher": "鸽海成路 / Bilibili",
+      "url": "https://www.bilibili.com/video/BV1Y9rcB8EPV/",
+      "usedFor": "xác nhận khác biệt giữa xác suất Ngự Hồn 100% và kiểm tra Kháng hiệu ứng",
+      "publishedAt": "09/01/2026"
+    },
+    {
+      "title": "1月14日维护更新公告：神无月技能调整",
+      "publisher": "17173",
+      "url": "https://news.17173.com/content/01142026/101634526.shtml",
+      "usedFor": "đối chiếu mô tả kỹ năng chính thức sau điều chỉnh",
+      "publishedAt": "14/01/2026"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "f",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -66,7 +67,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "Bách Vũ Phượng Hoàng Hỏa chỉ huy chim lửa bay về phía địch, gây cho mục tiêu địch sát thương bằng 125% công kích, sau đó mất 10% HP tối đa (có thể đưa bản thân vào trạng thái [buff_6072_3]).",
+        "vi": "Bách Vũ Phượng Hoàng Hỏa chỉ huy chim lửa bay về phía địch, gây cho mục tiêu địch sát thương bằng 125% Tấn Công kích, sau đó mất 10% HP tối đa (có thể đưa bản thân vào trạng thái [buff_6072_3]).",
         "en": "",
         "zh": ""
       },

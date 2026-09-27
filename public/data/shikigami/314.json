@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,7 +125,7 @@
         "zh": "结界·天生牙！"
       },
       "description": {
-        "vi": "Khi chịu sát thương, đỡ đòn 30% trong số đó, tối đa không vượt quá 40% HP đã tổn thất.\nKhi chịu sát thương chí mạng, đỡ đòn sát thương lần đó và xóa bỏ tất cả [tips_25] của bản thân, sau đó nhận [tips_16] cho đến khi bắt đầu lượt tiếp theo, khi [tips_16] kết thúc, gánh chịu [buff_3144_1], duy trì 1 lượt; mỗi lượt chỉ kích hoạt 1 lần, đồng thời sau khi kích hoạt nhận 30% Hút Máu cho đến khi kết thúc hồi mục.\nKhi ở trạng thái [tips_16], không thể được mời chiến.",
+        "vi": "Khi chịu sát thương, đỡ đòn 30% trong số đó, tối đa không vượt quá 40% HP đã tổn thất.\nKhi chịu sát thương chí tử, đỡ đòn sát thương lần đó và xóa bỏ tất cả [tips_25] của bản thân, sau đó nhận [tips_16] cho đến khi bắt đầu lượt tiếp theo, khi [tips_16] kết thúc, gánh chịu [buff_3144_1], duy trì 1 lượt; mỗi lượt chỉ kích hoạt 1 lần, đồng thời sau khi kích hoạt nhận 30% Hút Máu cho đến khi kết thúc hồi mục.\nKhi ở trạng thái [tips_16], không thể được mời chiến.",
         "en": "When he takes damage, prevents 30% of the damage taken, up to a max of 40% HP lost.\nWhen he takes lethal damage, prevents the damage, removes each [tips_25] on him, and he becomes [tips_16] until his next turn. When he stops being [tips_16], grants him [buff_3144_1] for 1 turn. Only triggered once each round. Grants him 30% HP Steal until the round ends when triggered.\nHe can't receive Call to Arms while [tips_16].",
         "zh": "受到伤害时，抵挡其中的30%，最多不超过已损失生命的40%。\n受到致命伤害时，抵挡该次伤害并移除自身所有[tips_25]，然后获得[tips_16]直到下个回合开始，当[tips_16]结束时，承受[buff_3144_1]，持续1回合；每回目仅触发1次，并在触发后获得30%吸血直到回目结束。\n[tips_16]时，无法被邀战。"
       },

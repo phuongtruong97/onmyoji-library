@@ -1,0 +1,89 @@
+{
+  "shikigamiId": 577,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ PvP kiểm soát Quỷ Hỏa và khóa lượt, đồng thời giảm Chính xác/Phòng thủ và miễn phí kỹ năng kế tiếp",
+  "summary": "《Quỷ Kim Dương》 thao túng mọi loại {−Phiến Quỷ Hỏa}: [Túc Ảnh Ám Độ] lấy tối đa 2 tài nguyên của phe mình rồi hoàn lại tương ứng, đồng thời trộm 2 của địch. [Quỷ Túc Kỳ Kinh · Trường Tinh] giảm 30% Chính xác và 100 Phòng thủ toàn địch, đặt {−Trường Tinh Tỏa} khiến một mục tiêu bỏ qua lượt khi về cuối thanh, rồi giảm 3 Quỷ Hỏa cho lượt đồng minh kế tiếp. Anh là hỗ trợ PvP chuyên trị đội phụ thuộc tài nguyên/lượt, gần như không có việc làm PvE đáng kể.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 4,
+      "note": "Có giảm 100 Phòng thủ và miễn 3 lửa cho đồng minh kế tiếp, nhưng cần hành động và không cạnh tranh được hỗ trợ PvE chuyên dụng."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 4.5,
+      "note": "Thao túng lửa có thể dùng tình huống, song khóa lượt và giảm Chính xác ít giá trị trước quái."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Khóa một mắt xích bằng {−Trường Tinh Tỏa}, khiến mục tiêu bỏ lượt khi chạm cuối thanh; đồng thời làm méo Quỷ Hỏa và mở lượt kỹ năng miễn phí cho đồng minh."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Thuần PvP, đòi Tốc độ và Chính xác tốt; không giải quyết nhu cầu farm ban đầu."
+    }
+  ],
+  "strengths": [
+    "[Túc Ảnh Ám Độ] trộm 2 Quỷ Hỏa của đối phương và chuyển tối đa 2 tài nguyên phe mình qua một vòng khấu trừ–hoàn lại.",
+    "{−Trường Tinh Tỏa} khiến mục tiêu bỏ qua lượt khi tới đáy thanh hành động.",
+    "Kỹ năng 3 giảm 30% Chính xác hiệu ứng và 100 Phòng thủ toàn địch trong 1 lượt, đồng thời giảm 3 Quỷ Hỏa cho lượt đồng minh kế tiếp.",
+    "Khi {+Túc Ảnh Trận} đủ 8 tầng, anh tự dùng [Túc Ảnh Ám Độ] và nhận {+Che Chắn}, tạo thêm lượt phá tài nguyên mà không cần chờ hành động."
+  ],
+  "weaknesses": [
+    "{−Trường Tinh Tỏa} có xác suất cơ bản 75%, nên cần Chính xác hiệu ứng và vẫn có thể trượt trước Kháng cao.",
+    "Chỉ gắn Trường Tinh Tỏa lên tối đa một kẻ địch; bản thân Quỷ Kim Dương không bị ảnh hưởng bởi hiệu ứng khóa lượt này.",
+    "Giá trị phụ thuộc mạnh vào đối thủ sử dụng nhiều Phiến Quỷ Hỏa; trước đội đánh thường hoặc không tiêu tài nguyên, hiệu quả giảm rõ.",
+    "Thiếu hồi phục, lá chắn diện rộng và sát thương; cần đội hình tận dụng ngay cửa sổ khóa lượt/giảm thủ."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Chỉ có thể dùng như công cụ giảm 100 Phòng thủ và miễn 3 lửa cho chủ lực kế tiếp. Do phải chiếm một vị trí và một lượt hành động, anh thường thua các hỗ trợ tăng sát thương/giảm thủ chuyên PvE; không nên đầu tư chỉ để farm."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Quỷ Kim Dương》 điều khiển trận đấu bằng tài nguyên và lượt. Đi trước để gắn {−Trường Tinh Tỏa} lên người kéo lượt, giải khống chế hoặc chủ lực cần đến lượt để lật thế; khi mục tiêu chạm cuối thanh, dấu bị gỡ và nó bỏ qua lượt. Sau [Túc Ảnh Ám Độ], một đồng minh dùng kỹ năng 3 Quỷ Hỏa có thể được giảm chi phí về 0, tạo chuỗi chủ động mà không làm cạn lửa đội mình.",
+        "Dấu khóa vẫn cần vượt Kháng hiệu ứng và anh đòi hỏi tốc độ để hành động trước mục tiêu. Video đội hình thực chiến ghi nhận chỉ cần hụt {−Trường Tinh Tỏa} là đội có thể bị phản công ngay. Đối thủ có giải dấu, miễn khống chế hoặc nhiều nguồn tạo lửa sẽ giảm tác động của anh. Vì vậy Quỷ Kim Dương mạnh khi khóa đúng mắt xích và căn đúng thứ tự, nhưng không phải lựa chọn dễ dùng với cấu hình trung bình."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvP phổ thông: 〈Chiêu Tài Miêu〉, 〈Hỏa Linh〉 hoặc 〈Cộng Tiềm〉; Tốc độ – Chính xác/HP – HP. Ưu tiên Tốc độ, sau đó đủ Chính xác để Trường Tinh Tỏa ổn định.",
+        "Nếu chịu áp lực sát thương: 〈Địa Tạng Tượng〉; Tốc độ – Chính xác/HP – HP. Ô 4 Chính xác phù hợp khi cần chắc khóa lượt, còn HP phù hợp khi đội đã có nguồn tăng Chính xác hoặc gặp đội bùng nổ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师鬼金羊御魂搭配攻略",
+      "publisher": "3DM手游",
+      "url": "https://shouyou.3dmgame.com/gl/531737.html",
+      "usedFor": "đối chiếu vai trò PvP, mục tiêu khắc chế, bộ Chiêu Tài/Hỏa Linh/Cộng Tiềm/Địa Tạng và thuộc tính"
+    },
+    {
+      "title": "鬼金羊版本全自动挂机大名仕思路",
+      "publisher": "哔哩哔哩",
+      "url": "https://www.bilibili.com/video/BV1Z2mXYMEgP/",
+      "usedFor": "đối chiếu yêu cầu Tốc độ, Chính xác và hiệu quả thực chiến theo kèo"
+    },
+    {
+      "title": "茶卑神吟羊近期斗技实战",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1z6bT6FELR/",
+      "usedFor": "đối chiếu vị trí Quỷ Kim Dương trong đội hình hiện tại",
+      "publishedAt": "07/09/2026"
+    }
+  ]
+}

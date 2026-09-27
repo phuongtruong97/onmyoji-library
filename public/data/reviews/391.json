@@ -1,0 +1,86 @@
+{
+  "shikigamiId": 391,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Sát thương gián tiếp kiêm giảm Phòng thủ cho đội dài lượt; cần đồng đội hạ Phòng thủ về 0 để bỏ Bạo kích và tối đa hóa sát thương",
+  "summary": "《Tầm Hương Hành》 mở [Minh Hương Cảnh], tích Tâm Hương theo lượt đồng minh và gắn {−Phược Hồn Hương} lên địch. Tích đủ dấu gây Thất Thần, bỏ lượt mục tiêu và giảm vĩnh viễn Phòng thủ ban đầu; tổng mức giảm có thể đạt 55%. Sát thương của anh là sát thương gián tiếp, nên khi đội đưa Phòng thủ mục tiêu về 0 sẽ tự bạo kích và cho phép dồn Công – Công – Sát thương bạo kích mà không cần đủ Bạo kích.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 5.5,
+      "note": "Cần mở cảnh và tích dấu nên khởi động chậm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8,
+      "note": "Giảm Phòng thủ lâu dài và sát thương gián tiếp tăng dần rất hữu ích."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6.5,
+      "note": "Có thể ép bỏ lượt bằng Thất Thần nhưng cần nhiều lần gắn dấu."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 5.5,
+      "note": "Cần đội giảm Phòng thủ và kỹ năng cao; không phải chủ lực farm độc lập."
+    }
+  ],
+  "strengths": [
+    "Có thể giảm tối đa 55% Phòng thủ ban đầu của mục tiêu qua Phược Hồn Hương và Thất Thần.",
+    "Sát thương gián tiếp không kích hoạt ngự hồn của hai bên.",
+    "Khi mục tiêu có 0 Phòng thủ, sát thương gián tiếp tự bạo kích nên có thể bỏ chỉ số Bạo kích."
+  ],
+  "weaknesses": [
+    "Một mình anh chỉ giảm Phòng thủ theo tỷ lệ, thường cần 《Thanh Cơ》 hoặc 《Hạt Nữ》 để đưa mục tiêu về 0.",
+    "Cần nhiều lượt đồng minh để tích Tâm Hương và nhiều lần gắn dấu để kích hoạt Thất Thần.",
+    "Thất Thần làm mục tiêu bỏ lượt, đôi khi khiến sát thương theo đầu lượt như Thổ Tri Chu không kích hoạt."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng ở boss hoặc sự kiện dài lượt cùng nhân vật giảm Phòng thủ. Khi mục tiêu đã về 0 Phòng thủ, xây không Bạo kích để dồn Công và Sát thương bạo kích; nếu không bảo đảm 0 Phòng thủ, vẫn cần Bạo kích để tránh sát thương dao động.",
+        "〈Hải Nguyệt Hỏa Ngọc〉 nâng trần sát thương khi đội duy trì đủ Quỷ Hỏa. 〈Binh Chủ Bộ〉 giúp vào nhịp xuyên Phòng thủ sớm hơn; 〈Chiêu Tài Miêu〉 hoặc 〈Di Niệm Hỏa〉 dùng khi anh là sát thương phụ/hỗ trợ vận hành."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Mở [Minh Hương Cảnh] rồi tận dụng đội kéo thanh/cấp lượt để tích dấu nhanh. Thất Thần không chỉ gây sát thương gián tiếp mà còn làm mục tiêu mất lượt, nhưng anh thiếu tự bảo vệ trước khống chế nên cần đồng đội hỗ trợ."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE với mục tiêu 0 Phòng thủ: 〈Hải Nguyệt Hỏa Ngọc〉 hoặc 〈Binh Chủ Bộ〉; Công – Công – Sát thương bạo kích, không cần đủ Bạo kích. Ưu tiên Công, Sát thương bạo kích và Tốc độ theo đội.",
+        "Hỗ trợ/PvP: 〈Chiêu Tài Miêu〉 hoặc 〈Di Niệm Hỏa〉; Tốc độ – Công – HP/Công. Nếu đội không thể hạ Phòng thủ về 0, dùng Bạo kích vị trí 6 hoặc bù đủ Bạo kích bằng phụ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "寻香行",
+      "publisher": "百度百科",
+      "url": "https://bkso.baidu.com/item/寻香行/62074136?fromModule=lemma_inlink",
+      "usedFor": "đối chiếu Hải Nguyệt, Binh Chủ Bộ và cấu hình Công–Công–Sát thương bạo kích"
+    },
+    {
+      "title": "尋香行の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/231683424052586973.html",
+      "usedFor": "đối chiếu giảm tối đa 55% Phòng thủ, sát thương gián tiếp và điều kiện tự bạo kích"
+    },
+    {
+      "title": "寻香行御魂推荐大全",
+      "publisher": "九游",
+      "url": "https://www.9game.cn/yys/7103464.html",
+      "usedFor": "đối chiếu các bộ Hải Nguyệt/Binh Chủ Bộ/Di Niệm Hỏa/Chiêu Tài"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "shikigamiId": 362,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "medium",
+  "verdict": "Hỗ trợ PvP đóng băng cứng một mục tiêu và hồi sinh đồng minh ngưng kết; rất mạnh ở thế trận kéo dài nhưng tự gây sát thương gián tiếp hai phe",
+  "summary": "《Thiền Băng Tuyết Nữ》 cho toàn đội 30% Phòng thủ và tích {+Băng Hoa} sau mỗi lượt; đủ 6 hoa phát Khí Cực Hàn gây sát thương gián tiếp lên cả đồng minh lẫn kẻ địch ngoài bản thân. [Vĩnh Đông] gắn {−Sương Đông}, khiến một mục tiêu không thể hành động đến trước lượt kế tiếp của cô, đồng thời bản thân nhận {+Thiền Dực} không thể xua tan và 100% Kháng Bạo kích. Đồng minh bị sát thương chí mạng sẽ ngưng kết thay vì biến mất; [Tức Xuy] có thể hồi sinh toàn bộ họ đầy HP.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3.5,
+      "note": "Cơ chế hồi sinh và tích Băng Hoa quá chậm cho farm."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5,
+      "note": "Hồi sinh và tăng Phòng thủ hữu ích ở ải khó nhưng sát thương lên đồng minh gây rủi ro."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 8,
+      "note": "Khóa cứng một mục tiêu và giữ khả năng hồi sinh cho đội kéo dài; rất mạnh nếu bảo toàn được {+Thiền Dực}, nhưng dễ mất chuỗi khi Khiên bị phá hoặc bị ép lượt."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Thiên PvP, đòi hỏi quản lý Băng Hoa và đội hình chịu được sát thương gián tiếp."
+    }
+  ],
+  "strengths": [
+    "{−Sương Đông} không thể phản lại, xua tan hoặc giải trừ; còn khóa vị trí Thanh Hành Động của mục tiêu.",
+    "{+Thiền Dực} hấp thụ 135% Công khi nâng tối đa, không thể xua tan và cho 100% Kháng Bạo kích khi tồn tại.",
+    "Đồng minh chịu sát thương chí mạng chuyển thành ngưng kết; [Tức Xuy] hồi sinh tất cả mục tiêu ngưng kết với đầy HP."
+  ],
+  "weaknesses": [
+    "Khí Cực Hàn gây sát thương gián tiếp cả đồng minh; dù sát thương phe ta giảm 30%, vẫn có thể kích hoạt phản ứng bất lợi hoặc ép HP đội.",
+    "Khi {+Thiền Dực} mất, {−Sương Đông} trên mục tiêu cũng kết thúc; khiên lại biến mất trước đầu lượt của chính cô.",
+    "[Vĩnh Đông] cần 3 Quỷ Hỏa và không thể dùng tiếp khi phe địch đang có mục tiêu chịu {−Sương Đông}."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không phù hợp farm thường. Có thể dùng ở Bí Văn cần hồi sinh hoặc khóa một mục tiêu nguy hiểm, nhưng phải tính sát thương Khí Cực Hàn lên đội và không trông chờ Ngự Hồn khống chế thay cho {−Sương Đông}."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Giá trị PvP của 《Thiền Băng Tuyết Nữ》 nằm ở [Vĩnh Đông]: khóa một mục tiêu then chốt bằng {−Sương Đông}, đồng thời dùng {+Thiền Dực} để duy trì điều kiện khóa. Trong trận dài, cơ chế ngưng kết và [Tức Xuy] cho phép cô đưa nhiều đồng minh trở lại trận với đầy HP, tạo một lớp bảo hiểm rất khó thay thế.",
+        "Đối thủ có thể tập trung phá {+Thiền Dực} để giải phóng mục tiêu bị khóa, hoặc ép cô hành động sai thời điểm trước khi hồi sinh. Khí Cực Hàn còn gây sát thương gián tiếp lên cả đồng minh, nên đội yếu máu có thể tự rơi vào ngưỡng nguy hiểm. Cô là lựa chọn chiến thuật mạnh cho hậu thủ, nhưng cần đội hình đủ bền và người chơi quản lý đúng mục tiêu khóa."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Hỗ trợ tốc độ: 〈Chiêu Tài Miêu〉; Tốc độ – Công – Bạo kích/HP. Khiên tính theo Công, nên bộ thuần HP làm giảm độ dày {+Thiền Dực}.",
+        "Đội cần lửa hoặc khiên mở màn: 〈Hỏa Linh〉 hoặc 〈Bạng Tinh〉; Tốc độ – Công/HP – Bạo kích/HP. Không mặc định dùng 〈Tuyết U Hồn〉 vì {−Sương Đông} là hiệu ứng kỹ năng chắc chắn và sát thương gián tiếp không kích hoạt Ngự Hồn."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "蝉氷雪女の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/147864354316932576.html",
+      "usedFor": "đối chiếu Sương Đông, Thiền Dực, hồi sinh và các cách khắc chế"
+    },
+    {
+      "title": "蝉冰雪女技能图鉴与御魂阵容",
+      "publisher": "18183",
+      "url": "https://m.18183.com/yys/202104/3334809.html",
+      "usedFor": "đối chiếu Chiêu Tài/Bạng Tinh và cấu hình tốc độ hỗ trợ"
+    },
+    {
+      "title": "蝉冰雪女养成手册",
+      "publisher": "17173",
+      "url": "https://news.17173.com/z/yys/content/11232021/121036031.shtml",
+      "usedFor": "đối chiếu cơ chế ngưng kết, Băng Hoa và vận hành PvP"
+    },
+    {
+      "title": "SP蝉冰雪女技能机制全面解读与实战",
+      "publisher": "小琨爱小蛊 / Bilibili",
+      "url": "https://www.bilibili.com/video/BV1Mb4y197Gk/",
+      "usedFor": "đối chiếu cơ chế khóa mục tiêu, Thiền Dực và hồi sinh",
+      "publishedAt": "10/03/2021"
+    }
+  ]
+}

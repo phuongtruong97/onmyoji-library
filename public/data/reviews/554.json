@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 554,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ PvE/PvP hàng đầu nhờ cấp lượt thêm, giảm chi phí kỹ năng, hồi phục, Che Chắn và truyền Sát Thương Bạo Kích; cần tích Thần Lực và chỉnh đúng mục tiêu liên kết",
+  "summary": "《Phưởng Nguyện Duyên Kết Thần》 dùng [Thủ Duyên Nhẫn] tốn 1 Quỷ Hỏa để liên kết một đồng minh theo nhánh Xích hoặc Thanh; khi cô và mục tiêu kết thúc lượt, người còn lại được kéo 30% Thanh Hành Động. [Dữ Thế Kết Duyên] tốn 2 Quỷ Hỏa, hồi 8% HP tối đa, cho cô và mục tiêu {+Che Chắn}, cấp Quỷ Hỏa và một trong hai hiệu ứng: {+Trần Duyên · Xích} cho lượt mới cùng giảm 2 lửa, còn {+Trần Duyên · Thanh} xua debuff toàn đội và giảm 50% sát thương cho người mang.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 8.5,
+      "note": "Lượt thêm và giảm 2 Quỷ Hỏa giúp chủ lực dồn sát thương, nhưng lượt đầu trước 5 tầng vẫn có yếu tố 50%."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 10,
+      "note": "Tích đủ Thần Lực cho hồi toàn đội, cấp cả hai duyên và truyền tối đa 110% Sát Thương Bạo Kích."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 9,
+      "note": "Điều phối lượt, miễn đẩy, Che Chắn và chọn nhánh tấn công/phòng thủ rất linh hoạt."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 9,
+      "note": "Đa dụng, giá trị lâu dài và dùng được cả PvE lẫn PvP; cần nâng đủ kỹ năng."
+    }
+  ],
+  "strengths": [
+    "{+Trần Duyên · Xích} cho thêm một lượt sau khi kết thúc lượt và giảm 2 Quỷ Hỏa của yêu thuật trong lượt mới; không kích hoạt liên tiếp.",
+    "{+Trần Duyên · Thanh} xua một debuff/khống chế khỏi mọi đồng minh khác ở đầu lượt và cho người mang giảm 50% sát thương.",
+    "Hồi phục Bạo kích truyền 40% Sát Thương Bạo Kích của cô, tối đa 110%; từ 3 tầng {+Thần Lực} hồi thêm toàn đội, ở 5 tầng cấp đồng thời cả hai Trần Duyên."
+  ],
+  "weaknesses": [
+    "Trước 5 tầng {+Thần Lực}, [Dữ Thế Kết Duyên] chỉ có 50% cho từng màu nếu chưa khóa nhánh bằng [Thủ Duyên Nhẫn].",
+    "Cô miễn các thay đổi Thanh Hành Động từ mục tiêu khác, nên cũng không nhận kéo lượt từ đồng minh; phải chỉnh Tốc độ độc lập.",
+    "Lá chắn 8% HP tối đa chỉ xuất hiện nếu mục tiêu đang đúng 100% HP lúc được trị liệu, không phải chỉ cần lượng hồi bị dư."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Liên kết chủ lực bằng nhánh Xích để chắc chắn nhận {+Trần Duyên · Xích}, rồi dùng [Dữ Thế Kết Duyên]. Ở lượt mới, yêu thuật giảm 2 Quỷ Hỏa nên đặc biệt phù hợp chủ lực có kỹ năng đắt; lưu ý hiệu ứng không thể nối lượt vô hạn.",
+        "Muốn đạt trần tăng 110% Sát Thương Bạo Kích, cô cần ít nhất 275% Sát Thương Bạo Kích và lần hồi phải Bạo kích. Vì vậy cấu hình PvE thường phải đủ 100% Bạo kích trước, rồi mới dồn Sát Thương Bạo Kích."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Nhánh Xích dùng để tạo áp lực lượt thêm; nhánh Thanh dùng khi cần xua khống chế và bảo vệ mục tiêu. Thi triển lại [Thủ Duyên Nhẫn] lên mục tiêu đang liên kết sẽ gỡ liên kết đồng thời giải toàn bộ trạng thái tiêu cực và khống chế của họ, tạo một công cụ cứu mục tiêu quan trọng."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE tăng sát thương: 〈Hỏa Linh〉 hoặc ba bộ 2 món Bạo kích; Tốc độ/HP – HP – Bạo kích/Sát Thương Bạo Kích. Đạt 100% Bạo kích trước, sau đó hướng tới 275% Sát Thương Bạo Kích nếu muốn chạm trần buff 110%.",
+        "PvP: 〈Chiêu Tài Miêu〉 hoặc 〈Cộng Tiềm〉, Tốc độ – HP/Kháng – HP/Bạo kích. Chiêu Tài hỗ trợ chu kỳ dùng kỹ năng; Cộng Tiềm bổ sung xua debuff. 〈Bạng Tinh〉 dùng khi đội cần lá chắn mở trận."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "願紡縁結神の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/page/272404747653274353.html",
+      "usedFor": "đối chiếu hai loại Trần Duyên, kéo lượt, hồi phục, trần Sát Thương Bạo Kích và hạn chế lượt đầu"
+    },
+    {
+      "title": "纺愿缘结神御魂及队伍搭配推荐",
+      "publisher": "游民星空 / bilibili",
+      "url": "https://www.gamersky.com/handbooksy/202308/1639244.shtml",
+      "usedFor": "đối chiếu hướng xây dựng và vận hành đội PvE/PvP"
+    }
+  ]
+}

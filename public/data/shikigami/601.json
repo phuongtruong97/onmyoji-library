@@ -7,6 +7,7 @@
   },
   "rarity": "SSR",
   "tier": "SSR",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "此言切切，足以振聋发聩。"
       },
       "description": {
-        "vi": "[tips_11]. Trí hỏa không dứt, thấu tỏ vạn kiếp. Khi trên sân phe ta có [buff_6011_1], Tư Kim Thần nhận kỹ năng [skill_6014_1]; Mỗi khi trải qua 1 lượt, nếu đồng minh không thi triển yêu thuật, Tư Kim Thần nhận 1 tầng [buff_6012_1]; Khi [buff_6012_1] bị xóa bỏ, khiến người mang [buff_6011_1] có Tấn công cao nhất nhận 1 lượt hành động.",
-        "en": "[tips_11]. The Wisdom Flame never fades, seeing through every trial. When an ally has [buff_6011_1] on the field, Omoikane gains the skill [skill_6014_1]. For each turn where allies do not cast a skill, Omoikane gains 1 stack of [buff_6012_1]. When [buff_6012_1] is removed, the [buff_6011_1] bearer with the highest ATK gains an additional turn.",
+        "vi": "[tips_11] Trí hỏa không dứt, thấu tỏ vạn kiếp. Khi trên sân phe ta có [buff_6011_1], Tư Kim Thần nhận kỹ năng [skill_6014_1]; Mỗi khi trải qua 1 lượt, nếu đồng minh không thi triển yêu thuật, Tư Kim Thần nhận 1 tầng [buff_6012_1]; Khi [buff_6012_1] bị xóa bỏ, khiến người mang [buff_6011_1] có Tấn công cao nhất nhận 1 lượt hành động.",
+        "en": "[tips_11] The Wisdom Flame never fades, seeing through every trial. When an ally has [buff_6011_1] on the field, Omoikane gains the skill [skill_6014_1]. For each turn where allies do not cast a skill, Omoikane gains 1 stack of [buff_6012_1]. When [buff_6012_1] is removed, the [buff_6011_1] bearer with the highest ATK gains an additional turn.",
         "zh": "[tips_11]。智火无歇，勘破万劫。当友方场上存在[buff_6011_1]时，思金神获得技能「[skill_6014_1]；每经过1个回合，若友方未施放妖术，思金神获得1层[buff_6012_1]；[buff_6012_1]移除时，使攻击最高的[buff_6011_1]携带者获得1个回合。"
       },
       "upgrades": [

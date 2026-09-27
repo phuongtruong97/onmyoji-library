@@ -7,6 +7,7 @@
   },
   "rarity": "SR",
   "tier": "SR",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "嘘，你的恐惧，就是我的力量。"
       },
       "description": {
-        "vi": "[tips_11].\nNỗi sợ chỉ như hình với bóng, chỉ định 1 mục tiêu kẻ địch không phải vật triệu hồi, gắn lên kẻ đó 4 tầng [buff_3981_1], đồng thời tăng cho bản thân 50% Thanh Hành Động. Thiên Nghịch Mỗi gắn [buff_3981_1] lên tối đa 1 mục tiêu kẻ địch, và bản thân không chịu ảnh hưởng bởi hiệu ứng này.",
-        "en": "[tips_11].\nYou can never shake off your fear. Inflicts 4 [buff_3981_1] stacks on 1 non-summoned ally entity and raises her own Move Bar by 50%. Amanozako can inflict [buff_3981_1] on up to 1 enemy, and she herself cannot be affected by the effect.",
+        "vi": "[tips_11]\nNỗi sợ chỉ như hình với bóng, chỉ định 1 mục tiêu kẻ địch không phải vật triệu hồi, gắn lên kẻ đó 4 tầng [buff_3981_1], đồng thời tăng cho bản thân 50% Thanh Hành Động. Thiên Nghịch Mỗi gắn [buff_3981_1] lên tối đa 1 mục tiêu kẻ địch, và bản thân không chịu ảnh hưởng bởi hiệu ứng này.",
+        "en": "[tips_11]\nYou can never shake off your fear. Inflicts 4 [buff_3981_1] stacks on 1 non-summoned ally entity and raises her own Move Bar by 50%. Amanozako can inflict [buff_3981_1] on up to 1 enemy, and she herself cannot be affected by the effect.",
         "zh": "[tips_11]。\n恐惧只会如影随形，指定1名非召唤物的敌方目标，对其施加4层[buff_3981_1]，并增加自身50%行动条。天逆每最多对1名敌方目标施加[buff_3981_1]，且自身不会受此效果影响。"
       },
       "upgrades": [],

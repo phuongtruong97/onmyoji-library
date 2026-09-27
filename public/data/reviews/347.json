@@ -1,0 +1,81 @@
+{
+  "shikigamiId": 347,
+  "status": "reviewed",
+  "updatedAt": "24/09/2026",
+  "confidence": "high",
+  "verdict": "Hỗ trợ hồi máu và tăng sát thương ổn định cho PvE dài lượt; không còn là lựa chọn tối ưu nhất nhưng vẫn dễ ghép đội",
+  "summary": "《Duyên Kết Thần》 dùng [Thần Ban Lương Duyên] để hồi máu toàn đội, tăng 40% sát thương và ban bảo hộ cho một đồng minh. Khi tích đủ Duyên, cô bổ sung 30 Tốc độ cho đội và ở 7 tầng có thể cho mục tiêu được chúc phúc thêm lượt. Bộ kỹ năng vẫn hữu dụng trong boss, Bí Văn và tài khoản thiếu hỗ trợ cao cấp, dù tốc độ tích Duyên có yếu tố ngẫu nhiên và bản SP đã thay cô trong nhiều đội tối ưu.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 6.5,
+      "note": "Tăng sát thương ngay nhưng chưa kịp tích đủ Duyên trong trận rất ngắn."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 8.5,
+      "note": "Hồi máu, tăng sát thương, tăng Tốc độ và cấp thêm lượt khi đủ tầng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 6.5,
+      "note": "Đa dụng nhưng tích tầng thiếu ổn định và có nhiều hỗ trợ mới cạnh tranh."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 7.5,
+      "note": "Một nhân vật gánh cả hồi máu lẫn khuếch đại sát thương, dùng được ở nhiều PvE."
+    }
+  ],
+  "strengths": [
+    "[Thần Ban Lương Duyên] tăng 40% sát thương và hồi máu toàn đội ngay cả khi chưa đủ tầng.",
+    "Ở các mốc Duyên cao có thêm Tốc độ, lá chắn từ hồi máu dư và lượt hành động bổ sung.",
+    "Kết duyên thành công tạo thêm Quỷ Hỏa, giúp giảm áp lực vận hành đội."
+  ],
+  "weaknesses": [
+    "Tốc độ tích Duyên phụ thuộc kết quả kết duyên ngẫu nhiên, có thể chậm ở trận ngắn.",
+    "Cần nâng [Thần Ban Lương Duyên] đầy đủ để nhận trọn hiệu ứng hỗ trợ.",
+    "Trong nhiều đội tối ưu hiện đại, 《Phưởng Nguyện Duyên Kết Thần》 cho giá trị tập trung mục tiêu tốt hơn."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Cô phù hợp boss và nội dung dài lượt: dùng đại chiêu đều đặn để duy trì tăng sát thương và hồi phục, sau đó tận dụng mốc 7 Duyên để cho chủ lực thêm lượt. Đội đánh ngắn chỉ nhận phần tăng sát thương/hồi máu ban đầu nên hiệu suất thấp hơn.",
+        "Nếu đội thiếu Quỷ Hỏa, ưu tiên 〈Hỏa Linh〉 hoặc 〈Chiêu Tài Miêu〉. Nếu nguồn lửa đã ổn định, 〈Thụ Yêu〉 tăng hồi phục; 〈Bạng Tinh〉 hữu ích khi cần lá chắn mở trận."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Bảo hộ từ đại chiêu giúp một đồng minh chống hiệu ứng khống chế, còn hồi máu dư có thể chuyển thành lá chắn khi đã có Duyên. Tuy nhiên nội tại tích tầng có thể bị phong ấn và kết quả ngẫu nhiên khiến cô khó làm mắt xích duy nhất của chiến thuật."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "PvE mặc định: 〈Hỏa Linh〉 hoặc 〈Chiêu Tài Miêu〉; HP – HP – Bạo kích/HP. Có thể dùng Tốc độ ở vị trí 2 nếu cần cô hành động sớm; ưu tiên đủ Bạo kích khi muốn tối đa hồi phục.",
+        "Hồi phục/phòng thủ: 〈Thụ Yêu〉 hoặc 〈Bạng Tinh〉; Tốc độ/HP – HP – Bạo kích/HP. Không cần Hiệu quả chính xác vì cơ chế kết duyên không dựa trên chỉ số này."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "阴阳师SSR式神携带推荐",
+      "publisher": "中关村在线",
+      "url": "https://game.zol.com.cn/1140/11402434.html",
+      "usedFor": "đối chiếu vị trí sử dụng và các bộ Hỏa Linh, Chiêu Tài, Bạng Tinh hiện tại",
+      "publishedAt": "2026"
+    },
+    {
+      "title": "縁結神の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/縁結神.html",
+      "usedFor": "đối chiếu bộ ngự hồn, chỉ số và cơ chế tích Duyên"
+    }
+  ]
+}

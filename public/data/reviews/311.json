@@ -1,0 +1,88 @@
+{
+  "shikigamiId": 311,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "high",
+  "verdict": "Bộ kéo lượt có tốc cơ bản cao và sát thương gián tiếp, vẫn dùng được để tranh tốc nhưng cần quản lý mặt nạ để tránh loạn thứ tự",
+  "summary": "《Diện Linh Khí》 phát bảy mặt nạ bằng [Cấm Đoạn Chi Diện]: đồng minh mang {+Thiện Diện} được kéo 30% thanh hành động, sau khi họ hành động mặt nạ chuyển thành {−Ác Diện} trên kẻ địch. Cô có tốc cơ bản cao và sát thương gián tiếp không kích hoạt ngự hồn, phù hợp làm người kéo lượt đầu bằng tán kiện tốc độ cao. Sau lượt đầu, số đồng minh còn Thiện Diện thay đổi nên khả năng kéo không còn đồng đều và có thể làm loạn tốc.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 7,
+      "note": "Kéo 30% thanh và tốc cơ bản cao, tiện cho đội cần tranh lượt."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 6,
+      "note": "Có sát thương gián tiếp nhưng vận hành mặt nạ phức tạp hơn hỗ trợ thuần túy."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7.5,
+      "note": "Kéo 30% thanh với Tốc độ cơ bản cao, hợp đội tranh lượt đầu; về sau việc đổi {+Thiện Diện} thành {−Ác Diện} khiến thứ tự hành động khó giữ ổn định."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 6,
+      "note": "Dùng tốt nếu thiếu bộ kéo lượt nhanh, nhưng cần hiểu cơ chế mặt nạ."
+    }
+  ],
+  "strengths": [
+    "Tốc cơ bản cao và kéo 30% thanh hành động ở lượt mở đầu.",
+    "Mỗi {−Ác Diện} tăng Tốc độ và sát thương cho cô.",
+    "Sát thương gián tiếp không kích hoạt ngự hồn, không bị chia sẻ và không cần Hiệu quả chính xác để gắn dấu."
+  ],
+  "weaknesses": [
+    "Cô không thể nhận {+Thiện Diện} nên không tự kéo bản thân.",
+    "Từ lần dùng kỹ năng tiếp theo, không phải mọi đồng minh đều còn Thiện Diện, dễ loạn tốc.",
+    "Sát thương gián tiếp không kích hoạt các bộ ngự hồn tấn công như 〈Phá Thế〉 hay 〈Võng Thiết〉."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Dùng làm kéo lượt đầu cho farm, kết giới hoặc đội hai kéo. Nếu dùng làm sát thương gián tiếp trong sự kiện, cần đội giảm Phòng thủ về 0 và chọn chỉ số Công/Sát thương bạo kích thay vì trông chờ hiệu ứng ngự hồn tấn công."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "《Diện Linh Khí》 vẫn là lựa chọn tranh lượt đầu nhờ Tốc độ cơ bản cao và [Cấm Đoạn Chi Diện] kéo 30% thanh cho đồng minh mang {+Thiện Diện}. Cô phù hợp đội cần mở màn nhanh, sau đó để khống chế hoặc chủ lực giành quyền chủ động. Sát thương gián tiếp không kích hoạt ngự hồn của mục tiêu cũng cho cô một hướng gây áp lực phụ trong trận kéo dài.",
+        "Giới hạn lớn nhất nằm sau lượt mở đầu: đồng minh đã hành động sẽ chuyển mặt nạ thành {−Ác Diện} trên địch, nên lần kéo tiếp theo không còn tác động đồng đều và có thể phá thứ tự đã căn. Bản thân cô không nhận {+Thiện Diện}, vì vậy không tự kéo chính mình. Nếu thua tốc hoặc bị khóa trước khi tung kỹ năng, cô đóng góp ít hơn các hỗ trợ có bảo kê, giải khống chế hay tài nguyên."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Tranh lượt đầu: tán kiện Tốc độ cao nhất; vị trí 2 Tốc độ, các vị trí còn lại chọn viên có phụ Tốc độ cao nhất.",
+        "PvE sát thương gián tiếp: ba bộ 2 món Công/Bạo kích hoặc 〈Chiêu Tài Miêu〉; Công – Công – Sát thương bạo kích. Chỉ dùng khi đội có giảm Phòng thủ phù hợp."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "SSR面灵气御魂指南",
+      "publisher": "706游戏网",
+      "url": "https://dmg.706g.com/153/202607/56876.html",
+      "usedFor": "đối chiếu vai trò kéo lượt và ưu tiên Tốc độ hiện tại",
+      "publishedAt": "14/07/2026"
+    },
+    {
+      "title": "面灵气技能机制解说",
+      "publisher": "巴哈姆特",
+      "url": "https://forum.gamer.com.tw/Co.php?bsn=31078&sn=106912",
+      "usedFor": "xác minh loạn tốc, sát thương gián tiếp và ngự hồn không kích hoạt"
+    },
+    {
+      "title": "面灵气：斗技推拉条与面具机制",
+      "publisher": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1UKLNzmEsM/",
+      "usedFor": "đối chiếu kéo thanh, đổi mặt nạ và giới hạn sau lượt đầu",
+      "publishedAt": "20/04/2025"
+    }
+  ]
+}

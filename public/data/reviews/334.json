@@ -1,0 +1,80 @@
+{
+  "shikigamiId": 334,
+  "status": "reviewed",
+  "updatedAt": "25/09/2026",
+  "confidence": "medium",
+  "verdict": "Đấu sĩ PvP bảo hộ cả sau khi tử trận; đổi mạng lấy giảm sát thương và sóng AoE tăng dần, nhưng cần đồng đội sống lâu để tận dụng",
+  "summary": "《Kiêu Lãnh Hoang Xuyên Chi Chủ》 tích {+Hải Nộ} để tăng sát thương và Tốc độ, dùng [Kỹ Năng Trảm Hải Arakawa] gây sát thương đơn Cô Lập rồi cấp giảm sát thương cho đồng minh. Khi tử trận, anh không thể hồi sinh mà chuyển sang {+Sừng Sững Bất Diệt}: toàn đội được giảm sát thương, anh tiếp tục hành động bằng sóng AoE và hệ số tăng dần. Giá trị lớn nằm ở thế trận kéo dài sau khi hy sinh, nên cần ít nhất một đồng minh đủ bền để trận đấu chưa kết thúc.",
+  "ratings": [
+    {
+      "key": "pve-short",
+      "label": "PvE ngắn lượt",
+      "score": 3.5,
+      "note": "Cơ chế sau tử trận chậm và không phục vụ farm một lượt."
+    },
+    {
+      "key": "pve-long",
+      "label": "PvE dài lượt",
+      "score": 5,
+      "note": "Có giảm sát thương và đòn sau chết, nhưng thiếu hiệu suất so với hỗ trợ/boss DPS chuyên dụng."
+    },
+    {
+      "key": "pvp",
+      "label": "PvP",
+      "score": 7.5,
+      "note": "Cô Lập mục tiêu và tiếp tục bảo hộ–gây AoE sau chết, mạnh trong đội kéo dài giao tranh."
+    },
+    {
+      "key": "beginner",
+      "label": "Người chơi mới",
+      "score": 4.5,
+      "note": "Thiên PvP và cần đội hình bền cùng Ngự Hồn tốt; không nên ưu tiên đầu game."
+    }
+  ],
+  "strengths": [
+    "{+Hải Nộ} mỗi tầng tăng 20% sát thương và 30 Tốc, tối đa 3 tầng; đủ 3 tầng giúp đại chiêu tăng thêm 40% sát thương.",
+    "[Kỹ Năng Trảm Hải Arakawa] gây 335% Công, được xem là Cô Lập nên không thể chia sẻ/gánh sát thương.",
+    "Sau tử trận, {+Sừng Sững Bất Diệt} tiếp tục giảm sát thương toàn đội và gây AoE mỗi lượt; hệ số sóng tăng 120% qua tối đa 5 lần."
+  ],
+  "weaknesses": [
+    "Không thể hồi sinh sau khi chuyển sang {+Sừng Sững Bất Diệt}; nếu các đồng minh còn lại chết hết thì cơ chế sau chết không cứu được trận.",
+    "Sóng sau chết phụ thuộc tổng Công ban đầu của đồng minh nhưng bị giới hạn theo Công ban đầu của bản thân, nên đội quá thiên thủ sẽ thiếu sát thương.",
+    "Đại chiêu cần 3 Quỷ Hỏa; ở 3 tầng {+Hải Nộ} bản thân còn giảm 20% Phòng thủ."
+  ],
+  "sections": [
+    {
+      "title": "Vai trò trong PvE",
+      "paragraphs": [
+        "Không phải lựa chọn farm hoặc boss ưu tiên. Giảm sát thương và hồi đội khi tử trận có thể cứu một số ải khó, nhưng chiến thuật chủ động để anh chết thường chậm hơn các đội PvE chuẩn."
+      ]
+    },
+    {
+      "title": "Vai trò trong PvP",
+      "paragraphs": [
+        "Dùng đại chiêu Cô Lập để xử lý mục tiêu được bảo hộ, đồng thời tích {+Hải Nộ} qua [Xuyên Nộ]. Khi đồng minh chịu một đòn vượt 30% HP tối đa, anh được đẩy 50% thanh và giải/xóa một hiệu ứng khống chế, tối đa một lần mỗi lượt; điều này giúp sớm đạt 3 tầng trước khi hy sinh.",
+        "Trong kèo đội sốc sát thương, nguồn đề xuất 《Kiêu Lãnh Hoang Xuyên Chi Chủ》 ở lượt chọn cuối khi đối thủ tiếp tục cướp tốc. Vai trò tại đây là quân chuyển thế trận và duy trì áp lực sau khi có ca tử trận, không phải chủ lực mở màn."
+      ]
+    },
+    {
+      "title": "Ngự hồn tham khảo",
+      "paragraphs": [
+        "Tấn công chủ động: 〈Phá Thế〉; Công – Công – Sát thương bạo kích/Bạo kích, tận dụng Bạo kích cơ bản 20% nhưng vẫn phải đạt 100% Bạo kích.",
+        "Bảo hộ và chủ động nhận sát thương: 〈Thế Hồn〉; Tốc độ/Công – Công/HP – Bạo kích/HP tùy đội. Bộ này giúp chia sẻ đòn cho đồng minh và đẩy nhanh thế trận sau chết, nhưng phải giữ ít nhất một đồng minh sống lâu."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "驍浪荒川の主の評価・おすすめ御魂",
+      "publisher": "神ゲー攻略",
+      "url": "https://kamigame.jp/陰陽師/式神/驍浪荒川の主.html",
+      "usedFor": "đối chiếu cơ chế sau chết, yêu cầu đồng đội sống sót và sát thương phụ thuộc Công toàn đội"
+    },
+    {
+      "title": "SP骁浪荒川之主御魂搭配",
+      "publisher": "哔哩哔哩专栏",
+      "url": "https://www.bilibili.com/read/cv10114789/",
+      "usedFor": "đối chiếu Phá Thế/Thế Hồn và cách vận hành PvP"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
   },
   "rarity": "SP",
   "tier": "SP",
+  "sex": "m",
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
@@ -124,8 +125,8 @@
         "zh": "用灵魂拥抱这份欢欣。"
       },
       "description": {
-        "vi": "[tips_11]. Bẫy săn mồi được kích hoạt, thợ săn đứng quan sát ngoài lưới. Kỹ năng của kẻ địch sẽ ưu tiên chọn mục tiêu không phải Tu La Quỷ Đồng Hoàn, bản thân khi sở hữu [buff_3961_1] sẽ mất đi hiệu ứng này.\n[Thi triển] Đính kèm [buff_3962_1] cho mục tiêu kẻ địch, bản thân nhận 3 tầng [buff_3961_1]. Khi [Thi Triển] nếu bản thân không mang [buff_3961_1], bản thân tăng 40% thanh hành động.",
-        "en": "[tips_11]. Lays a hunting trap while the hunter stalks outside the web's reach. Enemies' skills prioritize targets other than Shura Kidomaru. He loses the effect when he has [buff_3961_1].\nActive skill: Inflicts [buff_3962_1] on 1 enemy and gains him 3 [buff_3961_1] stacks. If he doesn't have [buff_3961_1] while using the skill, raises his Move Bar by 40%.",
+        "vi": "[tips_11] Bẫy săn mồi được kích hoạt, thợ săn đứng quan sát ngoài lưới. Kỹ năng của kẻ địch sẽ ưu tiên chọn mục tiêu không phải Tu La Quỷ Đồng Hoàn, bản thân khi sở hữu [buff_3961_1] sẽ mất đi hiệu ứng này.\n[Thi triển] Đính kèm [buff_3962_1] cho mục tiêu kẻ địch, bản thân nhận 3 tầng [buff_3961_1]. Khi [Thi Triển] nếu bản thân không mang [buff_3961_1], bản thân tăng 40% thanh hành động.",
+        "en": "[tips_11] Lays a hunting trap while the hunter stalks outside the web's reach. Enemies' skills prioritize targets other than Shura Kidomaru. He loses the effect when he has [buff_3961_1].\nActive skill: Inflicts [buff_3962_1] on 1 enemy and gains him 3 [buff_3961_1] stacks. If he doesn't have [buff_3961_1] while using the skill, raises his Move Bar by 40%.",
         "zh": "[tips_11]。狩猎陷阱开启，猎人于罗网之外观望。敌方技能将优先选择修罗鬼童丸以外的目标，自身拥有[buff_3961_1]时失去该效果。\n【施放】对敌方目标附加[buff_3962_1]，自身获得3层[buff_3961_1]。施放时若自身未带有[buff_3961_1]，自身增加40%行动条。"
       },
       "upgrades": [

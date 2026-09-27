@@ -7,6 +7,7 @@
   },
   "rarity": "SR",
   "tier": "SR",
+  "sex": "",
   "level": 40,
   "maxLevel": 40,
   "statState": "EVOLVED",
@@ -124,8 +125,8 @@
         "zh": "哧，我已经记住你了！"
       },
       "description": {
-        "vi": "[tips_11]. Sau khi kết thúc lượt, nhận 1 tầng [buff_5711_1]. Khi thanh hành động của đồng minh bị đẩy lùi, Cận Tịch Cơ nhận 1 tầng [buff_5711_1] (tối đa kích hoạt 1 lần trong một lần hành động đơn lẻ), trị liệu lượng HP bằng 12% giới hạn HP của Cận Tịch Cơ cho mục tiêu đồng minh có tỷ lệ HP thấp nhất. Khi [buff_5711_1] đạt 5 tầng, giải trừ hoặc [tips_1] trạng thái khống chế của bản thân, đồng thời nhận 1 lượt mới. Khi bắt đầu chiến đấu, nhận 2 tầng Ám Sa.",
-        "en": "[tips_11]. At the end of the turn, gains 1 stack of [buff_5711_1]. When an ally's Move Bar is lowered, Tagitsuhime gains 1 stack of [buff_5711_1] (triggers once per action at most) and heals the ally with the lowest HP by 12% of Tagitsuhime's max HP. When [buff_5711_1] reaches 5 stacks, dispels or [tips_1]s all control effects from herself, and gains an additional turn. At the start of battle, gains 2 stacks of Dark Predation.",
+        "vi": "[tips_11] Sau khi kết thúc lượt, nhận 1 tầng [buff_5711_1]. Khi thanh hành động của đồng minh bị đẩy lùi, Cận Tịch Cơ nhận 1 tầng [buff_5711_1] (tối đa kích hoạt 1 lần trong một lần hành động đơn lẻ), trị liệu lượng HP bằng 12% giới hạn HP của Cận Tịch Cơ cho mục tiêu đồng minh có tỷ lệ HP thấp nhất. Khi [buff_5711_1] đạt 5 tầng, giải trừ hoặc [tips_1] trạng thái khống chế của bản thân, đồng thời nhận 1 lượt mới. Khi bắt đầu chiến đấu, nhận 2 tầng Ám Sa.",
+        "en": "[tips_11] At the end of the turn, gains 1 stack of [buff_5711_1]. When an ally's Move Bar is lowered, Tagitsuhime gains 1 stack of [buff_5711_1] (triggers once per action at most) and heals the ally with the lowest HP by 12% of Tagitsuhime's max HP. When [buff_5711_1] reaches 5 stacks, dispels or [tips_1]s all control effects from herself, and gains an additional turn. At the start of battle, gains 2 stacks of Dark Predation.",
         "zh": "[tips_11]。回合结束后，获得1层[buff_5711_1]。友方被击退行动条时，湍津姬获得1层[buff_5711_1]（单次行动内最多触发1次），为生命比例最低的友方目标治疗湍津姬生命上限12%的生命。[buff_5711_1]达到5层时，驱散或[tips_1]自身的控制状态，并获得一个新的回合。战斗开始时，获得2层暗鲨。"
       },
       "upgrades": [
