@@ -98,6 +98,16 @@ function BuildForm({ mode, language, set4Souls, set2Souls, shikigamiId, baseSpee
   const [submitting, setSubmitting] = useState(false);
   const [soulPicker, setSoulPicker] = useState<'set4' | 'set2' | null>(null);
   const [noteOpen, setNoteOpen] = useState(false);
+  const noteRef = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (!noteOpen) return;
+    const closeNoteOutside = (event: PointerEvent) => {
+      if (noteRef.current?.contains(event.target as Node)) return;
+      setNoteOpen(false);
+    };
+    document.addEventListener('pointerdown', closeNoteOutside);
+    return () => document.removeEventListener('pointerdown', closeNoteOutside);
+  }, [noteOpen]);
   const set = <K extends keyof Build>(key: K, value: Build[K]) => setBuild(current => ({ ...current, [key]: value }));
   const applyIndicator = (indicator: string) => setBuild(current => ({ ...current, indicator, ...(indicatorPresets[indicator] || {}) }));
   const setManualStats = (slot: 'slot2' | 'slot4' | 'slot6', value: string[]) => setBuild(current => ({ ...current, [slot]: value }));
@@ -134,7 +144,7 @@ function BuildForm({ mode, language, set4Souls, set2Souls, shikigamiId, baseSpee
     <div className="recommend-indicator"><b>Indicator</b><MultiChoice single value={[build.indicator]} options={indicators} onChange={value => applyIndicator(value[0])} /></div>
     <div className="recommend-main-stats"><b>{text.stats}</b><div>{(['slot2', 'slot4', 'slot6'] as const).map((slot, index) => <label key={slot}><span>{[2, 4, 6][index]}</span><MultiChoice value={build[slot]} options={slotOptions[slot]} onChange={value => setManualStats(slot, value)} /></label>)}</div></div>
     <SpeedRecommendation baseSpeed={baseSpeed} ceiling={speedCeiling} minValue={build.speedMin} maxValue={build.speedMax} onMinChange={value => set('speedMin', Math.min(Math.max(baseSpeed, value), build.speedMax - 1))} onMaxChange={value => set('speedMax', Math.max(build.speedMin + 1, Math.min(speedCeiling, value)))} />
-    <div className="recommend-note-wrap"><button type="button" className={`recommend-note-button ${build.recommendationNote ? 'has-note' : ''}`} onClick={() => setNoteOpen(value => !value)}><MessageSquareText />{language === 'vi' ? 'Ghi chú' : language === 'en' ? 'Note' : '备注'}{build.recommendationNote && <Check />}</button>{noteOpen && <div className="recommend-note-popover"><header><b>{language === 'vi' ? 'Ghi chú đề xuất' : 'Recommendation note'}</b><button type="button" onClick={() => setNoteOpen(false)}><X /></button></header><textarea autoFocus maxLength={180} value={build.recommendationNote} onChange={event => set('recommendationNote', event.target.value)} placeholder={language === 'vi' ? 'Ví dụ: ưu tiên tốc trước chí mạng…' : 'Add a short note…'} /><small>{build.recommendationNote.length}/180</small></div>}</div>
+    <div ref={noteRef} className="recommend-note-wrap"><button type="button" className={`recommend-note-button ${build.recommendationNote ? 'has-note' : ''}`} onClick={() => setNoteOpen(value => !value)}><MessageSquareText />{language === 'vi' ? 'Ghi chú' : language === 'en' ? 'Note' : '备注'}{build.recommendationNote && <Check />}</button>{noteOpen && <div className="recommend-note-popover"><header><b>{language === 'vi' ? 'Ghi chú đề xuất' : 'Recommendation note'}</b><button type="button" onClick={() => setNoteOpen(false)}><X /></button></header><textarea autoFocus maxLength={180} value={build.recommendationNote} onChange={event => set('recommendationNote', event.target.value)} placeholder={language === 'vi' ? 'Ví dụ: tốc trên 210, 50% kháng,..' : 'Example: over 210 SPD, 50% Effect RES,..'} /><small>{build.recommendationNote.length}/180</small></div>}</div>
     <label className="recommend-crit"><input type="checkbox" checked={build.fullCrit} onChange={event => set('fullCrit', event.target.checked)} /><span>{text.crit}</span></label>
     <button className="recommend-submit" disabled={submitting} onClick={submit}>{submitting ? '…' : text.save}</button>
     {message && <p className="recommend-message">{message}</p>}
