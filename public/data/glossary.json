@@ -4675,6 +4675,34 @@
     },
     "iconFile": "112.webp"
   },
+  "buff_tuyet": {
+    "kind": "buff",
+    "title": {
+      "vi": "Băng Ấn",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Giảm 40% Tốc Độ khởi điểm",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_khientuyet": {
+    "kind": "buff",
+    "title": {
+      "vi": "Sương Y Chi Hộ",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Vô hiệu hóa 1 lần các hiệu ứng: Áp Chế, Phong Ấn, Đóng Băng, Đóng Băng Sâu, Băng Sương hoặc Trục Xuất. Nếu mục tiêu có [buff_3675_1], Tuyết Đồng Tử sẽ mất Sương Y Chi Hộ và xóa bỏ [buff_3675_1] của mục tiêu đó.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
   "tips_113": {
     "kind": "tip",
     "title": {

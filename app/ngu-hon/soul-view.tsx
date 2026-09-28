@@ -17,10 +17,10 @@ type Soul = {
 type SoulCatalog = { count: number; souls: Soul[] };
 type Set2Filter = 'all' | 'ATK' | 'HP' | 'DEF' | 'HIT' | 'RES' | 'Crit' | 'Crit DMG' | 'special';
 
-const languages: { id: Language; label: string }[] = [
-  { id: 'vi', label: 'Tiếng Việt' },
-  { id: 'en', label: 'English' },
-  { id: 'zh', label: '中文' },
+const languages: { id: Language; label: string; title: string }[] = [
+  { id: 'vi', label: 'VN', title: 'Tiếng Việt' },
+  { id: 'en', label: 'EN', title: 'English' },
+  { id: 'zh', label: '中文', title: '中文' },
 ];
 
 function localized(value: Text3, language: Language) {
@@ -86,7 +86,7 @@ export default function SoulView() {
       <div className="brand-lockup soul-brand"><span>ONMYOJI • THƯ VIỆN NGỰ HỒN</span><strong>{catalog?.count || 70} Ngự hồn</strong></div>
       <nav className="section-nav"><a className="section-link" href="/">Thức thần</a><a className="section-link" href="/onmyoji">Âm Dương Sư</a><a className="section-link active" href="/ngu-hon">Ngự hồn</a><a className="section-link" href="/bondling">Khiết Linh</a></nav>
       <label className="searchbox soul-search"><Search size={18} /><input value={query} onChange={event => setQuery(event.target.value)} placeholder="Tìm tên Việt, Anh hoặc Trung" /></label>
-      <div className="language-tabs">{languages.map(item => <button key={item.id} className={language === item.id ? 'active' : ''} onClick={() => setLanguage(item.id)}>{item.label}</button>)}</div><DonateButton />
+      <div className="language-tabs">{languages.map(item => <button key={item.id} title={item.title} aria-label={item.title} className={language === item.id ? 'active' : ''} onClick={() => setLanguage(item.id)}>{item.label}</button>)}</div><DonateButton />
     </header>
 
     <section className={`soul-browser${selected ? ' detail-open' : ''}`}>

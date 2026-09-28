@@ -13,7 +13,7 @@ type GlossaryEntry = { kind: string; title: Text3; description: Text3; iconFile?
 
 const normalizeGlossaryToken = (value: string) => String(value || '').normalize('NFC').replace(/[·∙]/g, '•').replace(/\s+/g, ' ').trim();
 
-const languages: { id: Language; label: string }[] = [{ id: 'vi', label: 'Tiếng Việt' }, { id: 'en', label: 'English' }, { id: 'zh', label: '中文' }];
+const languages: { id: Language; label: string; title: string }[] = [{ id: 'vi', label: 'VN', title: 'Tiếng Việt' }, { id: 'en', label: 'EN', title: 'English' }, { id: 'zh', label: '中文', title: '中文' }];
 const statLabels: Record<string, Text3> = {
   atk: { vi: 'CÔNG', en: 'ATK', zh: '攻击' }, hp: { vi: 'MÁU', en: 'HP', zh: '生命' },
   def: { vi: 'THỦ', en: 'DEF', zh: '防御' }, speed: { vi: 'TỐC ĐỘ', en: 'SPD', zh: '速度' }, crit: { vi: 'CHÍ MẠNG', en: 'CRIT', zh: '暴击' },
@@ -81,6 +81,17 @@ export default function OnmyojiView() {
     });
   }, [selectedId]);
 
+  useEffect(() => {
+    if (!activeToken) return;
+    const closeOutside = (event: PointerEvent) => {
+      const target = event.target;
+      if (target instanceof Element && (target.closest('.glossary-popover') || target.closest('.game-token'))) return;
+      setActiveToken(null);
+    };
+    document.addEventListener('pointerdown', closeOutside);
+    return () => document.removeEventListener('pointerdown', closeOutside);
+  }, [activeToken]);
+
   const currentIndex = catalog?.characters.findIndex(item => item.id === selectedId) ?? -1;
   const move = (direction: -1 | 1) => {
     if (!catalog?.characters.length) return;
@@ -102,7 +113,7 @@ export default function OnmyojiView() {
       <div className="brand-lockup"><span>ONMYOJI • THƯ VIỆN NHÂN VẬT</span><strong>{catalog?.count || 6} Onmyoji</strong></div>
       <nav className="section-nav"><a className="section-link" href="/">Thức thần</a><a className="section-link active" href="/onmyoji">Âm Dương Sư</a><a className="section-link" href="/ngu-hon">Ngự hồn</a><a className="section-link" href="/bondling">Khiết Linh</a></nav>
       <label className="searchbox"><Search size={18} /><input value={query} onChange={event => { setQuery(event.target.value); setShowLibrary(true); }} placeholder="Tìm Onmyoji hoặc Champion" /></label>
-      <div className="language-tabs">{languages.map(item => <button key={item.id} className={language === item.id ? 'active' : ''} onClick={() => setLanguage(item.id)}>{item.label}</button>)}</div><DonateButton />
+      <div className="language-tabs">{languages.map(item => <button key={item.id} title={item.title} aria-label={item.title} className={language === item.id ? 'active' : ''} onClick={() => setLanguage(item.id)}>{item.label}</button>)}</div><DonateButton />
     </header>
 
     <aside className={`library-drawer ${showLibrary ? 'open' : ''}`}>

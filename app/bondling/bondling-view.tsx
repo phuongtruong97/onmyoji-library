@@ -10,12 +10,18 @@ type Rune = {id:number;order:number;name:Text3;levels:{level:number;text:Text3}[
 type RuneGroup = {onmyojiId:number;onmyojiName:string;runes:Rune[]};
 type Bondling = {id:number;order:number;name:Text3;bonusStat:string;bonusValue:string;forceName:Text3;forceDescription:Text3;assets:{chibiFile:string;fullImageFile:string}};
 type Data = {count:number;bondlings:Bondling[];runeGroups:RuneGroup[]};
-const languages:{id:Language;label:string}[]=[{id:'vi',label:'Tiếng Việt'},{id:'en',label:'English'},{id:'zh',label:'中文'}];
+const languages:{id:Language;label:string}[]=[{id:'vi',label:'VN'},{id:'en',label:'EN'},{id:'zh',label:'中文'}];
 
 function Art({file,label,kind}:{file:string;label:string;kind:'chibi'|'full'}) {
   const [bad,setBad]=useState(false); useEffect(()=>setBad(false),[file]);
   const src=file?`/bondlings/${kind}/${file}`:'';
   return <span className={`bondling-art ${kind} ${bad||!file?'missing':''}`}>{src&&!bad&&<img src={src} alt="" onError={()=>setBad(true)}/>}<PawPrint/><b>{label.slice(0,2).toUpperCase()}</b></span>;
+}
+
+function BonusIcon({stat}:{stat:string}) {
+  const normalized=stat.toUpperCase();
+  const icon=normalized==='DEF'?'def':normalized==='HP'?'hp':'atk';
+  return <span className={`bondling-stat-icon stat-${icon}`} aria-hidden="true"><img src={`/bondlings/icons/stat-${icon}.webp`} alt=""/></span>;
 }
 
 export default function BondlingView(){
@@ -32,7 +38,19 @@ export default function BondlingView(){
     <section className={`bondling-workspace ${showRunes?'runes-open':''}`}>
       <aside className="bondling-picker" id="bondling-catalog"><div className="bondling-title"><span>DANH SÁCH</span><strong>{visiblePets.length} Bondling</strong></div><div className="bondling-list">{visiblePets.map(x=><button key={x.id} className={x.id===pet.id?'selected':''} onClick={()=>setSelectedId(x.id)}><Art file={x.assets.chibiFile} label={x.name[language]||x.name.en} kind="chibi"/><span><strong>{x.name[language]||x.name.en}</strong><small>{x.bonusStat}</small></span></button>)}</div></aside>
       <section className="bondling-stage"><div className="bondling-stage-label"><span>KHẾ LINH #{pet.id}</span><h1>{pet.name[language]||pet.name.en}</h1></div><Art file={pet.assets.fullImageFile} label={pet.name[language]||pet.name.en} kind="full"/><button className="possible-rune-button" onClick={()=>setShowRunes(true)}><ChevronUp/>Thuật Ấn khả dụng</button></section>
-      <article className="bondling-info"><span className="eyebrow">THÔNG TIN KHẾ LINH</span><h2>{pet.forceName[language]||pet.forceName.en}</h2><div className="bondling-bonus"><b>{pet.bonusStat}</b><span>{pet.bonusValue||'Chưa có giá trị trong dữ liệu'}</span></div><div className="force-copy"><span>FORCE</span><p>{pet.forceDescription[language]||pet.forceDescription.en}</p></div></article>
+      <article className="bondling-info">
+        <section className="bondling-info-section">
+          <header><h2>Stat Bonuses</h2><span>Chỉ số cộng thêm</span></header>
+          <div className="bondling-bonus"><BonusIcon stat={pet.bonusStat}/><div><b>{pet.bonusStat}</b><span>{pet.bonusValue||'Chưa có giá trị trong dữ liệu'}</span></div></div>
+        </section>
+        <section className="bondling-info-section core-skill-section">
+          <header><h2>Core Skill</h2><span>Kỹ năng chính</span></header>
+          <div className="bondling-core-skill">
+            <span className="bondling-core-icon"><img src={`/bondlings/icons/core-${pet.id}.webp`} alt="" onError={event=>event.currentTarget.style.display='none'}/><PawPrint/></span>
+            <div className="force-copy"><h3>{pet.forceName[language]||pet.forceName.en}</h3><p>{pet.forceDescription[language]||pet.forceDescription.en}</p></div>
+          </div>
+        </section>
+      </article>
       <section className="rune-overlay" aria-hidden={!showRunes}><button className="rune-close" onClick={()=>setShowRunes(false)}><ChevronDown/><span>Thu bảng Thuật Ấn</span></button><div className="rune-panel"><header><div><span>POSSIBLE RUNES</span><h2>{group?.onmyojiName}</h2></div><button onClick={()=>setShowRunes(false)}><X/></button></header><nav>{data.runeGroups.map(g=><button key={g.onmyojiId} className={g.onmyojiId===group?.onmyojiId?'active':''} onClick={()=>{setGroupId(g.onmyojiId);setActiveRune(g.runes[0]?.id??null)}}>{g.onmyojiName}</button>)}</nav><div className="rune-content"><div className="rune-grid">{group?.runes.map((r,i)=><button key={r.id} className={r.id===rune?.id?'selected':''} onClick={()=>setActiveRune(r.id)}><span className="rune-icon">{r.iconFile&&<img src={`/skill-icons/${r.iconFile}`} alt="" onError={e=>e.currentTarget.style.display='none'}/>}<i>{i+1}</i></span><b>{r.name[language]||r.name.en}</b></button>)}</div>{rune&&<article className="rune-detail"><span>RUNE #{rune.id}</span><h3>{rune.name[language]||rune.name.en}</h3>{rune.levels.map(l=><div key={l.level}><b>Lv.{l.level}</b><p>{l.text[language]||l.text.en}</p></div>)}</article>}</div></div></section>
     </section>
   </main>;

@@ -16,7 +16,7 @@ type Hero = CatalogHero & { level: number; maxLevel: number; statState: string; 
 type GlossaryEntry = { kind: string; title: Text3; description: Text3; iconFile?: string };
 type Catalog = { count: number; heroes: CatalogHero[] };
 
-const languages: { id: Language; label: string }[] = [{ id: 'vi', label: 'Tiếng Việt' }, { id: 'en', label: 'English' }, { id: 'zh', label: '中文' }];
+const languages: { id: Language; label: string; title: string }[] = [{ id: 'vi', label: 'VN', title: 'Tiếng Việt' }, { id: 'en', label: 'EN', title: 'English' }, { id: 'zh', label: '中文', title: '中文' }];
 const tierOrder = ['Onmyoji', 'UR', 'SP', 'SSR', 'SR', 'R', 'N'];
 const secondaryLabels: Record<string, Text3> = {
   critDamage: { vi: 'SÁT THƯƠNG CHÍ MẠNG', en: 'CRIT DMG', zh: '暴击伤害' },
@@ -166,7 +166,7 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
       <div className="brand-lockup"><span>ONMYOJI • THƯ VIỆN THỨC THẦN</span><strong>{catalog?.count || 266} thức thần</strong></div>
       <nav className="section-nav"><a className="section-link active" href="/">Thức thần</a><a className="section-link" href="/onmyoji">Âm Dương Sư</a><a className="section-link" href="/ngu-hon">Ngự Hồn</a><a className="section-link" href="/bondling">Khế Linh</a></nav>
       <label className="searchbox"><Search size={18} /><input value={query} onChange={e => { setQuery(e.target.value); setShowLibrary(true); }} placeholder="Tìm tên Việt, Anh hoặc Trung" /></label>
-      <div className="language-tabs">{languages.map(l => <button key={l.id} className={language === l.id ? 'active' : ''} onClick={() => { setLanguage(l.id); setActiveToken(null); }}>{l.label}</button>)}</div><DonateButton />
+      <div className="language-tabs">{languages.map(l => <button key={l.id} title={l.title} aria-label={l.title} className={language === l.id ? 'active' : ''} onClick={() => { setLanguage(l.id); setActiveToken(null); }}>{l.label}</button>)}</div><DonateButton />
     </header>
     <aside className={`library-drawer ${showLibrary ? 'open' : ''}`}>
       <div className="library-heading"><div><b>Danh sách thức thần</b><small>{filtered.length} kết quả</small></div><button onClick={() => setShowLibrary(false)}><X /></button></div>
@@ -199,13 +199,13 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
           </div>}
           <div className={`shikigami-extra-panel soul-recommendation-panel ${showShikigamiExtras ? 'open' : ''}`} aria-hidden={!showShikigamiExtras}>
             <div className="shikigami-extra-title">{language === 'vi' ? 'Ngự Hồn Đề Xuất' : language === 'en' ? 'Recommended Souls' : '推荐御魂'}</div>
-            {showShikigamiExtras && <SoulRecommendationBuilder shikigamiId={hero.id} language={language} />}
+            {showShikigamiExtras && <SoulRecommendationBuilder shikigamiId={hero.id} language={language} baseSpeed={Number(hero.stats.find(item => item.key === 'speed')?.value) || 100} />}
           </div>
           <button className="skill-tray-handle shikigami-extra-handle" onClick={() => { setShowShikigamiExtras(value => !value); setShowVariants(false); setActiveToken(null); }} aria-expanded={showShikigamiExtras} aria-label={showShikigamiExtras ? 'Thu gọn giao diện Thức Thần 2' : 'Mở giao diện Thức Thần 2'}>{showShikigamiExtras ? <ChevronDown /> : <ChevronUp />}</button>
           <div className="skills-dock">{skillSlots.map((group, i) => { const selectedVariant = group.variants[Math.min(activeVariants[group.slot] || 0, group.variants.length - 1)]; return <button key={group.slot} className={i === activeSlot ? 'selected' : ''} onClick={() => { if (i === activeSlot && group.variants.length > 1) setShowVariants(v => !v); else { setActiveSlot(i); setShowVariants(group.variants.length > 1); } setActiveToken(null); }}><SkillIcon skill={selectedVariant} className={`skill-glyph glyph-${i % 3 + 1}`} fallback={group.slot} /><b>{selectedVariant.maxLevel}</b><small>{selectedVariant.name[language]}</small>{group.variants.length > 1 && <em className="variant-count">+{group.variants.length - 1}</em>}</button>})}</div>
         </section>
         <article className="skill-scroll shikigami-extra-host">
-          <SkillReportButton shikigamiId={hero.id} skillId={skill.id} skillName={skill.name[language]} />
+          {!showShikigamiExtras && <SkillReportButton shikigamiId={hero.id} skillId={skill.id} skillName={skill.name[language]} />}
           <header className="skill-heading"><SkillIcon skill={skill} className={`large-glyph glyph-${activeSlot % 3 + 1}`} fallback={currentSlot?.slot || activeSlot + 1} /><div><span>KỸ NĂNG CẤP TỐI ĐA • Lv.{skill.maxLevel}</span><h2>{skill.name[language]}</h2><p>{skill.intro[language]}</p></div>{skill.orbCost > 0 && <div className="orb-cost"><Flame size={18} />{skill.orbCost}</div>}</header>
           <div className="skill-body"><div className="skill-tags"><span>Chiến đấu</span><span>{skill.maxLevel > 1 ? 'Có thể nâng cấp' : 'Kỹ năng đặc biệt'}</span></div><p className="description"><RichText text={skill.description[language]} language={language} glossary={glossary} onToken={setActiveToken} /></p>{displayedUpgrades.length > 0 && <div className="upgrade-list"><h3>{language === 'vi' ? 'Hiệu quả nâng cấp' : language === 'en' ? 'Upgrade effects' : '升级效果'}</h3><p className="upgrade-note">{language === 'vi' ? 'Mô tả kỹ năng phía trên đã bao gồm tất cả các hiệu quả nâng cấp.' : language === 'en' ? 'The skill description above already includes all upgrade effects.' : '上方技能描述已包含全部升级效果。'}</p>{displayedUpgrades.map((u, index) => <div key={`${u.level}-${u.text.vi}-${u.text.en}-${u.text.zh}-${index}`}><b>Lv.{u.level}</b><p><RichText text={u.text[language]} language={language} glossary={glossary} onToken={setActiveToken} /></p></div>)}</div>}</div>
           <div className={`shikigami-extra-panel shikigami-review-panel ${showShikigamiExtras ? 'open' : ''}`} aria-hidden={!showShikigamiExtras}>
