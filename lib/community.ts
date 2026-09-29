@@ -62,7 +62,7 @@ export type SoulRecommendationInput = {
   slot_2_stat: string;
   slot_4_stat: string;
   slot_6_stat: string;
-  speed_min: number;
+  speed_min: number | null;
   speed_max: number | null;
   recommendation_note: string | null;
   requires_100_crit: boolean;

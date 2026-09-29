@@ -50,9 +50,11 @@ const indicatorPresets: Record<string, Pick<Build, 'slot2' | 'slot4' | 'slot6'>>
   Damage: { slot2: ['ATK%'], slot4: ['ATK%'], slot6: ['CRIT', 'CRIT DMG'] },
   ATK: { slot2: ['ATK%'], slot4: ['ATK%'], slot6: ['ATK%'] },
   HP: { slot2: ['HP%'], slot4: ['HP%'], slot6: ['HP%'] },
+  DEF: { slot2: ['DEF%'], slot4: ['DEF%'], slot6: ['DEF%'] },
   'DEF DMG': { slot2: ['DEF%'], slot4: ['DEF%'], slot6: ['CRIT', 'CRIT DMG'] },
   Speed: { slot2: ['SPD'], slot4: ['ATK%', 'DEF%', 'HP%', 'HIT', 'RES'], slot6: ['ATK%', 'DEF%', 'HP%', 'CRIT', 'CRIT DMG'] },
   CRIT: { slot2: ['ATK%', 'DEF%', 'HP%', 'SPD'], slot4: ['ATK%', 'DEF%', 'HP%', 'HIT', 'RES'], slot6: ['CRIT', 'CRIT DMG'] },
+  'CRIT DMG': { slot2: ['ATK%', 'DEF%', 'HP%', 'SPD'], slot4: ['ATK%', 'DEF%', 'HP%', 'HIT', 'RES'], slot6: ['CRIT DMG'] },
   'Effect HIT': { slot2: ['SPD'], slot4: ['HIT'], slot6: ['ATK%', 'DEF%', 'HP%', 'CRIT', 'CRIT DMG'] },
   'Effect RES': { slot2: ['SPD'], slot4: ['RES'], slot6: ['ATK%', 'DEF%', 'HP%', 'CRIT', 'CRIT DMG'] },
   'EFF HIT & RES': { slot2: ['SPD'], slot4: ['HIT', 'RES'], slot6: ['HP%'] },
@@ -124,7 +126,7 @@ function BuildForm({ mode, language, set4Souls, set2Souls, shikigamiId, baseSpee
         slot_2_stat: build.slot2.join(', '),
         slot_4_stat: build.slot4.join(', '),
         slot_6_stat: build.slot6.join(', '),
-        speed_min: build.speedMin,
+        speed_min: build.speedMin > baseSpeed ? build.speedMin : null,
         speed_max: build.speedMax >= speedCeiling ? null : build.speedMax,
         recommendation_note: build.recommendationNote.trim() || null,
         requires_100_crit: build.fullCrit,
@@ -156,7 +158,13 @@ function SpeedRecommendation({ baseSpeed, ceiling, minValue, maxValue, onMinChan
   const shownMin = minValue;
   const minPercent = ((minValue - baseSpeed) / (ceiling - baseSpeed)) * 100;
   const maxPercent = ((maxValue - baseSpeed) / (ceiling - baseSpeed)) * 100;
-  const summary = maxValue >= ceiling ? `Tốc > ${shownMin}` : `${shownMin} < Tốc < ${maxValue}`;
+  const summary = minValue === baseSpeed && maxValue >= ceiling
+    ? ''
+    : minValue === baseSpeed
+      ? `Tốc < ${maxValue}`
+      : maxValue >= ceiling
+        ? `Tốc > ${shownMin}`
+        : `${shownMin} < Tốc < ${maxValue}`;
   const quick = (value: number) => onMinChange(Math.min(Math.max(baseSpeed, value), maxValue - 1));
   return <div className="recommend-speed">
     <div className="recommend-speed-heading"><b>Tốc độ đề xuất</b><strong>{summary}</strong></div>
@@ -199,8 +207,9 @@ function CommunityRecommendations({ recommendations, souls, language, likes, onL
         <span className={`recommend-community-primary ${primary ? 'has-tooltip' : 'empty'}`} tabIndex={primary ? 0 : undefined} onMouseEnter={event => primary && showSoul(primary, event.currentTarget)} onMouseLeave={() => setHoveredSoul(null)} onFocus={event => primary && showSoul(primary, event.currentTarget)} onBlur={() => setHoveredSoul(null)}>{primary ? <img src={`/souls/portraits/${primary.assets.iconFile}`} alt={primary.name[language] || primary.name.vi} /> : <img className="empty-soul-flower" src="/ui-theme/empty-soul-flower.webp" alt="" />}</span>
         {(secondary || item.secondary_bonus) && <span className={`recommend-community-secondary ${secondary ? 'has-tooltip' : 'stat'}`} tabIndex={secondary ? 0 : undefined} onMouseEnter={event => secondary && showSoul(secondary, event.currentTarget)} onMouseLeave={() => setHoveredSoul(null)} onFocus={event => secondary && showSoul(secondary, event.currentTarget)} onBlur={() => setHoveredSoul(null)}>{secondary ? <img src={`/souls/portraits/${secondary.assets.iconFile}`} alt={secondary.name[language] || secondary.name.vi} /> : item.secondary_bonus}</span>}
       </div>
-      <div className="recommend-community-copy"><div><strong>{primary?.name[language] || (language === 'vi' ? 'Ngự Mix (Tán Kiện)' : language === 'en' ? 'Mixed Souls' : '散件御魂')}</strong>{(secondary || item.secondary_bonus) && <span> + {item.secondary_bonus || secondary?.name[language]}</span>}</div>{item.note && <em>{item.note}</em>}<small>2: {item.slot_2_stat} · 4: {item.slot_4_stat} · 6: {item.slot_6_stat}{item.requires_100_crit ? ' · 100% CRIT' : ''}</small>{item.speed_min && <small className="recommend-speed-summary">{item.speed_max ? `${item.speed_min} < Tốc < ${item.speed_max}` : `Tốc > ${item.speed_min}`}</small>}{item.recommendation_note && <small className="recommend-card-note">{item.recommendation_note}</small>}</div>
+      <div className="recommend-community-copy"><div><strong>{primary?.name[language] || (language === 'vi' ? 'Ngự Mix (Tán Kiện)' : language === 'en' ? 'Mixed Souls' : '散件御魂')}</strong>{(secondary || item.secondary_bonus) && <span> + {item.secondary_bonus || secondary?.name[language]}</span>}</div>{item.note && <em>{item.note}</em>}<small>2: {item.slot_2_stat} · 4: {item.slot_4_stat} · 6: {item.slot_6_stat}{item.requires_100_crit ? ' · 100% CRIT' : ''}</small>{(item.speed_min || item.speed_max) && <small className="recommend-speed-summary">{item.speed_min ? (item.speed_max ? `${item.speed_min} < Tốc < ${item.speed_max}` : `Tốc > ${item.speed_min}`) : `Tốc < ${item.speed_max}`}</small>}</div>
       <div className="recommend-actions"><span className="recommend-count" title={language === 'vi' ? 'Số lượt đề xuất' : 'Recommendation count'}>{total}</span><button className={`recommend-like ${like?.viewer_liked ? 'liked' : ''}`} disabled={like?.viewer_liked || liking === String(item.primary_soul_id ?? 0)} onClick={async () => { setLiking(String(item.primary_soul_id ?? 0)); try { await onLike(item.primary_soul_id); } finally { setLiking(null); } }} title={like?.viewer_liked ? 'Bạn đã thích đề xuất này' : 'Thêm một lượt đề xuất'} aria-label={like?.viewer_liked ? 'Đã thích' : 'Thích đề xuất'}><ThumbsUp /></button></div>
+      {item.recommendation_note && <small className="recommend-card-note">{item.recommendation_note}</small>}
     </article>;
   })}</div>}{hoveredSoul && <aside className="recommend-soul-tooltip" style={{ left: hoveredSoul.left, top: hoveredSoul.top }}>
     <header><img src={`/souls/portraits/${hoveredSoul.soul.assets.iconFile}`} alt="" /><div><small>NGỰ HỒN</small><strong>{hoveredSoul.soul.name[language] || hoveredSoul.soul.name.vi}</strong></div></header>
