@@ -1904,6 +1904,21 @@
           "portraitFile": "608.webp",
           "headIconFile": "608a.webp"
         }
+      },
+      {
+        "id": 609,
+        "name": {
+          "vi": "Tiếu Gia",
+          "en": "Sakuya",
+          "zh": "咲耶"
+        },
+        "rarity": "SSR",
+        "tier": "SSR",
+        "sex": "f",
+        "assets": {
+          "portraitFile": "609.webp",
+          "headIconFile": ""
+        }
       }
     ],
     "SR": [

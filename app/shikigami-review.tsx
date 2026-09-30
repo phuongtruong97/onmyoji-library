@@ -73,7 +73,7 @@ export default function ShikigamiReview({ shikigamiId, language }: { shikigamiId
   return <><button className="review-report-button" onClick={() => { setReportOpen(true); setReportMessage(''); }}><Flag /> Báo cáo</button>{loading ? <div className="review-empty"><span className="loader" /></div> : !review ? <div className="review-empty"><p>{t.empty}</p></div> : <div className="review-content">
     <section className="review-hero">
       <div className="review-meta"><div className="review-confidence-wrap"><span className={`review-confidence ${review.confidence}`}>{t.confidence}: {t[review.confidence]}</span><small><span>Đánh giá được tổng hợp bởi AI, độ tin cậy thấp.</span><span>Xin hãy tham khảo ý kiến từ cộng đồng.</span></small></div><time>{t.updated}: {review.updatedAt}</time></div>
-      <h3>{review.verdict}</h3>
+      <h3><ReviewText text={review.verdict} /></h3>
       <p><ReviewText text={review.summary} /></p>
     </section>
     <section className="review-ratings" aria-label="Điểm đánh giá">{review.ratings.map(item => <article key={item.key}>

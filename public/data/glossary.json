@@ -4771,7 +4771,7 @@
       "en": "Cannot be dispelled. Move Bar-changing effects are invalidated.",
       "zh": "无法被驱散，无法受到改变行动条的效果。"
     },
-    "iconFile": ""
+    "iconFile": "Debuff121.webp"
   },
   "tips_12": {
     "kind": "tip",
@@ -7180,5 +7180,47 @@
       "zh": ""
     },
     "iconFile": "Buff110.webp"
+  },
+  "buff_6092_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Sát Na",
+      "en": "Fleeting Moment",
+      "zh": "刹那"
+    },
+    "description": {
+      "vi": "Một khoảnh khắc tồn tại chốc lát, được tính là một lượt và chỉ có thể Đánh Thường. Với mỗi 15 điểm Tốc độ ban đầu của Sakuya, sát thương Đánh Thường của mục tiêu trong Sát Na tăng 2%.",
+      "en": "A brief instant treated as a turn in which only Normal Attacks can be used. For every 15 starting SPD Sakuya has, the target's Normal Attack damage during Fleeting Moment increases by 2%.",
+      "zh": "存在片刻的瞬间，视为回合，仅可普攻。咲耶每有15点初始速度，提升其中目标2%普攻伤害。"
+    },
+    "iconFile": "buff_6092_1.webp"
+  },
+  "buff_6092_2": {
+    "kind": "buff",
+    "title": {
+      "vi": "Khoảnh Khắc Cuối Cùng",
+      "en": "Final Moment",
+      "zh": "最后一瞬"
+    },
+    "description": {
+      "vi": "Trạng thái đặc biệt tồn tại với 1 HP, miễn nhiễm hiệu ứng khống chế và sát thương; biến mất khi Sát Na kết thúc.",
+      "en": "A special state that exists with 1 HP and is immune to controlling effects and damage. It disappears when Fleeting Moment ends.",
+      "zh": "以1点生命存在的特殊姿态，免疫控制效果和伤害，刹那结束后消失。"
+    },
+    "iconFile": ""
+  },
+  "buff_6093_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Dễ Vỡ",
+      "en": "Fragile",
+      "zh": "易碎"
+    },
+    "description": {
+      "vi": "Tối đa 8 tầng; trên sân địch chỉ có thể tồn tại trên tối đa 1 mục tiêu. Khi đơn vị mang bị tấn công, Phòng ngự giảm 280 điểm. Khi sát thương phải chịu vượt quá 300% Tấn Công ban đầu của Sakuya, xóa 1 tầng. Nếu đơn vị mang là quái vật, khi bị tấn công sẽ giảm 400 điểm Phòng ngự và vẫn xóa 1 tầng khi sát thương phải chịu vượt quá 3000% Tấn Công ban đầu của Sakuya.",
+      "en": "Debuff, mark. Max 8 stacks and only one enemy can carry it at a time. When the carrier is attacked, their DEF is reduced by 280. One stack is removed when damage taken exceeds 300% of Sakuya's starting ATK. If the carrier is a monster, DEF is reduced by 400 instead, and one stack is removed at the same damage threshold.",
+      "zh": "【减益，印记】上限8层，敌方场上至多存在1个。携带者被攻击时防御降低280点，受到伤害超过咲耶初始攻击300%时，移除1层（若携带者为怪物，则被攻击时防御降低400点，受到伤害超过咲耶初始攻击300%时移除）。"
+    },
+    "iconFile": "buff_6093_1.webp"
   }
 }

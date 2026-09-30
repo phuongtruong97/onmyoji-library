@@ -170,9 +170,9 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
     </header>
     <aside className={`library-drawer ${showLibrary ? 'open' : ''}`}>
       <div className="library-heading"><div><b>Danh sách thức thần</b><small>{filtered.length} kết quả</small></div><button onClick={() => setShowLibrary(false)}><X /></button></div>
-      {showLibrary && <><div className="rarity-filter">{rarities.map(r => <button key={r} className={rarity === r ? 'active' : ''} onClick={() => setRarity(r)}>{r}</button>)}</div>
+      {showLibrary && <><div className="rarity-filter">{rarities.map(r => <button key={r} className={rarity === r ? 'active' : ''} onClick={() => setRarity(r)} aria-label={r} title={r}>{r === 'Tất cả' ? r : <UiIcon kind="rarities" name={r} className="rarity-filter-icon" />}</button>)}</div>
       <div className="hero-list">{filtered.map(h => <button key={h.id} className={h.id === selectedId ? 'selected' : ''} onClick={() => { setNavDirection(0); setSelectedId(h.id); setShowLibrary(false); }}>
-        <span className="hero-thumb">{h.assets.headIconFile && <img src={`/head-icons/${h.assets.headIconFile}`} alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} />}<i>{h.rarity}</i></span>
+        <span className="hero-thumb-wrap"><span className="hero-thumb">{h.assets.headIconFile && <img src={`/head-icons/${h.assets.headIconFile}`} alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} />}</span><UiIcon kind="rarities" name={h.rarity} className="hero-rarity-icon" /></span>
         <span><strong>{h.name[language] || h.name.en || `#${h.id}`}</strong><small>{language === 'vi' ? h.name.en : h.name.vi} · #{h.id}</small></span>
       </button>)}</div></>}
     </aside>

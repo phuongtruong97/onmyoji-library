@@ -1,0 +1,232 @@
+{
+  "id": 609,
+  "name": {
+    "vi": "Tiếu Gia",
+    "en": "Sakuya",
+    "zh": "咲耶"
+  },
+  "rarity": "SSR",
+  "tier": "SSR",
+  "sex": "f",
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "EVOLVED",
+  "reviewStatus": "MOI_TU_GAME",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2948,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 11963,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 485,
+      "grade": "S"
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 120,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6091,
+      "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Thuấn Ảnh",
+        "en": "Flash Shadow",
+        "zh": "瞬影"
+      },
+      "intro": {
+        "vi": "Có theo kịp tốc độ của ta không?",
+        "en": "Can you keep up with my speed?",
+        "zh": "跟得上我的速度吗？"
+      },
+      "description": {
+        "vi": "Bất chấp tất cả lao về phía trước, tấn công mục tiêu địch 2 lần, mỗi lần gây sát thương bằng 62% Tấn Công.",
+        "en": "Charges forward without hesitation and attacks one enemy 2 times, dealing damage equal to 62% of ATK with each hit.",
+        "zh": "不顾一切地向前冲刺，攻击敌方目标2次，每次造成攻击62%伤害。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương mỗi lần tăng lên 52%.",
+            "en": "Damage per hit increases to 52%.",
+            "zh": "伤害增加至52%。"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương mỗi lần tăng lên 54%.",
+            "en": "Damage per hit increases to 54%.",
+            "zh": "伤害增加至54%。"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương mỗi lần tăng lên 56%.",
+            "en": "Damage per hit increases to 56%.",
+            "zh": "伤害增加至56%。"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương mỗi lần tăng lên 62%.",
+            "en": "Damage per hit increases to 62%.",
+            "zh": "伤害增加至62%。"
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6091.webp"
+    },
+    {
+      "id": 6092,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Sát Na Chi Hoa",
+        "en": "Momentary Blossom",
+        "zh": "刹那之花"
+      },
+      "intro": {
+        "vi": "Ta đã nhìn thấy mùa xuân vĩnh cửu nơi hoa anh đào trường tồn.",
+        "en": "I have seen the eternal spring of everlasting cherry blossoms.",
+        "zh": "我看见了，樱长万古之春。"
+      },
+      "description": {
+        "vi": "Sakuya trở về một khoảnh khắc trong quá khứ, khiến mục tiêu đồng minh bước vào [buff_6092_1]. Nếu thi triển lên đồng minh đã tử trận, mục tiêu bước vào [buff_6092_2]. Trong [buff_6092_1], sát thương Đánh Thường của mục tiêu được tăng theo Tốc độ ban đầu của Sakuya và mục tiêu Đánh Thường thêm 1 lần.",
+        "en": "Sakuya reaches a moment in the past, causing an ally to enter [buff_6092_1]. If cast on a fallen ally, the target enters [buff_6092_2]. During Fleeting Moment, the target gains Normal Attack damage based on Sakuya’s starting SPD and performs 1 additional Normal Attack.",
+        "zh": "咲耶抵达了过去的一瞬间，使友方目标进入1个[buff_6092_1]；若对阵亡友方施放，目标以[buff_6092_2]进入[buff_6092_1]。刹那中，目标的普攻伤害根据咲耶初始速度提升，并额外普攻1次。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tiêu hao Quỷ Hỏa giảm 1 điểm.",
+            "en": "Orb cost is reduced by 1.",
+            "zh": "消耗鬼火减少1点。"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Trong [buff_6092_1], hệ số tăng sát thương Đánh Thường tăng lên 1,5%.",
+            "en": "During Fleeting Moment, the Normal Attack damage bonus ratio increases to 1.5%.",
+            "zh": "刹那中，普攻伤害提升系数增至1.5%。"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Trong [buff_6092_1], hệ số tăng sát thương Đánh Thường tăng lên 2%.",
+            "en": "During Fleeting Moment, the Normal Attack damage bonus ratio increases to 2%.",
+            "zh": "刹那中，普攻伤害提升系数增至2%。"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Trong [buff_6092_1], Đánh Thường thêm 1 lần.",
+            "en": "During Fleeting Moment, performs 1 additional Normal Attack.",
+            "zh": "刹那中，额外普攻1次。"
+          }
+        }
+      ],
+      "orbCost": 2,
+      "iconFile": "6092.webp"
+    },
+    {
+      "id": 6093,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hổ Phách Ngưng Kết",
+        "en": "Condensed Amber",
+        "zh": "凝结之珀"
+      },
+      "intro": {
+        "vi": "Giọt sương ngưng tụ từ rừng cây, gom muôn vàn lợi ích của thế gian.",
+        "en": "A drop condenses from the forest, gathering the myriad blessings of this world.",
+        "zh": "滴由林来凝聚，这世间的万千利益。"
+      },
+      "description": {
+        "vi": "Gây [tips_117] và 2 tầng [buff_6093_1] lên mục tiêu địch chỉ định, duy trì 2 lượt; đồng thời tăng 20% Thanh Hành Động cho toàn bộ đồng minh.",
+        "en": "Inflicts [tips_117] and 2 stacks of [buff_6093_1] on one enemy for 2 turns, and advances the Move Bar of all allies by 20%.",
+        "zh": "对指定敌方目标施加[tips_117]与2层[buff_6093_1]，持续2回合，并为友方全体增加20%行动条。"
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "[tips_117] và [buff_6093_1] kéo dài 2 lượt.",
+            "en": "Grounded and Fragile last for 2 turns.",
+            "zh": "缚足和易碎持续时间增至2回合。"
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Lượng tăng Thanh Hành Động tăng lên 15%.",
+            "en": "Move Bar advancement increases to 15%.",
+            "zh": "行动条增加提升至15%。"
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "[buff_6093_1] tăng lên 2 tầng.",
+            "en": "Fragile increases to 2 stacks.",
+            "zh": "易碎增至2层。"
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Lượng tăng Thanh Hành Động tăng lên 20%.",
+            "en": "Move Bar advancement increases to 20%.",
+            "zh": "行动条增加提升至20%。"
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "6093.webp"
+    }
+  ],
+  "assets": {
+    "portraitFile": "609.webp",
+    "headIconFile": ""
+  }
+}
