@@ -167,6 +167,31 @@
       "iconFile": "5592.webp"
     },
     {
+      "id": 5594,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Hấp Phách",
+        "en": "",
+        "zh": "汲魄"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Bản Chân Tam Vĩ Hồ tiêu hao 1 tầng [buff_5593_1] tấn công 1 kẻ địch, gây sát thương bằng 168% Tấn Công. Khi tấn công cùng một mục tiêu, sát thương giảm 30%. Ba đòn đánh đầu tiên lên quái vật không tiêu hao Tâm Hỏa, thời gian hồi chiêu là 1 lượt.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5594.ng"
+    },
+    {
       "id": 5593,
       "number": 3,
       "variantOrder": 0,

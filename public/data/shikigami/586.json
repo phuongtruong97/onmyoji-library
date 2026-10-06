@@ -223,6 +223,31 @@
       ],
       "orbCost": 2,
       "iconFile": "5863.webp"
+    },
+    {
+      "id": 5864,
+      "number": 3,
+      "variantOrder": 1,
+      "parentSkillId": 5863,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Băng Sơn Chích Lạc",
+        "en": "Blazing Mountainfall",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "Đường dẫu xa xôi, núi biếc vẫn luôn kề cận.",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Vân Gian Bất Kiến Nhạc tấn công toàn bộ kẻ địch 3 lần, mỗi đòn gây sát thương tương đương 600% Phòng Ngự của bản thân (sát thương của mỗi đòn đánh từ kỹ năng này không vượt quá 20 lần Tấn Công ban đầu), sau đó kèm thêm 5 tầng [buff_5867_1]. Sau khi thi triển kỹ năng này lần đầu tiên, tăng vĩnh viễn 30% sát thương gây ra cho toàn bộ đồng minh.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5864.webp"
     }
   ],
   "assets": {

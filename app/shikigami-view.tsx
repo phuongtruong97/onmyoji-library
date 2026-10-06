@@ -113,10 +113,8 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
     const warmHero = (item: CatalogHero | undefined) => {
       if (!item) return;
       fetch(`/data/shikigami/${item.id}.json`, { cache: 'no-store' }).catch(() => {});
-      if (item.assets.portraitFile) {
-        const image = new Image();
-        image.src = `/portraits/${item.assets.portraitFile}`;
-      }
+      const image = new Image();
+      image.src = `/portraits/${item.id}.png`;
     };
     const timer = window.setTimeout(() => {
       warmHero(catalog.heroes[(currentIndex - 1 + catalog.heroes.length) % catalog.heroes.length]);
@@ -157,7 +155,10 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
       return true;
     });
   }, [skill]);
-  const picture = hero?.assets.portraitFile ? `/portraits/${hero.assets.portraitFile}` : '';
+  const picture = hero ? `/portraits/${hero.id}.png` : '';
+  const pictureFallback = hero?.assets.portraitFile && hero.assets.portraitFile !== `${hero.id}.png`
+    ? `/portraits/${hero.assets.portraitFile}`
+    : '';
 
   return <main className={`shiki-shell${previewTheme ? ' ui-asset-preview' : ''}`}>
     <div className="scene" aria-hidden="true" />
@@ -181,7 +182,7 @@ export default function ShikigamiView({ previewTheme = false }: { previewTheme?:
       <section className={`workspace hero-transition ${loading ? 'is-loading' : ''}`} aria-busy={loading}>
         <aside className="identity-panel">
           <UiIcon kind="rarities" name={hero.rarity} className="rarity" />
-          <div key={`picture-${animationKey}`} className={`character-frame hero-slide ${navDirection > 0 ? 'from-right' : navDirection < 0 ? 'from-left' : 'from-fade'}`}>{picture && <img src={picture} alt={hero.name[language]} decoding="async" fetchPriority="high" onError={e => { e.currentTarget.style.display = 'none'; e.currentTarget.parentElement?.classList.add('missing'); }} />}<div className="character-fade" /></div>
+          <div key={`picture-${animationKey}`} className={`character-frame hero-slide ${navDirection > 0 ? 'from-right' : navDirection < 0 ? 'from-left' : 'from-fade'}`}>{picture && <img src={picture} alt={hero.name[language]} decoding="async" fetchPriority="high" onError={e => { if (pictureFallback && e.currentTarget.dataset.fallback !== 'used') { e.currentTarget.dataset.fallback = 'used'; e.currentTarget.src = pictureFallback; return; } e.currentTarget.style.display = 'none'; e.currentTarget.parentElement?.classList.add('missing'); }} />}<div className="character-fade" /></div>
           <div className="identity-copy"><span>Thức thần #{hero.id}</span><h1>{hero.name[language]}</h1><p>{language === 'vi' ? hero.name.en : hero.name.vi}</p></div>
           <button className="switch-arrow left" onClick={() => moveHero(-1)}><ChevronLeft /></button><button className="switch-arrow right" onClick={() => moveHero(1)}><ChevronRight /></button>
         </aside>

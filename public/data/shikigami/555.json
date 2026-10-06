@@ -67,7 +67,7 @@
         "zh": "学过的弓术，我没有忘记喔。"
       },
       "description": {
-        "vi": "Ngưng tụ đầy tràn linh lực bắn tên, gây sát thương bằng 120% Tấn công. Tiêu hao [tips_5552] bằng 200% Tấn công ban đầu của bản thân và gây cho kẻ địch sát thương bằng [tips_5552] đã tiêu hao (Hiện tại [tips_5552] còn lại 0).",
+        "vi": "Ngưng tụ đầy tràn linh lực bắn tên, gây sát thương bằng 120% Tấn công. Tiêu hao [tips_5552] bằng 200% Tấn công ban đầu của bản thân và gây cho kẻ địch sát thương bằng [tips_5552] đã tiêu hao.",
         "en": "Unleashes an arrow brimming with spiritual force, dealing damage equal to 120% of her ATK. Then spends [tips_5552] equal to 200% of her ATK to inflict damage equal to the amount of [tips_5552] spent. (Current [tips_5552]: 0)",
         "zh": "凝聚满满的灵力射箭，造成攻击120%伤害。消耗自身初始攻击的200%[tips_5552]并对敌方造成所消耗[tips_5552]的伤害（当前[tips_5552]剩余0）。"
       },
