@@ -8,6 +8,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:cloudflare": "vite build",
+    "deploy:cloudflare": "wrangler deploy --config dist/server/wrangler.json",
     "start": "next start",
     "lint": "oxlint",
     "format": "oxfmt"
