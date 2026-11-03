@@ -2377,7 +2377,7 @@
       "en": "At the start of the turn, inflicts indirect damage equal to 10% of the inflicter's ATK. Each stack also inflicts [buff_99_1] III for 2 turns and increases indirect damage taken by 5%. At the end of the turn, 1 stack is removed. Can stack up to 5 times. Inflicting Burnt Leaf on a unit with 5 stacks will inflict [buff_3883_1] instead, lasting for 2 turns.",
       "zh": "回合开始前受到施加者攻击10%间接伤害。每层附加3级 [buff_99_1] 2回合并提升受到的间接伤害5%，回合结束后减少1层，上限5层。到达5层后再次附加叶烬时将施加 [buff_3883_1] ，持续2回合。"
     },
-    "iconFile": ""
+    "iconFile": "Indirect32.webp"
   },
   "buff_3883_1": {
     "kind": "buff",
@@ -2391,7 +2391,7 @@
       "en": "Reduces Move Bar-raising efficiency by 50%. When receiving an attack from Heartseeker Momiji, also takes indirect damage equal to 80% of her ATK. Cannot be dispelled. If Heartseeker Momiji inflicts it outside her turn, raises her Move Bar by 40%.",
       "zh": "行动条提升效果下降50%，被心狩鬼女红叶攻击时额外受到其攻击80%的间接伤害，无法被驱散。若在心狩鬼女红叶回合外施加时提升心狩鬼女红叶40%行动条。"
     },
-    "iconFile": ""
+    "iconFile": "Debuff79.webp"
   },
   "buff_3884_1": {
     "kind": "buff",
@@ -2405,7 +2405,7 @@
       "en": "When the unit takes damage, inflicts a stack of [buff_3882_1] on the attacker. Triggers up to once each turn.",
       "zh": "受到伤害时攻击者将被附加1层 [buff_3882_1] ，每个回合内最多触发1次。"
     },
-    "iconFile": ""
+    "iconFile": "Buff119.webp"
   },
   "buff_3885_1": {
     "kind": "buff",
@@ -2419,7 +2419,7 @@
       "en": "Max 2 stacks. Reduces by 1 stack after casting Leaf Blade during turn. Increases Indirect Damage taken by 20%, and reduces non-Indirect Damage taken by 20%.",
       "zh": "上限2层，回合内施放叶刃后减少1层。受到的间接伤害提升20%，受到的非间接伤害下降20%。"
     },
-    "iconFile": ""
+    "iconFile": "Buff118.webp"
   },
   "buff_3903_1": {
     "kind": "buff",
@@ -2433,7 +2433,7 @@
       "en": "Max 6 stacks. At the start of his turn, if he's under a controlling effect and has at least 3 Power of the Stars stacks, consumes 3 stacks to remove or dispel all controlling effects.",
       "zh": "上限6层。回合开始时，若自身处于控制状态且星辰之力不小于3层时，消耗3层解除或驱散所有控制效果。"
     },
-    "iconFile": ""
+    "iconFile": "Buff125.webp"
   },
   "buff_3912_1": {
     "kind": "buff",
@@ -5462,7 +5462,7 @@
   "tips_5513": {
     "kind": "tip",
     "title": {
-      "vi": "Khiên Triền",
+      "vi": "Triền Nhiễu",
       "en": "Vinebound",
       "zh": "牵缠"
     },
@@ -5471,7 +5471,7 @@
       "en": "Bound by vines. Prevents dealing damage and reduces Move Bar-raising effects received by 60%. Cannot be dispelled.",
       "zh": "被藤蔓牵缠，无法造成伤害，受到行动条提升效果下降60%，无法被驱散。"
     },
-    "iconFile": ""
+    "iconFile": "Debuff110.webp"
   },
   "tips_5523": {
     "kind": "tip",
@@ -7222,5 +7222,61 @@
       "zh": "【减益，印记】上限8层，敌方场上至多存在1个。携带者被攻击时防御降低280点，受到伤害超过咲耶初始攻击300%时，移除1层（若携带者为怪物，则被攻击时防御降低400点，受到伤害超过咲耶初始攻击300%时移除）。"
     },
     "iconFile": "buff_6093_1.webp"
+  },
+  "buff_5871_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Ảo Ảnh",
+      "en": "Mirage",
+      "zh": "幻影"
+    },
+    "description": {
+      "vi": "Hiệu ứng Biến hình của Sakura. Không thể hành động, kỹ năng bị động của thức thần mất hiệu lực, không thể giải trừ. \n[tips_11]: Mỗi khi kẻ địch bị Biến hình thành Ảo ảnh, tất cả đồng minh vĩnh viễn tăng 15 điểm xuyên phòng thủ.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": "Debuff132.webp"
+  },
+  "buff_5871_2": {
+    "kind": "buff",
+    "title": {
+      "vi": "Ma Lực",
+      "en": "Magical Power ",
+      "zh": "魔力"
+    },
+    "description": {
+      "vi": "Tối đa 5 tầng. Có thể tiêu hao tầng để Biến hình kẻ địch thành Ảo ảnh. Với mỗi tầng tiêu hao, bản thân nhận khiên bằng 4% Máu tối đa, duy trì trong 2 lượt.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_6101_1": {
+    "kind": "buff",
+    "title": {
+      "vi": "Tâm Vũ",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tối đa 5 tầng. Khi đạt giới hạn 5 tầng, xóa bỏ toàn bộ số tầng và ngay lập tức tự động xả chiêu [Vạn Phong Quân Lạc] hoàn toàn miễn phí vào mục tiêu địch có lượng máu thấp nhất.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_6101_2": {
+    "kind": "buff",
+    "title": {
+      "vi": "Tập Kích",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tối đa tích lũy 4 tầng. Mỗi tầng giúp tăng thêm 1 lần số đòn đánh đơn thể vào mục tiêu chỉ định",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
   }
 }

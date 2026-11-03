@@ -149,7 +149,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Sau khi [Thi triển] Thỏ Tử Vũ, khiến hiệu quả tăng tấn công của đồng minh ở vị trí cuối cùng của thanh hành động tăng đến 40%.",
+            "vi": "Sau Khi thi triển Thỏ Tử Vũ, khiến hiệu quả tăng tấn công của đồng minh ở vị trí cuối cùng của thanh hành động tăng đến 40%.",
             "en": "After she takes an action, the ally at the bottom of the turn order gains a 40% ATK increase from Bunny Dance.",
             "zh": "施放兔子舞后，使行动条最底端的友方提升攻击效果增至40%"
           }
@@ -218,7 +218,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "237.webp",
+    "portraitFile": "237.png",
     "headIconFile": "237a.webp"
   }
 }

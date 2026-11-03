@@ -1,0 +1,257 @@
+{
+  "id": 611,
+  "name": {
+    "vi": "Đại Thiên Cẩu · Cao Thiên Thiết Vũ",
+    "en": "",
+    "zh": "大天狗·高天铁羽"
+  },
+  "rarity": "UR",
+  "tier": "UR",
+  "sex": "m",
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "EVOLVED",
+  "reviewStatus": "MOI_TU_GAME",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 6136,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 12077,
+      "grade": "A"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 450,
+      "grade": "B"
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 116,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": 0.12,
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6111,
+      "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Kính Vũ",
+        "en": "",
+        "zh": "劲羽"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Dùng đôi cánh thép đập tan mọi rào cản, gây sát thương bằng 100% tấn công cho một mục tiêu chỉ định.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6111.webp"
+    },
+    {
+      "id": 6112,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tâm Vũ Chi Hựu",
+        "en": "",
+        "zh": "心羽之佑"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "[tips_11]\nPhi trên đường đua, thanh hành động của bản thân không thể bị khóa.\nThanh hành động mỗi khi tăng lên hoặc bị đẩy lùi 30%, nhận 1 tầng ấn ký [buff_6101_1]. Khi bị chịu hiệu ứng đẩy lùi thanh hành động, tăng 50% Tốc độ trong 2 lượt.\n[Thi triển] Tự tăng thanh hành động của bản thân thêm 30%, nhận 50% giảm sát thương trong 1 lượt, đồng thời hồi phục 30% lượng máu đã mất.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi khi nhận 1 tầng [buff_6101_1], tăng 10 điểm Tốc độ, tối đa tăng 100 điểm",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi khi nhận 1 tầng [buff_6101_1], tăng 10% tấn công.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi chịu hiệu ứng khống chế, nhận ngay 2 tầng [buff_6101_1]",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Khi thanh hành động của phe địch được tăng lên, nhận 1 tầng [buff_6101_1].",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "6112.webp"
+    },
+    {
+      "id": 6113,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Vạn Phong Quân Lạc",
+        "en": "",
+        "zh": "万风钧落"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Dùng đôi cánh thép đương đầu cuồng phong thịnh nộ, gây cho toàn thể phe địch lượng sát thương bằng 220% tấn công; sau đó liên tục tấn công bồi vào mục tiêu chỉ định 4 lần, mỗi lần gây 40% tấn công. \nSát thương gây ra lên Quái vật tăng 20%.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương đơn thể lên mục tiêu chỉ định tăng lên 50% mỗi đòn.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sau khi thi triển, tự kéo thanh hành động của bản thân thêm 15%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Nếu tiêu diệt được mục tiêu chỉ định, các đòn đánh đơn thể còn lại sẽ tiếp tục chuyển sang tấn công kẻ địch có lượng máu thấp nhất.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Mỗi khi nhận đủ 5 tầng [buff_6101_1], nhận thêm 2 tầng ấn ký [buff_6101_2].",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "6113.webp"
+    },
+    {
+      "id": 6114,
+      "number": 4,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Vũ Ảnh Tương Hợp",
+        "en": "",
+        "zh": "羽影相合"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Sát thương gánh chịu giảm 60%. Khi đến lượt hành động, cứ mỗi 3 lần gây sát thương lên Quái vật, gây thêm 1 lần [tips_28] bằng 180% tấn công.  \n[Liên Kết Chuyển Đổi] Chỉ có hiệu lực đối với các Thức thần phẩm giai khác được liên kết. Khi hoán đổi sang Đại Thiên Cẩu · Cao Thiên Thiết Vũ: Lúc xuất trận lập tức nhận 1 lượt hành động và 1 tầng [buff_6101_1]",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "6114.webp"
+    }
+  ],
+  "assets": {
+    "portraitFile": "611.png",
+    "headIconFile": "611a.webp"
+  }
+}

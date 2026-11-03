@@ -11,7 +11,7 @@
   "level": 40,
   "maxLevel": 40,
   "statState": "SP_NO_EVO",
-  "reviewStatus": "CHUA_KIEM_TRA",
+  "reviewStatus": "MOI_TU_GAME",
   "stats": [
     {
       "key": "atk",
@@ -226,7 +226,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "607.webp",
+    "portraitFile": "607.png",
     "headIconFile": "607a.webp"
   }
 }

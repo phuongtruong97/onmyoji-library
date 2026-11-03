@@ -183,7 +183,7 @@
         "zh": "原来我的族人还在身旁。"
       },
       "description": {
-        "vi": "Ngưng tụ linh thở của đồng tộc tấn công mục tiêu kẻ địch, gây sát thương bằng 228% Tấn công. Khi có [buff_5512_1], đính kèm thêm 40% hiệu ứng đẩy lùi Thanh Hành Động, nếu bị đẩy lùi đến cuối Thanh Hành Động, dây mây của rừng có 100% xác suất cơ bản khiến kẻ đó [tips_5513] 1 lượt. Khi có 1, 2 Sâm Chi Tâm, lần lượt có thể tấn công thêm 1, 2 mục tiêu kẻ địch ngẫu nhiên. Khi có 3 Sâm Chi Tâm, Trói Buộc chắc chắn trúng.",
+        "vi": "Ngưng tụ linh thở của đồng tộc tấn công mục tiêu kẻ địch, gây sát thương bằng 228% Tấn công. Khi có [buff_5512_1], đính kèm thêm 40% hiệu ứng đẩy lùi Thanh Hành Động, nếu bị đẩy lùi đến cuối Thanh Hành Động, dây mây của rừng có 100% xác suất cơ bản khiến kẻ đó [tips_5513] 1 lượt. Khi có 1, 2 tầng [buff_5512_1], lần lượt có thể tấn công thêm 1, 2 mục tiêu kẻ địch ngẫu nhiên. Khi có 3 tầng [buff_5512_1], [tips_5513] chắc chắn trúng.",
         "en": "Focuses the spiritual breath of his people to attack 1 enemy, dealing damage equal to 228% of his ATK. If he has a [buff_5512_1], also lowers their Move Bar by 40%; if their Move Bar reaches zero, Sylvan Vines has a 100% base chance of inflicting [tips_5513] lasting 1 turn on them. If he has 1 or 2 Sylvan Hearts, he can attack 1 or 2 additional enemies at random, respectively. If he has 3 Sylvan Hearts, he's guaranteed to inflict Vinebound.",
         "zh": "凝聚族人之灵息攻击敌方目标，造成攻击228%伤害。拥有[buff_5512_1]时，附加40%行动条击退效果，若被击退至行动条末端，森之藤蔓有100%基础概率将其[tips_5513]1个回合。拥有1个、2个森之心时，分别可额外攻击1个、2个随机敌方目标。拥有3个森之心时，牵缠必定命中。"
       },
@@ -215,7 +215,7 @@
         {
           "level": 5,
           "text": {
-            "vi": "Khi có 3 Sâm Chi Tâm, Trói Buộc chắc chắn trúng",
+            "vi": "Khi có 3 Sâm Chi Tâm, Triền Nhiễu chắc chắn trúng",
             "en": "If he has 3 Sylvan Hearts, he's guaranteed to inflict Vinebound.",
             "zh": "拥有3个森之心时，牵缠必定命中"
           }
@@ -226,7 +226,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "551.webp",
+    "portraitFile": "551.png",
     "headIconFile": "551a.webp"
   }
 }

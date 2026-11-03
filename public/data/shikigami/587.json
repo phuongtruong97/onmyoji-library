@@ -1,0 +1,307 @@
+{
+  "id": 587,
+  "name": {
+    "vi": "Sakura Kinomoto",
+    "en": "Sakura Kinomoto",
+    "zh": "木之本樱"
+  },
+  "rarity": "SSR",
+  "tier": "SSR",
+  "sex": "f",
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "EVOLVED",
+  "reviewStatus": "MOI_TU_GAME",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 3055,
+      "grade": "S"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 10709,
+      "grade": "B"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 406,
+      "grade": "B"
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 115,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "30%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 5871,
+      "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Tật Phong",
+        "en": "Gale ",
+        "zh": "疾风"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Sakura tấn công một mục tiêu đơn thể, gây sát thương tương đương 100% Công. \n(Khi Sakura mặc skin bậc 3, kỹ năng này sẽ chuyển thành [The Windy - Phong].)",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "5871.webp"
+    },
+    {
+      "id": 5874,
+      "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Phong",
+        "en": "The Windy",
+        "zh": "風"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Sakura tấn công một mục tiêu đơn thể, gây sát thương tương đương 100% Công. \n(Khi Sakura mặc skin bậc 1 hoặc bậc 2, kỹ năng này sẽ chuyển thành [Gale - Cuồng Phong].)",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5874.webp"
+    },
+    {
+      "id": 5872,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Ảo Ảnh",
+        "en": "Mirage ",
+        "zh": "幻影"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "[tips_11] Khi bắt đầu trận chiến và khi đến lượt của Sakura, bản thân nhận 5 tầng [buff_5871_2]. Bất cứ khi nào đồng minh tấn công kẻ địch có lượng Máu dưới 65% Máu ban đầu, Sakura tiêu hao 1 tầng [buff_5871_2] để sử dụng thẻ bài [The Dream - Giấc Mơ] và có 20% Tỷ lệ cơ bản Biến Hình mục tiêu thành [buff_5871_1], duy trì trong 1 lượt. \n(Khi Sakura mặc skin bậc 3, kỹ năng này sẽ chuyển thành [The Dream].)",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Tỷ lệ cơ bản tăng lên 22%.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "[buff_5871_1]: Xuyên phòng thủ tăng lên 20.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Tỷ lệ cơ bản tăng lên 25%.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu mục tiêu là quái vật, tỷ lệ cơ bản tăng lên 50%.",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 0,
+      "iconFile": "5872.webp"
+    },
+    {
+      "id": 5875,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Mộng",
+        "en": "The Dream",
+        "zh": "梦"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "[tips_11] Khi bắt đầu trận chiến và khi đến lượt của Sakura, nhận 5 tầng [buff_5871_2]. Mỗi khi đồng minh tấn công kẻ địch có lượng Máu dưới 65% Máu ban đầu, Sakura tiêu hao 1 tầng [buff_5871_2] để dùng lá bài The Dream, có 20% Tỷ lệ cơ bản Biến Hình mục tiêu thành [buff_5871_1], duy trì trong 1 lượt. \n(Khi Sakura mặc skin bậc 1 hoặc bậc 2, kỹ năng này sẽ chuyển thành [Mirage].)",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "5875.webp"
+    },
+    {
+      "id": 5873,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hỏa Diệm",
+        "en": "Blaze ",
+        "zh": "火焰"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Sakura tấn công toàn bộ kẻ địch 2 lần, mỗi đòn gây sát thương tương đương 105% Công. Sau đó, dùng lá bài The Dream với 50% Tỷ lệ cơ bản Biến Hình mục tiêu được chọn thành [buff_5871_1], duy trì trong 1 lượt. \n(Khi Sakura mặc skin bậc 3, kỹ năng này sẽ chuyển thành [The Firey].)",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 145%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Nếu kẻ địch bị Biến Hình thành [buff_5871_1], hệ số sát thương được tăng thêm 50%.",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "5873.webp"
+    },
+    {
+      "id": 5876,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Hỏa Diệm",
+        "en": "The Firey",
+        "zh": "火"
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Sakura tấn công toàn bộ kẻ địch 2 lần, mỗi đòn gây sát thương tương đương 105% Công. Sau đó, dùng lá bài The Dream với 50% Tỷ lệ cơ bản Biến Hình mục tiêu được chọn thành [buff_5871_1], duy trì trong 1 lượt. \n(Khi Sakura mặc skin bậc 1 hoặc bậc 2, kỹ năng này sẽ chuyển thành [Blaze].)",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 3,
+      "iconFile": "5876.webp"
+    }
+  ],
+  "assets": {
+    "portraitFile": "587.png",
+    "headIconFile": "587a.webp"
+  }
+}

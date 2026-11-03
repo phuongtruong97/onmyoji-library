@@ -208,7 +208,7 @@
         "zh": "这血肉之躯筑造的王座，会越来越高。"
       },
       "description": {
-        "vi": "Tấn công toàn thể kẻ địch, gây sát thương 159%, đồng thời hồi phục lượng HP bằng 100% tấn công cho bản thân và 1 đồng minh có tỷ lệ HP thấp nhất khác. Khi [Thi Triển] trong lượt, gây thêm 2 lần sát thương lên kẻ địch bị áp đặt Kim Liên.\nKhi Kim Liên bị áp đặt biến mất, giải trừ hoặc [tips_1] hiệu ứng khống chế của bản thân, không tốn tiêu hao [Thi Triển] 1 lần [Sát Na Liên Hoa Trảm] không kích hoạt Ngự Hồn và bị động của toàn thể kẻ địch, nhưng sát thương và hồi phục giảm 40%",
+        "vi": "Tấn công toàn thể kẻ địch, gây sát thương 159%, đồng thời hồi phục lượng HP bằng 100% tấn công cho bản thân và 1 đồng minh có tỷ lệ HP thấp nhất khác. Khi thi triển trong lượt, gây thêm 2 lần sát thương lên kẻ địch bị áp đặt Kim Liên.\nKhi Kim Liên bị áp đặt biến mất, giải trừ hoặc [tips_1] hiệu ứng khống chế của bản thân, không tốn tiêu hao [Thi Triển] 1 lần [Sát Na Liên Hoa Trảm] không kích hoạt Ngự Hồn và bị động của toàn thể kẻ địch, nhưng sát thương và hồi phục giảm 40%",
         "en": "Attacks all enemies, dealing damage equal to 159% of his ATK and recovering the HP of himself and the ally with the lowest proportion of HP each by 100% of his ATK. Using the skill on his turn also inflicts damage to the enemy with Golden Lotus twice.\nWhen the inflicted Golden Lotus disappears, dispels or [tips_1] all control effects on him and uses an Instant Lotus Bloom for no orb cost. The damage doesn't trigger the Soul-set effects and passive skills of all enemies, and instead deals 40% less damage and recovers 40% less HP.",
         "zh": "攻击敌方全体，造成攻击159%伤害，并为自身和另一生命比例最低的友方恢复攻击100%的生命。回合内施放时，对被施加金莲的敌方额外造成2次伤害。\n施加的金莲消失时，驱散或[tips_1]自身控制效果，免消耗施放1次不触发敌方全体御魂及被动的[刹那莲华绽放]，但伤害和恢复降低40%"
       },
@@ -251,7 +251,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "363.webp",
+    "portraitFile": "363.png",
     "headIconFile": "363a.webp"
   }
 }

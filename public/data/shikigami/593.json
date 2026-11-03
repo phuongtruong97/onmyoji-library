@@ -241,7 +241,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "Sát thương gánh chịu giảm 40%; nếu không ở [tips_17], khi chịu hiệu quả khống chế có 50% xác suất miễn nhiễm. Khi kích hoạt hiệu quả này sẽ phản công (giới hạn 1 lần mỗi hiệp)\n【Chuyển Đổi Liên Kết】Chỉ có hiệu lực đối với các Thức thần phẩm giai khác được liên kết. Có thể thi triển sau khi bất kỳ mục tiêu không phải vật triệu hồi nào tử trận. Chuyển đổi thành Yêu Đao Cơ · Phi Dạ Liệp Nhận được liên kết, khi ra trận nhận 1 hiệp, tăng 100% sát thương bạo kích và lập tức gắn [buff_5931_1] cho mục tiêu địch có HP thấp nhất.",
+        "vi": "Sát thương gánh chịu giảm 40%; nếu không ở [tips_17], khi chịu hiệu quả khống chế có 50% xác suất miễn nhiễm. Khi kích hoạt hiệu quả này sẽ phản công (giới hạn 1 lần mỗi hiệp)\n[Liên kết chuyển đổi] Chỉ có hiệu lực đối với các Thức thần phẩm giai khác được liên kết. Có thể thi triển sau khi bất kỳ mục tiêu không phải vật triệu hồi nào tử trận. Chuyển đổi thành Yêu Đao Cơ · Phi Dạ Liệp Nhận được liên kết, khi ra trận nhận 1 hiệp, tăng 100% sát thương bạo kích và lập tức gắn [buff_5931_1] cho mục tiêu địch có HP thấp nhất.",
         "en": "Damage taken reduces by 40%. If not under [tips_17], has a 50% chance of immunity to control effects. When this effect triggers, Counters attack (once per turn).\n[Link Switch] Only effective for the linked shikigami of other tiers. Can be cast when any non-summoned entity target is KO'd. Switches to the linked Yoto Hime, Scarlet Nightedge, gaining 1 turn upon entering the field, increasing Crit DMG by 100%, and immediately inflicts [buff_5931_1] on the enemy with the lowest HP.",
         "zh": "受到的伤害降低40%；若未处于[tips_17]，受到控制效果时50%概率免疫。触发此效果时反击（每个回合限1次)。\n【联结切换】仅对被联结的其他品阶式神生效。任意非召唤物目标阵亡后可施放。切换为联结的妖刀姬·绯夜猎刃，登场时获得1个回合、提升100%暴击伤害并立即对生命最低的敌方施加[buff_5931_1]。"
       },
@@ -251,7 +251,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "593.webp",
+    "portraitFile": "593.png",
     "headIconFile": "593a.webp"
   }
 }

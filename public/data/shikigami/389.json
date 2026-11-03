@@ -149,7 +149,7 @@
         {
           "level": 4,
           "text": {
-            "vi": "Khi [Thi triển] [skill_3894_1], Susanoo nhận khiên lôi bằng 49% tấn công, duy trì 2 lượt, tối đa cộng dồn 2 tầng.",
+            "vi": "Khi thi triển [skill_3894_1], Susanoo nhận khiên lôi bằng 49% tấn công, duy trì 2 lượt, tối đa cộng dồn 2 tầng.",
             "en": "When using Heavenly Might, Susanoo gains a Thunder Aegis, absorbing damage equal to 49% of his ATK and lasting 2 turns. Stacks up to 2 times.",
             "zh": "施放[天威]时，须佐之男获得攻击49%的雷盾，持续2个回合，最多可叠加2层"
           }
@@ -251,7 +251,7 @@
     }
   ],
   "assets": {
-    "portraitFile": "389.webp",
+    "portraitFile": "389.png",
     "headIconFile": "389a.webp"
   }
 }
