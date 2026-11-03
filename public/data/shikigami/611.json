@@ -16,7 +16,7 @@
     {
       "key": "atk",
       "label": "CÔNG",
-      "value": 6136,
+      "value": 3136,
       "grade": "S"
     },
     {
@@ -40,7 +40,7 @@
     {
       "key": "crit",
       "label": "CHÍ MẠNG",
-      "value": 0.12,
+      "value": "12%",
       "grade": "S"
     }
   ],
