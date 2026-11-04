@@ -807,6 +807,21 @@
           "portraitFile": "607.png",
           "headIconFile": "607a.webp"
         }
+      },
+      {
+        "id": 612,
+        "name": {
+          "vi": "Lung Mộng Họa Tân Thần",
+          "en": "",
+          "zh": "笼梦祸津神"
+        },
+        "rarity": "SP",
+        "tier": "SP",
+        "sex": "f",
+        "assets": {
+          "portraitFile": "612.png",
+          "headIconFile": ""
+        }
       }
     ],
     "SSR": [

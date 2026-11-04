@@ -1,0 +1,232 @@
+{
+  "id": 612,
+  "name": {
+    "vi": "Lung Mộng Họa Tân Thần",
+    "en": "",
+    "zh": "笼梦祸津神"
+  },
+  "rarity": "SP",
+  "tier": "SP",
+  "sex": "f",
+  "level": 40,
+  "maxLevel": 40,
+  "statState": "SP_NO_EVO",
+  "reviewStatus": "CHUA_KIEM_TRA",
+  "stats": [
+    {
+      "key": "atk",
+      "label": "CÔNG",
+      "value": 2760,
+      "grade": "A"
+    },
+    {
+      "key": "hp",
+      "label": "MÁU",
+      "value": 14811,
+      "grade": "S"
+    },
+    {
+      "key": "def",
+      "label": "THỦ",
+      "value": 472,
+      "grade": "A"
+    },
+    {
+      "key": "speed",
+      "label": "TỐC ĐỘ",
+      "value": 114,
+      "grade": "S"
+    },
+    {
+      "key": "crit",
+      "label": "CHÍ MẠNG",
+      "value": "10%",
+      "grade": "S"
+    }
+  ],
+  "secondaryStats": {
+    "critDamage": "150%",
+    "effectHit": "0%",
+    "effectRes": "0%"
+  },
+  "skills": [
+    {
+      "id": 6121,
+      "number": 1,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Họa Triệu",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Gieo rắc sức mạnh tai họa, gây sát thương bằng 100% Tấn công.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 105%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 110%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 115%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sát thương tăng lên 125%",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "6121.webp"
+    },
+    {
+      "id": 6122,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Họa Kiển Kết Thành",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Hiệu ứng duy nhất. Bắt đầu hiệp, tự động giải trừ hiệu ứng khống chế của bản thân. Khi một đồng minh kích hoạt [buff_6124], Họa Tân Thần nhận 2 tầng [buff_6121].\n[Thi triển] Chỉ định 1 đồng minh (trừ bản thân) nhận 2 lần [buff_6124] và gắn ấn ký [buff_6122] lên mục tiêu đó, duy trì 3 hiệp.",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Khi thi triển, bản thân và mục tiêu nhận khiên [buff_6125], duy trì 2 hiệp.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Khi [buff_6122] bị xóa bỏ, kích hoạt hồi máu 5 lần, mỗi lần hồi cho đồng minh có tỷ lệ máu thấp nhất một lượng bằng 10% Máu tối đa của Họa Tân Thần.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Khi đồng minh kích hoạt [buff_6124], buff khiên [buff_6125] cho đồng minh có tỷ lệ máu thấp nhất trong 2 hiệp.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: Tự động thi triển kỹ năng này lên đồng minh có Tấn công cao nhất ngay khi bắt đầu chiến đấu.",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "6122.webp"
+    },
+    {
+      "id": 6123,
+      "number": 3,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 5,
+      "name": {
+        "vi": "Họa Thân Thị Hiện",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Nhận 1 tầng [buff_6121] và tấn công toàn bộ kẻ địch, gây sát thương bằng 14% Máu tối đa của bản thân. Cứ mỗi 3 tầng [buff_6121] đang có, đánh bồi thêm 1 lần sát thương quần thể bằng 20% Máu tối đa. (Tổng sát thương do Họa Tân Thần gây ra không vượt quá 900% Tấn công ban đầu của bản thân).",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Sát thương tăng lên 16%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Sát thương tăng lên 18%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Sát thương tăng lên 20%",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Sau khi đồng minh kích hoạt [buff_6124], tiêu hao 3 Quỷ hỏa để lập tức thi triển kỹ năng này (Giới hạn 1 lần trước khi bắt đầu hiệp của bản thân).",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "orbCost": 3,
+      "iconFile": "6123.webp"
+    }
+  ],
+  "assets": {
+    "portraitFile": "612.png",
+    "headIconFile": ""
+  }
+}

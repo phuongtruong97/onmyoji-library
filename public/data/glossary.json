@@ -7278,5 +7278,75 @@
       "zh": ""
     },
     "iconFile": ""
+  },
+  "buff_6121": {
+    "kind": "buff",
+    "title": {
+      "vi": "Ách Mệnh",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Tối đa 7 tầng, mỗi tầng tăng 7% Tốc độ và 30 điểm Phòng thủ cho toàn bộ phe ta. Hiệu quả này được nhân đôi đối với Họa Tân Thần, vật triệu hồi của ngài và người đang mang Kiển Hóa.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_6122": {
+    "kind": "buff",
+    "title": {
+      "vi": "Kiển Hóa",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Khi đến lượt hành động, người mang sẽ mất 50% Máu hiện tại, bù lại Sát thương tăng 40%. Nếu người mang đánh bại một kẻ địch (không tính vật triệu hồi), ấn ký bị xóa và người mang nhận 25% toàn bộ chỉ số của mục tiêu đó (tối đa không vượt quá 100% chỉ số gốc của bản thân) trong 2 hiệp. Nếu người mang bị hạ gục hoặc hết thời gian duy trì, biến người mang thành [buff_6123].",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_6123": {
+    "kind": "buff",
+    "title": {
+      "vi": "Hạt Giống Tai Họa",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "[Vật triệu hồi] Giúp Họa Tân Thần giảm 20% sát thương gánh chịu, kế thừa 100% chỉ số gốc của đồng minh bị biến đổi, miễn nhiễm mọi debuff. Khi đến lượt sẽ tự động tung đòn đánh (giới hạn 3 lần trước khi tới lượt của Họa Tân Thần). Đồng minh bị biến đổi được xem như đã chết và vĩnh viễn không thể hồi sinh.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_6124": {
+    "kind": "buff",
+    "title": {
+      "vi": "Yêu Thuật Phản Kích",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Sau khi nhận sát thương, không tốn hỏa tung yêu thuật phản kích lại nguồn gây sát thương (sát thương giảm 30%). Cuối hiệp nếu vẫn còn số lần phản kích, tự động kích hoạt vào kẻ địch đã chọn ở kỹ năng trước đó.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
+  },
+  "buff_6125": {
+    "kind": "buff",
+    "title": {
+      "vi": "Họa Hoa Chi Hữu",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Hấp thụ sát thương bằng 15% Máu tối đa của Họa Tân Thần, không thể bị xua tan",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
   }
 }

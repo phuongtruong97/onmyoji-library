@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "source": "manual_excel",
-  "count": 269,
+  "count": 270,
   "heroes": [
     {
       "id": 593,
@@ -796,6 +796,21 @@
       "assets": {
         "portraitFile": "607.png",
         "headIconFile": "607a.webp"
+      }
+    },
+    {
+      "id": 612,
+      "name": {
+        "vi": "Lung Mộng Họa Tân Thần",
+        "en": "",
+        "zh": "笼梦祸津神"
+      },
+      "rarity": "SP",
+      "tier": "SP",
+      "sex": "f",
+      "assets": {
+        "portraitFile": "612.png",
+        "headIconFile": ""
       }
     },
     {
