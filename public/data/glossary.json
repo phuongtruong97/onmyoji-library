@@ -7287,11 +7287,11 @@
       "zh": ""
     },
     "description": {
-      "vi": "Tối đa 7 tầng, mỗi tầng tăng 7% Tốc độ và 30 điểm Phòng thủ cho toàn bộ phe ta. Hiệu quả này được nhân đôi đối với Họa Tân Thần, vật triệu hồi của ngài và người đang mang Kiển Hóa.",
+      "vi": "Tối đa 7 tầng, mỗi tầng tăng 7% Tốc độ và 30 điểm Phòng thủ cho toàn bộ phe ta. Hiệu quả này được nhân đôi đối với Họa Tân Thần, vật triệu hồi và người đang mang Kiển Hóa.",
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "buff_6121.webp"
   },
   "buff_6122": {
     "kind": "buff",
@@ -7315,7 +7315,7 @@
       "zh": ""
     },
     "description": {
-      "vi": "[Vật triệu hồi] Giúp Họa Tân Thần giảm 20% sát thương gánh chịu, kế thừa 100% chỉ số gốc của đồng minh bị biến đổi, miễn nhiễm mọi debuff. Khi đến lượt sẽ tự động tung đòn đánh (giới hạn 3 lần trước khi tới lượt của Họa Tân Thần). Đồng minh bị biến đổi được xem như đã chết và vĩnh viễn không thể hồi sinh.",
+      "vi": "Nếu người mang [buff_6122] bị hạ gục hoặc hết thời gian duy trì, biến người mang thành [buff_6123].\nGiúp Họa Tân Thần giảm 20% sát thương gánh chịu, kế thừa 100% chỉ số gốc của đồng minh bị biến đổi, miễn nhiễm mọi debuff. Khi đến lượt sẽ tự động kích hoạt kỹ năng [Họa Kiển Bác Thực] (giới hạn 3 lần trước khi tới lượt của Họa Tân Thần). \nĐồng minh bị biến đổi được xem như đã chết và vĩnh viễn không thể hồi sinh.",
       "en": "",
       "zh": ""
     },
@@ -7333,7 +7333,7 @@
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "buff_6124.webp"
   },
   "buff_6125": {
     "kind": "buff",
@@ -7347,6 +7347,6 @@
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "Buff52.webp"
   }
 }

@@ -105,7 +105,7 @@
           }
         }
       ],
-      "orbCost": 3,
+      "orbCost": 0,
       "iconFile": "6121.webp"
     },
     {
@@ -125,7 +125,7 @@
         "zh": ""
       },
       "description": {
-        "vi": "Hiệu ứng duy nhất. Bắt đầu hiệp, tự động giải trừ hiệu ứng khống chế của bản thân. Khi một đồng minh kích hoạt [buff_6124], Họa Tân Thần nhận 2 tầng [buff_6121].\n[Thi triển] Chỉ định 1 đồng minh (trừ bản thân) nhận 2 lần [buff_6124] và gắn ấn ký [buff_6122] lên mục tiêu đó, duy trì 3 hiệp.",
+        "vi": "[tips_11]\nBắt đầu hiệp, tự động giải trừ hiệu ứng khống chế của bản thân. Khi một đồng minh kích hoạt [buff_6124], Họa Tân Thần nhận 2 tầng [buff_6121].\n[Thi triển] Chỉ định 1 đồng minh (trừ bản thân) nhận 2 lần [buff_6124] và gắn ấn ký [buff_6122] lên mục tiêu đó, duy trì 3 hiệp.",
         "en": "",
         "zh": ""
       },
@@ -165,6 +165,31 @@
       ],
       "orbCost": 3,
       "iconFile": "6122.webp"
+    },
+    {
+      "id": 6124,
+      "number": 2,
+      "variantOrder": 0,
+      "parentSkillId": null,
+      "maxLevel": 1,
+      "name": {
+        "vi": "Họa Kiển Bác Thực",
+        "en": "",
+        "zh": ""
+      },
+      "intro": {
+        "vi": "",
+        "en": "",
+        "zh": ""
+      },
+      "description": {
+        "vi": "Kỹ năng được sử dụng bởi đơn vị triệu hồi [buff_6123]\nLập tức nhận 1 điểm Quỷ hỏa. \nTấn công toàn bộ phe địch, gây sát thương bằng 100% Tấn Công và bỏ qua ngự hồn. Khiến Lung Mộng Họa Tân Thần nhận thêm 1 tầng [buff_6121]",
+        "en": "",
+        "zh": ""
+      },
+      "upgrades": [],
+      "orbCost": 0,
+      "iconFile": "6124.webp"
     },
     {
       "id": 6123,
@@ -227,6 +252,6 @@
   ],
   "assets": {
     "portraitFile": "612.png",
-    "headIconFile": ""
+    "headIconFile": "612a.webp"
   }
 }
