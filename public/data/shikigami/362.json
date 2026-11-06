@@ -125,7 +125,7 @@
         "zh": "凛风吹过之处，万物冰结。"
       },
       "description": {
-        "vi": "[tips_11]\nGiúp toàn bộ phe ta tăng 30% Phòng thủ. Sau khi lượt của phe ta và phe địch không phải vật triệu hồi kết thúc, Thiền Băng Tuyết Nữ kết ra 1 đóa [buff_3621_1]. Khi Thức Thần phe ta ngoại trừ bản thân chịu sát thương chí tử, chiếm giữ vị trí cũ dưới dạng ngưng kết, coi như đã Tử Trận.\n[Thi triển] Khi trên sân có Thức Thần phe ta ở dạng ngưng kết, hồi sinh tất cả Thức Thần phe ta ở dạng ngưng kết, [tips_20] lượng HP bằng HP tối đa của họ. Sau khi thi triển thay thế kỹ năng thành [Xuân Cáo].",
+        "vi": "[tips_11]\nGiúp toàn bộ phe ta tăng 30% Phòng thủ. Sau khi lượt của phe ta và phe địch không phải vật triệu hồi kết thúc, Thiền Băng Tuyết Nữ kết ra 1 đóa [buff_3621_1]. Khi Thức Thần phe ta ngoại trừ bản thân chịu sát thương chí tử, chiếm giữ vị trí cũ dưới dạng ngưng kết, coi như đã Tử Trận.\n[Thi triển] Khi trên sân có Thức Thần phe ta ở dạng ngưng kết, hồi sinh tất cả Thức Thần phe ta ở dạng Ngưng Kết, [tips_20] lượng HP bằng HP tối đa của họ, tăng 100% thanh hành động cho đơn vị được chọn. Sau khi thi triển thay thế kỹ năng thành [Xuân Cáo].",
         "en": "[tips_11]\nIncreases the DEF of all allies by 30%. At the end of a turn (either an ally's or an enemy's; not counting summoned entities), Frosty Yuki Onna creates a [buff_3621_1]. When an ally shikigami other than herself takes lethal damage, they become Bound in Ice to occupy their original position, but are regarded as KO'd.\nActive skill: If there's an ally shikigami Bound in Ice on the battlefield, revives all shikigami Bound in Ice and [tips_20]s their HP to full. After using the skill, it is changed to Spring's Arrival.",
         "zh": "[tips_11]。\n使友方全体提升30%防御。非召唤物的友方和敌方回合结束后，蝉冰雪女结出1朵[buff_3621_1]。除自身外的友方式神受到致命伤害时，以凝结形态占据原位置，视为已经阵亡。\n【施放】场上有凝结形态的友方式神时，复活所有凝结形态的友方式神，[tips_20]其最大生命的血量。施放后将技能替换为「春告]。"
       },
@@ -141,7 +141,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Mỗi khi có 1 đồng minh ở dạng ngưng kết, Tốc độ tăng 50 điểm",
+            "vi": "Mỗi khi có 1 đồng minh ở dạng ngưng kết, Tốc Độ tăng 50 điểm",
             "en": "Each ally Bound in Ice increases her SPD by 50.",
             "zh": "每有1个凝结形态的友方，速度增加50点"
           }
@@ -183,7 +183,7 @@
         "zh": "山巅的冰雪，不会融化。"
       },
       "description": {
-        "vi": "Hóa thành ngọn giáo băng giá buốt xâm nhập mục tiêu kẻ địch, gây sát thương bằng 100% Tấn công, khiến kẻ đó [tips_3621]. Bản thân nhận [buff_3622_1], nếu mất [buff_3622_1] sẽ kết thúc [tips_3621]. \n[tips_7]: Nhận Thiền Dực.\nKhi phe địch có mục tiêu [tips_3621], không thể thi triển kỹ năng này.",
+        "vi": "Hóa thành ngọn giáo băng giá buốt xâm nhập mục tiêu kẻ địch, gây sát thương bằng 450% Phòng Thủ, khiến kẻ đó rơi vào trạng thái [tips_3621]. Bản thân nhận [buff_3622_1], nếu mất [buff_3622_1] sẽ kết thúc [tips_3621]. \n[tips_7]: Nhận Thiền Dực.\nKhi phe địch có mục tiêu [tips_3621], không thể thi triển kỹ năng này.",
         "en": "Turns into a cold ice lancer to attack 1 enemy, dealing damage equal to 100% of her ATK and causes them to be [tips_3621]. She gains [buff_3622_1]. [tips_3621] ends when she loses [buff_3622_1]. Upper Hand: Gains Thin Ice.\nThe skill cannot be used if there's a [tips_3621] enemy on the battlefield.",
         "zh": "化作凛冽的冰枪侵袭敌方目标，造成攻击100%伤害，使其[tips_3621]。自身获得[buff_3622_1]，若失去[buff_3622_1]则结束[tips_3621]。先机：获得蝉翼。\n敌方存在[tips_3621]目标时，无法施放此技能。"
       },
@@ -199,7 +199,7 @@
         {
           "level": 3,
           "text": {
-            "vi": "Lượng Lá chắn Thiền Dực tăng lên 135% Tấn công",
+            "vi": "Lượng Lá chắn Thiền Dực tăng lên 585% Phòng Thủ",
             "en": "Increases Thin Ice's shield volume to 135% of her ATK.",
             "zh": "蝉翼护盾量增加至攻击135%"
           }

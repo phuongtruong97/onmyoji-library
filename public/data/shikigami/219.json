@@ -67,7 +67,7 @@
         "zh": "这就是本大爷的实力，看好了！"
       },
       "description": {
-        "vi": "Dùng yêu lực điều khiển Hồ Lô Quỷ phun chướng khí tấn công mục tiêu phe địch, gây sát thương bằng 125% Tấn công. Nếu không phải thực hiện phản kích, mỗi tầng [buff_2192_1] tăng 1 lần số lần tấn công.",
+        "vi": "Dùng yêu lực điều khiển Hồ Lô Quỷ phun chướng khí tấn công mục tiêu phe địch, gây sát thương bằng 100% Tấn công. Nếu không phải thực hiện phản kích, mỗi tầng [buff_2192_1] tăng 1 lần tấn công.",
         "en": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击125%伤害。若非进行反击，则每层[buff_2192_1]增加1次攻击次数。",
         "zh": "以妖力操控鬼葫芦喷出瘴气攻击敌方目标，造成攻击125%伤害。若非进行反击，则每层[buff_2192_1]增加1次攻击次数。"
       },
@@ -129,7 +129,40 @@
         "en": "At the end of his action, has a 50% chance of gaining 1 layer of [buff_2192_1]. When he is attacked, has a 25% chance of gaining 1 layer of [buff_2192_1].\n[buff_2192_1] stacks up to 4 layers.",
         "zh": "行动结束时，有50%概率获得1层[buff_2192_1]。受到攻击时，有25%概率获得1层[buff_2192_1]。\n[buff_2192_1]上限4层。"
       },
-      "upgrades": [],
+      "upgrades": [
+        {
+          "level": 2,
+          "text": {
+            "vi": "Mỗi tầng [buff_2192_1] giảm 5% sát thương nhận vào.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 3,
+          "text": {
+            "vi": "Mỗi tầng [buff_2192_1] giảm 10% sát thương nhận vào.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 4,
+          "text": {
+            "vi": "Mỗi tầng [buff_2192_1] giảm 15% sát thương nhận vào.",
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "level": 5,
+          "text": {
+            "vi": "Tiên cơ: Nhận 2 tầng [buff_2192_1]",
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
       "orbCost": 0,
       "iconFile": "2192.webp"
     },
@@ -150,7 +183,7 @@
         "zh": "本大爷还会变得更强！哈哈哈！"
       },
       "description": {
-        "vi": "Bùng nổ yêu lực tức thì, hồi phục 30% giới hạn HP, tăng 50% thanh hành động, đồng thời bước vào [buff_2193_1], số lượt duy trì tương đương số tầng [buff_2192_1], đồng thời mất tất cả [buff_2192_1] khi kết thúc hình thái. Ở hình thái này, miễn dịch tất cả [tips_3], đồng thời đính kèm hiệu ứng hút máu cho đòn tấn công.",
+        "vi": "Khi bắt đầu lượt, [tips_1] tất cả [tips_3] của bản thân và nhận 1 tầng [buff_2192_1]\n[Thi triển] Bùng nổ yêu lực tức thì, hồi phục 30% giới hạn HP, tăng 50% thanh hành động, đồng thời bước vào [buff_2193_1] trong 3 lượt. Khi kết thúc lượt bất kỳ, nếu tỉ lệ HP thấp hơn 30% và đang không ở trạng thái [buff_2193_1], lập tức [tips_1] tất cả [tips_3] và thi triển kỹ năng.",
         "en": "Emits a burst of energy, restoring his HP by 30% of his max HP and raising his Move Bar by 50%. He then goes [buff_2193_1] for a number of turns (equal to the layers of [buff_2192_1] he has). All layers of Madness are consumed when his [buff_2192_1] state ends. Under this state, he's immune to all [tips_3]s and his attacks inflict HP Steal.",
         "zh": "瞬间迸发妖力，恢复生命上限的30%，增加50%行动条，并进入[buff_2193_1]，持续回合等同[buff_2192_1]层数，并在型态结束时失去所有[buff_2192_1]。此型态下免疫所有[tips_3]，且攻击附带吸血效果。"
       },

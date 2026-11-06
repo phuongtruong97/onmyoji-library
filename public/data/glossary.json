@@ -142,12 +142,12 @@
   "buff_2192_1": {
     "kind": "buff",
     "title": {
-      "vi": "Cuồng Khi",
+      "vi": "Cuồng Khí",
       "en": "",
       "zh": ""
     },
     "description": {
-      "vi": "Tăng số lần tấn công của [Quỷ Hồ Lô] .",
+      "vi": "Không thể bị giải trừ. Tăng số lần tấn công của [Quỷ Hồ Lô].",
       "en": "Increases Calabash Spray's attack attempts.",
       "zh": "增加 [鬼葫芦] 攻击次数。"
     },
@@ -1855,11 +1855,11 @@
       "zh": "冰花"
     },
     "description": {
-      "vi": "Nếu không ở trạng thái không thể hành động, mỗi tích đủ 6 đóa, kích phát khí cực hàn, gây sát thương gián tiếp không kích hoạt bị động bằng 100% Tấn Công lên các mục tiêu đồng minh và kẻ địch ngoài bản thân.",
+      "vi": "Nếu không ở trạng thái không thể hành động, mỗi tích đủ 6 đóa, kích phát khí cực hàn, gây sát thương gián tiếp không kích hoạt bị động bằng 450% Phòng Thủ lên các mục tiêu đồng minh và kẻ địch ngoài bản thân.",
       "en": "If she is not unable to take actions, she emits an Ice Nova each time she has 6 stacks, dealing indirect damage to all allies and enemies other than herself equal to 100% of her ATK. This doesn't trigger their passive skills.",
       "zh": "若未处于无法动作，每叠加6朵，激发极寒之气，对自身外的友方和敌方目标造成攻击100%的不触发被动的间接伤害。"
     },
-    "iconFile": ""
+    "iconFile": "Buff100.webp"
   },
   "buff_3622_1": {
     "kind": "buff",
@@ -1869,11 +1869,11 @@
       "zh": "蝉翼"
     },
     "description": {
-      "vi": "Lá chắn, không thể xua tan, biến mất trước khi bắt đầu hiệp của Thiền Băng Tuyết Nữ. Có thể hấp thụ sát thương bằng 120% Tấn Công.",
+      "vi": "Lá chắn, không thể xua tan, biến mất trước khi bắt đầu hiệp của Thiền Băng Tuyết Nữ. Có thể hấp thụ sát thương bằng 450% Phòng Thủ",
       "en": "A shield that cannot be dispelled. Fails at the start of Frosty Yuki Onna's turn. Absorbs damage equal to 120% of her ATK.",
       "zh": "护盾，不可驱散，蝉冰雪女回合开始前消失。能吸收攻击120%的伤害。"
     },
-    "iconFile": ""
+    "iconFile": "Buff101.webp"
   },
   "buff_3632_1": {
     "kind": "buff",
@@ -5303,7 +5303,7 @@
       "en": "Unable to take actions until Frosty Yuki Onna's next turn. Cannot be reflected back, dispelled, or removed.",
       "zh": "直至蝉冰雪女下个回合开始前无法动作。无法被反弹、驱散和解除。"
     },
-    "iconFile": ""
+    "iconFile": "Debuff64.webp"
   },
   "tips_3673": {
     "kind": "tip",
@@ -6064,7 +6064,7 @@
   "buff_6082_1": {
     "kind": "buff",
     "title": {
-      "vi": "Đóa Hoa Bàn Trường",
+      "vi": "Hoa Bàn Trường",
       "en": "",
       "zh": ""
     },
@@ -6073,7 +6073,7 @@
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "buff_6082_1.webp"
   },
   "buff_6082_2": {
     "kind": "buff",
@@ -6269,7 +6269,7 @@
       "en": "",
       "zh": ""
     },
-    "iconFile": "Unique30.webp"
+    "iconFile": "Unique46.webp"
   },
   "buff_3793_1": {
     "kind": "skill",
@@ -6335,8 +6335,8 @@
       "zh": ""
     },
     "description": {
-      "vi": "Tăng 33% sát thương.",
-      "en": "Increases damage by 33%.",
+      "vi": "Tối đa 3 tầng, mỗi tầng tăng hệ số sát thương của Hắc Diễm và Địa Ngục Chi Thủ thêm 100%. Khi đạt đủ số tầng tối đa, bản thân sẽ miễn nhiễm với đòn sát thương chí tử đầu tiên phải nhận.",
+      "en": "Tối đa 3 tầng, mỗi tầng tăng hệ số sát thương của Hắc Diễm và Địa Ngục Chi Thủ thêm 100%. Khi đạt đủ số tầng tối đa, bản thân sẽ miễn nhiễm với đòn sát thương chí tử đầu tiên phải nhận.",
       "zh": "提升33%伤害。"
     },
     "iconFile": "Buff23.webp"
@@ -6405,7 +6405,7 @@
       "zh": ""
     },
     "description": {
-      "vi": "Miễn nhiễm sát thương, tăng 30% sát thương và 30 điểm Tốc độ.\nKhi ấn ký này biến mất, người sở hữu sẽ bị chuyển hóa thành Xà Ma, Xà Ma kế thừa toàn bộ thuộc tính của người đó và nhận thêm 20% toàn bộ thuộc tính của Bát Kỳ Đại Xà.",
+      "vi": "Miễn nhiễm sát thương, tăng 30% sát thương và 30 điểm Tốc độ.\nKhi ấn ký này biến mất, người sở hữu sẽ bị chuyển hóa thành Xà Ma, Xà Ma kế thừa toàn bộ thuộc tính của người đó và nhận thêm 20% toàn bộ thuộc tính của Bát Kỳ Đại Xà.\nKhi đồng minh sở hữu Bất Khiết Chi Lực hạ gục một mục tiêu kẻ địch, chuyển hóa mục tiêu kẻ địch thành Xà Ma",
       "en": "Gains immunity from damage and increases its damage and SPD by 30% and 30, respectively.\nWhen the mark disappears, its owner is transformed into a naga. The naga inherits all the stats of the mark owner plus 20% of all the stats of Orochi.",
       "zh": "免疫伤害，提升30%伤害和30点速度。\n此印记消失时，拥有者将被转化为蛇魔，蛇魔继承其所有属性并额外附加八岐大蛇20%所有属性。"
     },
@@ -6983,7 +6983,7 @@
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "buff_6072_1.webp"
   },
   "buff_6072_2": {
     "kind": "buff",
@@ -6997,7 +6997,7 @@
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "Buff52.webp"
   },
   "buff_6072_3": {
     "kind": "buff",
@@ -7011,7 +7011,7 @@
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "buff_6072_2.webp"
   },
   "buff_5841_2": {
     "kind": "buff",
@@ -7263,7 +7263,7 @@
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "buff6101.webp"
   },
   "buff_6101_2": {
     "kind": "buff",
@@ -7277,7 +7277,7 @@
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "buff6102.webp"
   },
   "buff_6121": {
     "kind": "buff",
@@ -7305,7 +7305,7 @@
       "en": "",
       "zh": ""
     },
-    "iconFile": ""
+    "iconFile": "buff_6122.webp"
   },
   "buff_6123": {
     "kind": "buff",
@@ -7348,5 +7348,19 @@
       "zh": ""
     },
     "iconFile": "Buff52.webp"
+  },
+  "buff_26531_2": {
+    "kind": "buff",
+    "title": {
+      "vi": "Hành Quyết",
+      "en": "",
+      "zh": ""
+    },
+    "description": {
+      "vi": "Giảm HP tối đa của mục tiêu xuống còn 1, đồng thời gây thêm một lượng sát thương bằng 325% Tấn Công lên mục tiêu. Lượng sát thương này không thể bị hấp thụ, miễn nhiễm hoặc chia sẻ.",
+      "en": "",
+      "zh": ""
+    },
+    "iconFile": ""
   }
 }
